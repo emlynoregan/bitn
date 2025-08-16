@@ -35,6 +35,7 @@ topics:
 - public works
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. A meeting was held at the Aberdeen Hotel on 16 Feb. with J.D. Cave in the chair to consider the water supply question. Henry Dawson ran back over the events leading up to the present situation: Rosman's motion for a trough at the Railway Station gate, The committee to see to the erection of the trough and the collection of subscriptions, Ridgway's motion to extend the supply down Morehead St, Young St and Best's Place.

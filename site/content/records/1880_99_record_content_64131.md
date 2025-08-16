@@ -21,6 +21,7 @@ topics:
 - lectures
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Helen Hart will be in Burra for a few days and will deliver one or more of her popular lectures.

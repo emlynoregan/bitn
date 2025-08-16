@@ -19,6 +19,7 @@ topics:
 - crop
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Season is looking quite reasonable, even as far as three miles east of the range, but beyond that there will be no crop, or virtually none.

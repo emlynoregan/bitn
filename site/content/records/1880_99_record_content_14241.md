@@ -19,6 +19,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.H. Forder writes urging the establishment of a sugar beet industry in the district.

@@ -18,6 +18,7 @@ topics:
 - legal
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.P. Nesbit to take the necessary action to rectify.

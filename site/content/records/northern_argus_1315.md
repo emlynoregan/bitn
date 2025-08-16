@@ -26,6 +26,7 @@ topics:
 - reserve
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Redbanks.  The Minister of Recreation & Sport has declared a portion of Redbanks Reserve designated for off-road recreational vehicles.  150 ha of the 1,000 ha reserve is designated for a two year trial and if the trial is a success more reserves of a similar nature may be designated throughout the state.  The Redbanks Reserve is to be leased to the Burra Burra DC.

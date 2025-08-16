@@ -18,6 +18,7 @@ topics:
 - show
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Saddleworth Show is reported in 1½ columns.

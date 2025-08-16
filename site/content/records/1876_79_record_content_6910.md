@@ -18,6 +18,7 @@ topics:
 - public works
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Expenditure on public works has been just over £1,000 for the year and the cemetery fund has been repaid £156. Indebtedness is now a little less than on 1 January, but no further works are to take place except those already ordered.

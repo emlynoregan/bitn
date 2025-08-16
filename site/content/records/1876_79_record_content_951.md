@@ -19,6 +19,7 @@ topics:
 - road
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra-Sod Hut Road is very dangerous at night due to the pieces of transverse fencing, which are almost invisible.  Some whitewash would help. The road is narrow and only a little deviation from the centre would cause a vehicle to collide with a fence.

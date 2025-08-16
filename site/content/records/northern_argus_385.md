@@ -17,6 +17,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Scouts & Cubs bottle drive on 6 December.

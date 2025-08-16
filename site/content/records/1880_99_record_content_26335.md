@@ -21,6 +21,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  On Saturday a pair of ponies and a trap belonging to Messrs Drew & Co. were left briefly outside Mr Charles Drew’s gate on Limestone Hill.  Something startled them and they bolted down the hill and at the bottom were unable to turn the corner and ran into Dr Sangster’s garden opposite.  The horses cleared the fence and dragged the trap after them before stopping.  Though smashing the fence neither horses nor trap were injured.

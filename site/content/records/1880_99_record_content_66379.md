@@ -23,6 +23,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roach will visit soon and give an illustrated lecture on 26 June with over 120 views of his trip last year to Norway.  Mr Adamson’s lantern will be used – said to be the finest in the colonies.  In aid of Burra Benevolent Society.

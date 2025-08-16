@@ -26,6 +26,7 @@ topics:
 - ratepayers
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 And what of Cr Ridgway’s work on the Waterworks Committee and his discovery of how badly the town was treated there?  I hope the Ward’s ratepayers will do the honourable thing and remove this stain and thank their Councillors for the work done, especially Cr Ridgway.

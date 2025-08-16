@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hydraulic Department replied that the Waterworks could be done for the estimated costs.  New pumps and an engine were included.  It would not be advisable to lay on water from the present system without fixing meters to the Aberdeen troughs.

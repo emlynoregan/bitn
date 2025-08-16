@@ -24,6 +24,7 @@ topics:
 - capture
 - zoo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Carpet Snake 9’6” long and 16” in girth has been captured by Messrs J.C. Sandland & A. McBride at Amphitheatre, 23 miles east of Burra, and sent to the Adelaide Zoo.

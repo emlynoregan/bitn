@@ -26,6 +26,7 @@ topics:
 - royalties
 - land grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Royalties – The SA Mining Company Protests.  (From the SA Gazette, 3 October.)

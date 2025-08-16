@@ -19,6 +19,7 @@ topics:
 - policy
 - regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sunday Closing will come into force in Burra on Sunday next.

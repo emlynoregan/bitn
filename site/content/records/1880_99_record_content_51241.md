@@ -20,6 +20,7 @@ topics:
 - anniversary
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary was held on 24 & 25 September.  Rev. Casely was the main preacher.  The service of song was held on Monday.  The debt on the church, hall and parsonage has been reduced to £86.

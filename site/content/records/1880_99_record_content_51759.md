@@ -20,6 +20,7 @@ topics:
 - event
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR.  Those who went to Adelaide have returned after a successful field day.

@@ -21,6 +21,7 @@ topics:
 - club
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club’s 11th race was from Hanson, a distance of c. 7 miles and was flown on 12 September.  Mr E. Crewe’s b. c. h. Constance and m. c. Rattler was first in 9½ min.

@@ -19,6 +19,7 @@ topics:
 - community
 - protest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Sabbatarian’ expressing self-righteous indignation that such ‘an outrage of public feeling should be permitted by those in authority.’ [On the same matter as the preceding.]

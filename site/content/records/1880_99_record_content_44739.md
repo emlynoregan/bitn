@@ -21,6 +21,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bishop of Adelaide to visit Burra 27 March to consecrate St Mary’s Church.

@@ -26,6 +26,7 @@ topics:
 - awards
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Show Society. (The Burra & North-East Agricultural, Horticultural & Floricultural Society) The Burra Show was held on Thursday 24 September 1885 at the Yards of the English and Australian Copper Company.  There were fears it would fail due to the poor season and general depression of trade, but sheep were in force and pigs were creditable.  Horses were not numerous and cattle even fewer than usual.  Poultry was good, but down in both quality and quantity on last year.  Dogs, especially kangaroo dogs, were well represented.  Dairy produce was well represented, but flowers were few, though of high quality, as were the fruit and vegetables.  Roach’s flour from the roller mills is unequalled for quality in the colonies.  Sara & Dunstan’s bricks were also worth their prize as was A. Bartholomæus’ bone Dust.  W. Henderson & Co. won the prize for a buggy.

@@ -19,6 +19,7 @@ topics:
 - business
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy said the auction business could pay 8% dividend. [Implying they could easily afford the £10 annual fee.]

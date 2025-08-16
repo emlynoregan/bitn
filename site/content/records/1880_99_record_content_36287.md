@@ -20,6 +20,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election.  Results from other districts are printed.  The former Member for Burra, W.B. Rounsevell headed the count in Pt Adelaide.

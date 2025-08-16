@@ -20,6 +20,7 @@ topics:
 - government
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Perry, has been in Govt. employment for upwards of 30 years, 29 of them in Burra, is not to leave the district and though no longer keeping his appointment we hear the Govt. will build him a house near the jail.

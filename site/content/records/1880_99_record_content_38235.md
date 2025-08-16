@@ -20,6 +20,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer argues against the view that the town is in permanent decline.  The mine is silent, but may not always be so.  Also all sorts of other minerals surround the town: copper, manganese, marble, silver, fire clay.  Beyond that is the pastoral industry and agriculture, both of which are presently promising.  We have two first-class flour mills and provide the Barrier with fresh milk for breakfast each morning.  ‘We have every confidence in the town and district.’

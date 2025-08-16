@@ -19,6 +19,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  The Government is issuing passes for unemployed to travel to Hergott Springs to work on the railway for 8/- to 9/- a day piecework.  Due to the short notice the six passes arriving on Friday could not be taken up and it is hoped this does not endanger future offers.

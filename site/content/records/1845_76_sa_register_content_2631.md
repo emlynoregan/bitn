@@ -22,6 +22,7 @@ topics:
 - management
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 23 September 1848, page 4

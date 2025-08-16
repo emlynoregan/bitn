@@ -22,6 +22,7 @@ topics:
 - railway
 - loss
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Austin lost a valuable horse when it strayed onto the Bon Accord crossing on Wednesday morning and was struck by the luggage train from Terowie.

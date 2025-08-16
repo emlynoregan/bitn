@@ -20,6 +20,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 P.G. West said the lodge had been founded on 4 August 1858 and flourished until the population had to leave when the Mine ceased working.  Even though many members had left and the call on their funds had been serious, they had met all payments without assistance and they had distributed £1,190 as sick relief since their foundation as well as various grants to distressed brethren or their families.  Of late there had been a considerable number of initiations and there were 100 members and several applicants.  The value of funds and property was £625.

@@ -25,6 +25,7 @@ topics:
 - education
 - TAFE
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Damian [sic] Quinn of Mt Bryan, 16-year-old son of Jim & Rosemary Quinn, has been awarded a Sir Charles Bright Scholarship for $550 – the first country recipient of such an award.  The scholarships are available to handicapped people and three were awarded this year.  Damien [sic] is profoundly deaf and until last year was a student at BCS.  In his Year 12 studies he received ‘A’ in both technology subjects.  The scholarship will enable him to continue TAFE studies towards a welding certificate.  Premier John Bannon presented the cheque on 4 March.

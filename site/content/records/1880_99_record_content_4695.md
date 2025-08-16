@@ -21,6 +21,7 @@ topics:
 - debt
 - household finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Cash’ complaining of the prevalent custom in Burra, but not in the city, of paying workmen monthly instead of weekly.  It makes the paying of cash for household goods virtually impossible and leads to undesirable indebtedness.

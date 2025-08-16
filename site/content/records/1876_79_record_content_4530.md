@@ -23,6 +23,7 @@ topics:
 - coach
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. Opie’s coach capsized on the road at Canowie Station between Jamestown and Hallett on Wednesday and the driver Mr J. Opie dislocated his ankle. The 14 or 15 passengers were uninjured — it was only going at a walking pace at the time.

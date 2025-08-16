@@ -20,6 +20,7 @@ topics:
 - larrikinism
 - public debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  ‘A Wanderer’ defends his views on the larrikin element in Market Square.

@@ -21,6 +21,7 @@ topics:
 - irrigation
 - electoral_reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holder did not favour expenditure on railways etc. to develop outlying areas at the expense of the more closely settled districts now lacking services as the best country in SA was still only partly utilised.  The burden of taxation should fall on city lands which are the best able to pay.  He favoured the sale of leases becoming due in 1888 and irrigation works.  He favoured single member electorates as multiple ones as now had members voting against each other in Parliament, which had the effect of disenfranchising the electorate.

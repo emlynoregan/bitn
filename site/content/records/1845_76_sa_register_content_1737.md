@@ -21,6 +21,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Burra Burra Mine.  Employment can be obtained for any number of drays in carting ore from the above mine to Port Adelaide.  Henry Ayers, Secretary.

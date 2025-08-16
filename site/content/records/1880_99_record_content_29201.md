@@ -19,6 +19,7 @@ topics:
 - community
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The Government has offered to grant a £ for £ subsidy to Institutes which have educational classes.  What about the maintenance of a public reading room asks the Burra Committee.

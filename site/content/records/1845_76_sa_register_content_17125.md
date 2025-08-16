@@ -34,6 +34,7 @@ topics:
 - fire
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An inquest was held at the Miners’ Arms before Mr Marshall MacDermott SM on the fire at W.H. Stanbury’s store on 26 January with J. Winnall as foreman of the jury.

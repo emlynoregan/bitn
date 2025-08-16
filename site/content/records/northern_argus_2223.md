@@ -23,6 +23,7 @@ topics:
 - museum
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Merino Studs.  A short article is reprinted from the Burra Centenary Souvenir of 1945.  Another extract from the same source describes Burra’s annual off-shears sales.

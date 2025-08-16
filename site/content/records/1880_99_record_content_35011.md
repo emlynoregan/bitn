@@ -18,6 +18,7 @@ topics:
 - editorial
 - year in review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial farewelling 1889 without many regrets.  It was a harsh year, yet not all was gloom and some have prospered.  It was a bad year in Ireland.  A birth of hope with the New Year is described in somewhat purple prose or at least in rather flowery writing.

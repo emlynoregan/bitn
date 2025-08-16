@@ -19,6 +19,7 @@ topics:
 - technology
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.   There is a report on an invention by a Mr Scott to allow vehicles to transfer from one railway gauge to another.  [This was in effect an automated bogy-exchange system.]

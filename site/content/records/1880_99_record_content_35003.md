@@ -17,6 +17,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arrive 4.16 p.m.	Depart 4.21 p.m.

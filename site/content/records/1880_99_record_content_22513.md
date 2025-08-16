@@ -18,6 +18,7 @@ topics:
 - football
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  (by ‘Quiz’)  On Saturday 14 Blues turned up to face the Allcomers who mustered an average of 24 throughout.  Colours 11.3 defeated Allcomers 1.4.

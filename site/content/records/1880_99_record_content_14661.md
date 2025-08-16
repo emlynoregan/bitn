@@ -24,6 +24,7 @@ topics:
 - imperialism
 - colonies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the annexation race for territories in Africa and Asia being undertaken by France, Germany and Russia, while Great Britain seemed to be asleep.

@@ -23,6 +23,7 @@ topics:
 - government
 - no confidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the political crisis in SA.  The Hon. T. Playford tabled on Tuesday that he would move a motion of no confidence in the Government on the following day.  The dissatisfaction arises from the Government action on the Barrier trade and agreements entered into with several Broken Hill mines for its carriage.  Dr Cockburn says that the Railway Commissioners have been acting without Government knowledge so are the Government to blame for the results?  While not particularly satisfied with the Government we believe they ‘have not had fair play in any sense of the term’.  Indeed ‘attempts have been made to legislate for the people, which have been frustrated by the wily dodges of capitalistic backscratchers, and therefore baulked in their inception.’

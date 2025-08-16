@@ -22,6 +22,7 @@ topics:
 - drills
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  Last week c. 12 went to Riverton under Lieut. G. Butterworth and joined with those from Riverton, Hamley Bridge and Auburn to form a Battalion of c. 65 for two Battalion Drills.

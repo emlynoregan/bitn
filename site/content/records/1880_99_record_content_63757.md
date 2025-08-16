@@ -20,6 +20,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A more detailed account of the Agnes Gully case is printed as a court report.  In it we learn she is ‘over 18’.  Agnes said she used the word ‘blooming’ and her lawyer argued (perhaps facetiously) that in any case ‘It could not be said that the word b_____y was indecent . . . surely Mounted-Constable Jemison’s ‘fat leg’ is not indecent.’

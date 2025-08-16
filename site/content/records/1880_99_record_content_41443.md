@@ -22,6 +22,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mounted Infantry Corps.  Last Friday, 15 May, a meeting of those interested in forming such a body was held at the Commercial Hotel.  Lieut. Downes of the Militia Artillery took the chair.  A committee of the Chairman, Lieut. Watt and Pte Page was appointed to gather names and a meeting next Friday will continue the process.

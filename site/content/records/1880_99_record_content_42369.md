@@ -23,6 +23,7 @@ topics:
 - community
 - tribute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr P. Lane counted Mr Holder as his oldest friend.  He praised Holder’s foresight which was often ahead of his townsmen’s and this meant he had much to contend with in seeing his vision come to fulfilment.  His reward was that many of his opponents now were thankful of his works and that he had come to Burra.  He was diligent, hard working and self-sacrificing and similar sentiments were expressed in speeches from Messrs Linkson, Nevin & Father O’Dowling.

@@ -20,6 +20,7 @@ topics:
 - environment
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth No. 2 Reserve’s trees are growing well despite being pig-muzzled in the ground according to the then Mayor.

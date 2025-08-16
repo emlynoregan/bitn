@@ -18,6 +18,7 @@ topics:
 - community
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.W. Crewes: youngish, probably a cute man of business.  Characteristics not strikingly numerous.  During the week full of the cares of mammon, he seems not particularly pious, but on the Sabbath sometimes ascends the pulpit to expound the scriptures and warn against the sins of drink, bad language and extortion.  His newness will tell against chances of success.

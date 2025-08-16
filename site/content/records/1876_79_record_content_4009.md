@@ -18,6 +18,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. has decided to suspend meetings indefinitely due to a lack of interest.

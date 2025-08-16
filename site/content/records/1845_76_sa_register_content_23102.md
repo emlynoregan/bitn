@@ -18,6 +18,7 @@ topics:
 - events
 - races
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sod Hut Races were held on 27 December 1869 with a large attendance.  There were six races, ending with a Hurryskurry of 12 horses.  [Reported in ⅓ column.]

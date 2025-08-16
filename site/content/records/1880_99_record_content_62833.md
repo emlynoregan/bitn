@@ -21,6 +21,7 @@ topics:
 - entertainment
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Hall Grand Concert on Friday evening was very successful.  Mr J. Roach defrayed the expenses of the city visitors and organised the concert, but was unable to be present himself.  Magic lantern views took up the second part.

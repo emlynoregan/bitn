@@ -22,6 +22,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Picnic Races & Gymkhana on 22 March drew a crowd of c. 700 in perfect weather.  The main race, the Collinsville Cup, was at first declared a no race, but was later re-run.  Club President John Maidment and Secretary Les Saunders said the day grossed $5-6,000.

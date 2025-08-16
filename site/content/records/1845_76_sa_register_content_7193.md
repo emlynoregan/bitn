@@ -19,6 +19,7 @@ topics:
 - mining
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Also the returns of the amount of mortgages on land, the return of Mines and date from pound keepers.

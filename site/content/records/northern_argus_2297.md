@@ -24,6 +24,7 @@ topics:
 - museum
 - archaeology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Bon Accord Mine Site & Museum is entered for a Regional Tourism Award.

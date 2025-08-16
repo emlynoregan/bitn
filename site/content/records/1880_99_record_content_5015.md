@@ -20,6 +20,7 @@ topics:
 - water
 - supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F. Clark & Sons offered to supply a suitable force and lift pump for the Market Square well.  Item to stand over till the well is tested.

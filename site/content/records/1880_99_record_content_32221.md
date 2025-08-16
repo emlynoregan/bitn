@@ -18,6 +18,7 @@ topics:
 - editorial
 - soil
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the depletion of soil productivity by the removal of grain etc.  Weeds like stinkwort should be ploughed in while green to return to earth rather than be burnt and their goodness lost.

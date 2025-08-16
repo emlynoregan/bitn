@@ -19,6 +19,7 @@ topics:
 - education
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  This gives the wording for the three referendum questions to be put on 25 April 1896.

@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Kitson Sen. died on 4 July at his son’s residence at Orroroo, aged 76.  A colonist of 33 years.

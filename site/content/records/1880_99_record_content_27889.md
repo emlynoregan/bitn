@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to the wife of David Anderson at Mt Bryan on 15 February a daughter.  [Ruby Campbell Anderson]

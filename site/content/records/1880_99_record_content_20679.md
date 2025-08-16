@@ -20,6 +20,7 @@ topics:
 - gold
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold has been reported discovered at Oulnina, 5 miles northeast of Manna Hill and 60 claims have already been staked.

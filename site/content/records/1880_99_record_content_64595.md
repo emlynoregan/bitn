@@ -21,6 +21,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cycle Club was formed at a meeting held at Redruth on Wednesday.  About 20 attended.  T.T. Shortridge was chosen Chairman.  The entrance fee is to be 25/- and subscriptions 2/6.  Colours will be navy blue with a blue and white band to the cap.

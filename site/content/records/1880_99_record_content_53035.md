@@ -20,6 +20,7 @@ topics:
 - Mounted Rifles
 - government support
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Burra Military Sports.  With so little Government support it is a wonder the Mounted Rifles continue.  The sports can only infuse more spirit into the force.

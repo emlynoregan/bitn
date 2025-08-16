@@ -18,6 +18,7 @@ topics:
 - banking
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bank of Australasia excitement has abated and on 1 May £9,000 more was deposited than was withdrawn.

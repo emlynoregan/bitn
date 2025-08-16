@@ -18,6 +18,7 @@ topics:
 - gold
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  The excitement is slowly abating, though it is widely thought that more gold has been got than has been revealed.

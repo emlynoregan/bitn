@@ -21,6 +21,7 @@ topics:
 - pests
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are in plague proportions at World’s End and in the Hundreds of Baldina and King.

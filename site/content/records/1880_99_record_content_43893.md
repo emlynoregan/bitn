@@ -18,6 +18,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  The lamp on Henderson’s Bridge has again been broken for the third time in less than three months.

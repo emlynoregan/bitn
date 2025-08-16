@@ -21,6 +21,7 @@ topics:
 - inheritance
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr McCulloch’s will leaves the Princess Royal Estate to Mrs Justice Boucaut.  This comprises about 20,000 acres, said to be worth £100,000.

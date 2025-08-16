@@ -21,6 +21,7 @@ topics:
 - criminal
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The case of Charles Roberts (38) who was charged with stealing £70 from Andrew Freebairn came up, but lack of admissible evidence saw it dismissed.

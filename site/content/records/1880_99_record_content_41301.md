@@ -18,6 +18,7 @@ topics:
 - editorial
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Perhaps the problem with ‘Economist’s letter was the indeterminate tone which made it hard initially to deduce his exact position, though the subsequent correspondence suggests both sides were overly serious.]

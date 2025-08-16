@@ -23,6 +23,7 @@ topics:
 - medical
 - amputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  A gun being handed to Mr Nichols*, who was in his trap at Vivian’s hotel, discharged and shattered his arm on Saturday morning.  Dr Sangster had to amputate it above the elbow and the patient is doing well.

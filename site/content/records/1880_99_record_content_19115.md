@@ -21,6 +21,7 @@ topics:
 - community
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Observer’ noting that deserving as the Adelaide poor are, there are local poor in equally distressing circumstances.

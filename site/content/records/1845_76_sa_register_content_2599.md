@@ -22,6 +22,7 @@ topics:
 - notice
 - industrial dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Directors have issued a Notice concerning this:

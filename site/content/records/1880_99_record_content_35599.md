@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - utilities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  A bonus of £2-17-6 is to be paid to the engineer for extra work done in the hot weather.

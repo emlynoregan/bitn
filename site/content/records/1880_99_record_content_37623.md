@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Peter S. McDonald, manager of the London & American Tailoring Co., advises that he will be moving into the shop lately occupied by Martin Pederson from 2 August.  [This advt. first appeared 1 August.]

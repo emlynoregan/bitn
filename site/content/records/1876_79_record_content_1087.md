@@ -22,6 +22,7 @@ topics:
 - transport
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 C Schutz: Livery and Bait Stables; hiring horses and vehicles Hourly buses Kooringa to Aberdeen.

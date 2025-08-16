@@ -19,6 +19,7 @@ topics:
 - roads
 - kerbing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders are also called for further kerbing - 4 chains near Linkson's.

@@ -20,6 +20,7 @@ topics:
 - drill
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF apparently failed to appear at the Auburn drill on Monday afternoon.

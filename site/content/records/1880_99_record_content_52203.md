@@ -22,6 +22,7 @@ topics:
 - Salvation Army
 - Indian Contingent
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Many turned out in Market Square for the meeting with Major Musa Bhai of the Salvation Army’s Indian Contingent.  Later the meeting at the Barracks was crowded to excess.

@@ -30,6 +30,7 @@ topics:
 - meeting
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting.  This was attended by about 350 people.  The three candidates, Mr Rounsevell, Dr Cockburn and Mr Holder, speak at Jamestown tonight, Yarcowie tomorrow at 2 p.m., Terowie at 7.30 p.m., Mt Bryan on Thursday at 2 p.m., Hallett at 7.30 p.m., Friday they are at Waterloo at 2 p.m. and Manoora at 7.30 p.m. and Monday at Saddleworth at 7.30 p.m.

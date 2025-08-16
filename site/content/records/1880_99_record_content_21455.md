@@ -20,6 +20,7 @@ topics:
 - Salvation Army
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  There was a shameful attack on Tuesday against Mrs Upton, the wife of the Salvation Army Captain, when a rotten egg was thrown into her front room through the partly open front door to their house in Market Square.

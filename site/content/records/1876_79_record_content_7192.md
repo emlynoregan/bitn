@@ -24,6 +24,7 @@ topics:
 - transport
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. Various streets are opened and closed as gazetted for some weeks past.

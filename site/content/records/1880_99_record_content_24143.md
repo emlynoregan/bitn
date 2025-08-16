@@ -24,6 +24,7 @@ topics:
 - organization
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Vivian desires to publicly thank the directors of SAMA for allowing him a rent-free home for life in Thames St, Kooringa.

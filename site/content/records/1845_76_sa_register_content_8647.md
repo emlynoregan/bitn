@@ -23,6 +23,7 @@ topics:
 - mining
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gold Discovery.  Several miners from Burra have gone to test the newly reported discovery of gold at Black Springs*.  A gentleman in the neighbourhood reports seeing them washing stuff, but there are no verifiable report of gold.  [Note that Ian Auhl has added the note that the report was of gold at Black Rock not Black Springs.]

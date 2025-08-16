@@ -20,6 +20,7 @@ topics:
 - coach
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Ford’s four-horse coach continues to run to and from Farrell’s Flat to Clare to meet and return from the train.  1st class ordinary on arrival at Clare at 1 p.m.

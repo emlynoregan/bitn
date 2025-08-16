@@ -27,6 +27,7 @@ topics:
 - sheep
 - saleyards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Elders Pastoral will celebrate the centenary of their sheep sales in Burra this year with records showing the first sale at the present saleyards site was on 25 November 1887 when some 15,000 sheep and 420 cattle were offered.  The two storey Elders office building is now the Tourist Information Centre.  The land for the saleyards was acquired from James Shakes and John Lewis at a cost of £518-15-0.  The original red and blue gum post and rail sheep yards cost £120-16-0.

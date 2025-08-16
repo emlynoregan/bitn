@@ -20,6 +20,7 @@ topics:
 - crime
 - murder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A prisoner has been committed from Clare for the murder of a Burra Miner named William Rule.

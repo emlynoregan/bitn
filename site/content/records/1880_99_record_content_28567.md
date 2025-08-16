@@ -20,6 +20,7 @@ topics:
 - court
 - criminal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grace Everett was committed for trial at the Supreme Court next criminal session.

@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Broken Hill Railway is to be handed over from the contractor this week.

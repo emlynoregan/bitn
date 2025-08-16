@@ -19,6 +19,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. for the Burra Amateur Athletic Club Sports on 11 November 1878.

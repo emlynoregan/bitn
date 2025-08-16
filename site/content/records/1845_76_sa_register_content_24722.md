@@ -21,6 +21,7 @@ topics:
 - gold
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The new rush to Cousins’ Gully, five miles north of Coglin’s Gully has proved successful so far.  Several diggers are getting 1 dwt per bucket.  18 windlasses are in operation with sinking to 20 ft.  Gold has also been got in several places between Coglin’s Gully and the new rush.

@@ -26,6 +26,7 @@ topics:
 - religion
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Julia Farr of Adelaide is on a visit to Burra and addressed St Mary’s Sunday school last Sunday on the Church of England Mission to Melinesians [sic].  She addressed a group of ladies at Mrs E.F. Lockyer’s on Monday afternoon and another assemblage in the schoolroom on Tuesday.  She is the daughter of Rev. Farr, lately Rector of St Luke’s, Adelaide, and has been a missionary some 2½ years.

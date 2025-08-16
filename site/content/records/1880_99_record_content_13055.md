@@ -27,6 +27,7 @@ topics:
 - disorder
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Port Augusta Gossip’ writes on the chaos caused by the new rule that forbids people to enter or leave Salvation Army services except during singing.  The rule is causing more disturbance than the movement of people did.  People have a right to leave a public building when they like.  It is said the gaps between singing are short, but some of the rambling testimonies belie that.

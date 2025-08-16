@@ -20,6 +20,7 @@ topics:
 - transport
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  On Saturday morning Charlie Grow’s cab bolted from the station.  Someone trying to stop the horses caused it to overturn at the Royal Exchange corner.  The horses and harness were not damaged, but the same cannot be said for the cab.

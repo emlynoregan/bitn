@@ -18,6 +18,7 @@ topics:
 - representation
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A political diatribe on his usual theme of the representation of workers in Government etc.

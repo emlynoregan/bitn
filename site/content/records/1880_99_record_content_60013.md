@@ -21,6 +21,7 @@ topics:
 - sale
 - household
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co. will sell on 3 June, for Mr B. Butterworth, who is leaving Burra for Adelaide, his furniture and household effects.

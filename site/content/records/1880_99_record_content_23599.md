@@ -20,6 +20,7 @@ topics:
 - finance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church anniversary on 10 & 11 October at which concern was expressed that the debt of £700 needed to be reduced.

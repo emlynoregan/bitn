@@ -44,6 +44,7 @@ topics:
 - stock
 - implements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  A preliminary notice is given of a sale by the English & Australian Copper Co. of Team Stations, other land and mules, horses, wagons and implements as a result of the railway extensions.

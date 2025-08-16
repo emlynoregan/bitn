@@ -20,6 +20,7 @@ topics:
 - housing
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The McBride Cottages Committee will administer the cottages in Chapel Street and the new ones to be built adjacent to the old Salvation Army Citadel.

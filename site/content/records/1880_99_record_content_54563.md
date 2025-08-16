@@ -21,6 +21,7 @@ topics:
 - school
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arbor Day at the Burra Public School had been deferred, but eventually took place last Wednesday 22 August when about 25 trees were planted, watched by members of the School Board, Burra Corporation and the DC.  W. West, President of the School Board of Advice presided.  A series of prizes were then offered for botanical collection, essays and needlework.

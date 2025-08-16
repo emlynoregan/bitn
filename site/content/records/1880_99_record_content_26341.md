@@ -24,6 +24,7 @@ topics:
 - construction
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Samuel Drew & Co. of Kooringa are having a galvanised iron store erected at Eurowie NSW by John Pearce of Burra.  It will be the largest and most substantial building on the field.

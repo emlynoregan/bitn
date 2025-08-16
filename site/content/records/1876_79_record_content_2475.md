@@ -21,6 +21,7 @@ topics:
 - appointments
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital: Mrs Drysdale appointed Matron at £70 per year and Mr Williams appointed porter at 30/- a week and use of a cottage.

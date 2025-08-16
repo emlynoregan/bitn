@@ -21,6 +21,7 @@ topics:
 - flowers
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3 Everlasting Flowers	1st & 2nd	1 Bulbous or tuberous	1st & 2nd

@@ -21,6 +21,7 @@ topics:
 - library
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Children’s Book Week took on a nautical theme at Burra Community Library with marine decorations and a kayak as centrepiece.

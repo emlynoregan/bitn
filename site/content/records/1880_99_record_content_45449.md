@@ -19,6 +19,7 @@ topics:
 - economy
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The season.  Rain is badly needed in both the agricultural and pastoral areas.  Feed is very scarce.  Harvests were good in 1889 & 1890 and 1891 would have been fair, though late, except for the hailstorm which ruined many crops late in the season.  The price for farm and dairy produce is high now and rising as the drought persists.

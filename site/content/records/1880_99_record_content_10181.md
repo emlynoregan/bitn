@@ -21,6 +21,7 @@ topics:
 - building
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Parliament House.  The Government has accepted the tender of the Kapunda Marble and Building Co. for the first portion of the new Parliament House in Adelaide.

@@ -18,6 +18,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Thomas Piper will preach the following Sunday and at 2.30 p.m. the service of song Little Dot will be rendered.

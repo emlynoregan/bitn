@@ -18,6 +18,7 @@ topics:
 - mining
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine is in full work with large quantities of ore brought to the surface.

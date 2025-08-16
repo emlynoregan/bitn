@@ -19,6 +19,7 @@ topics:
 - meeting
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agricultural Society meeting called for 15 Feb, at J.D. Cave's.

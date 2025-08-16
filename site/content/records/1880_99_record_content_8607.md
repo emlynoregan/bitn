@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Superintending Surveyor, Mr Duffy, has unexpectedly resigned, effective 31 January 1883, because he has been appointed Engineer of Roads and Bridges in Tasmania.

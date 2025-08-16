@@ -27,6 +27,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Races.  These were run last Wednesday and Thursday.  On Wednesday it was a holiday in the town with shops closing at 10 a.m.  After that time the road to the racecourse (1½ miles from town) was crammed with every available vehicle.  Upwards of 2,000 are estimated to have attended the first day.  It seemed every publican within 30 miles had a gaily decorated booth. There was a grandstand as well as a judges’ stand and weighing stand.  The band occupied the grandstand and the police arrangements were most excellent under the care of Sergeant Lamb and his men.  E.B. Gleeson was judge and Mr Hallack was the starter.

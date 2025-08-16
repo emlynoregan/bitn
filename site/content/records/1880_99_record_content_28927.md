@@ -27,6 +27,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR in Burra has three lodges: male, female and juvenile with a total membership of c. 300.  The public tea of the 27 June was held in the Institute, where five large tables in the big hall were filled at 4.30 p.m. for two hours.  At 7.30 there was a Monster Temperance Meeting with Dr Brummitt in the chair.  The meeting was addressed by Mr Semmens PDCR and Revs H.T. Burgess & W.H. Hodge (Wesleyan), S. Gray (Primitive Methodist), J. Hancock (Bible Christian) and other temperance enthusiasts.

@@ -19,6 +19,7 @@ topics:
 - death
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 About 18 vehicles and a number of horsemen followed the body of the late James Waite to the cemetery last Sunday.

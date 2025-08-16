@@ -29,6 +29,7 @@ topics:
 - arts
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Gary & Jan Donaldson have opened a gallery in Burra named Cousin Jack’s.  It features arts and crafts from SA ranging from studio pottery by Peter Anderson and Alison Cooper to paintings by local artists Pat Brereton and Ken Field.  Also featured are Margaret Warwick (enamellist), Martin Corbin (wood craftsman) and Peter Hart (coppersmith).  The gallery is situated in an old lodge hall owned by Gary Donaldson.

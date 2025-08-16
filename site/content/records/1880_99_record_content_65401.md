@@ -21,6 +21,7 @@ topics:
 - business
 - adulteration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a current spate of charges against publicans for selling adulterated spirits.

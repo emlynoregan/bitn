@@ -23,6 +23,7 @@ topics:
 - sunstroke
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 One of the two poor men found dead in the north has been identified as a poor half-witted fellow named Henry Dart.  He seems to have been wandering about without any fixed purpose or means of subsistence.  Trooper Ayliffe, who went up to investigate, satisfied himself that the man died from sunstroke and afterwards buried the corpse near where it was found.

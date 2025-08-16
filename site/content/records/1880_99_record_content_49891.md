@@ -18,6 +18,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs West continues to improve and it is expected she will be able to see friends in about a fortnight.

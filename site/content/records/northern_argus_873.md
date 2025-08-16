@@ -23,6 +23,7 @@ topics:
 - heritage
 - planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC at its March meeting adopted the revised traffic management plan for Market Square and Commercial Street.  It was also resolved to consult with the National Trust branch over the selection of lighting before making a decision to reduce the number of lighting poles from 25 to 16.

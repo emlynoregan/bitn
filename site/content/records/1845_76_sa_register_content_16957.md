@@ -25,6 +25,7 @@ topics:
 - real estate
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Today at 11 o’clock Green & Wadham will auction Graham’s Castle; the handsome family residence in Prospect Village, located on allotments 6, 8, 29, 31, 33 and 35 and portion of 4 and comprising in all 50 acres or thereabouts.

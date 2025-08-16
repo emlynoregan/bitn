@@ -20,6 +20,7 @@ topics:
 - church
 - Sunday school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bible Christian Sunday School will hold a Grand Concert in the schoolroom on Wednesday 7 November.  The Burra Brass Band will attend and proceeds will go towards new seats, lamps, etc. for the school.

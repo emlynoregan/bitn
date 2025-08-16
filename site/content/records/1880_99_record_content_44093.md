@@ -22,6 +22,7 @@ topics:
 - morals
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another cryptic reference says ‘The Burra correspondent of the Jamestown paper says that some of our high flown nabobs have been living in the black slums of immoral life and now he finds them paying the penalty, walking sticks being the order of the day.’

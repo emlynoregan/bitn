@@ -20,6 +20,7 @@ topics:
 - lodge
 - funds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Lodge IOR revealed a loss for the year of £11-8-0, due to an increase in sick pay of £5-6-8 combined with a drop in contributions of £40-11-10 and a fall in interest of £50-12-6.  Despite this the total worth of funds was £5,462-13-11 compared with £5,257-16-0 at the same time last year.

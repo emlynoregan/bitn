@@ -21,6 +21,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Rounsevell MP has been asking questions about cattle loading at Burra station and a report on needs has been called for.

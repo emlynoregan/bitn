@@ -21,6 +21,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At Mt Bryan on 25 December Mt Bryan 3 for 92 defeated Mt Bryan East 83.

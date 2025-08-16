@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton now has two coaches a week and the last two carried 14 or 15 passengers each.

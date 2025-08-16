@@ -21,6 +21,7 @@ topics:
 - uniforms
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 VF Uniforms.  A meeting in Adelaide with delegates from companies met under Lieut. -Col. Lovely to decide the uniform question.  It was eventually decided a change was needed and would be blue with scarlet facings.  The glengarry should be blue with a silver bugle on scarlet ground and a silver helmet badge.  Present uniforms will be dyed and new facings applies at a cost not >12/6.  The cost of new glengarrys etc. will be 5/-, for a total changeover of 17/6.  The Government will advance ⅔ of the capitation grant for the purpose.  This cannot be done in time for the Queen’s Birthday Review, but hopefully for the Jubilee Exhibition. [Glengarry - a type of cap, higher in the front than the back, of highland origin.]

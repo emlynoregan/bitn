@@ -22,6 +22,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Art, Floral & Industrial Exhibition in aid of the Redruth Wesleyan Church will be held on Wednesday and Thursday the 29 & 30 October.

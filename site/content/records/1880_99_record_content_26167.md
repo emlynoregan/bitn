@@ -17,6 +17,7 @@ topics:
 - infrastructure
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  The new plantings are doing well.

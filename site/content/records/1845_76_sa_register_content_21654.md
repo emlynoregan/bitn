@@ -18,6 +18,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Election matters are very quiet, but it is hard to get anyone to stand.  It is believed both old members will stand, but one is far from popular and would be defeated by any moderate opposition.

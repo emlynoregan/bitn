@@ -21,6 +21,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Mrs Melksham, wife of the Salvation Army Captain in Burra, has been critically ill, but although very weak is somewhat improved and there is now every probability of her recovery.

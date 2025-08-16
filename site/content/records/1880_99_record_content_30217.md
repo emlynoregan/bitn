@@ -19,6 +19,7 @@ topics:
 - trade
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a 1-column report on The Select Committee on The Barrier Trade.

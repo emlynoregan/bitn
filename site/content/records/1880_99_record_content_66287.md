@@ -19,6 +19,7 @@ topics:
 - religion
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.G.M. Murphy, the new incumbent at St Mary’s arrives on Friday with his induction service the same evening.

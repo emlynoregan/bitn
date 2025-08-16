@@ -24,6 +24,7 @@ topics:
 - mining
 - specimens
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Great Exhibition of 1862

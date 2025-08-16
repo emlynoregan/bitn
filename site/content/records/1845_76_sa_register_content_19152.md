@@ -21,6 +21,7 @@ topics:
 - pastoral
 - station
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Averaging the sheep numbers from September 1863 to September 1865 the rent for each sheep is nearly 7d p.a. and the sheep will yield 3½ lb of wool at 7½d per lb.  The rent is thus about 30%.

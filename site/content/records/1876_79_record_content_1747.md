@@ -19,6 +19,7 @@ topics:
 - civil service
 - reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the need for civil service reform as patronage was creeping in to the disadvantage of merit. Entry by examination favoured.

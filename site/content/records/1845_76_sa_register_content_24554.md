@@ -22,6 +22,7 @@ topics:
 - markets
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Copper Prices.  An overestimation of stocks has led to a jump in copper prices.  Its scarcity has seen the price increase by £1 a day without any sign of a decrease in the buyers.

@@ -20,6 +20,7 @@ topics:
 - poisoning
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Messrs Cowper lost 180 sheep last week when they ate a poisonous plant as they were transferred from one part of the station to another.

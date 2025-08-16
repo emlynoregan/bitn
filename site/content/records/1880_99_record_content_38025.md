@@ -18,6 +18,7 @@ topics:
 - publication
 - special edition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Special Telegrams Column suggests there was a special edition on Saturday 13 September 1890

@@ -19,6 +19,7 @@ topics:
 - labour
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Miners are keeping a careful watch on the strike at Wallaroo.  Many have been there and returned unable to obtain wages sufficient to compensate them for the annoyance they had to suffer from the captain who a short time ago was one of themselves.

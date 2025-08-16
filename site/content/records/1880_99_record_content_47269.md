@@ -22,6 +22,7 @@ topics:
 - politics
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday saw its founder, John Dunstan Jun. in the chair on a visit from Broken Hill.  The program was a debate: Did the Holder Government Deserve the Confidence of the House in the Late Crisis?  Yes 35, No 16.

@@ -18,6 +18,7 @@ topics:
 - sport
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Football Club AGM will be held at the Commercial Hotel this evening.

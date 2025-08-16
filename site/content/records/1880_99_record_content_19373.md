@@ -19,6 +19,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society met on Friday 9 October and set 4 November as the date for the 1885 flower show.

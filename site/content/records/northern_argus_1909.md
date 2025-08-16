@@ -23,6 +23,7 @@ topics:
 - agriculture
 - transfer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 John Humphrys has replaced Craig Wissell at Dalgety Bennett Farmers.  Craig has been transferred to Broken Hill.  John comes from Lameroo and has connections to the Humphrys who once farmed in this district.

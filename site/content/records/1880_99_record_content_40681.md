@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A memorial to the Town Council is to be erected opposite the Institute. [i.e. a urinal.]

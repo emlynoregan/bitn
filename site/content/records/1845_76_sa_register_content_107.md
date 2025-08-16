@@ -19,6 +19,7 @@ topics:
 - finance
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Assoc. met and although no business was transacted, it was stated that the bank balance was £1,631-10-6.

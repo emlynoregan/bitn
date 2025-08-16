@@ -23,6 +23,7 @@ topics:
 - police
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pro Bono Publico writes expressing amazement that M-C Jemison should be wasting time on such a trivial matter as Agnes Gully standing on a footpath and talking to others.

@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Jubilee Benevolent Society Grand Concert 22 June. 1/-, 1/6 reserved

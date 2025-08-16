@@ -29,6 +29,7 @@ topics:
 - council
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 D. Rayfield for the Burra Preservation Organisation writes a letter of some 1¾ columns.

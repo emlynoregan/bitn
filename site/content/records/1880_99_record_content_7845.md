@@ -22,6 +22,7 @@ topics:
 - sports
 - matches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Saturday, at Drew & Co., Aberdeen.  A practice match for the men of the three town clubs.  Mr Warburton’s Side 122 defeated Mr Whittick’s Side 121.

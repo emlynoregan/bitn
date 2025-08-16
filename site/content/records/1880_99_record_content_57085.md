@@ -21,6 +21,7 @@ topics:
 - illness
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Uhrlaub has had to postpone his concert at Mt Bryan due to the illness of Mrs Uhrlaub, which it is feared will prove fatal.

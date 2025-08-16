@@ -21,6 +21,7 @@ topics:
 - business
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Packard, solicitor, has moved to the offices adjoining Messrs S. Drew & Co., lately occupied by Mr Akhurst.

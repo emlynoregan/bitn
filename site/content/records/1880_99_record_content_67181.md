@@ -21,6 +21,7 @@ topics:
 - event
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Victoria Park on Saturday H. Goodwin’s Side, 75 defeated E. Davey’s side 51.

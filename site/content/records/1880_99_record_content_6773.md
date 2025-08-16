@@ -21,6 +21,7 @@ topics:
 - public health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the sanitary condition of the town.

@@ -18,6 +18,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS Junior School Sports Day was held last Friday.

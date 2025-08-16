@@ -22,6 +22,7 @@ topics:
 - morality
 - public policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Evangelical Alliance held a meeting in the Baptist Schoolroom in Flinders Street Adelaide on 17 June to consider means to stop the issuing of night permits to publicans, to see hotels closed on Sundays and to repress other immorality.  [Further details are printed.]

@@ -18,6 +18,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s Sunday School held its anniversary this afternoon with a tea and public meeting.

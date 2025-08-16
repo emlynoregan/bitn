@@ -21,6 +21,7 @@ topics:
 - service
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A German service will be held in the old German Chapel at Redruth by Rev. J.E. Hansen on 9 August at 7.15.

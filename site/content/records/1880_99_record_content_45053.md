@@ -20,6 +20,7 @@ topics:
 - tennis
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare Tennis Club visits Burra next Saturday at the court opposite the hospital.

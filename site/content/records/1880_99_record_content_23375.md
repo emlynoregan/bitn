@@ -21,6 +21,7 @@ topics:
 - finance
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan anniversary last Sunday and tea meeting on Monday presided over by T.W. Wilkinson.  The financial statement by F.W. Holder, Treasurer of the Trust, showed that the debt on all premises has been reduced to £505.  The old parsonage is valued at £500 and is let for £40 p.a.

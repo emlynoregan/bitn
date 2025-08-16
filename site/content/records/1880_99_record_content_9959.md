@@ -18,6 +18,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain has at last fallen.  Kooringa had 0.78” Friday, 0.6” Saturday, 0.1” Monday and 0.14” Tuesday, for a total of 1.62”.

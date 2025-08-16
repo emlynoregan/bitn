@@ -24,6 +24,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Sunday School Anniversary services concluded on Monday last with addresses by George Anderson, Rev. J.G. Wright, Rev. G.E. Rowe, Rev. S. Knight and Rev. C. Tresise.  Proceeds were c. £30.

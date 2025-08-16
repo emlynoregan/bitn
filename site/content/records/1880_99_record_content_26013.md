@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Avenue.   The Mayor has decided to extend Jubilee Avenue to Aberdeen, which would increase the cost to about £135 all told.

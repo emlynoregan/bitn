@@ -19,6 +19,7 @@ topics:
 - weights
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Williams	fined 5/- + 10/- costs for using unstamped weights

@@ -18,6 +18,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The show in aid of St Mary’s on Friday night raised about £15.  The farce was greatly enjoyed.

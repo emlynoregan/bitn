@@ -22,6 +22,7 @@ topics:
 - council
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  A letter was sent from F.W. Holder as Town Clerk to the Salvation Army respectfully asking that the Sabbath not be disturbed by parading the streets with a brass band.  The Council had no desire to hinder the work of the Army or to restrict methods of worship.  Nor do they suggest any cessation of music on the Army’s own premises or any they may have at their disposal.

@@ -20,6 +20,7 @@ topics:
 - cards
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti-card player’ writes objecting to cards being played at the Social Club.

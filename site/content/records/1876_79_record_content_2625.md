@@ -22,6 +22,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute meeting called to discuss admitting temperance literature. W. Pearce was ill and asked Dr Stephens to move the motion on his behalf. W. Ridgway moved it be left to the committee. Meeting ended without resolution.

@@ -20,6 +20,7 @@ topics:
 - agriculture
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are an immense problem at Baldina and many farmers are bitter about the failure of some landholders to clear rabbits, so rendering their own efforts futile.  A memorial is being addressed to the Commissioner of Crown Lands to enforce the act.

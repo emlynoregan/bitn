@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - materials
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This is now believed to be in SA and last week a lot of timber and planking was delivered.

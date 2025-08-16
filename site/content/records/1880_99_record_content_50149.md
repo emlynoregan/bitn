@@ -19,6 +19,7 @@ topics:
 - electricity
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper is increasingly in demand for electrical processes and plants for generating electricity, and transmission of it will lead to greater demand in the future.

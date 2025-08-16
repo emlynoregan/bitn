@@ -26,6 +26,7 @@ topics:
 - sports
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Climbing the greasy pole was won by J. Williams who won the 21/- prize, while G. Camp won 10/6 for the 100 yards jumping in sacks. There were no entries for the Jingling in the Ring. Williams and Hall won the 21 yd Quoits match for the prize of 151-, and T. Lavann threw the hammer 59'4" to claim the £1 prize. There were no entries for the Treacle Buns, but C. Parks secured the greasy pig after a hot chase across the church hill. Brakenridge won £2 for the 1.5 mile race. There were various other flat races and jumping events.

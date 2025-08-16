@@ -19,6 +19,7 @@ topics:
 - sanitation
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter complaining that there has been a dead calf in the creek off Chapel St for two days and it is high time it was removed.

@@ -20,6 +20,7 @@ topics:
 - assessment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  A new assessment is being undertaken which is expected to reflect the depreciation in the values of properties.  Vacant lots, previously undervalued, will generally remain the same.

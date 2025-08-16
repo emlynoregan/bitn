@@ -23,6 +23,7 @@ topics:
 - campaign
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Campaign.  G.H. Lake’s supporters met at the Institute last Friday night.

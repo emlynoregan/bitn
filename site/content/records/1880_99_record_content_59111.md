@@ -21,6 +21,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital patients were given an entertainment on 23 December by permission of the Board.  The program is printed.

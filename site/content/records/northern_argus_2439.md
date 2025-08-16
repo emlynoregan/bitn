@@ -22,6 +22,7 @@ topics:
 - heritage
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Enamel Interpretive Signs have been erected around Burra to complement the Key-Hire & Drive Yourself tour of the town.  They were designed by the Department of Mines & Energy and the Department of Tourism assisted with the cost.  [Photo of the Chair of the Burra Mine Management Committee, Helen Stockman with signs on the Mine Hill overlooking Kooringa.]

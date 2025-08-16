@@ -22,6 +22,7 @@ topics:
 - speculation
 - poverty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘PS – I see this morning that four vessels from Port Phillip have brought 200 passengers who intend to go to the goldfields.  They must be surprised to see scores of men walking about Sydney starving.  They are now returning from the mines in hundreds.  They say hundreds there are not earning 1/- per day.  Where one man is fortunate, five hundred are unfortunate.  A great many have also burnt their fingers in speculation.

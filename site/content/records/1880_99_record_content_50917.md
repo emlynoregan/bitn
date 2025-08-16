@@ -22,6 +22,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.G. Wright returned to Burra to preach at the Kooringa Primitive Methodist Church annual effort on 20 August and again on 23 August, after which the public dinner was held.

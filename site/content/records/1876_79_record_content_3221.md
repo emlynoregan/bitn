@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra decided not to repair the road at back of Hallett's Woolshed but to allow the D.C. of Mt Bryan to do so if they wish.

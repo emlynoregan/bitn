@@ -18,6 +18,7 @@ topics:
 - shipping
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Arrivals.  The migrant ship Standard (714 tons) arrived yesterday, having left Plymouth 10 September.

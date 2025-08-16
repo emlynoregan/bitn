@@ -21,6 +21,7 @@ topics:
 - licences
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Butchers’ licences go to Messrs O’Leary, Rabbich, Bromley and Gebhardt.

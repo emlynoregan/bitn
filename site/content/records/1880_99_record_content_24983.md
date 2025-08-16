@@ -26,6 +26,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.H. Forder was the returning officer for the poll in Burra.  F.W. Holder was brought to the Institute Hall in a buggy decorated with flowers and greenery and drawn by about 30 rejoicing electors and preceded by a drag containing the Burra Brass Band playing lively airs.  He was cheered through the streets.  At the hall Holder thanked all for their support and was very pleased to say that the election, though fought hard, ‘had passed without an unkind or personal thing done or said, but the utmost goodwill had been shown’. 

@@ -20,6 +20,7 @@ topics:
 - statistics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on statistics issued by and commented on by Mr Hayter, the Victorian Government statist.

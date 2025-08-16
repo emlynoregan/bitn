@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Booborowie District Council resolved to buy a new road between the Blacksmith’s shop and the Iron Mine Chapel.  Clerk to arrange with owner and get surveyor etc.

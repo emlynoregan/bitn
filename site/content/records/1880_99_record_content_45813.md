@@ -19,6 +19,7 @@ topics:
 - animals
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A disease in fowls at Baldina.  They are dying off in large numbers.

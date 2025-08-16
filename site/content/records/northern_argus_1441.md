@@ -20,6 +20,7 @@ topics:
 - heritage
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 D. Rayfield writes a letter to the editor again bemoaning the desecration of Market Square.

@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Henry Parks’ wife is said to be 28.

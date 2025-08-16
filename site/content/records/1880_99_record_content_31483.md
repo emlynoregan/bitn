@@ -20,6 +20,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved not to pay Mr Packard a retainer for this year.

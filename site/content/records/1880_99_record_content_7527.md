@@ -20,6 +20,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  James Scott Shoeing and General Smith, Thames St, adjoining Hutson’s Wheelwright Shop.

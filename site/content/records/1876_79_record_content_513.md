@@ -25,6 +25,7 @@ topics:
 - medical officer
 - mine surgeon
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [Dr] W.H. Dashwood writes asking the paper to publish a letter of his, sent to the President of the Central Board of Health, Dr Gosse, but of which no notice was taken:

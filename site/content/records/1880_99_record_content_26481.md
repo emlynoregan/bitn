@@ -19,6 +19,7 @@ topics:
 - dispute
 - wharves
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Port Adelaide.  The labour dispute at the wharves is moving towards a resolution.

@@ -20,6 +20,7 @@ topics:
 - anniversary
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday School Anniversary, 28 March.  Rev. James Bickford will preach.  Treat and tea-meeting Monday 29 March.

@@ -22,6 +22,7 @@ topics:
 - transport
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Midwinter	Proprietor of the Quondong Mail from 27 Oct. 1884.  Passengers & Parcels depart Young’s [Burra] Hotel Fridays 1 p.m. and Quondong Monday 9 a.m. to reach Burra Wednesday 3 p.m.

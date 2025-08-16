@@ -21,6 +21,7 @@ topics:
 - climate
 - selectors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina selectors have again asked for another year’s grace in paying money due on their selections as they have sunk all they have in their land and improvements.  They cannot afford to walk off, nor can they pay their debts due to a series of bad seasons.  Previously want of rain had been the problem, but this season looked good till frosts at the time of flowering in November resulted in many empty heads on the stalks, followed by the appearance of rust.  The average yield was 3b/acre, of which seed wheat takes one.  The Govt. has nothing to lose in agreeing, as once given back this land will not soon again be taken up.

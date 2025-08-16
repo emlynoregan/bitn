@@ -32,6 +32,7 @@ topics:
 - inquest
 - jury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 11 February 1876, pages 4 & 5

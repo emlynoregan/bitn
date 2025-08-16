@@ -19,6 +19,7 @@ topics:
 - accident
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  The horse in Drew & Co.’s trolley bolted from near the post office to the right of way next to Mr Parks’ shop where contact with the wall broke the shafts.

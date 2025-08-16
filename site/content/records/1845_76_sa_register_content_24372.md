@@ -25,6 +25,7 @@ places_mentioned:
 topics:
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The Kooringa district has seen 4,000 acres more under crop this season.  The yield was 6 bushels per acre and would have been about 15, but for the grasshoppers that destroyed about 9 bushels per acre in the Hundreds of Kooringa, Kingston, Ayers, Reynolds, Anne, Whyte, Andrews, Bundaleer and Apoinga.

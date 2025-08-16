@@ -21,6 +21,7 @@ topics:
 - retirement
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Short, the Bishop of Adelaide, now in his 79th year, has expressed a wish to retire shortly.

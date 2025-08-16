@@ -20,6 +20,7 @@ topics:
 - advertisement
 - land sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co.  Genuine Clearing Sale for Mr Robert Gemmell who is leaving for Broken Hill.  332 acres of good fenced land and a 4-roomed stone house etc. 13 April.

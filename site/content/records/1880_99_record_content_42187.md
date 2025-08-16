@@ -23,6 +23,7 @@ topics:
 - football
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sandboy’, the sports writer, complains that it is unfair of Burra footballers not to play return matches.  This season they owe return games to Kapunda, Terowie and Petersburg.  Clubs will not come to Burra if this is continued.  The season is virtually over now as the 1st cricket match is announced for next Wednesday.

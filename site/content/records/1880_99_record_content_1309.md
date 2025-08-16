@@ -20,6 +20,7 @@ topics:
 - social behaviour
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  A letter complains of larrikinism in Kooringa.  The writer blames music, the skittle-alley and billiard tables run by publicans, which are all ‘traps for the unwary’.  Parents should be keeping the young folk at home with a good book.  The editor agrees - if not entirely with the good books, at least with the idea of good home amusements.

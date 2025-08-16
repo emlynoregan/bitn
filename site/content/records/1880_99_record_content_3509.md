@@ -23,6 +23,7 @@ topics:
 - services
 - photography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian special services were held last Sunday and Monday.  They were very successful.  Dr Haggar preached.  Rev. Pearce will soon succeed Mr Richards.

@@ -24,6 +24,7 @@ topics:
 - theft
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Hewitson was charged by Thomas Richardson with stealing six sheepskins valued at 15/-, belonging to George Miller of Redan, Mt Gipps.  After some complicated evidence he was found guilty and given one month in Redruth Gaol.

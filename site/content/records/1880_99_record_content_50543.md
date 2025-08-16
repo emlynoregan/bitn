@@ -20,6 +20,7 @@ topics:
 - land reform
 - campaign
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Henry Taylor will lecture on Friday night, 4 August (at the Institute?) at 8 p.m. in his Land Reform Campaign.  Title: Why are we Poor?

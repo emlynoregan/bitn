@@ -20,6 +20,7 @@ topics:
 - tourism
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 SKAL Delegates visited Burra last week in four bus loads on Tuesday and Thursday.  Burra Tourist Officer Jenny O’Connor escorted each group around town.  They had lunch at the Burra & Community Sports Club.

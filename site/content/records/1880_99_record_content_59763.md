@@ -19,6 +19,7 @@ topics:
 - damage
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  It has been very wintry of late and in the district considerable damage has been done to gardens, fences and telegraph lines.  There has been little rain in Burra, with only 76 points for the month.  Some better falls have been recorded to the east.

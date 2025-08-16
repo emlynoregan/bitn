@@ -21,6 +21,7 @@ topics:
 - service
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Methodist Church.  Special services were held Sunday last with three services by Rev. R.S. Casely.  The afternoon Service of Song was Hiram Golf’s Religion.

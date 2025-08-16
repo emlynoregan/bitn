@@ -20,6 +20,7 @@ topics:
 - agriculture
 - literary society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a debate on Friday at the Temperance Hotel Redruth [Aberdeen] on ‘Should the Government supply seed wheat to distressed farmers?’  The negative side won by two votes.

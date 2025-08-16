@@ -24,6 +24,7 @@ topics:
 - livestock
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season looks good, even out east where the grass is plentiful and the stock in good condition.

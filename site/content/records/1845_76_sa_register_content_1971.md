@@ -18,6 +18,7 @@ topics:
 - mining
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called by SAMA for the supply of 10,000 ore bags.

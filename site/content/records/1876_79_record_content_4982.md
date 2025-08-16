@@ -20,6 +20,7 @@ topics:
 - retraction
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. W. Jenkin denies he is the author of the letter to the Australian Star remarked on a fortnight since. We apologise for having thought hardly of him on this count.

@@ -22,6 +22,7 @@ topics:
 - lease
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  E.H. Benney has leased all open land on the east side of the Burra Creek from Chivel’s fence to the Burra Smelting Works.

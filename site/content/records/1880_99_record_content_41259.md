@@ -17,6 +17,7 @@ topics:
 - report
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The full report of these three farewells extends for almost two columns.]

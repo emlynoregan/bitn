@@ -24,6 +24,7 @@ topics:
 - agriculture
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Wednesday fire broke out near George Harry’s residence at Mt Bryan and running before strong winds in high grass it took a firm hold.  Mr Harry lost c. 50 acres and Mr Skewes c. 100 acres of grass and a division fence was burnt.  Some sheep of Mr Skewes were also destroyed.  Mr Harry’s standing wheat crop miraculously escaped.  The origin of the fire is a mystery.

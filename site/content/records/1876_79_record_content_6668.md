@@ -20,6 +20,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. The Burra footballers were three men short for their trip to Clare. Burra did not play well together for want of knowledge of the game which Clare won 4 to nil. The Clare Brass Band attended the game, as did c.400 spectators which included many ladies.

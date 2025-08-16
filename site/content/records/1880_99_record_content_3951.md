@@ -21,6 +21,7 @@ topics:
 - business
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs J. Beck, F. Rymill & S. Tomkinson were elected directors to fill vacancies on the board.

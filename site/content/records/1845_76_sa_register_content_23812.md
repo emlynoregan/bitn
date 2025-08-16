@@ -24,6 +24,7 @@ topics:
 - entertainment
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In the evening a Musical Entertainment saw the Burra Hotel Assembly Room filled to capacity.  Rev. Stanton rendered his noted recitation Drat the Cats.  There were items from a group of Christy Minstrels.  W. West of Redruth wrote an appreciated prologue and Dr Dashwood JP presided.

@@ -20,6 +20,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Logan’s Gap Station sections 96 to 100 Apoinga of 792 acres with house etc.

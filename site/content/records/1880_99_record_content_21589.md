@@ -21,6 +21,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Pearce Sen. was given a farewell from the Kooringa Wesleyan Church after connection with it for over 38 years.  Next Monday he travels to England for a visit.

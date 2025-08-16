@@ -21,6 +21,7 @@ topics:
 - hall charges
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The Quadrille class wrote asking for hall charges.  The usual charges were offered by the committee.

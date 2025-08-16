@@ -21,6 +21,7 @@ topics:
 - business
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  From 2 December J.A. Watt will open business at the shop in Commercial St opposite the Bank of Australasia, known as Dr Stephen’s.  Offering drapery, fancy goods etc.

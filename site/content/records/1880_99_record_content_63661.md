@@ -23,6 +23,7 @@ topics:
 - advertisement
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An advertisement on page 3 advises the house is to let and says it is ‘At Burra Copper Works’: apply P.L. Killicoat, Abberton Park.

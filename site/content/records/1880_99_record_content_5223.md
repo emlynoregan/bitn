@@ -25,6 +25,7 @@ topics:
 - event
 - conversion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Matthew Burnett has visited the Burra Hospital, the Koonoona shearing sheds and the Redruth Gaol (today).  Not less than 400 can have signed the pledge since he arrived in town.  On Sunday afternoon the three Methodist Sunday Schools met in the Wesleyan schoolroom to hear his address.  His meetings and services have been crowded.  All denominations have been attending.  Nearly 100 persons also profess conversion.

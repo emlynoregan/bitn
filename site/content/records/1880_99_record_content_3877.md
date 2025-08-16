@@ -22,6 +22,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Carter & Akhurst, Solicitors and Public Notaries, Clare and Kooringa.  Office in Market Square.

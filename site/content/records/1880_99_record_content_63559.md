@@ -31,6 +31,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Jubilee.  The old church was originally built on Limestone Hill and opened in 1848, but this was demolished some years ago and a new one built on a suitable site between Kooringa and Aberdeen.  Many old parishioners are expected to attend the celebrations.  Rev. R. Bagshaw was about the first minister who conducted services in the old church and we understand the Rev. Pollitt was the first rector stationed here.

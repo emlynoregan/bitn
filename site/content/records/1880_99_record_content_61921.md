@@ -20,6 +20,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At Mt Bryan on Wednesday St Mary’s 136 defeated Mt Bryan 33.

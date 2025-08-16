@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New St Mary’s Schoolroom was opened with a dedicatory service on Sunday 24 September, when Rev. A.G. King officiated.  There is a public tea meeting today.

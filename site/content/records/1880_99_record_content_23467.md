@@ -17,6 +17,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Penny Readings were again a great success, especially the Maypole Dance.

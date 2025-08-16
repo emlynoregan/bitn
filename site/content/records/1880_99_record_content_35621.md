@@ -17,6 +17,7 @@ topics:
 - racing
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Races.  Several local horse races took place on Tuesday last when some good running was done by several of the town hacks.

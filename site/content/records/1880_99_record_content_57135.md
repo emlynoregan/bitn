@@ -24,6 +24,7 @@ topics:
 - council
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs J.C. Sandland (Chairman of the DC) and P.L. Killicoat waited on the Council concerning the fencing of the new stock road within the Corporation boundary.  It was resolved that deputations from both Councils meet on the ground to resolve the matter.

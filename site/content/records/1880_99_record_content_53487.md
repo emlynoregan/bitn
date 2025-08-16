@@ -21,6 +21,7 @@ topics:
 - community
 - park
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  The committee reports that the Burra Oval is clearly the best site for the show and accordingly the secretary will seek permission from the Council.  A general meeting will be held in the Commercial Hotel on 27 April.  (The Town Council has since granted the request to use the oval.)

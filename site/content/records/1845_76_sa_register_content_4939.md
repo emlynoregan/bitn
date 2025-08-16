@@ -32,6 +32,7 @@ topics:
 - industry
 - exports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Contribution to the Exhibition of All Nations in London in 1851

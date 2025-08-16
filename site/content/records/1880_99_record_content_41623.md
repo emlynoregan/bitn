@@ -21,6 +21,7 @@ topics:
 - smelting
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Smelting Works.  Mr Paynter is getting the new plant in order.  The Cornish boiler was delivered by Messrs Treleaven & Brown and is now being installed.  The old smelting works stack is to be used we understand.

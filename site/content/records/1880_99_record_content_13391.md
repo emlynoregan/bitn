@@ -20,6 +20,7 @@ topics:
 - licensing
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Posselt of the Hundred of Bundey has been granted a Storekeeper’s Colonial Wine Licence.

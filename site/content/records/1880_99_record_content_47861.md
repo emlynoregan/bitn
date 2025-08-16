@@ -22,6 +22,7 @@ topics:
 - dispute
 - explanation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H. McDonald, late agent for the Shearers’ Union writes at more length explaining how the misunderstanding over W. Killicoat’s debt of £2-5-0 occurred.  It seems that neither really was in the wrong, but that Robert Smith, who spread the story, was indiscreet and was not in a position to know the truth when he spoke out.

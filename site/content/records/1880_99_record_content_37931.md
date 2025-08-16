@@ -21,6 +21,7 @@ topics:
 - speech
 - no confidence motion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bulletin in praising Holder’s speech in the recent no confidence motion debate says it justifies their prophecy that he is a future premier of the colony.

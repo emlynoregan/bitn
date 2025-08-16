@@ -19,6 +19,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  Several corkhelms [?] and cedar trees have been wilfully broken down in Jubilee Avenue near the Mill.  Rewards have been offered to track down the perpetrators.

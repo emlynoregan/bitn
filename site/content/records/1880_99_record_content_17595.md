@@ -21,6 +21,7 @@ topics:
 - meeting
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  32 men have signed a requisition calling on the Mayor to call a public meeting on 1 May to consider forming a Burra Co. RVF.  The Mayor, J. Dunstan Jun. accedes to the request.

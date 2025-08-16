@@ -19,6 +19,7 @@ topics:
 - pest
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the rabbit scourge, which has swept in and in places seen the land stripped bare.  Terowie has been very badly hit.

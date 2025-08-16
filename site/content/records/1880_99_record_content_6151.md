@@ -24,6 +24,7 @@ topics:
 - meeting
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Farmers met at Mr Midwinter’s Hotel on Saturday afternoon 14 January and the gathering is reported at length.  R. Klaebe in the chair.  The prepared memorial is printed.  Speakers included Dr. J.R. Stephens & Mr Linke.

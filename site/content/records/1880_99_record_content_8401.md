@@ -29,6 +29,7 @@ topics:
 - inquest
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  An inquest was held on 15 November by J.D. Cave JP as coroner, on the bodies of Mrs Morrison and her son who drowned on 14 November.  [Born Jane Agincourt Lambert: died aged 34]

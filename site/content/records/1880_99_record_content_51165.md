@@ -20,6 +20,7 @@ topics:
 - injury
 - quarry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Griffy was slightly injured by the premature explosion of a charge at the Aberdeen Ballast Quarry last Saturday.

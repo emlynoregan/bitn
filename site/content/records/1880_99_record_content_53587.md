@@ -27,6 +27,7 @@ topics:
 - racing
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo and other sports on 21 April.  The fence between Austin’s Paddock and Gebhardt’s was cut for the occasion to make the course for racing.

@@ -20,6 +20,7 @@ topics:
 - theft
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  £50 reward is offered for information leading to a conviction for the theft of 200 ewes and 200 lambs from the paddocks of Mt Bryan Run.

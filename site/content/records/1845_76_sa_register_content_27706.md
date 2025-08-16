@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mount Bryan East, 19 June

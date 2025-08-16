@@ -20,6 +20,7 @@ topics:
 - theatre
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Yacht Club Cabaret at the Town Hall was a success while the show She’ll be Riot at the Gaol was also enjoyed by many.

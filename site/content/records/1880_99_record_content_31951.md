@@ -19,6 +19,7 @@ topics:
 - community
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show to be held in April.  Mr Holder presented the Institute with The Picturesque Atlas of Australia.

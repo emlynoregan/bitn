@@ -18,6 +18,7 @@ topics:
 - regulation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 XXIX	Hay or straw shall not be stacked within 200’ from a building or 30’ from a fence.  Storage of over 1 cwt of hay or straw is banned from buildings unless they are of non-combustible material.

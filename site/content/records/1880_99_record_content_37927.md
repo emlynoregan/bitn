@@ -27,6 +27,7 @@ topics:
 - religion
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the new Government’s policy.  Some aspects are good while others are very bad.  The mooted taxation changes favour the rich and the Premier now proposes to end the free breakfast table, the provision of which he supported last year.

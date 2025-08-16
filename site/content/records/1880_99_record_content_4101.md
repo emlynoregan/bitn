@@ -40,6 +40,7 @@ topics:
 - interment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Dunstan thought it should not have been closed as it could easily be made into the best access to the top of Redruth Hill.  Crs Dunstan and Rabbich will report on the possibility of repurchasing it.

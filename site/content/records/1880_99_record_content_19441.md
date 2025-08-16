@@ -22,6 +22,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A rather undignified squabble between Crs Sampson and Symons on one side and Crs West and Coglin on the other is reported.

@@ -21,6 +21,7 @@ topics:
 - appointment
 - healthcare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital.  Following the resignation of Mr G. Camp as Director of Nursing, the Board has appointed Sister Lesley Phillips to fill the position from 9 April.  She has been acting Director of Nursing on a number of occasions.

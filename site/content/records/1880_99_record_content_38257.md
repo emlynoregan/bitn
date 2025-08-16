@@ -22,6 +22,7 @@ topics:
 - transport
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine Before 1849: An Old Story Retold.  ‘Looking Backward (1849)

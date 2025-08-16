@@ -23,6 +23,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Entertainment for the poor on Wednesday filled the Institute.  The Mayor introduced the program and the local Friendly Societies attended in full regalia.  The Volunteer Band played in front of the Institute and c. £16 was raised to be distributed by Drs Brummitt and Sangster and Mr Lockyer and the Mayor.

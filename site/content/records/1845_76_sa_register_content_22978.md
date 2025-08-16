@@ -20,6 +20,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wheal Schneider section 2178 (near Karkulto) of 77 acres.

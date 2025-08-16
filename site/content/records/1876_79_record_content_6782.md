@@ -19,6 +19,7 @@ topics:
 - building
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Police Station, Redruth

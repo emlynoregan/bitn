@@ -22,6 +22,7 @@ topics:
 - partnership
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Dissolution of partnership between David William Smith and Henry Edward Tudor, who have carried on a business as ironmongers and general dealers at Redruth, under the style of Smith & Tudor.  H.E. Tudor will continue alone from 19 October 1882.

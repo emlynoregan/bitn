@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Parent’ writes complaining of the amount of homework given at the Public School  - an estimated 2 hours worth and children often have other chores to do that prevent them starting before 7 p.m.

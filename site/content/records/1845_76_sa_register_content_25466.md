@@ -20,6 +20,7 @@ topics:
 - finance
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The report and balance sheet for the SAMA state that the half-yearly yield has increased to upwards of 1,800 tons of copper ore, averaging 18%.  Operations for the six months to 31 March including rents etc. have yielded a net profit of £1,869-11-3.  It is also reported that in the last half year much work of a permanent character has been done and this will mean income will barely meet expenditure.  Captain Sanders says he is confident of the ultimate success of the undertaking.  He is convinced that the mine contains two or more distinct lodes traversed by several cross-courses causing intersections and dislocations, ‘which we always considered desirable in a mining property’.  There are 314 hands employed.

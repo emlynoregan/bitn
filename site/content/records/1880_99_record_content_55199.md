@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church Anniversary was held on 11 November when the Wesleyan Rev. A. Grewar of Terowie preached.  The tea meeting was well patronised on Wednesday.  Proceeds were nearly £8.

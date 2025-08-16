@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George Morriss, aged 69, husband of Elizabeth has died.  He was a colonist of 51 years and a resident of Burra for 44 years.  [Died 9 September.]

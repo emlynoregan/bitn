@@ -19,6 +19,7 @@ topics:
 - fundraising
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee last Tuesday recommended a ‘Crysanthemun Show [sic] and promenade concert’ to raise money for hall funds.

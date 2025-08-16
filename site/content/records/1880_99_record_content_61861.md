@@ -20,6 +20,7 @@ topics:
 - education
 - examination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  At the Pupil Teachers’ Exam in December Mr Arthur T. Lasscock was again successful in passing first class.

@@ -19,6 +19,7 @@ topics:
 - finance
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee considers that a cast iron urinal at £26 is far too expensive.  They are prepared to bear one third of the cost which is not to exceed £12 as originally proposed.

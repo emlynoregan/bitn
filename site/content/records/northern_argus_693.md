@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS teacher Col. Baker has been transferred to the Mallee.  He will be missed from the school, Apex and sporting bodies.

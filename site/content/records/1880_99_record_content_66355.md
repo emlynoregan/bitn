@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr J. Bagg of Spring Bank, aged 57, has died.  He was a resident of 52 years.  He was a member of the MUIOOF and leaves a widow, three sons and three daughters.

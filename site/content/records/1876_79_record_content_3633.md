@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Chapel. The bazaar in aid of the building fund was brought to a close on Thursday Feb. 14, by which time it had raised £50. The ladies have raised £120 in the last nine months. Three years ago the building and furnishing cost £1,450, but the debt is now only £600.

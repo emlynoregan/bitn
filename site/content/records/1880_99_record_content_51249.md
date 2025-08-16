@@ -19,6 +19,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket at Aberdeen on Saturday saw the Quarrymen beat Aberdeen by 8 runs.

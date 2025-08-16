@@ -21,6 +21,7 @@ topics:
 - agriculture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. John D. Custance, Principal of the Agricultural College, will give an address ‘How to make land pay’, at the Institute on 2 October.  Free - no collection.

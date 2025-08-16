@@ -20,6 +20,7 @@ topics:
 - legal
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charley Grow again fined for the old problem of going around the same corner in Aberdeen too fast – ‘cost 20 rides to and from the railway station’.

@@ -27,6 +27,7 @@ topics:
 - winter
 - robbery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 D.D. reports on The Gold Diggings, writing from Melbourne 7 April 1852.

@@ -28,6 +28,7 @@ topics:
 - fire
 - property damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Inquest was held on Tuesday last into a fire at the Burra Mines the previous night.  Dr Brummitt acted as coroner.

@@ -21,6 +21,7 @@ topics:
 - hospital
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Typhoid.  Currently there are 49 patients in the Burra Hospital of whom 13 are children suffering from typhoid fever – additional nurses have been engaged.

@@ -33,6 +33,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ian Auhl writes a letter to the editor commenting on the Copper Interpretation Centre Crisis.

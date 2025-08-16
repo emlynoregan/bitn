@@ -19,6 +19,7 @@ topics:
 - transport
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bon Accord Crossing needs some protection.  The nearby auctions make this one of the busiest of crossings and yet it is quite unprotected.  As far back as 1884 the Government promised an alarm gong, but nothing has been done.

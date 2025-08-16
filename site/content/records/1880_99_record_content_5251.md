@@ -21,6 +21,7 @@ topics:
 - sale
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Austin, Davison & Jaffrey will hold their first sale on 2 November and thereafter on the 1st Wednesday in the month.

@@ -20,6 +20,7 @@ topics:
 - auction
 - antiques
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Japanese and Chinese curios.  John Sampson, auctioneer & M. Both, importer.

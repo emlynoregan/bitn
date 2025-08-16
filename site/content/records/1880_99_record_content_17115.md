@@ -19,6 +19,7 @@ topics:
 - foreign policy
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on whether there will be war with Russia or not.

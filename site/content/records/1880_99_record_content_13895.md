@@ -19,6 +19,7 @@ topics:
 - auction
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Goodchild, Duff & Co. will offer by auction 18,840 fat and store sheep on 4 August.

@@ -20,6 +20,7 @@ topics:
 - transport
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice to Carters of Ore

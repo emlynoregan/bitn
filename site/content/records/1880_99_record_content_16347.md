@@ -23,6 +23,7 @@ topics:
 - international
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd leader on terrorist attacks in London: i.e. Irish attempts to blow up buildings like Westminster Hall, the House of Commons and the White Tower in the Tower of London.

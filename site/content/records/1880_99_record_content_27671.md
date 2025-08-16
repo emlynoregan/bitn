@@ -19,6 +19,7 @@ topics:
 - demographics
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  In 1886 the population loss to SA was 8,041 and in 1887 it was 2,503.

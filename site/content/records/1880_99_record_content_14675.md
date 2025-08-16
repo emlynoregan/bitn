@@ -19,6 +19,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Victorian Railways.  Among new proposals is a line from Dimboola to our border (63 miles) to join the SA line now being built.

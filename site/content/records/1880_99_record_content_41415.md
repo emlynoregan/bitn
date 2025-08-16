@@ -21,6 +21,7 @@ topics:
 - entertainment
 - ticket_price
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 29 May.  Grand Concert organised by Mr J. Roach.

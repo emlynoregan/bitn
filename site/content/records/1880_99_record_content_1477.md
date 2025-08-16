@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. There will be a tea at the Primitive Methodist schoolroom at 5 p.m. and a concert at the Institute at 8 p.m.

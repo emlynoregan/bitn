@@ -18,6 +18,7 @@ topics:
 - economy
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Depression woes.  The air in Adelaide is thick with rumours of financial problems.  A run on the Savings Bank was halted when it was shown to be groundless, but it resulted in the interest it can expect to pay this year dropping from 5% to 4%.

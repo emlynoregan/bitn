@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Police Station.  This establishment has undergone thorough repair and enlargement.  The cells have been moved from the interior of the station to the yard and new stabling has been erected.  A wall enclosing part of the station, cells and stable has been built and the whole property fenced with a post, rail and three-wire fence.

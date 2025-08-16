@@ -20,6 +20,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We hear that a number of miners are preparing to leave for Wallaroo as soon as things get going there.

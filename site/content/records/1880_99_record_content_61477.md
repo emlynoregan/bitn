@@ -19,6 +19,7 @@ topics:
 - education
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Davidson will be joining the staff for next year and Miss Sprod will continue to take Class V.

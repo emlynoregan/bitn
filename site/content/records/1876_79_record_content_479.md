@@ -20,6 +20,7 @@ topics:
 - local history
 - publishing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [The author is surprised that when a local Burra paper appeared the name ‘Burra’ was not in the title.  The Northern Mail was a name he associated more with Clare.]

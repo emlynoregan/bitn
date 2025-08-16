@@ -20,6 +20,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Mark Guy Pearse is to come to Burra.  Last Friday his fame drew a congregation of c. 1,600 to a service in Adelaide.

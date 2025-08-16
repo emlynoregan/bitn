@@ -24,6 +24,7 @@ topics:
 - railway
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Davis, a railway ganger was killed near Burra on Saturday 28 June.  [Aged 48.]  It was his job, daily to travel the line between Burra and Mt Bryan on a tricycle.  The story is most clearly told by John Ryan, the first witness at the inquest:

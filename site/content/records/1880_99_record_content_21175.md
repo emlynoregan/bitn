@@ -19,6 +19,7 @@ topics:
 - cricket
 - sports result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  1 January.  Aberdeen 111 defeated Saddleworth 26 & 22, by an innings and 63 runs.

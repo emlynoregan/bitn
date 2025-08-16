@@ -22,6 +22,7 @@ topics:
 - show
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called by the Show Society for 100 straight barked posts 8’6” x 7” diameter delivered to Burra Recreation Ground by end of July, also for 100 posts 5’9” x 5” diameter, 200 stakes 5’ x 2½” and 12 rails 8’ long.

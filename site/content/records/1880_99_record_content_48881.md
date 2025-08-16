@@ -20,6 +20,7 @@ topics:
 - culture
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Blind Performers presented a first class program last night at a concert presided over by Dr Sangster.

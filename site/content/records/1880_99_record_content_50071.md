@@ -21,6 +21,7 @@ topics:
 - coursing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Coursing Club had a successful meeting, though a scarcity of hares at Gum Creek meant that on the second day it was decided to share the prize money between six dogs.  [Details in a one-column article.]

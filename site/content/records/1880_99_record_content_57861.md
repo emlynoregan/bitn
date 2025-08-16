@@ -21,6 +21,7 @@ topics:
 - obituary
 - curiosity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Bob the Railway Dog has died.  He is to be stuffed for the museum.

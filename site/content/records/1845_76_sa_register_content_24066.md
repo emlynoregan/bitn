@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A New Road Bill proposes to create eight new Local Road Boards in place of the present arrangements.  Burra would come under the North Midland District.

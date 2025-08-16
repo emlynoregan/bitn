@@ -22,6 +22,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Grand Musical and Literary Entertainment at the Institute hall, Hallett, 12 September 1883 in aid of Institute funds.  MOONLIGHT.

@@ -19,6 +19,7 @@ topics:
 - letters
 - personal dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich complains that Hardy was personally insulting in his last letter.

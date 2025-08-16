@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.   Thomas Warnes of Koomooloo died 15 July at College Park aged 58.

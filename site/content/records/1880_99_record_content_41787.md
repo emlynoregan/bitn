@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson D.C. is still referring to parkland at Davies and parkland at Hanson, meaning Farrell’s Flat, but it also discusses the Farrell’s Flat station road and the Farrell’s Flat school-house.

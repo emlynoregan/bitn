@@ -23,6 +23,7 @@ topics:
 - council
 - legal defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes strongly condemning Cr O’Leary for not supporting legal defence against Mr Lewis and condemning Lewis for creating a nuisance.  The blocking of a waterway creates a nuisance and costs for the Council and Lewis should not get away with it.  Could he perhaps next block the creek near his house and so flood Commercial St and expect to get away with that too?

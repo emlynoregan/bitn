@@ -23,6 +23,7 @@ topics:
 - gold
 - water supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Mr Bull of Mt Bryan reports the field has a new lead near the bend in the creek where the recent rush took place.  The gold is in reddish clay and is yielding half an ounce to the load.  Those who have gone up determined to give the locality a fair trial have done tolerably well, but loafers have no chance.  We learn that the English, Scottish & Australian Chartered bank has purchased in all about 250 oz of Ulooloo gold.

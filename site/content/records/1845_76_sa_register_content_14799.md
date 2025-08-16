@@ -24,6 +24,7 @@ topics:
 - telegraph
 - local dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Kooringa Tradesman’ writes again on the Post-Office question to correct the writing of ‘Chemicus’.

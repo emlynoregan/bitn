@@ -19,6 +19,7 @@ topics:
 - fundraising
 - advt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert in St Mary’s Schoolroom tonight in aid of the piano fund.

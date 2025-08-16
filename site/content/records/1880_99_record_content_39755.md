@@ -23,6 +23,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Primitive Methodist Church Anniversary 28 December and 1 January.  Rev. R.J. Daddow preached and the Ironmine Brass Band was at the tea meeting.

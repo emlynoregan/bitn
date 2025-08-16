@@ -23,6 +23,7 @@ topics:
 - funding
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse.  The Minister of Tourism Ms Barbara Wiese has advised Burra Burra DC that under the Tourism Development Assistance Scheme $68,000 will be granted to help develop Morphett’s Enginehouse at the Burra Mine.  The development of the town and Burra Mine is strengthening the appeal of the whole region.  This funding will enable the development of lookouts, roads, pathways and minor works necessary to complete the Morphett’s Enginehouse project.  The cost of this stage is $78,000, of which the Council proposes to contribute $15,000.

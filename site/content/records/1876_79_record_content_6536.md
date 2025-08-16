@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Hallett Railway, which was unfinished when the line opened so that the cost would not exceed the Engineer's estimates, is now being ballasted and presumably the cost will be charged to maintenance.

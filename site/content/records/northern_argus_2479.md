@@ -19,6 +19,7 @@ topics:
 - SES
 - training
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra SES had an exercise last week to free a person trapped beneath the steering wheel of a car.

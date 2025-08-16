@@ -18,6 +18,7 @@ topics:
 - local government
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 An interesting letter from a ratepayer on the dispute between the Town and District Councils. Apparently the Corporation inspector looked at a slaughterhouse in the DC area and then complained to the DC to take action. The editor thought that co-operation in such a matter was sensible, but the writer had a different view.

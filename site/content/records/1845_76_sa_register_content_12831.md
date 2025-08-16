@@ -17,6 +17,7 @@ topics:
 - weather
 - dust storms
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Since Friday 18 November we have had a series of dust storms.  The Friday storm came from the east.

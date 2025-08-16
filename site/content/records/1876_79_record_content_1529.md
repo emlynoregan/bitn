@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mine: Captain Sanders reported work on Morphett's Shaft had cut plat at 85 fathoms and started a crosscut east. There were problems with water at the 60 but expect to drain it with a hole to the 70 soon. Peacocks air shaft down to 56 fathoms.

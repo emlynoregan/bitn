@@ -21,6 +21,7 @@ topics:
 - footpaths
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Pedestrian’ complains of the state of footpaths on the south side of Market Square and in Thames St.  He blames run-off from houses and urges Council to effect a remedy.

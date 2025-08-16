@@ -18,6 +18,7 @@ topics:
 - legal
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government is to reintroduce the Bills to abolish Corporation and Council Grants-in-Aid and also the Torrens Act granting indefeasibility of title.

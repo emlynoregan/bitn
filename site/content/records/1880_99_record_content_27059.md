@@ -21,6 +21,7 @@ topics:
 - membership
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Circuit.  The quarterly meeting noted falling membership due to removals.  The circuit had a debit balance of £18-15-0.  Rev. S. Gray accepted an invitation to remain for the third year.

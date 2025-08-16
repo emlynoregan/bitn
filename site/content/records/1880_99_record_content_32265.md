@@ -21,6 +21,7 @@ topics:
 - transport
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Thomas Esmonde was to have spoken in support of aid for evicted Irish tenants on Tuesday, but the rains delayed the train for two hours.  He was met by Mr Holder, but the talk has been delayed until his return from Broken Hill.

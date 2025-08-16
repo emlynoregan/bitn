@@ -20,6 +20,7 @@ topics:
 - church
 - confirmation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rt Rev. Dr Harmer held a confirmation service for four candidates at Hallett Institute on Saturday morning.

@@ -19,6 +19,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  A letter to the editor says the new street trees are growing, but are not being watered and so are under threat.  Many he says are pepper trees.

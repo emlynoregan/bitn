@@ -22,6 +22,7 @@ topics:
 - injury
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Tuesday in the Burra versus Clare game J. Martin sustained concussion, but is now recovering, and on Wednesday H. Bennetts broke his collarbone.

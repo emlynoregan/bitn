@@ -25,6 +25,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary. W.H. Batchelor [William Henry] has died aged 59.  We understand he left Portsmouth, England 35 years ago and came to Burra where he worked at the mine as a painter etc.  After some time he began in business in Commercial St.

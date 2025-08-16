@@ -19,6 +19,7 @@ topics:
 - damage
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The storm on Tuesday blew down two verandahs in Kooringa and removed thick glass from the top of the railway running shed, depositing it on the iron roof.

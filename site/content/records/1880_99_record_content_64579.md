@@ -22,6 +22,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  Rev. Dr Harmer, Bishop of Adelaide, confirmed 23 last Friday.

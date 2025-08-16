@@ -21,6 +21,7 @@ topics:
 - employment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.W. Goodhart a former long time manager of the Bank of Australasia in Kooringa and later manager at Pt Lincoln is retiring through ill health.

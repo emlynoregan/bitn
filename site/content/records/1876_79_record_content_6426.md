@@ -18,6 +18,7 @@ topics:
 - business
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The New Bank of Australasia is now nearly finished and will be occupied in the coming week.

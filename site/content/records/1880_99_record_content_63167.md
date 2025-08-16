@@ -22,6 +22,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra United Friendly Societies Demonstration on Boxing Day, 27 December at Victoria Park.

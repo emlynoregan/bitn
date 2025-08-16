@@ -23,6 +23,7 @@ topics:
 - funding
 - subsidy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Education.  The Government has cut the money available to subsidise schools next year.  The Board has subsequently decided to cut the subsidy to 57 schools, including one at Kooringa and one at Redruth and one at Copperhouse.

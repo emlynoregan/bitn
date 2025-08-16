@@ -27,6 +27,7 @@ topics:
 - water
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Government Policy as outlined by Dr Cockburn at Strathalbyn on Wednesday. There were two main planks: protection for the producer and increased facilities for land settlement.

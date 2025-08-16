@@ -21,6 +21,7 @@ topics:
 - events
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last Saturday the first round of the second three tests between Aberdeen & Burra at the Burra Oval resulted in Aberdeen 3 defeating Burra 2.

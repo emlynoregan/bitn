@@ -21,6 +21,7 @@ topics:
 - storm
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Weather.  A storm struck Burra on Sunday 1 December.  About 50 points fell in about ten minutes.  At ‘The Gap’ 56 points fell and hail with it.  A fire, probably caused by lightning burnt about 7 ha at ‘The Gap’. 

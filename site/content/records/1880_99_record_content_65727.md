@@ -21,6 +21,7 @@ topics:
 - education
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton School.  W. Harry, master of Pinda School, has been transferred to Leighton in place of Miss McNeil who has been removed to another sphere of action.

@@ -19,6 +19,7 @@ topics:
 - sport
 - bicycle
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There were several bicycle races as well as foot races.  These included a slow race over 440 yards which was won by Ownsworth.

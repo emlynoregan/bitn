@@ -19,6 +19,7 @@ topics:
 - employment
 - public service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Alison Cousins has a position with the public service in the New Year.

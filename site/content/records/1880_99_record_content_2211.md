@@ -19,6 +19,7 @@ topics:
 - entertainment
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Professor Pepper with his popular science entertainment will visit Burra soon.

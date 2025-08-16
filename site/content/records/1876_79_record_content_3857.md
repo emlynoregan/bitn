@@ -20,6 +20,7 @@ topics:
 - employment
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. The model school at Burra announces positions for pupil teachers. Applications to E. Lipsett, Chairman of the Board of Advice. 28 March 1878.

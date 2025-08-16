@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Primitive Methodist Sunday School held its first Anniversary on Sunday 27 September and Thursday 1 October.  On Sunday Rev. J.G. Wright preached impressive sermon in the morning and evening and Mr S. Olly gave a fine sermon in the afternoon.  The chapel was very crowded in the morning and afternoon and many were unable to gain entry in the evening.  The children rendered very credible recitations of prose and poetry.

@@ -25,6 +25,7 @@ topics:
 - business
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Elders Pastoral premises in Commercial Street were sold at auction last week for $40,000.  The property was bought by Neil Page, Tom Owen and Ian Low of Ian Low and Partners and will be used as office accommodation.  Elders Pastoral is in the process of moving into the former Jennison’s Tyre Services premises, where they will conduct their business from 15 June.

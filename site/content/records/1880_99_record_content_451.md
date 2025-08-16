@@ -24,6 +24,7 @@ topics:
 - council
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For this year Ayers St will require £30 plus the £20 already granted.

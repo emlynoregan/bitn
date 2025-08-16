@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Riverton on 2 January Riverton 100 & 1 for 13 defeated Burra 41 & 72 by 9 wickets.

@@ -20,6 +20,7 @@ topics:
 - public transport
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter complaining of the use of cabs to transfer typhoid patients to the hospital, especially from the train as is often required.

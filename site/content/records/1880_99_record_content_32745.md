@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Governor’s speech opening the 4th Session of the 12th SA Parliament is printed.

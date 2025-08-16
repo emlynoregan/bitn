@@ -23,6 +23,7 @@ topics:
 - economics
 - private enterprise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Article by C. Fuss in the Literary Star, the journal of the Burra Literary Society.  He urges that irrigation schemes should be carried out by private enterprise rather than by the Government because their own interests would be at stake, more economy would be exercised and the management would be better.  The pressure from all over the colony for a multiplicity of Government projects could result in scheme after scheme and an overproduction.  It will, he says; never pay to irrigate our dry hundreds to produce wheat.

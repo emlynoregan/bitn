@@ -19,6 +19,7 @@ topics:
 - pests
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  The crops are ripening and barley harvest is near.  Hay is being cut.  Locusts are thick on the ground and are making havoc with the green herbage and grass.  On hot days many are on the wing.

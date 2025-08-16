@@ -19,6 +19,7 @@ topics:
 - industry
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader approving the Government’s decision to buy locally produced iron water pipes.

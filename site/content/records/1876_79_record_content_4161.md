@@ -20,6 +20,7 @@ topics:
 - ownership
 - departure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Notice. This will be the last issue of the paper under the proprietorship of Henry Pether as he is soon to leave the district. Dated 27 June 1878.

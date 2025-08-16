@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Church Anniversary 2 & 3 July, Rev. J. Wright preached.  The tea meeting was largely attended.

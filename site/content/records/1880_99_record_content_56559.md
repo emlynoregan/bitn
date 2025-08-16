@@ -20,6 +20,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Primitive Methodist Church will hold a picnic at Princess Royal on Good Friday in connection with the Sunday school.  The Burra Brass Band will attend.  Refreshments will be taken in a large shed.

@@ -19,6 +19,7 @@ topics:
 - employment
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Times here are bad with little business activity.  30-40 hands have been discharged from the Mine.

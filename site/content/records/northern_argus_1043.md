@@ -22,6 +22,7 @@ topics:
 - meeting
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Caring & Sharing Group had only a small attendance for Rosemary Opperman’s talk on the St John’s Ambulance Brigade.  The next meeting will hear Mary O’Connell speak on the subject ‘What the Citizens’ Advice Bureau can do for you.’

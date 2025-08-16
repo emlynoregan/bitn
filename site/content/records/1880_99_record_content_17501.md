@@ -22,6 +22,7 @@ topics:
 - debt
 - public buildings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Was willing in the outside country to give tenure for 42 years or longer to encourage improvements.  The colony suffered from surrenders of land in agricultural districts and much had been resold at low prices, reducing the Government’s income.  He was not in favour of increasing duties on agricultural implements.  Was for inter-colonial free trade.  The whole world was in depression and the Government could not find work for all.  Debt was out of proportion to their population.  Too much had been spent on public buildings, and the railways were not well managed.  The poor should be educated to a certain level, but beyond that they should pay for it and those who could pay should pay for all education.

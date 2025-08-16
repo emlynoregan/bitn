@@ -21,6 +21,7 @@ topics:
 - currency
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 All the houses are built of substantial stone, but irregularly disposed, something like Adelaide of ten years ago.  Rent is high, 10/- for two or three rooms and water 2/- a load.

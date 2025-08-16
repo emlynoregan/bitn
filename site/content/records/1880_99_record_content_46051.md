@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Today at 12 o’clock in the middle of the night

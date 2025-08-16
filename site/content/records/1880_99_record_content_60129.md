@@ -23,6 +23,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss E, Elliott’s Entertainment in the Institute on Friday did not draw a large audience and the quality of the program deserved better.  It was a mixture of items by adults and children.

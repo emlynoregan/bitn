@@ -22,6 +22,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Three new mining claims in the area are looking well.  They are Scrubbers’ Creek, Yurolo: Murphy’s Mine about eight miles north of Kooringa and the resuscitated Narkara Mine.

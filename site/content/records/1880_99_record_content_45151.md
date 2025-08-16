@@ -20,6 +20,7 @@ topics:
 - transport
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Thomas Halls will run cabs to and from the Coursing Meet departing from the Burra Hotel.  4 & 5 May from 7 a.m. for 5/- return.

@@ -19,6 +19,7 @@ topics:
 - public works
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  A memorial signed by 60 ratepayers asked the Council for work.  The Government has agreed to clean out Barker’s Dam if the settlers will guarantee to raise £30.  There was no resolution to this issue at this time.

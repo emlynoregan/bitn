@@ -18,6 +18,7 @@ topics:
 - typhus
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sickness is still prevalent and deaths are unusually numerous.  Two died from typhus during the week.

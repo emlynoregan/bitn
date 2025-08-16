@@ -20,6 +20,7 @@ topics:
 - education
 - school opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Miss L.E. Goss will open a school for young ladies on 20 Jan. in the German Chapel, Redruth.

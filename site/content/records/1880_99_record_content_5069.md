@@ -18,6 +18,7 @@ topics:
 - finance
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader was against the remission of rates for reasons of poverty.  The editor felt that it was inequitable and rarely went to the right people.

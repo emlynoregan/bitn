@@ -25,6 +25,7 @@ topics:
 - dentistry
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Frank Wilkinson DMD, surgeon dentist, will visit Burra in the last week of August.  He was born in Kadina in 1869 and is the eldest son of T.W. Wilkinson of Burra.  He was educated at Burra Public School and Prince Alfred College and is a graduate of Harboard [sic] University in America, and practised in Boston. [Harvard?]

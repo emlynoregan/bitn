@@ -22,6 +22,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society, Burra Branch AGM was held in the Institute on 3 November.  Rev. R.C. Yeoman took the chair in place of the President, Dr Brummitt, who could not attend.

@@ -21,6 +21,7 @@ topics:
 - mine
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Greg Drew of the Department of Mines and Energy will conduct another Mine Walk on the second weekend of the school holidays, Sunday 8 September at 1 p.m.

@@ -23,6 +23,7 @@ topics:
 - lecture
 - missionary work
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church Annual Dinner will be held on 19 August at 4 p.m.

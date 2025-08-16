@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editorial uses a clumsy extended metaphor about launching boats to deal with the by-law.]

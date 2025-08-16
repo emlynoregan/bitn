@@ -19,6 +19,7 @@ topics:
 - church
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 New Catholic Church.  A concert in Banks’ Assembly Room raised funds for the new Catholic Church.  Proceeds were about £12.

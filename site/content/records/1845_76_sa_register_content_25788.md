@@ -21,6 +21,7 @@ topics:
 - council
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  24 August.  A large quantity of rain has fallen and this will aid farmers who are fallowing.  A memorial has been prepared asking the Government to make a large water reserve at a place commonly known as The Troughs.  It is the only permanent water in a long distance; ‘other permanent water being foolishly sold.’

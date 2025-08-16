@@ -18,6 +18,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  There was an immense house at the Penny Readings on Saturday.  The public are getting spoiled with 2/- worth for 3d, 2d, and 1d.  The proceeds exceeded £4.

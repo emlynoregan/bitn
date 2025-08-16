@@ -27,6 +27,7 @@ topics:
 - sport
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Easter Monday there were sports at the Burra Oval.  The weather was windy and dusty.  W.C. Neville was in charge of the liquor.  The main events were the cycle races, but there was a 100 yard foot race as well as races for youths and girls, a tug-of-war and a hop-step-and-jump.  The results of the cycle races:

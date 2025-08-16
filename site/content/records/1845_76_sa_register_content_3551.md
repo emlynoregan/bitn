@@ -32,6 +32,7 @@ topics:
 - court
 - remand
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Kelly, George Morgan and William Buckley were charged with the assault and robbery of Robert Henderson at the Stone Hut on 19th instant.

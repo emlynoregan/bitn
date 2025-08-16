@@ -23,6 +23,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  C.H. Beer, Captain of the Saddleworth Club, writes explaining that harvest activities prevented their playing Burra.  He slams the way ‘Sandboy’ reported the incident in casting aspersions on the Saddleworth Club and its management and returns the compliment in a letter which the editor says he cut in places ‘for reasons obvious to us if not to our correspondent’.

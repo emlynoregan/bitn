@@ -56,6 +56,7 @@ topics:
 - transport
 - animal_death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Creek burst its banks near the Unicorn Brewery and formed a second channel parallel to the main one. By 5.30pm it was level with the roadway in Bridge Street and then it broke through to form a channel between the bridge and the Bible Christian Church. Lower Thames Street was flooded as were most houses between Statton & Henderson's [Market Square] and the Primitive Methodist Chapel. Fences and outbuildings between Thames Street and the creek were swept away. Houses on the western side of Paxton Square were flooded to 6-9".

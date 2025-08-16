@@ -17,6 +17,7 @@ topics:
 - politics
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Jubilant’ rejoicing that the Government avoided a no-confidence motion - and explaining why in ½ column.

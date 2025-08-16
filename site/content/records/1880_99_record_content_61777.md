@@ -21,6 +21,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  For several weeks there have been rumours we would soon see the old mine working again, but so far only talk.  We now hear Mr Brookman of Great Boulder WA fame has an idea the mine can be worked with the latest improvements for treating ore.  Even if no more than a rumour, the residents feel a pleasure in talking of future prospects for the now-obsolete mine.

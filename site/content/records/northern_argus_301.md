@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Florrie Pryzbilla [sic: for Przibilla] formerly of Burra North died in Adelaide last week.

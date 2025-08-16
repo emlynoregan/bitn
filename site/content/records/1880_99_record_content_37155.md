@@ -20,6 +20,7 @@ topics:
 - inquest
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The evidence of the driver, stoker and guard do not add significantly to what has been noted.

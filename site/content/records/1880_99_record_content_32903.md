@@ -20,6 +20,7 @@ topics:
 - bridge
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A New Footbridge is being constructed across the Burra Creek.  [Presumably the one near the school by the School board of Advice.]

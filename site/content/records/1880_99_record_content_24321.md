@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.L.H. Bruse	Cabinetmaker, Builder, Undertaker, Commercial St

@@ -19,6 +19,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  There is a call to develop a cricket ground near the German Chapel, as flat areas in town are not common.

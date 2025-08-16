@@ -20,6 +20,7 @@ topics:
 - literary society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on Friday and discussed a paper by G.A. Maggs on New Australia.  He is a member of the Medindie Young Men’s Society and formerly of the Burra Young Men’s Soc.

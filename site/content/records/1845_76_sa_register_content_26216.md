@@ -18,6 +18,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan DC has been newly formed and it is said a Chairman has been elected, an assessor appointed and a clerk and ranger chosen.  The only notice of their intention to do so seems to have been a written notice in the bars of two public-houses.  Ratepayers think they are entitled to know a little more of what is going on.

@@ -18,6 +18,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  It was very rough on Saturday to Monday last and wheat crops were damaged.

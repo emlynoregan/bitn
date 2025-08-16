@@ -20,6 +20,7 @@ topics:
 - health
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Josiah Statton, a former resident of Burra, but now of Terowie had a serious stroke last Saturday.  He is 66.

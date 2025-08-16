@@ -21,6 +21,7 @@ topics:
 - government
 - speech
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Parliament.  The speech of the Governor, the Earl of Kintore, at the opening of the 1st session of the 13th Parliament is printed.

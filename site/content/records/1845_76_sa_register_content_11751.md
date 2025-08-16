@@ -21,6 +21,7 @@ topics:
 - malachite
 - display
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  Two wonderful specimens of malachite are on display in the Beehive Drapery.  They represent miniature caverns, with stalactites and stalagmites of most admired formation and beauty.

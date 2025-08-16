@@ -20,6 +20,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club.  A small group met on Friday to consider the club’s finances and adjourned till Saturday next for a final decision.

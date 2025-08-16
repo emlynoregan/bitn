@@ -20,6 +20,7 @@ topics:
 - community
 - thanks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W. West writes as a member of the Flower Show Committee thanking all who made it such a success.

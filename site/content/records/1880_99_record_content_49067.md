@@ -28,6 +28,7 @@ topics:
 - standing orders
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  At the meeting of the Burra Council on 6 March four of the six Councillors refused to allow business to proceed until the Mayor’s report had been expunged.  Utter confusion then prevailed.  The Mayor left the chair which was taken by Cr Linkson. Crs Parks, Walsh and West then completed the business of the Council, but no cheques were signed.

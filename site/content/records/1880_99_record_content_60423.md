@@ -21,6 +21,7 @@ topics:
 - lecture
 - missionary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J. Bice gave an interesting lecture on 5 August at St Mary’s Schoolroom aided by a powerful lantern, on Missionary Work in the South Sea Islands, where he spent 25 years as a missionary.

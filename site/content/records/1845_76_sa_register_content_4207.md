@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [SA Deaths CD does not record a Bleechmore death for 1850.]

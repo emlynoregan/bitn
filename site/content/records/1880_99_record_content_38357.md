@@ -19,6 +19,7 @@ topics:
 - politics
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the New Land Bill.  This is basically the same as that proposed by the Cockburn Government.

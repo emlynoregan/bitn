@@ -21,6 +21,7 @@ topics:
 - athletics
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Athletic Sports in Austin’s Paddock, 18 April.  Pedestrians 6d, Horsemen 1/-, Carriages 1/-.

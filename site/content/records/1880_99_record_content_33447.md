@@ -20,6 +20,7 @@ topics:
 - trial
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the case in England of Mrs Maybrick who was accused of poisoning her husband.

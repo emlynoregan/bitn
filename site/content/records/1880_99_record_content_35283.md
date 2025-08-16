@@ -19,6 +19,7 @@ topics:
 - weather
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Creek flowed strongly on Tuesday and 1.51” has been registered at the Kooringa Post Office.

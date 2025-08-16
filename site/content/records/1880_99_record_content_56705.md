@@ -19,6 +19,7 @@ topics:
 - health
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.C. W. Fuss.  ‘On going to press we learn that Mr H.C.W. Fuss was much worse.’

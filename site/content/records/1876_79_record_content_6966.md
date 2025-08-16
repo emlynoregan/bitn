@@ -20,6 +20,7 @@ topics:
 - contract
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board. Mr Woollacott has been awarded the contract for the completion of the Redruth Bridge: to be done by 30 November.

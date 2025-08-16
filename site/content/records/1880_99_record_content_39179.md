@@ -19,6 +19,7 @@ topics:
 - editorial
 - social commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boxing and Brutalism: an article which clearly reflects the editor’s views.

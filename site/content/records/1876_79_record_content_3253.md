@@ -19,6 +19,7 @@ topics:
 - retail
 - early-closing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Working conditions. Letter to Ed. complaining that shoppers are leaving it to the last minute which effectively negated the early-closing recently announced.

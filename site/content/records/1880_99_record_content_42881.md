@@ -23,6 +23,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  A meeting in the vestry on Tuesday 27 Oct. saw a presentation to Rev. J. Stuart Wayland.  Dr Sangster made the presentation of a purse of 35 sovereigns.  E.C. Lockyer & T. Edwards also spoke.

@@ -17,6 +17,7 @@ topics:
 - publication
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Record will next appear on Thursday, as the following day is Good Friday.

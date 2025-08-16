@@ -24,6 +24,7 @@ topics:
 - legal
 - dissolution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The partnership of Blakeney Carter & Arthur F. Akhurst, solicitors at Clare and Kooringa is dissolved from 31 October 1881.  Arthur F. Akhurst will carry on alone at Kooringa.

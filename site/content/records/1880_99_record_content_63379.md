@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Numbers 260, 273, 288 & 298 had not been used in the 1893-94 sequence.

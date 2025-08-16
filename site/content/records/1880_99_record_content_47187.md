@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday school teachers have made up a large marquee 50’ x 10’6” and 13’6” high for tea meetings.  It will be used at the picnic on 9 November.

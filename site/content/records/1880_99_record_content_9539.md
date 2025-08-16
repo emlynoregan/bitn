@@ -20,6 +20,7 @@ topics:
 - music
 - engagement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Volunteer Brass Band is available for engagement any public holiday.

@@ -18,6 +18,7 @@ topics:
 - advertisement
 - personal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.W.G. Nicholls, proprietor of the Reformer stage cart, inserts 32 lines of doggerel explaining that wine helped him to rise from a sick bed six weeks ago, but since got the better of him, so he felt he was dying from it effects.  Now he has sworn off drink, lest it result in ‘loss in mind, body, or your estate’.  He concludes with a further six lines affirming that from evil good may come, and he will in future be the better in mind and financial gain, from this mishap in life’s journey.

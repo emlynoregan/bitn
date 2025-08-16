@@ -22,6 +22,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church Tuesday 17 February.  Rev. J.P. Pithouse will give his second lecture.  Topic: ‘Slave Life in America’ with c.70 grand dissolving views.

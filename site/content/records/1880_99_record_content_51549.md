@@ -20,6 +20,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Collett-Dobson Dramatic co. in Byron’s Laughable Comedy in Three Acts:

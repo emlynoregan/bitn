@@ -19,6 +19,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Aberdeen 108 & 14 (122) defeated Clare 2nd Eleven 83 & 35 (118)

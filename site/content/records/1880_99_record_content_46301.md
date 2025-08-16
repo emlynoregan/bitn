@@ -19,6 +19,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  In the last few days rain has been falling.  At Mt Bryan East 0.75” fell on Monday and the fall extended to the north.  Kooringa so far has recorded 7.86” for the year and 0.63” since last Saturday.  There is no news from the east.

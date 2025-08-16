@@ -19,6 +19,7 @@ topics:
 - finance
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  The £5 shares are changing hands at £30.  CHECK THIS

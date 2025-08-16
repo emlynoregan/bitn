@@ -18,6 +18,7 @@ topics:
 - supplement
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The demand for literature was catered for with a supplement.  This seems likely to have been printed elsewhere and been the same for a number of papers as it sometimes is unavailable in time, not having arrived.  It was a single, full-sized, loose sheet in the middle of the paper.

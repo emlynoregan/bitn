@@ -18,6 +18,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Sunday School Anniversary, Sunday 6 November. Tea meeting 9 November.  Sunday afternoon service of song: The Little Pilgrim.

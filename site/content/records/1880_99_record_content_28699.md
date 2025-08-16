@@ -20,6 +20,7 @@ topics:
 - advertisement
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The return of the Faust Family and Herr Von Der Mehden, the great cornet soloist.  For one night only: 29 May.

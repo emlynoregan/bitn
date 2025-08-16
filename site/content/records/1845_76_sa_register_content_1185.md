@@ -19,6 +19,7 @@ topics:
 - employment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wanted: A general Superintendent at the Burra Burra Mines [Repeated from earlier.]

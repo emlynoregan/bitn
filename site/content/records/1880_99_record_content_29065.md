@@ -18,6 +18,7 @@ topics:
 - trees
 - urban planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader considers the need for further street trees in Burra and care of those already planted.

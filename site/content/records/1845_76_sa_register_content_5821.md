@@ -37,6 +37,7 @@ topics:
 - politics
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 March 1851, page 4

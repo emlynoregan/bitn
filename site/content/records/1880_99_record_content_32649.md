@@ -19,6 +19,7 @@ topics:
 - animal welfare
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The dog poisoner is about again.  On Monday morning 16 dogs were found poisoned in the town from baits laid in the streets.

@@ -21,6 +21,7 @@ topics:
 - business
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.W.G. Nicholls, The Friend of the Millions Temperance Hotel, Hindley Street.

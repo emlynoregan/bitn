@@ -21,6 +21,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Anniversary of the opening of St Joseph’s will be celebrated on 10 Nov.; Rt Rev. Dr Reynolds, Bishop of Adelaide, will preach and preside at the sacrament of confirmation.

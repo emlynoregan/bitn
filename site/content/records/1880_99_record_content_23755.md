@@ -18,6 +18,7 @@ topics:
 - cricket
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The report says this is a win ‘by 79 runs’, but the figures printed suggest a win by 88 on the first innings.]

@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A capsize. A trap capsized on the road to Copperhouse on 28 July, flinging out Mr J.M. Patterson. No serious injuries.

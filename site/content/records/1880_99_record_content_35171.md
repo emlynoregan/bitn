@@ -23,6 +23,7 @@ topics:
 - economics
 - slag
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Copper Price holds up, but the Bartle slag craze has subsided and the slag dump is again awaiting any interested party, but those who backed Bartle when copper was £40 per ton are shy of involvement when it has reached £60 per ton.  We believe there would be more tributers at work if SAMA took a lower %.  We hear they expect 5/- in the £.  [i.e. 25%]

@@ -20,6 +20,7 @@ topics:
 - industry
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The English & Australian Copper Co. is talking of erecting smelters in Burra, if the mine goes to work again.

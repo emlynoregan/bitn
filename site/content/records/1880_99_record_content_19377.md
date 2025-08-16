@@ -20,6 +20,7 @@ topics:
 - community
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The British and Foreign Bible Society asked to use the hall on 1 November.  Permission was refused on the grounds that there was a policy of not letting the hall on Sundays for religious or other purposes except in the case of a disaster to any churches requiring its use.

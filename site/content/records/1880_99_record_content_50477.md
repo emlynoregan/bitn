@@ -20,6 +20,7 @@ topics:
 - mail
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Modern Travel!  On 17 May 1893 Mr John Snell posted a letter to Cornwall and he received a reply on 17 July.  40 years ago he ‘had to content himself on the water six months’.

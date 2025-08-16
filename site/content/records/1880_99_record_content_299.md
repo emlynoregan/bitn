@@ -19,6 +19,7 @@ topics:
 - cricket
 - scores
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra 58 & 131 (196) and True Blues 64 & 26 for 7 wickets.

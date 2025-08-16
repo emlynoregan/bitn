@@ -21,6 +21,7 @@ topics:
 - advertisement
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 August Miller	(Late of W. Henderson & Co.) Shoeing & General Smith on the premises lately occupied by J. Hutson

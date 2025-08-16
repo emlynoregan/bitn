@@ -19,6 +19,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The break afforded by the recent rains looks very promising and farmers are busy.  The high price of chaff (£7-10-0 a ton) places it beyond the reach of many.

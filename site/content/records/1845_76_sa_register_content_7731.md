@@ -20,6 +20,7 @@ topics:
 - water
 - diggings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Overland to Victoria.  Having talked to some who have returned overland from the diggings we learn that their sufferings have been very great from lack of water.  Many of the travellers are worn out with fatigue and wanting food without the means to procure it.  Many horse carts are abandoned in the desert east of the Murray; their horses added to other teams.  Bags of flour and other heavy items lie abandoned at watering places, so great is the rush to obtain water.  Many bullocks in the teams have died.

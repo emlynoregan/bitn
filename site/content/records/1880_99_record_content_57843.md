@@ -20,6 +20,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  Water was turned on at the oval on Saturday in full force and allowed to run for hours until noticed about 8 a.m.

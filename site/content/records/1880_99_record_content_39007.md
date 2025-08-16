@@ -28,6 +28,7 @@ topics:
 - mining
 - resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Fairplay’ points out that the unfairness mentioned in the previous editorial about one part of the town closing hotels on Sunday and others being open already applies as North Ward hotels are closed and the only way to equalise matters is to close hotels in East and West Wards as well.

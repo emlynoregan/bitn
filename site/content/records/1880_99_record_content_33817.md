@@ -21,6 +21,7 @@ topics:
 - society
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a social in the old German Chapel at Redruth on Thursday evening last.  Over 50 members sat down to a spread and there were toasts and speeches to celebrate the six months since the inauguration of the society.  Membership is now c. 70.

@@ -21,6 +21,7 @@ places_mentioned:
 topics:
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  Last Sunday when Ah Chin was visiting his cousins in Ayers St the horse in his vehicle bolted just as he was about to chain the wheel.  Fortunately it negotiated a number of corners without damage and was finally stopped near Charley Grow’s stables by a lad named Lines, who delivered it to the driver who ‘thankee Jack welly muchee’.

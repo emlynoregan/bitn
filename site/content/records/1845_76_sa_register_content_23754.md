@@ -19,6 +19,7 @@ topics:
 - crops
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The crops for twenty miles to the north are in excellent condition.  There is no blight and some wheat stands five feet high and this in a district which only a few years ago was said to be unfit for agriculture.  A competent judge has inspected many farms and expects the yield to be between 20 and 30 bushels per acre.

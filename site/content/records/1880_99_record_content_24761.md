@@ -19,6 +19,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Co. VF Annual Meeting is called by F.W. Holder, Commanding Officer.

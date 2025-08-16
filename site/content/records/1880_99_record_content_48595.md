@@ -20,6 +20,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Wittber will be presented with a marble clock by pupils of the Burra School.

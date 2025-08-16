@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last Saturday: St Mary’s 192 defeated Aberdeen 52.

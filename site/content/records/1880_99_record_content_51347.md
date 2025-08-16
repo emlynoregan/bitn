@@ -23,6 +23,7 @@ topics:
 - railways
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the depression in SA. And in Australia generally.  Marked in SA by:

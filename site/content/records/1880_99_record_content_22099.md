@@ -19,6 +19,7 @@ topics:
 - land
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial advocating a Land Tax, and against a progressive tax.  Discusses also land nationalisation.

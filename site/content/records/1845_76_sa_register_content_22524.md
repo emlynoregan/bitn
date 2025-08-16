@@ -19,6 +19,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Liberal Contributor to the Fund’ writes a letter:

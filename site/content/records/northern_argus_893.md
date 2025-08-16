@@ -21,6 +21,7 @@ topics:
 - ambulance services
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Caring & Sharing Group had 25 at the workshop on drug and alcohol abuse.  Rosemary Opperman will speak on ambulance services at the next meeting.

@@ -21,6 +21,7 @@ topics:
 - building
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A New Building in Queen St for Mr Bruse will be a mattress factory and will replace an old building known as the Post Office and Court House.

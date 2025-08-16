@@ -20,6 +20,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident at Kapunda Mine.  One man has died and three others have been temporarily disabled by foul air at the deep levels of the Kapunda Mine.

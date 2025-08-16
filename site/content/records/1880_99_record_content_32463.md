@@ -19,6 +19,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Democratic Age, heralded in by the French Revolution 100 years ago.  It marked the rise of individualism in both religion and politics.

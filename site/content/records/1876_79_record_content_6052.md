@@ -25,6 +25,7 @@ topics:
 - sport
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. Burra played Kapunda last Saturday at Aberdeen and won by 5 wickets. This season Burra has played 5 matches and won 4 with one drawn (against Seven Hills). They have defeated Farrell's flat, Mintaro, Clare & Kapunda.

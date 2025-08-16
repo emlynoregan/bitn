@@ -21,6 +21,7 @@ topics:
 - assay
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A sample of ore from Wheal Sarah last week was assayed by Mr Hampton of the Copper Works at 63¾%.

@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Main Road. The new main road declared from Mt Bryan Station really extends only as far as Mt Bryan East P.O. The Baldina to Mongolata Road has been added to the list.

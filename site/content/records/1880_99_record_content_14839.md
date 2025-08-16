@@ -19,6 +19,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope met as usual last Tuesday in the Wesleyan schoolroom. There was a large attendance, but rather a poor program was gone through.

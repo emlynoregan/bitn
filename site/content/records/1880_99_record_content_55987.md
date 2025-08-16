@@ -22,6 +22,7 @@ topics:
 - inquest
 - manslaughter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Louisa Sophia Doretta Schultz died at Petersburg on 1 February and an inquest decided her death from cancer might have been accelerated by some irritant administered under the direction of Dr Alfieri.  The doctor and a companion recently visited Burra as ‘The Roman & American Specialists’.  It is believed police will take out a warrant for Dr Alfieri’s arrest for manslaughter.

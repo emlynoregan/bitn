@@ -19,6 +19,7 @@ topics:
 - road
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arrangements have been made conjointly with the District Council for a survey of a road to Princess Royal.

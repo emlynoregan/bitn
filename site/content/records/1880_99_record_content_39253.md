@@ -24,6 +24,7 @@ topics:
 - editorial
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Editorial is a strong attack on the Municipal Skinflints who have been paying the Town Clerk £90 p.a.: £50 as Town Clerk, £25 as Secretary to the Waterworks, £10 as Secretary to the local Board of Health.  Cr Sampson moved an extra £5 for the Waterworks.  The discussion that followed was mean spirited because ‘Mr Davey receives les remuneration for work done than any other Town Clerk in South Australia.’

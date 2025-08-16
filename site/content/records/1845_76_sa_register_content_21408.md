@@ -18,6 +18,7 @@ topics:
 - fire
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There was another fire towards Booborowie on Friday 29 November.

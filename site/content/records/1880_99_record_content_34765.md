@@ -18,6 +18,7 @@ topics:
 - hunting
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Game Birds.  ‘Close season for ducks, turkey’s, [sic] black swans, geese and plovers being ended.’

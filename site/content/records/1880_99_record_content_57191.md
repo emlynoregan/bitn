@@ -48,6 +48,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A special game was played in Mr Lockyer’s Paddock at the North End of Town last Saturday.  Captain Winnall’s team 58 defeated Captain Kennedy’s 38.

@@ -20,6 +20,7 @@ topics:
 - health
 - visitor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Mahommedeen is visiting Burra and may be consulted at the Burra Hotel.

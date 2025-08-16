@@ -24,6 +24,7 @@ topics:
 - society
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a mock election last meeting and the results of a well conducted campaign were: C. Fuss 35, Mr Rabbich 15, Mr Richardson 14, Mr Morton 11 and Mr Hardy 9.  The first two were declared ‘elected’.

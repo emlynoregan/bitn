@@ -18,6 +18,7 @@ topics:
 - literature
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 28 Jan 81	Serpent Ch XVI-XVII	Franz Muller’s Wife	Victorian International Exhibition:	X	X			X	X	X

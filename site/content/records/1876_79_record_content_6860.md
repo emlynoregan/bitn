@@ -20,6 +20,7 @@ topics:
 - technology
 - betting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Totalisator. Siegfried Franck of the Patent Totalisator Office writes of the uses of the machine which has potential as an office machine as well as in betting.

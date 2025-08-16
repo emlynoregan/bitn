@@ -19,6 +19,7 @@ topics:
 - community
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gossip. There are 11/3 columns of gossip in Cornish dialect by `Cousin Jenny and Aunt Betty'.

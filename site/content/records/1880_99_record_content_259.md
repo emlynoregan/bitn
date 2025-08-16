@@ -23,6 +23,7 @@ topics:
 - agriculture
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fires.  Several fires broke out on Tuesday in the severe heat.  One on Braefoot Gum Creek burnt about 1,000 acres of feed.  One at Mt Bryan spread from the Government Road into stubble on Ind’s Farm and spread towards Simpson’s and Finley’s which were only saved by a wind change which turned it back and burnt about 900 bushels of wheat together with the winnower, tarpaulins and tools.

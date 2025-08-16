@@ -21,6 +21,7 @@ topics:
 - services
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Annual British and Foreign Bible Society’s services, Sunday, Monday & Tuesday.  Deputation, Rev. W. Wilson of Port Pirie.

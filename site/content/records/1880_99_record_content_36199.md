@@ -24,6 +24,7 @@ topics:
 - politics
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.H. Lake seconded Holder’s vote of thanks to returning officer Mr Forder and was supported briefly by J. Dunstan, W.H. Duncan and T. Ward.  Mr Ridgway seemed somewhat disgruntled in his supporting comments.

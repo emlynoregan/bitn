@@ -18,6 +18,7 @@ topics:
 - rain
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  Further useful rain has made a good start to the season.

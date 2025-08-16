@@ -22,6 +22,7 @@ topics:
 - hospitality
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Aberdeen Hotel. Proprietorship has passed from Mr Orchard to Mr J. Broad, formerly of the Willogoleech  Hotel.

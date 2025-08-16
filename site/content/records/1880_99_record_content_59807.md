@@ -19,6 +19,7 @@ topics:
 - sports
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Sports were held on Easter Monday for the first time and they were well supported despite the unfavourable weather.  W. Hagen fell in the Sheffield Handicap race and broke his collarbone in two places.  Results are printed.

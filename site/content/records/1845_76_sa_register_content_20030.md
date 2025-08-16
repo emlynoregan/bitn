@@ -18,6 +18,7 @@ topics:
 - community
 - pranks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Pranks.  A number of young ‘gentlemen’ have of late been amusing themselves at night removing carts to creeks, turning over small outhouses and various similar pranks.

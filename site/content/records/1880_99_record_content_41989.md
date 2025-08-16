@@ -20,6 +20,7 @@ topics:
 - government
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Clubs.  Regulations published this week relate to rifle clubs formed under the Defence Forces Act Amendment Act 1890.

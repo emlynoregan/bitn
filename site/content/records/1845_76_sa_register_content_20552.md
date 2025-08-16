@@ -19,6 +19,7 @@ topics:
 - employment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 For unskilled labour £300,000

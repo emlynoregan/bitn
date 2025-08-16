@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  A Return Thanks Notice reveals that Andrew Thomas (Drew) Anderson died on 11 June 1986.

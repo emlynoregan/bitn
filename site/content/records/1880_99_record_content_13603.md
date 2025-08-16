@@ -20,6 +20,7 @@ topics:
 - business
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.F. Akhurst has moved from the No. 1 office in the suite next to Drew & Co.’s to the one in the rear of it, next to Mr Cave’s.

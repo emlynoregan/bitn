@@ -20,6 +20,7 @@ topics:
 - agriculture
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Paratoo Shearing - over 200 shearers and hands passed through Burra on Wed. for the shearing at Paratoo, arriving by special train and proceeding in 3 coaches and 3 wagons

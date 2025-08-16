@@ -29,6 +29,7 @@ topics:
 - religion
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Lipsett & the Church. W. Pearce, Philip Lane & James Phillips write in reply to R.W. Campbell's letter denying that E. Lipsett (now in the north) resigned his membership upon the charge being proved. They say the charge was withdrawn. They also object to the publishing of details of church meetings which are matters for the church alone. The editor comments: - Neither side can say the charge was proved or not: as no vote was taken both views are merely opinions. The other point is the CONDITION of withdrawal.

@@ -21,6 +21,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. From 17 May Opie’s coaches start from Hallett for the North East and will run daily between Hallett & Terowie & also daily from Jamestown to Hallett.

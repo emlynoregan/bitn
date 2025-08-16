@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Concert for the School, Church and Convent debt fund was held on Friday at the Institute and drew a good audience, which enjoyed a very pleasant evening.  [Reviewed in c. ⅓ column.]

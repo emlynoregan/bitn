@@ -20,6 +20,7 @@ topics:
 - meeting
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had 47 at their last meeting for an evening of duets, songs and recitations.  Next week features a debate.

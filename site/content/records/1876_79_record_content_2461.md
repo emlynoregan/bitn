@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bridge: another note on the dangers of the Miners' Arms footbridge

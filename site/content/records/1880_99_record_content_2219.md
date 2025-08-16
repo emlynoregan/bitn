@@ -18,6 +18,7 @@ topics:
 - politics
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayoralty.  Mr P. Lane has agreed to stand again for Mayor.

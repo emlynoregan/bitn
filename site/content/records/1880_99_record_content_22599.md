@@ -19,6 +19,7 @@ topics:
 - unemployment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Beetaloo Reservoir work is now mainly done, releasing more unemployed onto the job market.

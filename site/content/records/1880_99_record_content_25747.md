@@ -20,6 +20,7 @@ topics:
 - food
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a letter suggesting it is amazing that the once scarce item ‘butter’ has, since the recent invention of ‘butterine’ suddenly become common.  He hopes all the storekeepers are being honest and selling the same by its correct name!

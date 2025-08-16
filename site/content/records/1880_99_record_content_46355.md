@@ -20,6 +20,7 @@ topics:
 - community
 - finances
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Annual Dinner was largely attended and the Burra Brass Band contributed to the enjoyment in the afternoon and evenings.  Church finances were reported to be good and the debt was reducing.

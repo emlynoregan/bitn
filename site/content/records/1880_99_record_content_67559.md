@@ -21,6 +21,7 @@ topics:
 - press
 - public debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.G.M. Murphy, of St Mary’s Rectory, writes protesting the leading article of 15 November concerning the ineffectiveness of the Reformatory.

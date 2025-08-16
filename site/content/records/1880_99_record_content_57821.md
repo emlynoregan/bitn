@@ -18,6 +18,7 @@ topics:
 - employment
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dayman’s pay was increased from 6/- to 6/6 a day.

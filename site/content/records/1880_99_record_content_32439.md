@@ -21,6 +21,7 @@ topics:
 - social
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club dinner & social.  The dinner was followed by an evening of toasts and songs.  P.L. Killicoat was in the chair assisted by J.D. Cave.  The report extends for 1¾ columns.

@@ -22,6 +22,7 @@ topics:
 - parliament
 - requisition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Requisitions carrying long lists of names call upon G.H. Lake and F.W. Holder to stand for Parliament, along with their agreement to do so.

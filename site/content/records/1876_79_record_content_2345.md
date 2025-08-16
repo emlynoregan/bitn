@@ -19,6 +19,7 @@ topics:
 - institution
 - beautification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra Institute was beautified by the planting of trees, shrubs and flowers in front of it.

@@ -21,6 +21,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  There is at last a move to get the Show going again with a meeting at the Commercial Hotel tomorrow night.

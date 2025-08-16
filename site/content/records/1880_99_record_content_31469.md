@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  H. Taylor went missing out east about 2 years ago and his body has now been found on 9 Jan. 1889 at Oakvale.  Death appears to have been from natural causes as his pocket book containing money was with him and a billycan with his name scratched on it.  [The paper actually says a search was conducted 2 years ago for a man missing from 3 Jan. 1886, so one might assume either one or other of these figures is probably wrong.]

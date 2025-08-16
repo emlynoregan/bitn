@@ -18,6 +18,7 @@ topics:
 - school
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina School.  The Government intends to build a schoolroom for Baldina at a cost of £450, at once.

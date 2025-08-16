@@ -23,6 +23,7 @@ topics:
 - trip
 - National Trust
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra National Trust will have a day trip to Wolta Wolta on 10 May and will also visit the Trust Museum in Clare and the Medika Gallery in Blyth, returning via the Stringybark Reserve National Park.

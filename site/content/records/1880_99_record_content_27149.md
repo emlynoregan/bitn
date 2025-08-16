@@ -19,6 +19,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The return rifle match between five civilians and five members of the Burra Co. VF was fired on the range on Wed. afternoon: Volunteers 234 defeated Civilians 144.

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Apoinga News, 9 October

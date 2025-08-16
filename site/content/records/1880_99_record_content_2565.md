@@ -21,6 +21,7 @@ topics:
 - fire
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Ridgway has built a new hotel in Aberdeen to replace the Aberdeen Hotel, which was destroyed by fire.

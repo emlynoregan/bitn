@@ -21,6 +21,7 @@ topics:
 - election
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder is holidaying for a few days at Mongolata after almost six years of continuous work.  He will open his election campaign at Burra on 4 April.  The main topic will be Federation – voting for the amended Federation scheme is on the same day as the election.

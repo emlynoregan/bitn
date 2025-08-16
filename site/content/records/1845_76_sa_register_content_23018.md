@@ -21,6 +21,7 @@ topics:
 - operations
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  Workings have been resumed on a small scale from the beginning of November.  This is but a prelude to the more enlarged and important operations to be carried out under the supervision of Mr Swansborough.  Some of the new machinery arrived on the Orient and the rest is expected shortly.

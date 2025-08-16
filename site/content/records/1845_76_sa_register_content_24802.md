@@ -20,6 +20,7 @@ topics:
 - labor
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Half-holiday.  A memorial has been presented by the assistants to the Burra tradespeople requesting a half-holiday on Wednesdays.  This has been granted and is a step that might well be emulated in other parts of the colony.  It releases from constant toil those whose occupation confines them indoors more than any other class.  It is hoped the young folk so freed will take the opportunity to improve their health and also to pay some attention to the cultivation of their minds; a process that is much neglected.

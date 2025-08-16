@@ -21,6 +21,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Obituary] The late Mrs Ford was a Colonist [of] 43 years

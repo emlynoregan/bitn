@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Church anniversary, Kooringa. The form of such celebrations was as follows: Morning, Afternoon, and Evening Services on Sunday. (Perhaps only two of these at small chapels) On Monday a tea in the schoolroom and a public meeting in the church afterwards with a report on the year's activities with speakers, prayers and songs. In this case they reported the library had c.500 volumes.

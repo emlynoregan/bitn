@@ -23,6 +23,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Harry Woods, husband of Mary Woods, died at the Burra Hospital on Saturday.  Captain Griffiths of the Salvation Army officiated at the funeral on Sunday.

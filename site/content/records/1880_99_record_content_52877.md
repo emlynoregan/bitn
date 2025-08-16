@@ -20,6 +20,7 @@ topics:
 - event
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fitzgerald Bros. Great Circus and Menagerie at Burra Monday 12 February.

@@ -19,6 +19,7 @@ topics:
 - legal
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Packard retained as Council solicitor at a fee not to exceed £10-10-0.

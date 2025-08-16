@@ -19,6 +19,7 @@ topics:
 - concert
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Mt Bryan Concert for the Fife & Drum Band was a great success and is reviewed at some length.

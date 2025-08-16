@@ -19,6 +19,7 @@ topics:
 - missing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Missing man.  The missing Mr Oppermann has not been found, but rumours now suggest he is in hiding.

@@ -29,6 +29,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 North Ward Election Meeting at Broad’s Hotel Aberdeen Tuesday 25 November. About 30 people attended. 

@@ -20,6 +20,7 @@ topics:
 - invention
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agriculture. A new type of smutting machine was displayed. Invented by Julius Both, a miller at the Burra Mill.

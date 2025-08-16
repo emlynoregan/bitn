@@ -18,6 +18,7 @@ topics:
 - artesian wells
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Artesian Water. The article on Boring For Water: Part III.

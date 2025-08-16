@@ -21,6 +21,7 @@ topics:
 - legal
 - prosecution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Diseased sheep. The Durack Bros. will be prosecuted in Adelaide for crossing the border without due notice and for introducing diseased sheep into the province.

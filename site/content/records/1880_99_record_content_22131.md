@@ -19,6 +19,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Gold.  The miners from Burra are seeing a little colour, but no real gold.  Some others are reportedly doing a little better.

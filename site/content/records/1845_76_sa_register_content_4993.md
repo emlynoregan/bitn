@@ -26,6 +26,7 @@ topics:
 - inquest
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  An inquest was held at the Miners’ Arms Hotel on Thursday 29 August on the body of Joseph Byce, who had been killed while working at the Burra Burra Mines on the previous day.  W. Lang Esq. was the coroner.  Deceased had been employed to fill up some of the exhausted workings of the mine.  This was being done from a hole on the surface.  Deceased had incautiously got on top of the heap of loose rubble, which had sunk down with him, burying him.  On being recovered from the 20 fathom level he was quite dead.  Dr Chambers had been sent for and arrived before the recovery of the body.  He found the deceased had been suffocated, there being dirt in his mouth that prevented his breathing.  Several witnesses were examined and they said it was usual for exhausted workings to be filled in this way and that no blame attached to anyone except the deceased.

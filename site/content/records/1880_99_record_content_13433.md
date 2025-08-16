@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Passerby’ writes saying the new footpath on the west side of Thames St is rendered useless in wet weather due to the water from houses running across it for want of a few loads of stuff to turn it into its correct path and from the lack of spouting on SAMA’s cottages which pour water onto the path, cutting it up and giving a third-rate shower bath to any passers-by.

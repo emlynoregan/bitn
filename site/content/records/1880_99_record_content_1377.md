@@ -20,6 +20,7 @@ topics:
 - show
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute, 24 & 26 July, 1st Appearance of Hudson’s Surprise Party, the most novel show in existence.  A mixture of humour and pathos.

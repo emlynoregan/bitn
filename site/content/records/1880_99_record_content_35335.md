@@ -23,6 +23,7 @@ topics:
 - appointment
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church quarterly meeting was held a few days ago and income exceeded expenditure.  A committee was appointed to buy a trap for the use of local preachers.  Four houses are offered as suitable for a parsonage.  It was unanimously decided to buy that of Mr George Sara at Aberdeen, for £550.  Mr John Dunstan was elected lay representative at Conference.

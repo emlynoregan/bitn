@@ -19,6 +19,7 @@ topics:
 - agriculture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Custance’s lecture on ‘Making the Land Pay’ attracted only about 60-70 people and deserved a much larger gathering.  The printed report runs to 1¾ columns.

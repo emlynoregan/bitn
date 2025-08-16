@@ -18,6 +18,7 @@ topics:
 - poetry
 - serials
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The supplements comprised a single broadsheet page of seven columns of small print.  The poetry was quite limited and the prose each week would have provided a good deal of reading ranging over a wide variety of topics.

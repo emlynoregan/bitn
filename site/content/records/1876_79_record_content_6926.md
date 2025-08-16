@@ -19,6 +19,7 @@ topics:
 - public works
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well. Boring has stopped pending the erection of new steam powered boring apparatus. Delays were caused by the unexpected appearance of rock at 8' which turned to hard blue sandstone at 24'. Considerable detail is given: rods and chisels were used at first and in the hard rock the American system of boring with a strong rope. Details next issue.

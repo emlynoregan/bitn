@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Cameron & Co. have a new line in tinned tobacco: Main Top Navy Cut.

@@ -21,6 +21,7 @@ topics:
 - auction
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Advt.  Dalgety Bennetts Farmers will auction the house at 4 Butterworth Street on 15 May at 2 p.m. on the property, under instructions from SA Teacher Housing Authority.  It is a double fronted stone residence of three bedrooms, lounge, kitchen, bathroom, etc.

@@ -18,6 +18,7 @@ topics:
 - literature
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 10 Feb.	XI-XII	A Swim for Life:	X	X	X	X		X	X	X

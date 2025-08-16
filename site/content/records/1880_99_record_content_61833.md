@@ -23,6 +23,7 @@ topics:
 - rates
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mount Bryan District Council ratepayers have petitioned the Government to reduce the number of Councillors in Middle and East Wards from two to one.  Middle Ward contributes only £23-6-8 and East Ward only £13-9-6.  This is expended in travelling expenses leaving little or nothing for working expenses in these wards so that the whole burden of costs falls on West Ward which contributes £158-5-1.

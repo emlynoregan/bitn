@@ -21,6 +21,7 @@ topics:
 - business
 - accommodation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  G. Webber, having made additions to his premises can accommodate anyone wishing to stay in the Burra. Burra Refreshment Rooms, Market Square.

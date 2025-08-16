@@ -20,6 +20,7 @@ topics:
 - funeral
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A funeral sermon was preached on Sunday 26 August at the Bible Christian chapel by Rev. Allen, touching the death of the late Mr Thomas Gubbins.

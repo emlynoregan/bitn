@@ -21,6 +21,7 @@ topics:
 - land
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  SAMA offering to sell or lease Plan Sections 6 & 7 of the Burra Special Survey of c. 160 acres.

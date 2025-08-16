@@ -24,6 +24,7 @@ topics:
 - youth
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Golf.  Some three years ago Jim Richards was President of the Golf Club and he initiated a junior golf club, which under his guidance and with assistance from others golfers, has gone from strength to strength.  Today 21 young boys aged 7-13 play the game regularly.  Last Sunday the junior championship was played and taken out by Marcus Scholz.  Earlier in the year some of the boys attended a golf clinic at Eudunda where Chris Baulderstone and Sean Knight both did well, bringing home trophies.

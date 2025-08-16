@@ -21,6 +21,7 @@ topics:
 - entertainment
 - panorama
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  In the Institute Hall, Monday 28 August

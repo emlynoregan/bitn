@@ -32,6 +32,7 @@ topics:
 - council
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Council wishes to close this roadway in the interests of better traffic flow and safety.  Protesters say this is a nonsense and the last serious accident was more than 35 years ago and Council is merely indulging in a whim.  The Burra Preservation Organisation has been formed to defend the Square and has nearly 300 members.  They claim that Market Square is the heart of Burra historically and economically.  It is said to be the first spot laid out by the South Australian Mining Association, the place where settlers gathered to pay a shilling a bucket for water and where people have always gathered for celebrations and thanksgiving.

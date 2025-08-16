@@ -21,6 +21,7 @@ topics:
 - community
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr D. Williams’s neighbours intend to replace his haystack which was destroyed by fire at Iron Mine a few days ago.

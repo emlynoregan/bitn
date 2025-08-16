@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Primitive Methodist Church Public Dinner & Concert at the Institute. Dinner 1/6. Concert 2/- & 1/-. Supper follows.

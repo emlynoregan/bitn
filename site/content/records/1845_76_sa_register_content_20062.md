@@ -17,6 +17,7 @@ topics:
 - mail
 - communications
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The recent changes to the mail make it possible to get an answer by the return mail.

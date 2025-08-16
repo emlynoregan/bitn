@@ -20,6 +20,7 @@ topics:
 - public works
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The Government promises some work ‘at an early date’.  In the South-East drainage works are to employ 400-500.

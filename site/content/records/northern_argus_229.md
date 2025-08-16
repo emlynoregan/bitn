@@ -27,6 +27,7 @@ topics:
 - community
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Letter to the Editor from Helen Stockman

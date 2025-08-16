@@ -24,6 +24,7 @@ topics:
 - examinations
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Model School’s pupil teachers have done well at recent examinations.  The following are the passes:	1st Year	M.S. Bampton

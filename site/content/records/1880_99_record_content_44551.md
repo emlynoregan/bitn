@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Bradwood & Wise of Pt Adelaide have got the tender for the Bon Accord Bridge and will commence soon.  This will be welcomed by the many at present unemployed.

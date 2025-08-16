@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Professor Hill is due to give a lecture at the Mechanics’ Institute on Monday evening next on ‘An Evening with Hood and Dickens’.

@@ -22,6 +22,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Queen Victoria’s Jubilee.  The Mayor has supplied a medal commemorating the Queen’s Jubilee to each child in the town and there was a large distribution at the public school yesterday by Mr Wittber.

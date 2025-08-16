@@ -25,6 +25,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. At Kooringa, 2 October, Eliza Hosking, wife of John Hosking, aged 56.

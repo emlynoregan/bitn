@@ -21,6 +21,7 @@ topics:
 - builders
 - merchants
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan	Timber & Iron Merchants, Builders & Contractors, Building Materials, Steam Saw Mills, Burra Brick Yards

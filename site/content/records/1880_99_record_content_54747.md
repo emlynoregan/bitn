@@ -27,6 +27,7 @@ topics:
 - music
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Alfred Fairbairn’s Concert Party will give a Grand Evening Concert at the Burra Institute Wednesday 3 October.

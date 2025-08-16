@@ -22,6 +22,7 @@ topics:
 - events
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Salvation Army Guards’ Band will visit Burra on 5 April and play in Market Square at 7 p.m. and the Barracks at 8 p.m.

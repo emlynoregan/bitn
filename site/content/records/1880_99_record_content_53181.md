@@ -20,6 +20,7 @@ topics:
 - manoeuvres
 - Mounted Rifles
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Capt. Watt has recovered sufficiently to take charge of the men going to manoeuvres at Gladstone tomorrow.  15 of the Mounted Rifles will make the trip with their horses.

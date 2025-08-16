@@ -22,6 +22,7 @@ topics:
 - reward
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Burra Mines.  Several houses and fences in Kooringa, the property of SAMA, having been wilfully damaged and portions of same stolen, I hereby notify a reward of £5 will be paid for information leading to a conviction.

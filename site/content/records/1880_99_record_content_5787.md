@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Amateur Dramatic Co.’s presentation of, Milky White played to a very fair house and was creditably done.  We understand the proceeds were about £7.

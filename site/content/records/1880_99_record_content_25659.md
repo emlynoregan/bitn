@@ -19,6 +19,7 @@ topics:
 - shooting
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firing March.  The final competition for the W. Pearce Jun. silver cup was fired on Saturday last and was won by Private Cooksley.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Schoolroom sale of gifts on 7 Dec. raised 00 for the Church Fund.

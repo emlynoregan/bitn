@@ -19,6 +19,7 @@ topics:
 - school
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice reported much improved attendance this quarter and there were only 33 cases against whom there was a charge.  There have been no complaints about the administration or management of the school.

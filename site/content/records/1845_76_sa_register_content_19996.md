@@ -21,6 +21,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Lloyd gave a lecture at Westbury [Wesleyan Church] on Tuesday evening last following a bazaar held there.  The proceeds of £20 go towards reducing the debt on the harmonium.

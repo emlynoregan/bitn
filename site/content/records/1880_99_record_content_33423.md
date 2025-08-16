@@ -20,6 +20,7 @@ topics:
 - urban development
 - tree planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting has seen over 400 trees added to the streets and reserves in Burra this year.

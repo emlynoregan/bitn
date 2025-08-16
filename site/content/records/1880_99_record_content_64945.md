@@ -20,6 +20,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Industrial School for the Blind will be aided by a fair to be held next April in Adelaide.  A meeting will soon be called to establish a local committee to contribute.

@@ -22,6 +22,7 @@ topics:
 - politics
 - social issues
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Female Franchise.  Mr Robert Caldwell MP has moved in the Assembly for the extension of the franchise to women.  The editor says he thought that when Dr Stirling introduced such a measure on a former occasion:

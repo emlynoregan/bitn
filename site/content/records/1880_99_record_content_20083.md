@@ -18,6 +18,7 @@ topics:
 - public works
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Depression.  Never was work so badly needed and yet Government policy is to stop all public work possible.

@@ -20,6 +20,7 @@ topics:
 - court
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holmes was fined 10/- for riding a horse on the footpath in front of the Burra Hotel.

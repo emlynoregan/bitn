@@ -30,6 +30,7 @@ topics:
 - community
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Next door were tents for tea and dinner under Mrs P.L. Killicoat aided by Mrs T. Sandland and the Misses Cave, Bampton and Gebhardt.

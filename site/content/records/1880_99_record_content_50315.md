@@ -20,6 +20,7 @@ topics:
 - sports
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Tennis Club met at the Commercial Hotel on Friday night to arrange the coming season.

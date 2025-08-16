@@ -22,6 +22,7 @@ topics:
 - vehicle
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Shore was fined 5/- for driving round Best Place corner at more than walking pace.

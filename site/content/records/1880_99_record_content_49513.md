@@ -21,6 +21,7 @@ topics:
 - advertisement
 - guns
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  C.B. Bissen of Grenfell St Adelaide will have a van with guns, rifles and revolvers at the Burra Hotel on Friday and Saturday 14 7 15 April.

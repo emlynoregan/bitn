@@ -21,6 +21,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Robert Kewley, an old Burra identity died last Sunday.  He arrived in SA on the Lady Lilford in 1839.  [Died 13 May, aged 70.]

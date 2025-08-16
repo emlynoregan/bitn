@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Train timetable changes slightly with the first train each way slightly later.

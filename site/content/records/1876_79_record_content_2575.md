@@ -19,6 +19,7 @@ topics:
 - hotel
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bon Accord Hotel. A fire in coir matting in the dining room created much smoke but little other damage before being extinguished

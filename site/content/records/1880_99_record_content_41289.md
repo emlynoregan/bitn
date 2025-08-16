@@ -19,6 +19,7 @@ topics:
 - editorial
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Homestead Blocks. The writer looks at the NZ experience and suggests that those near centres are much more likely to succeed than those away.  They should be close enough for the owner to work in the centre and on the block and to sell produce in the centre.

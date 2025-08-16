@@ -21,6 +21,7 @@ topics:
 - accommodation
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  The Reformer stage-cart is off to the Mines again.  It departs Tuesday morning at 7 o’clock.  The last journey was a fatiguing 15 days.

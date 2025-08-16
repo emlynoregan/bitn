@@ -22,6 +22,7 @@ topics:
 - mining
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver continues to be produced in encouraging amounts at World’s End-Robertstown fields.  The Black Hills claim of Dunstan & Co. is said to be particularly worthwhile.

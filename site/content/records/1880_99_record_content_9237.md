@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  21 & 24 Jan.  Special effort at the Bible Christian Church in aid of circuit funds.

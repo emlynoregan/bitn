@@ -20,6 +20,7 @@ topics:
 - industry
 - closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Ballast Quarries.  The foreman received instructions to suspend operations yesterday, throwing several men out of work.

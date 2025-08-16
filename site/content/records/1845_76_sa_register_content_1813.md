@@ -26,6 +26,7 @@ topics:
 - directors
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Election of Directors:	G.F. Aston	Hon. C.H. Bagot MLC

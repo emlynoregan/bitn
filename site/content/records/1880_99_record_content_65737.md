@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt’s garden will be the site for a Continental – an evening entertainment organised by the local committee of the All Nations Fair to raise money for the Industrial School for the Blind.

@@ -21,6 +21,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Tuesday evening Rev. R.C. Flockart delivered his lecture on ‘Luther and the Reformation’ to a large and attentive audience.  A collection was made on behalf of the chapel at Copperhouse or Westbury.

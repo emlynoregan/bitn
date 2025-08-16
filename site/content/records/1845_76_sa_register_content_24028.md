@@ -28,6 +28,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s Anglican Church in Burra has been renovated and the re-opening services were held on Sunday.  The Bishop of Adelaide preached.  On Monday he delivered his well known lecture on Slavery at an entertainment at which locals provided songs and musical items.  Proceeds went to the repairs fund.  A proposal has been mooted to build the Redruth Church for which £300 is on hand.  Foundations were laid for this many years ago and walls raised 3 to 4 ft before the work was halted.  Now with the railway station at Redruth [sic] and the parsonage [rectory] nearby and such a sum on hand, it seems reasonable to carry out the project.  Some have suggested a different site on the Mine Hill near the Hospital.

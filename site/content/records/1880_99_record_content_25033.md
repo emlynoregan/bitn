@@ -19,6 +19,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alma & Victoria Gold mine at Waukaringa.  After the investment of much effort and a great deal of money for little result it has finally produced 371 oz in four weeks and it appears that profits are about to flow.

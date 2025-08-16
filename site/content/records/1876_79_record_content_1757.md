@@ -20,6 +20,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Chess Club on Mondays (average attendance 4.)  Reading Room average 30 people per day and Amusements Room average 15 people per day

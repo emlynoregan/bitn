@@ -27,6 +27,7 @@ topics:
 - infrastructure
 - management
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The deputation on Monday to the Town Council protested the decision to make each water assessment stand alone.  On learning that the ratepayers were so strongly opposed the resolution was rescinded.

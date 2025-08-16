@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  The eldest son of S. Burns fell from Henderson’s Bridge on Thursday and was badly shaken.

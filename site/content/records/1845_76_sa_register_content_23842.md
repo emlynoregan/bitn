@@ -22,6 +22,7 @@ topics:
 - timetable
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SAR.  Railway regulations are printed along with timetables for passenger trains.

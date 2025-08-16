@@ -19,6 +19,7 @@ topics:
 - committee
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The new By-law re hawkers’ licences was amended to cover only fish, fresh fruit and vegetables and then referred to a committee.

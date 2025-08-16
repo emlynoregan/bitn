@@ -20,6 +20,7 @@ topics:
 - finance
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 He also moved that the £100 standing to the credit of the Cemetery be invested in Corporation bonds.

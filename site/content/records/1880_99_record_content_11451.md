@@ -20,6 +20,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 YMCA.  The second quarter was ushered in at a social on Wednesday in the Kooringa Wesleyan Lecture Hall.  About 130 were present.  There were 3 microscopes, several stereoscopes, a graphoscope*, an electric machine, prints, works of art, curiosities and conversation.  There were also songs, musical selections, light refreshments and teetotal drinks.  [* An apparatus with a magnifying lens for viewing engravings and photographs.]

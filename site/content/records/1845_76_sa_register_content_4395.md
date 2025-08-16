@@ -42,6 +42,7 @@ topics:
 - medical
 - violence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Supreme Court of SA, Adelaide, Wednesday 13 March.

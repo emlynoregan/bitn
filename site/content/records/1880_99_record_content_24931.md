@@ -22,6 +22,7 @@ topics:
 - payment_of_members
 - uproar
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Smyth was received noisily and had difficulty in being heard.  He said he was standing because the others nominated would not undertake to vote according to the wishes of the electorate once elected.  ‘It would be a great thing if the members would vote as desired by the electors.’  Uproar followed.  Having said very little to the point when his time expired, he tried to continue speaking, but the chairman ruled they had wasted enough time and asked him to sit down.  He then left the room.

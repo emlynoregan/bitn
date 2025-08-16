@@ -20,6 +20,7 @@ topics:
 - pests
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East. Yield estimated at 14-15 bushels per acre and would have been more, but for high winds and locusts.

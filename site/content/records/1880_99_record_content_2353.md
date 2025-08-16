@@ -22,6 +22,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The rates have previously been 1/- for the general rate and 3d for the health rate.  A 1/- rate gives only £280 for each ward after allowing for the police moiety and the present ward surplus expenditure.  Middle Ward has the advantage of a special grant of £400 for the main roan past the P.O. and Institute.

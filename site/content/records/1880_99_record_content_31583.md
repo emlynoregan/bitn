@@ -23,6 +23,7 @@ topics:
 - agreement
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy moved Council secure the carrying out of the agreement between Mr Ridgway and Council re the Aberdeen Reserve in which he was bound to spend £5 a year on it. Motion lost.

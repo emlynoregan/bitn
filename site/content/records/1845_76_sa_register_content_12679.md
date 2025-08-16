@@ -28,6 +28,7 @@ topics:
 - anniversary
 - photograph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Zion Primitive Methodist Chapel Redruth

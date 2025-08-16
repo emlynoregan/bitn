@@ -22,6 +22,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another letter protests at the stance of Crs Sampson, Symons and Anderson that 5/6 was a sufficient wage.

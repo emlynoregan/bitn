@@ -21,6 +21,7 @@ topics:
 - fire
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Monday a fire occurred at the Wesleyan parsonage at Redruth in the absence of Mr & Mrs Wylie.  Miss Wylie had visited her father’s study with a candle and half an hour later she noticed smoke issuing from it.  She managed to check the progress of the fire until neighbours arrived and subdued it.  Damage and loss of books and papers is put at £30.

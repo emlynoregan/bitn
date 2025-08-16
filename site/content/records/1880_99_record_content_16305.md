@@ -21,6 +21,7 @@ topics:
 - maintenance
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The curator of the cemetery reported that the woodwork of the mortuary chapel needed painting and the wall in places needed pointing.

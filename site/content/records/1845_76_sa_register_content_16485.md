@@ -22,6 +22,7 @@ topics:
 - accommodation
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Kent, landlord of the Burra Hotel writes re the comment by Mr Bonney on the Bench of Magistrates that all Kooringa hotels were abominable.

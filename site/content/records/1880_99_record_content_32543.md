@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Sunday School celebrated its anniversary last Sunday and Monday.  Dr J.R. Stephens preached.  The tea meeting was largely attended.  Proceeds were £11.

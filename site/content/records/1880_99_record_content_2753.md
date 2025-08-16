@@ -18,6 +18,7 @@ topics:
 - serial
 - short story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 17 Jun 81	Ferryman’s Secret Ch XI-XIII	Romance of a Pocket Book						X	X	X	X

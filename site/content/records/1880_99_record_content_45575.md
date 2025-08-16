@@ -20,6 +20,7 @@ topics:
 - complaint
 - cab
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Resident’ writes hoping the new cab owner will improve conditions by eliminating smoking, swearing and riding on the step to the annoyance of passengers.

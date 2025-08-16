@@ -18,6 +18,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Salvation Army tea on Boxing Day from 4.30 p.m. to 8 p.m.

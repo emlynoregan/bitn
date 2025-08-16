@@ -19,6 +19,7 @@ topics:
 - administration
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Pound is listed as being on section 104 with its nearest P.O. at Klaebe’s, Baldina.

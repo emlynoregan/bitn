@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Henry Williams died 27 February at Burra Hospital of inflammation of the brain, aged 37.  He was the husband of Annie Maria Williams.  [Born 16 May 1857 registered as William Henry Catterel Williams.]

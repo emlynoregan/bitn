@@ -20,6 +20,7 @@ topics:
 - compensation
 - justice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the case of March v. Chivell for compensation for false imprisonment.  March won £25 which the editor regarded as ‘paltry’, but this fact was less important than that a young man will not have to spend his days in jail.

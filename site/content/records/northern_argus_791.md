@@ -19,6 +19,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Other Crimes.  A series of local crimes are troubling Police.  A hotel has been broken into and about $3,300 stolen.  Items to the value of about $3,100 have been stolen from a maintenance depot.

@@ -22,6 +22,7 @@ topics:
 - employment
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper.  An enterprise has been formed in Burra to extract copper from the old slagheap.  Mr Ralph Bartle has secured a 21-year lease to crush, wash and treat the whole of the stuff.  We visited on Friday to see his operations.  Mr Bartle is applying to have water laid on and expects to be employing at least 12 men within three months.

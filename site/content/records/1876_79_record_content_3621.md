@@ -19,6 +19,7 @@ topics:
 - editorial
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [As reported this must have been a rather heated meeting with the whole council much offended by the Govt. action. It is also sometimes incoherent, several times straying onto other subjects in mid stream, such as the Kingston St Bridge and a ford in need of attention.]

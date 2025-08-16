@@ -22,6 +22,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Commissioner of Public Works has revealed that the cost of pumping water to the railways at Burra is <1/- per 1,000 gallons.  The lowest price the Corporation has offered to supply the Government was 1/6 per 1,000 gallons.  The Engineer-in-Chief alleged that the Corporation water was inferior to the other, but it is well known that the water from the Bon Accord was used by the Railway Department for years.

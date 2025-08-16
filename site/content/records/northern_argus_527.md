@@ -20,6 +20,7 @@ topics:
 - redevelopment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Market Square.  An artist’s impression of the Market Square redevelopment is printed.

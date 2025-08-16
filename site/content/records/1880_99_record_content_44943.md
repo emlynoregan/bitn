@@ -20,6 +20,7 @@ topics:
 - society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met to open its fourth season on Friday at Mrs Reed’s.

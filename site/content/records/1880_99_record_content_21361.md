@@ -22,6 +22,7 @@ topics:
 - road repairs
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This year the Government has made no provision for new constructions.  £1,000 remains from the last allocation.  Recent floods have washed much metal from the Baldina Ford and another ford on the same road.  Repairs have been ordered.  £100 has been allocated to the Kooringa-Diprose Creek Road.

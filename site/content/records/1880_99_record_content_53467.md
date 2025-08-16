@@ -19,6 +19,7 @@ topics:
 - advertisement
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert at St Mary’s Schoolroom Tonight and Toy and Fancy Fair there on 24 May.

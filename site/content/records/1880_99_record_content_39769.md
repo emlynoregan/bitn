@@ -21,6 +21,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the Burra oval Burra played Saddleworth at cricket, starting an hour late at 11 a.m. and ending in a draw with Burra 120 and Saddleworth 6 for 86.

@@ -20,6 +20,7 @@ topics:
 - candidates
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Squatter: A heavy gelding, too heavy I think, but his owner is very confident.  I do not expect him to win as he is too heavily handicapped.  He did not attend the preliminary gallop on 22 November at Redruth and I’m afraid he has lost a lot of admirers on this account. [Killicoat]

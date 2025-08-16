@@ -37,6 +37,7 @@ topics:
 - immigration
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The nett value of ore and cash on hand was £27,832-8-10.

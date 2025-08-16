@@ -19,6 +19,7 @@ topics:
 - land sale
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Booborowie: Town allotments to be sold 26 April 1877 and new land in the H. of Mongolata 24 April 1877

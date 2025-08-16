@@ -22,6 +22,7 @@ topics:
 - evicted tenants
 - Irish
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Evicted Irish Tenants.  A meeting was held in the Institute last Wednesday chaired by F. W. Holder and a committee was appointed to see the town canvassed on behalf of the cause.

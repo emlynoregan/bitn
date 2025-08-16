@@ -22,6 +22,7 @@ topics:
 - fundraising
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 15 May 1874, page 5

@@ -19,6 +19,7 @@ topics:
 - railway
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Much discussion locally concerns the possible location of the station.

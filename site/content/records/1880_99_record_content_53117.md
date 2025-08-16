@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Douglas Sunday School Anniversary next Sunday 18 March.  Preacher Rev. H.J. Parkinson.  Public Tea Wednesday 21 March.

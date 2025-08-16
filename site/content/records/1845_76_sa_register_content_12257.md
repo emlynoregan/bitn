@@ -22,6 +22,7 @@ topics:
 - entertainment
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The first lecture was in the Institute, the next at Mr Lamb’s [Aberdeen Hotel] and the third at the [Burra] Hotel.  They were very fairly attended.

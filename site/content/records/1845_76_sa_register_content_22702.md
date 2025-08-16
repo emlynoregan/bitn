@@ -23,6 +23,7 @@ topics:
 - meeting
 - deed of settlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 G.S. Kingston	165

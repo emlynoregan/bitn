@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  New Butcher’s Establishment.  W. Symons has opened his new shop near the Record office in Market Square.

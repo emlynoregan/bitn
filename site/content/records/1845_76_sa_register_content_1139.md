@@ -26,6 +26,7 @@ topics:
 - traffic
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Astonishing Traffic on the North Road

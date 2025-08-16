@@ -20,6 +20,7 @@ topics:
 - cricket
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A scratch match on Wednesday last between two sides of six each resulted in a win for Park’s side 29 over Herbert’s side 23.

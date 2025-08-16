@@ -21,6 +21,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Holloway’s Pills & Ointment.  In the District of Cooringa [sic] Mr John Cousins, Storekeeper in the Township of Cooringa, has been appointed a sub-agent.

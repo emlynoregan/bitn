@@ -17,6 +17,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The Princes Royal Mining Co. Directors make a call of £3 on each share, to be paid by 10 August.

@@ -17,6 +17,7 @@ topics:
 - transport
 - drays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A great many drays are still on the road and as many as fifty can be counted in sight at one time in the town.

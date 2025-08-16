@@ -26,6 +26,7 @@ topics:
 - accident
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Christmas: For last five years Mr A McCulloch of the Princess Royal has made a practice of supplying meat and rations to all poor families so as to enable them to pass Christmas comfortably and happily 55 families participated this year - including some of the new arrivals.

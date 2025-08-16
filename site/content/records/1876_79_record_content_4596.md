@@ -22,6 +22,7 @@ topics:
 - evangelical
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Special Evangelical Service by Mr Henry Rainey of Melbourne at the Bible Christian Church, Kooringa, Friday 23 & Tuesday 27 Aug.

@@ -20,6 +20,7 @@ topics:
 - bands
 - amalgamation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Bands.  In the last few days Mr W.J. Davey has been trying to effect the amalgamation of Davey’s Band and Wheatley’s Brass Band, but apparently the opposing band is refusing to discuss the matter.

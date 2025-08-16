@@ -24,6 +24,7 @@ topics:
 - kerbing
 - water tabling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The total liabilities of the Council on 1 January 1886 was £346-4-2, including a sum of £144-17-6 which the Government claimed as having been overpaid to the Corporation in 1884.  The total liability at the end of the year is expected to be £380, or an increase of £35.  The actual overdraft is £254-18-9 with c. £125 allowed for contingencies to the end of the year.  This seems a very reasonable result seeing that the year has been so hard.  (There are bonded debts to £2,400 repayable mostly between 1890 and 1897, but with £100 due in 1887 and £200 in 1888.

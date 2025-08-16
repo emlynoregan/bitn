@@ -22,6 +22,7 @@ topics:
 - horticulture
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society.  The Flower Show was a great success and as well as wonderful flowers there were good examples of lemons, strawberries, currants and raspberries.  Roses were also better this year.

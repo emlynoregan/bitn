@@ -23,6 +23,7 @@ topics:
 - waterworks
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks.  The Mount Barker District council had similar problems of being overcharged when it took on a scheme like Burra’s - even worse the supply ran out and the Government insisted on payment of six month’s interest when there was no supply.

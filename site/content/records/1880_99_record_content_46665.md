@@ -21,6 +21,7 @@ topics:
 - irrigation
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 If the Baldina Creek scheme was a success, as he was confident it would be, it could be repeated with the World’s End and Newikie Creeks.

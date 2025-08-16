@@ -19,6 +19,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  A Grand Christy Minstrel entertainment is to be offered at Union Hall 4 August.

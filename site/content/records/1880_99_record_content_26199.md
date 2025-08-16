@@ -17,6 +17,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mayor’s Fund at £127-19-6.

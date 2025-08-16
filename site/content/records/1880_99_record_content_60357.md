@@ -24,6 +24,7 @@ topics:
 - accident
 - early settlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Richard Roscoe died on Friday.  In the early days of Burra he had charge of the mail horses at different stages between Kapunda and Burra.  He arrived in SA in 1854 in the Sir William Prowse as a young man and took up his quarters here shortly afterwards.  After some time he had a serious accident which disabled him from working for the rest of his life.  He had a great memory for the early days and a great facility for recounting incidents from them.  He died in the Burra Hospital leaving a wife aged 86 who is in very poor circumstances and deserving of the kindness of some of our philanthropic friends.  [Registered as Richard Roscrow died 15 August aged 76.]

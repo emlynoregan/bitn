@@ -19,6 +19,7 @@ topics:
 - larrikinism
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Henry Bennetts denying he had anything to do with throwing bread at the Salvation Army meeting.

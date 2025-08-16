@@ -20,6 +20,7 @@ topics:
 - fine
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F. Gebhardt, Baker of Thames St fined the same for a similar offence.

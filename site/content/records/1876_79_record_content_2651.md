@@ -18,6 +18,7 @@ topics:
 - church
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's; a more detailed account of the comments in the editorial on page 234.

@@ -20,6 +20,7 @@ topics:
 - environment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  About 350 trees for North Ward will be procured at once.  No. 2 Reserve was badly affected last year by severe frost which cut down newly planted trees.

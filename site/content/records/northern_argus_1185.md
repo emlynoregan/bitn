@@ -23,6 +23,7 @@ topics:
 - livestock
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Accident.  A semi-trailer driven by Mick Wayman and loaded with fifty head of cattle rolled over on the Barrier Highway two kilometres north of Mt Bryan on 8 May.  The driver was trapped for 1½ hours and half the cattle were either killed in the accident or had to be destroyed soon after.

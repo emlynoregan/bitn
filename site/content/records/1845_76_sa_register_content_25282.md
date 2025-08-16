@@ -21,6 +21,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton presented a successful entertainment at the Burra Hotel on Tuesday in aid of St Mary’s Day School.  There were 17 vocal and instrumental pieces plus several readings.  [Items and performers are listed.]

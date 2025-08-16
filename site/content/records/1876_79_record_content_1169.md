@@ -20,6 +20,7 @@ topics:
 - pest
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits: A killing party at Mount Bryan Station was destroying 1000 rabbits per week.

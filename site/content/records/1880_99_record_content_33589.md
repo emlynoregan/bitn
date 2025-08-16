@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders are called for plaining [sic] the floor of the Burra Institute, repairs of windows and for painting, graining and varnishing the front door and windows.

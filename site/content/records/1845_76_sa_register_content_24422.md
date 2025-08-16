@@ -20,6 +20,7 @@ topics:
 - social issues
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Some hundreds of men are now on the field, but the majority are lookers on.  The authorities have sanctioned the sale of drink and this has led to scenes of deplorable debauchery.  All who choose to work steadily are said to be earning a livelihood, but no large finds have yet been made public.

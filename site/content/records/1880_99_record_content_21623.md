@@ -20,6 +20,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Horse Race.  A race for £5 a side took place at Copperhouse on Tuesday afternoon.  Mr W. Jones’s Kangaroo easily beat Mr Pearce’s Beeswing.

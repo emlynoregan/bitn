@@ -18,6 +18,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New SA Parliament will see considerable changes with sixteen altogether new members and three with experience, though not in the previous Parliament.  Twenty-seven are returned from the previous Parliament.

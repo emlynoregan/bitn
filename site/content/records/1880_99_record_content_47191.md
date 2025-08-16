@@ -21,6 +21,7 @@ topics:
 - labour
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary last Sunday was largely attended.  Rev. R.J. Daddow’s address on Sunday evening is printed - running to 1 column on Labour, Capital and Unions.

@@ -28,6 +28,7 @@ topics:
 - church
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The rains have come and grass has clothed the pastures.  There is hope for the next harvest.  Farmers are busy ploughing and harrowing and sowing, while those who acted early have wheat that is springing up nicely.

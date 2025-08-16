@@ -18,6 +18,7 @@ topics:
 - serial
 - continuation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pauline, 14 September to 25 December.  (To be continued 1889.)

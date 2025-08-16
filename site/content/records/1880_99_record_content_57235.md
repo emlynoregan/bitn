@@ -24,6 +24,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  At the residence of the bride’s uncle, W.J. Beal of Broken Hill, on 14 May.

@@ -20,6 +20,7 @@ topics:
 - boundary
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A committee that was appointed to wait on the Corporation of Burra about the fencing of the west side of the stock road reported and it was agreed to have the boundary between the two Councils defined, after which a decision would be made.

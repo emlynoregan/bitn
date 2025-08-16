@@ -20,6 +20,7 @@ topics:
 - music
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army on Saturday evening last came to Market Square with its band to find another band had taken possession through some misunderstanding and even when they moved away some distance ‘the discord produced by two brass bands playing different tunes may be more easily imagined than described.’  A little later ‘a third band struck up airs a few yards off.’

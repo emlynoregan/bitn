@@ -19,6 +19,7 @@ topics:
 - legislation
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese Immigration.  A Bill providing for a poll tax of £10 on Chinese landing in the colony has passed the committee stage.

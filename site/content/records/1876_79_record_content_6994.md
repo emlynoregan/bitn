@@ -18,6 +18,7 @@ topics:
 - business
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Drew & Co. A new shop for Drew & Co. will be erected on the site of the present shop which will be incorporated into the new work and the whole will be of a commodious and elegant character.

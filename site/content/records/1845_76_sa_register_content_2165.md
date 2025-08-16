@@ -20,6 +20,7 @@ topics:
 - finance
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 12 April 1848, page 3

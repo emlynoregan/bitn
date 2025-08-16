@@ -36,6 +36,7 @@ topics:
 - committee
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W. Pearce Sen. (Pres.), S. Sleep (Vice P.), J. Snell (Treasurer), Thomas Kitchen (Sec.), Revs W. Jenkins W. Patchell & T. Mc Neil with Messrs R. Ward, J. Harris, A. Beaglehole, T. Wheare, J. Torr, W. Davey, J. Paul, Jeffrey Pearce, J. Burrows, - Hunkin,

@@ -20,6 +20,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Benhamo’s Great English Circus will open in Burra on 29 February.

@@ -22,6 +22,7 @@ topics:
 - municipal_finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police.  Last Friday’s Government Gazette carried a notice that the Burra Corporation would be liable for £68-8-0, being half the cost of a foot-constable for the year.  The Council has spent almost all its money and this is an unacceptable change, especially as the Treasurer advised a month ago that there would be no charge.  A letter from Mr Holder has since confirmed that there will be no charge due to the removal of the foot-constable from Kooringa.  The mistake came from basing the charges on last year’s arrangements.

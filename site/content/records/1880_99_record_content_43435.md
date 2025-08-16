@@ -17,6 +17,7 @@ topics:
 - printing
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 (Incorrectly numbered: should be 1070, corrected next issue & 1070 not used)

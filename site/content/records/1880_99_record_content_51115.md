@@ -19,6 +19,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Ratepayers’ Meeting called for Wednesday 20 September at 7.30 p.m. in the Institute.

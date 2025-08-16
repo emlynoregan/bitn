@@ -20,6 +20,7 @@ topics:
 - fundraising
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Amateur Christies gave an entertainment at the Burra Hotel Assembly Room for the benefit of the Burra Race Fund.  It was very well received.

@@ -21,6 +21,7 @@ topics:
 - transport
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAR.  A petition has been forwarded requesting the Broken Hill express arrive in Adelaide early enough in the day to allow a reasonable amount of business to be transacted [before catching the afternoon train back] and so increase its use.

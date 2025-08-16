@@ -19,6 +19,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  No signs yet of the Burra Cricket Club.

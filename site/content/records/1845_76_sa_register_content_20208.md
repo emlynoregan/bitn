@@ -19,6 +19,7 @@ topics:
 - society
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Kooringa Branch of the SA Benefit Society was opened in Mr Fogg’s schoolroom on Monday last.

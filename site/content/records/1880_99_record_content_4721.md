@@ -24,6 +24,7 @@ topics:
 - auctioneering
 - announcements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Stock Firm.  A new auctioneering firm is announced.  Messrs Davison, Austin (late of Goodchild Austin & Co.) & E.A. Jaffrey (late of the Bank of Australasia) will start operations in Burra soon.

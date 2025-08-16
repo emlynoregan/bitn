@@ -20,6 +20,7 @@ topics:
 - council
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder was invited to attend and was asked to communicate with the conservator of Water to endeavour to find the Department view on arranging a further lease of the Waterworks and failing that the endeavour to obtain a reduction in the rate for water.

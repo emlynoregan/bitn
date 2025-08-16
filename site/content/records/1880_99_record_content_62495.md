@@ -20,6 +20,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Concert on 22 June filled the Institute Hall.  The second part of the program was taken by the Curlew Minstrels, but their performance on this occasion was below their former standard and disappointing.  The jokes of the two end men were unsuitable for the audience – especially for the children present.  If they appear again they should select their material more carefully.

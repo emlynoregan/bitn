@@ -20,6 +20,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guy Fawkes.  Young lads have been assiduously canvassing the town with Guy for money to get fireworks for tomorrow night.

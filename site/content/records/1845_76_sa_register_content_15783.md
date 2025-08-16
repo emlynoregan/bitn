@@ -34,6 +34,7 @@ topics:
 - mining
 - photography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A letter from Francis S. Dutton, Acting Commissioner for SA [London].

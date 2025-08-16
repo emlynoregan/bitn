@@ -19,6 +19,7 @@ topics:
 - economy
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Teetulpa Gold Rush and hoping that the new gold discoveries might indicate real prospects for the sake of jobs and the colony’s finances.

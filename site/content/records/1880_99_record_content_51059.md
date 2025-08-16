@@ -20,6 +20,7 @@ topics:
 - social
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist social evening in the schoolroom last Wednesday.  An evening of songs, dialogues, parlour games and a sumptuous spread.

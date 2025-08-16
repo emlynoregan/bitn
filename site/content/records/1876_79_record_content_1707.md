@@ -19,6 +19,7 @@ topics:
 - community
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Town name: Call for the town institutions to adopt the name Burra following the town's incorporation instead of the Redruth Local Court etc.

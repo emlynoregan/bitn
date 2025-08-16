@@ -38,6 +38,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [It is no surprise after the actions of Rabbich in the Town Council lately that the editor is opposed to his candidacy.  He reprints Rabbich’s evidence before the Commission on Main Roads in 1892, which tends to make Rabbich appear as a fool.  He says this is relevant because looking after roads is one of the main functions of District Councils.]

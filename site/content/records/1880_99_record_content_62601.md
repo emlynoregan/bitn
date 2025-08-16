@@ -20,6 +20,7 @@ topics:
 - hospital
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital Annual Report.  Some facts and figures are printed for 1896.

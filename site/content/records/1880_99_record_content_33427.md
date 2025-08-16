@@ -20,6 +20,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pte Bentley 1st, Pte Rabbich 2nd and Pte Cooksley 3rd.

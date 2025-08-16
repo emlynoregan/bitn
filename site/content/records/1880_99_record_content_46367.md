@@ -27,6 +27,7 @@ topics:
 - threatening language
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas P. Halls was charged by L=C Thomas with using threatening language in Market Square on 10 August.  He pleaded not guilty.

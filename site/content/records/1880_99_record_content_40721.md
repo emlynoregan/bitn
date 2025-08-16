@@ -19,6 +19,7 @@ topics:
 - rabbits
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are being killed off by drought in the eastern districts.

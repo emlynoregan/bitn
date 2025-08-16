@@ -20,6 +20,7 @@ topics:
 - community
 - facilities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The cricket Club was granted free use of the oval until the pitch was paid for and then for ⅓ of the gate money when a charge was made.

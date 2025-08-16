@@ -29,6 +29,7 @@ topics:
 - club
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cliques: Ed. on the problem of town cliques - of a religious, political, municipal and medical nature. The editor thought they were of relatively recent origin.

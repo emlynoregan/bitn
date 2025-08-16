@@ -19,6 +19,7 @@ topics:
 - postponement
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Entertainment at Hallett Institute that was scheduled for last Wednesday was postponed to next Thursday on account of the wet weather.

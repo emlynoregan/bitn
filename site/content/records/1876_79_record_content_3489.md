@@ -19,6 +19,7 @@ topics:
 - community
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Larrikinism. Larrikins are interfering with people using the Miners' Arms Footbridge. Young ladies especially are the subject of abuse and sometimes have to wait till a gentleman can escort them across and past the hecklers.

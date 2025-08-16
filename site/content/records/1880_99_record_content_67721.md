@@ -18,6 +18,7 @@ topics:
 - numbering
 - archival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 352 (3) [2, 1896]

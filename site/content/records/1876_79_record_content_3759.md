@@ -19,6 +19,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines. The watchmen have been ordered to prevent any persons from descending into the open cut as several of the rock walls are unsafe.

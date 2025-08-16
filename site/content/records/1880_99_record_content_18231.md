@@ -20,6 +20,7 @@ topics:
 - fundraising
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Nigger Troupe will reappear by special request in a Grand Entertainment in aid of the Burra Institute on 3 July.  2/- & 1/-.  [They had appeared before on 22 June.]

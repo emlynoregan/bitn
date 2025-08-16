@@ -35,6 +35,7 @@ topics:
 - government
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: the Burra District Council petitioned the Midland Road board to declare the Kooringa-Nankivell’s Gully Road a Scheduled Main Road. This would allow both end of the town to be serviced. A detailed description of the route is given. The Board deferred any decision.

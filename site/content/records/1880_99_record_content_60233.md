@@ -21,6 +21,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Children’s Bazaar at Dr Brummitt’s house on Friday raised £5-11-9 for Dr Stephenson’s Homes for Children in London.

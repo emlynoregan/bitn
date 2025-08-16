@@ -23,6 +23,7 @@ topics:
 - market
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Flowers also said he had trouble selling any stock he raised due to the swamping of the market.

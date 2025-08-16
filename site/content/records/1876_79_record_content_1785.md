@@ -21,6 +21,7 @@ topics:
 - transport
 - hazard
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Between the Mine Bridge and the ford cattle and horses are continually getting stuck in the sand.

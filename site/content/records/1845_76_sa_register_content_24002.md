@@ -20,6 +20,7 @@ topics:
 - fundraising
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Bridge.  The SA Government has agreed to a pound for pound subsidy on sums donated to mend the Redruth Bridge, up to a maximum of £50.  A few people yesterday subscribed £20 so repairs can soon be expected.

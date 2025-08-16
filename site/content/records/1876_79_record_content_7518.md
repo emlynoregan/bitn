@@ -25,6 +25,7 @@ topics:
 - unemployment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [There was then further discussion on the missing money which had been gone for two months before being discovered.] The defalcations had occurred after the ordinary audit. The Mayors report was adopted.

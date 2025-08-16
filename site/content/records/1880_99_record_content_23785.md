@@ -28,6 +28,7 @@ topics:
 - statistics
 - schools
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Schools.  The roll numbers at the largest schools in SA at 30 June 1886 were:

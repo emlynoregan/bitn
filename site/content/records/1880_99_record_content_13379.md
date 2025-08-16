@@ -20,6 +20,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday 25 Allcomers 1.3 defeated 14 Colours 0.6.

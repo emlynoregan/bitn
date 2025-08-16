@@ -19,6 +19,7 @@ topics:
 - religion
 - timing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army has not yet appeared in Clare, though they were expected to do so last Saturday.  [This article needs more accurate dating as it appears on the face of it to contradict the report in the paper of 27 June.]

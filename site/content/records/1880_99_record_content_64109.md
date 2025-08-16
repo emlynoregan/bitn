@@ -21,6 +21,7 @@ topics:
 - fundraising
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Mission at Burra is suffering from heavy liabilities.  A bazaar in September is to raise funds to find at least enough for the interest on the almost unmanageable capital debt.  The small congregation is not blessed with this world’s wealth and any help will be gratefully received.

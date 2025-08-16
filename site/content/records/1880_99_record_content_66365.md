@@ -21,6 +21,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The first match for the season was played on Monday at Victoria Park when Burra 5.14 defeated Clare 0.4

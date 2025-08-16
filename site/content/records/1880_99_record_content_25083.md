@@ -21,6 +21,7 @@ topics:
 - school
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  Mrs Kennedy has been the first assistant for over seven years, but she has resigned and will be replaced by Miss Boundy.

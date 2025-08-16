@@ -21,6 +21,7 @@ topics:
 - celebration
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Saddleworth Comedy Co. performed on 31 December to a very thin house, people preferring the outside activities.  The churches held the usual watch-night services.  At midnight guns were fired, whistles blown at the foundry and all possible noise made.  Larrikinism was conspicuous by its absence.

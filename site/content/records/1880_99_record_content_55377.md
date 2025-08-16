@@ -22,6 +22,7 @@ topics:
 - awards
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the University of Adelaide Miss Ethel May Bruse passed first in the first class for singing and Miss Alice McBride was second in the second class.

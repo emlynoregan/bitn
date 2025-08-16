@@ -23,6 +23,7 @@ topics:
 - racing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Farrell’s Flat Racing Club met at the Hanson Hotel on 4 February and decided to form a new club to organise athletic and other sports on 17 March.  Program to be arranges 8 March.

@@ -21,6 +21,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Venturers and their leader David Jennings organised a soap box derby and skateboard challenge over the long weekend.  It was a lot of fun and the slalom course added to the challenge.

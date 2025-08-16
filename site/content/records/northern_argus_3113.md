@@ -21,6 +21,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra’s 110th Show* will be opened on 10 October by Ms June Appleby MP who is deputising for the Minister of Agriculture Mr Kym Mayes.

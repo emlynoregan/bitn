@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Water Supply. What is being done? 

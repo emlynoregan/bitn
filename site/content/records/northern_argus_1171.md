@@ -19,6 +19,7 @@ topics:
 - safety
 - incident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Accident.  A toilet block at the Burra Showgrounds was substantially demolished when a driverless car ran away from a house on the perimeter of the showgrounds and crashed into it on Saturday.  [Photo.]

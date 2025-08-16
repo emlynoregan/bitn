@@ -17,6 +17,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Monday there was a public holiday for the Prince Consort’s birthday.

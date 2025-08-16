@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Some excellent amateur theatricals were presented in the large assembly room at the Burra Hotel on 27 & 28 February.

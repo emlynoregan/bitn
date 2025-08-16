@@ -17,6 +17,7 @@ topics:
 - accident
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Also last week one of the two horses attached to a vehicle gave a display of high kicking causing the driver to make a fast exit.  The horses soon came to a halt against a tree.

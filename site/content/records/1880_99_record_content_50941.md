@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Holiday on 31 August was not marked by sports in Burra.  The Bible Christian dinner was held in poor weather.  Some ‘sports’ got in some shooting in the hills.

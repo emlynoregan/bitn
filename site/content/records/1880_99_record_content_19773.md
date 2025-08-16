@@ -31,6 +31,7 @@ topics:
 - railway
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of Richard Finch.  Held at the Bon Accord Hotel on Wednesday.

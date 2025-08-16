@@ -18,6 +18,7 @@ topics:
 - events
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. W. Jenkin's lecture on Gipsies gained only a small attendance on Friday evening.

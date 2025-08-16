@@ -20,6 +20,7 @@ topics:
 - church
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s has secured the services of Rev. Murphy of Robe and he will fill the pulpit on Sunday 14 May.

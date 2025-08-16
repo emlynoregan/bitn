@@ -20,6 +20,7 @@ topics:
 - voting
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 12 October 1883 196 voters with 508 votes (showing how property owners supported it) went to the polls.  111 individuals supported the scheme and 83 opposed.  In December Cr Brown moved the Government’s offer be accepted.  Cr Sampson was then the only opponent.

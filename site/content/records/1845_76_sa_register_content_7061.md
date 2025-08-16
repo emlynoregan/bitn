@@ -21,6 +21,7 @@ topics:
 - mining
 - economic investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gold has certainly been discovered in SA, but so far not in such quantities to be profitable or to convince shareholders to invest.  Specimens are to be seen in the shop-window of our fellow-citizen, Mr Pollack and indicate that some come from dry diggings as well as from the alluvial deposits along the Torrens.

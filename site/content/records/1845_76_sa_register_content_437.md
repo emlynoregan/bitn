@@ -27,6 +27,7 @@ topics:
 - land
 - occupation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Occupation Licences applied for 4 February 1846.  Among a list were:

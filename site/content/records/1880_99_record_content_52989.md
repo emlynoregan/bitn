@@ -18,6 +18,7 @@ topics:
 - music
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Afternoon service of song: Israel’s God Her Glory.

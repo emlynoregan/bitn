@@ -22,6 +22,7 @@ topics:
 - warning
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  On 9 August a quantity of clothing and one Burra Mine Advice Order, No. 41 on account of No. 14 Pitch for £5-17-7 dated 3 July in favour of William Hancock & Co. was stolen.  I caution the public from taking or cashing the said order, which is not payable at the secretary’s office.

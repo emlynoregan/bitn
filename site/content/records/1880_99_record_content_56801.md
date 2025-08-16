@@ -22,6 +22,7 @@ topics:
 - horticulture
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemums.  This year J.D. Cave and J. Lewis were trumped at the Adelaide Chrysanthemum Show by Mr W. Taylor of Magill.

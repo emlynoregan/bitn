@@ -18,6 +18,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BBH Netball.  The J1 team won their Grand Final on Saturday.

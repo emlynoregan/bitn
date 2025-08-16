@@ -23,6 +23,7 @@ topics:
 - dispute
 - cruelty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 One says Mr G.A. Gebhardt of Mackerode had c. 50 of his pigs stray onto land held by Messrs Bowman Bros. of Wandillah, whereupon Mr E. Brown, manager, shot as many as possible.  Thirty were seen dead with others running about wounded.  The writer protests at the wanton cruelty when they should have been put in the pound.  This is uncivilised behaviour.

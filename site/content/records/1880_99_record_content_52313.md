@@ -19,6 +19,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks should have £333, but collection of all the debt was impossible.

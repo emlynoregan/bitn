@@ -30,6 +30,7 @@ topics:
 - finance
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Pinch said he would stand for Mayor.  Finances were not all that good and after redeeming the bond there would be little enough left for public works.

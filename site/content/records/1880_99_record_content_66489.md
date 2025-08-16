@@ -23,6 +23,7 @@ topics:
 - charity
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. E.T. Cox, late of Victoria, will give a lecture in the Wesleyan Lecture Hall next Friday on ‘Charles Kingsley’.  Admission 6d to benefit the local poor.

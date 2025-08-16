@@ -41,6 +41,7 @@ topics:
 - sheep
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie.  6 July.  A meeting was held of about 15 farmers at Mr Skew’s [sic] on Saturday.  Mr Spence presided and said he was so hemmed in by bad creeks that he could neither go to the scrub nor get his wheat to market.  He felt that the farmers in the district would support a District Council in the Hundred of Ayers.  Mt Thomas felt the conveners were to blames for calling a meeting without having anything to lay before them.  Mr Novice complained that the Hundred of Baldry was unrepresented; not having been notified.  Mr Spence said the next meeting would be advertised and in the interim he would prepare a petition.  Mr Novice wondered if they could not repair the roads more cheaply themselves.  Messrs Midwinter, Fitzgerald, Hastie, Threadgold and others also spoke.

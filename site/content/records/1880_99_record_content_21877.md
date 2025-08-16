@@ -20,6 +20,7 @@ topics:
 - rifle match
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match between B Troop Mounted Rifles and Burra Co. RVF last Wednesday over 200, 400 & 500 yards with 7 shots at each distance.  The locals were beaten 670 to 574.  The Mayor later presided at a dinner at the Burra Hotel.

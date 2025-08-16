@@ -20,6 +20,7 @@ topics:
 - diggings
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘You may now be thoroughly convinced that the Barrier Ranges Diggings are a complete humbug…The mob are now all returning, but many are pushing through into New South Wales.’

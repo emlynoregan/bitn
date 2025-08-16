@@ -20,6 +20,7 @@ topics:
 - business
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  New Lime Kiln - C. Rawling - Near the Bon Accord Engine House.

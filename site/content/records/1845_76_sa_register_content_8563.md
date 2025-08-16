@@ -18,6 +18,7 @@ topics:
 - weather
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Snow.  On the morning of Sunday 5 October snow fell very fast in the district around Burra Burra.  The fall lasted from about 7 a.m. to about 8 a.m.  The ground was covered to a depth of four inches, with drifts in places to one foot.

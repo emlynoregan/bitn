@@ -21,6 +21,7 @@ topics:
 - religion
 - clergy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. Howitt is not recovered from his accident yet and a clergyman will be sent from Adelaide to officiate at St Mary's.

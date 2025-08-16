@@ -20,6 +20,7 @@ topics:
 - fundraising
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C. Fuss, promoter of the concert in aid of the sports decided it would go ahead in the evening and a good number attended.  ‘Mr Fuss deserves much credit for arranging such a variety programme.’

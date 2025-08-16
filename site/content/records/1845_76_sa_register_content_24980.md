@@ -20,6 +20,7 @@ topics:
 - charity
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Christmas Cheer.  Mr McCulloch sent every poor person in the township a plentiful supply of meat and groceries so that they might at least on this occasion spend a merry Christmas.

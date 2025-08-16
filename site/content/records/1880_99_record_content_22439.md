@@ -19,6 +19,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Testimonial to D. Wells at the Institute today at 3 p.m.

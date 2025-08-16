@@ -21,6 +21,7 @@ topics:
 - public_order
 - law enforcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  People in Kooringa seldom hear of anyone coming from the field with gold.  There is no doubt some have made good wages.  If the reef could be found a good industry might be established.  About 200 men remain on the field, many having left, but others arrived.  There is less rowdyism and a policeman was there last Sunday.  The old creek is still the focus of activity, though a small rush occurred on Monday to a gully about ¾ mile from the camp.

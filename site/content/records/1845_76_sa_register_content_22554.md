@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mary Banan 25 July 1865, Kooringa.

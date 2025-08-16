@@ -25,6 +25,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  At Kooringa 13 September after a long and painful illness, Ann Roberts, wife of Joseph Roberts, daughter of the late John H. Coventry of Hahndorf, sister of Messrs Coventry Bros. of Pt Augusta and Stirling North.  Aged 36.

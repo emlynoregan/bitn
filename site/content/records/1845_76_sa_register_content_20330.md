@@ -24,6 +24,7 @@ topics:
 - machinery
 - ore dressing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 4 April 1867, page 3

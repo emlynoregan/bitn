@@ -22,6 +22,7 @@ topics:
 - policy
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Mr R. Rees’s effort to secure free education in Public Schools by abolishing fees.  We wish him success with his motion in Parliament.

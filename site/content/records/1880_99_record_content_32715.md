@@ -20,6 +20,7 @@ topics:
 - circus
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wirth’s Circus will not come to Burra after all, but will leave the colony at the end of its Broken Hill run.

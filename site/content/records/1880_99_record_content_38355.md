@@ -18,6 +18,7 @@ topics:
 - legislature
 - corporations bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on ‘The Fossils at Work’, being a commentary on the Legislative Council and its dealing with the Corporations Bill.

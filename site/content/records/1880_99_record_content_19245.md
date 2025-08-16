@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for the fencing of Mallett Reservoir and erecting pumps, troughs etc. at the reservoir near the township of Mallett.

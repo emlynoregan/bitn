@@ -18,6 +18,7 @@ topics:
 - lecture
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Glynn’s lecture on Ireland is reported.  It drew a ‘fair house’.

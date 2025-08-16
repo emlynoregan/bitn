@@ -28,6 +28,7 @@ topics:
 - manslaughter
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary/Inquest, on 16 June, before J.D. Cave JP into the death of Annie Statton.

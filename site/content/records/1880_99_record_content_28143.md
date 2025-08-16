@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Lieut. Mutton of the Salvation Army is dead.  [William Mutton, perhaps born 5 April 1857; died 20 March aged 30.]

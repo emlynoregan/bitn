@@ -22,6 +22,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: at the Institute for 4 nights beginning Sept. 13:

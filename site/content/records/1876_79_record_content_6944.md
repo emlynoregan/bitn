@@ -23,6 +23,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. At the Institute, Monday 25 & Tuesday 26 August, The Vivians, Arthur & Nellie Vivian, talented exponents of musical comedy. 3/- & 2/-.

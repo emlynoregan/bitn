@@ -22,6 +22,7 @@ topics:
 - building
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Police Station. The new police station is being roofed and repairs to the Court House are nearly completed. It now has a tasteful little porch and a commodious clerk's office. Sara & Dunstan are doing the work.

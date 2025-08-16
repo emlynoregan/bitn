@@ -19,6 +19,7 @@ topics:
 - finance
 - survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A ratepayers’ meeting will be called on 10 July at 7.30 p.m. to decide on the application of the money borrowed for the survey.

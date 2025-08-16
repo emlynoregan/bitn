@@ -19,6 +19,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  Rev. A.G. King preached for the 1st time last Sunday.

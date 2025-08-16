@@ -23,6 +23,7 @@ topics:
 - club
 - amalgamation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The Kooringa Cricket Club met at the Commercial Hotel on 21 Sept. and agreed to merge with the Burra Cricket Club, under that name. . On Monday night the two clubs met and amalgamated. Entrance fee 5/- and subscription of 1/- per month will be charged.

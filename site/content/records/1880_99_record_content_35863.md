@@ -18,6 +18,7 @@ topics:
 - event
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Races will be held in Burra on 16 April.  Prize money will be £25 for the Handicap, £10 for the Handicap Hurdles, and £10 for the Flying Handicap.

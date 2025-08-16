@@ -28,6 +28,7 @@ topics:
 - communication
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Telegraph Department advises that the Northern Line of Telegraph is open from today 25 January 1860.

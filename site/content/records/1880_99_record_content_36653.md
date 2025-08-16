@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Which in the 1890s meant The Balkans.]

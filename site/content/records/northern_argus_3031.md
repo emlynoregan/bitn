@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - project
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Bon Accord Mine Museum

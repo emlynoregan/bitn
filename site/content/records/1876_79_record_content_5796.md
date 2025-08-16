@@ -19,6 +19,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Dr Sangster commences business in this town on 8 Feb. 1879.

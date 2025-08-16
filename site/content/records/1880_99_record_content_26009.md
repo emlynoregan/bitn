@@ -17,6 +17,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday about 30 turned out for a scratch match.  4 twenty-minute quarters were played, but neither side scored a goal.

@@ -25,6 +25,7 @@ topics:
 - schoolroom
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s second Annual Strawberry Fete at the Oval last Wednesday was a big success both financially and otherwise.  About £70 was raised for the proposed new schoolroom.  Six large marquees were brought from Adelaide.  Mr Holder opened the fete and fully 1,000 must have paid for admission at the gates.  This year the Maypole dance was disappointingly absent.  The accompanying flower show was magnificent and the bulk of the prizes went to T.W. Pearce, followed by Mr Lasscock and Miss Cave.

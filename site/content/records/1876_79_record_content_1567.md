@@ -19,6 +19,7 @@ topics:
 - railway
 - flooding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Fears expressed that it needs larger bridges and culverts than are being contemplated on account of the flood potential.

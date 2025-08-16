@@ -20,6 +20,7 @@ topics:
 - religion
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Kelynack spoke on ‘The Path of Power in the Pulpit’ rather than on Martin Luther.  The night was damp and uninviting, but the reserved section was full and there was a good sprinkling elsewhere.  The speech was favourably reviewed.

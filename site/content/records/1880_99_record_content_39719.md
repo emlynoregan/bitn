@@ -21,6 +21,7 @@ topics:
 - business
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Dissolution of the partnership of James Harry & Samuel Burns, Blacksmiths etc. from 31 Dec. 1890.  The business will be carried on by the said Samuel Burns.

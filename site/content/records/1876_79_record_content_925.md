@@ -20,6 +20,7 @@ topics:
 - ventilation
 - access
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [There is further detail of clearing out old workings to allow access and ventilation for the purpose of proving new ground or letting tribute pitches.]  Surface work is being pushed on with dispatch.

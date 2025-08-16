@@ -23,6 +23,7 @@ topics:
 - medical
 - x-rays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.E.H. Winnall trod on a needle recently and a piece embedded in his foot could not be located, but a trip to Adelaide resulted in its discovery and extraction with the aid of X-rays.

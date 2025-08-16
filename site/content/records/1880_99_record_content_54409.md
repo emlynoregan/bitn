@@ -21,6 +21,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said that at the last meeting a list of work for the Engineer had been submitted and one Councillor commented it would take three months to do it all.  It has been done in a fortnight and still dissatisfaction is expressed.

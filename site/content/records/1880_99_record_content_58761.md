@@ -21,6 +21,7 @@ topics:
 - municipal election
 - campaign
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Election.  The writer reviews the campaigns of candidates.  The North Ward campaign was enthusiastic and in East Ward the vote went ahead when T.P. Halls’ supporters refused to acknowledge that his nomination was nullified by the failure to have it signed by two bona fide ratepayers.  [Details take ¾ column.]

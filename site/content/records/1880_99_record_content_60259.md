@@ -22,6 +22,7 @@ topics:
 - typhoid fever
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs William Bruse died at the Burra Hospital on Wednesday morning as a result of typhoid fever.  She leaves a family of five young children, three of whom have also been suffering from typhoid.  [Registration of death says she died 8 July 1896 aged 24.  Marriage records says she was born Ellen Devlaing, but birth records have Ellen Mary Devlin born 26 September 1873.]

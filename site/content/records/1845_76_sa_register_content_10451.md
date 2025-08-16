@@ -21,6 +21,7 @@ topics:
 - population
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 17,688 males arrived and 5,537 departed.

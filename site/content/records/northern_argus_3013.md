@@ -21,6 +21,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The Social Club’s Springtime Dinner Dance at the Town Hall on Saturday night attracted c. 140.

@@ -20,6 +20,7 @@ topics:
 - charity
 - school for the blind
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Industrial School for the Blind Fair will be opened in Adelaide on Tuesday 15 August by the Governor.  Ladies in Burra have been working to make and collect items for it.  [See advertisement.]

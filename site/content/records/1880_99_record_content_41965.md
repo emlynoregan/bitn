@@ -24,6 +24,7 @@ topics:
 - football
 - excursion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra footballers went to Clare on Wednesday, taking the goods train to Farrell’s Flat then a four horse team and two buggies to Clare.  They visited the brewery and had lunch at Gray’s before going to the ground.  Eventually Clare 2.10 defeated Burra 0.4.  Hearty thanks to J. Roach who defrayed all expenses for the excursion.

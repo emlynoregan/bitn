@@ -27,6 +27,7 @@ topics:
 - religion
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Church adherents met on Friday evening in the convent schoolroom to farewell Rev. Fathers Haendl and Kriston of the Jesuits.  Rev. Father Norton VG occupied the chair.  The Jesuits were leaving Australia for their different European Colleges, being called home.  The incoming priest is Rev. Father Doyle from Port Pirie who was heartily welcomed.

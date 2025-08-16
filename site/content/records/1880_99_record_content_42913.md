@@ -17,6 +17,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The meeting ‘which was very warm at times’ then adjourned.

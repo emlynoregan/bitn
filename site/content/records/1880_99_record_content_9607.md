@@ -19,6 +19,7 @@ topics:
 - road
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kingston St: the new road is dangerous.  It is only about 24’ wide with a sudden fall of 3’ on the northern side.  It is unlit at night and could easily cause a fatal accident. This is a Road Board road not controlled by the Town Council.

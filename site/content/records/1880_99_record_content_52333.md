@@ -21,6 +21,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs A.C. Noyes and others will give a concert at the Burra Hospital Thursday afternoon.

@@ -27,6 +27,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  AGM of the Burra Football Club was held on 13 April.  They had a credit of 30/- from last season.

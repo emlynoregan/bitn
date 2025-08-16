@@ -19,6 +19,7 @@ topics:
 - education
 - franchise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Both candidates favoured free education and Duncan would extend the franchise to widows and [female] owners of property.

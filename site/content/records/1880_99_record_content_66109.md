@@ -26,6 +26,7 @@ topics:
 - death
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Ida Kickebusch, wife of Emil Kickebusch, died on 15 April at Baldina of a tumour, aged 53.  She leaves two sons and four daughters: Mrs Rooke of Baldina, Mrs Lehmann of Callington, & Mrs Krause of Victoria.  The younger son is 18.  Rev. Leidig officiated at the funeral at Baldina.

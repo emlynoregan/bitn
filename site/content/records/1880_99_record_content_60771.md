@@ -20,6 +20,7 @@ topics:
 - union
 - vote
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodist Union.  Burra & Hallett Bible Christian Circuit.  Up to 27 September returns are in from about two thirds of the members with the voting so far:

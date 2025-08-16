@@ -20,6 +20,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One of the People’ writes to the editor.  This is one of a series of letters published over many weeks on the subject of capital and labour.  The series is rather unusual in that it argues in favour of the capitalist in a quietly well-reasoned argument.

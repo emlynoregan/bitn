@@ -39,6 +39,7 @@ topics:
 - production
 - dividends
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association held its annual meeting yesterday.  All the former Directors were re-elected, with the exception that Captain Hall has replaced Mr C.S. Penny, who resigned.  Voting was as follows:

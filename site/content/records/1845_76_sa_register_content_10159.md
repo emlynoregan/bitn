@@ -35,6 +35,7 @@ topics:
 - expenditure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Central Road Board Expenditure for 1855 (From the Government Gazette.)

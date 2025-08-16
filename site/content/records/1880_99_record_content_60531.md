@@ -19,6 +19,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Lecture Hall Concert last Friday was very successful and aided Sunday school funds.

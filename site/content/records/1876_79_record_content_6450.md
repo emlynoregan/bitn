@@ -22,6 +22,7 @@ topics:
 - letter
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 'An Outsider' writes to say that Mr Lipsett's friends must be embarrassed by his recent effusion which is an undeserved attack on Dr Nesbitt who seems to be doing his duty. The admission that Lipsett and his predecessor used their keys to go into the Clerk's books without his knowledge sounds mean and unmanly. Under these circumstances, in the event of a deficiency, the Clerk might accuse the Mayor of the theft. As for the bridge opening, I understand Dr Nesbitt received no notice and I fail to see why he should rush around to spend £100 for no good purpose. Mr Lipsett's refusal to subscribe to the hospital savours of meanness and I an also afraid he lacks discretion.

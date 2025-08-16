@@ -20,6 +20,7 @@ topics:
 - fire
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A large haystack owned by James Dew about 2 miles from Burra was destroyed by fire on Sunday afternoon.

@@ -22,6 +22,7 @@ topics:
 - government
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Defeat of the Bray Government in a no-confidence motion last Thursday.  Mr Colton was sworn in as Premier and Chief Secretary yesterday.  Hon. W.B. Rounsevell becomes Treasurer.

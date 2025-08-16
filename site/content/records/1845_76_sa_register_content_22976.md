@@ -21,6 +21,7 @@ topics:
 - sale
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Six Mile Station (from Pt Wakefield) of 180 acres near the Pt Wakefield railway.

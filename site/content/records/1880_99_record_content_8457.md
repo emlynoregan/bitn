@@ -19,6 +19,7 @@ topics:
 - pest
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Locusts have been in Burra and perhaps up to 50% of the young street trees have been destroyed.

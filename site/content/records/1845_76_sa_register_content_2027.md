@@ -19,6 +19,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Mines has 760 tons of copper ore for sale in quantities to suit purchasers.  Prices and terms on application.

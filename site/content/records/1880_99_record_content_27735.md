@@ -18,6 +18,7 @@ topics:
 - mining
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Joker Claim.  There is a report on the claim.  After the initial discovery 60 Burra gentlemen subscribed 10/- each.  Two men then worked for six weeks and the results were encouraging enough for another call and now two men will be despatched to open the claim further.

@@ -23,6 +23,7 @@ topics:
 - event
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Jubilee will be celebrated Wednesday, Thursday & Sunday, 2, 3 & 6 February 1898.  Wednesday Rev. P.R. Pyman Dodd, Sunday Rev. F.E. Perrin and Public Tea Meeting Thursday.

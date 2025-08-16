@@ -19,6 +19,7 @@ topics:
 - wool
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The season.  Rain is needed and crops are beginning to be stressed.  Wool is arriving fast at the station and by all accounts the clip is very good.

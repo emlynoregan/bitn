@@ -20,6 +20,7 @@ topics:
 - education
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Richard Dale gave a lecture at the Mechanics’ Institute last Monday on the ‘Life of Alexander the Great’.

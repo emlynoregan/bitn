@@ -24,6 +24,7 @@ topics:
 - offensive language
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Saturday 25 August

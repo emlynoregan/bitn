@@ -20,6 +20,7 @@ topics:
 - school
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Sunday School picnic was held at Johnson’s Creek on the same estate.  [Check as the creek name is illegible.]

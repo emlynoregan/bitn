@@ -25,6 +25,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council, held a special meeting on Saturday, but failed to notify the press and so the report printed depends upon one of those present.

@@ -19,6 +19,7 @@ topics:
 - crops
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Season.  The crops on the eastern plains are not quite as bad as earlier reported and if rain comes soon some wheat will still be reaped.

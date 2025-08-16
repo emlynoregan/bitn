@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Water is scarce around Burra and is being carted to some farms from Market Square.  The corporation charge is 6d per 100 gallons.

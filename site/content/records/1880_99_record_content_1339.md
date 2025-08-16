@@ -19,6 +19,7 @@ topics:
 - commemoration
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s choral service on Sunday next will commemorate the laying of the foundation stone a year ago.

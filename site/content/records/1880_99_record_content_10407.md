@@ -21,6 +21,7 @@ topics:
 - music
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Concert.  The entertainment in aid of the Aberdeen Cricket Club at the German schoolroom on Wednesday presented a good program, but was only moderately attended.

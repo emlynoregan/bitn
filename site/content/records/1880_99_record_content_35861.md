@@ -21,6 +21,7 @@ topics:
 - law
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Amazed Reader writes explaining his view that the Mayor acted because failure to notify the hotels may have imperilled any subsequent court action and thus he was only doing his duty.  He did not have to get Council approval to point out a breach of the law, etc.  He takes to pieces the three previous letters on this.

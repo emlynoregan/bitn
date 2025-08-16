@@ -21,6 +21,7 @@ topics:
 - obituary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rev. W. Asquith Baker, Presbyterian minister of Clare, died last Friday after a short illness.

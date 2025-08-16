@@ -20,6 +20,7 @@ topics:
 - youth
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Larrikinism at the Mine Bridge where several youths were meeting regularly at night and annoying passers-by with indecent language and songs.

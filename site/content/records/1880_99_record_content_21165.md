@@ -17,6 +17,7 @@ topics:
 - vandalism
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After dawn, when vigilance had eased, a number of wooden privies were overturned, gates and vehicles moved and damage of various sorts done.

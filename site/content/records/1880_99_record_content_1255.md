@@ -24,6 +24,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kooringa Primitive Methodist Church reopened on Sunday after three months’ closure for renovations.  The Rev. J.S. Wayland of Adelaide preached in the morning and in the afternoon the service of song was ‘The Children’s Messiah’.  The attendance at the afternoon and evening services was excessive; not even standing room was available.  Monday’s service of song was ‘Jessica’s First Prayer’, when the church was again full.  E. Lipsett JP read the connective text at both services.  Next Monday the Rev. J.G. Wright will deliver an address on Burra as he found it 25 years ago.

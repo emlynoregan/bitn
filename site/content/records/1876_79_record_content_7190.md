@@ -20,6 +20,7 @@ topics:
 - construction
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. Mr Duncan Grant is making good progress at erecting the bridge and should complete it within six weeks.

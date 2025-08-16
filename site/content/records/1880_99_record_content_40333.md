@@ -21,6 +21,7 @@ topics:
 - labour
 - cost
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ considers it a wasteful thing to send short-term prisoners to Redruth Gaol from Clare when they could work at Clare in the local quarry.  Redruth is too comfortable an option as well as being costly.

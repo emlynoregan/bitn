@@ -19,6 +19,7 @@ topics:
 - mining
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  A further discovery of gold has been made 8 miles north of Ulooloo.

@@ -20,6 +20,7 @@ topics:
 - public_works
 - ratepayer_meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A Meeting of Ratepayers is called for 2 February to consider the desirability of authorising the Council of the Town of Burra to borrow £2,500 at 5% for:

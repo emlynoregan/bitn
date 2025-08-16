@@ -23,6 +23,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Copper Market.  Fluctuations this year have been unpredictable.  In May the emergence of a new market in the gun cartridge industry caused the copper price to reach £112 by July, aided by a decline in shipment from Chile.   A £4 decline in August was accompanied by news that suggested the decline was unlikely to be permanent.  This encouraged new mining companies to arise and existing ones to pay dividends and to place orders for machinery.    The mail for September revealed a copper price of £98.  Expectations remained, however, that the price would hold at that or even rise.  Instead the market declined a further £4.  Our telegram of 26 September quotes a price of £94, which corresponds with a message received by Mr E. Cooke of the E. & A. Copper Co., but we believe that Messrs Elder, Smith & Co. have received news of the price being much lower still.  The cause of the decline is far from clear.

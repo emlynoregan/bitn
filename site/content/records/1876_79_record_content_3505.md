@@ -22,6 +22,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Mr Charles Smelt, an old Kooringa resident who had conducted a school in the building now known as St Mary's Church [i.e. the original St Mary's] More recently he had been clerk for Hatton & Stratton. He died suddenly Monday morning.  [Died at Kooringa 13 January 1878 aged 57.]

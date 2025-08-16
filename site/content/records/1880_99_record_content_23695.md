@@ -17,6 +17,7 @@ topics:
 - politics
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Totalizator Bill has been thrown out of the Legislative Council by 11 votes to 7.

@@ -22,6 +22,7 @@ topics:
 - tenders
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board calls tenders for the Kooringa-Baldina road and the North West Bend (Morgan) road.

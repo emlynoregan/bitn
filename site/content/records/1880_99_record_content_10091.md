@@ -24,6 +24,7 @@ topics:
 - court case
 - public conduct
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas T. Shortridge writes to rebut the charge that the events at the concert on the 24 May were payback for the critique of the 30 April.  During the early part of the 24 May concert he was engaged at the Record office and other gentlemen who were with him when he was at the hall have already sworn that his conduct there was ‘in no way unbecoming of a respectable person.’  John Kennedy’s notorious conduct was the main cause of the altercation just before interval.  If anyone deserved to appear in court it was he.  Shortridge also denies any insult to Mr Rooney, or any member of his company in the street and says that Rooney has admitted as much.  Rooney would not only have you believe that Shortridge and his witnesses lied in court, but that the decision of the magistrates was wrong.  His letter is a ‘fawning production, endeavouring to enlist the sympathies of the public.’

@@ -20,6 +20,7 @@ topics:
 - subsidy
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council will have to do public works before 30 June if they wish to get subsidy for it, as it ceases at that date.

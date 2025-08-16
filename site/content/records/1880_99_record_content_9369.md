@@ -18,6 +18,7 @@ topics:
 - agriculture
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Land Question.  Yet another Land Bill will try and sort out the problems of distressed farmers.

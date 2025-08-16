@@ -22,6 +22,7 @@ topics:
 - grants
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 National Trust AGM.  Colin Fidock reported on the restoration of buildings made possible by a combination of voluntary labour and grants.  He spoke particularly of:

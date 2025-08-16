@@ -24,6 +24,7 @@ topics:
 - show
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Cave, Lewis and Harvey sent chrysanthemums to the Broken Hill Chrysanthemum Show last week and scooped the pool in the Allcomers’ Class.  Mr J.D. Cave, who has acted as judge for some years was unable to this year due to ill health.

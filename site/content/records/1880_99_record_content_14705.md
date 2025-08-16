@@ -20,6 +20,7 @@ topics:
 - company
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA: half-yearly report. After debiting the profit and loss account with £3,080 in payment of the 62nd dividend, paid on the 8 July and with expenses in the last half-year to 30th instant, amounting to £701-2-6 for rents and interest received there remains to the credit of the account £70,795-7-1.

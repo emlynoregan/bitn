@@ -19,6 +19,7 @@ topics:
 - anniversary
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary on 14 October.  In the afternoon the service of song Kitty will be repeated by special request.

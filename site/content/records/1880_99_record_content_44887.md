@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Lynch Family appeared at the Institute on 22 March to a fair house.  The performance was very well received.

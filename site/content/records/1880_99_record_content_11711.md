@@ -19,6 +19,7 @@ topics:
 - agriculture
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Date	Novel	Second Serial 	Poetry	Agriculture	Household	Misc.	Poultry	Farm	Dairy	Science	Special

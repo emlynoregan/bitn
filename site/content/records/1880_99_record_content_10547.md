@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Band of Hope entertainment in the Primitive Methodist schoolroom on Wednesday was well carried out, but the room was only about ⅔ full which was a pity.  The proceeds were c. £3.

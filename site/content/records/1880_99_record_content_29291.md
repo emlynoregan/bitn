@@ -19,6 +19,7 @@ topics:
 - public_health
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Typhoid.  It has been suggested that the two recent deaths ascribed to typhoid were after all a result of the consumption of meat from pleuro-pneumonia infected animals, and it is known that it was pleuro-pneumonia that actually killed the animals.

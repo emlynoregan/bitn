@@ -19,6 +19,7 @@ topics:
 - policy
 - loan
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Seed Wheat Bill.  The main provisions of the Government’s Bill to aid distressed farmers by supplying seed wheat are printed.  It was basically a loan at 5% with the local government giving out the wheat and also being responsible for repaying the loan!

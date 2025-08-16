@@ -20,6 +20,7 @@ topics:
 - safety
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Lady’ complaining that work in Bridge St has resulted in dangerous ledges on either side of the street, one of which she fell over the other night.

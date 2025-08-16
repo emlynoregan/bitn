@@ -17,6 +17,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Manse.  Over £100 has already been promised for the new manse.

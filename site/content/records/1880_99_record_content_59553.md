@@ -19,6 +19,7 @@ topics:
 - legal
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Bush was fined 5/- + 5/- costs for a horse that ‘waltzed around a public street corner at more than andante time’.

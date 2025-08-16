@@ -19,6 +19,7 @@ topics:
 - event
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Recreation Ground Concert, Thursday 27 July [Presumably at the Institute] 2/- & 1/-.  MOONLIGHT.  A program of 26 items is printed.

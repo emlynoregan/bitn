@@ -20,6 +20,7 @@ topics:
 - land repayments
 - Crown Lands
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Petition.  The Commissioner of Crown Lands has agreed to consider the requests for the deferral of land repayments in the Hundred of Baldina on an individual basis.

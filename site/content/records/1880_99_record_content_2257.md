@@ -20,6 +20,7 @@ topics:
 - development
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA put on a man on Monday to sink on the traces of lode found when foundations were excavated for St Mary’s two years ago.  A good find could see the mine reopened for the great benefit of the town and district.

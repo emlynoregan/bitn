@@ -19,6 +19,7 @@ topics:
 - bridge
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Bridge: tenders are called this week for the erection of the new iron bridge over the creek at the Bon Accord crossing.

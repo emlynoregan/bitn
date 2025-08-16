@@ -20,6 +20,7 @@ topics:
 - community
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Hospital Auxiliary’s Melbourne Cup Luncheon drew a very good crowd of 244 at the Town Hall.

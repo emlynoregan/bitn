@@ -19,6 +19,7 @@ topics:
 - water
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well. The bore has reached 196', but is delayed by a broken piece of tube at the bottom of the well. Just recently this has successfully been pushed aside and boring resumed.

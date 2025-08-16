@@ -22,6 +22,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. An Entertainment at the Burra Institute on 31 October in aid of the Institute funds by the Burra Amateur Dramatic Co.

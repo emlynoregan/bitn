@@ -19,6 +19,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mount Bryan East Bible Christian Church Anniversary 17 & 17 September drew large congregations when Rev. J. Collings preached.

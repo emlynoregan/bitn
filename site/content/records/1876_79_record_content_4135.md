@@ -20,6 +20,7 @@ topics:
 - corruption
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 "The Rambler" replies to some criticism, saying that he is not blaming the corporation for the state of the town.

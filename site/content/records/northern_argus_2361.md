@@ -21,6 +21,7 @@ topics:
 - education
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouts had a visit to Adelaide & Wallaroo Fertilizers Ltd last Thursday.

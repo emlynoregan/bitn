@@ -21,6 +21,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Marriage. Daniel Spencer Packard, youngest son of the late Rev. D. Packard to Florence Suzanne, 4th daughter of the late David Randall of South Africa.

@@ -19,6 +19,7 @@ topics:
 - business
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Dissolution of Partnership of Thomas Gamble and Edward Willcocks, Machinists & Blacksmiths etc. on 26 November 1879.

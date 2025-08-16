@@ -19,6 +19,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Steam Circus paid the nett proceeds of the Saturday afternoon to the Burra Hospital - £3-2-0.

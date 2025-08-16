@@ -21,6 +21,7 @@ topics:
 - injury
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident at Burra Burra Mine

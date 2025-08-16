@@ -19,6 +19,7 @@ topics:
 - elections
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Elections.  Counting is incomplete, but so far Bosworth leads Cotton by 101 to 89.

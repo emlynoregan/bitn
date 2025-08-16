@@ -21,6 +21,7 @@ topics:
 - competition
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  At the third rifle match for the Cr Sampson Cup Private Roach won for the second time.

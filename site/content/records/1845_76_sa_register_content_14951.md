@@ -19,6 +19,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is said that operations at Karkulto Mine are about to be discontinued.

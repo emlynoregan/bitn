@@ -19,6 +19,7 @@ topics:
 - tax
 - land policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘An Elector’ writes that Dr Cockburn’s tax scheme would tax all land according to its value.  W.B. Rounsevell’s scheme would tax productive land twice and unproductive land once [by imposing both a land tax and an income tax.]

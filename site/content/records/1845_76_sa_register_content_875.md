@@ -23,6 +23,7 @@ topics:
 - construction
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called by the Colonial Secretary for the erection of a Police station and Stable at the Burra Creek and for additions to the Police Station-house at Gawler Town.

@@ -20,6 +20,7 @@ topics:
 - crop
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Locusts are increasingly troublesome in the northeast and large swarms have even appeared in the town.  Much damage to crops is expected.

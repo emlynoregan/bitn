@@ -19,6 +19,7 @@ topics:
 - safety
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Crossing.  The Railway Commissioners are believed to be considering a gong, which will be fine for people, but useless for the thousands of sheep that might be in the process of crossing.

@@ -19,6 +19,7 @@ topics:
 - rates
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The rates will be as in 1893: General 1/-, Park Lands 3d and Health 3d.

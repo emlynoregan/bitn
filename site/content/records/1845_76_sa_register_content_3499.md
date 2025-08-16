@@ -21,6 +21,7 @@ topics:
 - hire
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Reformer stage cart has returned again and is open to hire for any part of the colony.  Also, we have two horse-drays to carry goods or dead weight for hire and all sorts of jobbing work with horses, carts, drays and spring carts.

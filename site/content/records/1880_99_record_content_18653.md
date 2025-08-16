@@ -19,6 +19,7 @@ topics:
 - subsidies
 - institutes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Institute Subsidies.  A deputation to which Burra was not a party has succeeded in getting the full subsidies paid to Institutes for the past year.  It will be welcome.

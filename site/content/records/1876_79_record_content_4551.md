@@ -21,6 +21,7 @@ topics:
 - dogs
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 William Dare of Piltimitiappa writes asserting that farmers should be able to keep as many dogs as they like, free, to enable them to keep down rabbits.

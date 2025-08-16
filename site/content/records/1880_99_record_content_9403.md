@@ -23,6 +23,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wants of the Burra District were presented to the Commissioner of Public Works on Wednesday by the local members, W.B. Rounsevell and E. Ward.  The most pressing item for the town of Burra was the erection of the new railway station at once.

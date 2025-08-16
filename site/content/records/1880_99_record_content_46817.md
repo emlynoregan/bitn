@@ -20,6 +20,7 @@ topics:
 - game
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Hunt.  33 persons took part in a hunt organised by J.C. Sandland on Saturday 24 September on his land east of the swamp.  They shot 535 rabbits, 3 wallabys [sic], 3 carpet snakes, 1 cat and 1 crane.

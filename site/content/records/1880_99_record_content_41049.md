@@ -22,6 +22,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Entertainment at the German Chapel, Redruth, Wed. 15 April, in aid of Burra Literary Society.  Includes Musical Tableuxs. [sic]  6d.

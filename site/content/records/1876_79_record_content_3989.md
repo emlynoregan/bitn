@@ -19,6 +19,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School enrolments now at 580; more teachers still needed.

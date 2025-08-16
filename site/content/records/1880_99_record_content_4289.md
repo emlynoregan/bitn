@@ -20,6 +20,7 @@ topics:
 - police
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for the construction of a wooden building for the Police Station at Hallett.

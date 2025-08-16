@@ -19,6 +19,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show.  There is still no sign of a Burra Show and unless the organisers get moving even the flower show will be a sorry affair.

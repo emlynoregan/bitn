@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  Mr Jobson, the engineer, has arrived and is preparing to commence operations.  The work is expected to be completed in about three to four months.

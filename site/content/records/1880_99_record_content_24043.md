@@ -18,6 +18,7 @@ topics:
 - environment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The trees at the Recreation Ground have lately been damaged by sheep.

@@ -20,6 +20,7 @@ topics:
 - health
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. G.E. Rowe, once at Redruth Wesleyan Church and now with the Prospect circuit is currently laid up with typhoid fever.

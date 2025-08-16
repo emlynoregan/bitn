@@ -25,6 +25,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Unemployment. Meeting at the Institute on 4 Oct. chaired by P. Lane urges a start on the Eastern Road via Nankivell's Gully and the Kingston St Bridge be started as soon as possible to relieve local unemployment.

@@ -19,6 +19,7 @@ topics:
 - community
 - local news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Lapford Correspondent waffles on at very great length, but says little except that Lapford is desolate.  The P.O. is 3 miles away uphill from the town and ‘generally allowed to be “awkwardly” situated.’

@@ -20,6 +20,7 @@ topics:
 - municipal
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The ‘Redruth’ lamp may have been in Aberdeen at the Royal Exchange Hotel Corner.]

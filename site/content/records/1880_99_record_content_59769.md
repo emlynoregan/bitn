@@ -23,6 +23,7 @@ topics:
 - fundraising
 - totalizator
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club.  The club ended the recent meeting in credit over £20, which is considered highly satisfactory.  A protest by Mr Murphy against the performance of Mr J. Cockrum’s Flashlight in the Maiden Race was upheld.  The Burra Hospital gets £2-18-3 as a result of the fractions from the toatalizator.

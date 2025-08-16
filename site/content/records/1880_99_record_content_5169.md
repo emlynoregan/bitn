@@ -18,6 +18,7 @@ topics:
 - religion
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Reading.  A contributor supplies a little less than ⅓ column article in support of ‘The Bible in State Schools Society’.

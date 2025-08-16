@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - repair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  On Friday morning a tree root caused a break in the Kingston St main, but it was soon repaired.

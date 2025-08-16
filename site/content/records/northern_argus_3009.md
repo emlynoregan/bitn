@@ -18,6 +18,7 @@ topics:
 - award
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Petrea Piggott has won the Lions Junior Sportsperson of the year award.

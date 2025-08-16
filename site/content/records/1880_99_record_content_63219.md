@@ -20,6 +20,7 @@ topics:
 - agriculture
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.J.M. McBride was charged with not destroying rabbits.  Recently he had a similar charge dismissed, but this time it cost him £6-4-0.

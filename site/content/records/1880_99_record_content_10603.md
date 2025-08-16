@@ -22,6 +22,7 @@ topics:
 - agriculture
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Sales at Burra were once insignificant, but now are very large and Messrs Austin, Davison & Co. have announced weekly sales will now take place at the Bon Accord Yards.

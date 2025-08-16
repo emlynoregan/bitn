@@ -19,6 +19,7 @@ topics:
 - competition
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Spelling Bee:	Under 13	J. Kelly

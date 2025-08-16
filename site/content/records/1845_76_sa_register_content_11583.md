@@ -21,6 +21,7 @@ topics:
 - theatre
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Edouin Family has been in Kooringa for the last week, playing to middling houses.  Their reputation suggests a better turnout, but perhaps this was affected by Easter sports and the knowledge that Burton’s Circus is coming soon.

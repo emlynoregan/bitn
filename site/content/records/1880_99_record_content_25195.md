@@ -19,6 +19,7 @@ topics:
 - legal
 - totalizator
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘ A Wanderer’ joins in condemning the way in which the ‘aristocratic gang of snobs’ looks like getting away with their contempt for the law over the use of the totalizator.

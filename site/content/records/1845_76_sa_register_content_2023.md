@@ -17,6 +17,7 @@ topics:
 - employment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The driver would be glad to engage a competent person to take part of his labour or to form a partnership with any industrious man able to command a small capital.

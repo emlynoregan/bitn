@@ -19,6 +19,7 @@ topics:
 - agriculture
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 12 eggs & 3 lb fresh butter	M. Wise

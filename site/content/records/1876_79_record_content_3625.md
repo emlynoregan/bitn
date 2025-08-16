@@ -21,6 +21,7 @@ topics:
 - safety
 - footbridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Miners' Arms Footbridge. Another letter deploring the dangerous state of this fragile crossing. This time from James Cater, the School Headmaster.

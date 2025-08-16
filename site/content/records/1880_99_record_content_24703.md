@@ -20,6 +20,7 @@ topics:
 - editorial
 - wealth distribution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial deploring the maldistribution of wealth and especially the concentration of disproportionate amounts in the hands of those ‘who toil not, neither do they spin, and yet the other classes pay taxes for the maintenance of their Government and for the improvement of their property.’

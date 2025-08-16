@@ -18,6 +18,7 @@ topics:
 - racing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club.  No race meeting has been held in Burra for some time now, though apart from the apathy of members there is no reason in particular why one could not be staged.

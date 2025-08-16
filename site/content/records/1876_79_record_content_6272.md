@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 To the wife of E.A. Schmidt, on 21 April, at Kooringa, a daughter. [Caroline Emma May]

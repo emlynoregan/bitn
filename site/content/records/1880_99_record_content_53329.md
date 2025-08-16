@@ -21,6 +21,7 @@ topics:
 - preaching
 - service of song
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School Anniversary was held on 25 & 26 March when Rev. H.J. Parkinson preached and in the evening the service of song was The Dairyman’s Daughter.

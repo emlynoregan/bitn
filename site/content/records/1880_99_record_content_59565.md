@@ -22,6 +22,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Conference has appointed Rev. T. Flood to take control of the Burra & Hallett Circuits.  Rev. R.H. Lee, previously in charge of Hallett goes to Pt Elliott.

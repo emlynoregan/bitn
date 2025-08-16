@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. Greater detail of the Mt Bryan meeting about the station site as previously reported.

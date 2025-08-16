@@ -20,6 +20,7 @@ topics:
 - passage
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice. Emigration Regulations: Her Majesty’s Colonial Land and Emigration Commissioners.

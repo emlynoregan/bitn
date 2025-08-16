@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs T. Moody Sen., relict of the late T. Moody, for many years a respected resident, has died at an advanced age and the body will be returned to Burra by train for burial.  [Aged 77: Mary]

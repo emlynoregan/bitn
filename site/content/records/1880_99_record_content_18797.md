@@ -20,6 +20,7 @@ topics:
 - advertisement
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Alexander Harris has purchased Snell & Williams’s chaff stores and he is prepared to supply chaff and cut wood.

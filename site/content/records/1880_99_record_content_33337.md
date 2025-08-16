@@ -21,6 +21,7 @@ topics:
 - criticism
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Hallett Correspondent’ disagreeing with the evaluation of the new blacksmith’s shop at Hallett by ‘Man in the Moon’ and taking offence at the same.

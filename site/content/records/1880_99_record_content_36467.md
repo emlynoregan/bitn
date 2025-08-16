@@ -22,6 +22,7 @@ topics:
 - horticulture
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Cave writes to clarify misconceptions about his success with chrysanthemums in Adelaide.  He exhibited in 15 classes and obtained 11 prizes - 7 firsts and 4 seconds, ahead of Sir E.T. Smith who got 5 firsts and 3 seconds and J. Gordon with 1 first and 5 seconds.

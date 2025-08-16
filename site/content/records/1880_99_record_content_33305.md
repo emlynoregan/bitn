@@ -19,6 +19,7 @@ topics:
 - military
 - recruitment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  The great enthusiasm, which fired the hearts of our young men some four years ago, has died out and now scarcely a dozen can be mustered at drills.  At one time there were almost 100.

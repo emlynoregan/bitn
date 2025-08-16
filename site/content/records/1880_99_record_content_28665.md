@@ -17,6 +17,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mining.  Reports on the various mining syndicates continue to be published.

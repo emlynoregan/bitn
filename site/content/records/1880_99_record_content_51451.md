@@ -21,6 +21,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the AGM on 26 September, G. Parks was re-elected Captain and G. Herbert Vice-Captain.

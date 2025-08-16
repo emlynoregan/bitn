@@ -23,6 +23,7 @@ topics:
 - opinion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 "A Rambler" says Burra has little to recommend it except for the splendid Institute, commodious hospital and grand Model School. Its other corporation activities, public works and improvements are almost entirely absent and in this Burra is twenty years behind the times. Money needs to be spent on attracting some industry, making the streets, paths, tree planting - notwithstanding which it has a rich social life.

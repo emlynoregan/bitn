@@ -21,6 +21,7 @@ topics:
 - land law
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Hart addressed the crowd.  [He began with a conventional lot of platitudes before any policy statements.]  He favoured a tramway to unlock the mineral wealth of the Far North.  He wanted a more liberal Land Act to reflect the depressed economy of the times.  He was against changes to the Real Property Act.

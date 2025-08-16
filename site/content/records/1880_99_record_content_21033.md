@@ -20,6 +20,7 @@ topics:
 - musical instruments
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder	Organs & Pianos, see the Record Office

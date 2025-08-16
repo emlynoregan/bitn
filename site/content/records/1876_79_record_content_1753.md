@@ -19,6 +19,7 @@ topics:
 - library
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute Annual Meeting showed membership at 170 - up from 40 Library at 1485 volumes - up by 105

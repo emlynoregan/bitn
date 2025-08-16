@@ -18,6 +18,7 @@ topics:
 - policy
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chinese Bill has been amended and at present it looks like there will be a combination of controls: a limit of one per 250 tons of ship weight and a poll tax as well.

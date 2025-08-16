@@ -33,6 +33,7 @@ topics:
 - accident
 - child_employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  W. Wyatt, coroner, held an inquest on 21 July at the ‘Golden Phœnix’ near the Yatala Smelting Works on the body of Jesse Sydenham, a bullock driver aged 10½.  Edmund Sydenham, son of George Sydenham and brother of the deceased, said he was driving his team two drays behind that of the deceased on the previous Monday, on the road from Yatala to Burra Burra.  Seeing the team jump on one side, he stopped his own team and went forward.  He found the deceased lying on the ground.  The dray wheel had passed over him, but he was not dead.  Witness went to the smelting works for a doctor, but when he returned Jesse was dead.  It was the first time the deceased was in sole charge of a team, though he had been with them before.  When they had started out deceased had been sitting on the front rail of the dray with his feet on the pole.

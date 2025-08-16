@@ -21,6 +21,7 @@ topics:
 - transport
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  The Broken Hill express ran into a cow as it headed north at the Bon Accord crossing on Wednesday night, killing it instantly.

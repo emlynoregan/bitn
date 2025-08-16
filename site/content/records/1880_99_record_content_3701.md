@@ -26,6 +26,7 @@ topics:
 - domestic violence
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick Camp was charged with threatening to take the life of his wife at Hampton last Monday.  He drank to excess and on Sunday and Monday he destroyed his furniture and wanted to have her clothes, being prevented from that by his neighbours.  He then smashed the windows of his house before getting onto the roof and knocking holes into the iron with an axe, after which he pursued his wife to cut her throat.  He was required to find two sureties of £20 each to keep the peace for six months and failing to do so was sent to jail in default.

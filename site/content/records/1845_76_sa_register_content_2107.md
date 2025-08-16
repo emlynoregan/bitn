@@ -20,6 +20,7 @@ topics:
 - business
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Robert Harris, Saddleworth Hotel, Burra Burra Road.  Represented to be one of the best houses on the road.  Granted.

@@ -19,6 +19,7 @@ topics:
 - church
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's is coming on nicely and is expected to be opened about 18 December.

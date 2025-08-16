@@ -20,6 +20,7 @@ topics:
 - public safety
 - firearms
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Law & Order? A local J.P. is reported to have shot a bustard in the town at about 5 p.m., arousing the concern of the writer about the discharging of firearms in a township, and setting a fine example.

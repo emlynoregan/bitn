@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mt Bryan ‘Joss-house’ does not seem calculated for very extensive business.

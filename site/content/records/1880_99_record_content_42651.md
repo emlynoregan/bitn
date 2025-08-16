@@ -19,6 +19,7 @@ topics:
 - government
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  The free distribution of trees from the Woods and Forests Dept. is to be discontinued.

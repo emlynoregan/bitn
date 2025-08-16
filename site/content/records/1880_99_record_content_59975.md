@@ -19,6 +19,7 @@ topics:
 - council
 - charges
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A query re water use at the police station was disallowed and no reduction in the charge will be allowed.

@@ -24,6 +24,7 @@ topics:
 - transportation
 - criminal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 18 June 1850, page 2

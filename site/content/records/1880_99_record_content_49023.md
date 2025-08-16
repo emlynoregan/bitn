@@ -23,6 +23,7 @@ topics:
 - fire
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Evidence was taken from all the residents of the farm and from witnesses who saw the fire – one at the Aberdeen Quarry and one at Copperhouse.  The jury ultimately decided it was probably set by person or persons unknown.

@@ -19,6 +19,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cornwall & Devon Society.  A meeting of the society is called at the Exchange for 7 p.m. on 7 January to discuss the society’s rules and regulations.  Nicholas James, Hon. Sec.

@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Pritchard, wife of an employee of Dr J.R. Stephens, died suddenly in her sleep on Monday morning at Mongolata.  [Dinah Pritchard, died 11 November, aged 42, wife of Daniel.]

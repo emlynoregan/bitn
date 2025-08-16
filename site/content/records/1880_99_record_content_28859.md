@@ -19,6 +19,7 @@ topics:
 - events
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  A good number of members of the company attended the review in Adelaide.  It turned out to be a tame affair due to poor weather and low attendance.  The planned sham fight was cancelled.

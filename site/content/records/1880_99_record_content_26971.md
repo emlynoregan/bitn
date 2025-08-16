@@ -19,6 +19,7 @@ topics:
 - technical education
 - apprenticeship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes about technical education.  He was against teaching specific trade skills, which might have threatened those in apprenticeships, but was in favour of a more general scientific education as in agriculture, chemistry and the like.

@@ -37,6 +37,7 @@ topics:
 - railway
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest/Obituary.  (Courtesy of the Editor of the Gawler Times)

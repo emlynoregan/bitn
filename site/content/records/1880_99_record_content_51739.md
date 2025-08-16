@@ -24,6 +24,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Sunday School picnic held at Koonoona on the holiday Thursday, 9 November.  [Presumably the Kooringa Sunday school as the Redruth one reportedly went to Sod Hut the same day.]

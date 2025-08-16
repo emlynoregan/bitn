@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  E.W. Pitts has died.  [Edward William Pitts, died 30 December 1885, aged 54.]

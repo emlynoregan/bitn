@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - engineering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  The great engine commenced its operations at 1 p.m. on Thursday, as intended, and nothing could be more satisfactory than its working, which was free from any settling in problems so frequently encountered.

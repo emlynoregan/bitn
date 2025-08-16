@@ -22,6 +22,7 @@ topics:
 - death
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest at the Miners' Arms Hotel on 28 December into the death of Mary Fisher who had been found dead in a creek near Mount Bryan Station on December 26. Dr Brummitt believed the cause was heart disease and the verdict was natural causes.

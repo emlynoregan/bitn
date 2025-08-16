@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Primitive Methodists listened to three eloquent sermons preached by Rev. G. Wright on Sunday last on behalf of the fund for rebuilding the chapel.  Several contributions of labour and material have been made by miners and draymen and about £200 is in hand for the project.

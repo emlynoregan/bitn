@@ -21,6 +21,7 @@ topics:
 - music
 - personal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Personal interest: ‘Master Ray Fuss and his sisters and his cousins and his aunts came forward and sang I’m the Monarch and When I Was a Lad.  (From HMS Pinafore).  This little fellow has a clear and firm voice, of which he has a good command, the vocalization being unually [sic] good.’

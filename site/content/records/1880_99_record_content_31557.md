@@ -21,6 +21,7 @@ topics:
 - politics
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy supporting Rev. Haslam’s call for churches to become more politically involved.  ‘If the church would give its mind more to the teaching of law making and less to incomprehensible sermons mankind would be far better benefited.’

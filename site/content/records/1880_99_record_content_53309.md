@@ -22,6 +22,7 @@ topics:
 - match
 - Good Friday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket on Good Friday.  After Clare failed to appear a match began at 3 p.m. in which Aberdeen 78 defeated Burra 49.

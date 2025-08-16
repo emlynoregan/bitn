@@ -21,6 +21,7 @@ topics:
 - costume
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Costume Exhibition	Only 2 entrants: J.A.S. Bagg 1st as Father Time

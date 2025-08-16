@@ -20,6 +20,7 @@ topics:
 - quarry
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Ballast Quarry is expected to resume by the end of August or early September.

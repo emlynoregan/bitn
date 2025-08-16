@@ -22,6 +22,7 @@ topics:
 - event
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Christmas and Hospital Service will be held at the Kooringa Wesleyan Church Christmas morning at 11 a.m., Rev. R. M. Hunter will preach.  Friendly Societies and the Rifle Volunteer Force will march from the Institute.

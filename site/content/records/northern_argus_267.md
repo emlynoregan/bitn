@@ -28,6 +28,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Clare-Burra Barrow Push, 13 October

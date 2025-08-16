@@ -20,6 +20,7 @@ topics:
 - behaviour
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter¸ from ‘A Lover of Good Order’ complains about the larrikinism that abounds at all the concerts held in the Institute.  It is disgraceful.  It might be better to put the 1/- tickets to the front and others to the back.  Many young lads ‘would be ashamed to be seen doing there what they now do in the darker corners of the hall.’

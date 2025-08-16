@@ -23,6 +23,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  William Ware, eldest son of the late W. Ware of Adelaide & Catherine Jane, 3rd daughter of Thomas & Jane Parks of Kooringa, on Easter Monday.

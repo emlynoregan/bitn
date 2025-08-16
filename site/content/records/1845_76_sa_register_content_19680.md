@@ -18,6 +18,7 @@ topics:
 - agriculture
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  It remains very dry.  Farmers and stockowners are beginning to feel uneasy.

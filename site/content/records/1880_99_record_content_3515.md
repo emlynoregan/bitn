@@ -19,6 +19,7 @@ topics:
 - legal
 - slander
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firth sued Knevett for slander, alleging that Knevett had said that Firth could well afford to undercut Knevett’s charges for carting wheat as he took some of the load to feed his horses.  Knevett denied the charge, but the verdict was for the plaintiff for £10 + costs.

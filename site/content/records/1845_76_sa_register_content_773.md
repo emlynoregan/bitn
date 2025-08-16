@@ -26,6 +26,7 @@ topics:
 - business
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  A cart and two horses will start at 8 o’clock Monday morning from Nicholl’s Lodging House in Hindley Street for Gawler Town, Light, Horrock’s and Hawker’s Stations and the Burra Burra Mines and then back to Adelaide.  Open to carry light goods and passengers out and light or heavy goods in.

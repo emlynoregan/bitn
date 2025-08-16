@@ -18,6 +18,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Crops in the north are backward, but recent rains have brought them on and there is some hope of a satisfactory result.

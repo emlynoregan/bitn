@@ -25,6 +25,7 @@ topics:
 - cost
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The estimated cost of buying 10’ of the approach to Kingston Street Bridge: - 

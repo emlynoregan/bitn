@@ -20,6 +20,7 @@ topics:
 - opinion
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An attack on Professor Huxley’s views on the March edition of the Nineteenth Century.

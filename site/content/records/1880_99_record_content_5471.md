@@ -27,6 +27,7 @@ topics:
 - flora
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The list of winners suggests a rather upper class bias in flower growers with the recurring names dominated by A. Loutit, Dr Brummitt, D.S. Packard, F.W. Holder, C. Oppermann, J.D. Cave, Captain Killicoat & W. Pearce.]

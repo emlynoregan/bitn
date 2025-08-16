@@ -24,6 +24,7 @@ topics:
 - bridge
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. The new bridge at Kooringa by Mr Morris, Road Board Engineer, was passed over yesterday and is now open to traffic. There is talk of a formal opening later.

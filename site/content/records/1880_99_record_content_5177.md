@@ -29,6 +29,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be a Grand Torchlight Demonstration on Saturday 15 October led by Mr Matthew Burnett the Social Reformer.  Rechabites and other abstainers will assemble opposite the Institute and march around the town from 7 p.m. to 7.30 p.m. and then assemble for a mass meeting at the Institute.  The Mayor, P. Lane, will welcome Mr Burnett, who will deliver his popular lecture ‘Pictures from Real Life’.  The Burra Brass Band and Choir will provide the musical honours for the evening.

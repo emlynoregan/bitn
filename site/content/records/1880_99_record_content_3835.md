@@ -18,6 +18,7 @@ topics:
 - festival
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR Rose of Sharon Tent Annual Festival was held last Thursday in the Institute.  It went well and had a good attendance.

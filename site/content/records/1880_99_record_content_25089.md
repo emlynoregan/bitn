@@ -27,6 +27,7 @@ topics:
 - competition
 - shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firing Match.  Cr Sampson’s Cup was finally won by Private Roach.  The person winning it three times was finally to get to keep it.  The winners have been:

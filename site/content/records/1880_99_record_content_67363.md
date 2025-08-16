@@ -21,6 +21,7 @@ topics:
 - mine
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Water Supply.  Clearly a £30,000 water conservation scheme for a town like Burra is unnecessary and something will have to be done other than the Mt Horrocks Scheme.  Something will have to be done as the old mine is dewatered and the Waterworks well has only a few feet of water in it.  We expect some activity in the Burra Mine rather sooner than many people think.

@@ -19,6 +19,7 @@ topics:
 - pound
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. A letter to Ed. complains that 18 goats held at the pound were killed last Sat. and the bodies were slung into an old quarry, not buried as they should have been. Why?

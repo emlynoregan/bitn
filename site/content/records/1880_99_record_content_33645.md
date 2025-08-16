@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tower Bridge is to be erected in London at a cost of nearly £500,000.

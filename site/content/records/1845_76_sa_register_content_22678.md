@@ -17,6 +17,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  Good rains have seen crops planted with vigour and the country is green.  Large areas of new land have been ploughed.

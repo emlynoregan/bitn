@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. The Commissioner of Public Works visited last Saturday and said that our water wants will soon be satisfied. The conditions under which the Government gets its water from the Bon Accord will not allow the resolutions of the meeting to be carried out without the permission of the Yorke's Peninsula Mining Association, but this is only a formality.

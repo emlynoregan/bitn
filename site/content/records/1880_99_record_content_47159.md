@@ -22,6 +22,7 @@ topics:
 - billiards
 - tournament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports that the billiard tournament at the Burra Hotel now has local players heading the list on 70, 41 and 32.  Commercial travellers come next with 39, 35 and 26.

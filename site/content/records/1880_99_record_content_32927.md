@@ -25,6 +25,7 @@ topics:
 - salary
 - records
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Meeting days are to be 1st Monday and 3rd Saturday in the month henceforth to allow the Mayor to attend at least on the Saturday.  Burra Hospital deeds still cannot be found and their loss is to be advertised.

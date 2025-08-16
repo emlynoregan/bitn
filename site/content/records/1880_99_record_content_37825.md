@@ -18,6 +18,7 @@ topics:
 - media
 - telegrams
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Press.  We think there should be a conference of the provincial press to discuss matters of mutual concern such as the inability of the press to receive telegrams at any time at press rates.

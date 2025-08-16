@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sealed tenders are invited for the construction of isolation wards at the Burra Hospital.

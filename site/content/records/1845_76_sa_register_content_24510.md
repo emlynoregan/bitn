@@ -19,6 +19,7 @@ topics:
 - schools
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Annual Report of the Board of Education is the subject of an article.

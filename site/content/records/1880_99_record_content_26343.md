@@ -20,6 +20,7 @@ topics:
 - water
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Mayor reports that the water analysis is incomplete and another quart from each source is needed.

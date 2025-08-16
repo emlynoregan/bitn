@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  R.D. Pascoe has moved to the premises lately used by J.E. Doe, Hairdresser & Tobacconist, Commercial St.

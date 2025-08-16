@@ -20,6 +20,7 @@ topics:
 - advertisement
 - corn dealer
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 J. Roach	Corn Dealer, Burra Mill

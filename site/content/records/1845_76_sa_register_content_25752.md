@@ -20,6 +20,7 @@ topics:
 - district council
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  4 August.  The season has been wet, but cold and crop growth has stalled until temperatures rise.  The roads are in a dreadful state and yet some settlers still oppose a District Council.  Most would welcome one.  As the country is fenced travellers are increasingly confined to the appalling roads.

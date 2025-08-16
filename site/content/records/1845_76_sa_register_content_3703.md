@@ -17,6 +17,7 @@ topics:
 - fashion
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Paletot coat	a short loose outer coat or cloak or a fitted jacket for women.  (Origin unknown.)

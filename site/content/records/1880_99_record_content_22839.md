@@ -20,6 +20,7 @@ topics:
 - football
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  There was no game on Saturday on account of bad weather, but there is some talk of a match with Clare.

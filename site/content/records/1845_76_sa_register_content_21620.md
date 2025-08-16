@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  Mr Moody Sen. was thrown out of his buggy on the morning of 4 February, but his injuries are not as serious as first thought.

@@ -20,6 +20,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Richard Simpson died at his residence in Kooringa on 24 February, aged 74, leaving a wife, one son and two daughters.  He had been a colonist of 36 years.

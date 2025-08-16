@@ -20,6 +20,7 @@ topics:
 - public works
 - dam
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  Mr Holder has arranged with the Conservator of Water for 15 men to be employed at dam sinking immediately.

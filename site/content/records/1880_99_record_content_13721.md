@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On 5 July at Burra, Burra 3.8 defeated Clare 0.1

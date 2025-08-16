@@ -22,6 +22,7 @@ topics:
 - lecture
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Dale gave a temperance lecture at the Kooringa Primitive Methodist Church last Wednesday.  Attendance was not large.

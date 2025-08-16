@@ -18,6 +18,7 @@ topics:
 - earthquake
 - natural event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Earthquake in Burra last Saturday at c. 11.45 p.m.  It was the most violent ever felt here.

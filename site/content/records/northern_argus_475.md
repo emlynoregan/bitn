@@ -22,6 +22,7 @@ topics:
 - jubilee
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra’s Jubilee 150 Float is taking shape.

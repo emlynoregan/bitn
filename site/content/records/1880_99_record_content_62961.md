@@ -20,6 +20,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Jubilee Benevolent Soc. will hold a vocal and instrumental entertainment at the Institute next Wednesday.  1/- & 1/6 for reserved seats.

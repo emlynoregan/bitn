@@ -21,6 +21,7 @@ topics:
 - letter
 - economic ideas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a column length letter attacking ‘B.F.L.’ who had in turn written an attack on the New Utopia of Henry George.

@@ -22,6 +22,7 @@ topics:
 - community
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor asking whether the Burra Athletic Club is continuing or going `to die ... a comfortable natural death.' And what is being done with the surplus cash etc. I feel bound, says `Once a Committeeman', to ask for a meeting so funds can be disposed of in a proper and systematic manner.

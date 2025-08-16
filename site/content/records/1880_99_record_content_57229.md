@@ -18,6 +18,7 @@ topics:
 - events
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Royal Illusionists performed on Friday & Saturday to poor houses, though the shows were cleverly done.

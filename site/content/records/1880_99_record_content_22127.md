@@ -21,6 +21,7 @@ topics:
 - evangelism
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Houston, the blind singing evangelist, preached to large congregations at the Kooringa Wesleyan Church on Sunday 2 May and every evening this week.  His singing is esteemed a great treat.

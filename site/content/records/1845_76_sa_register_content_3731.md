@@ -22,6 +22,7 @@ topics:
 - land sale
 - township
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Vox Kooringanna’ writes from Burra Burra 5 July 1849.

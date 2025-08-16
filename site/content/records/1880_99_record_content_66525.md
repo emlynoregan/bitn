@@ -20,6 +20,7 @@ topics:
 - assault
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Bennet, whilst drunk on Saturday, threw the contents of a kettle over his wife and then a saucepan of soup.  She was all the time nursing a baby.

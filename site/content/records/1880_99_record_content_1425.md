@@ -19,6 +19,7 @@ topics:
 - footpath
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader is on the Government promise to form a footpath to the Burra Station.  Its best location is discussed.

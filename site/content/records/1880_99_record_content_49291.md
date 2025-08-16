@@ -21,6 +21,7 @@ topics:
 - advertisement
 - school term
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Second Term for Mr E.M. Bennett’s School in Kangaroo St will begin on Friday 14 April.

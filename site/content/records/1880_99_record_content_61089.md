@@ -22,6 +22,7 @@ topics:
 - sheep
 - fines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.K. Jenkins hotly contested a charge of not keeping in a direct line with a mob of sheep while travelling from Terowie to Burra within the Booborowie DC area.  After much evidence was taken he was fined £9-8-6.

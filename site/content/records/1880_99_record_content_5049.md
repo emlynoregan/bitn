@@ -19,6 +19,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Duffy then reiterated his claims of the Council’s promise and their need to do more to fulfil it.  The matter was stood over.

@@ -20,6 +20,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School opening celebrations continued on Wednesday 27 September with a tea social.  Ven. Archdeacon Dove gave an address.  It is intended that a day school be opened as well as a Sunday school.  The total cost of the building was £520, of which some £250 has been paid off.  It accommodates 200.

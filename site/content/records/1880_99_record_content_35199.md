@@ -17,6 +17,7 @@ topics:
 - politics
 - protectionism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on ‘False Doctrines’ which eventually returns to the question of protectionism again.

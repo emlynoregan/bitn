@@ -26,6 +26,7 @@ topics:
 - community
 - benefit concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Benefit Concert was held at the Mechanics’ Institute to raise fund for the widow Mrs Killick who has four children and whose husband died a few months ago.  £6 was collected.

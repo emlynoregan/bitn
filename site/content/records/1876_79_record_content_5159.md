@@ -18,6 +18,7 @@ topics:
 - government
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. A Govt. party of six rabbit-destroyers with bi-sulphide of carbon has been sent north last Wednesday and more will follow further production of the material when more machinery for its production has been erected.

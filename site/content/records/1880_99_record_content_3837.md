@@ -23,6 +23,7 @@ topics:
 - fundraising
 - vestry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The incumbent, Rev. Richmond, held the annual vestry meeting at which officers were thanked and new officers elected.  Mr McCulloch, having presented £500 there was a resolution to try to reduce the debt on the new building to £1,000.  Several gentlemen offered £10 if others could make it up to £100.  Several of smaller means offered £5 if 20 could be persuaded to make the sum up to £100.  Messrs Lewis and Cave were appointed to see it done.

@@ -19,6 +19,7 @@ topics:
 - industry
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  There are 15 to 20 men at work and c. 80 tons of ore were despatched this week with c. 30 tons on the floor, for which no bags are available.

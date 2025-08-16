@@ -24,6 +24,7 @@ topics:
 - theft
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gladstone Gaol.  Charles McCarthy was sentenced to one month at Laura on 6 June, for the theft of certain articles of clothing.  As the first prisoner in the new Gladstone Gaol ‘it is understood [he] will be presented with a watch by the Gladstone community in memoriam of the festive occasion.’

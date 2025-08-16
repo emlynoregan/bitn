@@ -20,6 +20,7 @@ topics:
 - drainage
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  400 men are employed on drainage at Kingston.

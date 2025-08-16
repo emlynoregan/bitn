@@ -18,6 +18,7 @@ topics:
 - race
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Races.  A meeting is called to arrange races for Whit-Monday.

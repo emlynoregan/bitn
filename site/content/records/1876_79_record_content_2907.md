@@ -20,6 +20,7 @@ topics:
 - lecture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. Dr Brummitt read a paper on `The Sea Bottom'

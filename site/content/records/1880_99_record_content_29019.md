@@ -19,6 +19,7 @@ topics:
 - council
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Corporation decided to sell allotment 16 Aberdeen, now held by them.

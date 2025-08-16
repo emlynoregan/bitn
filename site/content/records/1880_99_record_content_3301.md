@@ -27,6 +27,7 @@ topics:
 - harbour
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The electorate should be divided into 3 or 4 districts.

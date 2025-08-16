@@ -28,6 +28,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment.  The Juvenile Operatic Co. (8 little girls from Yarcowie) will present the Fairie Operatic ‘Songs and Dances from Fairy Voices’ by A.G. Crowe, at the Institute on 26 March.  Proceeds will aid Mrs Morton and family.  [Robin Morton born 5 October 1850 at McLaren Vale: died 13 March 1886 at Aberdeen aged 35.  Husband of Maria Morton.]

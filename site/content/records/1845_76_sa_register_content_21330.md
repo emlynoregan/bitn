@@ -18,6 +18,7 @@ topics:
 - community
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Residents are endeavouring to form a District Council to be called the District of Stanley.

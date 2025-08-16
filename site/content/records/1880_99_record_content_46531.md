@@ -19,6 +19,7 @@ topics:
 - fundraising
 - Sunday school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Concert at the Kooringa Wesleyan Lecture Hall on Wednesday 24 August in aid of the Sunday school funds was not largely attended due to other attractions.

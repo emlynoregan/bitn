@@ -22,6 +22,7 @@ topics:
 - manufacturing
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams has made a 3,500-gallon corrugated iron tank for G.A. Gebhardt of Mackerode.

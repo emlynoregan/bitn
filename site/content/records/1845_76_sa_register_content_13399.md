@@ -21,6 +21,7 @@ topics:
 - mine
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Company is digging a trench to carry off the water from the Bon Accord engine, so that the ford will remain operational at least until the winter rains bring floods.

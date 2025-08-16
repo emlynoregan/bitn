@@ -18,6 +18,7 @@ topics:
 - transport
 - observance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sunday Observance.  We were outraged to find that a special cattle train arrived last Sunday, was loaded and despatched the same day.

@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Redruth Wesleyan Sunday School anniversary, November 10 & 11 with the annual picnic in the Police Paddock, Redruth. Various races and Archery, Doodle-um-Buck, Shooting Gallery and Croquet. Tea, [I have been unable to discover what Doodle-urn-Buck was.]

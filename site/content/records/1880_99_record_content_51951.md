@@ -35,6 +35,7 @@ topics:
 - pump repair
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 17 July.  There was a further warm exchange involving Cr Hardy and Cr West.  Cr West moved that the Municipal Association have movable meetings instead of their always being in Adelaide.

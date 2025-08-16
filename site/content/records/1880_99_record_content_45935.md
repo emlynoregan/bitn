@@ -22,6 +22,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Edwin Thomas gave his magic lantern entertainment ‘Modern Babylon’ in the School of Music, Kooringa, in aid of St Mary’s Sunday School.  Songs and instrumental music were provided.

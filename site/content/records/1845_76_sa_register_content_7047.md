@@ -25,6 +25,7 @@ topics:
 - labour
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Peter Dawson of Sydney writes a letter dated Sydney 20 June 1851.

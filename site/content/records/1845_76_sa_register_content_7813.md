@@ -23,6 +23,7 @@ topics:
 - mining
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra Mines.  Constant employment and liberal wages will be given to the following:

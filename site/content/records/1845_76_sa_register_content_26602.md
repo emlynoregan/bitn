@@ -20,6 +20,7 @@ topics:
 - show
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Howorth’s Hibernica and Comedy Co. appeared at Lamb’s Assembly Rooms [Burra Hotel] on Tuesday evening before a large crowd.  The scenery was admired and the performers were applauded.  [Hibernica seems to suggest an Irish flavour for the entertainment.]

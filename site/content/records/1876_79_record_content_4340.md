@@ -19,6 +19,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment at the Inst. on Monday was marred by the absence of Dr Brummitt on a professional matter.

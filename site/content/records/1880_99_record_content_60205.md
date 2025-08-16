@@ -19,6 +19,7 @@ topics:
 - homing
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From Wasleys - 56½ miles, won by J. Drew’s birds at 1,169 yds per minute.

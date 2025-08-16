@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 14 Oct 81	Partners Ch XII-XIV	Stephanie	Sells (Part I)	X	X	X	X	X	X	X

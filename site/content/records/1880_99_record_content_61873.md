@@ -21,6 +21,7 @@ topics:
 - racing
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club will meet at the Institute on 19 February to decide on a race meeting for 1897.

@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Numbering was reasonably coherent with only a few irregularities.  Since this series of numbers repeats from 1894, 1895 & 1896 in this sequence the number in round brackets indicates the number of times it was used in Volume XV to the 29 December 1897 and the number in square brackets indicates the times used in an earlier sequence and the year in which this occurred.

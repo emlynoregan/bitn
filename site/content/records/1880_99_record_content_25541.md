@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter from the Crown Lands Department confirmed that the wood reserve in the Hundred of Bright would remain.  The land is to be offered for grazing only with rights to wood retained by licensed persons.

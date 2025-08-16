@@ -22,6 +22,7 @@ topics:
 - alcohol
 - mortality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 General Temperance Society.  John I. Sangster writes re the society and the change to the rules so that only total abstinence or use of alcohol only at meals are acceptable criteria for membership.  He goes on to discuss the high mortality rates caused by the excessive use of alcohol in the UK and Australia as well as the impact it has on general health and poverty.

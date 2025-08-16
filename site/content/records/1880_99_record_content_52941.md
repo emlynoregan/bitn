@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Esther Jones, wife of P. Jones of Jamestown, died at her mother’s residence in Redruth on 10 February, aged 21.  She was a daughter of Bridget Gentel.  [Registered as dying 9 February: born Esther Bridget Gentle 31 July 1873.]

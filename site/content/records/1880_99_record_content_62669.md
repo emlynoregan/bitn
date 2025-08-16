@@ -23,6 +23,7 @@ topics:
 - football
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday a match was played between Aberdeen and Kooringa, during which Jimmy Murphy suffered a broken nose.  Aberdeen 7.3 defeated Kooringa 5.5.

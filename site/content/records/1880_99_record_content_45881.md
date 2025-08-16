@@ -21,6 +21,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa & Hallett Bible Christian Circuit quarterly meeting was held at G. Hiles’s at Hallett on Wednesday 29 June.  Services have been well attended and income exceeded expenditure.

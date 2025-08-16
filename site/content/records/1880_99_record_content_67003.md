@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr N. C. Harry, teacher at Leighton School died after an illness of one week, aged 62.

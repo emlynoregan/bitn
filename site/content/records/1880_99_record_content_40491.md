@@ -21,6 +21,7 @@ topics:
 - press
 - meeting procedure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 If, as Cr Sampson says ‘he was not afraid of the press’ why did he move to go into committee, so that the press representative would be cleared from the room?

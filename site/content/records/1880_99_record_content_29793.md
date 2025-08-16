@@ -21,6 +21,7 @@ topics:
 - mining
 - geology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Joker & Pulpara Claims.  The report of the Government geologist is printed.  With the Joker Claim, some 20 miles east of Ketchowla Station, he is unimpressed.  Pulpara, 5 miles south-east of Ketchowla, is showing nothing.

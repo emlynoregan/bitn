@@ -18,6 +18,7 @@ topics:
 - services
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hire of the night cart to be reduced from 5/- to 1/-.

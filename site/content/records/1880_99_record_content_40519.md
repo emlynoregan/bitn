@@ -21,6 +21,7 @@ topics:
 - meeting
 - explanation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich said he had no particular desire to make an explanation and he would not ask the indulgence of Council, but if the motion passed at the last meeting compelled him to explain he would willingly do so.

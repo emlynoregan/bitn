@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Institute: water closet and urinal requirements were not satisfactory.

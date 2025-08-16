@@ -20,6 +20,7 @@ topics:
 - Sabbath
 - behaviour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter to the editor objects to kangaroo parties leaving Burra at midnight on Saturday and returning midnight on Sunday.  They should show greater respect for the Sabbath.

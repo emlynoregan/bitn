@@ -23,6 +23,7 @@ topics:
 - meeting
 - volunteer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Caring & Sharing Group held its AGM last week.  As well as useful talks the group had continued its elderly visitation program commenced in 1984.  Elected: Co-ordinator, Toni Brown; Assistant Co-ordinator, Eileen Dalwood; Secretary, Lois Maxted and Treasurer, May Fahlbusch.

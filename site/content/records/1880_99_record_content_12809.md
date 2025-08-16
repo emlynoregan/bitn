@@ -20,6 +20,7 @@ topics:
 - race
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Races on the Old Course. (Mr Austin’s Paddock, near Copperhouse.)  The main race is the Burra Cup (Handicap) for £70.

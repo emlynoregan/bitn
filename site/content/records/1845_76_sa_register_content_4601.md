@@ -24,6 +24,7 @@ topics:
 - ships
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Deaths on board or in quarantine	22

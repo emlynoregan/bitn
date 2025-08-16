@@ -21,6 +21,7 @@ topics:
 - charity
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Owers, who lost both his hands through an explosion in a well, is progressing towards convalescence.  He will not lose the sight of his eyes as was rumoured here last week  Subscription lists have been opened and energetic measures will be taken to collect a sum to purchase a small life annuity for him. The Destitute Board can merely grant rations and as he is quite helpless efforts will be made to enable him to live the remainder of his life in tolerable comfort.  [Owers eventually died 7 April 1900 at Aberdeen aged 74.]

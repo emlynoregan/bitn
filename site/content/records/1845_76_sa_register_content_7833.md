@@ -20,6 +20,7 @@ topics:
 - route
 - distance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Overland Route from Adelaide to Mount Alexander

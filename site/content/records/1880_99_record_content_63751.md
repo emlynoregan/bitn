@@ -23,6 +23,7 @@ topics:
 - fraud
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Kitchen.  The Advertiser reports that the total amount deficient in the Lodge accounts is £2,988-4-7.  When confronted in January Kitchen handed over shares and other securities to the value of £944.  He pleaded to be spared criminal proceedings and yet while supposedly elucidating the confusion in his books he obtained a further £350 and escaped.  Individual losses vary from £5 to £400.  Mr Kitchen left a note on 28 January suggestive of suicide, but he is now believed to have ridden the Melbourne Express from Mitcham to Mt Lofty and then somehow got to Victoria and is believed to be in one of the other colonies.

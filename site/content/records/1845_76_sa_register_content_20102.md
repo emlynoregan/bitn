@@ -27,6 +27,7 @@ topics:
 - religion
 - local history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [A long list encompasses building in the colony for the previous year.  Burra’s part has been extracted.]

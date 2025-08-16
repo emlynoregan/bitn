@@ -21,6 +21,7 @@ topics:
 - tender
 - supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for the supply of 5,000 and 10,000 tons of charcoal, respectively delivered as under.  C.M. Penny, Apoinga Smelting Works.  January 3 1851.

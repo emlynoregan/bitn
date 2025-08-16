@@ -22,6 +22,7 @@ topics:
 - accident
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races held on Wednesday last in a paddock of J. Dew’s at Springbank were quite a success.  There was a large attendance.  There was a slight accident when ‘The Earl’ fell at the first jump in the hurdles and its rider received a nasty cut on his shoulder.  Otherwise all went well.  Results printed.

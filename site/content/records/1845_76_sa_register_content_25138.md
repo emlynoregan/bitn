@@ -22,6 +22,7 @@ topics:
 - finance
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  The Directors have issued their 28th report, to be laid before a general meeting of shareholders on the 16th April.  The Mine is making slow, but steady progress.  The work must be regarded as somewhat experimental.  The quantity of ore brought to market has increased and there are possibilities that costs could be further reduced.  The Directors have secured the services of a new Captain – Mr Robert Sanders, formerly of the Foxdale Mines, Isle of Man.  His detailed intended improvements for the mine are a feature of the report.  The amount of profit for the six months to 30 September last was £4,168-9-0. and the amount estimated for the half year just closed is only £1,140-12-9 and this depends on the realisation of assets still on hand.  The number employed on the property is 314.

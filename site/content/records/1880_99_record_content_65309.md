@@ -21,6 +21,7 @@ topics:
 - inspection
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter from the Commissioner of Public Works replied to one re purchasing of the Waterworks and arrangements have been made for inspecting the well prior to the lowering of the pump.

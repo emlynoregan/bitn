@@ -21,6 +21,7 @@ topics:
 - business
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fang Sang’s drapery and fruit and vegetable shop has moved from Market Square to the shop lately occupied by Mrs Pearson in Commercial St.

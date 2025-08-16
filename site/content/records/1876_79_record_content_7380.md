@@ -21,6 +21,7 @@ topics:
 - community
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Show Society. A meeting at 4.00 p.m. today will try to organise a February show.

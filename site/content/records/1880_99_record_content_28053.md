@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Anniversary of the Leighton Wesleyan Sunday School will be held next Sunday.  Rev. J.H. Hadley will preach his farewell sermon.  Tea meeting Wednesday.

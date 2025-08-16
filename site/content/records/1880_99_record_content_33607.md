@@ -18,6 +18,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Eye Witness’ complaining that the role of the band at the recent Fancy Fair was not acknowledged in the paper and secondly complaining that the band had been given special admission only tickets in place of tickets that could have been exchanged for goods to the same value.

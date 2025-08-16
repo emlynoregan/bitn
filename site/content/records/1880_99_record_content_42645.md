@@ -22,6 +22,7 @@ topics:
 - event
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Picnic.  After a service at the church the party set out for Princess Royal in trolleys and wagons.  The unfortunate incident involving Humphrey Sandland has already been noted.  Races and jumping were organised for the afternoon when many more traps brought people and towards teatime the Mounted Infantry rode up.  Their activities disturbed the horses and made for some interesting driving on the return journey.

@@ -25,6 +25,7 @@ topics:
 - unemployment
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inspectorship Meeting at the Institute on Thursday 12 August was called by the Mayor in response to ratepayer demand, but when it assembled he promptly condemned the meeting.  He said such meetings should not be held after a decision had been made and certainly not at the instigation of a councillor who had lost his argument in Council.  He declined to take the chair at a meeting called to condemn his Council and then left the room.  Cr Coglin was then elected chairman.  The old arguments already noted were put forward concerning the Inspectorship and then there was a call by Cr Sampson to reduce the rates by 30%.  Some ratepayers, he said were getting only 4/6 a day, but their rates went to Council Officers doing less for 7/- a day.  F.W. Holder spoke favouring no Inspectorship in the current circumstances.  The meeting supported this 39 to 1 with a few abstentions.

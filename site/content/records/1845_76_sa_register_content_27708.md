@@ -20,6 +20,7 @@ topics:
 - education
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sowing is about finished and the early sown wheat is up, but not far forward.  The season has been very dry.

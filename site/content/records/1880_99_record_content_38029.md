@@ -22,6 +22,7 @@ topics:
 - temperance
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Coad lectured for about two hours on Temperance, in the Bible Christian Church on Friday last.  Though a powerful speaker, he is an extremist of the first order.  One evening this week he lectures at Redruth on ‘The tongue: its uses and abuses’.

@@ -20,6 +20,7 @@ topics:
 - leave
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W.F. Coglin, Senior Crown Lands Ranger has been granted leave after 20 years service with the Govt. Leave was asked for as a result of an accident last month.

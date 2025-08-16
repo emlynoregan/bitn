@@ -23,6 +23,7 @@ topics:
 - polo
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  At the Polo Ground, Aberdeen, last Wednesday Burra 7 goals 15 behinds defeated Broken Hill 2 goals 11 behinds.

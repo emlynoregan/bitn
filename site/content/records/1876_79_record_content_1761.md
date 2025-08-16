@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mine: Captain Sanders reported that there was work on lodes at the 85 fathom level - not high grade, but promising. Winze from 60 to 70 levels has holed and ventilated the 70. Peacock's air shaft has holed with the 60 crosscut and ventilated this part of the mine

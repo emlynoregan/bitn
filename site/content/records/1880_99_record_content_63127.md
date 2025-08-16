@@ -22,6 +22,7 @@ topics:
 - accident
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Drew’s coach-house burnt down on Tuesday afternoon. [30 November]

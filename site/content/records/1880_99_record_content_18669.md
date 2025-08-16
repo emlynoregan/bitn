@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Kate Bishop, on 29 July, wife of Joseph Bishop of Port Lincoln.  She was the eldest daughter of John Roberts of Robertstown.  [Born Catherine Robinson Roberts, 14 November 1850.]

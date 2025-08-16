@@ -17,6 +17,7 @@ topics:
 - finance
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Receipts totalled £31-7-0.  [For both occasions the cast is listed.]

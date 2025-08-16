@@ -19,6 +19,7 @@ topics:
 - church
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Special Services were well attended.  Mr Chester preached.

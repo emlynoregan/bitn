@@ -21,6 +21,7 @@ topics:
 - rates
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  P. Killicoat has called a public meeting at the Institute 8 p.m. 21 August, at ratepayers’ request, to discuss the water rates.

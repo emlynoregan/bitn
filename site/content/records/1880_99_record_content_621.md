@@ -19,6 +19,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR Festival at the Institute 25 March.  Songs, recitations etc.

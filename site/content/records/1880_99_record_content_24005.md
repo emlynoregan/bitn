@@ -20,6 +20,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sheep are to be removed from the Recreation Ground where they are destroying young trees.

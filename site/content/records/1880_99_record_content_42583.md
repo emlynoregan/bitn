@@ -19,6 +19,7 @@ topics:
 - council
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has sent a letter to P. Murrie Jun. thanking him for his fair reporting of Council meetings during his ownership of the Burra Record and expressing their best wishes.

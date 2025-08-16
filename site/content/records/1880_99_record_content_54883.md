@@ -22,6 +22,7 @@ topics:
 - finance
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc. met at Neville’s Hotel last Friday and found that after all accounts were paid etc. there was a credit balance of over £100 in hand.  It was decided to pay the secretary an honorarium of £10-10-0.  The concert had nett takings of £20-14-6.

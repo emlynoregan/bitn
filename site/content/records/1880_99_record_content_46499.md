@@ -19,6 +19,7 @@ topics:
 - mining
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 We issued a number of extras from 3 p.m. on this date giving details as news of the attempt to re-open the Broken Hill Mines came to hand.  [Not preserved in either hard copy or microfilm.]

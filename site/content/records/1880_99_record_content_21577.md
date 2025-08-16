@@ -18,6 +18,7 @@ topics:
 - postal services
 - consumer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Postcards.  A letter queries why you can buy postcards at the post office in bundles of 1/- worth, but not singly.  [Were they 1d cards?]

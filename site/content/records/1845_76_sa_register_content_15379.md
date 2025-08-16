@@ -24,6 +24,7 @@ topics:
 - fundraising
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Emu Vale-Black Springs Wesleyan Church celebrated its third anniversary on 23 February.  Two impressive sermons were preached by Rev. Thomas Lloyd, Superintendent of the District.  At the tea the following day one table was furnished by a group of young bachelors, who announced their candidacy for marriage in a placard placed on their table.  The proceeds of the event removed a long standing debt.

@@ -22,6 +22,7 @@ topics:
 - politics
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter again from J. Cooksley on the Sudan question.  He says he will take no notice of W.H. Hardy’s letter ‘until he can write to the press in a less bombastic and abusive style’ - he [Hardy] plays the man and not the ball.  He is surprised that J.B. considers opposing the Government to be nothing unjustifiable.  The argument is essentially the same as before.

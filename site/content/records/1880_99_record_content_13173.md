@@ -20,6 +20,7 @@ topics:
 - football
 - club merger
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Young Australians Football Club has decided to join the Burra Football Club with the idea of forming a second 20.

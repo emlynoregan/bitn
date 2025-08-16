@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The Hydraulic Engineer has agreed to allow connection to the mains before the handover to Council, which will make water available two or three weeks earlier.

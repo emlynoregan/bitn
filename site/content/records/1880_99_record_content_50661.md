@@ -17,6 +17,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Institute Lecture Series.  On Tuesday 22 August Rev. R.S. Casely will lecture on Tennyson, illustrated by songs and a glee and a chorus using his poems.

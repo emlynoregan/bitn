@@ -20,6 +20,7 @@ topics:
 - reading
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had a moderate attendance in bad weather on Friday.  A varies program of readings and music was presented.

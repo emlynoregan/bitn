@@ -22,6 +22,7 @@ topics:
 - council
 - suit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bagot, Shakes & Lewis we hear have withdrawn their suit against the Council Overseer.  [And thus against the Council.]

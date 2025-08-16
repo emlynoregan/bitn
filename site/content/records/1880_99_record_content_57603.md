@@ -23,6 +23,7 @@ topics:
 - waterworks
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the secret nature of Council proceedings and specifically on the matter of an account that was queried by Cr Sampson.  Councillors are not to receive any financial advantage from Council and an account for wood (for the Waterworks) was from A. Harris on printed billhead, but with ‘junior’ hand-written in.  The genuineness of the account was queried and Cr Harris then withdrew it and asked for the return of the wood.  BUT if the account was genuine, what authority had Cr Harris to withdraw the account and so do A. Harris jun. out of the amount due?

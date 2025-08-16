@@ -18,6 +18,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Aberdeen last Saturday: Aberdeen 5 defeated Allcomers 2.

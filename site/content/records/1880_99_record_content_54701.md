@@ -42,6 +42,7 @@ topics:
 - nominations
 - minutes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson said the engineer was stated to have been in a certain place for four hours and on this charge had received a month’s notice.  Since then he had received three letters.  There was some discussion about whether the three letters should be read.

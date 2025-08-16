@@ -28,6 +28,7 @@ topics:
 - letters
 - grammar
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Half of page 3 was taken up with repeated advertising material posing as stories, but really selling Mother Seigel’s Syrup, or Clement’s Tonic, Eucalypti Extract (Sander & Sons Eucfetus Extract), and Dr Williams’ Pink Pills for Pale People.

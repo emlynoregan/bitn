@@ -27,6 +27,7 @@ topics:
 - medical
 - post mortem
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The inquest was then adjourned for Dr Cave to conduct a post mortem.

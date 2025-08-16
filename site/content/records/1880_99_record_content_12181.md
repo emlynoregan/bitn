@@ -20,6 +20,7 @@ topics:
 - costs
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.B. Davison writes clarifying his point re the Davison v. O’Brien case and its costs and itemising his specific costs.

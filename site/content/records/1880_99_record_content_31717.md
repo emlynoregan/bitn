@@ -21,6 +21,7 @@ topics:
 - school reopening
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina School.  Miss Charlotte Clode of the Burra School has been sent to reopen the Baldina Provisional School from 25 Feb.

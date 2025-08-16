@@ -22,6 +22,7 @@ topics:
 - scrip
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 January 1847, page 2

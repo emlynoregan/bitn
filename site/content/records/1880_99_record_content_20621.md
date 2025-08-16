@@ -20,6 +20,7 @@ topics:
 - employment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The town has now employed 50.  It is a pity that Cr Ridgway’s idea of a register of the unemployed was not followed.

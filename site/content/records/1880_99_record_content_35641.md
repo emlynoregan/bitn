@@ -18,6 +18,7 @@ topics:
 - entertainment
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gardner’s Cyclorama was interesting and well presented and the supporting program was also well done.  The hall was well filled and the financial result was satisfactory.

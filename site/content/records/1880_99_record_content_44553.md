@@ -20,6 +20,7 @@ topics:
 - government
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government wants 10,000 yards of railway metal from the quarry, but doesn’t want to pay a fair price.  It is hoped better counsel will prevail.

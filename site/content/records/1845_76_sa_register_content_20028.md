@@ -19,6 +19,7 @@ topics:
 - court
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Wednesday at Redruth Court a man was fined £1 plus costs for removing timber from Crown Lands without a licence.

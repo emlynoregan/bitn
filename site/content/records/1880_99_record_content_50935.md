@@ -21,6 +21,7 @@ topics:
 - medical
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Gerard was thrown from his horse at New Aberdeen last Monday and rendered unconscious.  He was attended by Dr Brummitt who stitched his head.

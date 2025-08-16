@@ -25,6 +25,7 @@ topics:
 - lectures
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Institute: The Secretary responds to the complaint of 16 August.

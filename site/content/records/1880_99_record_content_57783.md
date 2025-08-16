@@ -22,6 +22,7 @@ topics:
 - accident
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire broke out in the underground workings of Block 11 of the Proprietary Mine at Broken Hill on 21 July and remains out of control.

@@ -21,6 +21,7 @@ topics:
 - mesmerism
 - clairvoyance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Dobbie of Adelaide had a good audience for his talk on Mesmerism and Clairvoyance at the Institute on Thursday evening.

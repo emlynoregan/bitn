@@ -25,6 +25,7 @@ topics:
 - funeral
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs M. Pederson, of Stock St Kooringa, died on Friday after a short illness (Pleurisy).  She had given birth to triplets about three weeks ago.  Two of the triplets have also died.  Rev. R.C. Yeoman officiated and a crowd of people attended the funeral on Sunday.  [Born Elizabeth Kellaway 22 May 1860, died 4 November 1893.]

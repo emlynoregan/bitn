@@ -18,6 +18,7 @@ topics:
 - property
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Many houses here are desolate with their doors and windows smashed.

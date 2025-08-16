@@ -20,6 +20,7 @@ topics:
 - recognition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s vestry meeting gave D.S. Packard some pieces of silver service in recognition of his services as choirmaster.

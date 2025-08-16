@@ -22,6 +22,7 @@ topics:
 - drapery
 - groceries
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Wicksteed has sold off the stock of A.V. Solomon over the last two days.  On the drapery only middling prices were received, but full prices were realised on the groceries.

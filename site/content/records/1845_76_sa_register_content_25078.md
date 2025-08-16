@@ -20,6 +20,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bible Christian Tonic Sol-Fa Classes presented a concert with Mr Coumbe adding some solos on the harmonium and the effort raised £7.

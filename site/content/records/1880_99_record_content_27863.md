@@ -19,6 +19,7 @@ topics:
 - education
 - essays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. burgess has won a £50 prize for the Centennial Essay on The future position of Australia among the nations.  This is the fourth essay prize he has won.

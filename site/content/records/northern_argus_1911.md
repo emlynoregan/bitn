@@ -20,6 +20,7 @@ topics:
 - horse show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Pony Club’s Jubilee Horse Show drew a crowd to the showgrounds on Sunday.

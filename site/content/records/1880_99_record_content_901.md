@@ -20,6 +20,7 @@ topics:
 - school
 - provisional status
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse School has some 30 students and attempts are being made to obtain provisional status for it.

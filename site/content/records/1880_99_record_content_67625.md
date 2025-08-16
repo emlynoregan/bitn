@@ -18,6 +18,7 @@ topics:
 - harvest
 - reaping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Reaping will be in full swing in the coming fortnight.

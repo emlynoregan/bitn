@@ -22,6 +22,7 @@ topics:
 - mining
 - flour mill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 15 May 1869, page 2

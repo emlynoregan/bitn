@@ -26,6 +26,7 @@ topics:
 - ford
 - private enterprise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Railway access.  It is strange that Burra is the only town without direct access to the railway station for teams.  Loads from the northeast, whence there is great traffic, have to travel along the banks of the Burra creek a considerable distance before they can cross.  ‘Private enterprise, however, is about to remedy the difficulty, for this week five or six teams have been carting slag from the old Smelting Works to make a ford opposite the Railway Station.  This will make a saving of at least two miles of cartage.’

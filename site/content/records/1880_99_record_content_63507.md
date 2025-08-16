@@ -21,6 +21,7 @@ topics:
 - finance
 - seed wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council.  Special meeting re seed wheat repayments.  In four cases the advance was expected to be repaid by 1 February.  The remainder to deliver to Council’s order the wheat reaped to be held as and for the ensuing season or otherwise disposed of to best advantage giving each party credit for the proceeds.

@@ -20,6 +20,7 @@ topics:
 - fines
 - costs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Schutz	2 horses	10/-	+5/- costs

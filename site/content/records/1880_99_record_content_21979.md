@@ -22,6 +22,7 @@ topics:
 - public affairs
 - mineral development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder then spoke, saying he hoped that this meeting marked a new interest in public affairs and questions.  The unemployed now however, want practical solutions and not theory, and real work, not charity and not merely stone breaking.  He felt that the Baldina scheme held real hope.  And that the district had missed out on proper help and assessment with respect to mineral development, both to the south at World’s End and to the north at Ulooloo.

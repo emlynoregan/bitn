@@ -20,6 +20,7 @@ topics:
 - exams
 - arithmetic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School. Examples of the exam questions are printed.  The arithmetic is quite difficult due to the use of the Imperial System of units.

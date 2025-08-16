@@ -25,6 +25,7 @@ topics:
 - death
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Henry Hamilton Douglas was suspected of stealing the collection box from the Burra Hospital a few weeks ago, but the charge was dismissed due to insufficient evidence.

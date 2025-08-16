@@ -20,6 +20,7 @@ topics:
 - legal
 - ratepayers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Disgusted Ratepayer’ writes expressing his concern at the fiasco of the last Council meeting and his dismay at the illegality of the proceedings on 12 September and the consequences flowing from that.

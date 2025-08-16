@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  F. O’Neil, fourth son of Mr John O’Neil of Burra, having been ailing for some time, went to Sydney to improve his health, but died there last week aged 23.

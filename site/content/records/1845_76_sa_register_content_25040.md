@@ -19,6 +19,7 @@ topics:
 - wheat
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hundred of Ayers.  Area doubtful.  Wheat yield 12-16 bushels per acre.

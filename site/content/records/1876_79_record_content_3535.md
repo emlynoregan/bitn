@@ -18,6 +18,7 @@ topics:
 - licensing
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hotels. The Chief Secretary has instructed that Sunday closing not be enforced until current publicans' licences expire in March.

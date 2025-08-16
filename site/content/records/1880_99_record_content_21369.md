@@ -19,6 +19,7 @@ topics:
 - editorial
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Federal Council: the first official conference/convention under an Act of the Imperial Parliament.  The Editor thought that SA should have been represented.

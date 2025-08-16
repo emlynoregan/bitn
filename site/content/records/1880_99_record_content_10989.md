@@ -22,6 +22,7 @@ topics:
 - agriculture
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams has just made four galvanised iron tanks averaging 3,000 gallons each for Pine Valley Station - made to fit one inside the other for easy transport and arranged so they can be made to supply sheep troughs with self-acting valves.

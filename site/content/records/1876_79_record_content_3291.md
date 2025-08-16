@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Public School. Mr James Cater from Princes St School Adelaide has been appointed master of the new school which should open early next year.

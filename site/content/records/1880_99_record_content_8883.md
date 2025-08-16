@@ -17,6 +17,7 @@ topics:
 - travel
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 8 Sep.	XXI-XXV	II	X			X					X		A Pleasure Trip

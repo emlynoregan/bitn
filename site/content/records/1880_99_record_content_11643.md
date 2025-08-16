@@ -17,6 +17,7 @@ topics:
 - short story
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 4 May	XXV-XXVIII	The Roguish Lover	X	X		X	X	X	X	X

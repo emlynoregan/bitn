@@ -21,6 +21,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope began its third year on Wednesday.  In the last year 42 signed the pledge at Redruth and 10 at Copperhouse.  The total is now 281.  Rev. Knight spoke against banquets at the public expense as at the opening of the Great Northern Railway.

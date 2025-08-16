@@ -19,6 +19,7 @@ topics:
 - community
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Bath has returned from a trip to England.

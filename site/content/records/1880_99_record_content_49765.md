@@ -25,6 +25,7 @@ topics:
 - football
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Football club met at the Commercial Hotel last Monday.  Elected: Patrons, Messrs Holder & Lake; President, P.L. Killicoat; Captain, J. Drew; Vice-Captain, A. Williams.  Colours to be navy blue with a red cap.

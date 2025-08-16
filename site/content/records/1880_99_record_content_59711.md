@@ -31,6 +31,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Christian Endeavour Rally was held at Redruth Wesleyan Church on Friday 27 March.  Revs. R.S. Casely, D.S. Wylie, H.J. Parkinson and T.M. Flood took part.  The Union of Christian Endeavour Societies was a representation of the following groups: Redruth Primitive Methodists, Kooringa Bible Christians, Mt Bryan Bible Christians, Hallett Bible Christians, Iron Mine Primitive Methodists, Glenora Household, World’s End Wesleyans, Kooringa Wesleyans and Juniors, Kooringa Primitive Methodists and Juniors and Redruth Wesleyans and Juniors.

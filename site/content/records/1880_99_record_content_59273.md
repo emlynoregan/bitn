@@ -22,6 +22,7 @@ topics:
 - cricket
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roach, wishing to reduce the debt on the Burra Oval, will ‘come home’ on 4 April with a team of cricketers to try conclusions with one of the local teams and follow it up with a concert in the evening.  The team members are all employed by Mr Roach in his Adelaide office.

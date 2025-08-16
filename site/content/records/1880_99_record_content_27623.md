@@ -19,6 +19,7 @@ topics:
 - invention
 - phonograph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Phonograph.  There is an article on Mr Edison’s speaking machine, but no mention of its uses other than as a dictating machine or in place of a written letter.

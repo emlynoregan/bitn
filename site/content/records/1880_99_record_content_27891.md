@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Band of Hope public dinner and sports will be held on Wednesday 22 February with a public tea in the chapel.  MOONLIGHT

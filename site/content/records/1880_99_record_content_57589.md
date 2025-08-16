@@ -20,6 +20,7 @@ topics:
 - construction
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called for the erection of a show shed of stone and iron at the Burra Oval.  Specifications at the Town Clerk’s Office.

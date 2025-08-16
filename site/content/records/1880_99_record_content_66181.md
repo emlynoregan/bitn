@@ -25,6 +25,7 @@ topics:
 - religion
 - preaching
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. D.S. Wylie, formerly of Redruth is to preach at Kooringa Primitive Methodist Church next Sunday as Rev. Wellington is taking his place at the Mintaro anniversary services.

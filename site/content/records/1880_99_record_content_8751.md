@@ -22,6 +22,7 @@ topics:
 - news
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Correspondents’ reports from other parts of the colony including Adelaide and even some overseas news at times or material from other parts of Australia.  The town Council and the Midland Road Board are reported in considerable detail.  Often page three has very little if any local news.  Advertisements on page 3 are few.

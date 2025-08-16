@@ -24,6 +24,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket club met at the Burra Hotel on 12 Dec. to reorganise and reinvigorate the club.  Captain, W. Fox; Vice-Captain, A.H. Jennings; Practice Captain, W.H. Linkson; Honorary Secretary & Treasurer, W.E. Frith.

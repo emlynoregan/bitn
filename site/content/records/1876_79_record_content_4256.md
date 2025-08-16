@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - quarantine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A quarantine station is being erected on Torrens Island (Adelaide) to accommodate 250 at a cost of £3,500.

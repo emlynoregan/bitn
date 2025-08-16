@@ -19,6 +19,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School Anniversary was on 17 & 18 May when Rev. R.C. Yeoman officiated.  The attendance, in poor weather, was not large.

@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra D.C. urged upon the Government the need for a bridge on the Copperhouse Rd over Springbank Creek, but it was refused.  Cr W. Killicoat raised the matter to see whether the continuous repairs to the ford didn’t make borrowing money for a bridge a cheaper proposition.

@@ -19,6 +19,7 @@ topics:
 - building
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tenders called for the Kooringa Primitive Methodist Church alterations.

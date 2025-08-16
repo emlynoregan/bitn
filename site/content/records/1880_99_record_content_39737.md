@@ -21,6 +21,7 @@ topics:
 - service
 - collection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Christmas services were well attended and the chancel decorated with foliage and flowers.  The collections were the best for the last six years.

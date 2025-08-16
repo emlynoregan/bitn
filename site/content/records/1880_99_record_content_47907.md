@@ -21,6 +21,7 @@ topics:
 - event
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Salvation Army Tea and Demonstration on Boxing Day 1 p.m. to 7 p.m.

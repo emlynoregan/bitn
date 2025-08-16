@@ -17,6 +17,7 @@ topics:
 - polo
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo is again in full swing with a practice match last Saturday.

@@ -21,6 +21,7 @@ topics:
 - gardens
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Musical Union Concert. The flowers conspicuous at the concert were from the garden of Mr Rumball. [The Station-master] Many gardens this year have been ruined by goats and rabbits.

@@ -18,6 +18,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Other minor discussion with candidates for Council completed the evening along with the formal endorsements etc.

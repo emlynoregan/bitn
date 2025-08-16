@@ -22,6 +22,7 @@ topics:
 - horticulture
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemums.  Messrs J. Lewis & J.D. Cave secured prizes in almost every exhibit at the Adelaide Chrysanthemum Show.

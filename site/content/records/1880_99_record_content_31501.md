@@ -24,6 +24,7 @@ topics:
 - education
 - visits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council visited the Hospital and Miss Josling’s, Miss Sleep’s, the Public, and the Convent Schools and next Thursday will visit Mrs McLagan’s and Miss Rabbich’s in Aberdeen.

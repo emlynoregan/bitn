@@ -18,6 +18,7 @@ topics:
 - irrigation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Irrigation Scheme.  Only two names have come forward for the scheme and we have it on good authority that it is not favoured by the new Government.

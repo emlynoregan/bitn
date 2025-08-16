@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor called attention to the need for a crossing of the creek near the new school.

@@ -29,6 +29,7 @@ topics:
 - community
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie. 15 September.  The petition calling for a district council also asks for the name of the place to be standardised to Booborowie rather than Booborowie, as that is closer to the native pronunciation.  The Aborigines are fast dying out and the meaning of local place names should be recorded while it is still possible; the ‘owie’ section means water.  ‘Boobor’ is large.  Some other names are:

@@ -20,6 +20,7 @@ topics:
 - council
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Page 2 carried notices, adverts for sales, classified advertisements and generally the sort of items that changed weekly like entertainment, church services and council notices.

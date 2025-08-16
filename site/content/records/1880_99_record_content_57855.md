@@ -19,6 +19,7 @@ topics:
 - sports
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill	1.3	1.3	3.4	3.5

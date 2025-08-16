@@ -20,6 +20,7 @@ topics:
 - odor
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sparks’ says ‘A loud smell from the creek in the evenings’.

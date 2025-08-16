@@ -27,6 +27,7 @@ topics:
 - forgery
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  George Ferguson, whose place of residence seems to have been Kooringa, although recently he had been staying in Adelaide, was arrested on 14 July on a charge of obtaining money under false pretences.  This was later changed to one of forgery.  He was an alcoholic and after being taken to the Station appeared to suffer from weak convulsions, which were attributed to his intemperate habits.  Shortly after 11 o’clock his condition deteriorated and he was taken from his cell and placed before the fire in the reserve room.  He first seemed to improve, but at about midnight gradually became weaker and died at about 12.15 a.m.  A paper found on the deceased when first arrested was addressed to a person in Kooringa imploring him to take pity on the writer’s wife and children.  Dr Moore conducted a post mortem and concluded that the deceased died from apoplexy; with which the jury at the inquest concurred.

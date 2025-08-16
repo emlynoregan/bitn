@@ -20,6 +20,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Joseph’s Cake & Fancy Fair at the Institute 12 & 13 September with a concert and ball on 14 September.  MOONLIGHT.

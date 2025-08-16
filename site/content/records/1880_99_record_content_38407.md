@@ -17,6 +17,7 @@ topics:
 - community
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  A spate of young people throwing stones at doors and on roofs is reported.

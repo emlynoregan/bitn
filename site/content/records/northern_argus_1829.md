@@ -18,6 +18,7 @@ topics:
 - show
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Show on Saturday was one of the best.

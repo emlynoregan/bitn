@@ -20,6 +20,7 @@ topics:
 - retirement
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. H. Dawson, saddler and harness maker to retire at end of the year. Offers to sell the whole of his stock of saddles, hunting crops, whips, chain etc.

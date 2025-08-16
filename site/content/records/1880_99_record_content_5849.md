@@ -17,6 +17,7 @@ topics:
 - advertising
 - publishing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Full of large and small advertisements of mixed local and non-local origin.

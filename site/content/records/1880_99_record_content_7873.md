@@ -19,6 +19,7 @@ topics:
 - school
 - term report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Mathew’s School.  There is a report on the term prior to breaking for the Michaelmas Holidays.  [c. ⅓ column of details.]

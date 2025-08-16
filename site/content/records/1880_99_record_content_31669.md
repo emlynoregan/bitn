@@ -19,6 +19,7 @@ topics:
 - religion
 - state schools
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Hardy continues the theme of the Education System with a little over one column.  He calls for Bible reading in State Schools.

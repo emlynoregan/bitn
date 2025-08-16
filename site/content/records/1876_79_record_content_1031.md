@@ -18,6 +18,7 @@ topics:
 - legislation
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Public School - Letter to Ed. re need for a new schoolroom in response to the passage of the Education Act (introducing compulsory education.)

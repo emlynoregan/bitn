@@ -18,6 +18,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Saturday horses attached to a buggy at the railway goods-shed bolted along the line and cleared the ash-pit.  There the vehicle stayed while the horses continued to the fence.  The only damage was to the swingle-tree and to the harness.

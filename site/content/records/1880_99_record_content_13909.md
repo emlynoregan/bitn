@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr T. [Thomas] Paynter died at his sister’s, Mrs Opie, at Redruth on 26 July.  [Aged 63]

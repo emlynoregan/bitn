@@ -23,6 +23,7 @@ topics:
 - animal
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James Merrifield was charged by William Robinson with keeping a ferocious dog.  In passing near the defendant’s house the dog had seized Robinson by the leg.  He then followed the dog to its home.  Defendant’s wife said it had only just got off the chain.  The doctor had dressed the wound.  Defendant agreed to pay the doctor’s bill and to compensate the complainant for his time and the matter was allowed to stand over.

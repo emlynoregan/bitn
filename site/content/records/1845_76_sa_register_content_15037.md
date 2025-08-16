@@ -21,6 +21,7 @@ topics:
 - industry
 - coal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Although business is slow, the town appeared busy this week due to the quantity of coal and firewood being delivered to the Mine and the Smelting Works.

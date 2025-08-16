@@ -19,6 +19,7 @@ topics:
 - membership
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Church quarterly meeting showed an increase in members and a credit balance for the quarter.

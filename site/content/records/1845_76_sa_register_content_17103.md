@@ -26,6 +26,7 @@ topics:
 - damage
 - insurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire.  A very destructive fire this morning completely destroyed the store room and shop of W.H. Stanbury.  It was discovered at about 4 a.m. and by 5 a.m. all was gone.  The adjourning surgery of Dr Maurau, a wooden building, was also consumed.  Dr Maurau’s house was saved with difficulty – wet blankets being laid on the roof and along with other efforts the struggle was successful.

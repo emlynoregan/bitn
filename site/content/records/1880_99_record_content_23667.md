@@ -19,6 +19,7 @@ topics:
 - food
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mutton has been selling for 1/- lb, compared with 4d lb in Burra.  But until recently tinned fish has been about all that was available.

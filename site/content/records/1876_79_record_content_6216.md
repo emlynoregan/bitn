@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Births.  To Mrs David Jones on 4 April at Bridge St, a son.

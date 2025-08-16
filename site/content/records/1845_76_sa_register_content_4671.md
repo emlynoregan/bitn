@@ -27,6 +27,7 @@ topics:
 - real estate
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 17 May 1850, page 3

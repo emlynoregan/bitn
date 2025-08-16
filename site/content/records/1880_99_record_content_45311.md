@@ -23,6 +23,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Visits were made to Riverton, Manoora and Gawler as well as matches at the Burra Oval including one against Auburn.

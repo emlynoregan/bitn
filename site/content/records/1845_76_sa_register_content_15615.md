@@ -36,6 +36,7 @@ topics:
 - accident
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 5 May 1862, page 3

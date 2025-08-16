@@ -23,6 +23,7 @@ topics:
 - transport
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The North.  A correspondent tells the Northern Argus that the northern districts have received splendid rains and there is good feed on all the runs from Arkaba south.  The coach from Blinman to Kooringa took ten days.  The delay was principally due to weak horses between Blinman and Wonoka Creek.  They seemed scarcely able to carry the weight of the harness, much less drag a coach on heavy roads.

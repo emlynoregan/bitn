@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  The first 6 beat the second 9 on Wed. by 21 points.  [But at what? Could this be a rifle match?]

@@ -19,6 +19,7 @@ topics:
 - community
 - assistance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra and District will have fair average yields, but in the N & N-E are many farmers who have reaped almost nothing.  This land should be returned to pasture.  In the better areas where the failure has been due to unusual conditions it would be a boon if means could be found to assist them in staying on the land.  A privately organised seed fund would be one way, the Government having resolved not to use public money for a seed fund.  The seed should be given outright only to those who otherwise could not get seed at all.

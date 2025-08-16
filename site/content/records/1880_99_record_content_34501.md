@@ -19,6 +19,7 @@ topics:
 - law
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Pro Bono Publico’ urging the enforcement of the Star Thistles Act, which the writer says, is being neglected.

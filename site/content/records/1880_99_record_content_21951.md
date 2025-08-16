@@ -18,6 +18,7 @@ topics:
 - environment
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Eaglehawks.  It is said to be a great mistake to destroy these birds as they eat rabbits.

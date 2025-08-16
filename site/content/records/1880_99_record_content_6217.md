@@ -33,6 +33,7 @@ topics:
 - government subsidy
 - survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayers’ Meeting, Institute, 2 February, to consider the proposed Council loan.

@@ -19,6 +19,7 @@ topics:
 - labor
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Central Road Board, 21 April] Stationmen.

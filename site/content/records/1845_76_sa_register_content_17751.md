@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The roads have been so bad that several times recently the mail has been late.

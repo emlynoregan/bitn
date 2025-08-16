@@ -34,6 +34,7 @@ topics:
 - investigation
 - arson
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest at Aberdeen on Thursday into the fire on Wednesday that consumed Broad's Aberdeen Hotel. J.D. Cave, coroner and D. Wells, foreman of the jury.

@@ -20,6 +20,7 @@ topics:
 - advertisement
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dr Mahatma Billasingh BA and LM&S, Eye, Ear, Throat and Chest Specialist may be consulted at the Burra Hotel.  Brahmin Licentiate of the University of Bombay.

@@ -21,6 +21,7 @@ topics:
 - concert
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  A concert by the blind performers last Thursday was well attended and there was a good performance.  The Burra Band played outside before the show.

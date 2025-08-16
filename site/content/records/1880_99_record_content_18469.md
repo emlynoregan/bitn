@@ -21,6 +21,7 @@ topics:
 - finance
 - subsidy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute half-yearly meeting saw only 10 subscribers, including the committee, to face the President, Mr Holder.  He reported that the library held 3,062 volumes and there were 100 subscribers, which represented an increase of 12.  Income for the half year was £128 and expenditure £112-9-9.  The total debt on the large and valuable property was

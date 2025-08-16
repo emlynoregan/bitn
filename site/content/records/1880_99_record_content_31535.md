@@ -21,6 +21,7 @@ topics:
 - election
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Corporation Auditorship.  In the poll Mr Cave, 54, defeated Mr Hilton, 26.

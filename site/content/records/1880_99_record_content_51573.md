@@ -21,6 +21,7 @@ topics:
 - fire
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Parliament has been petitioned to prohibit Tandstickor and wax matches in the colony – after time to allow for shipments actually on the water.  They are dangerous and cause bushfires and fires in crops and grass.

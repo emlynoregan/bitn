@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wanted: a smart youth to look after a billiard table.  Apply at the New Hotel, Kooringa.

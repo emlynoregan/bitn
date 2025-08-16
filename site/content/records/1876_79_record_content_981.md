@@ -31,6 +31,7 @@ topics:
 - accident
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest on the fire at Mrs Green’s Boarding House: held at the Miners’ Arms Hotel last Friday 11 August before J.D. Cave JP, with F.W. Moody as foreman of the jury.

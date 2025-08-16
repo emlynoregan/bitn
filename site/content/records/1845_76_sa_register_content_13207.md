@@ -22,6 +22,7 @@ topics:
 - death
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  A youth named Bishop fell down a shaft at the Mine yesterday, some 17 fathoms deep.  He sustained severe injuries, which have since proved fatal.

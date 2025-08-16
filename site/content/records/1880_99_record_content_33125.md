@@ -17,6 +17,7 @@ topics:
 - animal control
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Goats.  Over 20 goats were impounded last Tuesday.

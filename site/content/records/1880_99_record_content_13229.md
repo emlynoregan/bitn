@@ -21,6 +21,7 @@ topics:
 - rates
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes complaining that the ratepayers should not have to meet the costs incurred when cases are dismissed because the Inspector does not lay the information correctly, as has happened twice recently concerning Mr Sampson and an unlit vehicle.

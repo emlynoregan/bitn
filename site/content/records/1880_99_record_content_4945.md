@@ -19,6 +19,7 @@ topics:
 - agriculture
 - animal_control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wild Dogs.  No less than 70 dogs have been recently killed by Aboriginals employed for that purpose on two runs in the N-E.  On one station with 10,000 sheep only about 6 lambs survived this season.  Most of the dogs were tame ones gone wild or their descendents crossed with dingos.

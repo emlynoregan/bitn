@@ -21,6 +21,7 @@ topics:
 - organization
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 National Defence League.  Mr E.F. Brady replaces Mr R.M. Harvey as Secretary of the local branch.

@@ -17,6 +17,7 @@ topics:
 - medicine
 - qualification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Member of Royal College of Surgeons & Licentiate of the Royal College of Physicians.]

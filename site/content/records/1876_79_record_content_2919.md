@@ -21,6 +21,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Lecture. Redruth Wesleyan Schoolroom, 11 Oct., by Rev. R.W. Campbell. `Peter the Great, the Typical Russian'

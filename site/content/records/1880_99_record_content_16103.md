@@ -24,6 +24,7 @@ topics:
 - defence
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Town Council’s approach to employment.  It criticises the habit of considering jobs vacant each year and suggests that while the salaries may legitimately be considered, the employees out to remain unless they are unsatisfactory: in which case there is no need to wait till year’s end.

@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 2 Aug. at Kooringa to Mrs G. Anderson, a daughter.  [Dolcie May]

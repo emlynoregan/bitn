@@ -18,6 +18,7 @@ topics:
 - numbering
 - date
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1886 begins with Volume VII, Number 505 on 1 January 1886

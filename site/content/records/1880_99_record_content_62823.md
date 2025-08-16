@@ -20,6 +20,7 @@ topics:
 - organization
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Rifle Club will submit names to the Government shortly.  It is a national calamity not to be able to procure enough rifles to meet the requirements.  The old rifles are unfit.  Practices in the meantime will use all kinds of weapons.

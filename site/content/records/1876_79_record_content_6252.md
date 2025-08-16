@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. The new bridge is nearing completion and the approach work is in hand, so it should be open before winter sets in.

@@ -21,6 +21,7 @@ topics:
 - education
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School: Only W. Sara & Dunstan tendered at £7970/8/- which was thought too high - tender readvertised.

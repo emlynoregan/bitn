@@ -27,6 +27,7 @@ topics:
 - theft
 - arrest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jim Gaffey, who is well known in Burra, having lived here for a short time some years ago, was looked on then as a respectable and well-behaved young fellow.  He has now been arrested on a charge of horse stealing in Queensland.  [Given the arrest was apparently in Sydney and the court appearance in Cobar, the offence would seem to have been committed in NSW.]  He was captured a month ago about 18 miles from Hillston [Central NSW], but escaped by riding his horse over a five-rail fence into thick scrub.  He was pursued over 118 miles in 18 hours, but eluded police with blacktrackers and was eventually captured in Sydney, having bought a passage on a steamer for Auckland.  He is to appear in court at Cobar.

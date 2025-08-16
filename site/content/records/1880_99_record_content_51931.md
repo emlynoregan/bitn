@@ -24,6 +24,7 @@ topics:
 - fiasco
 - engine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy asked if it was all right for the Engineer to go to the Bon Accord Hotel while the engine was running.  This led to an enquiry and two special meetings of Council, but after all, the farce ended in a fiasco and the Engineer, Mr Littlejohn, remains in charge.

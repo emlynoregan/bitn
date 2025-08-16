@@ -18,6 +18,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  Out-of-town reports cover cricket, racing, swimming, and sculling.  The football program for the Adelaide area for May is printed.

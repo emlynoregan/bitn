@@ -19,6 +19,7 @@ topics:
 - entertainment
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Professor Askull gave an entertainment on the 8th inst. At the Windygoleeche Hotel [sic].  He was fairly patronised and the performance of his dogs gave great amusement.

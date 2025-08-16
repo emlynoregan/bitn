@@ -27,6 +27,7 @@ topics:
 - memorial
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  Special sermons last Sunday were preached by Ven. Archdeacon Dove of Adelaide and in the morning two memorial windows were unveiled in memory of Mrs John Lewis and Dr William Peel Nesbitt.  Dr R. Brummitt, who was a particular friend of both families, performed the ceremony of unveiling.  The windows were made in Adelaide by Messrs Montgomery & Grimbly.

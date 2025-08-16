@@ -21,6 +21,7 @@ topics:
 - death
 - mortuary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mortuary Returns SA 1866-67.  Extract for Burra District

@@ -19,6 +19,7 @@ topics:
 - animal
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison.  On Saturday Mr. R.D. Pascoe had a valuable kangaroo slut poisoned in Commercial St.  This is the sixth dog he has lost by this means.

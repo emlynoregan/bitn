@@ -18,6 +18,7 @@ topics:
 - publication
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local Journal.  We have received the first issue of the Burra Literary Star, which we believe is to be published quarterly.

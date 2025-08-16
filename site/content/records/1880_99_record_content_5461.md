@@ -22,6 +22,7 @@ topics:
 - road
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the conflict with the Road Board re Market St.  The Board admit the road is very greatly improved and don’t pretend it was in good repair at the start, but insist on their surveyor being satisfied.  The Council has now agreed to spend another £30 on a road that has already swallowed too much.  They gave in because of the power of the Board - it is too hard to fight them even when they are absolutely unfair and the Council in the right.

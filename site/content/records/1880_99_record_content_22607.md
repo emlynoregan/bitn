@@ -18,6 +18,7 @@ topics:
 - economy
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Depression.  A letter to the editor complains that butchers as a group have withdrawn credit from the poor so now instead of all the shopkeepers getting paid a bit off their bills, just the butchers get paid!

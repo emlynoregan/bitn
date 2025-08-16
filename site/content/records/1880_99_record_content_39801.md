@@ -34,6 +34,7 @@ topics:
 - council
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water over rate allowance 2/6 per 1,000 gallons

@@ -27,6 +27,7 @@ topics:
 - crime
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year’s Eve larrikinism.  There was the overturning of many ‘necessary outbuildings’ connected with cottages all along Thames St.

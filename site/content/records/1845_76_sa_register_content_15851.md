@@ -22,6 +22,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The past week has been most wintry.  Monday was wet and stormy with a perfect gale in the evening.  Many of the creeks are swollen and the Mt Remarkable mail cart was delayed on the road some two or three hours and eventually the mail had to be sent on by horseback.

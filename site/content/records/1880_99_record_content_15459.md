@@ -20,6 +20,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday School Annual Picnic, 1 January.  A special train will run to Hallett for a program of sports.  Return tickets 2/6.

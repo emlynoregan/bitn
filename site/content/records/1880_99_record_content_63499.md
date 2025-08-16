@@ -21,6 +21,7 @@ topics:
 - concert
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Concert in St Mary’s Schoolroom tonight.  A Good Programme by ‘Black and White’ performers, to benefit the funds of St Mary’s Sunday School.  6d & 3d.

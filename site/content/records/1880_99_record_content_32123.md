@@ -19,6 +19,7 @@ topics:
 - urban planning
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on tree planting in streets and reserves in Burra.  Sugar gums are fast growing and suitable in most places.  Pepper trees are a last resort in places where nothing else will grow.  They are not suitable for street plantings.  White cedars are quite suitable for streets giving good shade in summer and clear space below.  Cork elms are good, but slow growing.  Lagunarias are good for variety, but cattle are fond of them.  Pines are good for dense cover to mask an ugly spot, but grow slowly.

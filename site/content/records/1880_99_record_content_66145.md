@@ -25,6 +25,7 @@ topics:
 - agriculture
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting at the Institute on Tuesday drew an unusually large number of ladies to hear from the candidates for the two House of Assembly seats for the district.

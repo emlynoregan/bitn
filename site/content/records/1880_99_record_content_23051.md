@@ -18,6 +18,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show.  It seems that the Burra Show will be the only one around that will not be held this year.

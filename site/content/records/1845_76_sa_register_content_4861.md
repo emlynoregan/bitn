@@ -22,6 +22,7 @@ topics:
 - contract
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Lawn sued Smith for 9/8 for two days’ wages.  He had been hired for a week, but refused to continue after two days, as he had received a better paying offer.  His worship dismissed the case and said if Smith lodged a complaint for breach of contract, Lawn could expect to be punished.

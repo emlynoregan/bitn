@@ -20,6 +20,7 @@ topics:
 - obituary
 - local institutions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Dr [Joseph Waterfield] Chown JP died suddenly on 1 April as the result of concussion sustained during a fit.  He was a well-known magistrate of Terowie and active in the Institute, Rifle Company and Bicycle Club, among other local institutions in Terowie.

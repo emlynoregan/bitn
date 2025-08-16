@@ -20,6 +20,7 @@ topics:
 - finance
 - ward boundaries
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 £2-2-0 to be given to the Inspector for obtaining signatures re changing Ward boundaries.

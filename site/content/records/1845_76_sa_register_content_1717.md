@@ -19,6 +19,7 @@ topics:
 - mining
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Several Robberies are reported from the Great Mine.

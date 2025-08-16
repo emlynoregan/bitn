@@ -21,6 +21,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oddly enough it was those who claim not to use town water that complained first of its absence.  One problem is the lack of a firm decision by the Government on the future of the plant.

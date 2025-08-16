@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. A. Catt MP, Commissioner of Public Works, will visit World’s End tomorrow to see the site of the proposed water conservation scheme.

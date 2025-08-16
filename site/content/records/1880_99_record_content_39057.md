@@ -19,6 +19,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Thanks to Mr A. Fuss for the return of my pocket book and contents which had been lost and ‘to state that although a reward was advertised he refused to take same.  F.J.S. Wilkins.’  [The pocket book contained £6-3-6 and the reward offered was £2.]

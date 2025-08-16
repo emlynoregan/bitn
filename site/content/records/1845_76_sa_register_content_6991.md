@@ -18,6 +18,7 @@ topics:
 - land sale
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Government Land Sale, 18 July

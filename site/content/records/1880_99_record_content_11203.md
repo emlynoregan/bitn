@@ -19,6 +19,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sales.  Sheep sales at Burra sometimes reach 30,000-40,000 sheep.

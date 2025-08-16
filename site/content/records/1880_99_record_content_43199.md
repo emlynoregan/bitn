@@ -22,6 +22,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Uren, the teacher distributed the prizes when the day school held its picnic on Wednesday at the Burra Creek.  [The context strongly suggests World’s End School, but the term ‘day school’ could suggest the Baldina Plains Lutheran School, though since World’s End school was held in the church, it could just as appropriately be used there.]

@@ -24,6 +24,7 @@ topics:
 - real estate
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Township of Aberdeen.  Allotments  in this rising township are to be let on lease.  Apply to Mt Taylor, the Superintendent at the Bon Accord, Captain Hall at Port Adelaide or

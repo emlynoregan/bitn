@@ -31,6 +31,7 @@ topics:
 - waterworks
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was another outbreak of contention when the Public Works Chairman, Cr Hardy, complained that a North Ward Councillor had put a man, horse and dray to work without the sanction of the Council.

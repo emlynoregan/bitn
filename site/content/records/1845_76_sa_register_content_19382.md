@@ -17,6 +17,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Whit Monday was a public holiday here with shops and the Mine closed.  On the previous Sunday the Bible Christians held their Sunday School Anniversary and on the Monday the children had their usual games and food.  Proceeds of the services amounted to more than £50.

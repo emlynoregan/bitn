@@ -29,6 +29,7 @@ topics:
 - safety
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  The sad end of Mr Cowan MP & Mr Bullimore as the result of the Dry Creek railway accident raises again the issue of unsafe railway crossings and the unprotected crossing at Aberdeen, which carries more traffic than any other between Adelaide and Terowie.  We commend the Council for their attempts, but condemn ‘the red taperism’ [sic] shown by the Railway Commissioners.  At last we have received news from G.H. Lake MP that a gate will be provided if it can be worked from the railway station, but if not a gong will be installed.  We thank Mr Lake for the action taken.

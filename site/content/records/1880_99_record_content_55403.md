@@ -19,6 +19,7 @@ topics:
 - economy
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hotel Keepers in Burra have met and agreed to raise the price of all imported ales and all spirits.  This is partly in response to the 2d duty per gallon on beer recently imposed.

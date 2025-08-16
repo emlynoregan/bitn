@@ -21,6 +21,7 @@ topics:
 - visit
 - address
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ensign Houghton visited the local Corps of the Salvation Army on Saturday and Sunday and addressed crowded congregations.

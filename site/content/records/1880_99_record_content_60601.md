@@ -21,6 +21,7 @@ topics:
 - fundraising
 - fair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church held a Wattle Blossom Fair in the Institute last Friday with a concert in the evening.  The total amount raised was, we understand, £50.

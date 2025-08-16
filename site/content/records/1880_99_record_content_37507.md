@@ -19,6 +19,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Penny Bank was formed three years ago and now holds £26-17-10.

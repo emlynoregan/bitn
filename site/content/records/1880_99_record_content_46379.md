@@ -38,6 +38,7 @@ topics:
 - insurance
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest on 13 August into the fire at J.A. Watt’s store adjoining Bagot, Shakes & Lewis’s in Kooringa.  J.D. Cave, coroner and John Sampson, foreman of the jury.

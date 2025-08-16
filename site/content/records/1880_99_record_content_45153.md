@@ -20,6 +20,7 @@ topics:
 - classes
 - dance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dancing classes will resume in Bleak House High School on Thursday.  Juniors at 4-5 p.m. and Adults 7.30-9.00 p.m.  Frances McLagan.

@@ -24,6 +24,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Prior to a pooled luncheon, visitors were given a trip around Burra, visiting Malowen Lowarth and the restored Paxton Cottages.  In the afternoon they were entertained with items by Mavis Thomas and Marie Abbott.  Mallala branch members performed a very funny skit ‘The Waitress’ and the two Woolley girls sang.

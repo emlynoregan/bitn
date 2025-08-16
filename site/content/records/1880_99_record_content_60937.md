@@ -20,6 +20,7 @@ topics:
 - business
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Mrs F.S. Packard begs to notify that Mr J.E.H. Winnall is now carrying on the business of my late husband, Mr D. Spencer Packard.  And in the offices lately occupied by him.

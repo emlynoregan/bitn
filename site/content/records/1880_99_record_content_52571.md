@@ -23,6 +23,7 @@ topics:
 - running
 - bicycle
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra United Friendly Societies’ Sports on Boxing Day had some good running.  The Aboriginal runner F. Williams contested several heats of the Sheffield handicap of £30.  This ‘dark horse’ – very appropriately named in this case – stood almost unconcerned till the shot was heard and then with a pleasant smile came away with wonderful rapidity, passing his opponents as he liked.  His running was a treat to witness.  In the forced handicap of 135 yards Williams put up a record of 13.2 secs.

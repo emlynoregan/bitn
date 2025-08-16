@@ -25,6 +25,7 @@ topics:
 - drunkenness
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Police Court, Kooringa, 21 June, before W. Lang.

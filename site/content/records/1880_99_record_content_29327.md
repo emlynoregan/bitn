@@ -21,6 +21,7 @@ topics:
 - disease
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss Annie Pearce, the youngest daughter of Mr W. Pearce Sen. died of the mysterious disease last Tuesday.  [Born 2 August 1862; died 7 August 1888 aged 26.]

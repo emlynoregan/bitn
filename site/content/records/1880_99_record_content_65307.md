@@ -22,6 +22,7 @@ topics:
 - animals
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council will continue to meet on the first and third Monday of the month.  On 5 December the minute allowing cattle to be depastured in the back streets was rescinded and by-law 18 enforced which imposes fines of not less than 10/- nor more than £10 for allowing any swine, horse, ass, mule, bull, steer, sheep, goat or other cattle to be at large in any street.

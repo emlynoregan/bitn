@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Peter’s Choir is planned to visit Burra soon for two concerts and full choral services at St Mary’s in the intervening Sunday.  When the choir visited about five years ago it was much appreciated.

@@ -19,6 +19,7 @@ topics:
 - mail
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The opening of the railway to Kapunda has seen our mails arrive two hours earlier.

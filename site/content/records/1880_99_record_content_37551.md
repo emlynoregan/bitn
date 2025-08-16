@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Major-General Downes has reported for the year ended June 1890, on the Voluntary Infantry.  Its strength has declined from 1039 to 619 and its vitality is at a low point - ‘Even the favourite amusement of rifle-shooting is now much neglected; for although Government ammunition is supplied at price below cost, 6s. per hundred being charged, there is much less ammunition purchased in proportion than when it was charged for at the rate of 8s.6d. per hundred.’

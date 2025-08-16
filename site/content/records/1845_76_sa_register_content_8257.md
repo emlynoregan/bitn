@@ -47,6 +47,7 @@ topics:
 - events
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The ‘Schneider’ Engine at the Burra Burra Mine

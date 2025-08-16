@@ -18,6 +18,7 @@ topics:
 - local history
 - treasure hunt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Paxton Square.  There is an account of an attempt to recover valuable malachite samples supposedly hidden under the floor of one of the cottages forty years ago.  A large hole was dug in one house and then in its neighbour.  A third hole was dug and though many items of rubbish were found including old sheep’s bones, there was no treasure.

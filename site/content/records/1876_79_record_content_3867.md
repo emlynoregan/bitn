@@ -23,6 +23,7 @@ topics:
 - agricultural society
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J. Humphris' departure from the district was marked by a dinner at the Miners' Arms on 1 April, chaired by Mr T. Warnes J.P. Mr Humphris was thanked for his work for the hospital and the Agricultural Society, and as Chairman of the Hanson District Council.

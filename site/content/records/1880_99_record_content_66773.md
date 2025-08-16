@@ -20,6 +20,7 @@ topics:
 - business
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Mr J. T. Tregilga’s store and butcher’s shop at Hallett are reported burnt down.

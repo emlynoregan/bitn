@@ -21,6 +21,7 @@ topics:
 - prize-giving
 - examination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School held its examination and prize-giving day last Tuesday.  Mr Holder addressed the children and distributed the prizes.  The list of winners is printed.

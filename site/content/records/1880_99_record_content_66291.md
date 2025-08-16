@@ -22,6 +22,7 @@ topics:
 - lectures
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide University Extension Lectures.  W. Fuller, assisting in the Physiological Dept. will lecture on The Cell and Its Life in the Institute next Monday.  This lecture is part of a series to be illustrated with lantern slides.

@@ -20,6 +20,7 @@ topics:
 - transport
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Warnes produced evidence of traffic flows for the week ending Feb. 19 showing: 121 loaded drays used the World's End Road & 26 loaded drays used the Baldina Road.

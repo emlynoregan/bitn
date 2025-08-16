@@ -19,6 +19,7 @@ topics:
 - concert
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The St Peter’s Cathedral Choir.  Concerts in the Institute 8 & 10 November.

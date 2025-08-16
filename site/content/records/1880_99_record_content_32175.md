@@ -19,6 +19,7 @@ topics:
 - obituary
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Vivian died on 10 April, aged 80.  He was for many years the rent collector for SAMA

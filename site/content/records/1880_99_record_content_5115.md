@@ -19,6 +19,7 @@ topics:
 - licensed victuallers
 - law enforcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the problems of getting convictions for breaches of the Licensed Victuallers’ Act.

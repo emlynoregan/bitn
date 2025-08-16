@@ -19,6 +19,7 @@ topics:
 - economy
 - commodity_prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Killicoat said that eighteen years ago the copper price was as low as now, had then risen to £137 a ton and since fallen again to £78, but there were no reasons to suppose it would not rise again.

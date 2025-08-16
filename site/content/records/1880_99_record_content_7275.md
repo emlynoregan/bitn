@@ -19,6 +19,7 @@ topics:
 - event
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Prize list for the Burra Show to be held early in September 1882.

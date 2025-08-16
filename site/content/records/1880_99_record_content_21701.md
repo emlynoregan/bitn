@@ -19,6 +19,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  Some 25 men are reportedly looking for gold at Apoinga, where there were previously some silver claims.

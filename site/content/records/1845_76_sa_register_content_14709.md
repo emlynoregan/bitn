@@ -21,6 +21,7 @@ places_mentioned:
 topics:
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  John Kent has leased the premises and bought the stock in trade of Mr J.C. Genders, wine and spirit merchant of Commercial Street, Kooringa.  He solicits the patronage of the public.

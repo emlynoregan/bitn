@@ -18,6 +18,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The U.S. Minstrels failed to appear for their advertised performance last Monday.

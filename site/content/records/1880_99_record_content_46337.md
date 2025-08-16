@@ -22,6 +22,7 @@ topics:
 - coursing
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Coursing Club: a local Puppy Stake will be run at Gum Creek Estate Thursday 1 September.

@@ -21,6 +21,7 @@ topics:
 - railway
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  A man fell from the platform of a carriage travelling at 33 m.p.h. near Mannahill on Friday.  The train stopped, but he could not be found.  Amazingly he regained consciousness on Saturday morning and was picked up by a passing train and sent to Adelaide with a badly cut face, but otherwise without serious injury.

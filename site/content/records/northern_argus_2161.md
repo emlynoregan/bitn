@@ -19,6 +19,7 @@ topics:
 - tourism
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Mine Management Committee has been pleased with the number of visitors to the Mine and Morphett’s Enginehouse since Christmas.

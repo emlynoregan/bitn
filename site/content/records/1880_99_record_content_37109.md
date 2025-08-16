@@ -27,6 +27,7 @@ topics:
 - community
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a good meeting last Friday.  It was a debate on the question that Education should be compulsory and free.  Debaters were Messrs Rayner, Rabbich, Hardy, Fuss, Nevin, Davis and Sampson.  The motion was lost.

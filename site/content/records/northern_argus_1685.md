@@ -21,6 +21,7 @@ topics:
 - policy
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital.  The 109th annual report from the Chairman Harry Quinn voiced concerns about possible changes in Burra.  Recent media reports highlighted proposals to remove maternity and acute care beds from smaller country hospitals in favour of additional nursing home type beds.  The Board wished to voice their opposition to this.  The changes would see a loss of services and therefore of trained staff and job opportunities and potentially health risks for trauma and other acute patients and expectant mothers.

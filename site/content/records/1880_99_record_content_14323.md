@@ -20,6 +20,7 @@ topics:
 - oath
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H. Howitt said in the Supreme Court on Wednesday that it was against his religious convictions to take an oath so he was allowed to make an affirmation.

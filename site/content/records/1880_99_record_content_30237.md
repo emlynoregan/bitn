@@ -21,6 +21,7 @@ topics:
 - drought
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Correspondent reports that farmers with families, implements, stock and household furniture are now frequently passing through from the north where there are neither crops, nor feed, nor water.

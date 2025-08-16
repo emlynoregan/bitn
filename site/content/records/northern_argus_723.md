@@ -21,6 +21,7 @@ topics:
 - church
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of the church with scaffolding in place and of Fr Morris with the old stained glass window.]

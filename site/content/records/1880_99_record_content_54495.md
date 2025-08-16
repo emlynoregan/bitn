@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain in the last week was good with 440 points on Monday, but it did not extend east.

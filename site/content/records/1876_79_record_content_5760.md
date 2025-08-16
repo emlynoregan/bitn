@@ -18,6 +18,7 @@ topics:
 - copper
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copper prices continue to fall and are now £64-10-0.

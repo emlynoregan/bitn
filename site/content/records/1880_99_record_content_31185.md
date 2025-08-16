@@ -22,6 +22,7 @@ topics:
 - community
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army had the usual meeting in Market Square.  Captain Meldrum was assisted by the local officers.

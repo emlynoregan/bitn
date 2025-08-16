@@ -21,6 +21,7 @@ topics:
 - fundraising
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Farrell Flat Tennis Club will hold a luncheon and fashion parade at Burra Sports Complex on 8 April.

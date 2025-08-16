@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Artesian Wells. There is a report on the deputation led by Dr Nesbitt (Mayor) that waited on the Commissioner of Crown Lands (Hon. T. Playford) to recommend that the Govt. set up a system of artesian and tube wells in the colony.

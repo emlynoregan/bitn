@@ -22,6 +22,7 @@ topics:
 - undercrossing
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The mayor and councillors visited the site for the proposed undercrossing near the Bon Accord Hotel on the 13 Dec. The Commissioner of Public Work's visit is scheduled for Sat. 15 Dec.

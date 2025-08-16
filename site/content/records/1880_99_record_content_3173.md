@@ -19,6 +19,7 @@ topics:
 - administration
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Pound notices show John Sanders as pound-keeper.

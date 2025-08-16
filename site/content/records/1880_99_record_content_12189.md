@@ -21,6 +21,7 @@ topics:
 - public service
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the injustice of the decision to deny a mail delivery to the Northeast area of pastoral leases because of the cost of between £250 and £300 p.a. when the Government gets an annual revenue from the area of £1,042-19-10.

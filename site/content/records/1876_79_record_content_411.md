@@ -18,6 +18,7 @@ topics:
 - labor
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Open work is being pushed on as fast as possible with the number of hands at our disposal, but some are frequently leaving for higher wages for short term jobs in well-sinking etc.

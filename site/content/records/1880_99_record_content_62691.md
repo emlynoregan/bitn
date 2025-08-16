@@ -19,6 +19,7 @@ topics:
 - sale
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Half the Booborowie Estate is rumoured will soon be offered for sale.

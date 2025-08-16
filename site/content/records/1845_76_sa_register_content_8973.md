@@ -18,6 +18,7 @@ topics:
 - prison
 - regulations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Convict Prison Regulations from the last Government Gazette are printed.

@@ -18,6 +18,7 @@ topics:
 - metadata
 - date
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume V, Number 235 on 29 December 1882.

@@ -21,6 +21,7 @@ topics:
 - vandalism
 - local query
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Who took that seat away from Mr Ridgway’s store and placed it in the quarry?

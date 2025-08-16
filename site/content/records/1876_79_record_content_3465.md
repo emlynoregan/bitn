@@ -21,6 +21,7 @@ topics:
 - council
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Correspondence cited indicates that as yet there has been no answer from the Bon Accord owners allowing erection of the water trough at the station, though they do promise an early one.

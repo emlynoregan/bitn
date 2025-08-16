@@ -19,6 +19,7 @@ topics:
 - races
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Races, 9 April.  Six events with the main race, the Burra Handicap, for 70 sovereigns.

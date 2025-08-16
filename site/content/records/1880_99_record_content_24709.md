@@ -21,6 +21,7 @@ topics:
 - creditors
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.L.H. Bruse’s meeting of creditors directed that his estate be assigned to Messrs J. Lewis & C. Drew for 5% commission.  The meeting not to be deemed an act of insolvency.

@@ -26,6 +26,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Annual Burra United Friendly Societies’ Sports was held on Boxing Day at the Oval.  The weather was warm.  The Burra Brass Band led a procession of the lodges from the Institute at 9.30 a.m.  The bicycle track was not in very good order.  Complaints were also heard that the scoreboard showing the number of laps was not conspicuous enough for riders to see clearly.

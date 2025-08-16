@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Christian Endeavour Soc. held its half-yearly business meeting and social at the Wesleyan Lecture Hall on 30 October.  About 40 attended.

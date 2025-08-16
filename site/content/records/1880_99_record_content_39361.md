@@ -19,6 +19,7 @@ topics:
 - harvest
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat Harvest is under way with yields about 8-16 bushels per acre.  Some crops in the east have grasshopper damage and some have rabbit damage.

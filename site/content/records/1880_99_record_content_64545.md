@@ -20,6 +20,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Colonial Missions had special services last Sunday.  Despite poor weather the collectors did well.  Since Rev. S. Wellington has arrived attendances have increased with over 100 at the last Sunday evening service.

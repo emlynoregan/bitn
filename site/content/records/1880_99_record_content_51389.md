@@ -21,6 +21,7 @@ topics:
 - local government
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Over the last few weeks the paper had reprinted several short comments from other regional papers relating to the problems with the Burra Town Council.  Perhaps the best of these was the one this issue from the Kapunda Herald.]

@@ -17,6 +17,7 @@ topics:
 - community
 - holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wednesday 20 June was observed as a general holiday by tradespeople, but no public amusements were arranged.

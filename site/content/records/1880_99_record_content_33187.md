@@ -26,6 +26,7 @@ topics:
 - education
 - achievement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Adela Knight, daughter of Rev. S. Knight, late of Burra, has qualified in London to practice medicine and surgery and been admitted as a licentiate of the Apothecaries Hall.  She did preparatory training at Adelaide University.

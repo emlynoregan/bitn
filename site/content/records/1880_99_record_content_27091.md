@@ -19,6 +19,7 @@ topics:
 - events
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sheffield Handicap 135 yards, 1st £8, 2nd £3, 3rd £1-10-0 and 4th 10/-.  Nominations 3/6, acceptance 2/6.

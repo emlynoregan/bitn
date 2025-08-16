@@ -25,6 +25,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Assoc.   The fifteenth meeting was held at Burra on 8 September when Baldina, Baldina Plains, Burra, Copperhouse, Davieston [Hanson], Leighton, Manoora and Saddleworth, were represented.

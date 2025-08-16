@@ -19,6 +19,7 @@ topics:
 - rain
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  World’s End received 4.9” in October and the country there is looking splendid.

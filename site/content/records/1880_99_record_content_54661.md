@@ -21,6 +21,7 @@ topics:
 - social
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs W.H. Turner were given a valedictory social at the Bible Christian Church last Monday.  They are residents of 30 years with 28 years connection with the church.  A substantial meal was followed by speeches at a public meeting attended by over 100 with Rev. E.J. Kemp in the chair.  They were presented with an address and an enlarged photo of each.

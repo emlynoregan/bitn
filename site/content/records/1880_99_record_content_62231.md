@@ -22,6 +22,7 @@ topics:
 - election
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Legislative Council Elections for North-East District.  There are advertisements for: William Haslam, John Warren and Thomas Jeffs.

@@ -20,6 +20,7 @@ topics:
 - community
 - civic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Justice’ writes calling on the town to make a public acknowledgement of former Cr Sampson’s services over 13 years.

@@ -20,6 +20,7 @@ topics:
 - education
 - degree
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Jane Tiver, daughter of Murray & Jan Tiver recently received her B.Sc. in WA.

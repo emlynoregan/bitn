@@ -19,6 +19,7 @@ topics:
 - storm
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Storms and rain occurred north and east on Wednesday.  Very little rain fell in the town, but some side creeks came down indicating heavy falls nearby.

@@ -25,6 +25,7 @@ topics:
 - farewell
 - sermon
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.H. Hodge preached a farewell sermon at Redruth Wesleyan Church on Sunday evening.  He is leaving for Port Lincoln.  The Church was full with people coming in from Kooringa, Baldina, Davieston and Leighton.

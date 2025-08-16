@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA has fitted spouting [guttering] to its cottages in Kooringa, but the downpipes empty onto the footpaths.

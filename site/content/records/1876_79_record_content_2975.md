@@ -17,6 +17,7 @@ topics:
 - rabbits
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. Numbers again on the rise

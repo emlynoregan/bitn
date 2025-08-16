@@ -18,6 +18,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Last of the Haddons by Mrs Newman began on 25 March and ran till 8 July.

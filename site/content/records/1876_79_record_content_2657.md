@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Bible Christian Church; special services 5 & 6 August with public tea meeting 6th with public meeting presided over by Captain Sanders. Not well attended. Address by Rev. T. Piper on `Earthquakes and Volcanoes'.

@@ -19,6 +19,7 @@ topics:
 - expedition
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra’s Venturers’ expedition to the Flinders Ranges id reported in c. ¾ column.

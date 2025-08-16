@@ -20,6 +20,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt narrowly escaped injury when some horses ran against the horse in his trap on the Redruth Bridge, causing his horse to plunge and jump.

@@ -33,6 +33,7 @@ topics:
 - transport
 - settlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Barrier Ranges.  As is common throughout 1884 there are more long reports on activities in the Barrier Ranges.  There was great interest among Burra people as a possible source of employment.  I have not noted most of the voluminous reports on the various discoveries, which were ultimately to attract a very large segment of the Burra population to Broken Hill.  Some poor deposits of silver had been found at Thackaringa in 1876 and at Umberumberka (later called Silverton) there were further discoveries in 1882.  Broken Hill itself began with a claim of Charles Rasp on 5 September 1883 and BHP was established two years later.  With no railway anywhere near the area from Sydney, SA saw a great opportunity to get all the trade from the area either through a railway line to Port Adelaide, or as actually eventuated, one to a Spencer Gulf port.  After much debate and lobbying Port Pirie won the role.]

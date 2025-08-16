@@ -21,6 +21,7 @@ topics:
 - community
 - bazaar
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Children’s Bazaar at Dr Brummitt’s home on Friday in aid of the Burra Jubilee Benevolent Society, arranged by Ida Brummitt and friends.  They raised £9 for the society.

@@ -19,6 +19,7 @@ topics:
 - fraud
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fraud.  Beware of a fraud collecting money for the relief of those suffering losses from the sinking of the Loch Sloy.  He purports to have the recommendation of the Rev. S. Wellington, but it has not been drafted by that gentleman.

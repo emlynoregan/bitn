@@ -23,6 +23,7 @@ topics:
 - cartage
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  To Drivers on the Port Wakefield Road.  When the coal now at Port Wakefield (about 1,200 tons) is removed, all cartage on this road will be at an end.

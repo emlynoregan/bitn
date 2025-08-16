@@ -21,6 +21,7 @@ topics:
 - press
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Now our ancient enemy, Mr George Stevenson, who fraternizes with the Burra Burra Directors, has also commenced a suit against us.

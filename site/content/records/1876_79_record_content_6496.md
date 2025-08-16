@@ -20,6 +20,7 @@ topics:
 - sport
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Athletic & Football Clubs' Entertainment on Monday evening was well presented and much appreciated by the very small audience that attended due to the inclement weather. The Mintaro Brass Band played during the evening.

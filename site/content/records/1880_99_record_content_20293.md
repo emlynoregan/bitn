@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The annual picnic was held on Wednesday.  After 9.30 prayers at the church they went to the picnic grounds about 6 miles from Burra with the Military Band in the lead.  Dinner was served and then sports etc. held.  Tea was taken at 4 p.m. and about 6 p.m. they headed for home, arriving about 7 p.m., again led by the band: the day ending with the National Anthem at the church.

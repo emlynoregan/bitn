@@ -20,6 +20,7 @@ topics:
 - mining
 - advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Pluto’ writes to the editor with hints for gold-seekers and others.

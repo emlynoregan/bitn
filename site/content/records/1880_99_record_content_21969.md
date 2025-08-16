@@ -19,6 +19,7 @@ topics:
 - unemployment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Council received a deputation of the unemployed and it resolved to employ ten married men in each ward for two weeks at 5/- a day.

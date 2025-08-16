@@ -20,6 +20,7 @@ topics:
 - police
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Schutz and Morrison were each fined 10/- + 10/- costs for employing an unlicensed person to drive a cab on Easter Monday.

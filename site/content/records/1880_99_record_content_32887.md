@@ -19,6 +19,7 @@ topics:
 - politics
 - treasurer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the new Cockburn Government in which F.W. Holder was Treasurer.

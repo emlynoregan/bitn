@@ -23,6 +23,7 @@ topics:
 - editorial
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’.  The editor finally announced the end of contributions by ‘Wanderer’.  [This was probably for a variety of reasons.  ‘Wanderer’ was politically very radical and his views would have differed dramatically from those of the editor.  He was also doubtlessly offensive to many readers, both in substance and in manner.  As well there was the real likelihood that he would overstep the mark and land himself and the paper in court for libel.  In the opening paragraph of his last column he said in answer to a question concerning the origin of the Emperor of Germany’s wealth, he said ‘out of the toiling starved slaves of Germany . . . stolen from the ones that produced it.’

@@ -18,6 +18,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Terowie game is now expected to be on 4 September with 15 men to a team.

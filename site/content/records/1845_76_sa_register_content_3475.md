@@ -20,6 +20,7 @@ topics:
 - advertisement
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Patent Copper Co. Works, Kooringa.  Employment will be given to a large number of teams and drays at the above works.  6 January 1849.

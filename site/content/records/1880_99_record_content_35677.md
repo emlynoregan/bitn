@@ -19,6 +19,7 @@ topics:
 - parliament
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the achievements and failures of the SA Parliament now prorogued and about to be dissolved for the coming elections.

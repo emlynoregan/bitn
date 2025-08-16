@@ -21,6 +21,7 @@ topics:
 - unemployment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  The Mayor, Mr Holder, reports that on 23 Feb. the Conservator of Water will be able to employ 20 men.

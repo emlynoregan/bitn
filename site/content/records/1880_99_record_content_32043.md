@@ -19,6 +19,7 @@ topics:
 - natural event
 - earthquake
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Earthquake was felt at c. 6 a.m. on Tuesday, but it was not severe.

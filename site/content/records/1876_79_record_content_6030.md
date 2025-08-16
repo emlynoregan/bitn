@@ -21,6 +21,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mutual Improvement Association. At a preliminary meeting on 5 March it was decided to form this association and a general meeting is called for Thursday 13 March at the Institute. W.C. Grasby, secretary pro tem.

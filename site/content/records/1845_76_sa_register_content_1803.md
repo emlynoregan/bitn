@@ -30,6 +30,7 @@ topics:
 - crime
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Horse Theft.  Police Constable Scowcroft arrived in town last Thursday with a prisoner named Bill Wright, on a charge of horse stealing.  Wright recently came from NSW with ‘Beardy Rea’ and was engaged by Mr Blake near Princes Royal as a hut keeper, but having a disagreement with the shepherd rode off with a horse, saddle, bridle and tether-rope.  The police followed him to North West Bend and Moorunde and thence to Mr Williams’ Station about 30 miles beyond Lake Bonney – a distance of some 260 miles from Burra.  This arrest may have a beneficial effect on horse stealing in the district.

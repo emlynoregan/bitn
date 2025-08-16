@@ -22,6 +22,7 @@ topics:
 - ethics
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy expressing amazement that such contempt for moral principle should persist as is shown by Cr Ridgway’s decision to withdraw his resignation or by Cr Tiver’s determination to stand again.  Such hypocrisy is beneath contempt.

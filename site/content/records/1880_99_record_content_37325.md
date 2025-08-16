@@ -22,6 +22,7 @@ topics:
 - capture
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Professor’ Carter, the colt breaker, who recently went off with a horse of Mr T. Halls, has been captured in Bordertown.

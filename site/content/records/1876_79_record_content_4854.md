@@ -19,6 +19,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Ashton’s British & American Circus & Variety Entertainment, at Burra 30 Sept. & 1 Oct., with a splendid German Brass Band. Carpeted seats 5/-. Pit 4/-. Children under 10 half price.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Anna Maria Ker, wife of J.G. Innes Ker, died at the Burra Hospital on 23 October, aged 54.  [Registered as aged 53: born Anna Maria Alston.]

@@ -18,6 +18,7 @@ topics:
 - legal
 - pest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
   Rabbits are a great pest and the Rabbit Nuisance Bill needs to be passed, compelling landowners to destroy the pest.

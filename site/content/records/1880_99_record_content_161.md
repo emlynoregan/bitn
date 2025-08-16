@@ -22,6 +22,7 @@ topics:
 - banking
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.S. Margetts, late manager of the Bank of Australasia, was presented with a gold hunting watch at The Miners’ Arms on 26 December.  William West presided.

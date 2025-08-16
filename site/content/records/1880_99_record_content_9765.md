@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Venning spoke on the Intercolonial Railway.  The Nairne-Callington route was very rugged with the line inaccessible and a gradient of 1:40 whereas the line from Strathalbyn to the Murray was level and over productive country.  The debate came down to the cost of bridging the Murray.

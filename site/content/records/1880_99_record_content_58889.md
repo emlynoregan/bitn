@@ -17,6 +17,7 @@ topics:
 - community
 - festive season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The Festive Season.  It begins on the theme of the fleeting nature of time and carries on with familiar platitudes about not wasting time, making peace, burying hatchets etc.

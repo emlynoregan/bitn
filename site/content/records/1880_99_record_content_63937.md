@@ -22,6 +22,7 @@ topics:
 - health
 - return
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.G. Hawkes of Koonoona arrived home last week after being released from quarantine on Torrens Island.

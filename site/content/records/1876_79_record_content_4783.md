@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Friends and customers of the late W. H. Banks are respectfully informed that the business will be carried on as usual. Catherine Banks. Unicorn Brewery.

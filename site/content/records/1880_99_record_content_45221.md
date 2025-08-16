@@ -19,6 +19,7 @@ topics:
 - social
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  The last game for the season was held on Saturday and in the evening J. Lewis entertained members to a first class dinner.

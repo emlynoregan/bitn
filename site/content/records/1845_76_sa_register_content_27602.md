@@ -27,6 +27,7 @@ topics:
 - event
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The holidays have passed off quietly.  The main recreations have been tea meetings associated with the various chapels.

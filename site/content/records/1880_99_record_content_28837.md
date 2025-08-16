@@ -18,6 +18,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Matches.  A fine cruet is the prize for a series of five stages of firing matches.  They will run weekly on Wednesdays beginning 27 June.  Entry fee 1/6 per match and there will be handicaps.  The first two of each of the first four matches will play off in the fifth match.

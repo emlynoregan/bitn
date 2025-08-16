@@ -24,6 +24,7 @@ topics:
 - council
 - health rate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Scavenging. Even though last year's arrangements have been much abused, the lack of any arrangements so far this year has resulted in many regrets which indicate that the old system did achieve something. Now that the Council has decided on a health rate the scavenger will collect household rubbish and anything else that is a nuisance to the eye or nose that can be classed as rubbish.

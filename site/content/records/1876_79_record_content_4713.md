@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth. To wife of Thomas Richardson of the Miners’ Arms, on 15 Aug. a son.  [Actually a daughter: Mary Ann.]

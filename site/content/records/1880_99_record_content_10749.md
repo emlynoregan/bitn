@@ -20,6 +20,7 @@ topics:
 - government
 - expenditure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Exhibition Building.  The Legislative Council is objecting to too lavish an expenditure on the Exhibition Building on North Terrace, Adelaide.

@@ -26,6 +26,7 @@ topics:
 - industry
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Port Waratah Smelting Works.  There is a lengthy report on this NSW development.

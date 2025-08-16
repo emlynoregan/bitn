@@ -22,6 +22,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.F. Warnes of Koomooloo has discovered good stone of some value some 8-9 miles from Braemar.  The reef is 12’ wide and a couple of chains long.  It was first noticed in 1889, but no real work done on it.  It is now to be tested.  [The item doesn’t say tested for what, but presumably gold, or perhaps silver?]

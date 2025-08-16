@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian special effort to raise money for the Sunday school renovations raised c. £30.  F.W. Holder presided at the evening entertainment after the tea on Wednesday.

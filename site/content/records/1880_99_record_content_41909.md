@@ -21,6 +21,7 @@ topics:
 - football
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 West of the Creek 1.0 defeated East of the Creek 0.0.

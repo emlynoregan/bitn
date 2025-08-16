@@ -22,6 +22,7 @@ topics:
 - township lands
 - reopening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  News reached Kooringa on Wednesday that the Burra Mine had been sold to English buyers for £100,000.  It was widely thought this would lead to a reopening of the mine.  We believe the sale includes all the township lands and the mineral rights.

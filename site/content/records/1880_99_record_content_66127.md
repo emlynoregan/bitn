@@ -19,6 +19,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc. has decided the next show will be 27 September and they start with funds at £92.

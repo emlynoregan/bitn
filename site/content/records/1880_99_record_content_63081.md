@@ -18,6 +18,7 @@ topics:
 - crowd
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The crowd, by now of about 50, dispersed after a vote of thanks to the chair.

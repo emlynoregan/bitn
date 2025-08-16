@@ -19,6 +19,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jasper Deane: Wood-Carver of St Paul’s, by John Saunders, 29 June to 14 August.

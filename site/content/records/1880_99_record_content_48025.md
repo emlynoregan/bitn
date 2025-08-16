@@ -22,6 +22,7 @@ topics:
 - attendance
 - awards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Children receiving the compulsory certificate ranged from 11 to 15 years.  The prizes for perfect attendance went to22 this year. (There were only 4 the first time they were offered and in the school’s first year no one had perfect attendance.)  Edwin Alfred and Maud Riggs had perfect attendance and yet lived six miles from the school.  Master Bentley is leaving the school for Adelaide and got a presentation from the school after five years teaching there.

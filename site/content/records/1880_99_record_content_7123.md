@@ -21,6 +21,7 @@ topics:
 - education
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Kooringa Young Men’s Mutual Improvement Association meets in the Wesleyan Schoolroom this evening.  Topic: Should the Bible be Read in State Schools?

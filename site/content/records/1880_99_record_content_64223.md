@@ -20,6 +20,7 @@ topics:
 - tender
 - firewood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Burra Jubilee Benevolent Society calls tenders for firewood for 1898-99.  18” x 4”, 10% dry in 5 cwt lots as ordered.  (Last year 57 tons were required)

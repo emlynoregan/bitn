@@ -30,6 +30,7 @@ topics:
 - obituary
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Harris.  On Sunday Rev. R.S. Casely preached a memorial sermon for John Harris in the course of which he said Mr Harris was born on 11 November 1837 at St Agnes in Cornwall and became a member of the Wesleyan Methodist Church in Gunnislake, Devonshire when c. 20 years old.  He then became a Sunday school teacher and came to SA in the Gillmere in 1857 and came directly to Burra.  Except for a few months in Victoria he lived for about 39 years in Kooringa.  He was closely associated with the Wesleyan Church.  He was a class teacher at Springbank and for the last 7 years of a Sunday morning class in the Kooringa church.  He was also a church trustee.  About 7 weeks before his death he had an attack of apoplexy from which he seemed to rally briefly, but gradually grew worse and died on 6 February.

@@ -18,6 +18,7 @@ topics:
 - legislation
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Totalizator Bill has passed its third reading in the House of Assembly.

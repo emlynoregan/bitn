@@ -19,6 +19,7 @@ topics:
 - fire
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to the Editor from Arthur Motley condemning the practice of burning stubble.

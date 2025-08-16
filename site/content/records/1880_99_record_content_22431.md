@@ -18,6 +18,7 @@ topics:
 - elections
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Elections.  Only about 50-60 people attended the meeting in the Institute on Wednesday.

@@ -22,6 +22,7 @@ topics:
 - public works
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 It will be necessary to alter the eastern approach to the ford near the new Kingston St Bridge when abutment work begins. He recommends that steps be taken immediately to secure the land needed on the western side of the bridge.

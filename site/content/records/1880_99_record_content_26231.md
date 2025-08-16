@@ -23,6 +23,7 @@ topics:
 - events
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The International Chess Congress has been won by Mr H. Charlich of SA with 7½ games.  He gets £50 and the Championship of Australasia.

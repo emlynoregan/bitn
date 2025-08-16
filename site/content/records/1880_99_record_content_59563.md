@@ -21,6 +21,7 @@ topics:
 - organization
 - costs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson reported on the costs of a fire brigade and could not recommend its adoption by the town as being too costly.

@@ -21,6 +21,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race for P.J. Payne’s Trophy from Petersburg on 6 June saw 27 birds released.  The best were those of J.A. Pearce with a velocity of 1,355 yds per min.

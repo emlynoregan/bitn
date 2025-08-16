@@ -19,6 +19,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church Anniversary was celebrated last Sunday & Tuesday.  Though the church debt is still £412 it has been reduced in the last year by £11 despite the hard times.

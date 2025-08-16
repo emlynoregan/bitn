@@ -24,6 +24,7 @@ topics:
 - real estate
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  To be Auctioned for the National Bank on 2 December, Part lots 27 & 28 of Kooringa in Commercial St: a two storied building of six dwelling rooms and front shop known as Bruse’s and recently occupied by C.J. Pearce.

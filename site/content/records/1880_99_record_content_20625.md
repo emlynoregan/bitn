@@ -19,6 +19,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council is putting on 45 men to work in the streets and employing young men as well as those with families.

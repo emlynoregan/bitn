@@ -19,6 +19,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Professor Rice, mind reader and spiritualist at the Institute 19 June.

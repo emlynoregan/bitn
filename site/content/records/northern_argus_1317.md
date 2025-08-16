@@ -19,6 +19,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Weather.  At last there has been some rain.  The ‘inside’ country received an inch, but eastern pastoral areas got only a sprinkling.

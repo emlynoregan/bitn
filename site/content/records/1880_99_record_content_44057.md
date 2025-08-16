@@ -18,6 +18,7 @@ topics:
 - storm
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The temperature reached 109°F on Wednesday.  Dust storms were plentiful and on Friday a storm delivered 1.17” of rain in a short time.

@@ -20,6 +20,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. S.F. Prior has arrived to head the Wesleyan Circuit and was received at a tea at Redruth last Wednesday.

@@ -21,6 +21,7 @@ topics:
 - St Patrick's Day
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Patrick’s Day was marked by the St Joseph’s School Concert.  The farce Betsy Baker proved a great hit.  John Harry’s step dancing was much applauded.  Larrikin elements were prominent, but no police were to be found.  The proceeds were c. £8 and the concert was followed by a ball.

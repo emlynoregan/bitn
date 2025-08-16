@@ -19,6 +19,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Temperance Meeting - at the Primitive Methodist Church also the anniversary of the chapel with service Sunday and Public tea and meeting on Monday with a series of speakers.

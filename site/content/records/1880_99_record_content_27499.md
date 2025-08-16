@@ -17,6 +17,7 @@ topics:
 - New Year
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year’s Day was very quiet and very hot.  The heat yesterday was also oppressive.

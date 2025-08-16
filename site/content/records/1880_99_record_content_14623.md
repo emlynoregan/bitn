@@ -22,6 +22,7 @@ topics:
 - dispute
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Findings of the Railway Commission re a dispute between the Deputy Engineer-in-Chief Mr Patterson and Locomotive Engineer Mr Thow and between Mr Mais and the Superintendent of Signals Mr R.A. White.

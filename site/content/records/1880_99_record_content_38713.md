@@ -19,6 +19,7 @@ topics:
 - politics
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader again on protection and free trade in the light of protectionist losses in the American elections.

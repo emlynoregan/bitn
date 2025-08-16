@@ -21,6 +21,7 @@ topics:
 - community
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Mayor, Mr Holder, reported that attention had been drawn to the fact that the circus which had been in town for a day or two had carried their things through the streets in wagons to the railway station on Sunday, and he had asked the constable to take action in the matter.

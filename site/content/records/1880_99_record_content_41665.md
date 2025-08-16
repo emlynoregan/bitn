@@ -24,6 +24,7 @@ topics:
 - fundraising
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs D. McCulloch, J. Lewis, J.J. Duncan, H. Vivian and W. Killicoat have sent donations to the sum of c. £40 for the Burra Mounted Infantry Co.

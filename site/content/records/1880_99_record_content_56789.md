@@ -23,6 +23,7 @@ topics:
 - horticulture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Chrysanthemum Show is next Wednesday.  There is an article on the town’s keenest chrysanthemum gardeners, which lists the varieties for which they are particularly noteworthy.  The gardeners cited are: J.D. Cave, Mr John Lewis, Mr R.M. Harvey and Mr W. Pearce Jun.

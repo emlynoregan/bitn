@@ -22,6 +22,7 @@ topics:
 - letters
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Dungey, of Port Pirie has taken up the argument between W.H. Hardy and W.T. Rabbich in a ½ column letter.

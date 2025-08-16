@@ -21,6 +21,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Austin Davidson & Co. offer for sale a portion of section 36 Redruth with 45’ frontage to Ludgvan St and 105’ depth on which is a substantial shop, almost new stone house and stock of crockery, lamps, books, window glass, saddlery and drapery.

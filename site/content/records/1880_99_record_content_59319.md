@@ -23,6 +23,7 @@ topics:
 - household effects
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis Ltd will sell by auction all the household furniture etc., also an express buggy and harness, spring dray and harness etc. for E. Gebhardt who is going to Broken Hill.

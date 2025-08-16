@@ -37,6 +37,7 @@ topics:
 - petition
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council, Special Meeting 11 Feb.  Dealt with the petition to the Government re the Bon Accord Bridge.

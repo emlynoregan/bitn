@@ -20,6 +20,7 @@ topics:
 - public works
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mayor presented 14 carobs to be planted at the Recreation Ground.

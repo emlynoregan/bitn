@@ -19,6 +19,7 @@ topics:
 - lecture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Ibbetson delivered the second part of his lecture on engineering, at the Institute on Wednesday evening.

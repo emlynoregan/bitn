@@ -24,6 +24,7 @@ topics:
 - appointment
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  Miss Wincey of the Norwood Nursing Home has been appointed Matron of Burra Hospital following the resignation of Miss Lyford.

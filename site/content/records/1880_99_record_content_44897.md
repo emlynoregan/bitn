@@ -23,6 +23,7 @@ topics:
 - health
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Thomas Edwards and his wife depart on 6 April for England, unfortunately on account of poor health.  Mr Edwards came to Burra some years ago and began a business as a draper.  He has been most interested in the Burra Institute where he has been at times auditor, committeeman, honorary secretary, and president.  He has also been Chairman of the hospital Board.

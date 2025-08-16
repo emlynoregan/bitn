@@ -18,6 +18,7 @@ topics:
 - mining
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the need to reform mining legislation.  There was a concern about mining on private land and the need for claims to be actively worked.

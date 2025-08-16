@@ -20,6 +20,7 @@ topics:
 - health
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Andrew Anderson came home from Broken Hill and has developed the fever, though not in a virulent form.

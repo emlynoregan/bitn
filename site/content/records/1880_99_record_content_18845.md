@@ -24,6 +24,7 @@ topics:
 - governance
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The Commissioner of Public Works has not yet made a response to the deputation on the Burra Waterworks.  It appears that the Waterworks Department have paid the Railways Department £960 for the portion of the old works taken over from them.  So if they have made a blunder it was the Railways Department that ‘got at’ us.  The engine ordered has been in SA since February and has been altered slightly to make it more suitable.

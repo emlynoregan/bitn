@@ -22,6 +22,7 @@ topics:
 - race
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The final race of the season was flown from Gawler on 13 November.  First home were R.D. Pascoe’s birds, covering the 65 miles 510 yds in 112¼ minutes at 1,024 yds per minute.

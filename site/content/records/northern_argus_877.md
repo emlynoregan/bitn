@@ -51,6 +51,7 @@ topics:
 - grants
 - finances
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 ‘Cousin Jack’s’.  There is an article that reads like a paid advertisement for Gary Donaldson’s Fine crafts Gallery, featuring a wide range of quality SA Crafts and especially his own woodcraft.  Located at 20 Market Square [sic: in mistake for Market Street] Burra North, opposite the Ambulance Station.

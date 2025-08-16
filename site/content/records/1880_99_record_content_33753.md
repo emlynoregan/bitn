@@ -20,6 +20,7 @@ topics:
 - art
 - purchase
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Charles Drew has purchased the painting ‘The Pinch of Poverty’ which had a catalogue price of £316 at the Royal Academy in London.

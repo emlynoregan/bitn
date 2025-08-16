@@ -20,6 +20,7 @@ topics:
 - storm
 - yield
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A farmer at Baldina reaped 6 bushels per acre the day before the storm and 6 bushels for the whole day following it.

@@ -20,6 +20,7 @@ topics:
 - appeal
 - damages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roach has won in an appeal to the Supreme Court against his suspension by the Adelaide Stock Exchange.  He is now expected to sue for damages.

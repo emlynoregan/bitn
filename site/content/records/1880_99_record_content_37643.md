@@ -18,6 +18,7 @@ topics:
 - fire
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  We said last issue Mr Dew’s 30 tons haystack burnt on Saturday afternoon, but we are now told it was alight at 10 p.m. and burnt after that hour.  Police are investigating.

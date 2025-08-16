@@ -20,6 +20,7 @@ topics:
 - transport
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Railroads.  This article says that railways are needed to open up large tracts of land for farming.  In America statistical figures show that railways can transport grain at one tenth the cost of road transport.  The figures in Australia might be rather different, but it is safe to say the difference between road and rail would certainly be very great.

@@ -21,6 +21,7 @@ topics:
 - agriculture
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frost.  The recent black frost has played havoc with the wheat crop as well as the gardens and extensive damage is reported from Baldina, Mongolata and Hallett.  Some crops will only be good for hay and some only for stock to graze on.  Even the grass on the hills has been burnt off.

@@ -20,6 +20,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.J. Parkin, who recently purchased the business of Mr T. Kitchen, celebrated his birthday at a fine social evening at the Commercial Hotel on Tuesday 30 January.

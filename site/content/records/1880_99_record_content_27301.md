@@ -21,6 +21,7 @@ topics:
 - railway
 - logistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It ‘believes that goods often perish by the way during the long transit by locomotive funerals between Terowie and the Barrier.’

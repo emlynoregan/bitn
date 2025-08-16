@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Homestead Blocks.  Produce from homestead blocks was displayed last week in Adelaide.  We urge the Government to complete a water irrigation scheme at Baldina Creek and create some homestead blocks there.

@@ -21,6 +21,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Entertainment at Kooringa.  The third of a series of entertainments to raise money for firewood for the poor was held at the Burra [Hotel] Assembly Room on Tuesday.  It was largely attended despite the bitterly cold weather.  [The program is outlined.]  The collection amounted to £5 and the previous two entertainments raised £12.  Mr Stanton said six tons of wood had been given out in the last month.

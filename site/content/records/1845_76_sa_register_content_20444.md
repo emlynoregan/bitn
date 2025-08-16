@@ -19,6 +19,7 @@ topics:
 - correspondence
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 P.J. Walsh, ‘Woolsheds, April 24, 1867.

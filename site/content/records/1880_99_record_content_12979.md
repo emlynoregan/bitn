@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.W. O’Brien writes in support of W.B. Rounsevell who ‘has represented the district well for the last nine years’.

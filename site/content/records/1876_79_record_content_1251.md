@@ -18,6 +18,7 @@ topics:
 - community
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Rifle Club has been formed with 22 members.

@@ -18,6 +18,7 @@ topics:
 - pests
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits have been eating wheat at 1/2 acre per night so that at least one farmer has had to cut the crop for hay

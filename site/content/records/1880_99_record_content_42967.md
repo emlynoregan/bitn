@@ -31,6 +31,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr John Bailey of Gum Creek died on 4 Nov. at the age of 74.  He had lived there about 27 years, being one of the first farmers to take up land there.

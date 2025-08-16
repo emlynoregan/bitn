@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Details are reported in just over one column.]

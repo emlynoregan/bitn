@@ -19,6 +19,7 @@ topics:
 - precedent
 - motion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson thought it was a bad precedent, but the motion was carried.

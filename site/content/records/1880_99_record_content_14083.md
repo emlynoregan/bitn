@@ -21,6 +21,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Silverton Railway deputation met the Commissioner of Public Works on Wednesday, but he said the length and cost far exceeded what was needed and he held no hopes for its construction.

@@ -23,6 +23,7 @@ topics:
 - cricket
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  St Mary’s Parish Cricket Club 1895-96 season.

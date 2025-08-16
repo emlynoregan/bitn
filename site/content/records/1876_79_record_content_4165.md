@@ -18,6 +18,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences. Petty thieves were again active with various people-reporting the loss of wood and small items left out overnight. Cellars had also been entered and butter and bacon stolen from them.

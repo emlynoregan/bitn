@@ -25,6 +25,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Conference has sent Rev. R.C. Yeoman, who has been in Burra for 3 years, to Kapunda and Rev. E.J. Kemp is to come here from Wirrabara.  Rev. Yeoman leaves in about three weeks.

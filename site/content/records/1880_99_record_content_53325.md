@@ -20,6 +20,7 @@ topics:
 - preaching
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. Burgess returned to Burra to preach on 25 & 26 March and was warmly welcomed.

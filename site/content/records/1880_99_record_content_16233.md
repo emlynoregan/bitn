@@ -22,6 +22,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial, on the Adelaide Court’s overturning of convictions against the Salvation Army for marching and playing in Kapunda despite the new by-law there.  He supports the Army’s right to do so, even though he dislikes the noise and distraction.

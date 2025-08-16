@@ -20,6 +20,7 @@ topics:
 - community
 - banquet
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Masonic Lodge. The Freemason’s Lodge in Burra was re-opened last night with many visitors in attendance.  A banquet followed at the Burra Hotel.

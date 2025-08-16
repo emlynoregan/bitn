@@ -22,6 +22,7 @@ topics:
 - farewell
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s Sunday School celebrated its anniversary last Sunday and Monday.  This was combined with a farewell for the Rev. J. Fulford, who is about to leave for Victoria.  There is at present no one available in the colony to take his place.

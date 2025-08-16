@@ -24,6 +24,7 @@ topics:
 - places
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [C. Drew’s was Heathmont on Limestone Hill and T.W. Wilkinson’s was behind the Institute on Mount Pleasant.]

@@ -21,6 +21,7 @@ topics:
 - waterworks
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  In reply to a letter the Commissioner of Crown Lands was willing to extend the lease at 4% until a settlement of the situation is arrived at.

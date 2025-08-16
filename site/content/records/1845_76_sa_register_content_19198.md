@@ -21,6 +21,7 @@ topics:
 - road
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Lover of Fair Play’ writes from Redruth 2 March:

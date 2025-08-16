@@ -21,6 +21,7 @@ topics:
 - sentence
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  The confidence man, John Newcomb a.k.a. Charles Hope, who has been tried in Adelaide, has been sentenced to six months hard labour.

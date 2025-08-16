@@ -18,6 +18,7 @@ topics:
 - fiction
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Choppley’s Name Their Baby, 8 April.

@@ -18,6 +18,7 @@ topics:
 - publication
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.W. Wilkinson has issued a very ornate calendar for 1881.

@@ -21,6 +21,7 @@ topics:
 - death
 - murder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A man named Demmell was murdered near Sliding Rock Mine on 17 June.  He was shot by an Aboriginal named Sydney after a quarrel following a drinking bout.  [From the rest of the article it seems likely that Demmell was taking illicit liquor to the mines.  His is registered as Peter De Mel 16 June 1885 aged 38.]

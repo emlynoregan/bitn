@@ -21,6 +21,7 @@ topics:
 - event
 - success
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Adelaide's industrial exhibition at the end of last and the start of this week has been a success.

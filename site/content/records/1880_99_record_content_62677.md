@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - document note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Also dated 5 August and corrected by hand on the microfilm.]

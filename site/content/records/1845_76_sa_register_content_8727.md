@@ -21,6 +21,7 @@ topics:
 - health
 - vaccination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 24 April 1854, page 3

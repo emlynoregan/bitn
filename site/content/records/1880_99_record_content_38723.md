@@ -20,6 +20,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army Self Denial services have just been completed.  Revs Daddow and Hunter attended the Wednesday meeting.  £14-6-0 has been raised.

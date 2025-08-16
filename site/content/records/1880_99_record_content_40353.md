@@ -19,6 +19,7 @@ topics:
 - horticulture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show.  Despite a past history of great chrysanthemum production this has now fallen through in Burra and on a par with other things in the town, nothing is being done.

@@ -19,6 +19,7 @@ topics:
 - health
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Creek.  Work on draining stagnant water continued last week and the sanitary condition has much improved.

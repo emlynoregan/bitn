@@ -21,6 +21,7 @@ topics:
 - prospecting
 - syndicate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton.  We believe that three syndicates have now been formed in Burra to prospect and purchase claims in the Silverton District - we wish them success.

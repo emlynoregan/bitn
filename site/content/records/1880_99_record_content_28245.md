@@ -18,6 +18,7 @@ topics:
 - finance
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the propriety of the Government restraining spending in times of abundance.  With increasing incomes and more jobs in the private sector the government should continue to ‘stay its hand and decrease its expenditure.’

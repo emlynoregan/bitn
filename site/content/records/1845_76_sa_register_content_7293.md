@@ -21,6 +21,7 @@ topics:
 - ships
 - passages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Shipping Reports reveal details of ships sailing to Sydney and Geelong or Melbourne.

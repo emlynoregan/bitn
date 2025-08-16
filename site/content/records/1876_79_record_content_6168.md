@@ -22,6 +22,7 @@ topics:
 - election
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Gymnasium Club met on Wednesday and elected Mr Urwin as Captain and Mr Richards as Secretary.

@@ -20,6 +20,7 @@ topics:
 - petition
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Hallett railway: Petition for Hallett railway station to be moved into the town presented to the Commissioner of Public Works.

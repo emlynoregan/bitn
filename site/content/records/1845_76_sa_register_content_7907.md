@@ -21,6 +21,7 @@ topics:
 - mining
 - exploration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Gold.  Mr Williams of the City Bridge Hotel with a party of successful miners from Mount Alexander has gone to Pt Lincoln seeking gold.

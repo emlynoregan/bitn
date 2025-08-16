@@ -21,6 +21,7 @@ topics:
 - speculation
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 'LSD' writes on 'The Monster Mine of Twenty Thousand Acres.'

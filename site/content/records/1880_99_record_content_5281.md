@@ -25,6 +25,7 @@ topics:
 - agriculture
 - tree planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr M. Rayner was then recommended for the position in North Ward.

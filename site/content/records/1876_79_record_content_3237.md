@@ -20,6 +20,7 @@ topics:
 - council
 - nomination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Mr T.W. Wilkinson was the only person nominated to fill Mr Lipsett's place on the council when the latter became mayor.

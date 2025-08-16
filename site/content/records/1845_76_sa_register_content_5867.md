@@ -23,6 +23,7 @@ topics:
 - orders
 - fraud
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Burnett Nathan, Navarino House, Hindley Street advises that on account of having in the past received many worthless orders in place of cash, he will in future take only orders drawn on the SA Mining Association or on the Patent Copper Company.  He also requests all his agents to stop drawing petty orders on him.

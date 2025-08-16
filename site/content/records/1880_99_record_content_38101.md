@@ -19,6 +19,7 @@ topics:
 - agriculture
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Unless something is done soon the pests will reduce the crops beyond recognition.

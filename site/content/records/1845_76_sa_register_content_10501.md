@@ -27,6 +27,7 @@ topics:
 - education
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The meeting last Saturday was chaired by Mr Nock and with many of the 60-70 present being Germans, Mr Kruger acted as interpreter.  Mr Bagot addressed the meeting as a candidate for Parliament.

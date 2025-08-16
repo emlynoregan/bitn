@@ -19,6 +19,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holder moved the formation of a committee to suggest names for recommendation to the company as captain.

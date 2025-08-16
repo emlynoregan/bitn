@@ -29,6 +29,7 @@ topics:
 - meeting
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Three Methodist Churches in Burra have been working together for some months in evangelical efforts and a series of joint meetings promoting a higher Christian life were held over Easter.  Meetings were also held at Westbury and Stony Gap.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute 5 September.  Grand Musical Entertainment Including Root’s Popular Cantata Mildred & Patty.  An English Christmas Story in Sparkling Song and Dialogue by 36 Voices.

@@ -25,6 +25,7 @@ topics:
 - fine
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John P. Winchcombe charged David Ballard with assaulting him.  On 29 July the defendant came to Winchcombe at Apoinga with a whip in hand and asked him why he had stated untruths about him in the newspapers.  When Winchcombe refused to fight him, Ballard struck him two or three blows before someone intervened and took him away.

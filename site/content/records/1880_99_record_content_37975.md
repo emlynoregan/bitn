@@ -19,6 +19,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Lodges have had a meeting of representatives and agreed in principle on a united demonstration.  The proposal now goes to the individual lodges for approval.  The next committee meeting is on 23 September.

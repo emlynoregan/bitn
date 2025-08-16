@@ -20,6 +20,7 @@ topics:
 - economics
 - rural life
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 6 December 1864, page 3

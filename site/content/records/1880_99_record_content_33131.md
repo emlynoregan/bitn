@@ -19,6 +19,7 @@ topics:
 - consumer
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Time Payment System for furniture and other items - recognising the benefits to be delivered, but urging caution against sharp practices.

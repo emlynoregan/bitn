@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  At Burra 22 October, George Webster, late of Forest Hotel, River Murray, aged 60.

@@ -20,6 +20,7 @@ topics:
 - theatre
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Hewett’s Musettes presented the operetta Rain to splendid houses on Friday & Saturday at the Institute.

@@ -22,6 +22,7 @@ topics:
 - migration
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 WA Gold.  In the past year 27,000 persons passed through Port Adelaide bound for WA.  A lot of them came from other colonies, but the majority were South Australians.  Last week over 2,000 passengers left Pt Adelaide.  The general advice of WA diggers, who flooded the city at Christmas, was that it would be foolish to throw up a good job and seek work in the gold regions, but for those out of work and with a little cash the advice was ‘go’.

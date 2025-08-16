@@ -22,6 +22,7 @@ topics:
 - labor
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gumbowie Reservoir work has almost been completed.  Most labourers from Burra returned last week and were loud in their praises of the treatment received and strenuously denounced the actions of ‘the man Hardy’ in publishing and circulating uncomplimentary remarks concerning their boss and they intend having the matter sifted to the last letter.  A deputation of workers waited on Hardy on Saturday to get some particulars about the matter, but they received anything but satisfaction.

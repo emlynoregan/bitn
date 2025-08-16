@@ -25,6 +25,7 @@ topics:
 - land use
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Mayor and Crs Roberts and Sanders inspected area NE of Paxton Square as a possible recreation ground. Mayor thought they needed 10-12 acres. Town clerk to write to SAMA directors through Mr West

@@ -31,6 +31,7 @@ topics:
 - migration
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Thomas Roberts, an old Burra resident died at her daughter’s residence at Narridy [near Crystal Brook].  She arrived in SA with her husband, three sons and two daughters in June 1839 on the Sir Charles Forbes.  Her husband was the first captain of the Burra Burra Mine and died at Golden Grove in 1856.  She is survived by six sons, three daughters, 79 grandchildren and 43 great grandchildren.  Mr Sampson Webb of Steelton is a brother and Mrs James Harris of Burra is a sister.  [Born Hannah Webb: died 17 August 1890 aged 81.]

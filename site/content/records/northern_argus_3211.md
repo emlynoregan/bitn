@@ -21,6 +21,7 @@ topics:
 - real estate
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The State Bank of SA has contracted to buy Matthews Emporium in Market Square.  The purchase will be completed at the end of November.  Burra branch manager John Peake says the bank needed more space and was attracted by the site’s location in the middle of the shopping area.  Refurbishment will begin as soon a possible and the old premises will be sold once the move to the new site has taken place.

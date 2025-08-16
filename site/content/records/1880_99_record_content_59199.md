@@ -21,6 +21,7 @@ topics:
 - appointment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Pastoralists’ Assoc. of SA local branch met at the Commercial Hotel last Friday and heard a review of the past season.  P.R. Scott was elected secretary and replaces Mr Whyte who has left the district.

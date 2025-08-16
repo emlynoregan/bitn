@@ -18,6 +18,7 @@ topics:
 - payment
 - legislature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It seems likely that the measure will now pass the assembly and go on to the Legislative Council.  The opponents have fallen back on the cry of economy, but it is an unpaid

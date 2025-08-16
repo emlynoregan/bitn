@@ -20,6 +20,7 @@ topics:
 - sale
 - household
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson and Sandland & Co. will sell on Friday 7 August at 1.30 p.m. on instruction from Mrs Dow, who is leaving the town, her household furniture and effects.

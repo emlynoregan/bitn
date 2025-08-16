@@ -19,6 +19,7 @@ topics:
 - Central Land Board
 - advocacy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.H. Lake MP visited on Thursday and has been asked to take up the issues of the Central Land Board’s actions.

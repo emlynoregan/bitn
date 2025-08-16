@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Aberdeen water trough near the railway gate has been empty for some days. A letter to the authorities from the Town Clerk should see the problem rectified.

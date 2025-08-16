@@ -20,6 +20,7 @@ topics:
 - environment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  The street trees in Burra are doing quite well with relatively few dying and the Jubilee Avenue is making good progress due to regular watering.

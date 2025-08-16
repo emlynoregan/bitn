@@ -20,6 +20,7 @@ topics:
 - contract
 - locomotives
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Martin & Co. have been awarded a contract worth £167,000 for 52 locomotives to be made at Gawler.

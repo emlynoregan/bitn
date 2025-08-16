@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Dr Moore, who once practiced in Burra, died on 6 December in Adelaide.  He arrived in SA somewhat over 35 years ago.  [Robert Waters Moore, aged 64.]

@@ -25,6 +25,7 @@ topics:
 - hospital
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jessie Reid, daughter of John Reid of Thames St, has been living for some time with her married sister in Broken Hill.  She contracted typhoid fever, which led to mania, and she was transferred to the Burra Hospital and thence to Adelaide.  [Presumably to the Asylum.]  Sadly John Reid was sent to Adelaide the same morning with cancer and a tumour in the face.

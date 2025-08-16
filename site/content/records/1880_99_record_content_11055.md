@@ -18,6 +18,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Entertainment in aid of Institute funds was held last Thursday.

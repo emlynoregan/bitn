@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M. Ryan was run over by a cab in Market Square on Christmas Eve and is progressing favourably.

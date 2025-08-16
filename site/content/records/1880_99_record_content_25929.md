@@ -19,6 +19,7 @@ topics:
 - food
 - butterine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Butterine.  There is so much bad butter being sold in Burra and so much talk of butterine that it would pay our shopkeepers to assure customers that they do, or do not deal in this substitute.

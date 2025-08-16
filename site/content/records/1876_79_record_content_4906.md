@@ -19,6 +19,7 @@ topics:
 - publication
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Masthead. This is the first issue with the new masthead. 

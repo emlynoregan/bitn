@@ -21,6 +21,7 @@ topics:
 - church
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army has been pleading for a place to erect a Barracks and have been promised a piece of land in Chapel St by Mr Pearce, but its nearness to the Wesleyan Church probably means another place will be found.

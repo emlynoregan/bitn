@@ -19,6 +19,7 @@ topics:
 - poisoning
 - wildlife
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrow Destruction.  Poison wheat, spread to kill sparrows on Monday, spelt the end of a number of sparrows, but also of six fine geese.

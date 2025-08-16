@@ -18,6 +18,7 @@ topics:
 - military
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There is talk of forming a Rifle Corps here, with a meeting on the subject to be held at the hotel on Saturday.  There are several old soldiers about who could doubtless ‘lick them into shape’.

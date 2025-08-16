@@ -21,6 +21,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Polo Club will play a match tomorrow on the ground near Messrs Drew & Co.’s store Aberdeen.

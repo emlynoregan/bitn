@@ -26,6 +26,7 @@ topics:
 - accusation
 - discipline
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks, as Chairman of the Waterworks Committee, moved that Cr Kitchen be asked to produce substantial evidence in the charge against the engineer.  Cr Walsh 2nd.

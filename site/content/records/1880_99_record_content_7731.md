@@ -18,6 +18,7 @@ topics:
 - legal
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. King	driving a wagon and team at a trotting pace	5/-

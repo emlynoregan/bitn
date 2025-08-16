@@ -19,6 +19,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Our “bush public-houses” are vile drinking shanties; not the home of travellers, as they should be.  In those houses you can be made “real mad” in an hour, and remain so as long as your “cheque” will last; and at night be huddled together like swine in a sty, only less cleanly and more piggish.  Here from a man from “Oxford” or “Cambridge” to the lowest “bullocky” in the province, they lie and welter from night to morn; and rising, “seek it yet again.”’

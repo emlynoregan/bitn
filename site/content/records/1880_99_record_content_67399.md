@@ -20,6 +20,7 @@ topics:
 - ore
 - directors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Some good lodes have been discovered in this year’s boring operations: No. 1 bore went down over 1,000’.  No. 2 bore found high grade ore at c. 700’ and ‘It is astonishing that the directors do not bestir themselves in this very important matter.’

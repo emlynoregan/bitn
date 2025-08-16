@@ -22,6 +22,7 @@ topics:
 - property
 - estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  An auction of the estate of the late Mrs Nicholls is announced, comprising sections 538 & 410 of the Hundred of Ayers.  278 acres fenced, with a house and 75 acres of growing crop.

@@ -23,6 +23,7 @@ topics:
 - arts
 - awards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Bentley has resumed his painting class in oils and watercolours.  In a recent exhibition in Adelaide two of his pupils, Edith Thomas and Mary Lane, gained first-class certificates and Mabel A. Killicoat passed very creditably.

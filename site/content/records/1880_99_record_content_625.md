@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Ann Nickles, on 13 March, at Copperhouse, Wife of John Nickles, aged 53.

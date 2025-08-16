@@ -21,6 +21,7 @@ topics:
 - mining
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 29 April 1851, page 2

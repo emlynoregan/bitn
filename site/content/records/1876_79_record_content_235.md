@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - shipping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The International Cable.  The cable repairing ship Edinburgh has picked up the end of broken cable 22 miles from Port Darwin on Tuesday, but could not speak to Banjoewangie, so it is feared there is another break further on.

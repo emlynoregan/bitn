@@ -20,6 +20,7 @@ topics:
 - publication
 - patent medicine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The literary page, which was mostly a serial, but sometimes, had a short story, poem etc.  There were also patent medicine advertisements and a very large self-advertisement for the paper and printery.

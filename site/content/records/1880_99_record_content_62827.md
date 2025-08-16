@@ -20,6 +20,7 @@ topics:
 - education
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Sunday School Picnic will be at Princess Royal on 6 October.

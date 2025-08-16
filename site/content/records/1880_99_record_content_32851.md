@@ -19,6 +19,7 @@ topics:
 - rates
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Having collected over £800 in rates the Council has paid off the bank overdraft of over £300 together with bonds and coupons of about £350 and is still in credit in the general account by £93 and hopes to end the year with a clean sheet.

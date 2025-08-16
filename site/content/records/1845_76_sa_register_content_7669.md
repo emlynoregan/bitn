@@ -18,6 +18,7 @@ topics:
 - theft
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  A notice of caution is printed listing ten stolen money orders drawn on the SA Mining Association.

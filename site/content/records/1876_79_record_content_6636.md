@@ -21,6 +21,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. Burra footballers will take the train to Farrell's Flat and then Hill & Co.'s coach to Clare today to play their first match. Clare played their first match on 26 May against the Ports and shaped up well although Ports won 2 to nil.

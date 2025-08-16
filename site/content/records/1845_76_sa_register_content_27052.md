@@ -23,6 +23,7 @@ topics:
 - rail
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SAR Timetables for the Main North Line

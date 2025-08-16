@@ -19,6 +19,7 @@ topics:
 - retail
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Batchelor	Cards, Workboxes, Writing Desks, Albums, Work Materials, Ice Wool, Berlin Wool, Musical Instruments, Books, Stationery, Vases, Children’s Books, Paint, Paperhangings, etc.

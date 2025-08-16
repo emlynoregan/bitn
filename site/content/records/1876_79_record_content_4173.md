@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The members for the district were to be asked to use their influence to secure the placing of the road from Market Square to Diprose Creek via Nankivell's Gully, on the new schedule as recommended by the [Midland] Road Board and the District Council.

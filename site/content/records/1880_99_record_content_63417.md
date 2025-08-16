@@ -21,6 +21,7 @@ topics:
 - business
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H. Nankervis	Burra Hotel (Late of Globe Hotel, Moonta)

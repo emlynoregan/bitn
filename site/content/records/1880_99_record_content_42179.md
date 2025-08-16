@@ -19,6 +19,7 @@ topics:
 - postal service
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti Slow Coach’ complains of the slow postal deliveries in Kooringa.

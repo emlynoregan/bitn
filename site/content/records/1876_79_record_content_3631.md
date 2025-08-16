@@ -18,6 +18,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The concert at the Institute on Wed. in aid of the piano fund was good and raised c. £10.

@@ -19,6 +19,7 @@ topics:
 - dispute
 - procedure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There followed a series of heated exchanges over the capricious way the Mayor accepted or rejected motions and ignored by-laws when it suited him.

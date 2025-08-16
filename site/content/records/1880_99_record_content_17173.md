@@ -21,6 +21,7 @@ topics:
 - international relations
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy who writes over 1 column on the positions of England and Russia.

@@ -30,6 +30,7 @@ topics:
 - federation
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting, Tuesday 7 April.  The Mayor, Dr Brummitt, chaired a meeting addressed by Hon. F.W. Holder. His two-hour speech is reported in just less than two columns.

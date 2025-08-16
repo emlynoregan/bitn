@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - lighting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Market Square.  The meeting mentioned in CXV, 8037, 22 January 1986, page 18 to discuss proposals was convened on 21 February.  The Council produced the plan for the Square that they had approved.  After discussion they agreed to retain the existing curved kerb line, to remove the proposed protuberance from the north side of Commercial Street adjacent to the ANZ Bank and on the south side to change the protuberances to slightly raised areas.  On the basis of these changes indication was given that the Heritage Branch would now give written approval.  Council will also look into the question of lighting.

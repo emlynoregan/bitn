@@ -22,6 +22,7 @@ topics:
 - electricity
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tuesday 1 December Mr M. Eyes, Grand Electric and Scientific Entertainment at the Institute.  Featuring:	Music on a set of electric bells

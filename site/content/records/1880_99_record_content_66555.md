@@ -19,6 +19,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Union Convention met on Wednesday in the Kooringa Wesleyan Hall.  There was a Christian Citizenship meeting at 3 p.m., a public tea at 5.30 p.m. and an open-air meeting in Market Square at 7.30 p.m.

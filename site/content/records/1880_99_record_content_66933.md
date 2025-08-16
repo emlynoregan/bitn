@@ -20,6 +20,7 @@ topics:
 - presentation
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Treloar’s illuminated address is on view in the Record Studio’s window and will be handed over in a few days.

@@ -17,6 +17,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The Hanson Cricket Club is to practise through the winter when they have more time.

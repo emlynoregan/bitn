@@ -20,6 +20,7 @@ topics:
 - business
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter is still erecting plant at the Burra Smelting Works, but there has been some delay in the arrival of equipment.

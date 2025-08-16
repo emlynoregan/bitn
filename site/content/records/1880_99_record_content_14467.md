@@ -20,6 +20,7 @@ topics:
 - judging
 - poultry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S. Edwards writes of bad judging practices and bad management of the poultry at the show.

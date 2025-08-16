@@ -19,6 +19,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary passed off very well.  The service of song The Desire of All Nations went very well.  Proceeds were highly satisfactory.

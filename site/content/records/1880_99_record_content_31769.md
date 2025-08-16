@@ -19,6 +19,7 @@ topics:
 - vandalism
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  The chain on the cup at the Market Square pump has been broken and had to be replaced.

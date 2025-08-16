@@ -17,6 +17,7 @@ topics:
 - weather
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The weather has been very changeable.  On Saturday last there was a violent thunderstorm, which flooded the creeks and carried away the dirt, which is generally lying about.  No damage was done.

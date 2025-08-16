@@ -23,6 +23,7 @@ topics:
 - community
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse School. Copperhouse people have sent a memorial representing the interests of c.40 children and asking for the opening of a school at Copperhouse. The Minister expressed his support subject to the approval of the Burra School Board of Advice which we hear has opposed it on the grounds that the Burra School has plenty of room. The editor opposes this argument on the grounds that by road it is about four miles to the Burra School and half the children are under 10 years of age. If no school is opened at Copperhouse many of these children will not get any education at all. Furthermore the matter is entirely outside the jurisdiction of the Burra School Board which should never have become involved.

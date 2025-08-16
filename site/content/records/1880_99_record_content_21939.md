@@ -19,6 +19,7 @@ topics:
 - sport
 - RVF
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  A return match between Burra co. RVF and Civilians saw the RVF again victorious: 198 to 180.

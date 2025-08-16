@@ -21,6 +21,7 @@ topics:
 - obituary
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Henry Roach, late Captain of the Burra Mine died at North Adelaide on 6 August, aged 80.

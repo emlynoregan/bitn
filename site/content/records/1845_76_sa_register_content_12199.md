@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  There was a dreadful dust storm at the end of last week, after which the weather has been cool and pleasant.

@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John McDoole (‘Red Jack’) died last Sunday aged 77.  He was born in Dublin and joined the 85th Foot Regiment.  He came here when pensioned to farm near Booborowie.  He got money and returned to Ireland and then returned and took to shepherding.  For some time he has been paralysed and was taken in by the priests of St Joseph’s.  Father Haendl officiated at the funeral yesterday.

@@ -20,6 +20,7 @@ topics:
 - sports
 - facilities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Friendly Societies were granted use of the oval for £2-2-0 per day.

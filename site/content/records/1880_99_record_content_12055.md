@@ -23,6 +23,7 @@ topics:
 - illness
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  W.G. [William George] Goodchild of Goodchild & Duff & Co., auctioneers of Kapunda and Kooringa, died on Sunday [13 January] of inflammation of the lungs, aged 39.

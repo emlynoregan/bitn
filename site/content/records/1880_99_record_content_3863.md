@@ -25,6 +25,7 @@ topics:
 - inquest
 - rheumatic fever
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.  At Gum Creek on 20 April J.D. Cave JP was coroner on the body of Thomas McMahon who died 19 April.  [Aged 40.  The registration of death gives 19 May as the date, which is clearly an error.]

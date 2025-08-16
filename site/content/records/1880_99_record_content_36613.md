@@ -18,6 +18,7 @@ topics:
 - health
 - food supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Milk.  There are complaints re the quality of Burra’s milk supply.

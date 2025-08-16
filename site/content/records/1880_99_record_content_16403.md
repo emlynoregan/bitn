@@ -21,6 +21,7 @@ topics:
 - accounts
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council accounts.  J.D. Cave and the editor continue to squabble over aspects of the Corporation accounts.

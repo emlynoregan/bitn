@@ -22,6 +22,7 @@ topics:
 - tenders
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Buildings. Mr Lipsett has called tenders to improve his premises and Mr Richardson intends shortly to erect a large hotel in Market Square.

@@ -20,6 +20,7 @@ topics:
 - machinery
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  James French got his clothes caught in the machinery at Butterworth’s Mill, but miraculously he escaped injury, though every stitch of clothing was torn off down to his boots.

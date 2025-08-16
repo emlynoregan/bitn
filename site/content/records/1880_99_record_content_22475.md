@@ -20,6 +20,7 @@ topics:
 - religion
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  The Government men are getting a little, but others continue to do much better.  Sunday services are being conducted by the Hallett Bible Christian minister.

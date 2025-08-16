@@ -51,6 +51,7 @@ topics:
 - education
 - mission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary of Rev. Father Aloysius Kreissl SJ who died on 29 August 1888.

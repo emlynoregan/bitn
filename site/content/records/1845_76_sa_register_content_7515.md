@@ -28,6 +28,7 @@ topics:
 - employment
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Magistrate’s Court, before Henry Chambers & George Bull. 10 November

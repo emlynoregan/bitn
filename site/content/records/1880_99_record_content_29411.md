@@ -19,6 +19,7 @@ topics:
 - rates
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy outraged at the imposition of water rates on the totally unnecessary water supply.

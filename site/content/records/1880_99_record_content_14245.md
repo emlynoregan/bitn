@@ -42,6 +42,7 @@ topics:
 - agriculture
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wool.  The first load for the season arrived from Messrs Church and Warnes Dustholes Station.

@@ -20,6 +20,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Frederick R. White's Commercial School Est. 1863 (Kooringa) Maths & General education - limited space for boarders. Advt.

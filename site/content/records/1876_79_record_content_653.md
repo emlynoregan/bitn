@@ -19,6 +19,7 @@ topics:
 - fundraising
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute.  An amateur entertainment on Tuesday last drew about 150 people.  It raised money for the prize fund of the public school.  [The program is printed.]

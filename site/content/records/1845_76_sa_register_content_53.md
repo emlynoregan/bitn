@@ -22,6 +22,7 @@ topics:
 - copper
 - events
 source_document: 1845-76 SA Register.doc
+publication_slug: sa-register
 ---
 
 The New Copper Mines

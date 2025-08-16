@@ -25,6 +25,7 @@ topics:
 - transport
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. A sarcastic article claiming that the following advice was taken: - 

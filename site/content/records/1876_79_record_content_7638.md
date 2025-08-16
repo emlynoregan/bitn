@@ -17,6 +17,7 @@ topics:
 - agriculture
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial against the posting of a reward of £4,000 for the invention of a machine to combine reaping, threshing, winnowing and screening within itself. Such a machine, he says, would make for slovenly farming and the spread of weeds.

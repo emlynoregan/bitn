@@ -33,6 +33,7 @@ topics:
 - model
 - Jubilee project
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ian Auhl’s new book, The Story of the Monster Mine is to be launched by the Director of the Department of Mines and Energy Mr R. Keith Johns at the Mines Department Building on 25 March.  Mr Johns’ great great grandfather was Thomas Roberts, the first Captain of the Burra Burra Mine.

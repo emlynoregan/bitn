@@ -23,6 +23,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  At the pump last Monday after the Salvation Army meeting Mr W.R. Ridgway addressed the electors and announced himself as a candidate.  The Rev. H.T. Burgess mounted the table and gave a lecture on ‘The Wonders of the Heavens’ - an able discourse on astronomy.  A large gathering was present the whole time.

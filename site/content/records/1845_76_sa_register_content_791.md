@@ -18,6 +18,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Shares reached £100 the same day that we announced their reaching £80.

@@ -19,6 +19,7 @@ topics:
 - goldfield
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Many other men were going to the Waukaringa Goldfield.

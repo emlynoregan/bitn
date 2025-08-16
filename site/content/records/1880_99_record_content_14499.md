@@ -19,6 +19,7 @@ topics:
 - rents
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Rents.  A long article of c. ⅔ column outlines the history of the dispute.

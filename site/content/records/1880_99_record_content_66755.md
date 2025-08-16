@@ -21,6 +21,7 @@ topics:
 - recovery
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Joseph Snell of Broken Hill, is recovering from the injuries he received a few days ago at Block 10.

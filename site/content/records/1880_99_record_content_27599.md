@@ -18,6 +18,7 @@ topics:
 - finance
 - accounts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 1 January 1887 the balance was in credit £5-7-3 and at the end of the year it stood at £36-8-11 plus £52-2-7 in the building fund account.

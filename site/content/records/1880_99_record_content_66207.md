@@ -21,6 +21,7 @@ topics:
 - religion
 - capitation grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the Editor urging all Protestants to vote against capitation grants just as the Roman Catholic Archbishop has urged all Catholics to vote only for candidates who supported capitation.

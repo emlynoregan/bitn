@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is rumoured that there is a proposal to move the Post Office to a kind of ‘hole-in-the-wall’ position, totally unfit for such a purpose and most in a most inconvenient part of town for public benefit.  It would also be beneficial to amalgamate the telegraph and postmastership.  This office is far better situated for public convenience and sited to allow the majority of inhabitants to see the arrival of the mail and so know when it is time to apply for our letters.

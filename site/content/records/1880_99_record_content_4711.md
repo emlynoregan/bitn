@@ -23,6 +23,7 @@ topics:
 - football
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Football.  Burra v. Pt Adelaide on 8 August at R. Austin’s ground, to be followed by a banquet at the Burra Hotel.

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Estimates 1882-3.  Provision has been made for extensions to the Kooringa Police Station and work at Burra Hospital.

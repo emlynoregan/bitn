@@ -20,6 +20,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 There are still 177 rate defaulters. Cr. Roberts moved they be proceeded against at once. Carried.

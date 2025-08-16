@@ -21,6 +21,7 @@ topics:
 - benefit
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Benefit.  The lecture and shearing contest raised £12-12-0 which has been sent to the Broken Hill Defence Committee to benefit wives and children of the imprisoned labour leaders.

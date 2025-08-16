@@ -19,6 +19,7 @@ topics:
 - chess
 - game
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Cave v. Mr Keighly	(drawn after 8 hours and 70 moves each.)

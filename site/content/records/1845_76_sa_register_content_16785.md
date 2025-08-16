@@ -18,6 +18,7 @@ topics:
 - agriculture
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are many shearers passing through on their way to the various stations, some of which have commenced shearing.

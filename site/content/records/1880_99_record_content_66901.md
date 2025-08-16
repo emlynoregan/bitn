@@ -19,6 +19,7 @@ topics:
 - club
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Burra Football Club held its final meeting for the season on 19 September.  They played 8 matches for the season and won 5.  There were 37 members and 16 honorary members. Subscriptions raised £6-18-11 and gate takings were £3-7-5.  Printing etc cost £2-9-7, Balls £3-16-1, Travel £2 and hire of ground 19/9, leaving a credit balance of 12/11.

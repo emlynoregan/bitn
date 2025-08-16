@@ -24,6 +24,7 @@ topics:
 - society
 - emigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 South Australia: A reprint of a letter on South Australia’ from the Church Reformer, (England) which the editor characterises as a libel on SA.  It was written by Charles L. Marson.

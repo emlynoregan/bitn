@@ -20,6 +20,7 @@ topics:
 - court
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Tinkettling at Marrabel got out of hand.  Window glass was broken and the timber frames shattered.  Doors and the roof were also damaged.  Those responsible were taken to court.  The magistrate permitted the case to be withdrawn when the accused agreed to pay all court costs, make an apology, and pay £20 damages.

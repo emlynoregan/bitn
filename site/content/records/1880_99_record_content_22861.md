@@ -20,6 +20,7 @@ topics:
 - weather
 - work stoppage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The men are back from Barker’s Dam because the rain has stopped work.

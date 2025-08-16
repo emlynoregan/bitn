@@ -20,6 +20,7 @@ topics:
 - mining
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. West Sen. has resumed duties as Burra Mine Manager after his recent illness and a month’s holiday.

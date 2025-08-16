@@ -19,6 +19,7 @@ topics:
 - crops
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season will be a disastrous one.  Feed is already drying up in all parts and water is becoming very scarce.  Crops locally are light and short.  The hay harvest has commenced, but will not even be as good as last year.  A few late sown crops could still benefit from rain.

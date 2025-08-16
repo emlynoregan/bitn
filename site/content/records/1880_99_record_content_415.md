@@ -19,6 +19,7 @@ topics:
 - municipal
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Corporations Act.  Burra has been brought under the new Act allowing easier issuing of butchers’ licenses etc., and allowing the electing of but one auditor per annum.

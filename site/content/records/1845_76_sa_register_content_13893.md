@@ -24,6 +24,7 @@ topics:
 - coaches
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  After 12 years’ operation F. Opie continues his northern line of coaches:

@@ -21,6 +21,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  On Monday near Sod Hut, Rev. A.P. Burgess’s horses bolted and Mr Burgess, his mother, and two other ladies were all thrown out.  All were bruised and Mrs Burgess received a nasty wound on the forehead.

@@ -21,6 +21,7 @@ topics:
 - railways
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Wheat Traffic.  The editor writes citing the facts of the apparent blockage on the Northern Line.  Three weeks earlier the railways advised that they could arrange to move 9,000 tons per week.  The statistics are:

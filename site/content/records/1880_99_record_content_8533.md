@@ -20,6 +20,7 @@ topics:
 - picnic
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Band of Hope Picnic near the German Chapel, 1 December.

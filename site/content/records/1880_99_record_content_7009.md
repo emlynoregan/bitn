@@ -20,6 +20,7 @@ topics:
 - fundraising
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Church Special Services 6 June in aid of funds for the new parsonage.  On Wednesday the memorial stone will be laid by Mrs John Drew, followed by a public tea.

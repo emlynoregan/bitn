@@ -22,6 +22,7 @@ topics:
 - community
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S. Bairnsfather writes thanking Mr Harvey of the Lawn Tennis club for making their stay a financial success, but advising ‘one or two of the so-called aristocrats of Burra, to look to their pedigrees, and not class us as “common show people”’.

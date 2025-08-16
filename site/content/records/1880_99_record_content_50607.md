@@ -25,6 +25,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday at Burra the Gawler team had lunch at the Commercial Hotel before the match at 3 p.m.  Gawler 12.12 (84) defeated Burra 1.2 (8).

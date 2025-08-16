@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway.  Tenders have been received for the Terowie to Port Augusta railway via Pichi Richi.

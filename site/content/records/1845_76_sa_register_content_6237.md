@@ -25,6 +25,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  Charles Bonney held an inquest at the Cross Keys, Para Plains, on 21 May on the body of David Bryce.  Joseph Bowman, carter, said Bryce had been riding on the pole of a dray loaded with nine bags of copper ore, weighing about half a ton and drawn by six bullocks.  Witness noticed him missing from his seat and went back to find him on the ground.  He breathed a few times, but did not speak.  Deceased had had a few glasses of drink, but was not intoxicated.  He had not had sleep for several days, as he had to watch his bullocks.  Noticing he was sleepy the witness had advised him to ride in the dray, but he had not done so.  Thomas Scott landlord of the Lass of Gowrie at Para Plains said the witness Bowman and the deceased had called at the house on the night of the accident and had several glasses of whisky.  The verdict was Accidental death.

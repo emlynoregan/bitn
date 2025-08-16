@@ -20,6 +20,7 @@ topics:
 - religion
 - scandal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  There is another report from Clare of what the writer describes as the Army’s ‘disgraceful proceedings’, though much of the disgraceful behaviour seems attributable to others.

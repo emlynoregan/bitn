@@ -28,6 +28,7 @@ topics:
 - obituary
 - medical_practice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Dr Baker, who formerly practised in Kooringa, died in Brisbane last Thursday.  He arrived from England in 1883 and first practised at Terowie and then at Jamestown when Dr Cockburn entered Parliament.  He was later at Moonta.

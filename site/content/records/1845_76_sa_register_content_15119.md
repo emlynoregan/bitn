@@ -21,6 +21,7 @@ topics:
 - missions
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. N. Bennett of Mintaro preached twice on Sunday in the Wesleyan Chapel on behalf of Wesleyan Foreign Missions.  A public meeting on Monday supported the same cause.

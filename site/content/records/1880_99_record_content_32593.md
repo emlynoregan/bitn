@@ -22,6 +22,7 @@ topics:
 - library
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Skating.  There is a complaint that skating in the hall interferes with reading in the Institute library.

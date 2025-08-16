@@ -20,6 +20,7 @@ topics:
 - famine
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Hong Kong’ complaining that £3-3-0 raised at Hallett was too late for the Chinese Famine Relief Fund and so the committee decided to distribute it among the Hallett poor.  The writer believes there are no more than two deserving cases in the town and the sum should have gone to a charitable institution such as The Children’s Hospital.

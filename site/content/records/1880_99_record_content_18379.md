@@ -22,6 +22,7 @@ topics:
 - notice
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Mr Packard, Solicitor, has removed to the offices adjoining Messrs Drew & Co., lately occupied by Mr Akhurst.

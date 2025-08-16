@@ -18,6 +18,7 @@ topics:
 - public order
 - disturbance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The incoming of the New Year was marked by the discharge of guns and the usual hideous noises and stupid folly.’

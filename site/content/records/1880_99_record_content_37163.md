@@ -18,6 +18,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Cynic’ visited the Model Parliament.  He compliments the Speaker.  He was not impressed with the Opposition and asks who will be the Opposition leader?

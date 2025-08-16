@@ -26,6 +26,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Phillip Kemble aged c. 2 drowned in a waterhole at Baldina on 17 July.  [Born Philip Gordon Kemble 11 August 1888.]

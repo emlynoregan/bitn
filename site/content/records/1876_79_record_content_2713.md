@@ -22,6 +22,7 @@ topics:
 - arbitration
 - compensation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway - Mr Gilbert of the Mt Bryan Run claimed that he had been ' offered only £360 (£15lacre) for 24 acres acquired for the line, but the acquisition left a narrow strip of the run isolated on the other side of the line from the rest of the run. He sought £1506 (£6/acre) for the affected land. Claim is being considered in arbitration.

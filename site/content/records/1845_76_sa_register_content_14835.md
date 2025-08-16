@@ -19,6 +19,7 @@ topics:
 - employment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Mine has discharged a further 50 hands, presumably in an attempt to reduce working expenses.

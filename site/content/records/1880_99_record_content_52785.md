@@ -20,6 +20,7 @@ topics:
 - library
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The year began with a debit of £12 and ended in credit £14-16-8.  The library has 3,100 volumes (up 70 for the year).  Subscribers number 66 which is 1 down.  The reading room has been renovated.

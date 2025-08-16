@@ -21,6 +21,7 @@ topics:
 - railway
 - local labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter complaining about the employment of Adelaide men on the Hallett railway work.

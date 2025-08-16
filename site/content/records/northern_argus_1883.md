@@ -20,6 +20,7 @@ topics:
 - event
 - horse show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Pony Club is planning a Jubilee Horse Show at Burra Showgrounds on 9 November.

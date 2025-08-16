@@ -23,6 +23,7 @@ topics:
 - mission
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Foreign Mission — a deputation of the Rev. T. Williams & Rev. A. Kaibure (a native of Fiji) will preach at Redruth on Tuesday 24 September & Kooringa Wednesday 25.

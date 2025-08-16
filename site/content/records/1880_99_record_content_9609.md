@@ -19,6 +19,7 @@ topics:
 - licensing
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pig and Whistle.  The bar business is being carried on in two small back rooms which escaped the fire.  No accommodation is available.  This cannot long continue as a bar licence only cannot be justified by the needs of the place.

@@ -21,6 +21,7 @@ topics:
 - logistics
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Burra Burra Mines.  Carriers from the above mines, and others, are informed they may find constant employment for any number of drays they may care to put on the road, there being from 12,000 to 15,000 tons of ore now on the surface and large quantities coming to grass daily.

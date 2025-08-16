@@ -21,6 +21,7 @@ topics:
 - cricket
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Sat. was so windy and dusty that the scheduled Aberdeen and True Blues 15 match was abandoned.  A scratch match was held in which Sleep’s side 133 was defeated by Opie’s side 137.

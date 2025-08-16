@@ -24,6 +24,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Concert organised by Thomas Heming of the Burra Hotel and others, of the Adelaide Drum and Fife Band, a week or so back, has yielded £2-5-6 to each of the local medical men to distribute to the needy of the town.

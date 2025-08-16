@@ -20,6 +20,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A meeting of shareholders of the River Broughton Mining Co. is scheduled for tonight, when the first report of the agent will be presented.

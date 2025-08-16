@@ -21,6 +21,7 @@ topics:
 - education
 - suffrage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'A Wanderer' preaches for the rights of the workers and the unemployed against the rich, ‘the nabob, big bug, snobocracy’.  Against those who accuse the unemployed of being lazy and shiftless because they sometimes won’t take jobs on the slavery terms offered.  He makes a cry for:

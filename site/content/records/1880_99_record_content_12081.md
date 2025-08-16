@@ -19,6 +19,7 @@ topics:
 - advertisement
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Alexander Harris has bought Snell & Williams’s Chaff Stores and will carry on the business.

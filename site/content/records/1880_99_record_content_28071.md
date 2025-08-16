@@ -18,6 +18,7 @@ topics:
 - community
 - recruitment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Come one, come all, everybody come.  Captain Perry, C.O.

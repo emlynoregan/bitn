@@ -26,6 +26,7 @@ topics:
 - procession
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The business part of the festival began about 1.30 p.m. and concluded two hours later.  About 4 p.m. the various tents of the Order assembled and formed a procession.  Sixty members of the Rose of Sharon Tent, fifty of the Lily of the Valley Tent (Female), and thirty of the Hope of Kooringa Tent (Juvenile) and visitors to a total of 145 were led in procession around the town by the Burra Brass Band.  This was followed by a public tea at the Institute where about 300 sat down.  After tea a monster temperance meeting was held in the Institute Hall.  The proceedings are reported in 1 column.

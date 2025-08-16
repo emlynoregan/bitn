@@ -25,6 +25,7 @@ topics:
 - transport
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Burra’ writes from Kooringa, 12 September:

@@ -23,6 +23,7 @@ topics:
 - controversy
 - sportsmanship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare Correspondent replies to ‘A Looker On’ denying any vindictiveness and also upset by the implication of drunkenness on the part of some players.  ‘Looker on’ needs to ‘cultivate a little more regard for the truth’.  He maintains his report was both truthful and fair, but that the Mintaro players were unfair and rough.

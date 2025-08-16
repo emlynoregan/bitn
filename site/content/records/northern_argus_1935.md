@@ -24,6 +24,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Cr James Hawker has been elected Vice President of the Local Government Association of SA.  Mr Hawker was elected to Booborowie Ward in Burra Burra DC in 1975 and was the Chairman of the Council 1981-86.  [His involvements with other bodies are listed.]

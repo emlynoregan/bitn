@@ -26,6 +26,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs McDonald, wife of Mr Alexander McDonald farmer and grazier of Hallett, succumbed to influenza, aged c. 70.

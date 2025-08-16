@@ -30,6 +30,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial deploring the lack of interest in Municipal matters, which results in the unwillingness of persons to stand for Council.  If those in office are not the best suited it can only be because those outside are so absorbed in feathering their own nests or so wanting in self-confidence they cannot run the gauntlet of election.  If the public would respect their representatives a little more perhaps we would find the best men more willing to offer themselves.

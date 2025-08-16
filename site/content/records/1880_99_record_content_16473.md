@@ -18,6 +18,7 @@ topics:
 - health
 - dentistry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sinclair, famous for his painless dentistry will arrive on 11 February.

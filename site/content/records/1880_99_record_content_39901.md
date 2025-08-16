@@ -23,6 +23,7 @@ topics:
 - membership
 - finances
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club.  A meeting was held at the commercial Hotel on Monday evening with P. Murrie in the chair.  It was decided to hold a meeting on 17 March.  The old club had c. £27 in hand.  It was resolved to get 50 members and register the club as ‘The Burra Racing Club’.  The totalizator is expected to be in use.

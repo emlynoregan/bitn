@@ -19,6 +19,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. The Governor [Jervois] regrets he is unable to open the school as he is about to go to London. The Minister of Education, Hon. N. Blyth will take his place.

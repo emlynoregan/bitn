@@ -24,6 +24,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Boxing Day at Burra.  Young Australians 97 defeated Clare 25 & 66 by an innings and 6 runs.

@@ -23,6 +23,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church benefited from an Ivy Fair on 7 & 8 October in the Lecture Hall.  It was opened by the Mayor, Dr Brummitt.  Nett proceeds were £24-15-3.

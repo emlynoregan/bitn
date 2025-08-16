@@ -21,6 +21,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  From 9 January trains will run through to Silverton and Broken Hill.  Trains will depart Broken Hill at 12.25 a.m. and 6.22 a.m. daily, Monday to Friday.  Passengers on the 6.22 a.m. train will have to break their journey at Terowie.

@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Baldina: Opening services were held for the new Wesleyan Chapel.  The building had cost £60 and £40 was raised at the opening.

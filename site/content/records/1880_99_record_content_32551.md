@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Edward Ellery, aged 77 and a colonist of 40 years, died on 15 May at Kooringa.

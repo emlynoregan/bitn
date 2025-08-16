@@ -20,6 +20,7 @@ topics:
 - organization
 - masonic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Masonic Lodge.  Efforts are being made to revive the Masonic Lodge in Burra.

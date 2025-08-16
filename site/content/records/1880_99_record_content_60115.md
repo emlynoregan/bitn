@@ -40,6 +40,7 @@ topics:
 - obituary
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Daniel Spencer Packard JP, solicitor of Kooringa, died at North Adelaide Private Hospital on Saturday morning.  He was the youngest surviving son of the late Rev. Daniel Packard, formerly Rector of Middleton, Suffolk, England and afterwards incumbent of St Andrew’s Walkerville.  He was born at Darley SA [Paradise] in 1852 and was thus aged 43.  He was educated at St Peter’s College and was articled to his brother, Mr F.J. Packard, solicitor of Naracoorte and Penola for a short time.  He then completed his studies with Messrs Symon & Bakewell and was called to the Bar in 1877, but remained some years with the firm.  He married the daughter of the late David Randall and began work in Burra in 1879 and built up a good practice.  His health broke down a few months ago and he was compelled to go to Adelaide for nursing and medical treatment.  While in Burra he was Mayor, a Member of the Burra School Board of Advice, a Warden and Choirmaster of St Mary’s and a participant in many activities in the town.  He succumbed to paralysis of the brain on Saturday morning, leaving a widow and four children aged between four and thirteen.  The brothers of the deceased are: J.H. Packard (Surveyor) & F.J. Packard (Solicitor), while his sisters are Mrs Fitz-William Evans (UK), Mrs Unwin, Mrs Percy, Mrs Marshall & Mrs Archer.

@@ -21,6 +21,7 @@ topics:
 - celebration
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Day was marked by services and the real holiday began on Boxing Day.  The morning saw little activity except children letting off Chinese crackers.  In the afternoon there was the Primitive Methodist annual tea with the Burra Brass Band.  In the evening at the Institute there was the Primitive Methodist meeting and entertainment and the Salvation Army meeting in Market Square, which were, all well attended.  Later some were still carousing and hotel trade was apparent.

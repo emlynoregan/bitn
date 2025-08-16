@@ -18,6 +18,7 @@ topics:
 - organization
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The income and expenditure figures are then printed and they show that by far the greatest expenditure has been in sick pay.  In round figures payments for sickness benefits have totalled £16,600 and fees paid for medical attendance totalled £5,476.  District levies were £6,773.  Payments on members’ deaths had been £4,330 and benefits paid on the death of members’ wives had totalled £732.

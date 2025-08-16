@@ -24,6 +24,7 @@ topics:
 - retail
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  To the inhabitants of Kooringa and vicinity.

@@ -26,6 +26,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Serjeant Buzfuz, in his cricket notes, says the Aberdeen team had Herbert and Butterworth from the Burra team in their side.  [‘Onlooker ‘ disputes this, regarding Herbert as a genuine Aberdeen player this season.]  Buzfuz says there are no rules preventing a person from being in more than one club anyway, and such is common in Adelaide.

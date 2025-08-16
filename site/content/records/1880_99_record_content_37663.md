@@ -23,6 +23,7 @@ topics:
 - lacrosse
 - sculling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports.  Out-of-town reports cover cricket, lacrosse (which is becoming popular in the north), & sculling.  In the latter O’Connor and Kemp will race in the US for the championship of the world, the New York Police Gazette Cup, and £500 aside.

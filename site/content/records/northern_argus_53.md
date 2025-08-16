@@ -22,6 +22,7 @@ topics:
 - youth
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Cubs look like having to go into recess after the resignation of their Akela, Donna Salter.  The Commissioner will visit Burra on 17 June to talk to parents.

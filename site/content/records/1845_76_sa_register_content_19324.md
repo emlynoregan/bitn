@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - prison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Report on the new Wallaroo Gaol.

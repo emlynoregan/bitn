@@ -24,6 +24,7 @@ topics:
 - ball
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI was inspected by Gen. Downes on Wednesday.  36 answered the call at 3 p.m. (4 had influenza and 1 was on leave.).  Cpl Blott was adjudged the best turned out.  They then marched to the polo ground where about 2 hours of drill was gone through, after which Gen. Downes expressed his satisfaction with the company.  The military ball in the evening at the Institute saw the building beautifully decorated including c. 60 flags.  The ball got going c. 9 p.m. and began with a quadrille.  So enthusiastic were the dancers that three or four extra were added to the 22 dance program.  Mr Watts was MC.  The ladies were elaborately dressed.  [Some description of their appearance is printed.]  About 140 attended despite the sickness accounting for some absences.  The dancing finally ended about 3.30 a.m.

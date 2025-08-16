@@ -22,6 +22,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Polo Match on Saturday 23 February on the Polo Grounds.  Burra v. Adelaide.

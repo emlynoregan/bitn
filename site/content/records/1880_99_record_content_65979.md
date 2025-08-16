@@ -22,6 +22,7 @@ topics:
 - farewell
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs George Harry & Family were tendered a valedictory social at the Mt Bryan Bible Christian Church on Tuesday 14 March.  They are going to Broken Hill.  Mr Harry has for many years been active in the welfare of the district and his loss will be keenly felt by the church and Sunday school in which he was a teacher.

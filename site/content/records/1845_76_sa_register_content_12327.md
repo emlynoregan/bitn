@@ -21,6 +21,7 @@ topics:
 - commerce
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A branch of the National Bank of Australasia was opened here this week in premises lately occupied by Mr Leon.  It is likely to do well, as they are very willing to accommodate the tradespeople here, who in turn, once they become accustomed to it, will do all their business there.  A number of accounts have already been opened.

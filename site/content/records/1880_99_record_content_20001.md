@@ -35,6 +35,7 @@ topics:
 - footpaths
 - ward representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Wells wondered if other people would be treated the same way and be provided with drying grounds.

@@ -25,6 +25,7 @@ topics:
 - livestock
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences. The court again had a number of cases of illegal depasturing of stock on crown land.

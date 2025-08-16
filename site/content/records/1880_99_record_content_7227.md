@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Rice’s evening was fairly attended and raised c. £6 for the Institute funds.

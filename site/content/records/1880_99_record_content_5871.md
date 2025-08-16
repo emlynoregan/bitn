@@ -17,6 +17,7 @@ topics:
 - publishing
 - numbering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume IV, Number 183 on 30 December 1881.

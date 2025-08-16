@@ -22,6 +22,7 @@ topics:
 - finance
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Swimming Pool Board of Management AGM was held last Thursday night.  Chairman John Barton reported on the year.  The committee had operated with a set Council budget of $7,000.  The 1986-87 summer had been unusually cold and gate takings for 92 days had been $3,534.40, while operating costs had been $3,754.49, to give a deficit of $217.08.  [The figures cited give a deficit of $220.09.]

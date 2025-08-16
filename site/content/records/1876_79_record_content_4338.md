@@ -21,6 +21,7 @@ topics:
 - roads
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Rd. The work on Nankivell’s Gully Rd to Break Neck is progressing nicely.

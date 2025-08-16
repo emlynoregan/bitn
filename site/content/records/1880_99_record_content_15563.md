@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Drawing Room Entertainment, to be repeated on 5 December will this time benefit St Mary’s Church Building Fund.

@@ -23,6 +23,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR Grand Public Tea tomorrow night and temperance meeting.  Dr Brummitt will preside and Mr E. Semmens PDCR and the town ministers will speak.

@@ -18,6 +18,7 @@ topics:
 - election
 - requisition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Electoral Notice.  [The requisition to J.B. Neales with the full list of signatures is printed along with his response, agreeing to stand.]

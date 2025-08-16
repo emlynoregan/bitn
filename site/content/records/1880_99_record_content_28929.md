@@ -19,6 +19,7 @@ topics:
 - technical education
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy opposing technical education.  In it he sees education as having been used merely to keep down the crime rates.  Now it is to become a moneymaking thing.  The technical education will contain neither refinement nor discrimination, but will merely train the children of the poor to make money for the rich without giving them the sort of education that would allow them to rise in society.  It is merely an instrument for the financial gain of their masters.

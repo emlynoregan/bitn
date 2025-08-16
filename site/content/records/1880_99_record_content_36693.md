@@ -23,6 +23,7 @@ topics:
 - marriage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  On 14 May, William Edward Sandland of Burra, fourth son of the late John Sandland, married Lily Alston, second daughter of George Alston of St Peters.

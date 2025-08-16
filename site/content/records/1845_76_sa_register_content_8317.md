@@ -21,6 +21,7 @@ topics:
 - mining
 - works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The Patent Copper Company proposes to relight the Burra Copper Works on Monday 29 November and will then be able to give employment to mechanics and labourers at good wages.

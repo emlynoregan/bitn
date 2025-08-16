@@ -19,6 +19,7 @@ topics:
 - council
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Some talk has occurred recently about the formation of a District Council or a Corporation.  Opinions for and against have been expressed.  All agree that either one or the other should exist.  In Kooringa many who hold their land on short leases object to paying rates to improve the value of dwellings belonging to the mine.

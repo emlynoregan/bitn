@@ -20,6 +20,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Winnall said he hoped Cr Rabbich would prosper in the West.

@@ -20,6 +20,7 @@ topics:
 - labour
 - letter to the editor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One of the People’ writes again.  The writer blames poor people who buy cheap for creating or maintaining sweatshop wages.  Such low wages, he argues, wouldn’t exist if people didn’t seek to buy for 1d goods worth 2d.  [The letter is a plausibly argued bit of sophistry.]

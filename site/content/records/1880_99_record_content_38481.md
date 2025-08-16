@@ -21,6 +21,7 @@ topics:
 - legal
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘North Ward’ replies to Mr W.T. Rabbich’s letter in rather vitriolic tones: the editor having struck out several sentences ‘for obvious reasons’.

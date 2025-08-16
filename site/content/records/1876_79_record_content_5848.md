@@ -20,6 +20,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Mrs McInnes of Copperhouse died on Monday last. An inquest found death by natural causes: heart disease.  [Mary McInnes died 3 February 1879 near Copperhouse, residence Copperhouse aged 65.]

@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Wesleyan Schoolroom. Festival on 1 January 1880 & Children's treat. Public Tea at 5.00 p.m.

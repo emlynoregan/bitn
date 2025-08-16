@@ -20,6 +20,7 @@ topics:
 - local_government
 - land_survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  Sowing has been completed and recent showers have been encouraging.  The roads are very bad in some places and the need for a District Council is becoming apparent.  The Government is backward in surveying more land for agricultural settlement.

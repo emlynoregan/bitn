@@ -21,6 +21,7 @@ topics:
 - arts
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ken Harpur, Melbourne playwright, has been working on the script for She’ll by Riot.  He says the Gaol lends itself to promenade style theatre.  He has made many visits to the gaol.  [Details of some of his other work are printed with a photo.]

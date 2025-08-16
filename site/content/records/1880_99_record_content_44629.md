@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gladstone Gaol is currently housing 74 and if this increases additional guards and warders will be needed.

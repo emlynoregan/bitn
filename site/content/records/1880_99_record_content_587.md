@@ -21,6 +21,7 @@ topics:
 - anniversary
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday-school Anniversary: Rev. J.H. Williams of Saddleworth was the preacher.

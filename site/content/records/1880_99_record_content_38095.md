@@ -20,6 +20,7 @@ topics:
 - press
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Quizz’, an Adelaide publication, says of Mr Holder:

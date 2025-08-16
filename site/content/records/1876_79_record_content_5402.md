@@ -19,6 +19,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Model School. The school’s concert has been deferred due to the arrival of the glassblowers.

@@ -19,6 +19,7 @@ topics:
 - publishing
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Comments on Literary Supplements from October 1880 to January 1882

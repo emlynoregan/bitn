@@ -20,6 +20,7 @@ topics:
 - government
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Farm Policy.  Report reprinted from the Silver Age on the SA Government’s proposed policy re the farming industry.

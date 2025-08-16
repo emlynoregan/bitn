@@ -21,6 +21,7 @@ topics:
 - advertisement
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Christmas Night, 25 December, the Cantata Night of Glory, will be presented by the Children of the Ministering League in the Wesleyan Lecture Hall, Kooringa.

@@ -21,6 +21,7 @@ topics:
 - creek crossings
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Rabbit Acts needs to be made compulsory.  A school and District Council are needed.  The creek crossings need repairing.

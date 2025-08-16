@@ -19,6 +19,7 @@ topics:
 - roads
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Roads: J. Broad bogged his buggy on the main road at Mt Bryan Flat & couldn't get it out with 4 draught horses, though he managed next morning with 6.

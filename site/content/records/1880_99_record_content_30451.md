@@ -19,6 +19,7 @@ topics:
 - cemetery
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The good health record of the town in the past two years was marred this year by a mystery disease [which claimed several lives].

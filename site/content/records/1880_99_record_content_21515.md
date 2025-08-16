@@ -19,6 +19,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  There was agitation for strengthening the railway to Silverton, now under construction, and it will now be made capable of traffic at 20 m.p.h. with heavier trains.  It will now be graded and ballasted throughout.

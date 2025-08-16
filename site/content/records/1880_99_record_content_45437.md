@@ -21,6 +21,7 @@ topics:
 - assault
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Halls was charged on the information of Henry Seaford with having assaulted him at the Burra Railway Station on 4 May and also with attempting to get a portmanteau he had, belonging to a passenger.  Fined £3-1-0 in all, or 1 month.

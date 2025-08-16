@@ -25,6 +25,7 @@ topics:
 - contracts
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor condemns Cr Parks’ attempt to rescind a vote giving two contracts to Mr Rogers.  This was a move contrary to standing orders, which would require a call of the whole council duly made expressly to consider such a motion.  Also he condemns the conduct of Cr Harris, who moved the lowest tender be accepted for kerbing in Kangaroo St, only to attempt to amend this when he discovered Mr Roger’s tender had not yet been opened.

@@ -21,6 +21,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mrs White will be happy to receive pupils next Monday 14 August at her residence in Redruth.

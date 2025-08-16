@@ -28,6 +28,7 @@ topics:
 - mine
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 12 April 1867, page 3

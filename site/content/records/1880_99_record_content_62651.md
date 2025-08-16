@@ -17,6 +17,7 @@ topics:
 - community
 - sympathy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Much sympathy is expressed on all sides for the parents of the girl; who are respected residents of the town.

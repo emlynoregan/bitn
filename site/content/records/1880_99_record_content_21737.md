@@ -20,6 +20,7 @@ topics:
 - liquidation
 - amalgamation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Commercial Bank.  A committee of seven has been appointed to decide whether the bank can re-open, be absorbed or amalgamated, or must go into liquidation.

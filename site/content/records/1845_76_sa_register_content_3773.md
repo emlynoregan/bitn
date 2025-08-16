@@ -26,6 +26,7 @@ topics:
 - community
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A total eclipse of the sun will be seen today in Adelaide.  It will begin at 12.35 p.m. and end at 8 minutes before sunset.  At the conjunction there will be a sort of darkness for about 15 minutes, ‘during which the best medium through which to observe the eclipsed luminary will be a piece of smoked glass’.  [A highly dangerous recommendation!]

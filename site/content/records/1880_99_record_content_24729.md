@@ -22,6 +22,7 @@ topics:
 - labour
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  On Tuesday the Mayor got notice from the Conservator of Water that 50 married men would be employed on a Government Reservoir in the Hundred of Bundey, section 68 at 4/6 a day with the Government finding tents and tools.  [The 50 seems to be an error for 20 in light of what follows.]

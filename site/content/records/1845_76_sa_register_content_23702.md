@@ -23,6 +23,7 @@ topics:
 - accident
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tornado.  [A squall is described in the paper, but it seems clearly to have been a small tornado.]  On Sunday a squall line 50 to 100 yards wide and perhaps 200 yards long crossed part of Kooringa.  Part of Mr Dyer’s house in The Paddock was unroofed, then travelling southeast it whipped the verandahs off Snell’s house and badly damaged Mr Fogg’s roof.  At Dyer’s the inhabitants were startled by the noise and a crash, the room filled with dust and the carpets were lifted from the floor.

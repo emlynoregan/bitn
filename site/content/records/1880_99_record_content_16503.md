@@ -21,6 +21,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The performance of the Burra Comedy Co. at the Institute raised money for the Church of England’s Young Men’s Association.  There was a fair attendance, but it was not the success it was hoped for.  There were several hitches: a timidity from some actors and an over-reliance on the prompters.  The songs after interval were generally more favourably reviewed.

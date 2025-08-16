@@ -25,6 +25,7 @@ topics:
 - obituary
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Emily Beatrice Eichler died 18 December at Redruth of exhaustion after influenza.  She was 21 years 9 months old.  She was the eldest daughter of Frederick Eichler of Thackaringa and the granddaughter of J.R. & S.A. Gray of Redruth.  She was organist, teacher and choir leader at Redruth Wesleyan Sunday School.

@@ -20,6 +20,7 @@ topics:
 - event
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sports at T. Richardson’s Burra Hotel on Christmas Day will include: footraces, climbing the greasy pole, dipping for oranges, etc.

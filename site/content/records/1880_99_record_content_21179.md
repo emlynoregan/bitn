@@ -20,6 +20,7 @@ topics:
 - police
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The police report they intend to withdraw one trooper from Redruth, but to continue with one foot constable at Redruth and one at Kooringa.  The Council did not see the need for a foot constable at Redruth and decided to see the Commissioner of Police.

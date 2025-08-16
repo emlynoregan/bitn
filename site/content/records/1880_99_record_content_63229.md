@@ -19,6 +19,7 @@ topics:
 - cycling
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.J. Bagg won the 1, 2, 3, & 5 mile bicycle handicap races.

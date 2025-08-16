@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community_event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Kooringa Primitive Methodist Sunday-school anniversary will be celebrated on Sunday 28 December with the tea-meeting on 25 December.

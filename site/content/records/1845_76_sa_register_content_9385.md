@@ -21,6 +21,7 @@ topics:
 - politics
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 G.D. Kingston writes to thank his supporters in the election, regretting that he cannot remain in Kooringa for the declaration of the poll, because of business commitments in the city.  He says that his opponent agreed with all of the principles Kingston himself espoused and remarkably did not press his candidacy either with addresses in the newspaper or in person.  Kingston says in fact that Mildred’s proponents ‘only brought him forward, to use their own terse and expressive language, “for the sake of a lark, and that some money might be spent at the public-house.”’

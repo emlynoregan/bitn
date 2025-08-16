@@ -21,6 +21,7 @@ topics:
 - meeting
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church.  The quarterly meeting for the Kooringa circuit was held at Mt Bryan on Wednesday.  The income met the minister’s stipend and repairs to the mission house with a balance in hand.

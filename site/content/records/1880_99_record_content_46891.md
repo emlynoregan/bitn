@@ -20,6 +20,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.C. Yeomans has been invited to stay in the Burra-Hallett Bible Christian Circuit for another year and he is likely to accept.

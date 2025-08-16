@@ -19,6 +19,7 @@ topics:
 - event
 - fete
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Uniting Church Fete will be held on 5 October.

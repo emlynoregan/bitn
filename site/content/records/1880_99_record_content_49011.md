@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Daddow writes pointing out how parties under Miss Spence’s ‘effective voting’ could maximise their desires by astute exchange of preferences.

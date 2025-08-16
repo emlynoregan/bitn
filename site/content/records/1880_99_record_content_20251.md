@@ -22,6 +22,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Where are the 10 chains of footway on the Slaughterhouse Rd?  There is not an inch.

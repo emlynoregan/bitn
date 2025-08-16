@@ -17,6 +17,7 @@ topics:
 - finance
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Credit balance £15-16-10 and Building Fund at £104-17-0.

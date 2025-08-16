@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader urging the reasonableness of the Government aiding mining industry in Sa - specifically aid for the finding of an adequate water supply for the Alma and Victoria Mine.

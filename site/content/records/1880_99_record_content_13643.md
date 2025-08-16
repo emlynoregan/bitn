@@ -19,6 +19,7 @@ topics:
 - railways
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editor thinks the line to the Barrier is the wrong choice - it should be broad gauge from Burra to avoid a break of gauge between there and the city and the reduction in the subsidy to local government bodies should be related to how long it has been paid.  Newly formed bodies deserve a period of subsidy.]

@@ -24,6 +24,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Soc.  The local auxiliary annual meeting was held on Friday in the Institute.  Here was a small attendance with Dr Sangster in the chair.  The deputation was Rev. G. Davidson.  Dr Sangster was elected President with Dr Brummitt as Vice President, P. Lane is treasurer and W. Davey the Hon. Sec.

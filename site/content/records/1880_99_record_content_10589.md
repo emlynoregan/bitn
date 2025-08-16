@@ -20,6 +20,7 @@ topics:
 - music
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Hallett Institute Grand Musical and Literary Entertainment 20 September.

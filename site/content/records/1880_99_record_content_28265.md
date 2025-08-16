@@ -19,6 +19,7 @@ topics:
 - military
 - SAVF
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAVF.  This week the defence force went through some really practical work at the encampment.  Even though it is expensive to maintain a defence force it is essential.  England cannot supply soldiers to guard all the colonies.

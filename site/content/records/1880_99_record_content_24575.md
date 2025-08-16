@@ -21,6 +21,7 @@ topics:
 - invention
 - sanitation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local board of Health has been invited to inspect a new form of earth closet invented by Mr Matthews of this town and patented.

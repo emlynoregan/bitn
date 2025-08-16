@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Sports Meeting.  The results of this very successful picnic sports meeting on the anniversary of the Institute are printed.  The evening entertainment was also largely attended.

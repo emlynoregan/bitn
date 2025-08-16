@@ -19,6 +19,7 @@ topics:
 - performance
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: At the Institute 4 & 5 June the First Appearance of the Renowned U.S. Minstrels. 13 Star Artistes - the Elite of Minstrelsy. Best vocalists, funniest comedians and greatest dancers. The most complete orchestra. 3/- & 2/

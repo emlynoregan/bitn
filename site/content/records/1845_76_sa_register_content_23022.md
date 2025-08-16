@@ -19,6 +19,7 @@ topics:
 - statistics
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Education.  School Returns for 1869.

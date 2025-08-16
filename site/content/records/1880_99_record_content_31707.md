@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘O’Learyi, son of Tanneri, of the tribe of the Bachelorites.’

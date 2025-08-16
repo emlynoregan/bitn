@@ -19,6 +19,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army visited Aberdeen for an open-air service on Monday night - the first such for some time.

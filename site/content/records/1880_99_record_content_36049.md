@@ -21,6 +21,7 @@ topics:
 - exploration
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  The Inspector of Mines suggests that both at Burra and Kapunda the mines had their carbonate ore exploited without any attempt to develop the mines at depth and to trace the sulphides which are their origin.  Exploration at depth, to say 1,200’ may well answer the question as to whether the mines could again be rendered profitable and employ large numbers.

@@ -20,6 +20,7 @@ topics:
 - exhibition
 - aged
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Harry writes a letter suggesting that aged people on Government relief deserve the same treat as children with respect to the exhibition.

@@ -22,6 +22,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR visited ‘Monavea’, the residence of R. Field c. 6 miles from Burra.  There were drills, cleaving the Turk’s head, and rescue racing, ending with an evening spread in Mr Field’s dining room.

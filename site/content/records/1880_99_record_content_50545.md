@@ -21,6 +21,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Football.  Burra will play Gawler at Burra Oval on Saturday 29 July at 3 p.m. (6d)

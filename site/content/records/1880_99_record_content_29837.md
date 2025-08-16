@@ -20,6 +20,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Sunday School Anniversary 23 & 24 September was well attended.  The tea meeting speech by Mr Gray was on his recent trip to Melbourne.  Proceeds were over £8.

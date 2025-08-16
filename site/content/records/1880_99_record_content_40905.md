@@ -19,6 +19,7 @@ topics:
 - sport
 - polo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  On Saturday Burra played a Victorian team [Possibly Camperdown, see XII, 1032, 25 Mar. 1891, Page 3]

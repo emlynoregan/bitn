@@ -25,6 +25,7 @@ topics:
 - police
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences. Robert Perkins got 7 days for stealing two coats and a pocket-handkerchief from the White Hart on Sunday.

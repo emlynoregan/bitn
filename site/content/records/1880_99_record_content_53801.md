@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Saturday Burra 4 defeated Aberdeen 2.  [There were an unspecified number of behinds as well.]

@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Eli Isam died last Saturday.  [Born Louisa Ann Lawn 15 March 1858, died 8 September 1893.  Age at death is given as 37 but should be 35 & this accords with age at marriage.]

@@ -21,6 +21,7 @@ topics:
 - community
 - winding_up
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra & N-E Agricultural Soc.  [i.e. Burra Show Society]  A meeting of subscribers is called to wind up the society.  Burra Institute 17 January 1888.

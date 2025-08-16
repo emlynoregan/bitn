@@ -22,6 +22,7 @@ topics:
 - transport
 - road obstruction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Knevitt & J. Knevitt had obstructed the main road between Burra and Mt Bryan by not keeping their bullock teams on the near side.  Fines: -

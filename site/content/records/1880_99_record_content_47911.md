@@ -23,6 +23,7 @@ topics:
 - parade
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church.  Church Parade in aid of the Burra Hospital.  Procession from the Burra Institute at 10 a.m. for Burra Brass Band and Friendly Societies.

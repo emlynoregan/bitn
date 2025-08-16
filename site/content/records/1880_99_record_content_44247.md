@@ -20,6 +20,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Next Saturday the Quarrymen take on the Gentlemen on the flat near Mr Butterworth’s Mill.

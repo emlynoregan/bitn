@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Church.  The special service by the Ven. Archdeacon Dove of Walkerville on Sunday morning resulted in a collection of £6 for the Distressed Farmers’ Fund.

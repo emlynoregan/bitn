@@ -21,6 +21,7 @@ topics:
 - defence
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Rifle Club now exists with range at Aberdeen [A response in part at least to fears of a European war and possible invasion.]

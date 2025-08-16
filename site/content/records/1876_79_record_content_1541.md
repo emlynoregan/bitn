@@ -20,6 +20,7 @@ topics:
 - water
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra water: Surprise at lack of water tanks in the town. At present the only bathing place is the Mine Dam and then only for an hour or two daily.

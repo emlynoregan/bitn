@@ -20,6 +20,7 @@ topics:
 - trial
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ned Kelly’s trial is reprinted from a report in the Argus of 5 August.  The trial was then ongoing.

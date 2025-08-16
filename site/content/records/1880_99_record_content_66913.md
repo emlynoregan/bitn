@@ -19,6 +19,7 @@ topics:
 - competition
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Bentley	80	won half a bag of flour

@@ -21,6 +21,7 @@ topics:
 - public health
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows will be attacked with poisoned wheat in Burra shortly, so take care of your fowls or other domestic birds.  The Council will not be responsible for the deaths of any such who eat the poison baits judiciously laid in reserves and the cemetery.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - retail
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 F. W. Moody	(Late Winnall & Co.) Draper, Commercial St

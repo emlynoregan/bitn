@@ -26,6 +26,7 @@ topics:
 - mining
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest/Obituary.  An inquest was held before Mr MacDermott at the Burra Hotel into the death of Mr W. Harvey the previous day on the Burra Mine.

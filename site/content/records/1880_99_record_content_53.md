@@ -21,6 +21,7 @@ topics:
 - timber
 - sawmill
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 Burra Timber Yard & Steam Saw Mills

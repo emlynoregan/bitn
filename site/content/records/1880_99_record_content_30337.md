@@ -19,6 +19,7 @@ topics:
 - land
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Assessments.  A new system based on unimproved land value will be available immediately.

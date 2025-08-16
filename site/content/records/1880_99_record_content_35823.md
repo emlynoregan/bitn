@@ -25,6 +25,7 @@ topics:
 - trade
 - water conservation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting chaired by the Mayor, Mr T.W. Wilkinson, Burra Institute, Tuesday evening last.

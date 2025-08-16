@@ -18,6 +18,7 @@ topics:
 - literature
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 9 Jun.	XVI-XIX	The Circus at Squatty’s	X	X	X	X		X	X	X			My Burglar Friends: by M. Quad

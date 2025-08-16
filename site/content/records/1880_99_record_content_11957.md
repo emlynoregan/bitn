@@ -20,6 +20,7 @@ topics:
 - rates
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Medical Officer must be appointed as required by the Central Board of Health.  The job will be thankless, as anyone reported or investigated will feel aggrieved.  A £20 fee could be squeezed from the present rate, but more would require an increased rate.  We cannot allow the Central Board to step in and make a costly appointment.

@@ -20,6 +20,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The Burra Cricket Club is to meet Monday evening. The first practice for the season was last Saturday.

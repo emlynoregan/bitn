@@ -19,6 +19,7 @@ topics:
 - economy
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on banking and banks especially relating to the failure of the Commercial Bank and the issuing of bank notes.

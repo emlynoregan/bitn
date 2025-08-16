@@ -20,6 +20,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Show.  The second annual show was a great success last Wednesday and attracted c. 1,500, including a fair number from Burra who went up on the midday train and returned on the special.  The accommodation for the show was not good.  The evening concert featured the operetta: Dick Whittington and His Cat.  A ball followed.

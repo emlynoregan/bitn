@@ -21,6 +21,7 @@ topics:
 - appointment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘A Ratepayer’ saying that J.D. Cave’s appointment as Town Clerk was irregular and under the proper process of tendering it should have gone to Mr Davey.

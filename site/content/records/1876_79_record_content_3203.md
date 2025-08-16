@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. A deputation from Copperhouse waited on the D.C. as a consequence of the meeting on the rabbit rate. Mr T. Warnes was offended by the meeting and its tone. He accused the Copperhouse of selfishness in seeking to escape their responsibilities and of impertinence in calling for resignation of members of council from other wards.

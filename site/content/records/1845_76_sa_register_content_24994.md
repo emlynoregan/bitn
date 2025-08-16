@@ -19,6 +19,7 @@ topics:
 - harvest
 - locusts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Agriculture.  The harvest is giving good yields.  Locust damage is worse in some places than predicted, but is limited in area.

@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Alexander Harris has bought the plant and business of N. Lihou, aerated waters and cordial manufacturers of Queen St.

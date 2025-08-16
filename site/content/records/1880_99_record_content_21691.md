@@ -21,6 +21,7 @@ topics:
 - roads
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter urging the Council to gravel the footpath in Commercial St as far as the Bank of Australasia.  It points to other areas of neglect too.

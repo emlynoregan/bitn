@@ -18,6 +18,7 @@ topics:
 - events
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Exhibition closes on 7 Jan. 1888.

@@ -19,6 +19,7 @@ topics:
 - community
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The Army began at Clare last Sunday and were received in a way that justified all that had been said of the rowdy and lawless element there.

@@ -20,6 +20,7 @@ topics:
 - travel
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lord Kintore, the SA Governor, left on Thursday for a six month visit to England.

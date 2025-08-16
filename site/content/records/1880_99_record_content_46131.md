@@ -19,6 +19,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A meeting at Mt Bryan on 13 July resolved to form a football club.

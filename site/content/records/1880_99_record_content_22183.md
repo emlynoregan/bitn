@@ -21,6 +21,7 @@ topics:
 - mission
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Houston ended eight days of mission work in Burra with a huge congregation on Last Sunday, the 9 May, with representatives of almost every denomination.  He is expected to return to SA in about a year.

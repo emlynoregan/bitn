@@ -18,6 +18,7 @@ topics:
 - union
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodist Union: last week the Presidents of the Wesleyan, Bible Christian and Primitive Methodist Conferences attached their names to the legal deed accomplishing Methodist Union which will consequently take place from 1 January 1900.

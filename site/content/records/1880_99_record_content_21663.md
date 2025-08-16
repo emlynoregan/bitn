@@ -19,6 +19,7 @@ topics:
 - water
 - town council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21663→Burra Town Council.  The work at the Waterworks has been completed and the water will be cut off from 4 p.m. on 16 March to 6 a.m. 17 March to allow for pipe flushing and the reservoir to be cleaned.

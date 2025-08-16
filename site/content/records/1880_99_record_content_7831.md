@@ -19,6 +19,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Brass Band did not appear on Saturday due to the illness of a leading player, but will do so tomorrow night.

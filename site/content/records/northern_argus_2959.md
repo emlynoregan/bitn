@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Major expenditures are then listed along with grants received to date.]

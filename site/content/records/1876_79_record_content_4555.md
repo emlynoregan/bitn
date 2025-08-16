@@ -20,6 +20,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from W.R. Ridgway re the Council loan. He questions the likelihood of the Govt. subsidy being discontinued and claims they would also be paid on the bridge approaches if raised by subscriptions or rates. He also fears that revelations that the north end of the town voted against the loan will not be conducive to town unity or goodwill. (He was away from town at the time of the meeting and did not learn of it in time to attend.)

@@ -20,6 +20,7 @@ topics:
 - community
 - regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy protesting that the Kooringa Hotel was allowed a permit to stay open almost all night on Wednesday last for a private party - such provisions were intended to be granted only for public occasions he says.

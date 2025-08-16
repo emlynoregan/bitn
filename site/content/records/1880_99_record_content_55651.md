@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Some collections might thus suggest 312 was used on 3 & 10 October while others might suggest it appeared only on the latter date.

@@ -29,6 +29,7 @@ topics:
 - copper
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Of this 18,567 tons realised an average of £14-10-3 clear of freight and charges and taking the whole produce of the mine at this rate, we should have the enormous product of £547,629-3-9.  However, prices in the British copper ore market in the last six months have fluctuated to the extent of £3 per ton and so this calculation will not hold up.  Nevertheless, the Burra Burra Mines to 29 September 1849 will be found to have realised a sum largely exceeding half a million pounds sterling, clear of freight and charges.

@@ -18,6 +18,7 @@ topics:
 - novel
 - christmas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2 Dec 81	Bella’s Hero, or The Marquis	A Queer Christmas Adventure

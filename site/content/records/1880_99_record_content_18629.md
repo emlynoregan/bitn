@@ -21,6 +21,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  It is believed that the incumbency of St Mary’s has been offered to J.S. Wayland of All Saints, Moonta.

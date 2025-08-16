@@ -19,6 +19,7 @@ topics:
 - society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had a moderate attendance for short essays at its last meeting.

@@ -23,6 +23,7 @@ topics:
 - accident
 - horses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Encampment.  25 officers and men went from Burra Mounted Rifles to the Easter encampment at Gladstone.  Private Builder’s horse fell near Booborowie on the return and he was severely shaken.

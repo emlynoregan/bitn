@@ -19,6 +19,7 @@ topics:
 - transport
 - public_safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Monday a horse and cart belonging to one of the butchers bolted at a fearful speed through the principal streets.  The shafts of the cart were broken, but fortunately no one was injured.

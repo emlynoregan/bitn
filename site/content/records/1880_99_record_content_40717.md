@@ -18,6 +18,7 @@ topics:
 - legal
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Mr Price would have been better off had he not went to law.’

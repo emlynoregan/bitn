@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Killicoat was on her way to St Mary’s on Sunday in a wagonette when the horse bolted.  Miss Killicoat apparently tried to get out for she was found on the road with a broken collarbone and other injuries, but is progressing favourably.

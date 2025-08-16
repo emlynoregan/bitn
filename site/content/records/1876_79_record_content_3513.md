@@ -19,6 +19,7 @@ topics:
 - appointment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 F.W. Holder appointed Town Clerk on 22 Jan. 1878. (Burra Corp.)

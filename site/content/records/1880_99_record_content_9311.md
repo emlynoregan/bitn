@@ -20,6 +20,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Vocal and Instrumental Entertainment at the Institute on 6 February in aid of Mrs Lawler whose house was recently burnt.  [Program printed.]

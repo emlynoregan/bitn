@@ -20,6 +20,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The concert on 27 December at the Institute by the Court Minstrels was well done and had a good house.

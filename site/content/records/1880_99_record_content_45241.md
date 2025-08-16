@@ -34,6 +34,7 @@ topics:
 - chrysanthemums
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Cave’s Garden.  There is a report of a visit to Mr Cave’s garden which extends over about ⅓ column.  He was particularly interested in chrysanthemums which he grew extensively and showed widely.  He developed new varieties.  Among his best were:

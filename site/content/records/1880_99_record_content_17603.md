@@ -18,6 +18,7 @@ topics:
 - community
 - reading room
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Reading Room for “North Burra” [This and no more appears in the ‘Items’ column.]

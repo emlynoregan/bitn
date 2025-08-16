@@ -24,6 +24,7 @@ topics:
 - bridge
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 12 July 1853, page 2

@@ -21,6 +21,7 @@ topics:
 - road
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Eastern Road - the editor felt that the partisan feeling on the subject was not so much about the road as about; `the general partisan feeling which prevails in the town' and which is used as `a kind of "stock piece" to fill up a gap when there is nothing else to fight about.'

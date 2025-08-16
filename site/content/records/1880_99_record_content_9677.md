@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Good Friday saw a public tea at the Kooringa Primitive Methodist Sunday School and another at the Westbury Wesleyan Church.

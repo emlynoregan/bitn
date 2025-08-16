@@ -23,6 +23,7 @@ topics:
 - company
 - behaviour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Observer’ writes that on Sunday last the teams of the English and Australian Copper Company were to be seen passing and repassing through the town, openly violating the divine law and disregarding the disgrace to a Christian community.  Being travellers they were also allowed to stop at public houses.  If attention is not called to such evils there is no knowing how often it will be repeated.  I do not know who is to blame in the matter, but I trust it will not be repeated.

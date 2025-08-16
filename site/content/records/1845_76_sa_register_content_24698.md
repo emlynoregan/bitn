@@ -19,6 +19,7 @@ topics:
 - company
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sliding Rock Mining Co.  There is a lengthy report of the progress of this copper mining company in the Flinders Ranges.

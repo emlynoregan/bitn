@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wheal Sarah proprietors met on Monday to transact business and to examine some very good specimens from the bottom of the shaft.

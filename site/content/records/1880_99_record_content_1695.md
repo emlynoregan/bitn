@@ -21,6 +21,7 @@ topics:
 - theatre
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Last evening Mr & Mrs Hewitt appeared at the Institute in an entertainment beginning with the operetta Zip and terminating with an amusing drawing room sketch.

@@ -21,6 +21,7 @@ topics:
 - crime
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  £10 reward for conviction of those who broke into Sugar Loaf Hut on or about 8 April.  Isaac Killicoat.

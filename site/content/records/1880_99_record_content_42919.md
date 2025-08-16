@@ -19,6 +19,7 @@ topics:
 - hospital
 - influenza
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 17 patients were admitted to hospital last week.

@@ -20,6 +20,7 @@ topics:
 - church
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 5 April 1867, page 3

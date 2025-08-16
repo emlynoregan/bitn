@@ -31,6 +31,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Torr, aged 68, died on Thursday 14 February of inflammation of the lungs.  He was the father of Mrs James Brown (Mintaro), Mrs R. Dale (Bath UK), Mrs Maughan (Wallaroo), James C. Torr, John S. Torr & Thomas Torr (Redhill), William G. Torr (Moonta Mines).

@@ -20,6 +20,7 @@ topics:
 - railways
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Terowie Railway. The Hallett-Terowie railway Bill has reached the Legislative Council.

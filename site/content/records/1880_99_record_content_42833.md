@@ -20,6 +20,7 @@ topics:
 - assay
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter made an assay of the slag and found results unsatisfactory so he stopped work pending a proper assay in Adelaide.  This turned out to be so satisfactory that he recommenced work at once.  Reports of his abandoning the work are false.

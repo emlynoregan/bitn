@@ -25,6 +25,7 @@ topics:
 - appeal
 - justice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Witless Heedless Howler’ writes about Cr Hardy and the Appeals.  Paul Pry spotted the amusing side of the events, but he did not comment on the illegal action of one of the councillors in attempting to be both advocate and judge in several cases.  Cr Sampson questioned whether a councillor who signed a notice of appeal could adjudicate upon the case.  The Mayor said he could not.

@@ -23,6 +23,7 @@ topics:
 - opinion
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a letter on E.W. Hawker’s criticism of SA and its government made recently in London.  [The article is ⅔-column of puff, but little of substance and light on argument.  It principally decries Hawker as talking down the colony to enlarge himself.]

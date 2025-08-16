@@ -18,6 +18,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year’s Eve passed without larrikinism due to the vigilance of the police and special constables.

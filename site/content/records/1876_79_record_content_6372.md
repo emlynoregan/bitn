@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railway. The track is laid as far as Quorn and should be opened to there in a few weeks.

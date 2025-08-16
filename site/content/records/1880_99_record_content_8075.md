@@ -22,6 +22,7 @@ topics:
 - opening
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Burra Refreshment Rooms will be opened 1 November by George Webber who has taken over the house lately occupied by Mrs John Skewes directly opposite Samuel Drew & Co.’s establishment.

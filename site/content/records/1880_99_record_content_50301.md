@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute committee has planned for some lectures through the winter months.  The first will be by Mr F. Chapple BA, BSc, of Prince Alfred College.

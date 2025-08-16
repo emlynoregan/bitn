@@ -42,6 +42,7 @@ topics:
 - crime
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Saw a sheep with an ‘H’ brand on it slaughtered at Tiver & Coles’.  The carcase fed the shearers.  A second case occurred shortly later.  Leeson was present at the first killing, but not at the second.  He was there at a third killing a few days later.  Mr Cole killed the sheep.

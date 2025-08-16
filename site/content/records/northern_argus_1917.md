@@ -20,6 +20,7 @@ topics:
 - event
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The J150 Travelling Music Show’s Workshop and disco proved to be popular, with a good crowd at the Town Hall for the disco on Friday night.

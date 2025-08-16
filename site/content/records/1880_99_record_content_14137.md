@@ -19,6 +19,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Primitive Methodist Dinner & Concert last Wednesday at the Institute was most successful and resulted in a return of c. £30.

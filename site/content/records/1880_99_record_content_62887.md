@@ -22,6 +22,7 @@ topics:
 - government
 - SAMA
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA has approached the Commissioner of Crown Lands on the subject of determining if the old mine can be made to pay again and found him willing to lend a diamond drill free of charge for two years on condition that proper tests are made with it.  Last Saturday the Government Geologist, H.L.Y. Brown, visited the mine, selected the sites for the bores and approved them.  The first bore will commence in about two weeks.  It is in new ground east of Peacock’s Air Shaft.  Mr Leahy is engaged in erecting the derrick.  Nearly all the plant has arrived with the boiler expected shortly.

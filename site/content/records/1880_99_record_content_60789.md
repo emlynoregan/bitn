@@ -26,6 +26,7 @@ topics:
 - embezzlement
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Parks was charged on the information of J. Snell, Chairman of Trustees of Burra Burra Loyal Lodge, with forging the name of J.H. Cockrum to a document for £2-16-0 and of forging the name of T. Martin to a document for £5-4-0 and with embezzling the sum of £6 received from Mrs H. Mills.

@@ -29,6 +29,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. First Appearance of the Burra amateur Dramatic society in aid of The Burra Hospital. At the Institute, Thursday 15 May, featuring `The Fall of Wolsey' in full dress costume. Also Music, Vocals and Instrumentals by Lady Amateurs.

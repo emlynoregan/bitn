@@ -19,6 +19,7 @@ topics:
 - death
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Roach JP died last Monday at Aberdeen.  He was for many years a staunch supporter of the Wesleyan Church.

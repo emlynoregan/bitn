@@ -19,6 +19,7 @@ topics:
 - agriculture
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Capt. Killicoat has been having great success in clearing his land of rabbits using Bisulphide of Carbon.

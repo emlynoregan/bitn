@@ -21,6 +21,7 @@ topics:
 - fines
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 David Edwards and William Rabbich were fined 5/- plus costs for removing stone from crown land at Farrell’s Flat.

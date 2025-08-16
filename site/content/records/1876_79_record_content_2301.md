@@ -20,6 +20,7 @@ topics:
 - injury
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mine accident; William Ryan's right forearm crushed under a truck. A child's fingers caught in machine cogs.

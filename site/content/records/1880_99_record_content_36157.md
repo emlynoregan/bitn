@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - reference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 * See XI, 948, 18 Apr. 1890, p.2

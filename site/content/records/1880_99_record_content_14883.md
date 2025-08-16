@@ -18,6 +18,7 @@ topics:
 - migration
 - demography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration. In the week ending 11 October 160 arrived in SA and 325 departed.

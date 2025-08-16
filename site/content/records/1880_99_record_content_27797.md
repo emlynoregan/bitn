@@ -17,6 +17,7 @@ topics:
 - advertisement
 - for sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale: a 54” ‘Matchless’ Bicycle.  Apply this office.

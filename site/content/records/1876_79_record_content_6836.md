@@ -21,6 +21,7 @@ topics:
 - music
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Institute lecture on 4 August by Rev. S. Green on `Uguesagen', with glees, duets and choruses by the Burra Musical Union.

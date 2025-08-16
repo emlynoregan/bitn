@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Collinsville Open Day is reported in c. 1½ columns.

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina.  The editor asks whether the authorities have forgotten the Baldina irrigation scheme.

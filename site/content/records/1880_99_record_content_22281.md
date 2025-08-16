@@ -19,6 +19,7 @@ topics:
 - mining
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Silver Claims.  The report of the Government Geologist is that World’s End-Robertstown fields will not yield payable silver.  Unless some discovery contradicts this there seems no hope of developments there.  This should all have been ascertained four months ago!  What a waste of effort and money.

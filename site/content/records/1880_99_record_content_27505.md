@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The railway will link Sydney and Brisbane on 13 January.

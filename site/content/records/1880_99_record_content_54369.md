@@ -23,6 +23,7 @@ topics:
 - circus
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fillis’s Great Circus and Menagerie will perform at Burra on 9 August at 3 p.m. and 8 p.m.  The tents will be behind Perry’s Blacksmith’s Shop.

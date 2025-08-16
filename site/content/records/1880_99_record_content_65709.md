@@ -23,6 +23,7 @@ topics:
 - health
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Davey has resigned as Town Clerk due to ill health and his resignation was accepted with reluctance.  ‘The Mayor and councillors spoke in the most eulogistic terms and passed the highest encomiums [sic] on Mr Davey.’

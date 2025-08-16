@@ -17,6 +17,7 @@ topics:
 - education
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A writer writes re free, compulsory and secular education, urging a reconsideration of ‘secular’ along with the ‘free’ currently being debated in Parliament.

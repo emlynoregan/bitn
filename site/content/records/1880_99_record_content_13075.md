@@ -22,6 +22,7 @@ topics:
 - meeting
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Young Men’s Friendly Soc. St Mary’s Burra Branch will hold its inaugural meeting on 7 May with tea at 5 o’clock at the YMFS room in Thames St. (Late the schoolroom of Mr Mathews).  Afterwards a choral service in the church at 7.30 p.m.

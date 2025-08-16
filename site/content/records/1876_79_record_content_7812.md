@@ -20,6 +20,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Flower Show. The first Burra Flower Show will be held today in the Institute from 3.00 p.m. to 10.00 p.m.

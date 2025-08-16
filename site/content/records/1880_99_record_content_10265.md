@@ -22,6 +22,7 @@ topics:
 - ceremony
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The foundation stone of the vestry at the Redruth Wesleyan Church will be laid by Mrs Torr on 1 August.  Trees will be planted followed by a public supper (1/6) and a meeting in the church at 7.00 p.m.

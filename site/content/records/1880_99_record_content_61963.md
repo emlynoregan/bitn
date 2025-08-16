@@ -19,6 +19,7 @@ topics:
 - racing
 - scheduling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club, meeting postponed to allow the secretary to find the dates of other meetings and avoid clashing.

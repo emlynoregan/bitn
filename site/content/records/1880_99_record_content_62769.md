@@ -21,6 +21,7 @@ topics:
 - children
 - reformatory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Agnes Gully and Charlotte Goldsworthy were charged with being neglected children.  Charlotte was sent to the Reformatory School for two years and Agnes’s case was adjourned when a friend agreed to take her in charge for the future.

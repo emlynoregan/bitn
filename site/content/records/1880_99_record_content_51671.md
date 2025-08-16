@@ -20,6 +20,7 @@ topics:
 - music
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Schoolroom.  The second popular 3d concert in aid of the piano fund was very successful on Wednesday night.  The next one is on next Friday night.

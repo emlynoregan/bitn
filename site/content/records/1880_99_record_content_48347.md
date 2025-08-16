@@ -20,6 +20,7 @@ topics:
 - contracts
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Kitchen then said the engineer should carry out all his duties.  He knew what was involved when he signed the contract and he should pay the extra man for outside work.

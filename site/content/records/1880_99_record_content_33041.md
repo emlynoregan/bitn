@@ -21,6 +21,7 @@ topics:
 - agriculture
 - dummying
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Progress' writes about a rumour that the Homestead Blocks to be created from the Hallett-Mt Bryan Stock Road will be larger than 20 acres which would likely result in their being attractive to large farmers and graziers and lead to dummying which the writer says occurred to some extent north of Hallett.

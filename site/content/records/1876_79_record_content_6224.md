@@ -22,6 +22,7 @@ topics:
 - building
 - improvement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sara & Dunstan have almost completed their work on the Redruth Courthouse and police station and have made a great improvement.

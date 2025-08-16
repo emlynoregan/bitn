@@ -19,6 +19,7 @@ topics:
 - education
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Public School: Tenders called for school on 2 acres of ground given by SAMA.

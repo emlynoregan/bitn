@@ -26,6 +26,7 @@ topics:
 - appointments
 - free education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  The school board has called for more teachers.  Miss L. Stephens has been appointed to the Stony Gap School.  Applications for free education were reviewed and 94 free and 16 half-fee applications were allowed.  The board comprised: P. Lane, J. Dunstan Jun., D.S. Packard & F.W. Holder.

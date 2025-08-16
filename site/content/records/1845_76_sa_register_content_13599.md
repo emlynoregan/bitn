@@ -23,6 +23,7 @@ topics:
 - postal service
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Traveller’ writes from Kooringa 25 July

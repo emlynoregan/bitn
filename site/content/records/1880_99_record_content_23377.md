@@ -24,6 +24,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 District Councils of Burra, Hanson and Booborowie met last Friday in the Burra Institute to consider the Local Government Bill now before Parliament.  Thomas Fairchild presided.

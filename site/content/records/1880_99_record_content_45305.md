@@ -19,6 +19,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports Social tomorrow night at the Commercial Hotel to wind up the coursing meet, conclude the cricket season, and open the football season.

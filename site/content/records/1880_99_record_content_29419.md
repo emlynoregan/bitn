@@ -18,6 +18,7 @@ topics:
 - economy
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Selectors in Trouble.  Many leases are being forfeited for being in arrears.

@@ -20,6 +20,7 @@ topics:
 - auction
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Auction Firm.  Messrs Homburg & Co.  will hold a sale in the Bon Accord yards next Tuesday.  (c. 500 sheep and a few cattle and horses)

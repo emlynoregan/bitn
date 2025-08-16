@@ -21,6 +21,7 @@ topics:
 - public health
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mystery Disease.  Inspector Farrell of the Central Board of Health has visited Burra to look into the mystery disease outbreak.  Two of the deaths were typhoid, one from Broken Hill and the boots from one of the hotels.  For the other three cases there was no definite conclusion.

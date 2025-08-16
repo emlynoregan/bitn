@@ -20,6 +20,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Prayers for Rain.  The Anglican Bishop of Adelaide has called for a day of special prayer for rain on Wednesday 22 September, given the drought prevailing over large areas of the agricultural and pastoral districts.

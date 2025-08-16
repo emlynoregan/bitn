@@ -23,6 +23,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  The Cornish Telegraph of 10 September reports the marriage of: -

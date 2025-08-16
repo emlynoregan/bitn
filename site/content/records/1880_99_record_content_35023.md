@@ -18,6 +18,7 @@ topics:
 - community
 - holidays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Holidays.  The town was quiet between Christmas and the New Year as many residents had left for the holidays.

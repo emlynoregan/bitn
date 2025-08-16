@@ -24,6 +24,7 @@ topics:
 - fundraising
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa News.  A general meeting on Thursday by friends of the proposed hospital was held at the Burra Hotel.  W.R. Mortlock took the chair.  A long discussion was held on the Colonial Secretary’s communication respecting the Government Grant of £500.  A committee of all the medical gentlemen of the town and the principal storekeepers was formed to collect statistical and other information they thought necessary to enable them to report to a general meeting on Monday 15 December, when it is intended to reply to the Colonial Secretary’s letter.

@@ -19,6 +19,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa News.  In consequence of the extensive formation of gardens in and around Kooringa, we understand it is contemplated that an amateur Horticultural Show will be held there.  A meeting to make arrangements will be held shortly.

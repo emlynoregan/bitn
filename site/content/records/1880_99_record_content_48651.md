@@ -25,6 +25,7 @@ topics:
 - letters
 - reputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. West writes a letter accusing W.H. Hardy of unjustifiably condemning the directors of the Burra Mine in the Advertiser.  His statements referring to tribute pitches at the mine are untrue and calculated to convey a false impression.  West says that for several years tribute pitches have been let to all respectable qualified miners who chose to apply – under the most liberal terms.

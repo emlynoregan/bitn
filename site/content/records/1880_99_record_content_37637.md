@@ -17,6 +17,7 @@ topics:
 - weather
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather has been wild with over 1” of rain on Monday night.  Creeks are swollen and roads in a bad state.

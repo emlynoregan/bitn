@@ -22,6 +22,7 @@ topics:
 - development
 - commemoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Paxton Square Rows have been named after Ted Baulderstone, Andrew Gebhardt and Bob Lewis.

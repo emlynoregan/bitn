@@ -21,6 +21,7 @@ topics:
 - crime
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  J. Glasson, who is working at Baldina, had to come into Burra last Thursday night and while he was away someone burnt his tuckerbox, horse feeders and other items.

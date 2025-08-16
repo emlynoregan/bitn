@@ -22,6 +22,7 @@ topics:
 - assistance
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Seed Wheat Scheme.  Most applicants for seed wheat reside at Baldina.  There were 15 applicants with requirements of from 30 to 165 bushels making a total of 875 bushels.

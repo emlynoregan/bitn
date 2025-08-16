@@ -20,6 +20,7 @@ topics:
 - publishing
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Reporter, 2nd issue has been received from Mr Wittber.  He draws attention to the lack of interest in the penny bank.

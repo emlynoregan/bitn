@@ -21,6 +21,7 @@ topics:
 - industry
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  New Lime Kiln in Lower Thames St.  Mr C. Woodruff.  Amounts from 1 bushel upwards.

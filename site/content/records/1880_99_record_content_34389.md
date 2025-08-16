@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  In the past few days someone has smashed one of the arms of the fountain in the Avenue.  It consisted of solid cast iron over 1” thick.

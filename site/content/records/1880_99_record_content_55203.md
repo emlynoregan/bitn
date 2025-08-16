@@ -33,6 +33,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Show was held on 14 November.  Despite the recent hot weather it was a great success.  Mr [H.C.] W. Fuss was the most successful competitor.  Mr Fuss can perhaps boast the best laid out garden outside Adelaide and his collection cannot be beaten anywhere.  The old gentleman is now feeling the result of declining years and very much of the garden work falls to his sons.  The best vegetables came from C. Oppermann and Miss Oppermann also had fine exhibits of flowers as did the Misses Baker.  As usual Dr Brummitt was also well represented.  [The Oppermann’s were Mr Fuss’s neighbours in Llwchwr.]  There was music in the evening from the Burra Orchestra and the Misses Sprod and Parkin played piano selections.  The Burra Brass Band played selections outside for half an hour.

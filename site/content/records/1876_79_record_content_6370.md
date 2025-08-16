@@ -19,6 +19,7 @@ topics:
 - construction
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Miners' Arms. The tenders for the new building were 100% above the architects estimate.

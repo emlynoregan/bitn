@@ -23,6 +23,7 @@ topics:
 - mining
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mine was inspected by Captains Hancock, Higgs and Osborne in the last week, but we have been unable to obtain any reliable information as to the cause of the inspection.

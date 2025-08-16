@@ -19,6 +19,7 @@ topics:
 - parade
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  The first parade of the company in new uniforms was generally admired.  It is hoped a large muster will attend the review on 20 June.

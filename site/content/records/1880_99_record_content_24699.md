@@ -19,6 +19,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mt Gambier Railway should be open in a few weeks.  At present it is open to Naracoorte.

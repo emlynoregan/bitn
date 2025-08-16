@@ -20,6 +20,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway.  The Orroroo-Quorn line has been completed to the stage where the contractors can carry passengers right through by arrangement.

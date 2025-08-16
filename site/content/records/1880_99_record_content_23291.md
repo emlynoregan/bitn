@@ -19,6 +19,7 @@ topics:
 - advertisement
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Races will be on 1 November 1886.

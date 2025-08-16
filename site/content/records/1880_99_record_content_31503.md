@@ -19,6 +19,7 @@ topics:
 - horticulture
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Cave has been writing to the Register on the best way to grow chrysanthemums.

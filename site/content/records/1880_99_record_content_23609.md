@@ -21,6 +21,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Next Thursday Evening there will be an Entertainment at the Institute in aid of the St Joseph’s School Funds.  1/- & 6d.

@@ -19,6 +19,7 @@ topics:
 - diggings
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Interest in the field is increasing and reports say that many men are doing well.

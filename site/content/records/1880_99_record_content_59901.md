@@ -22,6 +22,7 @@ topics:
 - show
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Cave has some remarkably fine chrysanthemums on show despite the recent bad weather.  Some are enormous blooms and some are new additions to his stock.  Messrs Harvey, Lewis and Pearce also have some fine examples.

@@ -20,6 +20,7 @@ topics:
 - tennis
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare 126 games defeated Burra 94 games, by 34 games. [sic] [At least one of the numbers must be in error.]

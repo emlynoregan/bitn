@@ -54,6 +54,7 @@ topics:
 - community
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Income for the year 1891	£596-7-6

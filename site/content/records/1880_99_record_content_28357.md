@@ -19,6 +19,7 @@ topics:
 - libel
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ has been circulating a libel upon the community and while we would usually ignore such a handbill we consider its abuse of the community makes it worthy to note, as it will recoil upon its writer.

@@ -28,6 +28,7 @@ topics:
 - taxation
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 29 October 1875, page 6

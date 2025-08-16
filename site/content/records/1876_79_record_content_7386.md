@@ -19,6 +19,7 @@ topics:
 - school
 - provisional recognition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse School. We think if the young man now teaching at Copperhouse were to apply for the school to be recognised as a provisional one the request would be granted.

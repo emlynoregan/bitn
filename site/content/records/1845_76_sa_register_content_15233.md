@@ -18,6 +18,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A disgraceful ‘tinkettling’ case on the occasion of a recent wedding has given rise to a court case.  One of the pranksters has been charged with creating a disturbance and breaking the peace.  The case has been remanded to the Full Court.

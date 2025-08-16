@@ -21,6 +21,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  There was tea and supper and ‘a big go’ 22 & 23 July.  Major Dean, in charge of the Northern Division, and Divisional Accountant Capt. Bull visited.  Despite rain there was an afternoon open-air service and then a meeting at the barracks.  Monday was more conducive to open-air meetings after which there was tea at the barracks.  £18 profit resulted.

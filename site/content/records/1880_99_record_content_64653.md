@@ -21,6 +21,7 @@ topics:
 - education
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madam Pownhall is in Burra for a short time and can offer instruction in painting on velvet.  No doubt our young girls will accept this rare opportunity.

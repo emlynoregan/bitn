@@ -32,6 +32,7 @@ topics:
 - institute
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Reading Room.  There was a meeting at the Royal Exchange Hotel on Tuesday with Thomas Davies in the chair.

@@ -20,6 +20,7 @@ topics:
 - mining
 - remittances
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Remittances from the Diggings.  The Overland Mail advised that some thousands of pounds have been remitted from Melbourne to Adelaide, chiefly as a result of successful labour at the diggings.

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Christy Minstrels gave an entertainment at the Burra Hotel on Tuesday to a crowded house.  It was an excellent performance and the £15 taken will go to paying for scenery, clothes, etc.

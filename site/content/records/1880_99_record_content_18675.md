@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Glee Club’s concert on Wednesday last was musically a great success, but the hall was only about half full and ‘demonstrated once more the incapacity of our townsfolk to appreciate local talent or good music, and the need there is for striving to educate them up to something better, rather than to pander to a low taste for broad farce.’

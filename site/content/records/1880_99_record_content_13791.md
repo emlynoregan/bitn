@@ -23,6 +23,7 @@ topics:
 - police
 - institution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Banks, brother of the late W.H. Banks of Kooringa, has been going about the town, obviously of unsound mind.  The police took him in charge and yesterday he was taken to the Lunatic Asylum where he has previously been confined for two years.

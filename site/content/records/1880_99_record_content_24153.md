@@ -21,6 +21,7 @@ topics:
 - property
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cockburn.  Owners of allotments in the town are angry that the line will be worked through to Broken Hill, devaluing their properties.

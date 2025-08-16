@@ -20,6 +20,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  ‘Novel Entertainment’ organised by John Roach at the Institute.  1/6 & 1/-.

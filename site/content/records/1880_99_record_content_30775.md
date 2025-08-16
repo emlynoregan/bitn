@@ -21,6 +21,7 @@ topics:
 - music
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Musical Union gave a concert on Wednesday when oppressive weather saw a smaller audience.  Burra Brass Band played several selections outside the hall.

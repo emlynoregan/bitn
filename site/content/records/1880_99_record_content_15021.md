@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 North Ward Councillor is required next meeting to submit a scheme re the Aberdeen water troughs.

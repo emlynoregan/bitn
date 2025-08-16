@@ -20,6 +20,7 @@ topics:
 - frost
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crops.  The report of frost damage to crops in Wonna and near Terowie is denied by locals.

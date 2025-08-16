@@ -21,6 +21,7 @@ topics:
 - church
 - scandal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.M. Donaldson, Anglican minister at Kapunda, is charged before an ecclesiastical court with having married again while his wife is still alive.  He claims he had good reason to believe his wife to be dead.

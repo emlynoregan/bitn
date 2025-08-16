@@ -21,6 +21,7 @@ topics:
 - travel
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder is off to the McDonald Ranges next week.  [Actually to the MacDonnell Ranges in Central Australia.]

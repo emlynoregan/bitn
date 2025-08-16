@@ -21,6 +21,7 @@ topics:
 - employment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders for a new assessment were opened and held over for consideration.  W.H. Hardy’s was £14-10-0 and A. Bartholomæus was £25.

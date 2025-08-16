@@ -20,6 +20,7 @@ topics:
 - labor
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Correspondent continues to report charges etc. arising from the recent strike and the arrival of the blackleg workers: some 200 from Melbourne.

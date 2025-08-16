@@ -22,6 +22,7 @@ topics:
 - hobbies
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Social Club.  Frederick Richmond writes re the club which meets at Mrs Roe’s School on Thursday evenings.  [This appears to have been associated with the General Temperance Society.]  It encourages singing and hobbies like butterfly collecting, stamp collecting, woodcarving, emu egg carving, cards, dominoes, draughts, and perhaps one day a billiard table.  The president is Dr Sangster.

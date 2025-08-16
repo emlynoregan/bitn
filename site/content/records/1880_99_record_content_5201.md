@@ -21,6 +21,7 @@ topics:
 - hospital
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the course of a ‘drunk in public place’ case Dr Sangster complained of convalescent patients from the hospital going down to hotels and then returning to disturb other patients - this even happened on Sundays when the hotels were supposed to be closed.

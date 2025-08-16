@@ -19,6 +19,7 @@ topics:
 - finance
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 SAMA has declared a dividend of 10/- a share: the first dividend declared for 7 years.

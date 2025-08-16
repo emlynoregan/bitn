@@ -19,6 +19,7 @@ topics:
 - health
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Typhoid continues to be very bad all over the north and is pretty bad in Burra.

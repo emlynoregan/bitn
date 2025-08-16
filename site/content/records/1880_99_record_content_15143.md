@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Sebastian George played on Saturday evening to only a small audience at the Institute.

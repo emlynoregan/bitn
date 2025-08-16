@@ -28,6 +28,7 @@ topics:
 - church
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Affirming what Rev. R.W. Campbell had said in his letter re the resignation of E. Lipsett from the church membership. Signed: -

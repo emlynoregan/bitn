@@ -20,6 +20,7 @@ topics:
 - dispute
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes to say he is not surprised at the comments the editor made about him in the last issue.  It is only natural since they have such opposite views.  He says the editor is known to be a supporter of those with large purses and would naturally seek to silence a voice supporting the poor and oppressed.  Hardy alleges that the editor altered his letters to make them more vulgar, and then complains of it!

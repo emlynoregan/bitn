@@ -19,6 +19,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. First Burra Show; 12 September at the E. & A.C. Co.'s Smelting Works.

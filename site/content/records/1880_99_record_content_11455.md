@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A meeting is called at the Commercial Hotel on Wednesday next with the object of forming a Quoits Club.

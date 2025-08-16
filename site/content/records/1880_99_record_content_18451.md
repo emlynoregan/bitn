@@ -22,6 +22,7 @@ topics:
 - speech
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. G.E. Rowe also spoke in support and on behalf of members of his church.

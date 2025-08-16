@@ -18,6 +18,7 @@ topics:
 - short story
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 27 Jul.	VI-VIII	The Tiff	X	X		X	X	X	X

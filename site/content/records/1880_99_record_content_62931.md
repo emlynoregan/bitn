@@ -27,6 +27,7 @@ topics:
 - sports
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Junior Foresters Picnic at Springbank on Wednesday was a great success on Mr John Bagg’s property.  The lads marched from the Court Room through Commercial St to J. Lewis’s schoolroom and then Bro. W.H. March drove them to the picnic in a large coach.  Cricket, running, and jumping were followed by an inspection of sheep shearing.  Photos were taken by W.J. Davey.  Results of the sports are printed.

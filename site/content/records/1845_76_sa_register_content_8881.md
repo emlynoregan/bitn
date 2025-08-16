@@ -23,6 +23,7 @@ topics:
 - transport
 - emigrants
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Wanted, drays to convey emigrants and goods to the Burra Burra Mines.  Apply to Captain Scott, Port Adelaide, or at the office of the SA Mining Association.

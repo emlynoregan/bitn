@@ -40,6 +40,7 @@ topics:
 - shares
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 As for the Burra Burra: the lode is being cut in undiminished richness at the 40 fathom at 40-50% richness.  Ayers’ Shaft has reached the 40 fathom level and they are driving on lode. (Kingston’s North Lode)  The ground in the 40th requires a good deal of timbering and the uneasiness of shareholders saw shares changing hands at £142 when news was received that they had struck the lode.  Shares immediately rose to £160.  This news was also reassuring for Messrs Schneider & Co.  In the past sic months 622 tons of copper have been delivered to the Burra Burra Company and that with only about half of the smelting furnaces at work.  This will materially reduce the cartage costs for ore.

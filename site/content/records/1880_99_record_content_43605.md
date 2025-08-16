@@ -21,6 +21,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The new incumbent, Rev. A.G. King from Strahan in Tasmania is expected this week.

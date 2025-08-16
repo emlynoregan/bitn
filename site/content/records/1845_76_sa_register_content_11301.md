@@ -21,6 +21,7 @@ topics:
 - visit
 - return
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 His Excellency the Governor with Lady MacDonnell and their suite, returned to Adelaide yesterday, as well as they might be after such a fatiguing journey.  The party appears to have been much pleased with the country they visited on this tour and His Excellency cannot but be gratified as a Governor with the enthusiastic loyalty which has everywhere been manifested, and as a man with the high esteem for himself and Lady MacDonnell, which has been evidenced with equal clearness.

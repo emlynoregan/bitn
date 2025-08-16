@@ -20,6 +20,7 @@ topics:
 - lease
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Messrs Bath & Bosance have obtained liberty to begin operations on their lease from Mr Fisher, who could have delayed them for six months.

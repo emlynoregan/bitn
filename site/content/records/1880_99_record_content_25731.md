@@ -17,6 +17,7 @@ topics:
 - publication
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The timetable book just published is a great improvement, with a map, times and fares for 1d.

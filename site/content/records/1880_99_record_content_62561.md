@@ -22,6 +22,7 @@ topics:
 - construction
 - reformatory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Gaol/Reformatory.  John Pearce has won the tender for building at the gaol to convert it for use as a girls’ reformatory.  The work should be done by October.

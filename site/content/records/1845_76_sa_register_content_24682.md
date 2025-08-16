@@ -20,6 +20,7 @@ topics:
 - entertainment
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Madame Carandini and he accomplished daughters with Messrs Sherwin & Gordon gave concerts at the Burra Assembly Rooms to well-filled houses.  The audiences were very appreciative and demanded frequent encores.

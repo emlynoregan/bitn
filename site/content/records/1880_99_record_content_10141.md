@@ -19,6 +19,7 @@ topics:
 - real estate
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sale of allotment with 50’ frontage to Chapel St and depth of 175’ on which are erected the walls of a seven-roomed villa.  Also a good well.  Liston Shakes & Co.

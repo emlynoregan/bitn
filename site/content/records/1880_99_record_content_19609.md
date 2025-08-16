@@ -21,6 +21,7 @@ topics:
 - minstrel
 - program
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Program for 9 November.  Grand Christy Minstrel Entertainment

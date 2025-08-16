@@ -18,6 +18,7 @@ topics:
 - politics
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Parl. Club: mostly taken up with the formation of a new ministry.

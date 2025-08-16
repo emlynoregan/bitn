@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The road from Kooringa to the Mine store is progressing fast.  All the cutting is nearly completed, the metal broken and so, little remains to be done.

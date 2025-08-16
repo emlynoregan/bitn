@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 20 August, at Aberdeen, Elizabeth Hill, the wife of Adolph G. Topperwein, aged 21 years 9 months.  [Born Elizabeth Hill Fordham 31 October 1859.]]

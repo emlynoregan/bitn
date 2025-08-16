@@ -29,6 +29,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On 3 March a crowd of almost all the adult male population of the townships gathered at the Burra Hotel when it was known that G.S. Kingston has arrived.  Mr Lang also attended and the chair was taken by Dr Bull.

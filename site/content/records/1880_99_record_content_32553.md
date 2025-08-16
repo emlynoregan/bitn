@@ -19,6 +19,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The season opens tomorrow when 25 Muffs will play 15 of the Burra team.

@@ -19,6 +19,7 @@ topics:
 - community
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cousin Jenny & Aunty Betty pursue a similar point in an article that runs for most of a column.

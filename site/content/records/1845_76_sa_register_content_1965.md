@@ -21,6 +21,7 @@ topics:
 - stagecoach
 - horses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Next Saturday at 10 o’clock the Reformer stage-cart departs for the Burra Burra, making Bagot’s Mine the first night and proceeding via Princess Royal Mines.  Fare £1.

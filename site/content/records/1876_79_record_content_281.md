@@ -20,6 +20,7 @@ topics:
 - stationery
 - safe
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [As separate or joint positions.]

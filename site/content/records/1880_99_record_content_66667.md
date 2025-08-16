@@ -19,6 +19,7 @@ topics:
 - industry
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kapunda Mine.  A company has been formed to restart the Kapunda Mine.

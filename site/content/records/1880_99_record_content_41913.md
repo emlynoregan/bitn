@@ -21,6 +21,7 @@ topics:
 - tennis
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  Few tennis players turned up for the Bairnsfather concert so no funds were raised to help establish courts at the Recreation Ground.

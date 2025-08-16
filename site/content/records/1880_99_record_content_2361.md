@@ -19,6 +19,7 @@ topics:
 - civic
 - clarification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor.  Mr Lane assures us he did not sign the address to Mr Lipsett ‘on behalf of the inhabitants’.  He simply attached his signature with the title of Mayor following it.

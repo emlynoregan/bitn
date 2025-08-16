@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - advertising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Most advertising clients appear to prefer their announcements to be weekly.

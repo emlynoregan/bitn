@@ -19,6 +19,7 @@ topics:
 - government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  The Cabinet has decided that Government assistance will be extended to three gold mines under the terms of the Gold Mining Act of 1885.

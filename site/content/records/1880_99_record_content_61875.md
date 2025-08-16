@@ -20,6 +20,7 @@ topics:
 - agriculture
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Agricultural Census.  Police have been ordered to take the agricultural and stock statistics for the Burra District.  It is four years since the last count.

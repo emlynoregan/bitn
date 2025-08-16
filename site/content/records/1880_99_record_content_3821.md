@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to the wife of John Pearce at Aberdeen on 9 April, a son.  [Alfred Ernest Pearce]

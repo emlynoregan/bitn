@@ -22,6 +22,7 @@ topics:
 - trade
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  The line is now open to Manna Hill.  Terowie has reported a loss of trade to the new railhead.  [The railhead was soon to move on to Cockburn for a time, but ultimately, of course, to Broken Hill.]

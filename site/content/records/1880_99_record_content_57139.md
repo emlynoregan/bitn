@@ -21,6 +21,7 @@ topics:
 - unauthorised_work
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The debate surrounding the resolution allowing the work on the road in Ayers Street is printed.  It includes reference to work done by a Councillor in North Ward that was not authorised by Council.

@@ -20,6 +20,7 @@ topics:
 - sale
 - estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Unicorn Brewery. The sale of the Unicorn Brewery and 19 Freehold and Leasehold Hotels and Public Houses is ordered by the administratrix of the estate of the late William Henry Banks.

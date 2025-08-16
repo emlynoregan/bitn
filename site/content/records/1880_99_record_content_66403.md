@@ -20,6 +20,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At a meeting on Monday at Mr Pascoe’s shop the Hon. John Lewis accepted the position of President.  There is a credit balance of c. £4 and 34 playing members with 12 honorary members. The club owns four good footballs to start the season.

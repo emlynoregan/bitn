@@ -22,6 +22,7 @@ topics:
 - concert
 - social event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The German Choral Society gave a concert in the large room at the Burra Hotel on Monday last, to which they invited the principal residents.  A strong following attended. They were assisted by Messrs Chapman & Ware, who sang a duet, and by Messrs Siekemann & Chapman who sang several songs.  A ball followed the concert.

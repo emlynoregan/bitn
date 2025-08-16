@@ -18,6 +18,7 @@ topics:
 - education
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Miss Sleep’s newly enlarged classroom re-opens on 13 July.

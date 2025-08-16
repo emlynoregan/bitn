@@ -21,6 +21,7 @@ topics:
 - budget
 - emergency services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  Due to cuts in SA Government expenditure Council has been forced to cut SES allocation from $10,000 to $6,000.

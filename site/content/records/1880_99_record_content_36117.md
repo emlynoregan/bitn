@@ -19,6 +19,7 @@ topics:
 - policy
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election.  Reprint of a 1 column article from the Star (The organ of the Trades & Labour council of SA) on the Policy of the SA Government.

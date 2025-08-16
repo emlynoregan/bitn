@@ -22,6 +22,7 @@ topics:
 - instruments
 - household
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.T. Shortridge	Branch of A.W. Dobbie & Co. – Pianos, Organs, Sewing Machines, Watches, Mangles, Washing Machines, Wringers, Seedsowers & Spray Pumps

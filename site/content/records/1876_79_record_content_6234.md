@@ -20,6 +20,7 @@ topics:
 - presentation
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. R.W. Campbell received a presentation of a purse of 21 sovereigns by Messrs Holder & Roach last Monday.

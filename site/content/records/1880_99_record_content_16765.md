@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to the wife of H.C.R. Batchelor at Queenstown on 1 March, a daughter.  [Maud Gladys Batchelor]

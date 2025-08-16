@@ -19,6 +19,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D.S. Packard has grown a huge cabbage in his garden near the smelting works: 2’11” in diameter (8’9”in circumference)

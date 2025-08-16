@@ -17,6 +17,7 @@ topics:
 - entertainment
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment: we cannot say much for the concert on Friday night.

@@ -23,6 +23,7 @@ topics:
 - performance
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 She’ll be Riot performed at Redruth Gaol during the Copper Festival weekend by Flinders University Drama Centre was greatly enjoyed.  About 800 people saw the two performances on Saturday and Sunday nights, but 400 more were disappointed when Monday’s show was cancelled due to inclement weather.  The show was based on Burra and its history with particular regards to the gaol.  It was a promenade performance using a variety of locations for the first half, presenting cameos of Burra life.  Food was supplied in the interval and the second half took place in one of the exercise yards where there was a pot-pourri of activities.  There were puppets, Cornish wrestling, and activities over the underground tank area and up onto the roof as one of the reformatory girls attempted to escape.  The audience was finally led out the back gate and then around the walls to a large bonfire at the front.  It was written by Ken Harper and directed by Jules Holledge.

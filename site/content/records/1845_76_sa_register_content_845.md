@@ -25,6 +25,7 @@ topics:
 - transport
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  On Tuesday at 10 a.m. W.G. Nicholl’s covered cart with three or four horses will start for Burra and Princess Royal Mines.  Fare £1.  The cart passes the Grand Junction and Captain Bagot’s Mines.  Women and children will find this a very comfortable conveyance, as they are sheltered from wet, heat and dust.  The cart will proceed beyond Burra Burra Mines northwards at 2/- per mile if inducement is offered.

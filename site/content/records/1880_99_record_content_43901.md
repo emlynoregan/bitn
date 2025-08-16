@@ -21,6 +21,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Circuit met under Rev. R.M. Hunter at Mr T.W. Wilkinson’s on 31 December.  The meeting endorsed the principle of Methodist Union.

@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie residents are complaining that the new mail route excludes them from regular service.  Their mail service is now inferior to places 400 miles from the city – delivery now depends on the doubtful chance of persons coming from Kooringa.

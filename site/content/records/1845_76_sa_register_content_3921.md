@@ -19,6 +19,7 @@ topics:
 - meeting
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wheal Gawler Mines.  The first annual meeting of shareholders is reported along with the first annual report.

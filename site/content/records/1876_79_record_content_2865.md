@@ -20,6 +20,7 @@ topics:
 - economy
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines. [This announcement on page 3 of the paper has no headline and runs for about 10cm of one column!]

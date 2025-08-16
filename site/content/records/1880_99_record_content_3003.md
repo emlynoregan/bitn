@@ -19,6 +19,7 @@ topics:
 - environment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Dunstan gave notice of a tree-planting rate to be decided at the next meeting.

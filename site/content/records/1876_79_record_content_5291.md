@@ -19,6 +19,7 @@ topics:
 - cemetery
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Cemetery. The curator is to make arrangements in the cemetery pending its enlargement. Sir Henry Ayers is to be reminded of his promise 8 months ago to make title of the new ground over to the Town Council.

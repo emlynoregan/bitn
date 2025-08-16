@@ -22,6 +22,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club shooting continued last Wednesday when A Bennetts with 66, won the bag of spuds, Moore with 65 won 12 lb of cod and W. Page with 62 secured a clock.

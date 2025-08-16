@@ -20,6 +20,7 @@ topics:
 - lunacy
 - arrest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lunacy.  A Hindu hawker was reported as going mad at Mt Bryan on Monday, armed with a knife.  He was captured and brought to Redruth for questioning.

@@ -20,6 +20,7 @@ topics:
 - social conditions
 - swagmen
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church.  Last Sunday evening Rev. R.J. Daddow gave an address to an attentive and large audience on Rags, Swags and Waterbags – a sympathetic appraisal of the plight of swagmen and sundowners who searched for work in these times of difficulty.

@@ -19,6 +19,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Bible Christian Sunday-school Anniversary will be on 24 & 25 May with sports and a picnic at the picnic ground on 25th.

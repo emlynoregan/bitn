@@ -23,6 +23,7 @@ topics:
 - event
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The 2nd Annual Military Ball will be held in the Institute tonight in the presence of General Downes and Major Stewart.  Setaro’s Canary String Band from Adelaide will play.

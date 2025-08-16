@@ -23,6 +23,7 @@ topics:
 - death
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A miner named S. Noel has lately been working at Moonta and was injured there by a stone falling on his arm.  He was compelled by the injury to cease work and return disabled to his wife and family.  The wound worsened and when mortification set in he died quite suddenly leaving a wife and four children.

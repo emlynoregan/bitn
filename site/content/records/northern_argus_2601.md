@@ -22,6 +22,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Edward (Ted) Thomas Baulderstone born 1 September 1904 Clarence Park: died 30 April 1897 Elizabeth.]

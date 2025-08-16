@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A shoeing smith employed by Cobb & Co. fell when trying to get on a dray last Monday.  The wheel passed over his arm, fracturing it in two places.

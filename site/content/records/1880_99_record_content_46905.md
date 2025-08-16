@@ -20,6 +20,7 @@ topics:
 - council
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Pro Bono Publico’ writes warning Cr Rabbich that people in glass houses should not throw stones.  Neither should he get others ‘to fire your bullets’.

@@ -19,6 +19,7 @@ topics:
 - tender
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called for 5,000 ore bags for the Burra Burra Mines.

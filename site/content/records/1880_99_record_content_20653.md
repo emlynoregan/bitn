@@ -20,6 +20,7 @@ topics:
 - police
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Theft.  Someone got into J.R. Gray’s garden at Redruth on Sunday and stole all the fruit.  £2 reward is offered.

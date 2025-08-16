@@ -21,6 +21,7 @@ topics:
 - employment
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.   A few men are still working and earning wages.  The lessee of the smelting works says he will treat the slag as soon as water is laid on and when stamping and jigging machinery arrives.  Within three months he hopes to have a dozen boys at work.

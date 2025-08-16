@@ -19,6 +19,7 @@ topics:
 - licensed victuallers
 - community standards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial against the flagrant flouting of the Sunday Closing provisions of the Licensed Victuallers Act by Burra hotels.

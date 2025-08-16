@@ -20,6 +20,7 @@ topics:
 - editorial
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Queen’s Jubilee & complaints about the train timetable for the Jubilee Exhibition expresses.  The excursion fares were half the normal price, but applied only to the period 13 June to 20 July.  ‘This period will be extended if this arrangement proves to be a public convenience’.

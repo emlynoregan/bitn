@@ -23,6 +23,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roach gave his lecture on his trip to Norway to a packed Institute on Monday evening and even some ticket holders could not get seats.  The views were excellent and the lantern superb.  Mr Adamson showed over 100 slides.  The Benevolent Society benefited by £15.

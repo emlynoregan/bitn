@@ -20,6 +20,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A football match Burra 1st 15 versus Burra 2nd 25, will be played Tuesday 1 September, in aid of the Poor Fund.

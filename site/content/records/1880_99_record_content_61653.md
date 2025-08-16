@@ -20,6 +20,7 @@ topics:
 - hospital
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital is crowded at present with a number of typhoid cases.

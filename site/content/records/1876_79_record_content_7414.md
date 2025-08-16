@@ -22,6 +22,7 @@ topics:
 - fencing
 - urban planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cr Ridgway's motion to cause the fencing of vacant land in Best Place, Morehead St and Ludgvan St was carried.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gifts.  A sale of gifts will take place this afternoon in the Bible Christian Schoolroom.

@@ -34,6 +34,7 @@ topics:
 - horticulture
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Annual Show.  The 3rd annual show of Burra & North Eastern Agricultural, Horticultural & Pastoral Society was held last Wednesday and was a great success with record attendance and the gate up £10-£11 on last year.  The weather was not good with intervals of drizzling rain and high wind.  People nevertheless came in large numbers.  Preparations had been excellent.

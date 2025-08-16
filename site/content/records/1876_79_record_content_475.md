@@ -20,6 +20,7 @@ topics:
 - public nuisance
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 James Tiver writes complaining of straying horses and cattle after dark.  They are a great nuisance, particularly to women and children and to the teamsters who have to stay up at night to guard their horses to protect them from starved strays seeking to eat their feed.

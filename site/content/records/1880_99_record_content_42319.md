@@ -18,6 +18,7 @@ topics:
 - military
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A great run on monckey [sic] soap for cleaning accoutrements of Mounted Infantry

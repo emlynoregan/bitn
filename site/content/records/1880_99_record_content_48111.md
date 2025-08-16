@@ -21,6 +21,7 @@ topics:
 - advertisement
 - auctioneers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dempsey, Wilkinson & Sandland	Auctioneers, Kapunda & Kooringa

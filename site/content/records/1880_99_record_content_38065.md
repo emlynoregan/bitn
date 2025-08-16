@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sarah Bock died 11 August at her daughter’s, Mrs J. Edmunds, Terowie, aged 52.  She was the widow of the late William Bock and a resident of Burra for 26 years.  [

@@ -22,6 +22,7 @@ topics:
 - terminology
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note that the terminology for the group is inconsistent.  In the same report it is referred to as the Burra Mounted Infantry Company and in another as the Burra Division of Mounted Rifles.  The terms Mounted Infantry and Mounted Rifles continued to be used interchangeably.]

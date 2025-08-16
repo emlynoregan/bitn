@@ -19,6 +19,7 @@ topics:
 - education
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davieston had 27 enrolled, an average attendance of 16 and no free scholars.

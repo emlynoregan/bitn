@@ -20,6 +20,7 @@ topics:
 - police
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offences.  Two drunken riders left Aberdeen for Kooringa on Wednesday.  One ended up in hospital and the other was fined 40/-.

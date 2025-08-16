@@ -19,6 +19,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra Co. RVF 78 defeated Aberdeen 20 & 154, on the first innings.

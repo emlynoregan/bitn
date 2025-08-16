@@ -23,6 +23,7 @@ topics:
 - economy
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘An Old Experienced Miner’ writes on the subject of Grants or Leases for Mineral Lands.

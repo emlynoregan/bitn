@@ -22,6 +22,7 @@ topics:
 - community
 - event treatment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  ‘Observer’ writes in disgust, that members of the Burra Brass Band who had played at the Redruth Wesleyan Sunday School picnic on 9 November, free of charge, were given no refreshments and asked to pay for some tea when they required it.  This, even though they had agreed to play only if treated better than in 1880.

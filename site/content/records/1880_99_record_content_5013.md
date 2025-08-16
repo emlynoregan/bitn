@@ -19,6 +19,7 @@ topics:
 - sanitation
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The inspector’s report was unfavourable to the town piggeries and the Council resolved to visit the same the next day.

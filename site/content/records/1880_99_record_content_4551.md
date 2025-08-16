@@ -22,6 +22,7 @@ topics:
 - bridge
 - subsidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide.  The water level is rising in the dammed River Torrens, but there has been subsidence in the retaining walls of the Adelaide Bridge.

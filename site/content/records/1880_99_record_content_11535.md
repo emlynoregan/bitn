@@ -21,6 +21,7 @@ topics:
 - debate
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Phoenix’ writes in reply to James Tiver to deny he blamed the latter for being the sole reason for the delay in the Waterworks.  Phoenix did say something about the singular reasons Tiver gave for not being informed on the subject and Phoenix certainly did not want things done without due consideration, or for the ratepayers to be heavily taxed.  He did say the waterworks had been sufficiently considered for a decision to be made.  He also took issue with ‘Typhoid’.

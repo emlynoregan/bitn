@@ -19,6 +19,7 @@ topics:
 - almanac
 - postal regulations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Record.  With today’s issue we present a four-colour almanac with photos of the Australian Governors, particulars of postal and railway regulations, Burra Institute, Lodges, cab fares, Burra markets, District Council, Court, Insurance Companies and Burra Literary Soc. etc.

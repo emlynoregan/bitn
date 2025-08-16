@@ -28,6 +28,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.   Richard Knuckey, late a fireman at the Burra Mine was found dead this morning on the Clare Road about a mile from Kooringa.  The horse he had been riding was caught in the town yesterday morning.  It seems the deceased left the Cross Roads Inn on Monday evening about 5 p.m. to ride into Kooringa and was not seen again until the body was discovered this morning by a lad named Oliver.  The body was removed to the Aberdeen Hotel where an inquest will be held tomorrow.  Mr Macdonald being absent and the local gentlemen gazetted as JPs not yet being sworn in, the police have had to telegraph to Clare for a coroner to attend.

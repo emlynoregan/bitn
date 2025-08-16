@@ -18,6 +18,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo match and sports on 21 April is likely to see a team from Broken Hill to challenge the locals.

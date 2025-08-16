@@ -19,6 +19,7 @@ topics:
 - celebration
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Freemasons gave a grand ball on Thursday.  About 80 ladies and gentlemen attended.

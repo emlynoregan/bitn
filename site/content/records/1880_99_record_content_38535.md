@@ -22,6 +22,7 @@ topics:
 - watercourse
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ considers a public meeting would be better than legal advice in the matter of the dispute between the Council and Bagot, Shakes & Lewis over the watercourse.

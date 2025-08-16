@@ -19,6 +19,7 @@ topics:
 - council
 - finances
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.R. Ridgway of c. ½ column having another go at Council finances.

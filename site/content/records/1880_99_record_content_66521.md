@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  A successful concert was held in St Mary’s schoolroom on Wednesday evening to aid the flower stall at the forthcoming strawberry fete.  £6 was raised.

@@ -23,6 +23,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Joseph Moulden Belcher, for many years post and telegraph master at Burra and who retired about a year ago, died 3 January in North Adelaide.  He had a stroke some time ago and just before his death suffered two more.  His eldest son is the post and telegraph master at Terowie.

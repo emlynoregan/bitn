@@ -21,6 +21,7 @@ topics:
 - public order
 - editorial response
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor replied that the police can only act if asked to do so by the organisers.  Those for the Penny Readings did ask: the BYMU did not.  Why not?

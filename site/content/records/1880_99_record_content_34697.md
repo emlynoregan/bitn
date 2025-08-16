@@ -19,6 +19,7 @@ topics:
 - fire
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A large grass fire broke out on Friday afternoon last on land recently occupied by William Halliday at Baldina and much smoke could be seen from the town.

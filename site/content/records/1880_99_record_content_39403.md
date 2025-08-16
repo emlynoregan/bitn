@@ -20,6 +20,7 @@ topics:
 - music
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Choir and Sunday School gave a concert on Wednesday 17 December of Cornish Carols, other songs and recitations as well as organ solos by Mr Noyes.

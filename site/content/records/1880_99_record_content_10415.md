@@ -38,6 +38,7 @@ topics:
 - social purity
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Public Meeting at the Institute on Wednesday had the Mayor in the chair.  The 1st motion approving the Govt’s taxation policy was moved by Cr Sampson.  The poor paid more than their due through customs duty and a tax on real and personal property would be fairer.  Cr Ward 2nd.  Though imperfect this was a move in the right direction said Mr Holder.  As the 1st £500 was exempt it did not fall on the poor and at 8/4 per £100 over that, it was not excessive.  P. Lane also thought it imperfect, but supported the principle.  Carried with one dissention.

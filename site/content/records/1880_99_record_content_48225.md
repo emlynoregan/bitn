@@ -26,6 +26,7 @@ topics:
 - accident
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire broke our at T. Warnes’ paddock at Kooringa on Saturday afternoon.  This threatened the brewery paddock, but the fire did not manage to leap the Baldina Road.  Last year there were two fires in the brewery paddock and one in T. Warnes’. 

@@ -46,6 +46,7 @@ topics:
 - footbridge
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council had paid several accounts that previous Councils ought to have paid and had done good work in tree planting.  The town was a paradise to what it had been a few years ago.  Much good work had been done by the Inspector in the difficult period of the typhoid outbreak early in the year.  The cemetery was in good order and its account in credit.  He was glad the Waterworks had been taken back for three years at 5% and looked like being about £25 in credit at year’s end, despite repaying £69 to the Council and £90 to the Government for stock and material.

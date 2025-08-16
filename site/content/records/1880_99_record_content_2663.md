@@ -18,6 +18,7 @@ topics:
 - literature
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 17 Dec 80	Serpent Ch IX-XI	The Mystery of a Murder	Victorian International Exhibition:	X	X			X		X

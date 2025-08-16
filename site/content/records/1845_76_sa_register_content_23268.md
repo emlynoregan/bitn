@@ -19,6 +19,7 @@ topics:
 - ports
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 He thought the present system of education was subsidising the wrong students.  He also addressed the question of port facilities and the need for taxation reform.  [The speech is reported at length.]

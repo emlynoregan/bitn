@@ -20,6 +20,7 @@ topics:
 - letters
 - local personalities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Cynic’ slings some mud back at ‘Citizen’ and in the process identifies the latter as one who teaches German for 1/- a week.  [Could this be Mr Leibing?]

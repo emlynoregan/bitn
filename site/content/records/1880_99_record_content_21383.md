@@ -19,6 +19,7 @@ topics:
 - mining
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  About 40 men are working on a gold discovery at Manna Hill.

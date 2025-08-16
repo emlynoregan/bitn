@@ -21,6 +21,7 @@ topics:
 - advertisement
 - wheelwright
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Pearse	General Wheelwright in the shop formerly occupied by Messrs Harry & Burns

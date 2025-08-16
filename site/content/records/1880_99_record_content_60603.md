@@ -21,6 +21,7 @@ topics:
 - church
 - mission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Church Mission began last Monday and runs through the week, conducted by Rev. J. Sunter assisted by Archdeacon French.

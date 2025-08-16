@@ -19,6 +19,7 @@ topics:
 - railway
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daviestown Station.  The train has stopped there 330 times in the past year to set down or to pick up a total of 583 passengers and this should justify a favourable reply to the memorial on fares.

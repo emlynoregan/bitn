@@ -22,6 +22,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At Burra Oval on Good Friday: Terowie 85 defeated Burra 30 and 9 for 152. [Decided on 1st innings.]

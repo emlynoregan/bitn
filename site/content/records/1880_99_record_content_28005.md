@@ -19,6 +19,7 @@ topics:
 - entertainment
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Payne Family visited Burra for the 2nd time on 1 March and played to a crowded house.  They were well received and several pieces had to be repeated.

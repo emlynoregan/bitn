@@ -18,6 +18,7 @@ topics:
 - event
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Concert announced for last Friday night, to aid distressed persons, did not come off.

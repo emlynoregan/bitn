@@ -20,6 +20,7 @@ topics:
 - sports
 - bicycle race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boxing Day Sports were postponed to 9 January, but to satisfy those who came in for the day a 3-mile and a 1-mile bike race were run.  A. Boyes won the former and Toms the latter.

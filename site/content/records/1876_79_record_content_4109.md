@@ -20,6 +20,7 @@ topics:
 - industry
 - meat preserving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. J.D. Cave has been appointed Secretary, pro tem, of the committee formed to establish a rabbit meat preserving company at Mt Bryan.

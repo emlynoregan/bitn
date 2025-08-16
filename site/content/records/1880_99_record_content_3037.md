@@ -21,6 +21,7 @@ topics:
 - weather
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  There has been heavy rain with Burra receiving 2.14” between the 7th & 13th Jan.  Mongolata got 1.251” on Tuesday & it is still raining.  On Monday heavy hail fell to the south and west of Burra, some stones were the size of pigeons’ eggs, while a tornado hit Terowie and Orroroo.

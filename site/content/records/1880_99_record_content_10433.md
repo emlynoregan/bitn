@@ -22,6 +22,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  John Lockett, eldest son of James Lockett of Victoria and Rosenia Ann Williams, second daughter of Joseph Williams of Redruth.  6 August.

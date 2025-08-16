@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The only son of R.D. & E. Pascoe died on 27 December 1893, aged 14 months.

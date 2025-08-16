@@ -21,6 +21,7 @@ topics:
 - community
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church repeated the service of song Nell on Sunday.  Rev. T.M. Rowe gave the connective readings.

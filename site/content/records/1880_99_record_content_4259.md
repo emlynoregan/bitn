@@ -20,6 +20,7 @@ topics:
 - streets
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Best Place and Young St alignment is unsure and a survey is needed as soon as possible.

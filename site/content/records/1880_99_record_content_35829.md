@@ -23,6 +23,7 @@ topics:
 - women's franchise
 - divorce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.H. Lake was a long-time resident of Jamestown and had been identified with almost every public institution in the place.  He was a moderate protectionist.  Industry needed some protection, but he was not a prohibitive protectionist.  He could not see an end to all customs and duties without an increase in land tax which would disadvantage farmers.  He was for a land and property tax with exemptions favourable to the man who put his land to use.  [He went into considerable detail on this point.]  He thought the Government spent too much on education.  They spent over £130,000 and fees brought in £11,250.  To do justice to compulsory education it must be free.  The standard should be reduced and up to that standard be compulsory and free.  He was opposed to Bible reading in schools.  He would not feel obliged to vote against capitation if he thought the advocates would not aim for freedom in the methods of education.  He was for women’s franchise and thought adultery the only plea for divorce and would give women equality with men in that.

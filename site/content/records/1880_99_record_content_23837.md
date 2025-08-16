@@ -18,6 +18,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cemetery.  ‘The cemetery is still the recognised recreation ground on Sundays.  The taste of some people is strange.’

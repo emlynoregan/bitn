@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Elizabeth Bevan, wife of Robert Bevan, died aged 66, after a long illness (asthma & paralysis), leaving six sons and 22 grandchildren.  A colonist of 46 years.

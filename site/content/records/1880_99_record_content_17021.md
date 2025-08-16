@@ -20,6 +20,7 @@ topics:
 - religion
 - public addresses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Turnbull (the faith-healer, not the crusader) has been giving powerful addresses in Market Square and the streets this week.

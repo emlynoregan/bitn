@@ -19,6 +19,7 @@ topics:
 - shooting
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shooting Matches on Wednesday were for the Government grant, but the shooting was rather poor.

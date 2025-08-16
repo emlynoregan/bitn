@@ -18,6 +18,7 @@ topics:
 - transport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Special train leaves Burra at 9 a.m., returning at 6 p.m.  Tickets 2/6.

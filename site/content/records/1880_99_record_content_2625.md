@@ -18,6 +18,7 @@ topics:
 - numbering
 - dates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume II, Number 104 on 25 June 1880 and then

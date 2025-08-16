@@ -19,6 +19,7 @@ topics:
 - law
 - colonial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Ilbert Bill, which would allow, in India, British born persons to be tried for criminal offences before Indian native judges with or without juries of natives.  The Bill he finds quite objectionable in either its original or amended forms.

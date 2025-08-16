@@ -27,6 +27,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Artesian Wells. The public meeting at the Institute on 2 May was chaired by the Mayor, Dr Nesbitt. The Mayor stressed the importance of such sources in times of drought and also because surface water was neither good nor healthy for man. W.H. Rosman jnr moved `That the late dry season has demonstrated the fallacy of depending on reservoirs or surface dams for a permanent supply of water.' Kapunda was contemplating spending £50,000 to get a water supply. Boring wells would be more economical. Carried W.R. Ridgway moved a motion which urged the Govt. to make trials of artesian wells in the settled districts. Lessees should have sufficient inducement to test supplies to 10,000 gallons per day with compensation if the land was resumed.

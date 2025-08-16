@@ -20,6 +20,7 @@ topics:
 - business
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The partnership of William Henderson, Hugh McCallum & August Miller, trading as W. Henderson & Co. has been dissolved from 7 April 1887.  The business will continue as William Henderson alone.  (Machinists, Blacksmiths & Wheelwrights)

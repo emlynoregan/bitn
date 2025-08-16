@@ -24,6 +24,7 @@ topics:
 - police
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.W. Crewes writes on 22 March to correct a mistake that appeared in the paper report of 21 March on the death of Richard Tyler where it said he had a cheque on him for £37-17-6.  This was actually the amount owed in wages and was handed to Constable Cyvis* the following day at Mt Gipps Station.

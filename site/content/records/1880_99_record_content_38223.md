@@ -18,6 +18,7 @@ topics:
 - shearers
 - satire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearers.  There is published a nice satirical list of New Rules for Shearers for the 1890-91 Season.

@@ -20,6 +20,7 @@ topics:
 - trees
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on hopes that the Council will plant trees on the eastern side of the new road from the church to Mr Wade’s.

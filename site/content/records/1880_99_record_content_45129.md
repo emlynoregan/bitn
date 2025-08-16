@@ -20,6 +20,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s celebrated Easter in the usual way with the church decorated with green foliage and white flowers on Sunday.  Attendances were good.

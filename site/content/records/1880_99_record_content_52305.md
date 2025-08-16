@@ -18,6 +18,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks account	in credit	£186-1-1	(with £147-2-1 to be collected)

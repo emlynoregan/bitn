@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Commissioner of Public Works sent official notification of the reduction of £640 in the Waterworks capital account.

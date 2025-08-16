@@ -19,6 +19,7 @@ topics:
 - sale
 - sheep
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will offer for sale on 3 April 10,250 sheep.

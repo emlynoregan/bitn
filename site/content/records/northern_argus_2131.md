@@ -22,6 +22,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Mrs Olive Oates has been selected as Burra’s Australia Day Citizen of the Year.

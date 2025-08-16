@@ -23,6 +23,7 @@ topics:
 - education
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Bennet, Headmaster of the Burra School for the last two years, has been transferred to Port Pirie, to be followed by Mr McAloney, from Laura.

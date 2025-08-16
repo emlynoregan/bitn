@@ -22,6 +22,7 @@ topics:
 - tinsmith
 - ironmonger
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 W.H. Pearce	Tinsmith & Ironmonger, Commercial St Kooringa

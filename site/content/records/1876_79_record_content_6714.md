@@ -21,6 +21,7 @@ topics:
 - improvement
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Improvements. The premises lately occupied by Mr J. W. White in Commercial St are to be greatly improved and a new front erected out to the street boundary.

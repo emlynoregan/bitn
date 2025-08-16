@@ -19,6 +19,7 @@ topics:
 - migration
 - demography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  In the last 12 months emigration from SA has exceeded immigration by some 11,000.

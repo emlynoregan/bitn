@@ -20,6 +20,7 @@ topics:
 - goldfields
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  Some men continue to send in some nice specimens of up to 2 oz.  Mr T. Wright has found £25 worth in 14 weeks, of which only about 10 weeks were actually spent in digging.  [This represents about 8/4 a day for 60 days’ labour if we suppose a six-day working week.  This would have been good wages if nett, but little enough if gross, which is what it sounds like.]

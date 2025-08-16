@@ -18,6 +18,7 @@ topics:
 - mining
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Some good specimens have been exhibited from the Scrubbers’ Camp Mine.  The ground is soft and is worked at the rate of £4 a fathom.

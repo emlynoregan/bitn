@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Floodwaters in the creek washed away several sleepers and ballast on Sunday morning from the works of the proposed siding near the railway station.

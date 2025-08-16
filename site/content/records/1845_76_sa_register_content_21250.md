@@ -21,6 +21,7 @@ topics:
 - road
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Width of Tires Act

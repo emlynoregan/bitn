@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another £23 would enable the work to be completed to Aberdeen.

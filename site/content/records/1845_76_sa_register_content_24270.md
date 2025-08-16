@@ -19,6 +19,7 @@ topics:
 - weather
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The weather has been so variable that farmers are now revising their hopes of a good season.  Some rust has appeared, but it is too late in the season to do much harm.  Of more worry is the appearance of grasshoppers.  On the Murray Plains great damage has been done and is still continuing.  Some farmers have lost at least half their crop and one paddock of 250 acres is not considered worth reaping.  Birds are usefully eating them and this should be a lesson to those who shoot all birds for sport.

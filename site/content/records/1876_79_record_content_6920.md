@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 11. 59. 15 August 1879 Page 2

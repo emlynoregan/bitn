@@ -21,6 +21,7 @@ topics:
 - agriculture
 - town decline
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the tendency of the surrounding land to pass into large estates and either become sheep runs or get cultivated on the ‘halves’ system, all of which produces a reduction in population and a decline of towns.

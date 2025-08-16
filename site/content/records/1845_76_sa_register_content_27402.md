@@ -39,6 +39,7 @@ topics:
 - licence
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 J.G. Lamb, Burra Burra Hotel, Kooringa

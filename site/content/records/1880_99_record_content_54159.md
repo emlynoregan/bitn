@@ -23,6 +23,7 @@ topics:
 - education
 - village settlements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Goode & Miss Adamson of the Land Settlement Aid Soc. will lecture at 4 p.m. on 9 July in the Institute to explain the position of village settlers in SA.

@@ -25,6 +25,7 @@ topics:
 - music
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   Burra Institute 25 January.  ‘One Grand Concert’ by the Australian Payne Family: Mr Payne, tenor; Miss Lizzie, soprano, violiniste, & pianiste; Miss Nellie, soprano, violiniste & pianiste; Mr W.J. Payne, baritone & flautist.

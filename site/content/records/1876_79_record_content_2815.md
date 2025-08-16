@@ -21,6 +21,7 @@ topics:
 - hospital
 - advt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A. Beaglehole, appointed collector for Burra Hospital, solicits donations and annual subscriptions. (Advt.)

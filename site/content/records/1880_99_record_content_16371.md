@@ -19,6 +19,7 @@ topics:
 - trees
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  R. Brummitt writes reminding those who undertook to look after young trees, that now was the time they needed the care and water.

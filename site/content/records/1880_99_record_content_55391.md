@@ -21,6 +21,7 @@ topics:
 - race
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Races were held last Thursday.  The attendance was not large and gate takings were £9.  The main race was the Hallett Handicap which was won by J. McAskill’s g. m. Quimbo, carrying 8 st 4 lb and ridden by Webb. (£10)

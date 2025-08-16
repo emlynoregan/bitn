@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Mr T. Scott of Stanley Flat has shown the Northern Argus gold he has won from Ulooloo.  He says colour can be found all over the creek, and believes it will turn out a good poor man’s diggings.

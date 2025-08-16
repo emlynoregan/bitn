@@ -20,6 +20,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  1st meeting for the season of Burra Football Club. At the Commercial Hotel, 7 April.

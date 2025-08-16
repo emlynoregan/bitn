@@ -17,6 +17,7 @@ topics:
 - community
 - gossip
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cousin Jenny & Aunt Betty have almost a column of local gossip n Cornish dialect.

@@ -19,6 +19,7 @@ topics:
 - church
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bishop Kennion, [Anglican Bishop of Adelaide] visits tomorrow.

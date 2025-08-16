@@ -20,6 +20,7 @@ topics:
 - entertainment
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Smith-Kennedy Comedy Co. last Friday at the Institute performed to a very poor house due, no doubt, to the very poor weather.  They staged Pygmalion & Galatea.

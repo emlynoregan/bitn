@@ -23,6 +23,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Elections.  A large requisition was presented last Saturday afternoon at the Burra Institute by a large deputation of the influential people of the district urging F.W. Holder to stand again for the district.  Those who spoke in support included P. Lane JP, (Who handed over the requisition) Dr Brummitt JP, and Mr W. Geake Sen.

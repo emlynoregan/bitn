@@ -20,6 +20,7 @@ topics:
 - fundraising
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The Army has been preparing for self denial week which is a world-wide effort to raise money for their work.

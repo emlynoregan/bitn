@@ -23,6 +23,7 @@ topics:
 - household
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Genuine Clearing Sale by Sandland & Co. for Mr E. Newman who is leaving for Adelaide.

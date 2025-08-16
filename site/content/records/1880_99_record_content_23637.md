@@ -23,6 +23,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Towns from Petersburg to Broken Hill are being depopulated [This would not seem to have required much effort!  What towns?]  Coaches are now running from Manna Hill to Teetulpa and over 300 miners rights have been issued in a week.  It is reported that the train fare to Manna Hill has been cut by 10/-.  [Presumably from Petersburg as the line was still being run by the contractors building the line to Cockburn.]

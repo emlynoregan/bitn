@@ -21,6 +21,7 @@ topics:
 - tenders
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tenders called for E. Lipsett's alterations and additions to his Market Square shop.

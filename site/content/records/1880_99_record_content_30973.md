@@ -20,6 +20,7 @@ topics:
 - council
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 One tender was received for the Town Clerk’s position at £60 and W. Davey was appointed from 6 January.

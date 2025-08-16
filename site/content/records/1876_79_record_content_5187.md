@@ -23,6 +23,7 @@ topics:
 - transport
 - economics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial re complaints about the new railway tariffs and charges by the SA Carrying Co. 

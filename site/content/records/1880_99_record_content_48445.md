@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Children’s Ministering League, Burra Branch.  President, Mrs Wilkinson; Vice-President, Miss Jessie Wilkinson; Secretary, Miss L. Harris; Treasurer Miss M. Newman, and members, have donated two cots to the Burra Hospital as a result of the bazaar held at the end of 1891. [?]  Another bazaar is to be held soon.

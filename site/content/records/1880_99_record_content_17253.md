@@ -20,6 +20,7 @@ topics:
 - war
 - volunteers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War Preparations.  SA has ordered 14 Whitehead torpedoes and fittings and has held an encampment of the volunteer forces at Balaklava.

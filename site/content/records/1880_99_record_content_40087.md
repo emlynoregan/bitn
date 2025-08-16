@@ -22,6 +22,7 @@ topics:
 - governance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Puzzled’ asks who runs the Burra Hospital.  Does it run in the interests of any particular religious organisation in town as a list of Board members suggest the possibility?  Who recommends new members?  The new board included gentlemen ‘who have scarcely been in the town a week, whilst there are dozens of old residents who deserve the honour (if there is any)’.  It appears these public matters are run by cliques.

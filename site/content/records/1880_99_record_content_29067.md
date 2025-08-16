@@ -19,6 +19,7 @@ topics:
 - rain
 - snow
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  There has been more splendid rain in this district and to the south and west and even some in the drier areas.  Last Friday’s snow extended for some distance around the town.

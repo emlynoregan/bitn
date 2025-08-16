@@ -21,6 +21,7 @@ topics:
 - company
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice to Carriers of Ore and Coal for the English & Australian Copper Co.  On or before 20 April all loads of ore and coal delayed on the road must be delivered.  Proceedings will be taken against defaulters.

@@ -20,6 +20,7 @@ topics:
 - report
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He also comments on the Government Geologist’s Ulooloo Report of which he considers ‘the portion of the report referring to results and prospects of the field, is one of the most glaring misrepresentations imaginable’.

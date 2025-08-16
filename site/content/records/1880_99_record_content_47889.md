@@ -25,6 +25,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Players mentioned are H. Bowman, W. Murray, C.W. Bowman, F.W. Whyte, C. Gebhardt and A.G. Gebhardt.  The games attracted many spectators.

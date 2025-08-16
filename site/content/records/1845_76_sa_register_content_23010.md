@@ -17,6 +17,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  Splendid rains have fallen since Sunday, infusing new life into the wheat crops.

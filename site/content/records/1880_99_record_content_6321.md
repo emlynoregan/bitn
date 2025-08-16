@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  Tenders called for the erection of a Dead-house and other additions and alterations.

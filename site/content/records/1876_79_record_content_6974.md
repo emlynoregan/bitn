@@ -23,6 +23,7 @@ topics:
 - bridge
 - local rivalry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. `Observer' writes objecting to the editor's comment that all teams would have to detour through Kooringa while the Redruth Bridge was constructed. The White Hart ford allowed them to bypass the problem and why was no equivalent suggestion made in reverse when the Kooringa Bridge was under construction, despite the steeper gradient at the Kooringa ford?

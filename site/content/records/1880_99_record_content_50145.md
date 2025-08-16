@@ -20,6 +20,7 @@ topics:
 - charity
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Children’s Ministry League Burra Branch, will hold a sale of fancy goods on 20 June.  Last year’s effort got two new cots for the Burra Hospital.  This year’s aim is for two invalid chairs.

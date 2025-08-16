@@ -22,6 +22,7 @@ topics:
 - real estate
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co.  Sale at Queen St by auction on 3 December.  A house of six rooms with household effects on allotment 22 with 107’ frontage to Queen St and 105’ deep.  The home of J. Richards who is leaving the district.

@@ -21,6 +21,7 @@ topics:
 - law
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  Legal advice has been given that Police Stations could be charged for water and a mode of procedure was suggested and will be implemented.

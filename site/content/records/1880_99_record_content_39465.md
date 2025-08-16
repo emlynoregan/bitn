@@ -24,6 +24,7 @@ topics:
 - community
 - land use
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti-Destruction’ writes of the destruction of trees in ‘Ridgway Park’ at Aberdeen as a result of the depredations of a cow in the reserve.  Where is the Inspector?

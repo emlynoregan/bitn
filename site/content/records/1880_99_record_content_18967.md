@@ -19,6 +19,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Annual Dinner and Concert, last Wednesday went off very well.  At the concert the front seats were crowded, but back seats were not full and larrikins there marred the occasion.  Proceeds in all were c. £36.

@@ -21,6 +21,7 @@ topics:
 - show
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Cave sent a fine exhibition of chrysanthemums to the Adelaide show on Wednesday last, but failed this year to secure a prize.

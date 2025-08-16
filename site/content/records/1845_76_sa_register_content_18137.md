@@ -27,6 +27,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary. Richard Crews was riding from Burra towards Mt Remarkable on Friday 6 January when not far from Burra his horse threw him.  He seems to have landed on his head, dislocating his cervical vertebra and dying instantly.  An inquest was held before Mr MacDermott SM at the White Hart Hotel and after hearing the evidence of Dr Peel, a verdict of accidental death was returned.

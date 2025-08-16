@@ -21,6 +21,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   The Prospectus for Wheelbarrow Hills Silver and Lead Mining Syndicate is published.  This aims to raise £500 in 100 shares of £5.  The claim covers 90 acres three miles north of Farrell’s Flat railway station.

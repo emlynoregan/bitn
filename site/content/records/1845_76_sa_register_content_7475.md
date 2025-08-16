@@ -19,6 +19,7 @@ topics:
 - mineral leases
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Leases.  The text of the petition to the Governor on Mineral Leases, from the inhabitants of Kapunda, is printed.

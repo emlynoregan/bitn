@@ -22,6 +22,7 @@ topics:
 - mapping
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Lithographed Plans of the County of Burra, price 5/- each, shortly to be followed by plans of other Counties, may be obtained on application at the Government Printing Office.

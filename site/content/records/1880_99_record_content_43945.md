@@ -21,6 +21,7 @@ topics:
 - classes
 - matriculation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 19 Jan. 1892.  Matriculation and Senior Classes: Miss Sprod.

@@ -22,6 +22,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 7 June 1865, page 2

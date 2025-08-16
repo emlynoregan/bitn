@@ -21,6 +21,7 @@ topics:
 - local government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A deputation from the Cricket Club asked for a concrete pitch at the Recreation Ground.  It was resolved that the Cricket Club be allowed to install a pitch at its own expense as the Council lacked funds.

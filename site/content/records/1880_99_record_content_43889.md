@@ -21,6 +21,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George & Charles Parks have taken over the business of their father Thomas Parks.  He had been in business in Burra for over 40 years.

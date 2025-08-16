@@ -23,6 +23,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bible Christian Sunday School held its Anniversary services last Sunday.  Sermons were preached morning and evening by the Rev. Thomas Hillman and in the afternoon by Rev. J.G. Wright.  On Monday 125 of the children and their teachers, headed by a band, marched through the streets of the township with their gay banners.  They ended up at the chapel, where they had a sumptuous tea.  A public tea followed at which some 350 sat down.  The public meeting followed at which it was reported that the school had 140 pupils and 34 teachers.  The nett proceeds of the Anniversary were £52-2-8, which added to £24-4-10 in the hands of the Treasurer, made a total of £76-7-6. About 450 attended the meeting.  The Sunday school library comprises 339 volumes.

@@ -30,6 +30,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John A. Goodfellow, formerly of Kooringa, wrote from Los Angeles last November that he was suffering from cancer of the mouth and did not expect to survive an immediate operation.  The letter was left with a friend to be forwarded to A. Bartholomæus in the event of his death.  Mr Bartholomæus received the letter on 13 December.  Enclosed was a letter for his son, Edgar Goodfellow.  Mr Goodfellow was born in India and educated at Chatham, England.  He was a brother of the late Mrs J. Mann and a brother-in-law of one of Burra’s first doctors, the late Dr T.H. Mayne.  Anyone knowing the whereabouts of Edgar Goodfellow is asked to contact the Mayor or Mr Bartholomæus.

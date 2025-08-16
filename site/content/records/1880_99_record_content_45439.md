@@ -18,6 +18,7 @@ topics:
 - legal
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stephen Hill, cab driver, charged that his horses and cab were left standing without chaining the wheel.  Fined £1.

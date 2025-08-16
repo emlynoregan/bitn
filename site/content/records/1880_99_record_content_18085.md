@@ -20,6 +20,7 @@ topics:
 - children
 - social behavior
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Control the Boys’ blaming lax parental control for the problems of larrikinism etc.  ‘Children of the present generation are allowed too much liberty altogether, very different from the way they were managed by the wise and good old parents past and gone.’

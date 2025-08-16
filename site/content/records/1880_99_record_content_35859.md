@@ -20,6 +20,7 @@ topics:
 - politics
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Lenex’ writes re the recent electoral meeting, protesting the candidates’ casual dismissal of the protectionist argument and goes on to push a free trade line.

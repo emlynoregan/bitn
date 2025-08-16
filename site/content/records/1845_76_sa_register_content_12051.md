@@ -22,6 +22,7 @@ topics:
 - production
 - economics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The article is a review of a general report on 12 years of the Burra Mine’s operations.]

@@ -21,6 +21,7 @@ topics:
 - legal
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ezekiel Henty, John Carpenter and Lewis Hersh were each fined 5/- for loitering near the Barracks last Sunday.

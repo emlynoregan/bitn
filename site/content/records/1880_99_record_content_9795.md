@@ -21,6 +21,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 10 April in his residence at Lostwithiel, James Mills Paterson, in his 68th year.  He was a resident of over 28 years and a Freemason for nearly 45 years.  His daughter is Mrs Sanders.

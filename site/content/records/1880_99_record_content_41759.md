@@ -20,6 +20,7 @@ topics:
 - shearing
 - pastoralists
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  D. McLean, Sec. Of the Pastoralists’ Union seeks shearers for the stations in the north of the colony.

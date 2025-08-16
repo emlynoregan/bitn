@@ -20,6 +20,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Vandalism.  Children aged 9-10 have broken a number of windows at the Burra Youth Club.

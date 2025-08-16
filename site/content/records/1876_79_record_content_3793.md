@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. Last Wed. Mr C. Gall was thrown out of a wagon in Commercial St when his horse made a sudden plunge. His left arm was fractured.

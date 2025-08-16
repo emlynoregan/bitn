@@ -26,6 +26,7 @@ topics:
 - sport
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 £2-10-0 was won by the dogs of F. Threadgold (2) and F. Frost while £1-10-0 was won by the dogs of B. Tonkin, A.J. Gray (2), J. McWhirter, J.D. Johnston and C. Pearce.

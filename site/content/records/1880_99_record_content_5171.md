@@ -19,6 +19,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Saturday the Muffs v. Aberdeen match fell through as the Muffs were not able to play.  There was a practice match instead.

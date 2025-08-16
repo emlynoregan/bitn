@@ -41,6 +41,7 @@ topics:
 - municipal
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy charged W.J. Davey, proprietor of the Burra Record, with libel, damages being assessed at £19-19-0.  The case took 7½ hours and the plaintiff was severely cross examined for 4½ hours by Mr J.H. Symon QC whose summing up took 2 hours 10 minutes.  The rest of the time was taken by the evidence of W.T. Rabbich for the plaintiff and the summing up of Mr H.R. Hill.  In the end the case was declared a non suit without costs.

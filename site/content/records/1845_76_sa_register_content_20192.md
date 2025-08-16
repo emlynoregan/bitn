@@ -22,6 +22,7 @@ topics:
 - postal service
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Interested’ writes complaining about the uncertainty of the closing time for the Adelaide mail from Kooringa – apparently the postmaster was telling different things to different people and/or granting favours.

@@ -19,6 +19,7 @@ topics:
 - vandalism
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On New Year’s Eve several footbridges in town were torn up.  They were replaced on the Sunday only to be torn up again and fixed once more on Monday.  The bridge near the Public School was upset into the creek.

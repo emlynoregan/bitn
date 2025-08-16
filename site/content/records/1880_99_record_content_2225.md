@@ -19,6 +19,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Prince of Wales’ Birthday saw a match of the Single Men v. the Married Men of the Aberdeen Club.  Married 115 defeated Single 98.

@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Income tax has been increased 50% on incomes between £200 and £1,000 and 100% on incomes over £10,000.

@@ -17,6 +17,7 @@ topics:
 - commentary
 - speech
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The tone here is important and perhaps uncertain, but previous experience of the speaker suggests he was probably not attempting humour and the laughter and cheers likely had an edge he would not have been comforted by.]

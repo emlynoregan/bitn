@@ -19,6 +19,7 @@ topics:
 - public expense
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Deaths.  There have recently been some 17 deaths in Burra, including seven in December.  Most of them have come from the extended district rather than the town itself and the majority have had no more than their swags and were interred at Government expense.

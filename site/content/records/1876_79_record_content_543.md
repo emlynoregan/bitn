@@ -23,6 +23,7 @@ topics:
 - donation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr & Mrs Treleven of Jamestown and late of Redruth, have presented the Trustees of the Redruth Wesleyan Church with a handsome Communion Service.

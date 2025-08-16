@@ -19,6 +19,7 @@ topics:
 - transport
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cabs.  The cabs have a habit of driving around Market Square curve at excessive speed, especially on Saturday evenings.  We hope something will be done about it.

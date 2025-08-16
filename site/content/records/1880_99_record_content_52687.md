@@ -21,6 +21,7 @@ topics:
 - crime
 - execution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frances Knorr was executed on Monday by Roberts, the Sydney hangman.  She confessed to two of the murders and exonerated the man Thompson whom she had previously implicated.

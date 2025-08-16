@@ -27,6 +27,7 @@ topics:
 - infrastructure
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Reformatory.  The Chief Secretary, T. Rhodes (Chairman) and J.B. Whiting (Secretary) of the State Children’s Council visited Burra on Thursday and were met by Dr Brummitt and driven to the Reformatory.  It was suggested the building be connected to the Burra Waterworks as the present water supply is a well.  Also that a verandah to the dormitories be erected.  They also inspected the hospital.

@@ -18,6 +18,7 @@ topics:
 - race
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Handicap over 135 yards: 1st £12, 2nd £3 and 3rd £1.

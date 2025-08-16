@@ -21,6 +21,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Service of Song, Samuel, will be repeated by special request in the Redruth Wesleyan Church next Sunday at 3.00 p.m.  A flower service will be held in the morning.

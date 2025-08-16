@@ -19,6 +19,7 @@ topics:
 - public works
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 And a large culvert to be built near the Redruth Courthouse.

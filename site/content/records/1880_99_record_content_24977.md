@@ -20,6 +20,7 @@ topics:
 - election
 - contest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election.  The Minister of Education, Dr Cockburn, having lost in the Burra District, has decided to contest Mt Barker.  [This was possible in 1888 as different electoral districts held their elections on different dates.]

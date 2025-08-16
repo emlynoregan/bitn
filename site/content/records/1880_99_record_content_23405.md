@@ -22,6 +22,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The Bishop of Adelaide, Dr Kennion, visits next Saturday and Sunday for confirmations.

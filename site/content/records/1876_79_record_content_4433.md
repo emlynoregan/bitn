@@ -19,6 +19,7 @@ topics:
 - rates
 - loan
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ratepayers’ Meeting decided in favour of the loan by 8 votes. Kooringa was 3:1 in favour, but the north end of town was opposed. The alternative of increasing the rates would have harmed many with the rates already at 1 5d in the £.

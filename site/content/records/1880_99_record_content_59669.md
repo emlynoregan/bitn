@@ -23,6 +23,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Elliott aged 15 was killed on 19 March at Baldina when run over by a wagon loaded with hay.  He had been accompanying the wagon driven by Wilhelm Mann, son of August Mann and appears to have been trying to get onto the shafts from the offside when he slipped and two wheels passed over his body.  He died shortly afterwards.  Mr J. Rogers JP, after making enquiries in the company of M-C Benham, deemed an inquest unnecessary.

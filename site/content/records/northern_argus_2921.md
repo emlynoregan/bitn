@@ -19,6 +19,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Theft.  On 21 July a 19-year-old carpenter and a 16 year-old youth were reported for having broken into the Burra Community & Sports Club and stealing liquor on 10 July.

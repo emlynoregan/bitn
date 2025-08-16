@@ -18,6 +18,7 @@ topics:
 - morals
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Is this an oblique reference to excessive drinking and gout, or to some other immoral conduct?  The correspondent was probably W.H. Hardy.]

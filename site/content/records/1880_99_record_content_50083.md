@@ -17,6 +17,7 @@ topics:
 - legal
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Elections are due next April.  Qualifications to get on the roll:

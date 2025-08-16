@@ -22,6 +22,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary on 23 & 24 Oct. Rev. J. Goodwin of Moonta preached to good congregations.  120 sat down to tea on Monday afternoon, which was followed by the public meeting.  Both the church and Sunday school were suffering severely from the removals to Broken Hill and elsewhere.  Collections, tea and donations raised almost £33-10-0.  The debt on the property of £725 will be reduced by about £50 this year.

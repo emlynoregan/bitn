@@ -29,6 +29,7 @@ topics:
 - barrow push
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Broken Hill-Burra Barrow Push for 1986 was won by the Dampier Salt Shakers with an average speed of 22.69 k.p.h. for 351 km.  They won $10,000.  [Photo.]

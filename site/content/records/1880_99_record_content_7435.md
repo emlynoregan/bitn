@@ -21,6 +21,7 @@ topics:
 - business
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson Jun. has opened a Labour Office next door to the Burra Hotel.  Second-hand furniture bought and sold.

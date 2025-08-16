@@ -21,6 +21,7 @@ topics:
 - politics
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 German Emperor.  Emperor Frederick III has died after a reign of only 14 weeks.  The new Emperor is William II.

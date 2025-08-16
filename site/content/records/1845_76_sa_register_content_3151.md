@@ -38,6 +38,7 @@ topics:
 - assaying
 - cottages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fisher summed up for the plaintiff.  Gwynne had poured scorn on the plaintiff’s witnesses, but Gwynne’s own witnesses were much more interested parties than any of those the plaintiff had relied upon.  He said Mr Burr had not been shown to have made any representation to induce the offer of the position and had left a highly honourable office to take up the position at the Mine.  He had left a position with the certainty of advancement.

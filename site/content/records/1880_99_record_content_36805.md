@@ -24,6 +24,7 @@ topics:
 - bicycle races
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Yongala Sports.  The main attraction on 26 May was the bicycle races and the Morton Brothers of Burra secured prizes.  W.H. Morton was 3rd in the bicycle handicap and R.D. Morton 3rd in the special one mile handicap (1st & 2nd were a dead heat.)

@@ -21,6 +21,7 @@ topics:
 - rifle match
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match at Burra Range on Wednesday: Burra MI 201 defeated Civilians 184.

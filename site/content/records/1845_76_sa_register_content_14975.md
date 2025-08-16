@@ -23,6 +23,7 @@ topics:
 - finance
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  [Editorial] The half-yearly report of the Directors was read an adopted at the meeting on Wednesday.  The Directors regretted that they could not report such an abundant yield of copper as in past similar periods.  This is due to a reduction in the number of men employed rather than a decline in the quality of the ores raised.  The total raised in the six months to 30 September last was 5,133 tons of the usual average percentage of copper; c. 22%.  This is a reduction of about 1,100 tons compared with the previous six months.  There has also been a falling off in the value of copper during this period.  Six months ago the price was £95 per ton and twelve months ago sales were effected at £105 per ton.  In the last two months only £85 had been realised at Adelaide, though this had recently risen to £90 per ton.  We may hope that this signals and end to the decline.

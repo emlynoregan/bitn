@@ -22,6 +22,7 @@ topics:
 - tenders
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from Goss offering £ 10 to be released from the contract for the White Hart Ford footbridge as he had made an error in measurement when tendering for it. The Corp. accepted his withdrawal for a fee of £S and let the work to W. Woollacott.

@@ -20,6 +20,7 @@ topics:
 - police
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police charged Walter Calloway with using insulting words intending to provoke a breach of the peace on 8 June and also with disturbing the peace at the Pig and Whistle Hotel on the same day.  Fined 10/- on each charge.

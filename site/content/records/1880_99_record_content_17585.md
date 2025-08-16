@@ -20,6 +20,7 @@ topics:
 - local history
 - store
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Lapford Correspondent among other things says there was once a store there as well as a wine shop and from the threshold of his door he could survey the depths of an old abandoned cellar wherein lie ‘battered kerosine tins, jam pots, herring and lobster tins, broken pots and cracked saucepans, fence wire puzzles, broken chains, rags of every shape and hue and even many interesting varieties of eggshells! - to say nothing of bottles.’

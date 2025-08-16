@@ -38,6 +38,7 @@ topics:
 - police
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 About 10 days ago SAMA decided to dispense with the service of Superintendent Thomas Burra.  He was informed in writing.  Messrs Beck (Chairman), Ellis and Kingston, members of the Board, proceeded to the mine with Secretary, Henry Ayers, to carry out the resolution of the Board.  They arrived on Thursday and on Friday relieved Mr Burr (who refused to resign) of his duties.  Mr Burra then left for Adelaide.  The miners, upon hearing of the arrival of the Directors, took the opportunity to apply to them for redress of alleged grievances.  The Directors refused to meet their deputation and they were told work would be stopped.

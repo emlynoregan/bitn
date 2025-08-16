@@ -19,6 +19,7 @@ topics:
 - environment
 - scenery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Hills: a half column article urges people to become more appreciative of local scenery.

@@ -21,6 +21,7 @@ topics:
 - literature
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. R. Lockeyear [sic – perhaps Lockyer?] has written a 16-page short story, which is available from T.W. Wilkinson.

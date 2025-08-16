@@ -19,6 +19,7 @@ topics:
 - federation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Democrat’ writes attacking ‘Lex’ and defending his own contentions re the power of the Governor General and citing in particular Clause 5 of Part 1 and Clauses 62 & 64 of Part 2.

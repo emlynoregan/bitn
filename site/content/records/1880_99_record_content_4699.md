@@ -19,6 +19,7 @@ topics:
 - gardeners
 - association
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese.  There is an interesting ⅓ column article on the Chinese gardeners of Newcastle NSW who had formed a Chinese Gardeners’ Association.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - watchmaking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 L.L. Wicklein	Watchmaker in Commercial St next to Drew & Crewes

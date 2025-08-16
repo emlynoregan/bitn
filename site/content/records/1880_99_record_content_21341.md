@@ -19,6 +19,7 @@ topics:
 - legislation
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the depression and how bad times can turn people to try new and potentially productive ventures, such as new ways to make money in mineral searches etc.  But last year’s Mining Act allows land to be held by speculators without development so new fields may be kept idle or not proved.  New provisions are needed under the act to see that claims remain active, or are surrendered.

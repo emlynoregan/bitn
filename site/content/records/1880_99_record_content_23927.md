@@ -22,6 +22,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Messrs Halls & Bromley, Cabs.  Fares from any street to the railway station or to Aberdeen or Redruth, 6d.  Fares from stand to stand are 3d.

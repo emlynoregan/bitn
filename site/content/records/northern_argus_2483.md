@@ -21,6 +21,7 @@ topics:
 - scouts
 - camp
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouts had a weekend camp at Woodhouse in the Mt Lofty Ranges last weekend.

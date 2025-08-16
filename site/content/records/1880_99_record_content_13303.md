@@ -21,6 +21,7 @@ topics:
 - community
 - urban
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  All applications for trees for ratepayers in Kooringa are likely to be granted as donations have been pretty readily given.  About 400 will be planted in streets and several hundred more in reserves this year.  Residents in North Ward are now applying.

@@ -17,6 +17,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine.  Operations are to commence soon on the Manganese Co.’s property.

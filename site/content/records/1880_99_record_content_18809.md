@@ -29,6 +29,7 @@ topics:
 - death
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  August Bertram, on 1 August at the Burra Hospital, aged 75.  Leaving a wife [and descendents.]

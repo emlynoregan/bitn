@@ -21,6 +21,7 @@ topics:
 - waterworks
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich replies to the query on the lack of water laid on to the Redruth Reserve.  He says he took every precaution to see that water would be laid on and connected and a hose provided to water the 420 trees planted, but the pipes, though ordered, did not arrive.

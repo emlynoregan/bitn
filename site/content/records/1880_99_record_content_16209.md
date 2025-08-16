@@ -19,6 +19,7 @@ topics:
 - transport
 - cab
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Schutz - two charges of having no name on his cab on Boxing Day - 5/- each.

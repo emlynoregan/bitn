@@ -22,6 +22,7 @@ topics:
 - pest control
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Rabbit Shoot at Baldina with 30 shooters was held last Saturday and 688 rabbits were shot between 9 a.m. and 5 p.m. in an attempt to exterminate the pests.  They started from Schmidt’s Farm (formerly the old World’s End Run Head Station) and going north as far as Duldig’s Farm.

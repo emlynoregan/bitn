@@ -24,6 +24,7 @@ topics:
 - gardening
 - local history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Probably ‘the Chinamen’ referred to were Sing & Fat with a garden in The Paddock between Kingston and Quarry Streets.  See article XI, 912, 13 Dec. 1889, p.2]

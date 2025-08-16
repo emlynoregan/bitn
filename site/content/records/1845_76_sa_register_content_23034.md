@@ -20,6 +20,7 @@ topics:
 - development
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Farrell’s Flat Railway Station seems to be right for Clare folk.  We are pleased the mail is to be run from there.  A well-known miller is said to be contemplating erecting a mill and there is also talk of running cabs to Clare etc.  A resident landed proprietor is on the eve of cutting up one or two sections for a township.

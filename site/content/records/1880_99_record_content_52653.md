@@ -22,6 +22,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Pigeon Club will run its first race on 7 April from Mt Bryan.  South End owners have to register arrival time at the Telegraph Office and North End owners at the Railway Station.

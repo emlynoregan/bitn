@@ -19,6 +19,7 @@ topics:
 - social
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Society held a coffee Social on 16 December as the last meeting for the ‘season’.  There was a good attendance with music, recitations, impromptu speeches, etc.

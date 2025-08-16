@@ -20,6 +20,7 @@ topics:
 - church
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Circuit.  Revs H.T. Burgess and W.H. Hodge have been appointed to the Burra circuit for the next year.

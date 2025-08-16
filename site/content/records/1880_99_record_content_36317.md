@@ -19,6 +19,7 @@ topics:
 - Salvation Army
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Salvation Army.  It is now some eight years since the Army’s debut here.  At the time we thought good would come from their efforts, but like many we have been sorely disappointed and indeed have been the witness of the reverse.  We have heard many complaints about their ways of ‘bringing in’ the people, their disregard of common fairness to others and transparent contempt for the law.  Requests have been ignored.  Only last Monday evening someone gave a donation and asked that their outdoor meeting be held a few hundred feet from their normal place due to sickness in the family.  They took the money, but treated the request with contempt.  If this is how those in control treat their fellow creatures they must be dealt with ‘in a manner necessary to the occasion’.

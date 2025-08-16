@@ -38,6 +38,7 @@ topics:
 - railway
 - irrigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Isaac Killicoat was buried yesterday.  He was born in Perranwell, a village in Cornwall 5 miles south of Truro on 3 December 1809.  As a youth he went into mining and attended night classes for an education.  At 19 he became a superintendent of operations employing 500 hands.  For 19 years before migrating to SA he was Surface Captain to the Tresavean Copper Mine, Gwennays, Cornwall, one of the oldest and largest copper mines in England and the second in the world to introduce a ‘man engine’: i.e. a lift to lower miners into the depths of the mine.  This whole time he walked 5 miles ‘back and forth’ as the Cornish say, or 10 miles a day.

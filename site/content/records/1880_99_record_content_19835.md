@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Peter’s Cathedral Choir.  The grand concert on Saturday evening was not largely attended, though the front seats were fairly filled.  The habit of shopping and perambulating the streets on Saturday makes it the worst day in the week for a concert.  In the hall the want of a proscenium is badly felt.  The second concert on Monday evening of Christy Minstrels saw the hall closely crowded and the performance was much admired.

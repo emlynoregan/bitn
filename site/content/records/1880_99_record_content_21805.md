@@ -18,6 +18,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Morton Fund.  There was a letter of thanks from Robert Morton’s father for the setting up of the fund for the family.

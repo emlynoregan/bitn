@@ -21,6 +21,7 @@ topics:
 - community
 - eric_note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Mrs H.S. Dunn and Miss Fuss ran the flower stall.  Was this Muriel Fuss: she would have been only 15?]

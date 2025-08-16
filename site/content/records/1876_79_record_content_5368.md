@@ -23,6 +23,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Musical Union Concert at the Institute 10 December. Conductor: Mr Cater. Pianists: Misses Nesbitt & lane.

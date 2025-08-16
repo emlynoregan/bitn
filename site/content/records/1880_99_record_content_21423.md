@@ -23,6 +23,7 @@ topics:
 - mining
 - assay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Pearce Jun. has received one ore assay report of 4 oz silver per ton of ore.  Sampson & Barrett are said to have found a silver lode at Apoinga yielding over 7 oz silver per ton of ore.  Black Hills Silver Mines continue to develop various shafts in the area down to 20’ with some to 80’.  Here too there have been few assay reports and no surveys yet.

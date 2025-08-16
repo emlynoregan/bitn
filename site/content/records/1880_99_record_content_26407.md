@@ -21,6 +21,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  On Friday last a man arrived at the Burra Hotel on a grey pony, which he then sold for £4 along with the saddle and bridle for another £1.  It was subsequently found to have been stolen from the manager of the Bank of Australasia at Gawler.  The thief is believed to have gone to the Barrier.

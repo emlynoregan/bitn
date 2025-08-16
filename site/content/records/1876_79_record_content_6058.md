@@ -21,6 +21,7 @@ topics:
 - crime
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Vandalism. Vandals slashed bags of wheat on Mr Patrick Reilly's wagon at Farrell's Flat on Monday 3 March. A reward is offered for information.

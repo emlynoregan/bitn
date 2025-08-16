@@ -24,6 +24,7 @@ topics:
 - injury
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A 15-year-old son of Mr W.H. Broad of Sod Hut Ranges was walking with a mule team on the Adelaide Road near Mr Bock’s on 12 April.  He was climbing onto a wagon while the mules were stationary when they suddenly moved forward and he was thrown to the ground.  The wheels passed over his foot, ankle and part of his leg, completely crushing them and then passed over his wrist.  The victim was taken to Dr Mayne and Dr Dashwood and the leg was immediately amputated.  The arm has not yet been amputated.

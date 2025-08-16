@@ -20,6 +20,7 @@ topics:
 - school
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Wanted, a master for St Mary’s School, Kooringa.  Apply to the church wardens, Kooringa.

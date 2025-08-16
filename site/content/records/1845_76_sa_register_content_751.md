@@ -17,6 +17,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The mail is to be carried in a cart, which will be permitted to carry passengers and parcels.  The branch run may be operated either by cart or on horseback.

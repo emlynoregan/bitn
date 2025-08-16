@@ -21,6 +21,7 @@ topics:
 - town image
 - land title
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Bystander’ writes complaining that visitors still see Burra as a ‘miserable looking place’. He says they should address their complaints to Sir Henry Ayers as the failure of most to get freehold title is the real reason for that.

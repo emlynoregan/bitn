@@ -19,6 +19,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 14 February, to the wife of E. Statton, a son.  [Joshua William.]

@@ -41,6 +41,7 @@ topics:
 - competition
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C.F. Newman nearly scooped the pool for vegetables and but for Ah Ching would have done so.

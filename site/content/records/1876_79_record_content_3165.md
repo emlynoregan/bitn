@@ -22,6 +22,7 @@ topics:
 - employment
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr. Sayers, a guard on the trains between Burra and Adelaide for some years has been transferred to the Port line at a day's notice.

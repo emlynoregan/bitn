@@ -18,6 +18,7 @@ topics:
 - mine
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  The number of tributers is still increasing.

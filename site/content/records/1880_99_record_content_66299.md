@@ -18,6 +18,7 @@ topics:
 - sanitation
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local Board of Health.  Notices have been given to butchers that boiling down places must be removed from the present premises within a month.

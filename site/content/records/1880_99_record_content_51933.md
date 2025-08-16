@@ -21,6 +21,7 @@ topics:
 - report
 - motion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 20 February.  Cr Parks moved to expunge the Mayor’s report.  The Mayor ruled the motion informal and refused it.  Cr Parks then gave notice for a call of the whole Council on 6 March to expunge the report.

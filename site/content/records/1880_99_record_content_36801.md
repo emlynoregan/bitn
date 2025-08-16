@@ -20,6 +20,7 @@ topics:
 - sport
 - horse racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Horse Racing.  Several Burra horses went across to Morgan for the races on the 26 May, but none won.

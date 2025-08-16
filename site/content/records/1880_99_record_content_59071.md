@@ -22,6 +22,7 @@ topics:
 - food
 - creamery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F. Duldig	World’s End Creamery, Butter available from Drew & Crewes

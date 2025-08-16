@@ -23,6 +23,7 @@ topics:
 - trees
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy asked if the Mayor had seen a paragraph in the Record re the planting of No. 2 Reserve.  The Mayor said he had and it was an unfair representation.

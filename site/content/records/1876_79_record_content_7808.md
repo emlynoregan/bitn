@@ -19,6 +19,7 @@ topics:
 - sports
 - schedule
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Sports at the rear of the Commercial Hotel have been moved to Christmas Day not Boxing Day.

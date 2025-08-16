@@ -18,6 +18,7 @@ topics:
 - political views
 - socialism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This is an example of W.H. Hardy’s socialist views getting an airing.]

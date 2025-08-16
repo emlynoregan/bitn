@@ -19,6 +19,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Apoinga sections 367 & 368 of 165 acres.

@@ -22,6 +22,7 @@ topics:
 - housing
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Observer complaining that the lack of guttering on Paxton Square houses removes the whitewash and makes the walls damp as well as damaging the structures and wasting water that could be retained, removing the need to carry it nearly half a mile.

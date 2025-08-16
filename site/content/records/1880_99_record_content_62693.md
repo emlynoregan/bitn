@@ -21,6 +21,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Special Effort next Sunday.  Rev. T. Flood in the morning, Rev. J.Y. Simpson (Wesleyan) in the afternoon and Rev. W.A. Langsford (Wesleyan) in the evening.  Public dinner on Wednesday.

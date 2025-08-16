@@ -18,6 +18,7 @@ topics:
 - numbering
 - dates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume III, Number 105 on 2 July 1880 to

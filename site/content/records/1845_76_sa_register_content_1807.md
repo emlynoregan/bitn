@@ -28,6 +28,7 @@ topics:
 - report
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Princess Royal Mines Co. held a general meeting of shareholders on 6 October.

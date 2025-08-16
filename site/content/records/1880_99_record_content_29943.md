@@ -22,6 +22,7 @@ topics:
 - fine
 - offence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offences.  Jones was charged by the Corporation Inspector Jenkin with hawking in the town without a licence and fined 10/- + costs.

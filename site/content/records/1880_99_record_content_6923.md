@@ -19,6 +19,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the murder, in Ireland, of the Chief Secretary for Ireland and his Under-secretary.

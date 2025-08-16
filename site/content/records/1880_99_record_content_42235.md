@@ -20,6 +20,7 @@ topics:
 - reminiscences
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Society met in Mrs Reed’s Rooms on Friday when Mr F.W. Holder entertained them with reminiscences of his recent trip as part of the Pastoral Commission – six weeks travel with camels in the interior.

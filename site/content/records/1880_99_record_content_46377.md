@@ -21,6 +21,7 @@ topics:
 - licensing
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council resolved that the Council ask the licensing officer to suspend the licence of T.P. Halls in accordance with by-law 36 section 4.

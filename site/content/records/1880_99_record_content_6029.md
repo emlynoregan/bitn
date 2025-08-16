@@ -19,6 +19,7 @@ topics:
 - event
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Races last Monday in Mr Duff’s paddock at Copperhouse were successful despite the short notice.  [Results printed.]

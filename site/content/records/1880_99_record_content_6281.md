@@ -18,6 +18,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the successful Council poll for the loan.  There is no great urgency about selling the bonds or using the money.  Spreading out the sale of the bonds will ensure the gaining of full subsidy in both years.  A suggested timetable for this is printed.

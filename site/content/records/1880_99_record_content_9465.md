@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Roadworks.  The work on the Kooringa-Aberdeen Road was left in a dangerous state, but has now been proceeded with and will be properly finished, though in the meantime it is rather dusty.

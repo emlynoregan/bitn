@@ -22,6 +22,7 @@ topics:
 - poetry
 - misc
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 May 81	Ferryman’s Secret Ch I-IV	A Lone Woman		X		X	A	X		X	X

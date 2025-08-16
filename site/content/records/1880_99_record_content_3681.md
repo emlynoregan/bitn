@@ -20,6 +20,7 @@ topics:
 - sale
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  No tenders were accepted for the cordial and aerated water business of N. Lihou & Son, so all will be sold by private contract.

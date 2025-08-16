@@ -18,6 +18,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davieston Wesleyan Church will celebrate its Harvest Thanksgiving on 10 April.

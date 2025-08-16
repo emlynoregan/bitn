@@ -19,6 +19,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The big Show is coming in its own Special Train, Tuesday 8 February.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Clark	Fancy Work, Parian Marble, Fish Scale Work, Painting, at Mrs Hosking’s, Chapel St

@@ -22,6 +22,7 @@ topics:
 - fares
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson D.C. is complaining about the fares to Daviestown.  The fare Burra to Daviestown is the same as the fare Burra to Farrell’s Flat.  The fare from Farrell’s Flat to Daviestown is the same as the fare Farrell’s Flat to Burra.  [Daviestown is modern Hanson.]

@@ -24,6 +24,7 @@ topics:
 - agriculture
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest.  On 17 April Mr W. West sat as coroner at an inquest into the burning of two haystacks at Iron Mine at Mr Norman Morrison’s.

@@ -27,6 +27,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Notice to passengers between Kooringa and Kapunda.  We the undersigned inform the public it is NOT our intention to book passengers for Mr Rounsevell’s conveyance as stated in advertisement in this day’s Register.  We intend to book for Mr Opie’s conveyance ONLY.

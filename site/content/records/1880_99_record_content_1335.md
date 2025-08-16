@@ -18,6 +18,7 @@ topics:
 - fire
 - imports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Properly Tandstickor, a cheap kind of lucifer match imported from Sweden.]

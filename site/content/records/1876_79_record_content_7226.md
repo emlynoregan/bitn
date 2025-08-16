@@ -20,6 +20,7 @@ topics:
 - construction
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sara & Dunstan have won the tender for the new school at Yongala.

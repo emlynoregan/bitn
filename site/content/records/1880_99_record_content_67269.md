@@ -21,6 +21,7 @@ topics:
 - performance
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Lulu Gillespie gave a farewell concert on Friday in Burra before going to Europe to study music.  All her items were well sung and well received.

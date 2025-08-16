@@ -17,6 +17,7 @@ topics:
 - literature
 - memoir
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 8 Apr 81	Serpent Ch XXIX-XXXI	The Minister’s Old Coat	Remarkable Memories	X	X			X		X

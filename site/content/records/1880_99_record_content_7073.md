@@ -19,6 +19,7 @@ topics:
 - mining
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Apoinga Copper.  Testing of copper lodes at Apoinga, some 12 miles south of Burra continues and it is hoped to have 100 men working there soon.

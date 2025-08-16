@@ -20,6 +20,7 @@ topics:
 - local government
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter on a call to invite tenders for a waterworks engine driver who should be obtainable in these depressed times for £2 a week when the Council is said to be paying £3 a week.  Labourers are now getting only 4/- to 6/- a day.  [i.e. £1-4-0 to £1-16-0 a week.]  Make the saving and allow the water rates charges to be dropped.

@@ -26,6 +26,7 @@ topics:
 - port
 - loading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 E.W. Pitts spoke (as an agent) for C.B. Fisher of Farrell’s Flat.  Wheat was lying exposed to the weather and sales could not be arranged because delivery could not be assured.

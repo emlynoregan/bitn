@@ -23,6 +23,7 @@ topics:
 - pests
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader.  Friday last was the jubilee of Municipal Government in SA and it is an important thing to celebrate, looking as it does after health, roads and the general good of local communities.  The first municipal law was passed late in 1839, but on 31 October 1840 the first Mayor and Council was elected for Adelaide.  Now SA has 32 Municipal Corporations and 139 District Councils.

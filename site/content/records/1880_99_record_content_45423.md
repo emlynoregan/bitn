@@ -21,6 +21,7 @@ topics:
 - ownership
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Whittick has taken over the wood-yard of Mr T. Davis of Aberdeen.

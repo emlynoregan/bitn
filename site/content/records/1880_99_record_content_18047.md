@@ -25,6 +25,7 @@ topics:
 - crime
 - animal welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Foot Constable Radford v. John Laity, Henry Weston (15) and William Gebhardt (14), who were summoned for setting a dog on to worry a cat belonging to Mrs Sleep of Thames St on 24 May.  Laity failed to appear and the others pleaded not guilty.  The boys were all present, but it was Laity, according to witnesses, who threw a stone to knock the cat off a closet roof and then set the dog on it.  The two boys were fined 10/- each (or 3 days) and Laity was fined £1 (or 6 days)

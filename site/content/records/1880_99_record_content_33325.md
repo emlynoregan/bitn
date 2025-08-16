@@ -22,6 +22,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Skating Rink.  We understand this will be the last week of the rink at the Institute.  There will be an interesting exhibition by Mr Stock the champion fast skater of the colony, tomorrow and the Burra Brass Band will play during the evening.

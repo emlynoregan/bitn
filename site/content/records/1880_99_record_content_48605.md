@@ -19,6 +19,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  We saw the plans for the new schoolroom on Thursday.  It will measure 45’ x 25’ with three windows and a porch 8’ x 6’ with a belfry.

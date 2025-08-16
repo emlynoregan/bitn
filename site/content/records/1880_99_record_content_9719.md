@@ -18,6 +18,7 @@ topics:
 - economy
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Surrendered sections are being resold and in most cases the original owners are buying them at 20/6 per acre, having originally bid £4-£5 per acre.  Having forced others to go elsewhere the reckless bidders have caused the state great loss of money and have now depreciated the surrounding land values.

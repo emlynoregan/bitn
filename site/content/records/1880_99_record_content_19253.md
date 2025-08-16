@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain in the last week has revived the season’s prospects by over 50%.  Dams are now full.

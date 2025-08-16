@@ -25,6 +25,7 @@ topics:
 - economy
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 News from Melbourne by overland mail is conflicting.  Numerous adventurers have evidently accumulated 1,999 ounces of gold, which has been received in Melbourne.  One lump has been found weighing 7 lb 3 oz and the finder was asking £350 for this.

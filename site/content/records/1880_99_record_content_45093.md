@@ -23,6 +23,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A bolt.  The eldest son of William Pearce had a narrow escape when the horse in his buggy bolted in Kangaroo St and made a dash around corners at high speed into Lower Thames St and thence to the big bridge [Kingston St] where he finally managed to halt it.

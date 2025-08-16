@@ -20,6 +20,7 @@ topics:
 - business
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M. Symons	(Late W. Symon[s]) Butcher, Market Square

@@ -21,6 +21,7 @@ topics:
 - education
 - awards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pupil Teachers who have passed the recent exams include: - Miss Annie Snell (1st in order of merit) Miss Louisa Symons

@@ -25,6 +25,7 @@ topics:
 - entertainment
 - film
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Wybert Reeve announces two showings of the Cinematographe at the Burra Institute on Tuesday & Wednesday 8 & 9 June.  3/-, 2/- & 1/-.

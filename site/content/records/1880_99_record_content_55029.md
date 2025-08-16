@@ -21,6 +21,7 @@ topics:
 - injury
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rita Vivian, aged 3, was painfully burnt playing with matches behind the Commercial Hotel (of Mr H. Vivian) on Saturday last.  Her clothes caught alight and burnt her left leg, arm and ear, but she will recover without disfigurement.

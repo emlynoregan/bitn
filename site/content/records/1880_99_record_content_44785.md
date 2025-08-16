@@ -19,6 +19,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The committee for the Chrysanthemum Show recommended one be held on 4 May and the Institute Committee agreed.

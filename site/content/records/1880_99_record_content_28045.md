@@ -18,6 +18,7 @@ topics:
 - report
 - regional
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kangaroo Island is written up in a 1⅓ column report.

@@ -23,6 +23,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Redruth Guild – part of the Burra Uniting Church, will hold a special luncheon on 20 March to mark the closing of the guild after 60 years of providing friendship and fellowship for a group of women in Burra North.  Reta Jennison is currently President and was secretary for more than 50 years.  She is sorry to see its demise, but numbers have dwindled and their ages have increased.  Mavis Satchell, a member of long ago, will return for the day and will entertain with her singing.  The Guild’s funds will be donated to the Redruth Camp Centre for the repair of the Redruth Church so that it may be used as a place of worship for the camp or as a museum.

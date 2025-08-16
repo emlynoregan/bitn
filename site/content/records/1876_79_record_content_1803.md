@@ -18,6 +18,7 @@ topics:
 - accident
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A 13 year old boy was rescued from water near the Bon Accord Hotel.

@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Advt.  There is a large advertisement for Arragong Picture Framing Service, Proprietor John Stiven, 18 Morehead Street, Burra North.  [Photo.]

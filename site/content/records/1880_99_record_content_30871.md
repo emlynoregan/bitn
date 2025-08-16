@@ -22,6 +22,7 @@ topics:
 - music
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church will hold its Christmas and Hospital Service on Christmas Day at 11 a.m. with the Burra Musical Union Orchestra and the Redruth Choir.

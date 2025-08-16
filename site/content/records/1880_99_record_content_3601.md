@@ -22,6 +22,7 @@ topics:
 - cricket
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Aberdeen team travelled to Terowie by road as the train times were not suitable.  They departed Aberdeen Post Office 7 p.m. Friday and they arrived at Terowie 12.30 a.m. Sat. staying at Opie’s Imperial Hotel.  They rose at 6 a.m. and had breakfast at 8 a.m., travelling to the ground about half a mile from town at 10 a.m.  They left at 7 p.m. for Burra and reached there about 1 a.m. Sunday.

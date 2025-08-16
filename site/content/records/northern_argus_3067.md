@@ -19,6 +19,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Jan Letcher received her accreditation as a lay preacher at a special commissioning service in the Uniting Church on Sunday evening.

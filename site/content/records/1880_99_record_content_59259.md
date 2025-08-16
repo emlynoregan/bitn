@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The husband of Mrs George Theuff has met his death at Quondong last Friday.  Details are not yet to hand.  The deceased was well known in Burra and leaves a wife and two children.

@@ -26,6 +26,7 @@ topics:
 - church
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Picnic.  Some friends from Kooringa joined in the picnic at Mt Bryan last Wednesday when c. 100 farewelled Rev. J.H. & Mrs Ashton of the Mt Bryan Bible Christian Church.  It was held at the Razorback Hills.  At about 1.30 lunch was served after which most made a start for the top of Mt Razorback.  The party returned about 4.30 when a few games followed.

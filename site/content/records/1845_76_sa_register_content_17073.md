@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  On Thursday there was a fine rain for some hours and the creeks flowed as they do in winter.

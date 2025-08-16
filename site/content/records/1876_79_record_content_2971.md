@@ -20,6 +20,7 @@ topics:
 - petition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett residents petition for a school to accommodate 50 children; there being 24 of school age within 2 miles now.

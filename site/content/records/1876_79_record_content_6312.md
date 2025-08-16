@@ -20,6 +20,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Lecture on `To England and Back' in the Wesleyan Schoolroom, Kooringa, Wed. 7 May, by the Rev. James Bickford. 1/- & 2/-. Proceeds to the school building fund. MOONLIGHT.

@@ -20,6 +20,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fancy Dress Tournament at the oval last night. [The next issue makes it clear this was organised by the Burra Accidental Bicycle Club which was putting on the 50 mile race.]

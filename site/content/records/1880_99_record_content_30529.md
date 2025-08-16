@@ -18,6 +18,7 @@ topics:
 - education
 - achievement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  70 children got full marks at the recent examinations.

@@ -17,6 +17,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Good Friday was a general holiday and the town was almost deserted as people headed off duck-shooting, cray-fishing etc.

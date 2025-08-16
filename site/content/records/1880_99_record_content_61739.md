@@ -21,6 +21,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Fred Lovis, aged about 3, choked to death at Baldina on 8 January.

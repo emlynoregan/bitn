@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Primitive Methodist Dinner, Monday 7 August, in the Kooringa Schoolroom at 4.30 p.m.  1/6.  Followed by a sacred concert in the Institute at 7.30 p.m.

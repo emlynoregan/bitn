@@ -22,6 +22,7 @@ topics:
 - mining
 - SAMA
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Burra is today plunging and floundering, as it were, for breath to keep it alive, when it might have been one of the most important towns in South Australia.  We have heard it is on account of the grasping niggardness of the South Australian Mining Association, and we are somewhat convinced of the fact.’

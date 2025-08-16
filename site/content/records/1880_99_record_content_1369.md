@@ -20,6 +20,7 @@ topics:
 - community
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Not a Grave Digger’ who is not anti-Catholic, but opposes a Catholic section at the cemetery.  If such is allowed, he asks, how long before we need a separate section for Episcopalians, Bible Christians, Wesleyans, Primitive Methodists, etc.?

@@ -20,6 +20,7 @@ topics:
 - music
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The program for the visit of the Cathedral choir on 10 & 12 November is printed.

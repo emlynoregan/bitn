@@ -23,6 +23,7 @@ topics:
 - community
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Market Square.  A group of members of the Burra Preservation Society waited by the Tourist Office on Friday for the arrival of a Channel 4 news crew who were to do filming about the controversy over the redevelopment of the square.  The society has called a meeting in the Civic Centre on 6 March at 8 p.m. to report on progress on the question.

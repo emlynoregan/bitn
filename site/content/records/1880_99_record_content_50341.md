@@ -20,6 +20,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ministering Children’s League is a group of young children who join for 6d and then work to provide money for others.  The recent fair raised £21-5-0 with which it is proposed to buy two invalid chairs for the Burra Hospital.

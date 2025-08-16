@@ -17,6 +17,7 @@ topics:
 - public holiday
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Monday was a public holiday in honour of the Prince of Wales’ birthday, but no public amusements were got up.

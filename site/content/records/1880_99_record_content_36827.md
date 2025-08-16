@@ -21,6 +21,7 @@ topics:
 - protection
 - press dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader was a reply to a rather sharp response from the Barrier Miner to the Burra Record’s treatment of Mr Whitelocke’s views on protection in Broken Hill recently.

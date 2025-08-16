@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Practice match.  Burra 157 drew with Allcomers 8 for 78.

@@ -20,6 +20,7 @@ topics:
 - invention
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Electric Light. A report on Thomas Edison's enterprise at Menlo Park and reference to his patenting of the electric light.

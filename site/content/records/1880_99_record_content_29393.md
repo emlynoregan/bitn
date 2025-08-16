@@ -19,6 +19,7 @@ topics:
 - accident
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fort Largs.   One of the big guns has been disabled by a shell bursting in it during practice.

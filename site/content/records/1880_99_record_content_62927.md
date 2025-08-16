@@ -22,6 +22,7 @@ topics:
 - appointment
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt, the Mayor, left on Monday for the Wesleyan Conference in New Zealand and will be absent about five weeks.  F.W. Holder was selected for the last such conference about 14 years ago.

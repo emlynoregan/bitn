@@ -20,6 +20,7 @@ topics:
 - legislation
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Report of a Meeting at Hallett on the Brands Act and the need for a Farmers' Association.

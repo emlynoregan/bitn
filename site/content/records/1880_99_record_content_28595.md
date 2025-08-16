@@ -21,6 +21,7 @@ topics:
 - race
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Anti-Chinese Movement.  There has been a great anti-Chinese meeting in the Adelaide Town Hall.

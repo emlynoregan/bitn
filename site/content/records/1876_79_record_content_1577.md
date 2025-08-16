@@ -18,6 +18,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Lo-Lo's Crystal Palace Combination Troupe gave two performances with trapeze items, songs etc. and were very well received.

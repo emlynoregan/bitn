@@ -30,6 +30,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Sleeman wife of W. Sleeman died at Burra Hospital on Thursday aged 23.  She leaves a husband and two small children.  She was the only daughter of the late Mr John Edwards.  Mrs Sleeman was born in Burra and was a member of the Lily of the Valley Tent IOR whose members marched in procession to the grave.  She was a sister to Messrs S.R. & J. Edwards (Broken Hill) and W.J. Edwards of Burra.  [Born Elizabeth Hannah Edwards 5 March 1875 and died 24 March 1898 aged 23.]

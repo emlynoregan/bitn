@@ -21,6 +21,7 @@ topics:
 - evidence
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 McDonald made an unsworn statement that they had found a bag under the footbridge to the east side of the Burra hospital with the gun etc. in it.

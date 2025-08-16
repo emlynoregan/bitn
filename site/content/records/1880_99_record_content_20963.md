@@ -17,6 +17,7 @@ topics:
 - numbering
 - newspaper history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1885 began with Volume VI, Number 402 on 2 January 1885

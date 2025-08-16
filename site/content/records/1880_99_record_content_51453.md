@@ -22,6 +22,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Collet-Dobson Dramatic Co. at the Burra Institute 31 October will present Our Boys.

@@ -23,6 +23,7 @@ topics:
 - rubbish depot
 - land exchange
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a serious sanitary consideration.  Mr A.H. Forder of Nelson Hills dairy says the Corporation rubbish depot is far too close to his place.  Mr Forder offers to exchange a piece of land to enable the depot’s relocation.  There are several hotbeds of filth around the town where rubbish has accumulated.  Action is needed.

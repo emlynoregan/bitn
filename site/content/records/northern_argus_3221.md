@@ -22,6 +22,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital Auxiliary held a very successful Melbourne Cup Luncheon at Burra Town Hall.  Rosemary Nairn and the Woodville Madrigal Group provided entertainment.

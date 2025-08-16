@@ -19,6 +19,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Miss Hattman & Company are still in Burra, though not attracting full houses.

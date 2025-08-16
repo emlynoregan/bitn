@@ -24,6 +24,7 @@ topics:
 - business
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  The report for the last half year shows symptoms of a marked revival.  The prospect of the mine again paying dividends is not hopeless.  In the six months to the end of March ore production was 1,308 tons, averaging 21% copper.  This, with 499 tons in hand from September 1874 and 50 tons raised over the estimate for the half year before last makes 1,857 tons available for sale in the half year just ended.  Of that 1,452 tons have been disposed of the E & A Copper Co. leaving 405 tons on hand.  As a result of these figures and a better price for copper the expected loss for the period of £2,164-4-10 has been reduced to a loss of £257-5-0; expenses being £19,438-0-4 and income from all sources £19,180-14-8.  The probable balance of expected profits on the transactions of the last half year is £3,041-4-10.

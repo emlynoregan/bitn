@@ -25,6 +25,7 @@ topics:
 - legal
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ling How was charged by Drew & Crewes with stealing a bag of rice valued at 13/- on 12 August.  He pleaded not guilty.  Found guilty and sentenced to 3 months hard labour in Redruth Gaol.  The day before the trial was due Ling said he would pay for the rice as he didn’t have time to go to gaol.  He failed to appear at the trial and a warrant was issued for his arrest.  He was taken into custody at Terowie on Monday by M-C Davis and tried the next day.

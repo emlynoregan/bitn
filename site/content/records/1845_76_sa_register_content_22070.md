@@ -20,6 +20,7 @@ topics:
 - sale
 - township
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 East Riverton will be offered for sale at the Riverton Hotel on 17 June.  There are about 23 allotments.

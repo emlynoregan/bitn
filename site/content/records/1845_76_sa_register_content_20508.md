@@ -25,6 +25,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mr Tennant, well known squatter of Pt Lincoln died at the Globe.  At the last Thebarton races while passing from the Grand Stand to the paddock he fractured his ankle.  He was under the care of Dr Bayer and was progressing favourably when he suddenly died.  We are told the death is unrelated to his ankle injury, but was caused by ‘an effusion of blood to the brain’.  He was aged 77.

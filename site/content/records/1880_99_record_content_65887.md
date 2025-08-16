@@ -24,6 +24,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. A.G. King, who has been the incumbent at St Mary’s for over 7 years has been appointed to St Paul’s in Port Pirie and will probably leave about mid-April. A meeting of seat-holders will be held on 7 March to decide on appointing a successor.  Since being here Rev. King has worked hard and leaves the parish in a flourishing state with mission churches established at Black Springs, Hallett and Gum Creek.

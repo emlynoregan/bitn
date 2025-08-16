@@ -27,6 +27,7 @@ topics:
 - surveyor
 - compromise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Board has visited and has ignored the difficulties.  They have not attempted to show how their surveyor is correct, but have decided to maintain the road as at present, i.e. in dispute.

@@ -19,6 +19,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Concert to aid the Pyap Village Settlement last Friday gained a fair attendance.  As well as songs and musical items the farce Box and Cox was repeated by special request.

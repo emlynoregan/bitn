@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Primitive Methodist Church Anniversary on 1 January.  Proceeds were enough to leave the church free of debt.

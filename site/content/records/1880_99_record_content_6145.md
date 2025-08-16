@@ -22,6 +22,7 @@ topics:
 - vaccination
 - quarantine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the smallpox outbreak in Sydney and Port Phillip.  The writer urges smallpox vaccination.  The two patients in quarantine on Torrens Island are progressing.

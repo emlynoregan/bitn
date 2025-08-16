@@ -23,6 +23,7 @@ topics:
 - cricket
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Nemo’ writes addressing comments made by the Redruth correspondent on 17 February concerning the abrupt end to the cricket match between Quarrymen & Gentlemen.

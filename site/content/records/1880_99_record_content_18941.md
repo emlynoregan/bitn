@@ -19,6 +19,7 @@ topics:
 - finance
 - subsidy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute has received the subsidy for the last year of £65-8-4.

@@ -22,6 +22,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 4 March at her mother’s residence (Mrs Goss’s) Redruth, to the wife of I. Haskard of Broken Hill and late of Jamestown, a daughter.

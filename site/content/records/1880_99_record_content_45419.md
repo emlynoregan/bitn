@@ -22,6 +22,7 @@ topics:
 - coal
 - delay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The SAR has been running trials of Leigh Creek coal and as a consequence a train from Terowie to Burra was an hour late.

@@ -19,6 +19,7 @@ topics:
 - agriculture
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grasshoppers have swept the countryside and the town clear of all vegetation of any consequence.  The chrysanthemums have gone despite the best of efforts and even the street trees have been hit and disfigured.

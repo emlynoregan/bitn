@@ -23,6 +23,7 @@ topics:
 - livestock
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has banned sheep from crossing the new footway between St Mary’s and the Mine Stores.  As a result sheep are having to use the street through Kooringa.  They are damaging the road and raising a lot of dust.

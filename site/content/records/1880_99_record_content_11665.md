@@ -18,6 +18,7 @@ topics:
 - ghost story
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 22 Jun.	III	An Artist’s Ghost Story	X	X		X	X	X	X				The City of Earthquakes (Caracas)

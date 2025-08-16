@@ -20,6 +20,7 @@ topics:
 - land
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Horrocks Paddock Hundred of Kooringa sections 163, 126 & 164.  Total 965 acres.

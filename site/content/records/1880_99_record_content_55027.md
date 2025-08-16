@@ -20,6 +20,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army Self Denial Fund raised £20-1-0 in the week 13-19 October, with some more yet to come in.  (Across the colony part of this fund is used to finance a pension scheme for officers who are past their days of active duty.)

@@ -18,6 +18,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Entertainment.  A phantasmagoria apparatus has arrived at Kooringa and all are anticipating an amusing and instructive exhibition.

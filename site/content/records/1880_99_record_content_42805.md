@@ -25,6 +25,7 @@ topics:
 - society
 - annual meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society Annual Meeting of Burra Branch in Wesleyan Lecture Hall.  The deputation was Rev. J.G. Wright.  The year’s donation from the branch was £20.  For next year President, Dr Brummitt; Vice-President, Rev. R.M. Hunter; Treasurer, P. Lane; Hon. Sec., W. Davey.

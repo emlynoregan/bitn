@@ -24,6 +24,7 @@ topics:
 - inquest
 - testimony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  J.B. Anderson JP conducted an inquest on Thursday into the death of William Peters who committed suicide the previous evening.

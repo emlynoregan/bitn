@@ -20,6 +20,7 @@ topics:
 - judging
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John W. O’Brien writes complaining he missed a prize at the show because no one was there to see the cows milked, as they should have been.  Judging was therefore done without milk production being evaluated.

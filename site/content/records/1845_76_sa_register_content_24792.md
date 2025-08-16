@@ -23,6 +23,7 @@ topics:
 - agriculture
 - telegraph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Editorial on ‘The Occupations of the People’

@@ -21,6 +21,7 @@ topics:
 - coaches
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. 'Opie's North East Line of Coaches.

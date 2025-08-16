@@ -26,6 +26,7 @@ topics:
 - employment
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Considerable excitement had been shown before the meeting on account of the effects of the disastrous season.  The drought is such that the cartage of ore has been virtually stopped, with but 70 tons on the road and the Patent Copper Company has but six furnaces out of 19 at work because they are unable to get fuel.  Regardless of this situation the Captain of the Mine has declared ‘that the prospects were never more cheering than they now are’.    And observers have been reassured by the fact that profits are only £3,000 less than on 30 March 1850.

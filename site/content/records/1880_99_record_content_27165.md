@@ -19,6 +19,7 @@ topics:
 - industry
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper prices are up.  A few tributers want to go on at the old mine.

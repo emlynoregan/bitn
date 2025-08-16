@@ -19,6 +19,7 @@ topics:
 - concert
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Concert on Friday was well carried out and the hall was splendidly lit with new lamps with duplex burners.  The hall has been recently renovated and decorated.

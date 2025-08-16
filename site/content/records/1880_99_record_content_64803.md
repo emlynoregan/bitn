@@ -20,6 +20,7 @@ topics:
 - assault
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inspector Gray went to inspect a house at the northern end of town last week and had a stump thrown at him by the lady of the house.  This resulted in a court appearance.

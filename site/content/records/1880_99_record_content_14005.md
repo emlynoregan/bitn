@@ -20,6 +20,7 @@ topics:
 - livestock
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Symonds fined 5/- for stray cows.

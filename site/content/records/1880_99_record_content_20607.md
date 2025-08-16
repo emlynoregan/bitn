@@ -18,6 +18,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute 14 December 1885.  Clairvoyance in aid of the Institute.

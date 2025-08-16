@@ -18,6 +18,7 @@ topics:
 - accident
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  There is a report on the railway accident near Wasleys on 17 January.

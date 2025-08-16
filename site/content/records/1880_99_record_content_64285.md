@@ -24,6 +24,7 @@ topics:
 - voting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation.  The voting last Saturday produced a majority for ‘Yes’ in SA, Victoria and Tasmania.  NSW voted ‘No’.  In Burra the votes were 410 ‘Yes’ and 81 ‘No’.  There is no doubt that NSW will legislate for another vote and will ultimately say ‘Yes’.  Though Reid in NSW is for federation he campaigned against this vote because he couldn’t get all he wanted in the Constitution.

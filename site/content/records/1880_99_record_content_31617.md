@@ -20,6 +20,7 @@ topics:
 - inquest
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inquest on the lad Benjamin Warner Cook, who drowned in Hiles Lake [Lagoon] near Terowie, is reported in ¾ column.

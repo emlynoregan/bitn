@@ -20,6 +20,7 @@ topics:
 - business
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 In Commercial Street Burra Photo Services and Video Shop, Steve Woolley’s insurance office and Granny’s Greenhouse are to move along the street to what was Burra Radio & Electrical.

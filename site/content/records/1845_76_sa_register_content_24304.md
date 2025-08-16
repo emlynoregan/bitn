@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Plumpers: Hart 13, Homersham 17, Mann 11.

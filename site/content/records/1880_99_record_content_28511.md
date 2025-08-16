@@ -20,6 +20,7 @@ topics:
 - auction
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Leases in 22,000 square miles of pastoral land will be offered at auction in Adelaide on 27 June.

@@ -21,6 +21,7 @@ topics:
 - planning
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC will meet on 12 February with the planning consultant who is formulating the Supplementary Development Plan, Simon Tonkin and with the Regional Officer of the Department of Environment and Planning, Dean Watson.  It is hoped to have the plan on public display shortly.

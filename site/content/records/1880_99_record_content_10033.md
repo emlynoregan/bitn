@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Station.  Work on the new passenger station is under way.

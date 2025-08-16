@@ -22,6 +22,7 @@ topics:
 - tourism
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC has increased its rates by an average 7.64%.  The main expenditure proposals for 1986-87:

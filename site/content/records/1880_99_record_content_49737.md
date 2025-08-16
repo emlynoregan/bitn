@@ -20,6 +20,7 @@ topics:
 - lecture
 - phonograph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute, Thursday 27 April.  Edison’s Electrically Actuated Phonograph

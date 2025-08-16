@@ -20,6 +20,7 @@ topics:
 - community
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Will. J. Davey who says he is willing to discuss matters regarding the Burra bands at any time.  He continues to believe that having two brass bands in the town is absurd and the petty jealousies between the two should be done away with and the two amalgamate into a single friendly body.

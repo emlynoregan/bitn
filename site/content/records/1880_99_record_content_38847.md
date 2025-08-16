@@ -19,6 +19,7 @@ topics:
 - roads
 - expenditure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unlooked for expenditure was the result of the loss of two footbridges by the floods in February, and damage to two others.  About £40 was expended as a result.

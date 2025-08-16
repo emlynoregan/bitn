@@ -19,6 +19,7 @@ topics:
 - advertisement
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 26 May 1851, page 1

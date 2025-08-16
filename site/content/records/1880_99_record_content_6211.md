@@ -22,6 +22,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Roberts was bidden farewell in the Bible Christian Schoolroom on Tuesday.  He is removing to Port Augusta.  Tea preceded the presentation of a valuable writing case and inkstand from the Sunday School and church.  The Oddfellows Lodge gave him a watch.

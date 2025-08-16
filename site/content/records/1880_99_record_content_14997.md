@@ -20,6 +20,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  St Joseph’s Anniversary Services will be preached by the very Rev. Father Kreissl SJ on Sunday 9 November.

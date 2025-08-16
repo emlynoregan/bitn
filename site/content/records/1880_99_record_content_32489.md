@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church Grand Tea Meeting Tomorrow, Wednesday 15 May.  Tea at 4 p.m.  Public Meeting at 7 p.m. and Supper at 8.30 p.m.  Singing - Sankey’s Hymns.

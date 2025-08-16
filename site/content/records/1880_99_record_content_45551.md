@@ -28,6 +28,7 @@ topics:
 - music
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  On Sunday Captain Norris and Lieut. Wymss [Wemyss] delivered farewell addresses at the barracks which were crowded.  On Sunday afternoon the Army marched to the hospital where the band played several appropriate tunes.  Captain Green from Pt Pirie comes to Burra, but the Lieut. Is not yet known.

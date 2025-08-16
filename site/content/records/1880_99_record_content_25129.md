@@ -19,6 +19,7 @@ topics:
 - military
 - encampment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Defence.  Almost 700 troops were under canvas at Belair encampment on Saturday and Sunday.  It was a great success despite the wet weather.

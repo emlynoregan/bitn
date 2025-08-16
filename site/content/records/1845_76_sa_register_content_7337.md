@@ -22,6 +22,7 @@ topics:
 - land fund
 - destitute relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘An Old Friend’ writes to the editor on the subject of the damage that could be done to the SA Land Fund by people using its funding of emigration to enable them to get to the gold fields.  It is also to be feared the Sa Government will be put to the expense of supporting wives and families left destitute when their menfolk go to the diggings.  He says the Police Act can be used to inflict a heavy penalty on those who leave their families liable to become a charge upon the public.

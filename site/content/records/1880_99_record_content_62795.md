@@ -22,6 +22,7 @@ topics:
 - court
 - damages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M-C Jemison, lately stationed at Kooringa, has received a letter from a lawyer demanding £200 damages for falsely imprisoning Charlotte Goldsworthy.

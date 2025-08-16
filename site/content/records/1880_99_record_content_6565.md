@@ -20,6 +20,7 @@ topics:
 - rates
 - mining company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved to levy rates on the Aberdeen Reserve unless the Yorke’s Peninsula Mining Co. hands it over to Council.

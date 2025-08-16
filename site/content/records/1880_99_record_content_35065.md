@@ -18,6 +18,7 @@ topics:
 - wildlife
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial urging caution in interfering with nature in killing off species with particular reference to the urge to kill off all the sparrows, but also warning of the dangers of indiscriminate draining of bogs.

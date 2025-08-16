@@ -24,6 +24,7 @@ topics:
 - mining
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Our Gold Fields: the Report of Warden William J. Peterwald.

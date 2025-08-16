@@ -19,6 +19,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket. Last Wednesday the Burra Club 11 played a Muffs combination of about 24 of whom 22 were batsmen. Burra 96 defeated Muffs 32.

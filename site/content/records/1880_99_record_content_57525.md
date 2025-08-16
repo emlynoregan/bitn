@@ -21,6 +21,7 @@ topics:
 - social
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Primitive Methodist Young Peoples Christian Endeavour Society also gave the Thomas family a farewell social on Monday evening.

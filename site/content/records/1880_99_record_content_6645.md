@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 27 March, at Mongolata, to the wife of Alfonso Richardson, a son.  [Albert Paul]

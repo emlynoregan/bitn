@@ -19,6 +19,7 @@ topics:
 - competition
 - militia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI fired a rifle match at the Port Adelaide Range on 23 May.  Choppy winds and poor ammunition marred the scores for everyone.

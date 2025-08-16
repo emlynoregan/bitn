@@ -19,6 +19,7 @@ topics:
 - military
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military Entertainment.  This was a great success.  Mr Roach in particular is entitled to the credit for writing the libretto of The Vegetable King, which is a parody of The Flower Queen.  Proceeds were good and the only fly in the ointment was the behaviour of certain larrikins who should be made an example of.

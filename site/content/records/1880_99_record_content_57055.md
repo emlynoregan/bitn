@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town Council and the District Council will meet to inspect the disputed point about the fencing of the new stock road.

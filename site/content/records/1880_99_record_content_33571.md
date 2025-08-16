@@ -20,6 +20,7 @@ topics:
 - essay
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. Burgess, who was a competitor in a recent essay competition in England in which there were 203 competitors, came 5th.  He should have been 2nd, but the judges abandoned their own rules regarding proper length after awarding the first prize.

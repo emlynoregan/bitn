@@ -20,6 +20,7 @@ topics:
 - wages
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wages.  Workers at Dry Creek were already on only 4/6 a day when the government decided to put them on piecework instead to save further money!

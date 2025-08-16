@@ -19,6 +19,7 @@ topics:
 - flood
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie.  The creek crossing a few miles east of the sheep-station was repaired by the Government two years ago, but has been washed out by the recent floods and is impassable by four-horse coach.  The mail is being diverted a considerable distance and thus delayed.

@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth to the wife of R. Horace Steele at Kooringa on 21 January, a daughter.  [Amy Turnbull Steele]

@@ -20,6 +20,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Radio & Electrical was broken into on 17 April and goods to the value of $3,000 to $4,000 were stolen.  A 19-year-old Adelaide youth has been arrested for the offence.

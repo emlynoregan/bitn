@@ -26,6 +26,7 @@ topics:
 - railways
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the opening of the Government Export Stores & Refrigerating Chambers at Port Adelaide on Wednesday last – aimed at boosting SA exports to the UK by eliminating middlemen and agents.  The writer goes on to look over the many ways in which Government has now extended its role into commercial activity, citing the post office, railways and education.

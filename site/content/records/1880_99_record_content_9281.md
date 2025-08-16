@@ -20,6 +20,7 @@ topics:
 - society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society annual meetings were held last week.  The deputation was Rev. W. Davidson who lived in Burra years ago.  Services and meetings were well attended.

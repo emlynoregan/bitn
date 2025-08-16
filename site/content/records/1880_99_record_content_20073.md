@@ -29,6 +29,7 @@ topics:
 - council
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘North Ward Ratepayer’ re the vote of censure.  This vote is regrettable.  It arises out of Cr Ridgway allegedly spending money without authority, but the Mayor and Crs West and Tiver believe that council did order the work on the reserve and the ford.  The lack of any minute may mean the Town Clerk forgot to record it.  The Reserve is condemned because it might increase adjacent land values.  If this measure of selfishness works through the ratepayers we can say goodbye to all public squares, parks and gardens.  The Councillor has to spend £5 a year for 5 years on the Reserve.  The Councillor is censured for not building footpaths to the door of some of the 16 ratepayers.  Have they, and those who did not vote, forgotten the other work done in North Ward.  Compare North Ward with the other wards: -

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Community Library held a trading table and raised $484 – quite close to the target of $500.

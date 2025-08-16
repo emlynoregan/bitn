@@ -25,6 +25,7 @@ topics:
 - teachers
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Government Schools in 1869

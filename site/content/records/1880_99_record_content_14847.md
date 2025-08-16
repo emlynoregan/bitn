@@ -20,6 +20,7 @@ topics:
 - election
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayoralty.  Dr Brummitt has declined to stand again and Mr John Dunstan jun. has been asked to stand.

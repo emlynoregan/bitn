@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 We are sure the public will not stand for the removal of the Kooringa water troughs.  There is no analogy between them and the Aberdeen troughs.

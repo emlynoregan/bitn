@@ -21,6 +21,7 @@ topics:
 - public spending
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes to say his recently published letter on the cost of spreading road metal was not intended for publication, but for the Mayor.  The editor replies that the letter was sent to the editor by name and not to the Mayor officially and it was thus thought to be for publication.  In any event the metal was not costing 90% more than the tender, or anything like that, as will appear at the next Council meeting.

@@ -32,6 +32,7 @@ topics:
 - parks
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy, candidate for North Ward, said he was getting old and not as lively as he used to be.  He was concerned with the Waterworks and thought the present plant of little or no use.  He believed that a move to Jilbert’s Well on the opposite side of the creek and still pumping to the present reservoir would serve and cost about £250.  It would be better in Council hands rather than with the Government.  He favoured spending money on trees and in beautifying the parklands, including Victoria Park.

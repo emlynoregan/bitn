@@ -20,6 +20,7 @@ topics:
 - community
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 THE TOWN COUNCIL having formed themselves into a Committee to relieve Genuine Distress in the town invite persons to call on the Town Clerk and state their case on or before Thursday, July 20.  The Committee beg assistance from all those in a position to help in the above desirable object.	W. DAVEY  Town Clerk

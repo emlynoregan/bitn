@@ -20,6 +20,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. A meeting of the Burra Football Club is called for this evening at the Commercial Hotel.

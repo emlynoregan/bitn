@@ -20,6 +20,7 @@ topics:
 - genealogy
 - note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note that this places Luke Day in Kooringa in mid 1893, rather earlier that the family research in the book on his life suggests.]

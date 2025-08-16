@@ -19,6 +19,7 @@ topics:
 - military
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After Friday’s drill a meeting was held re uniforms and Messrs Marshall & Sons offer will be accepted.

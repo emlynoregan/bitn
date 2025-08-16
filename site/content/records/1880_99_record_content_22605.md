@@ -18,6 +18,7 @@ topics:
 - exhibition
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Exhibition.  The foundation stone of the Adelaide Exhibition Building has been laid.

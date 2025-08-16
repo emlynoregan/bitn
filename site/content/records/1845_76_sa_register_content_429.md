@@ -25,6 +25,7 @@ topics:
 - development
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called for the erection of public houses and associated yards at:

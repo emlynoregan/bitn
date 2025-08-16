@@ -34,6 +34,7 @@ topics:
 - migration
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs John Roach, widow of the late John Roach Sen. of Aberdeen, died on Saturday 22 February aged 79.  She arrived in SA with her husband in the Cressy in 1847 and came at once to Kooringa.  In 1854 the family moved to Penwortham, where they lived for 20 years.  In 1874 Mr Roach built the Burra Mill and they lived near it in Aberdeen until his death in 1881.  Mrs Roach remained there till her death.  Mrs Roach leaves three sons: John & Thomas of Adelaide and Henry in Aberdeen.  There are two daughters: Mrs W. Haslam (Jamestown), & Mrs R. Brummitt (Kooringa).

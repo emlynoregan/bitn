@@ -21,6 +21,7 @@ topics:
 - community
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 To the Burra in One Day

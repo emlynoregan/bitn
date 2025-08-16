@@ -18,6 +18,7 @@ topics:
 - land
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Commonage at Baldina - further complaints about its absence

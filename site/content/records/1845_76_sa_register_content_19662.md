@@ -19,6 +19,7 @@ topics:
 - railway
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The contemplated railway remains the chief topic of discussion.  The townspeople are determined to do all they can to get a railway to the Burra.

@@ -19,6 +19,7 @@ topics:
 - health
 - visitor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor A. Mitchell, an Aurist and Oculist, is visiting Burra.

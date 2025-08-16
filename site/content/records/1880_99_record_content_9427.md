@@ -31,6 +31,7 @@ topics:
 - accident
 - maritime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Henry Dawson JP has been drowned in a yachting accident.  A party of gentlemen had gone on a sealing expedition in the yacht Haidee to Pt Lincoln, Neptune Is and Sir Joseph Banks Island.  The yacht was struck by an unexpected wave, which washed Messrs King and Dawson overboard.  The boat could not be turned around to attempt to rescue them, but in any event their heavy clothing made survival in the water impossible.  Mr King was the father of Thomas King MP (Mayor of Glenelg) and of Mr William King.  He arrived in SA in 1852.

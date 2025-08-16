@@ -17,6 +17,7 @@ topics:
 - politics
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chinese Bill.   Debate continues with 34 speakers so far.

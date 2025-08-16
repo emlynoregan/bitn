@@ -20,6 +20,7 @@ topics:
 - inquest
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sarah Foy died last Friday following the accident with the ballast train on 7 November.  There was an inquest Saturday and the funeral that afternoon.  She had been a resident for 45 years and has seven daughters and two sons.  [Died 24 November 1893 aged 58.]

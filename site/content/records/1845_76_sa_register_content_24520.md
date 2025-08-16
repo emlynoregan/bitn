@@ -20,6 +20,7 @@ topics:
 - economy
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  The continuing dry spell in the Burra district has brought fears of an impending drought.  The town is now benefiting from the reopening of the mine and the influx of miners’ custom.  This and the addition of trade from farmers recently settled around the district along with considerable orders from sheep farmers to the north and east had made businessmen hopeful that the winter would pass without financial difficulties, but now the prospect of a drought is causing apprehension.

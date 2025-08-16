@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s will stage a sale of useful and fancy goods and a strawberry picnic at the Recreation Ground shortly in aid of the new schoolroom.  There will be large tents and sports with a shooting gallery, maypole dancing etc.

@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday a little boy called Prior fell into a well and sustained a rather severe contusion to the head.  I have not heard how he is progressing.

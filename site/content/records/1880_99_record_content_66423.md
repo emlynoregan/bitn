@@ -19,6 +19,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Dale, who fell from the train near Cockburn died on Tuesday afternoon, 13 June.

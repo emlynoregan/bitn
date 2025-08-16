@@ -21,6 +21,7 @@ topics:
 - education
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.H. Angus [sic] [Angas] has given Adelaide University £6,080 to establish a Chair of Chemistry.

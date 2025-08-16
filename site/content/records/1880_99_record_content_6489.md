@@ -22,6 +22,7 @@ topics:
 - publication
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy who reveals himself as the writer of the letter from ‘Rubbish’ in the last issue but one.  He writes re the attack on ‘Rubbish’  [Since this does not seem to have been in The Record, it may have appeared in the abandoned Tandem magazine.]

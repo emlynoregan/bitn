@@ -20,6 +20,7 @@ topics:
 - music
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had a crowded meeting on 22 July when the program was put on entirely by the lady members.

@@ -23,6 +23,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Buzacott and the native Teavae visited Burra today.  A lecture was delivered in the Wesleyan Chapel this evening to a crowded audience.

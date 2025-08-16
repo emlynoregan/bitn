@@ -20,6 +20,7 @@ topics:
 - animal control
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dog Nuisance.  A meeting was held at the Burra Hotel on 6 June with R. Brown in the chair.  Nothing was resolved and there will be further discussion at the next meeting.

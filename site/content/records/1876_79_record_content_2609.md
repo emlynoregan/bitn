@@ -20,6 +20,7 @@ topics:
 - wildlife
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Brolgas; a flock of 20 seen between Mintaro (Merilden) and Farrell's Flat.

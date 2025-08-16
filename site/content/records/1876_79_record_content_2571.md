@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway. The roads to be closed by the line in the Mt Bryan area will now not be.

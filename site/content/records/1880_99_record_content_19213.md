@@ -17,6 +17,7 @@ topics:
 - social
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘City of Big-Big’.  Part VI, wherein the author turns to the social scene and where, one assumes, readers of the day could identify particular individuals from the way their businesses are described.

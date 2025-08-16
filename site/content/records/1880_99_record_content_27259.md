@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The loss of trade through the depression has been exacerbated by the construction of the Broken Hill railway, which has taken away the north-east trade.

@@ -27,6 +27,7 @@ topics:
 - election
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Mr Edward Lipsett (lb7) defeated Mr Stephens (121) and was sworn in as new mayor. The new councillors: North Ward: A. Bartholomaeus, Middle Ward: William Geake, South Ward: W.H. Batchelor, with F.R. White and J.D. Cave as Auditors.

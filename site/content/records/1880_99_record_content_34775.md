@@ -19,6 +19,7 @@ topics:
 - exhibition
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Christmas Festival & Exhibition continued on Thursday and Friday and was a great success.  Results of competition entries are printed.

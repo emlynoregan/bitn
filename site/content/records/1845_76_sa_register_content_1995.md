@@ -18,6 +18,7 @@ topics:
 - procurement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called for the building of three stage-carts like the Reformer, with strong lockers.

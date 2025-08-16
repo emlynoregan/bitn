@@ -18,6 +18,7 @@ topics:
 - numbering
 - date
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume VII, Number 565 on 30 July 1886 and then

@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  Various small works were ordered done and kerbing continued to be laid gradually.  Cr Harris moved that SAMA be asked to carry the water from their dwellings across the footpaths.

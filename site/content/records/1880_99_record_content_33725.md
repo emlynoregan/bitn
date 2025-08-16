@@ -22,6 +22,7 @@ topics:
 - band
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Band Concert.  On Saturday evening the band appeared for the first time under its new conductor, W.J. Davey, who comes fresh from the Launceston City Band.  The band played on a trolly in Market Square.  The Mayor opened proceedings.  The concert is most favourably reviewed.  About 500 attended.

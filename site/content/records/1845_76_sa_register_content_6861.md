@@ -32,6 +32,7 @@ topics:
 - shipments
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 From the Bathurst Free Press

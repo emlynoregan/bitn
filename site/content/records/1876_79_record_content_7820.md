@@ -19,6 +19,7 @@ topics:
 - examinations
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 School of St Joseph. 74 students were examined on Thursday prior to breaking up for the year. The children passed most satisfactorily.

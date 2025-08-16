@@ -32,6 +32,7 @@ topics:
 - employment
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes condemning strongly the activities of the Town Council in meeting behind closed doors.  He refers to the audacity and effrontery of a person [Cr Rabbich] asking respectable ratepayers to leave the room.  He mentions several examples of expenditure he clearly feels were injudicious.

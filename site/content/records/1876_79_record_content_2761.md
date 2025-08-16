@@ -20,6 +20,7 @@ topics:
 - business
 - postal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr J. Roberts, formerly of Kooringa has a good stock of goods and runs the P.O. with mail 3 times a week to Marrabel.

@@ -20,6 +20,7 @@ topics:
 - community
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.Y. Simpson drew a good attendance to his lecture on Scottish Characteristics on Wednesday evening in the Wesleyan Lecture Hall.

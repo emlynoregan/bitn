@@ -25,6 +25,7 @@ topics:
 - obituary
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mrs Dyer, wife of Mr Dyer, chemist and druggist, died on 26 September of erysipelatous inflammation of the brain after a very short illness.  She was 25.

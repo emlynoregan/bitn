@@ -25,6 +25,7 @@ topics:
 - missing person
 - search
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Disappearance & Obituary.  E.M. Bagot has disappeared and has not been found despite a strenuous search.  There is a rumour that he was seen at Burra Railway Station midday last Tuesday.  Mr G. Bagot and Detective Hampton visited Burra yesterday, but found no clues.  [Edward Meade Bagot was a well-known stock salesman according to the paper of 30 July 1886.]

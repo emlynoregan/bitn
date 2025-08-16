@@ -19,6 +19,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Singers were well received and as good as ever.

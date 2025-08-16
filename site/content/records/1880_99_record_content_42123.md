@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kregor G. Kewley had some nasty bruises when his horse fell on him when he was driving some horses from the brewery paddock on Saturday.

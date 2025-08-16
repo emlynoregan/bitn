@@ -18,6 +18,7 @@ topics:
 - welfare
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer examines the moral dilemma of spending money and effort to maintain the sick and old and insane while not having compassion for, or expenditure on, the hungry and destitute who are able-bodied.

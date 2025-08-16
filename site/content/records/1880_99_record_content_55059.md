@@ -20,6 +20,7 @@ topics:
 - livestock
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis Ltd. will offer 15,300 fat and store sheep on 2 November.

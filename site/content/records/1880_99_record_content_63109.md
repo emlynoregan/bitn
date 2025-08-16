@@ -19,6 +19,7 @@ topics:
 - public health
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Insect Invasion.  Myriads of small black insects arrived in town on Thursday evening.  They congregated around lamps and fell into burners, sometimes resulting in broken glasses.  In some places their numbers put out candles and in the morning they were swept from floors and windowsills.

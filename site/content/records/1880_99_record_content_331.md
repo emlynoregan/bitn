@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘A Parent’ denying that any reflection on the School Board of Advice was intended in his recent letter and recommending that complaints be addressed to the Board.

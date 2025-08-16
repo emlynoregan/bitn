@@ -23,6 +23,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rounsevell said he had proposed first a land tax and then an income tax and then after the gradual abolition of subsidies, a stamp tax which Holder said would add  £1 tax to every man, woman and child.  Dr Stephens had no knowledge of the editorial and should not be damaged by assertions to the contrary.

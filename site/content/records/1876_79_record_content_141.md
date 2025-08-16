@@ -21,6 +21,7 @@ topics:
 - politics
 - parliamentary_debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Estrom’ writes saying that the recent debate in the SA Parliament on railway gauges saw only one speaker argue forcibly against the current support for the narrow gauge.  There is, he says, a remarkable similarity in the arguments of Mr Rees in Parliament and those put forward in the local Parliamentary Club debate on the issue, indeed access to the local debates seems evident from a perusal of the reports of the SA Parliament.

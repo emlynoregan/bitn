@@ -21,6 +21,7 @@ topics:
 - rates
 - town beautification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Watt believed it was taxing those who beautified the town with fine buildings and brought in much business.

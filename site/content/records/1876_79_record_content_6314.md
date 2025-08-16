@@ -19,6 +19,7 @@ topics:
 - event
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Lecture on `The Great Pyramid and the year 1881' at the Institute, Kooringa, 7 May, with coloured painted diagram 12'x18', 1/- & 2/-.

@@ -19,6 +19,7 @@ topics:
 - employment
 - smelting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kapunda Mine About 250 tons of ore are being raised each month.  About 190 men and 20 boys are employed, with some 40 engaged in carting etc.  Several new furnaces are being erected and it is intended to smelt all ores to fine copper.

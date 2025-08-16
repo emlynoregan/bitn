@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  A railway from Port Augusta to Perth would be a useless affair.

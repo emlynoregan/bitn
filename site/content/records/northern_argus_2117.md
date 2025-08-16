@@ -22,6 +22,7 @@ topics:
 - history
 - display
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Model T Fire Brigade is back in Burra after being restored per favour of Mr John and it is currently on display in Jennison’s showroom.  The Metropolitan Fire Brigade believes it is the oldest motorised fire engine in SA.

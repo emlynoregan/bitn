@@ -21,6 +21,7 @@ topics:
 - silver
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  In the World’s End area the Black Hills Mines have now been surveyed and disputes over boundaries settled.  Dunstan & Co. have all they claimed.  Silver claims continue to be made.

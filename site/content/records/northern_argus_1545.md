@@ -27,6 +27,7 @@ topics:
 - exchange
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Fr Richard Morris of St Mary’s Anglican Church with his wife Mary and daughter Joan will leave for Kerrville, Texas on 23 August to take up a two month exchange of duties with Rev. Marvin Bond and his 23-year-old son Michael, who will come to Burra for the same period.  [Details of the Kerrville town and parish are printed.]

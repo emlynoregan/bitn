@@ -20,6 +20,7 @@ topics:
 - sanitation
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Health.  Last year the death rate was high, but this year it has fallen back to normal and sanitary conditions are good.

@@ -33,6 +33,7 @@ topics:
 - redevelopment
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Volunteers will photograph all buildings in Burra on the same day within the next two months.

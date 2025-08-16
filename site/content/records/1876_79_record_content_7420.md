@@ -21,6 +21,7 @@ topics:
 - plans
 - reserves
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Plans will be sent to SAMA and the Yorke's Peninsula Mining Association showing the reserves sought.

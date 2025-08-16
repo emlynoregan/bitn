@@ -20,6 +20,7 @@ topics:
 - media
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A Japanese film crew has been in the area filming Under the Shade of a Coolabah Tree and on Friday they shot a scene in the front bar of the Booborowie Hotel, using local people in the scene.

@@ -21,6 +21,7 @@ topics:
 - mining
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Inglis of Kapunda writes to quote from a letter received by Mr Joseph Gurr from the Barrier Diggings.

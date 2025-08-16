@@ -21,6 +21,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to the wife of T. Kitchen at Kooringa on 2 June, twin daughters.  [Ethel and Mabel Kitchen]

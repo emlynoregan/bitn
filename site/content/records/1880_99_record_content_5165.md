@@ -22,6 +22,7 @@ topics:
 - exhibition
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show was reported in the ‘Garden and Field’ as the best country show of sheep.  Also the large number of horses were commented on, and the fowls were hardly beaten by the Poultry Society’s show in Adelaide.  There were complaints though, that in some sections prizes were won that were merely bought by those entering them - this applied for example to some entries in the fruit, vegetables and flowers sections.

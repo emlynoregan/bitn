@@ -24,6 +24,7 @@ topics:
 - transport
 - railway station
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ed. Burra is most unsightly, being almost treeless and flowerless. There is a need to divest the town of `its unenviable attribute of almost peerless ugliness' Trees are needed everywhere. Compare with the eastern side of Gawler where tree planting has done so much.

@@ -19,6 +19,7 @@ topics:
 - editorial
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor says this closes the correspondence on the issue and chastises Hardy for being greatly deficient in the courtesy that had been displayed by his opponents.

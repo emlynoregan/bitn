@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra DC advises its decision to form and metal 7 chains of road adjoining the western boundary of the Corporation and asking for the Corporation to improve the road on its side.  Received.

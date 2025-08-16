@@ -20,6 +20,7 @@ topics:
 - rabbits
 - hunting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Last Saturday a shooting party left Apoinga at 9.30 and took the stock road into Bright, killing 300 rabbits.  Three months ago scarce a rabbit was to be seen here.

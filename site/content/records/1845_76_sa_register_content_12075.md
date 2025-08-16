@@ -18,6 +18,7 @@ topics:
 - telegraph
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr C. Todd, Superintendent of Telegraphs, has been inspecting the township to find a site for the telegraph office and other arrangements for the telegraph, which is shortly to be carried on here.  It is hoped that the site will be in some central position.

@@ -20,6 +20,7 @@ topics:
 - mining
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  The lode known as Ayers’ Lode has just been cut into at the fifty fathom level and some magnificent specimens, now to be seen at the office of the SA Mining Association, have been procured from this recent development.

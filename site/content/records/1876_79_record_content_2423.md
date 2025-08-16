@@ -20,6 +20,7 @@ topics:
 - business
 - civic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 P. Lane: (Mayor) was a Saddler and Ironmonger of Market Square

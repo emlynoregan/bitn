@@ -23,6 +23,7 @@ topics:
 - dinner
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church and Parsonage have an annual loan instalment due in October.  There will be a Sale of Gifts and a Dinner at the Institute 5 October, with musical entertainment in the evening, directed by Amy Wylie.

@@ -20,6 +20,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Back in 1882 Cr Sampson moved a resolution for the issue of 5% bonds for £1,600 for new works and to pay the overdraft, plus £400 for the town survey (which was never done), plus £500 for the stone wall around the Recreation Ground.  A total of £2,500.

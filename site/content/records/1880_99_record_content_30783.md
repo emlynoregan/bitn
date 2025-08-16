@@ -19,6 +19,7 @@ topics:
 - death
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  The report of the Railway Commissioners on the accident near Yarcowie on 20 November in which two railway workers were killed, found that they met their death through disobeying established rules.

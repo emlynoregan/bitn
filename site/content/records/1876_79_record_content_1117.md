@@ -19,6 +19,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Amateur Christy Minstrels: Advt. for show in the Institute on Mon. & Tues. 4 & 5 Sep.

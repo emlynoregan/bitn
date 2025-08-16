@@ -18,6 +18,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, Wednesday & Thursday 29 & 21 February.

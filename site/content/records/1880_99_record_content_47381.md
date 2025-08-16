@@ -18,6 +18,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In retiring Mr West has earned our respect for the way he ‘has carried out the somewhat difficult duties without fear or favour’.  The town has benefited from his ‘ability, integrity and persevering efforts to promote the general welfare of it.’

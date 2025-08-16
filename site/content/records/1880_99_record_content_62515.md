@@ -24,6 +24,7 @@ topics:
 - marriage
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  Last Wednesday 30 June at St Mary’s, Mr W.J.C. [William John Charles] Ewins, eldest son of C.H. Ewins of Burra married Miss Louie [Louisa] Vivian, second daughter of the popular and pioneer landlord of the Commercial Hotel.  The wedding breakfast for 50 guests was held at the Commercial Hotel.

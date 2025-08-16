@@ -22,6 +22,7 @@ topics:
 - clock maker
 - jeweller
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Nicholls	Watch & Clock Maker, Jeweller, almost opposite the

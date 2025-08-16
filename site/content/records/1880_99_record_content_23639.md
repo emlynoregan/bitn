@@ -21,6 +21,7 @@ topics:
 - community
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The second competition firing for Cr Sampson’s Cup was won by Captain Holder.

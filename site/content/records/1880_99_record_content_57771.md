@@ -23,6 +23,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Friday 9 August at Burra Institute.  Henry J. Byron’s Drama Blow for Blow.

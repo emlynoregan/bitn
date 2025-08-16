@@ -18,6 +18,7 @@ topics:
 - trees
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Several tree guards have recently been destroyed, this time those who destroyed them have stated they were willing to pay for the damage.

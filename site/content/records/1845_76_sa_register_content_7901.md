@@ -24,6 +24,7 @@ topics:
 - hardship
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘I have only to add that I believe gold to exist in Victoria in vast abundance, yet that hundreds are there who curse the day that they left South Australia and that there is more morality observable at the diggings than in Melbourne.’  I shall probably go again to the diggings when the rains set in, but I would not take my family to reside in Melbourne.

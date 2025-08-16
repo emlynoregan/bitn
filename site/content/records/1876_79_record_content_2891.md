@@ -22,6 +22,7 @@ topics:
 - railway
 - tariff
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kapunda Mine. The rail tariffs had an effect here too when in addition to low copper prices. Capt. Osborne has stopped one pump and put the pull engine on half time, allowing the water to rise from the 80 to the 70 fathom level. About 20 jobs will have to go.

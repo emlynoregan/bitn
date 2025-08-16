@@ -20,6 +20,7 @@ topics:
 - lecture
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. E. Gratton will give a lecture, Look at the Bright Side, on Friday evening in the Bible Christian Church.

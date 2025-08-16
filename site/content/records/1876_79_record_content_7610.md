@@ -18,6 +18,7 @@ topics:
 - legal
 - public_infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Frederick Bromley	Leaving a butcher's cart on a public footpath	10/

@@ -22,6 +22,7 @@ topics:
 - public services
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police.  Kooringa has been without a policeman for several weeks due to the ill health of the officer, leaving the Redruth man to do all the work.  When Mr Dolman died at Baldina on Wednesday it was over six hours before he could get away to bring the body in.  This is ridiculous.

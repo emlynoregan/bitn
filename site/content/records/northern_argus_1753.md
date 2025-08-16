@@ -19,6 +19,7 @@ topics:
 - photograph
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of the crowd at Morphett’s Enginehouse and on page? one showing Keith Johns addressing them.]

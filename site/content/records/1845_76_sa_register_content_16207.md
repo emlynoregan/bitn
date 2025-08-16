@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Tuesday the second anniversary of the Wesleyan Mutual Improvement Society was celebrated.  A public tea meeting was held in the Wesleyan Schoolroom.  A large number attended and Rev. T. Lloyd, President of the Society, presided.

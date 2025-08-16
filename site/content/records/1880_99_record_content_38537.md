@@ -18,6 +18,7 @@ topics:
 - local option
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ writes again on local option, but merely reiterates arguments already printed several times.

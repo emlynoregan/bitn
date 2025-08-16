@@ -20,6 +20,7 @@ topics:
 - church
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Vestry Meeting on 5 April revealed the debt on the schoolroom had been reduced to £197-18-3.  The general account is 9d in deficit.

@@ -23,6 +23,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church, Anniversary 3 October.  Rev. J.G. Wright preached.  The public meeting topic was Burra 25 years ago compared with Burra today.  On arriving in SA the speaker took a coach to Burra where he sought his own people, but they received him not.  The Rev. J. Rowe took him in and then the miners rallied around him too.  One of the outlying churches had been abandoned to a number of emigrants [immigrants?] and after they left a number of pigs moved in.

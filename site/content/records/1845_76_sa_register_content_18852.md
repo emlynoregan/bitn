@@ -20,6 +20,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Some houses suffered damage to their roofs and so did the Court House.

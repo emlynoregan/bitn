@@ -24,6 +24,7 @@ topics:
 - corporation
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday a meeting of leaseholders of Kooringa took place in the Mechanics’ Institute to consider a circular sent to a number of them by the Board of Directors of the SA Mining Association calling upon leaseholders to consider the propriety of forming a Corporation to take on the management of the streets and roads of the township under their care, as they sadly wanted repair.  The circular also stated that the Board was prepared to renew leases upon liberal terms.  Dr Mayne was called to the chair and read the circular to the meeting.  A committee was formed to learn what the liberal terms were and to communicate them to a meeting.

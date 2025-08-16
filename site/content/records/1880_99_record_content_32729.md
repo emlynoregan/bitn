@@ -21,6 +21,7 @@ topics:
 - food
 - rabbit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Economy’ suggesting rabbit meat should be supplied to the poor and to zoo animals rather than, as someone else has suggested, being frozen and sent to England.

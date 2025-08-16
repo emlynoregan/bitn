@@ -29,6 +29,7 @@ topics:
 - polo
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  At Aberdeen on Saturday there was a drawn game between Burra & Adelaide at 6 goals each.  The Burra players were: H. & E. Bowman, W.G. Hawkes & G. Lewis.

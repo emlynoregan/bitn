@@ -21,6 +21,7 @@ topics:
 - church
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  A concert in the schoolroom on Wednesday was successful.  It was held to raise funds for the St Mary’s Church Cricket club.

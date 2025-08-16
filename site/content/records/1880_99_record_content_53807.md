@@ -23,6 +23,7 @@ topics:
 - mission
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Thomas Cook’s mission at the Kooringa Wesleyan Church takes place next Sunday.  He is one of the church’s most successful missionary preachers ever and has been heard in Great Britain, Ireland and South Africa.

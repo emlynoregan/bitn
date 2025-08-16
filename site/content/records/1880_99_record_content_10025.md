@@ -18,6 +18,7 @@ topics:
 - education
 - classes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Miss Kilkelly begs to inform inhabitants she will open an evening class for girls on 4 June.  Classes in Reading, Spelling, Writing, Arithmetic & Book-keeping.

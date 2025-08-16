@@ -20,6 +20,7 @@ topics:
 - inquest
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest.  The inquest on the body of G.E. Steinert is reported in detail over 2 columns.

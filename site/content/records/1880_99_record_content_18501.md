@@ -19,6 +19,7 @@ topics:
 - statistics
 - totals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 WA	475	182	WA	386		101

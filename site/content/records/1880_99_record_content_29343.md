@@ -20,6 +20,7 @@ topics:
 - drill
 - volunteer forces
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  A battalion drill is being organised for Hamley Bridge or Balaklava for three days. (Over a public holiday.)

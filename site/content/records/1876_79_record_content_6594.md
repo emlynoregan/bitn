@@ -22,6 +22,7 @@ topics:
 - community
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Corporation resolved to set land aside in Market Square for a well to be authorised on the understanding that public subscription meets half the cost and the well be handed over to the Corporation.

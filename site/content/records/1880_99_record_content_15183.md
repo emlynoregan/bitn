@@ -21,6 +21,7 @@ topics:
 - religion
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s.  Father Kreissl preached three sermons on the anniversary of St Joseph’s Church last Sunday.

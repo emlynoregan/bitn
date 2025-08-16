@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - port
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Burra’ writes from Burra Burra Mines 10 October, concerning the railway to the north.

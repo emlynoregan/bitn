@@ -19,6 +19,7 @@ topics:
 - business
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bon Accord Hotel has a contract let to make similar improvements to those at the Royal Exchange.

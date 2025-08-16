@@ -20,6 +20,7 @@ topics:
 - crime
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Mayger Sen., mason, was charged by William West with maliciously setting fire to a house, the property of SAMA, on 25 October last.  It not being established whether the fire was deliberately lit, the case was dismissed.

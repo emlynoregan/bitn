@@ -21,6 +21,7 @@ topics:
 - inquest
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  Thomas Hayward was found dead in his bed on Sunday morning and an inquest was held on Monday before Mr McDermott SM.  The jury found that the death was due to natural causes.

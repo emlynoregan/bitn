@@ -19,6 +19,7 @@ topics:
 - finance
 - bonds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council calls tenders for £400 of bonds secured on the rates and bearing 6%.

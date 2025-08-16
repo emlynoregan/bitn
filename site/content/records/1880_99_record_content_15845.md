@@ -29,6 +29,7 @@ topics:
 - train
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George Rigby, an old man, who was on his way from Quorn to the Adelaide Hospital had a fit in the train at the Burra Station and died shortly after being removed to the Bon Accord Hotel.  He had worked on Yardea and Mt Eva Stations northwest of Port Augusta.  [Died 26 December, aged 61.]

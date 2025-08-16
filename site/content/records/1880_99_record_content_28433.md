@@ -21,6 +21,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  A special meeting of subscribers was held on 20 April for the election of a Governor for the Public Library etc., filling a vacancy caused by the resignation of Hon. D. Murray MLC.  F.W. Holder MP was nominated.

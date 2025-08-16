@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks problems continue and on Monday no water was available in the south end of town.  Once wells were common here, but now they have mostly been either filled in or fallen in through neglect, so many people had to cart water in buckets for great distances.  People are complaining about paying for water they cannot get.  It is not the local authorities that are to blame.  ‘The pumps are useless, the reservoir is no good and the water when it is pumped is passable for garden purposes or to wash out hen houses, and the like.’

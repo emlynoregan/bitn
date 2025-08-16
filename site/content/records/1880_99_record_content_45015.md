@@ -20,6 +20,7 @@ topics:
 - anniversary
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Church Anniversary was celebrated on 3 & 4 April.  The services were largely attended.  The Iron Mine Brass Band assisted at the tea meeting.

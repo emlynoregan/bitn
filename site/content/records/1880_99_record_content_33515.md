@@ -23,6 +23,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Norwood came to play a combined northern team, but on the day Burra had to find all but one man from Auburn and one from Pt Pirie.  The visitors were entertained at the Commercial Hotel on Saturday evening and on Monday at 1.30 p.m. F.W. Holder MP welcomed them to the ground.

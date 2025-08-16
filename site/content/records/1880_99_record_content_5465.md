@@ -20,6 +20,7 @@ topics:
 - development
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Transcontinental Railway.  It is reported that a group of London capitalists wants to build a railway to Port Darwin on the land-grant principle.

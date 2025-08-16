@@ -21,6 +21,7 @@ topics:
 - missions
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Foreign Missions special services next Sunday, Monday and Tuesday in Kooringa and Redruth.

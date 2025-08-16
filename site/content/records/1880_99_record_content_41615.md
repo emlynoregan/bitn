@@ -19,6 +19,7 @@ topics:
 - union
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pastoralists’ Union.   A large meeting of pastoralists at the Institute on Friday night decided to form a branch of the union here.

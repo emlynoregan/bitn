@@ -20,6 +20,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Saturday: Kooringa 4 goals defeated Aberdeen 3 goals.

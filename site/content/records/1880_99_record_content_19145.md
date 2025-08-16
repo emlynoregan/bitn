@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Church Anniversary 20 September & tea meeting 21 September.

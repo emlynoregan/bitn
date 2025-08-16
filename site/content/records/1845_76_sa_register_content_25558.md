@@ -26,6 +26,7 @@ topics:
 - races
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Races were held at Copperhouse in a paddock lent by the SAMA on 1 & 2 January.  There were many spectators considering the time of year, which is busy for farmers.  The grandstand was packed.  Mr A. Stewart catered.  The Town Plate carried the largest prize, but was contested by only two horses.  It was won by Mr J.J. Swinden’s b.m. Sunbeam, aged 5 years and carrying 9 st 11 lb and ridden by Jenkins.

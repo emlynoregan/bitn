@@ -21,6 +21,7 @@ topics:
 - church
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.S. Casely was farewelled at a tea and public meeting in the Wesleyan Lecture Hall on 7 April.  Presentations were made to Rev. Casely and to his three daughters.

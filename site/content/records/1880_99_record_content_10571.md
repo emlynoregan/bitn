@@ -21,6 +21,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Burra club has accepted a challenge from the Aberdeen club for 8 September, at the ground near Drew’s store.

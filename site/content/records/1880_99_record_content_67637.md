@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Memorial Service for James Chynoweth was impressive at the Kooringa Primitive Methodist Church last Sunday evening.

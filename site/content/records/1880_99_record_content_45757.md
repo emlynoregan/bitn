@@ -24,6 +24,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Children’s Ministering League formed a branch in Burra in November 1891.

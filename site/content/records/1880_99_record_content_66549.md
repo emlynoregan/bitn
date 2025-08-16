@@ -20,6 +20,7 @@ topics:
 - health
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Captain Melksham’s farewell social is tonight.  He leaves after 7 months’ work here.  Mrs Melksham has been ill for about 12 weeks and will not accompany her husband for at least a week or until she recovers.

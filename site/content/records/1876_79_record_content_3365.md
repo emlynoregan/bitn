@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The new school will open on 15 Jan. and the Corp. is to prepare suitable celebrations.

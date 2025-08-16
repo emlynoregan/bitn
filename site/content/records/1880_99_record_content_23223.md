@@ -20,6 +20,7 @@ topics:
 - RVF
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The Caltowie drill has been postponed due to the likely low attendance.

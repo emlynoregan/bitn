@@ -22,6 +22,7 @@ topics:
 - wrestling
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wrestling.  The match attracted c. 150 at 4 p.m. yesterday.  H. Vivian fought J. Cohen for £2 a side in a best of three falls match, but five falls took place before a decision from Henderson & Gaffey awarded the match to Cohen.

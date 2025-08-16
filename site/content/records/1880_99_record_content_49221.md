@@ -21,6 +21,7 @@ topics:
 - adjournment
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson then moved the Council adjourn as the Mayor refuses to go on with the business.  Cr Parks 2nd.

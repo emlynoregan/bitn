@@ -27,6 +27,7 @@ topics:
 - port
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Port Wakefield is very busy at present.

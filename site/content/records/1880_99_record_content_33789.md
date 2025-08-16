@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  Members are reminded of the battalion drill to be held in Auburn next Monday.  Local drills of course continue.

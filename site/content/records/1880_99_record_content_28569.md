@@ -19,6 +19,7 @@ topics:
 - sport
 - rifle match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  Last Wednesday Aberdeen 257 defeated Kooringa 215

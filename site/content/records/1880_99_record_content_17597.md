@@ -22,6 +22,7 @@ topics:
 - injury
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  James Murphy of Aberdeen was badly injured when rails fell from a truck onto him when he was working on the railway near Mintaro [i.e. Merilden].  He is said to be doing well.

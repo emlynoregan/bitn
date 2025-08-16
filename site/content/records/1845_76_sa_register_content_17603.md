@@ -18,6 +18,7 @@ topics:
 - livestock
 - sheep
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Lambing has been good in the district.  Many sheep farmers are reporting a rate of 90% or more.

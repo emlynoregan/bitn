@@ -24,6 +24,7 @@ topics:
 - dispute
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said the Hydraulic Engineer ‘was labouring under an hallucination’.  In interviews with Mr Mestayer he had gained the impression that the engineer agreed that more horsepower was necessary and correspondence bore out that view.  The question was would the larger engine be better for the council and that point was not addressed.

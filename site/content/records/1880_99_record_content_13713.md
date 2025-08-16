@@ -21,6 +21,7 @@ topics:
 - survey
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  Pt Augusta is despatching a person along their preferred route from Carrieton to the border to get information for their case.

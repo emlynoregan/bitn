@@ -20,6 +20,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The match on Tuesday afternoon last near the brewery between Aberdeen and Young United resulted in an easy win for Aberdeen.

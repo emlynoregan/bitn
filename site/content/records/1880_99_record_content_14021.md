@@ -21,6 +21,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J.R. M’Leary [sic] left for Adelaide on Monday after residence here for 4 years 9 months.  He was given a farewell at Young’s Hotel on Monday.  John F. Duff presided.  His health was drunk with bumpers of champagne and musical honours.

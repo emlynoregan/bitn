@@ -26,6 +26,7 @@ topics:
 - mining
 - living conditions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 27 December 1850.  After breakfast we set out for the Burra through vast undulating plains of a light red and brown colour.  There was no vegetation higher than a blade of spear grass to be seen, except upon some very distant hills.  The only watercourse we crossed was the Hill River.  At about 1 p.m. we entered the Burra by way of the Sydney Mine [i.e. the Bon Accord Mine], which is merely an excavation here and there, waiting for machinery.  At the Burra great preparations were in hand for the races.  We were struck by the sombre effect of the place; all the houses being built of stone, and the stone the same colour as the sand and being well peppered with the Burra dust.

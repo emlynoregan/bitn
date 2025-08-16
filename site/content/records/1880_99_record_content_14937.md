@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.F. James, newly arrived from England, preached missionary sermons in the Bible Christian Church on Sunday.  Rev. James has been accorded a hearty welcome.

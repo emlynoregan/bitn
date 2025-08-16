@@ -40,6 +40,7 @@ topics:
 - agriculture
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Beyond the rainfall country everything is new and strange except to very few persons.

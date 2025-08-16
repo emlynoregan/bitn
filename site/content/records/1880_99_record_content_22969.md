@@ -27,6 +27,7 @@ topics:
 - death
 - coroner
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  T. Ward, the City Coroner, held an inquest on 3 August on the body of E. M. Bagot.  [Edward Bagot, died 24 July, aged 63.]

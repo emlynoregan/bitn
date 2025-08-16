@@ -20,6 +20,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  St Mary’s 5 for 120 defeated Manoora 82.

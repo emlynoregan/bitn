@@ -20,6 +20,7 @@ topics:
 - government
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.H. Forder has returned from a four month leave of absence which was his first holiday in forty years as Clerk of the Redruth Court and Registrar of Births and Deaths.  He has been in Government service for forty-three years – three as a licensed teacher.  He has also bee a returning officer for 30 years.

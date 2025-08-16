@@ -24,6 +24,7 @@ topics:
 - competition
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Chrysanthemum Show.  Of the 11 first prizes for cut flowers, 10 went to Burra competitors: 9 to Mr Cave and 1 to Mr Lewis, while Mr Greenshields of Kapunda won the remaining prize.

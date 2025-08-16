@@ -25,6 +25,7 @@ topics:
 - loan
 - interest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bonded Debt at present totals £2,000 with £300 paid off this year.  It falls due as follows:

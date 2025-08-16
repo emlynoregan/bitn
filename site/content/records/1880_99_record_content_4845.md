@@ -19,6 +19,7 @@ topics:
 - church
 - state
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Reading of the Bible in Schools.  This was again under discussion.  Holder was against it as he believed that reading the Bible without comment was useless and comment inevitably led to denominational bias which could not be allowed in Government schools.  He was in favour of state support for denominationally run schools.

@@ -20,6 +20,7 @@ topics:
 - taxation
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ writes on the election.  He favours candidates who support the payment of members, is against the bribery rife at election time, would tax unearned increments on land values - ‘Let us have a good stiff tax on the unearned increment on land values.’

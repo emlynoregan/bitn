@@ -20,6 +20,7 @@ topics:
 - shaft
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Karkulto Mine is advancing rapidly and the engine is ready to start.  Nine men are engaged in sinking the shaft night and day.  The horse whim is keeping the water in fork, but when it can no longer manage the engine will be started.

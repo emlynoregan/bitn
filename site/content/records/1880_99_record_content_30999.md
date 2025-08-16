@@ -20,6 +20,7 @@ topics:
 - agriculture
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a 1-column report on Roseworthy Agricultural College from an address by Professor Lowrie.

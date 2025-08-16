@@ -19,6 +19,7 @@ topics:
 - government
 - public services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill.  There are reports of unrest due to Government mismanagement, which includes a post office without stamps, money orders, money, promissory notes, or telegraph forms.

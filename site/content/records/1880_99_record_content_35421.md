@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Carle Kroncke of Kooringa died last Tuesday 5 Feb. aged 81.  [Since Tuesday was the 4th one or the other must be in error.]  He was a colonist of over 40 years and one of the first gold seekers at Bendigo.  He leaves a wife and two daughters in Kooringa.  [Registered as dying on 4 February 1890.]

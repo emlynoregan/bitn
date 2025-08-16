@@ -27,6 +27,7 @@ topics:
 - railways
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Sutherland, a candidate for the N-E District of the Legislative Council, addressed a small gathering of voters at the Institute last Thursday evening.

@@ -20,6 +20,7 @@ topics:
 - injury
 - near-drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  On Tuesday a bullock dray going to Mr McCulloch’s Princess Royal Station capsized while crossing the creek.  A woman and child were thrown out and the woman sustained a broken leg, while the child almost drowned.

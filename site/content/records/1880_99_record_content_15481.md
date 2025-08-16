@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Band of Hope held an entertainment in the Primitive Methodist Schoolroom last Wednesday evening.

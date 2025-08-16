@@ -19,6 +19,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Symons moved an amendment that all money in hand be expended and the Government be asked to advance next year’s subsidy and that the rates be got in, but this lapsed.

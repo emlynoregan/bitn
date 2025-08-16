@@ -23,6 +23,7 @@ topics:
 - mining
 - assays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  The geologist, Mr Bell, is believed to have reported favourably on the possibilities of developing the Black Hills silver claims, but the owners are not publishing his report.  It is also reported that good assays have been received from claims in the Hundred of Tomkinson near Ketchowla.

@@ -20,6 +20,7 @@ topics:
 - diphtheria
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Diphtheria is now prevalent in the north: Mr Miller near Baldina lost three children in a fortnight.

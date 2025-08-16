@@ -19,6 +19,7 @@ topics:
 - business
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harry & Burns	Blacksmiths & Wheelwrights, next to Commercial Hotel

@@ -19,6 +19,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holder was present and thanked his supporters and the returning officer etc.  The whole of the ministry had so far been returned.

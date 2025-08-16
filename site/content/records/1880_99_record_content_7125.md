@@ -20,6 +20,7 @@ topics:
 - land sale
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Henry Pinch offers Pencarrow for sale by tender: comprising sections 44, 45, 46, 56, 58, 59, 169 for total 993 acres.  But for c.100 acres it is virgin soil.

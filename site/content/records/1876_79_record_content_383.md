@@ -18,6 +18,7 @@ topics:
 - property
 - improvement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The rooms have been added to recently and the whole property much improved.  It is in the process of being enclosed.

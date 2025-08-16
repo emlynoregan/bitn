@@ -20,6 +20,7 @@ topics:
 - concert
 - program
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Social Club Grand Concert at the Institute 9 November.

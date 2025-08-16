@@ -23,6 +23,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Cr Terry Tresize resigned as he and his wife Maree and children have moved to Kangaroo Island.  Nominations are consequently called for a Councillor for Farrell Flat Ward with an election on 12 July if required.

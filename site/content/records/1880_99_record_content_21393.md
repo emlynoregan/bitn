@@ -26,6 +26,7 @@ topics:
 - mining
 - geology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End-Robertstown silver Claims.  There are some 260 claims in two main groups: one nearer Robertstown on the south of the Burra Creek and the other only 16-20 miles south of Burra on the north-west of the creek.  The latter includes the more favoured claims of Mr Dunstan and party.  We are surprised the Government Geologist has not yet visited.  Mr W.B. Rounsevell has visited the claims.

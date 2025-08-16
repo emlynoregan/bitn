@@ -20,6 +20,7 @@ topics:
 - labor
 - miners
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Miners are observing the strike at Wallaroo and Moonta with interest.  Many have been there and returned disgusted, being unable to obtain wages sufficient to compensate for the arrogance suffered under a Captain, who a short time ago was one of themselves.

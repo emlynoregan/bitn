@@ -21,6 +21,7 @@ topics:
 - charity
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society annual committee meeting was held and decided to send a £17-10-0 donation to the parent society.  P. Lane retired as President and was succeeded by Dr Sangster, with W. Davey as Secretary and P. Lane as Vice-President and Treasurer.

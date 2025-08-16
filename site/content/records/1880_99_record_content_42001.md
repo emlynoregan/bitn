@@ -19,6 +19,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With reference to the Bon Accord railway crossing he could get no definite reply as the Chairman of Commissioners was not in.

@@ -22,6 +22,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Mann from the Engineer-in-Chief’s Department will undertake a flying survey of the Burra-Silverton route.

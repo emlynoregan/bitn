@@ -22,6 +22,7 @@ topics:
 - community
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Anderson & family, who have been residents in Commercial St for many years have left for NSW to settle with other family members who have been there a long time.

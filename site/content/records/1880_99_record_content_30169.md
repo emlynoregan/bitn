@@ -19,6 +19,7 @@ topics:
 - drought
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The weather continues dry.  In many districts there has been a total failure of crops.  Around Burra rain is needed, but so far crops are safe.

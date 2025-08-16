@@ -22,6 +22,7 @@ topics:
 - animal cruelty
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Three Adelaide Youths aged 19 were arrested on 1 April for shooting sheep and damaging Highways Department signs east of Burra.

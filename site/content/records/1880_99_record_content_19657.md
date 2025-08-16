@@ -22,6 +22,7 @@ topics:
 - meeting
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Annual meeting of the British and Foreign Bible Society

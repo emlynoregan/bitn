@@ -19,6 +19,7 @@ topics:
 - bicycling
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycling.  We note that the bicycle is coming greatly into use here.  Only a few months ago there was but one machine here and now ‘no less than seven or eight may be seen whirling along the roads’.

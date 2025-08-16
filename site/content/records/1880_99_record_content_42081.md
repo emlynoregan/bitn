@@ -20,6 +20,7 @@ topics:
 - newspaper column
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [There is a typical cryptic comment in the ‘Sparks’ column which probably refers to this trial: ‘Hollo, Chorlie! Chorlie no like it.’]

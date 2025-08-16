@@ -22,6 +22,7 @@ topics:
 - religion
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.F. Coglin writes a letter complaining of the omission of any reference to the Christmas services at St Joseph’s by Rev. Father Kriesll [sic]: midnight mass on Christmas Eve and services at 8 a.m., 11 a.m., and 6 p.m. on Christmas Day.  Though the paper duly reported the Protestant services.

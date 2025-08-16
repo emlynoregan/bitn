@@ -19,6 +19,7 @@ topics:
 - finance
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council Finances.  W.R. Ridgway has ⅓ column taking up the cudgels again on the Council finances and he is replied to by the editor at about the same length.

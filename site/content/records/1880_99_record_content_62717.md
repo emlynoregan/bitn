@@ -27,6 +27,7 @@ topics:
 - medicine
 - achievement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr J.I. Sangster Jnr takes his degrees in England.  He was born in Victoria in 1872 and came to Burra with his father in 1879.  He attended Mr Whyte’s school in Thames St and then Hahndorf College and St Peter’s College.  He graduated from Adelaide University in medicine and surgery since when he has been locum tenens for various doctors.  Last March went to England to take his degrees next October.  After arriving he got into medical science and decided he could sit in July last and he has succeeded in taking the double degree of MRCS Eng. and LRCP Lond. Which has rarely been done under similar circumstances.  He will probably stay away a further two years gaining valuable experience.  He is a good player of cricket, tennis, golf and lacrosse.

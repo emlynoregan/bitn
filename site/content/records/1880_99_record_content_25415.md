@@ -17,6 +17,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The concert for the poor grossed £18 and netted £15 and the committee has issued 30 orders for wood, clothing, groceries etc. to as many needy persons.

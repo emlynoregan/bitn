@@ -21,6 +21,7 @@ topics:
 - weather
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie.  The overland mail from Sydney arrived yesterday, 27 hours late due to heavy rains, extending as far to the northeast as Mingary.  They totalled 1.5” in some places.

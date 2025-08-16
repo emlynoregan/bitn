@@ -21,6 +21,7 @@ topics:
 - institute
 - renovation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The renovation of the public reading room has been completed by Mr D. Jones.  A copy Burra News was received and will be laid on the reading room table.

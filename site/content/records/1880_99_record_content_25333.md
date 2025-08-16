@@ -18,6 +18,7 @@ topics:
 - uniforms
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 VF Uniforms.  The VF uniforms are presently grey and the move to change them is rapidly becoming hilarious and they ‘promise to rival Joseph’s coat’.  One company wants scarlet, another green, another blue.

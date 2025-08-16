@@ -21,6 +21,7 @@ topics:
 - elections
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Democrat’ writes about the elections for the Legislative Council early next year.  Some members should retire ‘their feebleness of body and mind needs it’.  The upper house is sure to try everything to thwart the wishes of the Government if it is at all against the interests of the moneyed classes and for the people.  They are absolutely looking after their own interests.

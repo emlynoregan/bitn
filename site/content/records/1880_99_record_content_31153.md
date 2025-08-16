@@ -20,6 +20,7 @@ topics:
 - law
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Politically the Chinese question has claimed precedence.  Stringent measures have been passed by all the Australian Parliaments restricting almost to prohibition the influx of Chinese.  SA has adopted the Federation Enabling Act.  The new Land Bill sets the law relating to Crown Lands on quite a new basis.  The relative authority of the governors and the colonial Governments has been challenged and changed, though not really clearly defined.

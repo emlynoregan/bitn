@@ -20,6 +20,7 @@ topics:
 - court
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A counter-claim by Bosence arising from the A. Forsyth v. Bosence case resulted in A. Forsyth being fined 10/- plus £4-10-0 costs.

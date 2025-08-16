@@ -22,6 +22,7 @@ topics:
 - Sudan
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the response in Australia to the campaign in Sudan.  On balance it is not in favour of Australian participation.  ‘. . . there seems to be nothing now Gordon is dead, to fight for.’

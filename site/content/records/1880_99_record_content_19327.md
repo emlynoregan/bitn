@@ -19,6 +19,7 @@ topics:
 - race
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races.  Program printed for the meeting on the public holiday on 9 November.  The main event is the Town Plate over 2 miles with £10-10-0 in prizes.

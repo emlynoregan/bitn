@@ -23,6 +23,7 @@ topics:
 - exchange student
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Apexians and their wives held their Christmas break-up last Tuesday.  They took the opportunity to farewell the Thai exchange student Lek and also Apexian Jim Low and his wife Bev who leave shortly to take teaching appointments at Cummins.

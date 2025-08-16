@@ -25,6 +25,7 @@ topics:
 - migration
 - coal trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James B. Winship writes from Newcastle, NSW, 16 December.

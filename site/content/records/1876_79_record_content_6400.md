@@ -23,6 +23,7 @@ topics:
 - public works
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 `We have a right to the credit.' It deserved an opening worthy of a corporate town. (This, he said, was not angling for re-election as Mayor as he wouldn't accept the job at £1,000 p.a.

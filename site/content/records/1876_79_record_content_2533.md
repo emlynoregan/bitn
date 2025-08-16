@@ -21,6 +21,7 @@ topics:
 - council
 - bridges
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. - Council agreed to pay half cost of repairing the Miners' Arms footbridge if the public would fund the rest.

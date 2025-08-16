@@ -17,6 +17,7 @@ topics:
 - news
 - layout
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 News sometimes gets a start, but often only a little and it is frequently pushed onto page three before it gets a start.

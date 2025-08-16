@@ -19,6 +19,7 @@ topics:
 - business
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  [Editorial]

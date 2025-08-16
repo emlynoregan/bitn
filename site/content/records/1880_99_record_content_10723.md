@@ -19,6 +19,7 @@ topics:
 - weather
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The prospects are fast fading with dry winds and to the east the crops on the plains are already dying.  To the north and north-east the news is grim unless rain comes very soon.

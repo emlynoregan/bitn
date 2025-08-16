@@ -21,6 +21,7 @@ topics:
 - lecture
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Thomas Padman - an AMP agent to give a free address at the Institute on `Happy Homes and How to Make Them.'

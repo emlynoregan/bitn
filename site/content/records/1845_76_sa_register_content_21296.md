@@ -23,6 +23,7 @@ topics:
 - inquest
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest/Obituary.  William Hiscock, whose body was found at Parnaroo the week before last, had been ill for some time, but his death was sudden.  [When reported, the body was on Paratoo Run.]  An inquest before Mr Peter Waite JP of Paratoo decided that death was due to natural causes.  Not in SA Deaths CD.]

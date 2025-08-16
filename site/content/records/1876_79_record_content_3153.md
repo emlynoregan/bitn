@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Ed. about the dangerous unfenced creek between the Redruth Police Station and the Burra Creek.

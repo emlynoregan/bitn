@@ -23,6 +23,7 @@ topics:
 - industry
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mine. Captain Sanders reports Morphett's Shaft down to 98 fathoms. 85 south on Sander's Lode driven 3.5 fathoms, but work shifted to 84 north to crosscut from Kingston's to Sander's Lode. Kingston's Lode extended 5 fathoms and looks more promising with about 1.5 tons of 30% ore per fathom. 60 north also extended 2.5 fathoms. The open cut is averaging 27.5% and 13 tributers pitches were let on Saturday to 37 men and boys.

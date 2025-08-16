@@ -23,6 +23,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Father O’Dowling SJ is leaving after a stay of 13 years.  He has won the respect and esteem not only of his own flock, but also of all with whom he came in contact.  He goes to Norwood and will be succeeded by Rev. Father Deikel.  [Actually Dietel.]

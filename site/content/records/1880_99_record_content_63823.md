@@ -23,6 +23,7 @@ topics:
 - quarantine
 - public_health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.G. Hawkes of Koonoona, returning from England on the P & O ship Australia, has been quarantined for at least a fortnight on Torrens Island because one of the Lascar coal trimmers has smallpox.

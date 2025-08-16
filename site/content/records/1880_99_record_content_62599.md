@@ -30,6 +30,7 @@ topics:
 - exploration
 - SAMA
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mines.  On Thursday the directors of SAMA inspected the mine property.  They were F. Rymill (Chairman of the Board), Hon. Samuel Tomkinson MLC, Mr F. Bullock & Mr H.L. Ayers.  They were met by Mr West’s trap and conveyed to the Burra Hotel for dinner before inspecting part of the township and mines.  They decided that some boring should be done to test the mineral value of the site.  Mr West said they would probably use diamond drills to get to 1,500 or 2,000’ if necessary in a series of bores.  No decision has yet been made on the location of the bores, but the first may be near the old crusher and other sites could be at Bunce’s and Beck’s.  It is twenty years in October since the mine ceased operations.  At the time it was thought a three year halt might see prices rise and mining resume.  What price is copper now?  We received £47-10-0 per ton for the last lot.  So copper is still sent away?  Yes, there are a few tributers at work – principally overhauling the stuff thrown out in the original working.

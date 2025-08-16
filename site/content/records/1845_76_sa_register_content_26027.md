@@ -18,6 +18,7 @@ topics:
 - mining
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Note that the sense of the above paragraph would seem to require it to read ‘there is no better prospect’ etc. rather than the positive statement actually printed.]

@@ -20,6 +20,7 @@ topics:
 - concert
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Wesleyan Church held a second concert in aid of the organ fund on 1 October.

@@ -21,6 +21,7 @@ topics:
 - birth
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Diane & Gavin Lehmann of Pollville, Mt Bryan, a daughter.

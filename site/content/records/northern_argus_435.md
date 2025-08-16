@@ -34,6 +34,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Mt Bryan’s Gala Weekend was a great success.  About 400 attended.  A street parade started with vintage cars, Son Wilsden & his Clydesdales, the Yankalilla Light Horse and Burra National Trust’s fire engines.  A Back-to-School followed.  This coincided with the centenary of the original school building, which is now the teacher’s residence.  Ruth Stolte’s book Razorback Range Country was launched by the publisher Peter Cotton.  The weekend also marked the 75th birthday of the Mt Bryan Soldiers’ Memorial Hall.  On Saturday afternoon there were displays by the Yankalilla Light Horse, sheep dog displays and hayrides.  Tim Butler of Radio 5CK compered the ball that night in the Soldiers’ Memorial Hall.  Many attended in period costume.  Ralph Oakley won the beard growing contest for those who started clean shaven on 3 August.  Dave Parnell won the longest beard of all prize.  Sunday’s combined church service was conducted by former resident Fr Laurie Quinn assisted by Fr Richard Morris, Rev. Malcolm Thomas and Fr Eugene Kelly.  The United Light Brass Band supplied the music.  A community lunch was followed by a Pleasant Sunday Afternoon compered by Marlene Richards of Hallett.

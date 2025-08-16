@@ -18,6 +18,7 @@ topics:
 - economy
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The town’s shopkeepers have been struck with an epidemic of price-cutting.  The place is beset with placards bearing ‘startling announcements’ and ‘tremendous sacrifices’.  Whatever the cause of this outbreak, it has stimulated trade.

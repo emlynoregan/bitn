@@ -27,6 +27,7 @@ topics:
 - competition
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Flower Show. Burra's first flower show was a success and produced a cash balance of £15 towards next year's show. Next year it is intended to hold it much earlier. The show is reported in a 1 column article which includes the prize list. It was a great success. Most enthusiastic of the exhibitors were Mr [H.C.W.] Fuss, Mr Oppermann and Mr Loutit. The setting out of displays and other arrangement details could be improved upon with experience, but nevertheless it was very impressive for a first attempt. Results are rather hard to untangle but the following are an approximate list for Mr Fuss.

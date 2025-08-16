@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football (by ‘Quiz’).  The best game yet of the season was played last Saturday at the Recreation Ground, between the Blues and Whites (or non-colours) with a majority of about 8 Whites over Blues.  Blues 2.6 defeated Whites 1.1.  There was much added by the presence of a good umpire in Mr W. Hele.

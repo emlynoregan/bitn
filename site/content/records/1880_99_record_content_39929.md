@@ -18,6 +18,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Creek.  Now that the sand has been flushed from the creek there has been running water there for twelve months.

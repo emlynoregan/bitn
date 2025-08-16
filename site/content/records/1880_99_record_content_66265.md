@@ -22,6 +22,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Burra Football Club met on Monday and drew up plans for a match with Clare at Victoria Park on 29 May, under the new rules of 18 a side.  The SAFC has promised to send the new rules as soon as possible.

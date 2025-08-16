@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Terowie Railway. Mr Patterson, Assistant Engineer for the Hallett-Terowie railway extension, says the travelling stock route is in the lowest part of the valley and subject to flooding, so is not an advisable route. This explanation is denied by the Record as inconsistent with the reality of the railway route.

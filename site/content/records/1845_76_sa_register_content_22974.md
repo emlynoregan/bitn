@@ -19,6 +19,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sections 2082, 2083 & 2094 Dunn’s of 300 acres.

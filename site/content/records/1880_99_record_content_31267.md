@@ -20,6 +20,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The spring at Princess Royal was another source not utilised much.  At the workingmen’s blocks at Booborowie water is abundant, in some places at only 5’.

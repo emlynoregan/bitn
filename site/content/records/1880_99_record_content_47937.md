@@ -25,6 +25,7 @@ topics:
 - relief
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last Friday J. Sampson advised the Defence Committee at Broken Hill that P.L. Killicoat had offered to forward 200 fat lambs for distribution among the unemployed.  Josiah Thomas on behalf of the committee conveyed his heartfelt thanks and hopes others will follow suit.  The lambs left Burra on Tuesday.  Kidman Bros in Broken Hill have offered to dress and prepare them and have added a 9 cwt bullock.

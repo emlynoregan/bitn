@@ -18,6 +18,7 @@ topics:
 - event
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   Yarcowie Annual Sports will be held 2 January 1888.

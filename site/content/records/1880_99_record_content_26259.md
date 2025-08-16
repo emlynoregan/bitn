@@ -20,6 +20,7 @@ topics:
 - politics
 - Europe
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Situation in Europe: specifically on the issues in the Balkans.

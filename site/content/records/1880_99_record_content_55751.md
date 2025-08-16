@@ -21,6 +21,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  The Kooringa Methodist Christian Endeavour gave an excellent entertainment at the Hospital on the afternoon of 27 December.

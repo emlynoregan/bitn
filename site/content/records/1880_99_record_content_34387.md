@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Joker Silver Mine has been sunk to 200’.

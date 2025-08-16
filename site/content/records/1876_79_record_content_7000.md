@@ -17,6 +17,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Church. Special services were held last Sunday with a tea-meeting Monday. There were good congregations.

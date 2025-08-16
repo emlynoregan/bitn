@@ -21,6 +21,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Horse Breaking.  It is time the police stepped in and put a stop to cruel horse breaking practices.  Last Thursday in the Burra Hotel yards Fradd and others broke in a horse in the most cruel way.  A week ago the same person was given two horses to break and beat one until it could not carry him.  Next morning the hind legs and quarters of the beast were so swollen it could not be ridden for some time.

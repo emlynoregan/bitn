@@ -21,6 +21,7 @@ topics:
 - lecture
 - visiting minister
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 (His 1st lecture on Sunday had been at the Kooringa Primitive Methodist Church on ‘The Life of Christ’.  He was a visiting minister from Victoria.

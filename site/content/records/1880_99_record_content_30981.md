@@ -19,6 +19,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from H.T. Burgess calling for some restraint in language etc during religious services on 31 December.

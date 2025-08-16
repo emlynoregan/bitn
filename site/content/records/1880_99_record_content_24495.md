@@ -19,6 +19,7 @@ topics:
 - environment
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Good water has been found, but more are now leaving than arriving.  Great dust storms bother the place.

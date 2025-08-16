@@ -24,6 +24,7 @@ topics:
 - drill
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI was visited by Maj-Gen. Downes, Captain Tomkinson and Sergeant-Major DePassé on Friday.  The General was well satisfied with the newly formed Mounted Infantry and its progress so far.

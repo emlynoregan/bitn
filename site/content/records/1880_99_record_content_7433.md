@@ -20,6 +20,7 @@ topics:
 - politics
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  KYMMIA this evening in the Wesleyan Schoolroom: Mr W.E. Gladstone as a Peacemaker or Topics on the Irish and Egyptian Questions.

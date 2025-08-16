@@ -17,6 +17,7 @@ topics:
 - vandalism
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  The editor reports cases of trees being wantonly damaged or even being completely removed from within the tree guards.

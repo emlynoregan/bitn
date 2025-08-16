@@ -19,6 +19,7 @@ topics:
 - coal
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  F.J. Carey, agent for Leigh Creek Coal, can supply any quantity in ton lots for £1-4-0.

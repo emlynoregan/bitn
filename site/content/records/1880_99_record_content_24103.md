@@ -19,6 +19,7 @@ topics:
 - advertisement
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted, two or three girls about 17 or 18 years of age, to serve at the Railway Refreshment Rooms, Burra Station.

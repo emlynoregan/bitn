@@ -20,6 +20,7 @@ topics:
 - sport
 - polo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  On Saturday at the Burra Ground there was a fair crowd to see Adelaide 6 defeat Burra 4.

@@ -21,6 +21,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Frank Alwork said he found the deceased to be dead when summoned to the site of the accident.  At the hospital later he found the neck to be broken, but no suggestion of foul play.

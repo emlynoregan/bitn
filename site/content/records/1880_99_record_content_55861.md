@@ -20,6 +20,7 @@ topics:
 - gate receipts
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Sports, postponed from the 26 December, were held successfully.  £31 was taken at the gates and attendance was good.  Results are printed in about 1⅔ columns.

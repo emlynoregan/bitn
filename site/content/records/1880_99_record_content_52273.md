@@ -19,6 +19,7 @@ topics:
 - competition
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 School Competition.  In mid-February 1894 there will be an exhibition of art and schoolwork and a cooking competition in connection with the district.  Proceeds will go to prizes for successful competitors of the various schools and other exhibiters.

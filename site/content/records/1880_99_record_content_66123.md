@@ -20,6 +20,7 @@ topics:
 - industry
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  The syndicate working the slagheap expect an amicable settlement with SAMA and so to commence work soon.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Children’s Entertainment at the Institute on 6 Dec. 1889 in aid of the Christmas tree and prizes.

@@ -25,6 +25,7 @@ topics:
 - population
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Census of 1881 showed Burra to be the largest town outside the City of Adelaide.

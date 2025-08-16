@@ -18,6 +18,7 @@ topics:
 - finance
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Copper Market faces complete collapse imminently.  The share market is depressed, but good reports continue from mining experts.

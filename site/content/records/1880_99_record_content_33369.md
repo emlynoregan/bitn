@@ -19,6 +19,7 @@ topics:
 - history
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  A reprint of an article from the Mount Barker Courier on the origins of the mine and its success in financial terms.

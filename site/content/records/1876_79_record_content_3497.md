@@ -19,6 +19,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra declines to take part in the school celebrations. [They appear to have been offended, but the paper makes no comment.]

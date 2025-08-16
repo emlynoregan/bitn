@@ -20,6 +20,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian and Primitive Methodist Churches have decided not to unite with the Wesleyans at this time, unless the union could be for 18 months, but the Wesleyans were unable to guarantee that as it lay in the hands of the next Wesleyan Conference.  They parted on friendly terms however, and believe all is well for the eventual union due in 1900.

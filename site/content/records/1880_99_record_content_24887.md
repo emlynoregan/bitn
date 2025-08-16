@@ -26,6 +26,7 @@ topics:
 - institute
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The monthly meeting was chaired by C.C. Williams with Dr Brummitt & Messrs Anderson, Lasscock, Wilkinson & Wittber.  The resignation of J. Hosking, who is leaving the district, was accepted.  The chrysanthemum show is to be held at the end of April.

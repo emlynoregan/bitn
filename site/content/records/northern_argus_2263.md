@@ -22,6 +22,7 @@ topics:
 - history
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ian Auhl paid a surprise visit to Burra one day last week.   He visited the local history room at the Library.  He has recently donated more books and paintings to that valuable collection.

@@ -20,6 +20,7 @@ topics:
 - rabbits
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat samples from Mt Bryan East look fine and healthy at 4 feet in height, but the question remains whether rabbits will permit a good harvest.

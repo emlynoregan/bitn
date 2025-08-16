@@ -21,6 +21,7 @@ topics:
 - telegraph
 - communication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 27 January 1860, page 3

@@ -32,6 +32,7 @@ topics:
 - show
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR.  After the inspection on Wednesday there will be a social in the Burra Hotel.  Fall-in is at 2 p.m. in Market Square.

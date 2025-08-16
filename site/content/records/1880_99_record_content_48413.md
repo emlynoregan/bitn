@@ -21,6 +21,7 @@ topics:
 - lecture
 - gambling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.W. Howitt preached for the Bible Christians on Wednesday at 3 p.m. and gave a lecture at 8 p.m. in the Institute on Gambling.  F.W. Holder presided over a moderate attendance.

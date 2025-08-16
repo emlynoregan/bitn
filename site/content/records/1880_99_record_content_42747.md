@@ -25,6 +25,7 @@ topics:
 - accident
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The third son of Mr J. Wise of Cartapoo, near Hallett, aged 17, died on 13 October in the Burra Hospital from internal injuries following a fall when chasing a magpie.  [Registered as dying 14 October 1891 aged 16, born Samuel Alan Wise, 21 February 1875.]

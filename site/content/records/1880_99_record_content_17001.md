@@ -22,6 +22,7 @@ topics:
 - community
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Also in Paradise, Kingston St, by the bridge, and in Chapel St they are doing well.

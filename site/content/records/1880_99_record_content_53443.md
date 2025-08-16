@@ -22,6 +22,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  Last Monday the committee inspected the Burra Oval, the Smelting Works and the Mine Stores to select a site for the intended show.  The committee meets at the Commercial Hotel on Friday to discuss the proposals further.

@@ -24,6 +24,7 @@ topics:
 - health
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder was visiting the west country as one of a group of the Vermin Commission and, having to return before the others, he took the mail trap on Tuesday and about ten miles from Caroona the pole of the trap broke and he was thrown out, injuring a hip.  The driver was unhurt.  Holder was driven 55 miles to Port Augusta for treatment and returned to Adelaide on Wednesday by train.  He said they had left Streaky Bay on Tuesday afternoon.  Dr Richardson said the hip had been dislocated and popped back in and the pain was severe, but only due to ligament strain and it should mend in a week to ten days.

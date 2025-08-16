@@ -22,6 +22,7 @@ topics:
 - bridge
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. C.G. Simmons complains that the scavenger had not called. 

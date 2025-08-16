@@ -20,6 +20,7 @@ topics:
 - bridge
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Nothing has yet been done to repair the Redruth Bridge; though it was stated the repairs were let without being put up for tender in the usual way.

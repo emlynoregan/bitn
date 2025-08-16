@@ -19,6 +19,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  ‘Members of the Burra Band VF are required to return to the Captain as soon as possible their instruments, music, and all other property of the company.’

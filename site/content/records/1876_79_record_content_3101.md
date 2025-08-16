@@ -19,6 +19,7 @@ topics:
 - labor
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Secretary of the Early Closing Association, asking that purchases be made within advised hours to grant workers `a little time for enjoyment.'

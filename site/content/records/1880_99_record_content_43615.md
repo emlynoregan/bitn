@@ -24,6 +24,7 @@ topics:
 - hospital
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church held the annual Hospital Service on Christmas Day.  It was well attended with the Mounted Infantry, Oddfellows, Rechabites, Foresters, the Mayor, several Councillors and representatives of the Hospital Board to swell the numbers.  Rev. Daddow & Rev. J. Hopkins assisted Rev. R.M. Hunter who preached the sermon.

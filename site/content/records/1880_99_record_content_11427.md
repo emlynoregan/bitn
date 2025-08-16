@@ -18,6 +18,7 @@ topics:
 - sports
 - research note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Hallett Sports in November had also had a ‘wheel race’ - so what was it?  Neither distance nor terminology suggest a bicycle race, but was there a surface suitable for a form of roller skates?]

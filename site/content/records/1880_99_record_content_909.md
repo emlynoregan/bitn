@@ -24,6 +24,7 @@ topics:
 - transport
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Schutz’s Bus from the station on Saturday c. 9.30 p.m. collided with Mr R. Brown’s trap and broke part of the shafts in front of Dearlove’s Hotel.  Mrs Brown was thrown out and slightly bruised.  Miss Johnson jumped out and Mr Brown was unhurt.

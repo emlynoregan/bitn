@@ -21,6 +21,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bessie Mann (23), single, was charged with murdering Frank Mann at Adelaide on 14 October.

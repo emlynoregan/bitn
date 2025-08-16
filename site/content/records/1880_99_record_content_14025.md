@@ -22,6 +22,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Drew was given a farewell address at the Burra Institute on Monday afternoon.  The Mayor (Dr Brummitt) made the presentation.  The address was signed by 50 persons and was elegantly bound in morocco.  It was illuminated by Mr G. Colyer of Adelaide.

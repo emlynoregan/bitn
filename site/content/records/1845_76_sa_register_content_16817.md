@@ -19,6 +19,7 @@ topics:
 - transport
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wool drays are beginning to come down from the northeast.

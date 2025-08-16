@@ -18,6 +18,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  Cash in the bank is £68-19-0 and much of the last half-year’s rates are still to come in.  The works are in good order.

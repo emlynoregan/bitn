@@ -20,6 +20,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. calls a special meeting on 12 April to reorganise themselves.

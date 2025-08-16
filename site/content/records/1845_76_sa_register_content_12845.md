@@ -21,6 +21,7 @@ topics:
 - death
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Death registered as Henry Cumings died 25 December 1859 Saddleworth, residence Willaston aged 45.]

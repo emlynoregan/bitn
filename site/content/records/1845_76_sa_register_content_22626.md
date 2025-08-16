@@ -19,6 +19,7 @@ topics:
 - community
 - institution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Prospectus for the Bushmen’s Home is printed.

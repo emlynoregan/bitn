@@ -19,6 +19,7 @@ topics:
 - sport
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 9 of the 20 Sevenhills players missed the train and Burra had to supply substitutes.

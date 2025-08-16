@@ -18,6 +18,7 @@ topics:
 - community
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offence. A by-law was called for to control the bad language of Cheap Jacks.

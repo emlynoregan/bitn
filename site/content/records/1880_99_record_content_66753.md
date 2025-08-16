@@ -17,6 +17,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Annual dinner on Monday 4 September, 5 p.m., 1/-, and a Grand Recital Entertainment in the evening, 6d.

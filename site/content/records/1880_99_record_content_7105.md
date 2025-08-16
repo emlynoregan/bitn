@@ -22,6 +22,7 @@ topics:
 - batting
 - bowling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Muffs best batsman was J. M’Cleary (av. 8.25) and Cobb was best bowler (av. 4)

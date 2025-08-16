@@ -22,6 +22,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cave says the papers left by Mr Jones showed an error of £100 in adding up and sundry other smaller errors.

@@ -26,6 +26,7 @@ topics:
 - iron
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Smelting of Iron (Editorial)

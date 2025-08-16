@@ -22,6 +22,7 @@ topics:
 - war
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The War continues in Africa & Afghanistan satisfactorily; Sekakun has surrendered and General Roberts has taken Kabul.

@@ -21,6 +21,7 @@ topics:
 - licence
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 20 March 1847, page 1

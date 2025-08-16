@@ -20,6 +20,7 @@ topics:
 - debate
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday discussed ‘Was Mr Holder justified in moving his recent motion of no confidence in the present Government?’

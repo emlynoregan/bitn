@@ -20,6 +20,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The half-yearly meeting was adjourned for lack of a quorum last Friday due to the bad weather.  The library now contains 2883 volumes and there are 73 subscribers.  Income for the half year was £156-2-4 and expenditure £102-14-1.

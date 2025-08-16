@@ -20,6 +20,7 @@ topics:
 - scouts
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Venturers and their leader David Jennings have been undertaking an initiative course in the Burra Creek area in terrible weather.  It is part of the Queen’s Scout Award.  [Several of their activities are described.]

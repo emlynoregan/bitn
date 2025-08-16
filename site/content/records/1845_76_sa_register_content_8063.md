@@ -23,6 +23,7 @@ topics:
 - labour
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Real Miner’ writes to the Editor on gold digging in SA:

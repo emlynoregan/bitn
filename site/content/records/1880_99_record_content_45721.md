@@ -28,6 +28,7 @@ topics:
 - military
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the No-confidence Motion moved by Mr Holder when Parliament opened.  The editor considered it entirely justified, as the Kingston-Playford Government had done little and failed to implement many of its stated policies.  He promises a progressive policy.

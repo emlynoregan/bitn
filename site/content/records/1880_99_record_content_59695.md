@@ -26,6 +26,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Notice.  Mr Holder will address electors at Burra Institute on Tuesday 7 April at 8 p.m.

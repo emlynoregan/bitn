@@ -19,6 +19,7 @@ topics:
 - property
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Occupation of a dwelling house of clear £25 annual value excluding rates and taxes.

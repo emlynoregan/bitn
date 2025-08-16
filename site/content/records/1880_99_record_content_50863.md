@@ -30,6 +30,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest into the fatal accident at Baldina Creek: held at Redruth Courthouse 17 August before W.R. Ridgway JP and a jury of six with W.H. Linkson as foreman.

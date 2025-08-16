@@ -19,6 +19,7 @@ topics:
 - survey
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. Report on the survey of the Transcontinental Railway to Port Darwin.

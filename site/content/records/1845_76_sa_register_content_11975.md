@@ -23,6 +23,7 @@ topics:
 - assay
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Today there was excitement at the arrival of several specimens from the section recently leased by Messrs Bath and Bosance.  They are splendid examples of copper ore.  A stone seven feet from the surface was broken by Captain Killicoat and assayed by Mr A. Thomas of Kooringa.  It gave a produce of 55%.

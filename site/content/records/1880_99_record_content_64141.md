@@ -20,6 +20,7 @@ topics:
 - correction
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [In fact a Councillor for North Ward Dec. 1879- Nov. 1881 & Mayor Dec. 1884-Nov. 1885.]

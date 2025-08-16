@@ -26,6 +26,7 @@ topics:
 - teachers
 - union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Association 10th meeting was held on Saturday 8 Oct. at Manoora School.  Schools represented: Black Springs, Burra, Manoora, Mintaro Station, Saddleworth, Spalding and Waterloo.  It was unanimously resolved to join the Teachers’ Union.

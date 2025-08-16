@@ -21,6 +21,7 @@ topics:
 - election
 - prediction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election.  The Kapunda Herald predicts the election results will be Rounsevell with a majority of 100, then Holder narrowly from Cockburn.

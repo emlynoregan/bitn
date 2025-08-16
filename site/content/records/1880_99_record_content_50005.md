@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1880	1.006 lb	1880	2.477 lb

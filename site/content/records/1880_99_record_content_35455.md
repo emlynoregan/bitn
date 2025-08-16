@@ -20,6 +20,7 @@ topics:
 - flood
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council inspected the flood damage.  The footbridge near the White Hart is to be repaired, but a decision on the footbridge behind the Burra Hotel was deferred.

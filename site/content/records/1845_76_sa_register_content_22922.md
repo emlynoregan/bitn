@@ -22,6 +22,7 @@ topics:
 - agriculture
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Rain fell from Kapunda to Kooringa on 20 September.  It started about 5 a.m. Saturday morning and continued with a few intervals for 24 hours or so.  The outlook for the wheat crop has changed abruptly.  The mail driver reports that the falls must have continued for many miles north of Burra.

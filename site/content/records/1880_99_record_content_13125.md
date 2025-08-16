@@ -24,6 +24,7 @@ topics:
 - public order
 - parade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Order’ was outraged by a brass band parading the streets on Sunday like a circus procession.  ‘I must just inform you that it is generally conceded that larrikinism has increased at least twofold since the advent of the Salvation Army at Redruth.’

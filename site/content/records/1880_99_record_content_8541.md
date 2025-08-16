@@ -23,6 +23,7 @@ topics:
 - dissolution
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dissolution of the partnership of the auctioneers, Stock & Station Agents etc., trading as Austin Davison and Jaffrey.  The firm will be carried on as Austin, Davison & Co., by Edward Austin and James Bentley Davison.  7 December 1882.

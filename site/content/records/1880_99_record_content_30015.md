@@ -22,6 +22,7 @@ topics:
 - library
 - governors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee calls a special general meeting of subscribers to vote on three governors of the Public Library for the coming year.

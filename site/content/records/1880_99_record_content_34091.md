@@ -19,6 +19,7 @@ topics:
 - religion
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s.  The Rev. J. Norton will officiate next Sunday at the usual anniversary efforts to reduce the church debt.

@@ -19,6 +19,7 @@ topics:
 - agriculture
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows.  Since October 1881 the Government has paid for 37,875 sparrows’ heads at 6d per dozen and for 210,793 eggs at 2/6 per hundred.

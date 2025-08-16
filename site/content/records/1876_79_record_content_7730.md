@@ -21,6 +21,7 @@ topics:
 - event
 - Sunday-school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Sunday-school anniversary last Sunday when the church was used for the first time since its enlargement. It was not seen to best advantage because the seats were turned around to face the children's gallery. Rev. W. Richards preached. Sports on Monday were followed by the public meeting.

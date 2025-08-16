@@ -20,6 +20,7 @@ topics:
 - Irish Question
 - tithe
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader discusses the British Parliamentary session with respect to the Irish Question and to the Tithe System.

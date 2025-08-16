@@ -23,6 +23,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Railway in Adelaide will be extended to the new Exhibition Building.  [i.e. from the Adelaide Station under King William St just behind Government House and thence almost to Frome St.]

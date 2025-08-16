@@ -25,6 +25,7 @@ topics:
 - industrial relations
 - parliamentary payment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting: Saturday night it was the turn of Messrs Duncan and Pascoe.

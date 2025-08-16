@@ -21,6 +21,7 @@ topics:
 - sales
 - price
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  The Association’s AGM will be held today.

@@ -30,6 +30,7 @@ topics:
 - constitution
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mutual Improvement Assoc. The preliminary meeting took place with F.W. Holder presiding. They decided to call themselves the Burra Young Men's Mutual Improvement Association. The writing of a constitution is in the hands of the committee of F.W. Holder, J. Cater, H. Roach and Messrs Parks, Dearlove, Husbands, Watt, Propsting & W.C. Grasby.

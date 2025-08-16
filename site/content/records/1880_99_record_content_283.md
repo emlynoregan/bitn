@@ -18,6 +18,7 @@ topics:
 - church
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Anglican Church Music.  A list of the music sung at St Peter’s Cathedral in 1878-79 is printed.

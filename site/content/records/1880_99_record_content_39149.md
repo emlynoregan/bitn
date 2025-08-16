@@ -23,6 +23,7 @@ topics:
 - election
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ajax’s’ third letter to public men is directed to W.H. Hardy. Compared with the first two it is so kind that it looks suspiciously like Ajax might be Hardy.

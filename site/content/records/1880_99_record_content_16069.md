@@ -20,6 +20,7 @@ topics:
 - cemetery
 - weights & measures
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inspector will get:	As Inspector of Weights & Measures	55

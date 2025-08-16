@@ -21,6 +21,7 @@ topics:
 - review
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Review of the `Colossean Pantascope'. All the acts were good and the pantoscope scenes were of the postal route from New York and San Francisco to Australia. The Pacific Railway scenes were most striking.

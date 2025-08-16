@@ -29,6 +29,7 @@ topics:
 - dispute
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Lionel W. Stanton writes on the subject of the Redruth Church Funds.

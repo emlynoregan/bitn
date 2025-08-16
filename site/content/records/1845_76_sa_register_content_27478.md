@@ -21,6 +21,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Brass Band was aided by an entertainment at the Institute, chaired by W.H .Rosman.

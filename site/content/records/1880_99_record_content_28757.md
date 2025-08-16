@@ -25,6 +25,7 @@ topics:
 - inquest
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.   Robert T. Allaway died at the Burra Hospital on 24 May.  An inquest was held by F.W. Holder JP on 25 May.  [Aged 57.]

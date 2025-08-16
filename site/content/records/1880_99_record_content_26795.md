@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Charles Cherry (16) was caught in a mowing machine at Mt Bryan and will probably lose his left leg, though the right one is doing well.

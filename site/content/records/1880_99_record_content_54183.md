@@ -17,6 +17,7 @@ topics:
 - theatre
 - audience
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [In another place the audience is described as ‘a poor house’.]

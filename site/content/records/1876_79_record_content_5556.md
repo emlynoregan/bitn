@@ -21,6 +21,7 @@ topics:
 - charity
 - distribution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Philanthropy. The Mayor thanks Mr A. McCulloch of Princess Royal for his liberality in distributing Christmas parcels to the needy of the town. The parcels comprised: -

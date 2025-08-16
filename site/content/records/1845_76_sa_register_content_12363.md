@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Several fine days have produced grass, but it is now very cold and more rain threatens.

@@ -20,6 +20,7 @@ topics:
 - investigation
 - witnesses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Gray said he was prepared to speak the truth when Cr Rabbich produced his witnesses.

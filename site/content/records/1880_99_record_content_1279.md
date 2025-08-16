@@ -19,6 +19,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Madam Sibly, phrenologist, mesmerist etc.  will be at the Institute next Thursday, Friday, Saturday and Monday.

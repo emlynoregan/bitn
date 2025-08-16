@@ -25,6 +25,7 @@ topics:
 - marriage
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  On Tuesday 29 June at St Mary’s Mr J.E.H. Winnall, solicitor married Miss Jessie Sprod, niece of Mr W.T. Sprod of Melbourne.  She has been a Burra resident for six years.  The reception was held at ‘Bleak House’ with about 70 of their friends.  [There follows a list of presents extending ½ column.]

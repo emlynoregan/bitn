@@ -22,6 +22,7 @@ topics:
 - performance
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The cantata Mildred and Patty by Root will be performed at the Institute 5 September in aid of the Redruth Wesleyan Church Deficiency.

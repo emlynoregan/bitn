@@ -18,6 +18,7 @@ topics:
 - court
 - rent
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The defendant in counter claim had a demand for the rent of a shop and much depended on whether this had been taken by the week or for a year.  If it were by the year the plaintiff would have been indebted to the defendant.  The bench decided it had been by the week and the rent of the shop set off against the money lent reduced the claim to 30/- for which the verdict was given.

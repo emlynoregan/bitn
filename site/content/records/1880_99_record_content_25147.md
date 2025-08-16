@@ -21,6 +21,7 @@ topics:
 - church
 - mission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodism is to start mission work at Broken Hill and Silverton.  Mr J. Burrows of Burra has been selected as the first missionary.

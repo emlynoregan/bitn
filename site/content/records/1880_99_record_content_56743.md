@@ -18,6 +18,7 @@ topics:
 - livestock
 - poison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison.  A small poisonous plant ‘not unlike stinkwort’ has appeared to the eats and has been the cause of the mysterious deaths of sheep and cattle – some of which deaths have been blame don phosphorised pollard.  One farmer lost 33 sheep recently.

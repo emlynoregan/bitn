@@ -23,6 +23,7 @@ topics:
 - press
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder pointed out that he had not had editorial control of the Record for the last nine months and in fact both the Advertiser and the Register had published longer reports of his speech than had the Record.  He was glad the progressive land tax was being supported.

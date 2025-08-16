@@ -20,6 +20,7 @@ topics:
 - legal
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Holland, a bushman, has been detained in custody for endeavouring to pass a cheque which it is alleged he changed from £15 to £50.

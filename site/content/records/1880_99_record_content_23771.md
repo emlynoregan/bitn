@@ -20,6 +20,7 @@ topics:
 - event
 - public holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  A good force went from Burra to the sham fight at Fort Largs today.  (A public holiday for the Prince of Wales’ birthday.)

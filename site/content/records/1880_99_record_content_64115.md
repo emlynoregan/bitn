@@ -21,6 +21,7 @@ topics:
 - federation
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Australasian National League meeting on Friday evening last in John Lewis’s schoolroom.  W.G. Hawkes was elected President with a strong committee to ensure a solid vote in favour of federation on 4 June.

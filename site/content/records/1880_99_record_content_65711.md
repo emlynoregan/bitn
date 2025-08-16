@@ -20,6 +20,7 @@ topics:
 - council
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr R. Thomas wrote to say he could not continue as both curator of the cemetery and overseer of works, but was willing to continue as curator if it could be arranged.

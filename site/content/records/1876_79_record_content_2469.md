@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's vestry meeting to discuss the erection of the new church. Several gentlemen promised £50 each towards the cost. [In excess of $12,000 in 2000 terms]

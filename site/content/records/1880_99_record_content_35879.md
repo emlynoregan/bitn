@@ -26,6 +26,7 @@ topics:
 - accident
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Richard Tyler c. 65, boundary rider of Mt Gipps Station fell from his horse and was dragged some distance.  He was buried on 10 March near the south fence of North Fairy Hill Paddock in the presence of E.W. Crewes JP & Trooper Pyvis of Eurowie.  [See also paper of 28 March 1890, page 3 for letter and article from Eurowie NSW.]

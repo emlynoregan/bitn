@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A man named Cox died suddenly at Princesston [i.e. Princess Town] but he had been under medical treatment and no inquest was deemed necessary.

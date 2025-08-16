@@ -18,6 +18,7 @@ topics:
 - events
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Payne Family tonight: they had a good house [last night].

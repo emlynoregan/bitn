@@ -19,6 +19,7 @@ topics:
 - transport
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A huge load, dwarfing a normal semi-trailer, passed by Burra on 8 January bound for Portland aluminium works.  It was a cylinder weighing c. 100 tons.  [Photo.]

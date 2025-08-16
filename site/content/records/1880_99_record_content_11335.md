@@ -20,6 +20,7 @@ topics:
 - business
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Bartholomæus, of Redruth will start a new industry in about a fortnight when he begins the making of bone dust fertilizer.

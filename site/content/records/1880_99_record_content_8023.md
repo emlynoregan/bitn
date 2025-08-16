@@ -19,6 +19,7 @@ topics:
 - religion
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. T. Allen preached twice at the bible Christian Church on Sunday.  He was in charge here 15-16 years ago.

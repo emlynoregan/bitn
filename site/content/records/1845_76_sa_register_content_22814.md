@@ -21,6 +21,7 @@ topics:
 - weather
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie District.  Many people have visited the area lately seeking land and if a quarter get it not only Canowie, but Yongala as well must succumb to tillage.  A visitor of two years ago would not believe what has been done in so short a time.  Wheat has been successfully grown a few miles from Canowie.  On Monday there was some heavy rain and some people reported hail the size of marbles.

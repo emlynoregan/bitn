@@ -20,6 +20,7 @@ topics:
 - public use
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 SAMA declined to hand over the spring near the cemetery on the grounds that it was already preserved for public use.

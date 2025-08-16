@@ -21,6 +21,7 @@ topics:
 - land
 - compensation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The council resolved to buy part of Fore St from Mr Gray for £3, the sum charged, plus £10 compensation.

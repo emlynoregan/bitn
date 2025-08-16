@@ -21,6 +21,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton presented an entertainment at the Burra Hotel Assembly Room on 2 December.  [Performers and items given are listed.]  Nearly £7 was raised for the Parsonage Repair and Enlargement Fund.

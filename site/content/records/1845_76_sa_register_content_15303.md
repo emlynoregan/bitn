@@ -22,6 +22,7 @@ topics:
 - public order
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Races were held on 1 & 2 January.  Since the Burra Mining Co. has fenced in a large paddock on the Copperhouse flat, it was necessary to move the racecourse a little distance to the southward to ground not so flat or as large as previously used.  The numbers attending were fewer than previous years.  This I attribute mainly to the loss of population since the last meeting.  [The races are then reported.]

@@ -19,6 +19,7 @@ topics:
 - event
 - curiosity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A balloon released in Bendigo on 7 July was found just north of Burra in the morning of 8 July.

@@ -19,6 +19,7 @@ topics:
 - government
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. J.H. Gordon has met his creditors and as a consequence has resigned his seat in the Legislative Council.

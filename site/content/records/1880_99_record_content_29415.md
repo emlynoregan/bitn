@@ -18,6 +18,7 @@ topics:
 - assessment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Land Assessment.   This is expected to be at least 25% below the old assessment.

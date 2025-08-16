@@ -18,6 +18,7 @@ topics:
 - letter
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter, presumably from an ex-councillor thanking the editor for showing that the previous Councils had not squandered money recklessly or without common sense.

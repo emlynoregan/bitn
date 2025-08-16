@@ -21,6 +21,7 @@ topics:
 - fee
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp- Mr Thwaites left without paying the £1-10-0 fee for erecting his tent.

@@ -19,6 +19,7 @@ topics:
 - legislation
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. The bill to validate the council's rates finally passed the third reading in the House of Assembly & now just waits Vice-Regal assent.

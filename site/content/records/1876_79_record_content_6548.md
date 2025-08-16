@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - public subscription
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well. A meeting was held at the Institute on Tuesday afternoon with Dr Nesbitt in the chair. Mr F.W. Holder explained he had obtained information from Mr Miller of Francis Clark & Sons and a suggestion of an offer to bore in Market Square. It seems clear no water supply from the Govt. is possible without a general rate and therefore local action is a better proposition with the revenue going to the Corporation. The evidence of water in the Mine suggests a well in Market Square would strike water at 200-300'. He proposed that 1/2 the cost be met by the Govt. through the Council with'/4 from SAMA and 1/4 by public subscription. The Corporation must be applied to at the next meeting. Sir Henry Ayers had been written to and private subscriptions of £70 were already promised.

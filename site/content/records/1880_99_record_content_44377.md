@@ -19,6 +19,7 @@ topics:
 - railway
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Crossing.  With the bridge now underway something is needed at the railway crossing.  It is busy and the trains issuing from the cutting are soon on to the crossing.  Last week a six-horse team with a load of hay only narrowly escaped.

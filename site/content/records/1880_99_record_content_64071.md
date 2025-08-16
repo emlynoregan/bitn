@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Church Anniversary last Sunday.  Rev. S. Wellington preached to crowded congregations in the afternoon and evening.  There was a successful tea meeting on Monday.

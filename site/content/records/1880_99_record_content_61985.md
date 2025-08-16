@@ -19,6 +19,7 @@ topics:
 - flood
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Flood.  The recent flood down Baldina Creek was one of the biggest for many years and the recently made ford stood the test very well.

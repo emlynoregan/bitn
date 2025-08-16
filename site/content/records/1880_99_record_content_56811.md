@@ -26,6 +26,7 @@ topics:
 - immigration
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Osborne died at Burra Hospital last Sunday, aged 76.  He left London in the first ship that ever visited Australia, found his way to Burra and had there a ‘two-roomed house’ in the creek and worked for years in the mine.  [Henry Osborne died 28 April aged 72.]

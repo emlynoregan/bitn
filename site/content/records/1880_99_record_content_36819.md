@@ -22,6 +22,7 @@ topics:
 - music
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Lynch Family Bellringers will appear at the Institute 5 June.  As well as the musical program the favourite comedian and impersonator, Mr J.S. Parlatto and the laughable comedy ‘The Chinese Question’.  3/-, 2/-, and 1/-.

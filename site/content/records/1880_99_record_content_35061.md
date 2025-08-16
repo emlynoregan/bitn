@@ -19,6 +19,7 @@ topics:
 - business
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Goodchild, Duff & Co. announce that on 21 December 1889 they sold their business to Elder, Smith & Co. Ltd.

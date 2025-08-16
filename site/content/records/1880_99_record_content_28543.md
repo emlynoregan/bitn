@@ -20,6 +20,7 @@ topics:
 - animals
 - lost property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Believed stolen from my yard early on the morning of 28 April: two liver and white cocker spaniels.  Reward for information.  John Rumball, Burra Railway Station.

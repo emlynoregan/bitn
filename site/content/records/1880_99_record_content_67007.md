@@ -23,6 +23,7 @@ topics:
 - business
 - profession
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr P. Pendlebury, solicitor, who has been in practice in Terowie for some years has moved from there to Clifton Chambers in King William St, Adelaide, but will retain his practice in the north if he is required there.

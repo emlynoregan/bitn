@@ -21,6 +21,7 @@ topics:
 - damage
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Last Friday was hot, windy and very dusty ending with a thunderstorm.  At Hanson Mr J. Peake Jun. lost £60 worth of hay.  There was no serious damage in Burra, though some shed roofs went.

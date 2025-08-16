@@ -21,6 +21,7 @@ topics:
 - public works
 - tree planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Locally we hope the mine will reopen.  We need a new railway station.  The Council should also ensure the continued improvement of the town.  He was in favour of borrowing to vastly improve the town.  In the coming year a major effort will be the enclosing and planting of the recreation ground, granted by SAMA.  There will be more tree planting.

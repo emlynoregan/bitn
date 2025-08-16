@@ -19,6 +19,7 @@ topics:
 - company
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Directors of the Royal Mining Co. visited their property this week.  Their report has not been made public.

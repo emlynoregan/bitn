@@ -18,6 +18,7 @@ topics:
 - business
 - clothing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Pelerine: a long narrow cape or tippet.  The shop was actually ‘Batchelor’s old shop.]

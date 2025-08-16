@@ -20,6 +20,7 @@ topics:
 - entertainment
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  At the Institute on Monday Canon Green’s humorous lecture on Courtship was given to a good audience.

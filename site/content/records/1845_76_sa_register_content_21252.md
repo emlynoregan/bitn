@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the last meeting of the central Road Board Mr Everard drew attention once again to the need for a measure to prevent the wholesale destruction of roads by the carrying of heavy loads on narrow wheels.  He hoped an attempt would be made in the House of Assembly to reintroduce the Width of Tires Bill.

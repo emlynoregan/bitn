@@ -23,6 +23,7 @@ topics:
 - plantation
 - roadway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The new Aberdeen-Kooringa Footway is nearing completion and when both sides are finished it will be a great improvement.  The usual width between kerbs in chain streets is 46’, leaving a 10’ footway on either side.  We assume the old fence will be shifted back 46’ from the edge of the new footway and then with the 15’ granted by SAMA there will be a 25’ strip on the eastern side for a plantation all the way.  The roadway needs to be widened by moving the fence, as there is much traffic on it.

@@ -19,6 +19,7 @@ topics:
 - institution
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital: At last the conveyance of the hospital from SAMA to the Corporation was signed.

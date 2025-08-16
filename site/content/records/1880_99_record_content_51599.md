@@ -19,6 +19,7 @@ topics:
 - epidemic
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Measles Epidemic at Broken Hill has caused 53 deaths up to 17 October.

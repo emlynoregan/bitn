@@ -21,6 +21,7 @@ topics:
 - photography
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Bentley, who has long been a photographer at Redruth, has moved into a studio next to the Burra Hotel.

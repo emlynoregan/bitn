@@ -20,6 +20,7 @@ topics:
 - society
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc.  The first meeting of the season was on Friday at Redruth and was a program by lady associates.  It was the society’s largest gathering when 48 attended.

@@ -20,6 +20,7 @@ topics:
 - diggings
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Despite contrary reports many people have passed through en route to the Barrier Ranges.  Some say the diggings are actually at Cooper’s Creek.

@@ -18,6 +18,7 @@ topics:
 - printing
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Record this week is being printed in new type to improve the face of the paper.

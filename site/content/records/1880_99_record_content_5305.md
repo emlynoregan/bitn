@@ -21,6 +21,7 @@ topics:
 - dispute
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From  ‘Onlooker’ re a dispute between the Muffs and the Aberdeen cricketers.  Apparently the captain of the Muffs objected to playing against any but members of the Aberdeen club.  Aberdeen had ten bona fide members and a substitute and the members of the match committee felt this to be justifiable.  The Muffs after all had one member who last season played for Aberdeen and had not yet tendered his resignation.  Surely this made matters pretty even.  The Aberdeen captain offered to ask his substitute to withdraw if the Muffs would remove their illegitimate member, but they refused.

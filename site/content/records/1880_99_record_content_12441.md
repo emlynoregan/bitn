@@ -21,6 +21,7 @@ topics:
 - fine
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daniel Gleeson, alias Edmond Sullivan was charged with being drunk in Church St on 26 Feb. and fined 5/- or 25 hours.

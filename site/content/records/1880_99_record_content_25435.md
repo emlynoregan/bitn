@@ -20,6 +20,7 @@ topics:
 - economy
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Multum in Parvo’ [Much in little] fears the falling number of workers in Burra will soon impact on businessmen to their detriment, so the latter had better urge employment schemes.

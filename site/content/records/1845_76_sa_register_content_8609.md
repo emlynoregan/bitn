@@ -26,6 +26,7 @@ topics:
 - infrastructure
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.B .Lucas writes commenting on a claim by Mr Hewitt at the Central Road Board that nothing had been done to the southern roads:

@@ -21,6 +21,7 @@ topics:
 - sport
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd was ‘J.M. Max’ off 21 yards, 3rd was A. Polkinghorne off 17½ yards with 4th A. Yeo off 20 yards.  1st won £20, 2nd £6, 3rd £3 and 4th £1.

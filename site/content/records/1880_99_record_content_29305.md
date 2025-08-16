@@ -24,6 +24,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Chess Club.  Despite the results announced on 27 July, the club tournament continued with play-offs and the results are now announced as: H.G. Gibson 1st, G.B. Hall 2nd, A. Jennings 3rd, and R. Fordham 4th.  [Given the earlier results, R. Fordham’s name is a surprise.]

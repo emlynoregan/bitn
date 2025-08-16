@@ -19,6 +19,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police.  There are too many in the town if they can all attend the same concert!

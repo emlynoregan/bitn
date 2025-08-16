@@ -19,6 +19,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Ragamuffins Concert on 21 May will raise money for boots for the needy children in the district.

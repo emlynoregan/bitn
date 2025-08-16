@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Kelly Gang is still at large in Victoria.

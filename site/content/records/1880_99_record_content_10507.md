@@ -28,6 +28,7 @@ topics:
 - event
 - trotting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.F. Duff & J. Lewis arranged a trotting match in the past week.  Mr Duff conceded an eight-mile start to Mr Lewis’s pair and a handicap of 3cwt in the trap.  Mr Lewis accomplished his distance, Sod Hut to Kapunda, in 3 hrs 45 mins, starting at 6.00 a.m.

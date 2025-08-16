@@ -21,6 +21,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Gold.  There are 20 men from Burra and about 50 others on the field.  So far the Government party has collectively found 11 dwt!  Some remain hopeful.

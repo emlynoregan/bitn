@@ -20,6 +20,7 @@ topics:
 - injury
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Parks jun. received a nasty cut to his head from a falling case at Bath & Pearce’s store where he works.

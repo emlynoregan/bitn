@@ -17,6 +17,7 @@ topics:
 - social
 - etiquette
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Etiquette.  A list of seven rules is printed on when a man should raise his hat.

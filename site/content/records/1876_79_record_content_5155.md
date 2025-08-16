@@ -19,6 +19,7 @@ topics:
 - storm
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Storm. The high wind on Monday tore away the verandah from Mr Ford’s corner shop and deposited it on top of Mt T, Wilkinson’s private residence, damaging several sheets of iron.

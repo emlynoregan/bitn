@@ -21,6 +21,7 @@ topics:
 - gambling
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ [Hardy] writes against re-legalising the Totalizator: saying it will not reduce the number of bookmakers and will get more people into [financial] trouble and gaol than it is possible to estimate, as an authority in Adelaide has recently observed.

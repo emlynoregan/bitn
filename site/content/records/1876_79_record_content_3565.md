@@ -19,6 +19,7 @@ topics:
 - entertainment
 - postponement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment. The Cutter and King concert has been postponed due to indisposition.

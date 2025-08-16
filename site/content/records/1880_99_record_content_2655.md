@@ -19,6 +19,7 @@ topics:
 - exhibition
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3 Dec 80	Serpent Ch VI-VIII	Lost for a Woman	Victorian International Exhibition:	X	X			X	X	X	X

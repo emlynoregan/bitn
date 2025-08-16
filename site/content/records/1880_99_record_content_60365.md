@@ -20,6 +20,7 @@ topics:
 - racing
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  7th race was from Mt Lofty over 91¼ miles and was won by J.A. Pearce’s bird at 853 yds per minute.

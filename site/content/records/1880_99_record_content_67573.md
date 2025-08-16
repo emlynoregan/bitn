@@ -18,6 +18,7 @@ topics:
 - war
 - social behavior
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boer War.  Children in the town are mimicking the war in Transvaal, throwing road metal at each other, and then closing in with sticks etc., until parents dragged them off by the ears.

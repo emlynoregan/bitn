@@ -24,6 +24,7 @@ topics:
 - flood
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  The harvest is over and the crops very light; 1½ to 7 bushels per acre.  A storm on Sunday 11 January was concentrated in an area about two miles square.  The resulting flood destroyed fencing on Mr Montgomery’s next to Mr Robert’s property.  From Robert’s the flood went on to Mr Gilbert’s paddock and rushed along to the station, carrying all before it.  It destroyed pigsties, stone closets, fences and a large iron pump, which was wrenched from the well and carried away.  A 400 gallon tank containing 8 cwt of fat was swept away and reduced to pieces.

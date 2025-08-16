@@ -19,6 +19,7 @@ topics:
 - police
 - law and order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The hypocrisy of allowing hotels to be open till 3 a.m. and then employing almost a dozen special constables to keep the larrikins in check is another issue he raises.

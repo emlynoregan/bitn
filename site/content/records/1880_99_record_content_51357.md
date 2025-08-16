@@ -19,6 +19,7 @@ topics:
 - wages
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 300-400 men are labouring in the swamps at St Kilda for £1-2-6 a week.

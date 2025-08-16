@@ -24,6 +24,7 @@ topics:
 - agriculture
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Annual Kooringa Masonic Ball was held in Lamb’s Burra Hotel on Thursday.  Schrader’s Band provided good music and there were capital refreshments. The only drawback was the lack of attendance, particularly of ladies.  This was easily accounted for by the presence of measles in nearly every house in the neighbourhood.

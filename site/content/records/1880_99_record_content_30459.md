@@ -33,6 +33,7 @@ topics:
 - roads
 - subsidy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.R. Ridgway asked what the year’s income was.  The Town Clerk said it was not possible to answer that without the books to hand, but the deficit at the end of the year was expected to be about £270.  Income was about £550 from rates £70 from Dog Licences and about £20 from fines.

@@ -17,6 +17,7 @@ topics:
 - rain
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain has fallen in the last week - 0.49”.

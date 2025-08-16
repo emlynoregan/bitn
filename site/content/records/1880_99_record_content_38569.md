@@ -17,6 +17,7 @@ topics:
 - politics
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Legislative Council has blocked the 19th part of the municipal Corporations Bill and so it is likely to be shelved again.

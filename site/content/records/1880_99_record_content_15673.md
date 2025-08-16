@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. D. O’Donnell will lecture on England Under Queen Victoria at the Burra Institute on Monday next at 8 p.m.  1/-

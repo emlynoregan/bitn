@@ -20,6 +20,7 @@ topics:
 - sport
 - horse race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another horse race has been arranged for next Wednesday week between R. Austin’s grey mare and Mr T. Hall’s ‘Earl’.

@@ -20,6 +20,7 @@ topics:
 - sport
 - correction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [The information on awards was garbled in the paper and the corrected version was published CXVII, 8125, 30 September 1987, page 23: Neil Brown was best and fairest in Burra Senior Team and Justin Fidock was best and fairest in the Junior Team.]

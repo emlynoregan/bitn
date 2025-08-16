@@ -22,6 +22,7 @@ topics:
 - building
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Wesleyan Church.  The memorial stone was laid on Wednesday last by Mrs T. Drew with the ceremony conducted by Rev. H.T. Burgess.  A tea meeting followed.  About 90 crowded into the room where services have been held for some time.  In cash and promises some £60 had been obtained.  The total outlay will be about £100 irrespective of labour and building is expected to be completed in about two months.

@@ -26,6 +26,7 @@ topics:
 - locusts
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Aberdeen.  29 October.  Buildings are going up rapidly.  James Tiver has just commenced the erection of a pretty shop and dwelling.  Mr Ridgway has let a contract to Sara Bros. for a house and offices.  The latter will be occupied by the National Bank.  This building, designed by Mr Rowland Rees MP, will add to the beauty of the place.  The prospects are for a very good season for wheat and it is expected the two new flour mills will have plenty to do.  Mr Roach’s mill is a very neat structure and has been almost completed by Sara Bros.  Mr Rees was also the architect for this.  Mr Roach has already laid in a large stack of firewood.  Butterworth’s mill is also nearing completion, and the machinery is being fixed.

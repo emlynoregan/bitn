@@ -20,6 +20,7 @@ topics:
 - rolling stock
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wheat Traffic.  [The editor has another column reporting the wheat traffic on the railways and giving more details of loadings at individual stations.  He concludes that regardless of other factors in causing the blockage, it is imperative that more rolling stock be obtained to handle increasing tonnage as the colony’s wheat production expands in the future.  The following figures are a small extract from those cited.

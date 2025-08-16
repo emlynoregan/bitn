@@ -20,6 +20,7 @@ topics:
 - trees
 - planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Father Kriesll’s and Mr Ullmann’s offers of trees were accepted.

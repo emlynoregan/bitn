@@ -17,6 +17,7 @@ topics:
 - finance
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The total for salaries is £115 less than for last year.

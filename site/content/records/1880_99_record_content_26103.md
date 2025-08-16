@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - cost
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The Serviceton Railway Station on the SA Border has cost £30,000.

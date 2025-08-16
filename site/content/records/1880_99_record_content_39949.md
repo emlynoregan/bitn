@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr O’Leary thought that if carried the town tank would not be able to cope with the demand at times.

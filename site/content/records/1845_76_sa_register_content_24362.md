@@ -19,6 +19,7 @@ topics:
 - death
 - genealogy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Frederick Gurney died 1 January 1872 Kooringa, residence Kooringa, aged 54.  Records show there were six children, two girls and four boys born between 1852 and 1868.  One, a boy born in 1865, had died aged 1 month.]

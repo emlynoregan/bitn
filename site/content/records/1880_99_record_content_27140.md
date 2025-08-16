@@ -19,6 +19,7 @@ topics:
 - events
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Worley’s Combination of Japanese and European Artists, 17 &19 Dec. at Burra Institute.  Front seats 3/-, back seats 2/-.

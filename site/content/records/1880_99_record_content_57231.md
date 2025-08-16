@@ -20,6 +20,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Captain & Mrs Scoones from Wentworth have taken charge of the local corps.

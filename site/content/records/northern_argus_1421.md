@@ -21,6 +21,7 @@ topics:
 - event
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS junior students visited Redruth Gaol last week for story telling as part of Children’s Book Week.  Students are also busy rehearsing for the school play Man of Steel to be performed at the Burra Town Hall on 14 & 15 August.

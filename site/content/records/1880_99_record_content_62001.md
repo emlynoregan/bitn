@@ -28,6 +28,7 @@ topics:
 - railway
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Election.  Mr Charles Wilcox addressed electors on Saturday evening at the Institute.  He was a farmer with interests also in industry.

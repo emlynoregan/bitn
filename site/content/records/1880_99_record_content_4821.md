@@ -20,6 +20,7 @@ topics:
 - offence
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  J. Calloway was fined £5 +5/- for selling beer [at the ‘Pig and Whistle] on Sunday 14 August.

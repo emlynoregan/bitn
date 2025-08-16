@@ -21,6 +21,7 @@ topics:
 - mining
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A silver smelter is to be erected at Pt Pirie by Victorian capitalists interested in the mines near Silverton.

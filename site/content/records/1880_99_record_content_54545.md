@@ -19,6 +19,7 @@ topics:
 - education
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Schoolroom magic lantern show of ‘An Overland Trip from England to India’ was shown to a small audience due to the wet weather, but it was much appreciated.  It will be repeated on Thursday for the children for 3d.

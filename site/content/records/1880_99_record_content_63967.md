@@ -25,6 +25,7 @@ topics:
 - prison
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Jacka returned home on Saturday after a month at Brooklyn Park Reformatory.  His release followed application from the magistrate in the case and the Attorney General.  Jacka has been asked by Mr Snell (who brought the prosecution) to drive the mail cart which bears out our previous remarks that he was not anxious for a severe punishment, but someone else was.  There are letters to the editor from Jacka and his mother thanking all those involved.

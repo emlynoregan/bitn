@@ -34,6 +34,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.  Thomas Roach, aged 32, died at Gum Creek in a fall from his horse on 24 April.  J.D. Cave was coroner and Mr E. Goodridge foreman of the jury.  George Edward Young gave evidence as an employer & manager of Gum Creek Station.  Much detail is given, but essentially John Walter Betts, a stonebreaker working on the Gum Ck-Hanson road, saw a riderless horse in the hands of Thomas Leonard, near his tent.  He sent the boy, John Leonard, to find the rider who was found lying near the road.  Evidence was then tendered of how the deceased was cared for.

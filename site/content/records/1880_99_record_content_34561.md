@@ -20,6 +20,7 @@ topics:
 - agriculture
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Harvest.  Samples from all around the district are good.  A little rust is evident in some places to the west.

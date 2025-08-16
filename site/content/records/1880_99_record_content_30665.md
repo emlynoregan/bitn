@@ -20,6 +20,7 @@ topics:
 - resignation
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council met yesterday to consider the Mayor’s resignation.  It is believed W.R. Ridgway will be a candidate for the position.

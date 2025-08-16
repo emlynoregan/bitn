@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  Messrs S. Drew & Co. have received £17, the proceeds of an entertainment at Outalpa Station for the benefit of ‘that excellent institution the Burra Hospital.’  Many patients come from stations in the N-E and it is gratifying to see that persons value the institution.

@@ -21,6 +21,7 @@ topics:
 - meeting
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Meeting of the Burra and Young Australians Cricket Clubs at Pearce’s Hotel next Monday.

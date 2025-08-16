@@ -24,6 +24,7 @@ topics:
 - event
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Thursday the children, headed by a band and carrying suitably inscribed banners, marched through the town.  They ended at the chapel for the customary tea and cakes.  The public tea meeting drew a large crowd and interesting addresses were delivered.  During the year the school has increased from 40 to 100 and can be considered to be flourishing.

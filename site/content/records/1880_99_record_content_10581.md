@@ -20,6 +20,7 @@ topics:
 - meeting
 - recruitment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Rifle Volunteer Co.  Persons interested in joining this proposed company should meet Lieut. Tolley at the Commercial Hotel this evening at 8 p.m.

@@ -23,6 +23,7 @@ topics:
 - alcohol
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Alcohol. Four men travelled from Morgan to Burra this week and near World's End one got away into the scrub on the `horrors' from drink while all his companions did was to laugh. Mr Midwinter found him and brought him in to the Burra Hospital.

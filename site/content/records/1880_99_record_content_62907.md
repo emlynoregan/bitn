@@ -21,6 +21,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Juvenile Foresters gave a concert in St Mary’s Schoolroom on Monday which was meagrely attended.  Their picnic is today at Springbank.

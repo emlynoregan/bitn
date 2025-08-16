@@ -20,6 +20,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 10 June, A Grand Juvenile Entertainment in aid of St Joseph’s School.  2/- & 1/-.

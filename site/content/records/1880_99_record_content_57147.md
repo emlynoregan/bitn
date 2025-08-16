@@ -20,6 +20,7 @@ topics:
 - legal
 - ultra vires
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks asked if the Mayor considered bylaw 26 was workable or was ultra vires.

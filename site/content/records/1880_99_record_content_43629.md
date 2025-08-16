@@ -22,6 +22,7 @@ topics:
 - celebration
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The largest crowd ever seen in Burra paraded the streets on Christmas Eve and the footpaths were so crowded that the roadway had to be resorted to.  Every shop was decorated and windows dressed.  Business was better than for some years despite the prospects of a poor harvest.  The Burra Brass Band played selections in front of the principal stores.  The Salvation Army held a special open-air meeting, taking up their stand on a wagon.  Hotels did good business and at Smith’s yards a boxing match between E. Mordon and J. Kilmartin saw victory go to the former.  About midnight the Brass Band began their usual rounds playing Christmas Carols.  After visiting place after place all night and receiving good things along the way, they returned home delighted with their outing.

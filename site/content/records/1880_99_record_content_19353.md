@@ -28,6 +28,7 @@ topics:
 - celebration
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rechabite Jubilee.  Celebrations are being held in England and Australia.  Brothers Hodgson (High Treasurer) and Dimond (Past High Chief Ruler) were present as a deputation from England and were met at the railway station by friends and brought to the Institute with Mr D. Nock JP, who accompanied them.  F.W. Holder chaired the luncheon and then offered the usual loyal toasts.  Various people spoke in support of the cause, including Dr Sangster, who though not a total abstainer was a sympathizer.  The meeting is reported at some length - c. 1¼ columns.

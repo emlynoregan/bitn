@@ -44,6 +44,7 @@ topics:
 - administration
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 This showed the importance of having the Mine and to have it in operation they needed a railway and needed it quickly.  He especially deplored the coition of the unemployed men’s wives and families.  He moved that the already surveyed line be carried out, as labour was plentiful and there were great facilities for obtaining capital from England.  J.R. Stephens seconded the motion and developed the arguments.  Mr Ernest Siekman also spoke in support.  He suggested that agriculture would be as big a supporter of the line as the mining industry.

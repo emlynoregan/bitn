@@ -19,6 +19,7 @@ topics:
 - church
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.A. Langsford, President of the Wesleyan Conference, officiated at a memorial service to the late Rev. J.Y. Simpson on Sunday.  The church was crowded in the evening when both the Primitive Methodist and Bible Christian churches were closed as a mark of sympathy and respect.

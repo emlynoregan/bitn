@@ -23,6 +23,7 @@ topics:
 - meeting
 - officers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 BYMMIA will meet in future on Fridays at 8 p.m. in the Institute. Officers for the first six months are: - President	F.W. Holder

@@ -25,6 +25,7 @@ topics:
 - dispute
 - salvation army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Young Men’s Union responds via ‘A Member’ denying the charges levelled by ‘A Wanderer’ in last Friday’s issue over the Union’s activities on competing with the Salvation Army.

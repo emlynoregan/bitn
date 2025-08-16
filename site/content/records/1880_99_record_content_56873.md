@@ -29,6 +29,7 @@ topics:
 - agriculture
 - markets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Branch of Pastoralists Union of SA & West Darling held a meeting in the Institute on Friday afternoon re railway stock charges.  P.L. Killicoat produced statistics to show the SA tariff was much higher than in any other colony.  Similar meetings were held at Jamestown & Pt Augusta.  The value of stock had fallen.  Some years ago 40,000 sheep could be sold at one market, but now it took six sales to clear that number.  The tariff for various colonies was read.

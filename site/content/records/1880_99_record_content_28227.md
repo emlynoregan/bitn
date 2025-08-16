@@ -21,6 +21,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra will play Saddleworth at Burra on Good Friday, but the match with Terowie on Easter Monday has been cancelled, as Terowie is unable to field a team.

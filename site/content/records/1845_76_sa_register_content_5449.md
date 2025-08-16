@@ -25,6 +25,7 @@ topics:
 - mining
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tristram Bath appeared as Superintendent of the Princess Royal Mines to the complaint of James Nicholls.  Nicholls said he and other miners had raised copper ore, which the company had agreed to take at a certain percentage.  The agreement had been made by Captain Pascoe, now in Adelaide.  The company was now about to remove the ore without settling with the men.  They had also sent the men a bill, bringing them into debt, charging them with backing the ore, which was contrary to usage and to the agreement with Captain Pascoe.

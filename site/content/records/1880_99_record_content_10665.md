@@ -21,6 +21,7 @@ topics:
 - visit
 - confirmation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  First visit of Bishop Kennion to Burra.  Confirmation Service on Monday.  The sermons are described in summary.  We regret that the town laid on no public recognition for the Bishop’s first visit.

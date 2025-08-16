@@ -21,6 +21,7 @@ topics:
 - obituary
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Jane Finch, relict of the late Richard Finch who was killed at the railway crossing a mile or two south of Burra Station many year’s ago, died last Friday 10 August, aged 83.

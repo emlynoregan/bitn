@@ -19,6 +19,7 @@ topics:
 - railways
 - gauge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Estroman’ also writes on the same subject and goes into further discussion of the gauge issue.

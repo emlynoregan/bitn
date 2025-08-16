@@ -20,6 +20,7 @@ topics:
 - social
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The game of “start before you are ready” in matrimonial affairs, is becoming a fashionable one, which is considered to probably result in an additional wing being soon required for the city orphanage.’

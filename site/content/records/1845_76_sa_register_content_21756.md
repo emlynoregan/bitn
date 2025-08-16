@@ -18,6 +18,7 @@ topics:
 - agriculture
 - settlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Farmers are in good spirits and two additional sections on Mt Bryan Flat have been settled in the last month.

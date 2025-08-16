@@ -22,6 +22,7 @@ topics:
 - inspection
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mines.  A party of gentlemen from Adelaide were shown over the mine last week by the Hon. John Lewis MLC and were favourably impressed, though the object of their visit has not been made known.

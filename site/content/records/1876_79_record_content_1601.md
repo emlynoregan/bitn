@@ -20,6 +20,7 @@ topics:
 - circulation
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Newspaper: Circulation of paper said to be >600 and growing Name to be changed to The Burra News and Northern Mail

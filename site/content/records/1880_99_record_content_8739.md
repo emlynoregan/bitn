@@ -18,6 +18,7 @@ topics:
 - media
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a mass of small advertisements with a few spread across two columns.  Many of them are local.

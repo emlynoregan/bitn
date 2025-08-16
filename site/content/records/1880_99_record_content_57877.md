@@ -22,6 +22,7 @@ topics:
 - religion
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.F. James gave an interesting lecture in the Bible Christian Church on Monday evening, chaired by the Rev. T.M. Flood.

@@ -18,6 +18,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Other main events were the 220 yards handicap hurdles (1st £2-2-0) and the mile handicap (1st £2-10-0).

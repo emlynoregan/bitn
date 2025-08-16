@@ -21,6 +21,7 @@ topics:
 - medicine
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Tuesday 29 November Dr Mayne delivered his lecture on ‘Respiration’ in the large room of the Burra Hotel.  It was fully attended and the room looked well.  This was the first good audience since it was decorated and lit with camphine.  [An oil distilled from turpentine.]  [A brief outline of his lecture is given.]

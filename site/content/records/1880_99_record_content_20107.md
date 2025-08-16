@@ -21,6 +21,7 @@ topics:
 - bonds
 - loan
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Summary of the Bonded Debts of the Corporation.

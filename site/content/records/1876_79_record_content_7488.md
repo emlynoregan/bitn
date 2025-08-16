@@ -18,6 +18,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Joseph's anniversary on Sunday and Monday was successful and we believe raised c145.

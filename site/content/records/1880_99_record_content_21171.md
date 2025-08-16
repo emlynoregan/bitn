@@ -20,6 +20,7 @@ topics:
 - death
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Kyran Linkson, aged 13 drowned last Sunday [3 January] in Sara & Dunstan’s dam, having gone swimming there with Johnson Carpenter.

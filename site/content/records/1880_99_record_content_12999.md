@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 1 April, at Kooringa, to the wife of R.H. Birt, a daughter.  [Laura Rachel]

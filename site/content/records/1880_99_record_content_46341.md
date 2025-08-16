@@ -21,6 +21,7 @@ topics:
 - public order
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This is about a local fracas involving Lance Corporal Thomas and Thomas P. Halls.

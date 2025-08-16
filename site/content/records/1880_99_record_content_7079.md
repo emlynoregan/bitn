@@ -21,6 +21,7 @@ topics:
 - anniversary
 - sermon
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Sunday School Anniversary last Sunday & Monday.  Sermons by F.W. Holder & Rev. J. Pearce.

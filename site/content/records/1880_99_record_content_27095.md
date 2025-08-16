@@ -20,6 +20,7 @@ topics:
 - transport
 - place_name
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note that Whyte-Yarcowie was the name of the railway station at the town of Yarcowie.  The town became Whyte-Yarcowie in Sep. 1929.]

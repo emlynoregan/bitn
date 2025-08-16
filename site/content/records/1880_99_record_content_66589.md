@@ -20,6 +20,7 @@ topics:
 - smelting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  Work at the old slagheap is progressing with sheds and machinery being erected and the site has become a popular Sunday rendez-vous.

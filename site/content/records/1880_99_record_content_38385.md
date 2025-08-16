@@ -19,6 +19,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was thought the Recreation Ground would be a good source of income, but in fact receipts have not paid for the ‘extras’ in connection with the feeding of the elephant, besides having to pay £100 p.a. with interest for the pleasure of having allowed the great wall to be built.

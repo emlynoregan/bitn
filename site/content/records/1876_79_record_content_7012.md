@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Lynch Family of Bellringers will appear at the Institute Monday 8 Sept. 3/- & 2/-

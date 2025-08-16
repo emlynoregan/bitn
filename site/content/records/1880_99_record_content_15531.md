@@ -19,6 +19,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader is a waffly extravagant construction decrying the lack of fanfare and any public demonstration to greet the arrival of the town water supply and concluding with the observation that ‘Our title for Dr Brummitt is “Aquarius the Waterman”’.

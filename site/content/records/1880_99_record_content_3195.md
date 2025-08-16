@@ -19,6 +19,7 @@ topics:
 - community
 - prize list
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on the Burra Show Society with hopes that the prize list for the year’s show will soon be available.

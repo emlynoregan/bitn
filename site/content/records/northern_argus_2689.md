@@ -21,6 +21,7 @@ topics:
 - museum
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Maureen Wright recently bought a large wooden bench for $560 at an auction in Kapunda.  It was described as being from the Burra Mines.  She asks if anyone can verify that because if they can the Burra National Trust would buy it at the purchase price.  [Photo.]

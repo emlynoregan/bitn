@@ -29,6 +29,7 @@ topics:
 - bankruptcy
 - navigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation: Its Advantages, the second article by Sir Richard Chaffey Baker.

@@ -22,6 +22,7 @@ topics:
 - building
 - congregation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army have taken over the old Church of England on Limestone Hill and had three large congregations there on Sunday.  They have use of the old building pending the erection of the Barracks.

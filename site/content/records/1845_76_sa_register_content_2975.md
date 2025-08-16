@@ -23,6 +23,7 @@ topics:
 - wages
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Miners of the Burra Burra Mines, 1 November 1848 to the Editors of the SAR:

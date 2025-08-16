@@ -22,6 +22,7 @@ topics:
 - government
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the difficulties of enforcing the orders of the Local Board of Health.  The Board does its best, but the mechanism for enforcing its orders is deficient.  It is hard for locally elected men to enforce unpopular actions on local people and so lose their seats at the next election.  Also such men are not usually well qualified in either the operations of sanitary laws, let alone questions of germ theory etc.  A Government medical officer, suitably remunerated, is needed.

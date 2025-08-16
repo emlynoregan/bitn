@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Sculling remained big news with references to stakes of $US 5,000 mentioned.

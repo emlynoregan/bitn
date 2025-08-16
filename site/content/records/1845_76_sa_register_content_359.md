@@ -21,6 +21,7 @@ topics:
 - labour
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  It is reported that a difference has sprung up between the proprietors of the Burra Burra Mine and the men employed.  We are not acquainted with the cause.

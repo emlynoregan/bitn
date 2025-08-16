@@ -18,6 +18,7 @@ topics:
 - vandalism
 - public property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  Who put the hole through the Market Square trough?

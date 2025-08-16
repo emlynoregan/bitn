@@ -18,6 +18,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On the flat near the old White Hart on Saturday South and North junior footballers played to a draw in favour of South, who kicked 16 behinds to North’s 14.

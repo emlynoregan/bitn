@@ -22,6 +22,7 @@ topics:
 - advertisement
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for fencing, erecting pump, stage etc. to the reservoir on the Travelling Stock Reserve opposite section 11 in the Hundred of King.

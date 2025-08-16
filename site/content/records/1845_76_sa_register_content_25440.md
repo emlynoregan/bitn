@@ -20,6 +20,7 @@ topics:
 - fundraising
 - parsonage fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bishop of Adelaide preached at St Mary’s on Sunday to large congregations.  Collections were made to aid the Parsonage Fund.

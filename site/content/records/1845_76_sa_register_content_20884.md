@@ -22,6 +22,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Apoinga News, 2 July

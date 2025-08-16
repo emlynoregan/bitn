@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The verdict on the Burra road approaches, as discussed in the editorial, is reported in a little more detail.

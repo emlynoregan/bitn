@@ -19,6 +19,7 @@ topics:
 - rain
 - hydrology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain on Thursday and Friday amounted to 0.88” and more on Saturday caused the best flow in the Burra Creek for the winter.  So far 2.98” have fallen in October.

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment at the Institute 1 July in aid of St Mary’s church.  [Program printed]

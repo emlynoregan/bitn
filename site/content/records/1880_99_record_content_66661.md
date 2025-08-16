@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  Preparatory work at the slagheap continues and it is expected that things will be ready to start treating the heap in about two months.  The boiler at the pumping station has been fixed and the well cleared to a certain depth and the pump will have to be set in motion to remove water to allow more debris to be removed.

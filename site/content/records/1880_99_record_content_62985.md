@@ -20,6 +20,7 @@ topics:
 - finance
 - lighting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The lamp in West Ward cost £4-17-6 as did the one in East Ward.

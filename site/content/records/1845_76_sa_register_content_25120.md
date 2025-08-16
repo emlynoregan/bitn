@@ -21,6 +21,7 @@ topics:
 - mining
 - find
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Mr Thomas Fitzgerald, an old worker at the diggings found a rough nugget weighing one ounce at a depth of 23 feet in Coglin’s Gully.  About 20 men are on the field and are said to be making fair wages.

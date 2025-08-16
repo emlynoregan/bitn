@@ -20,6 +20,7 @@ topics:
 - industrial dispute
 - threats
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kapunda News, 15 May

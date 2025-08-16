@@ -22,6 +22,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football is very popular at present.  There is a problem in that having two clubs in the town produces good football in town on Saturdays, but for matches against other towns Burra can produce only one good team.  This fact totally disorganised the sport on 20 June.  Some of the Aberdeen members visited Clare to help uphold the laurels of the Burra Club, while the Aberdeen Club had a match with Manoora.  The result was a heavy loss for both the Burra teams.  United we stand, divided we fall.

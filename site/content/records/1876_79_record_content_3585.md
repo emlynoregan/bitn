@@ -23,6 +23,7 @@ topics:
 - animal health
 - poison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Poison Plant. J. De Lace, employed by Dr. Browne of Booborowie, has brought in a bunch of a plant he says is instantly deadly to stock if eaten on an empty stomach.

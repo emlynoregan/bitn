@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club calls tenders for laying an asphalt pitch at the Recreation Ground.  Horace E. West, Hon. Sec.

@@ -23,6 +23,7 @@ topics:
 - kerbing
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Harris moved acceptance of the tender of Launder & Co. of £2-5-0 per chain for kerbing in Church St.  D. Rogers had tendered £1-19-0.

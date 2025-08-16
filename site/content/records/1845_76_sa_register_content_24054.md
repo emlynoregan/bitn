@@ -20,6 +20,7 @@ topics:
 - livestock
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Charles Blight was fined £3-10-0 for allowing young bulls to trespass among his neighbours’ stock.

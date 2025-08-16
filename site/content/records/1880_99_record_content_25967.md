@@ -17,6 +17,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  The forest trees arrived on Friday and have mostly been collected.

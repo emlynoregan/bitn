@@ -20,6 +20,7 @@ topics:
 - finance
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  SAMA receipts for six months ending September 1891 were £798-5-1 from rent, interest and fees.  £33-9-4 came from ore sold.  Expenditure £571-1-10.

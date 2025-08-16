@@ -19,6 +19,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Bolt. The horses in Dr Nesbitt's buggy bolted on Sunday. The boy holding the reins jumped out and they dashed off to Mr Coglin's, turned out of the road and tipped the trap over on a bank. Little damage was done.

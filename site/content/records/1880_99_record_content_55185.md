@@ -22,6 +22,7 @@ topics:
 - pigeon racing
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  On 7 November a race was run for new members, from Mintaro to Burra.  1st was R.D. Pascoe’s m. c. Rattler at 1,011 yds/min over the 18 miles.

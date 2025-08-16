@@ -23,6 +23,7 @@ topics:
 - accident
 - diphtheria
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster performed a tracheotomy on a six-year-old son of Mr R. Delemere of Hallett on Monday night as a last chance to save him from diphtheria.  It was successful and the lad is expected to recover.  This is the second successful operation of this type by Dr Sangster in Burra.  (99 cases in every 100 prove fatal.)

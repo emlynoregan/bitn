@@ -25,6 +25,7 @@ topics:
 - court
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Jones alias Tracey was tried at Redruth Court on Thursday last charged with stealing a saddle and bridle of Mr R. Collins Jnr of Mt Bryan, but he was shown not to be the man.  He is currently serving a month in Redruth Gaol for a stealing offence at Clare.

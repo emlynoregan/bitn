@@ -19,6 +19,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: on 8 July to the wife of Isaac Haskard at the residence of her mother, Mrs Goss, a stillborn son.

@@ -22,6 +22,7 @@ topics:
 - awards
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Band of Hope is meeting again after a recess of three months.  Membership is reported to be 67.  The prizes for the year went to Jane Fairchild and Stanley Oates - given to the two people who gave the largest number of pieces during the year.

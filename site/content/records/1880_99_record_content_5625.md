@@ -21,6 +21,7 @@ topics:
 - community
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr M. Burnett will return to Burra on Thursday, this time to concentrate his efforts on Aberdeen and Redruth.

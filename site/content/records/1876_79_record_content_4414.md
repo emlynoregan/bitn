@@ -26,6 +26,7 @@ topics:
 - public works
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. 22 July. Cr Roberts moved the calling of a public meeting to authorise the borrowing of £500. His lengthy speech outlined the need to improve roads and footpaths in the town. Further details are similar to the editorial comments. Cr Geake 2m1. Cr Wilkinson amended the sum to £400 to meet the expenses of the new bridge. Cr Batchelor 2’ and Cr Roberts eventually withdrew his motion and Cr Wilkinson’s then passed unanimously. 

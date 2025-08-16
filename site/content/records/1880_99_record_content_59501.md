@@ -22,6 +22,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Watt was also thanked for his efforts in arranging concerts in aid of St Joseph’s at a pleasant evening in the schoolroom on Tuesday 18 February.

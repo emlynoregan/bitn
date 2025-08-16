@@ -23,6 +23,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Wanted, drivers for horse and mule teams to work between Burra Copper Works and Gawler Town.  Apply at any time at the Works or to Mr Escott at the Gawler Railway Terminus, on the 25 instant.

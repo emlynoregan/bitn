@@ -22,6 +22,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyans will hold a Grand Christmas Medley in the Burra Institute on 24 December.

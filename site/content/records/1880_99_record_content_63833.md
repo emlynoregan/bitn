@@ -19,6 +19,7 @@ topics:
 - legal
 - ethnicity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 (Luke Day appeared for Duck which suggests Sammie was Chinese.)

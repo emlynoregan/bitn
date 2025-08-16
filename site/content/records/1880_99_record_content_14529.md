@@ -22,6 +22,7 @@ topics:
 - politics
 - colonial affairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Annexation.  The Agents-General of all the colonies except NSW have urged on Lord Derby the annexation of New Guinea.

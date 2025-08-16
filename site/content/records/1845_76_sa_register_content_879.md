@@ -21,6 +21,7 @@ topics:
 - licensing
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Daniel Cudmore was granted a publican’s licence for wine and beer at the Miner’s Arms at Emu Springs.

@@ -19,6 +19,7 @@ topics:
 - demographics
 - census
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Census Returns: The data printed on 3 August is repeated with some extra data as well.

@@ -20,6 +20,7 @@ topics:
 - business
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Bricks by Sara & Dunstan are of such a quality that 26,000 a month are being turned out and demand exceeds supply.

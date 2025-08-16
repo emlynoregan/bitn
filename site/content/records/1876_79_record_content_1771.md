@@ -19,6 +19,7 @@ topics:
 - decision
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The delegation failed to alter the board's decision to favour Diprose's Creek.

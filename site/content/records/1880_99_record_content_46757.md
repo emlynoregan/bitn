@@ -19,6 +19,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Bible Christian Church celebrated its 21st anniversary on 11 September.  The church has been free of debt for some years, but during the year they have raised £80.

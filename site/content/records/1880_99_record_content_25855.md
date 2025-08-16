@@ -19,6 +19,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  An Entertainment for the Mayor’s Fund will be held at the Institute on 1 July.  The usual musical event concluded with the laughable farce Two Heads are Better Than One.  Res. 2/- others 1/-.

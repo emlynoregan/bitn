@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The hospital is moving to the old Burra Hotel to be open very soon following repairs and alterations.

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Musical Union Concert at the Institute on Wednesday in aid of Institute funds had a very large audience and was a great success.

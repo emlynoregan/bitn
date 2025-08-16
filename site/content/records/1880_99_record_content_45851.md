@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The tender of A. Bartholomæus is accepted for laying out the new grounds at the cemetery for £31-16-0.

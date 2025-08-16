@@ -19,6 +19,7 @@ topics:
 - water
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The development of the grounds will come from the bonds, which brought in £465.  The wall will cost more than £400.  Additional funds will be needed to cut the high part and fill the lower.  The football and cricket clubs should raise money by a series of concerts and £20 will also be needed to get water from a reservoir formed by an old quarry.

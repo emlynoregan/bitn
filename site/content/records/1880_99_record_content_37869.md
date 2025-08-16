@@ -22,6 +22,7 @@ topics:
 - football
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The season is virtually over.  Clare decided at the last minute to go to Saddleworth instead of Burra and ‘Sandboy’ believes it was because they wished to finish the season with a soft win.

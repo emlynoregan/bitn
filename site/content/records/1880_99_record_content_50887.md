@@ -22,6 +22,7 @@ topics:
 - council
 - licence fee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial against Cr Hardy’s proposal to impose a £10 annual local licence fee on the auctioneers in Burra.

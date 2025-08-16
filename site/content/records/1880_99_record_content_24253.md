@@ -19,6 +19,7 @@ topics:
 - serial
 - novel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Phillip Leigh began 14 September and ran till concluding with Chapter XVII on 5 November.

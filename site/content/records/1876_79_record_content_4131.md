@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. People are getting bogged alighting from the train at Hallett Station and the locals say the station is really at Gumbowie.

@@ -20,6 +20,7 @@ topics:
 - mining
 - contracts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baker & Rosewall have won the contract for the excavation work for the foundations at the old slagheap.  The machinery will arrive shortly.  Hand operations on the slag have been tried and found too tedious and unremunerative.

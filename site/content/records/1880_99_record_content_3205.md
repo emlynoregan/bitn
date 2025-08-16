@@ -20,6 +20,7 @@ topics:
 - satire
 - local affairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Under the Verandah’ by ‘Window Lamp’  ‘What the Cousins Say’ which purports to be a conversation between a series of cousins which provides a mildly satiric look at town affairs. [It is no longer in Cornish dialect as earlier similar columns had sometimes been.]

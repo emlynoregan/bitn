@@ -21,6 +21,7 @@ topics:
 - building
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Schoolroom. The new schoolroom was opened last Sunday by Rev. T Lloyd, President of the Conference. New Year's Day saw Rev. R.W. Campbell lecture on `Peter the Great: the Typical Russian'.

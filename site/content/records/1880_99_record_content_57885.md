@@ -21,6 +21,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church held their annual effort last Sunday & Wednesday and the popular Rev. J.G. Wright preached three times to large congregations on Sunday and again on Wednesday before the public dinner.  He gave the evening talk on Fifty Years of My Ministry.  Total takings for the effort were c. £31.

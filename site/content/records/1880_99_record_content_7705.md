@@ -21,6 +21,7 @@ topics:
 - award
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr E. Lipsett, formerly connected with the Burra Cricket Club has donated a gold medal for the coming season’s best all-round player.

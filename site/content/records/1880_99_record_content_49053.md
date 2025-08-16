@@ -20,6 +20,7 @@ topics:
 - polo
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  About 500 spectators went to the two matches against Mt Crawford.  Many ladies attended and there were refreshment booths.  The matches were of four 28 minute quarters.

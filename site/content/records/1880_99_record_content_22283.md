@@ -22,6 +22,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Temperance.  Next Wednesday in the Institute Revs D. O’Donnell and Mr E.H. Derrington will deliver addresses for the South Australian Alliance Executive: an organisation advocating total abstinence.

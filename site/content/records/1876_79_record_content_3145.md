@@ -22,6 +22,7 @@ topics:
 - report
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bon Accord Mine. Captain Sanders forwards to the Yorke's Peninsula Co, a report on the state of the lodes in the closed Burra Burra Mine suggesting that they might continue into the Bon Accord property and predicting good results if the Bon Accord workings were sunk 30 fathoms deeper - as good as were obtainable in the Burra Burra Mine at a depth of 100 fathoms.

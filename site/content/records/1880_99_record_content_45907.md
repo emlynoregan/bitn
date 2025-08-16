@@ -22,6 +22,7 @@ topics:
 - show
 - poultry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fowls.  There is an extensive article of some ¾ column on Mr Forsyth’s poultry yard at Copperhouse.  He is a well-known exhibitor in the city and elsewhere in SA and keeps a variety of birds.  He first exhibited in Scotland when aged 13 and he is now 60.  He has in the following 47 years bred all sorts of fowls, but of late has been particularly interested in game and brahmas.  In Scotland he was interested in canaries and pigeons.  His son has also been very successful.  The article concludes with a description of his yard pen by pen.

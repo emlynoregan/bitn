@@ -20,6 +20,7 @@ topics:
 - shooting
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shooting Match.  Lieut. J.A. Watt won the gold medal for firing presented by W.H. Linkson.  He won from scratch by 10 points.

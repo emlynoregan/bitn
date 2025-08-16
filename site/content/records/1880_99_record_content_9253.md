@@ -27,6 +27,7 @@ topics:
 - appointments
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Other removals.  Mr H.O. Hopkins, teller for 12 months in the National Bank, Kooringa, moves to be manager of the branch at Nairne and Mr Hawson, teller for the Bank of Australasia, Kooringa, is moving to Adelaide.  They will both be missed in football and cricket.

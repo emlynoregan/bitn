@@ -20,6 +20,7 @@ topics:
 - military sports
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Capt. J.A. Watt, who was seriously hurt at the Military Sports, is still in much pain and he is being carefully watched and is now somewhat easier.

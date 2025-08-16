@@ -18,6 +18,7 @@ topics:
 - labor
 - eight-hour system
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Eleven men sign a notice thanking W.H. Hardy for supporting the eight-hour day on behalf of the Working Man.

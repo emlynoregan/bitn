@@ -18,6 +18,7 @@ topics:
 - weather
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield had a temperature of 120°F on Monday and five people have been fined £10 each for sly grog dealing.

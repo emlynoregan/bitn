@@ -20,6 +20,7 @@ topics:
 - obituary
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A memorial service was held for the late George White at the Salvation Army Barracks on Sunday.  He had been a prominent Army member of the town.

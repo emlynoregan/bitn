@@ -20,6 +20,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Hospital Sunday last weekend was not largely attended due to the weather.  Still, a satisfactory amount was collected.  Rev. A.G. King officiated.

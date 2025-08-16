@@ -21,6 +21,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Debate at the Kooringa Wesleyan Lecture Hall last Friday evening: It is the duty of the State to provide work for the unemployed.

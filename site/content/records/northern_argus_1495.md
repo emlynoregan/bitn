@@ -18,6 +18,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  Rehearsals for Man of Steel continue, with performances on 14 & 15 August.

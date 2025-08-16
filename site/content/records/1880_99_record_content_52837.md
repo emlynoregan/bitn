@@ -22,6 +22,7 @@ topics:
 - appointment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Dunstan Jun., late of Burra and now residing at Broken Hill, has been appointed a magistrate in NSW and a returning officer for Alma & Broken Hill.

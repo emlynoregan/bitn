@@ -21,6 +21,7 @@ topics:
 - mining
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Warning Voice’ writes to the editor:

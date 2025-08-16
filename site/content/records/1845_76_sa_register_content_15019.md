@@ -26,6 +26,7 @@ topics:
 - process
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Treatment of Poor Copper Ores [Reprinted from the Mining Journal, 24 August 1861.]

@@ -23,6 +23,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Bath and his daughter were given a farewell at the Burra Hotel on Monday.  They are about to re-visit England.  Captain Killicoat presided over a gathering of about 60.  An address printed in gold on parchment was read and presented by Mr W. West, Past Master of Kooringa Freemason’s Lodge on behalf of the Worshipful Master, Mr A. Stewart.

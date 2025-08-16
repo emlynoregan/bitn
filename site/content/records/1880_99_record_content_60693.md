@@ -21,6 +21,7 @@ topics:
 - sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will hold a genuine clearance sale on Friday 25 September for Mr E.F. Brady who is going to WA.  Stock-in-trade of a Tinsmith, Household Furniture, etc.

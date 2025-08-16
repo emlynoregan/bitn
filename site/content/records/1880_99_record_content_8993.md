@@ -23,6 +23,7 @@ topics:
 - sign-writing
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D.W. Smith	Painter, Paperhanger, Sign-writer, Court House Hotel, Redruth

@@ -21,6 +21,7 @@ topics:
 - port
 - coal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Patent Copper Company is in the course of erecting a pier at the west end of Port Adelaide, mainly to be used for the reception of coal.

@@ -19,6 +19,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 No tender having been received for the position of Medical Officer, the Councillors will wait upon Dr Sangster.

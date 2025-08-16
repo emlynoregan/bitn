@@ -20,6 +20,7 @@ topics:
 - council
 - expense
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chapel St Footbridge is an unnecessary expense at £34 when the existing one could be repaired and made to last for some years to come.

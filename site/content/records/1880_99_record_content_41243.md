@@ -21,6 +21,7 @@ topics:
 - parliament
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 All were in favour of the present system of Bible reading in State schools, for the same standard in country and city schools, for Sunday closing, for mining on private property and all opposed the abolition of free [travel] passes to Members of Parliament.

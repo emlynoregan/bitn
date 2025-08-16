@@ -20,6 +20,7 @@ topics:
 - government
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sending a letter of sympathy to the Mayor regretting his accident was supported by all but Cr Harris.

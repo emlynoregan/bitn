@@ -29,6 +29,7 @@ topics:
 - public meeting
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Railway Meeting at Chinkford [Chingford - later Manoora]

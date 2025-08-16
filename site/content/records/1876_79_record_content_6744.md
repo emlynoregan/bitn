@@ -19,6 +19,7 @@ topics:
 - nuisance
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to the Editor from `A Victim' complains that poor people are being fined 151- for stray goats in the street (if we may call them such), but a man in receipt of a salary of some £500 p.a. not only allows his goats to stray, but tethers them in our streets and no notice is taken!

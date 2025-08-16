@@ -18,6 +18,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from W. Pearce decrying the drinking habits of the day. He claimed that the 8 public houses must take at least £5 a day which meant the town spent/wasted £12,520 per year on drink in hotels - allowing that the hotels were even open on the Sabbath.

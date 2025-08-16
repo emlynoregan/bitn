@@ -30,6 +30,7 @@ topics:
 - meeting
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Young Men’s Club had a successful meeting at the clubrooms on Monday.  President Rev. J.Y. Simpson was re-elected with Messrs McLaren and Bennett as Vice-Presidents.  William Pearce is secretary and P. Nicholls his assistant with P. Treloar as librarian.  In addition Messrs Noyes, Drew and A. Davey comprise the committee.  Literary meetings will take place on Tuesdays.  Mr Bennett gave notice of a motion ‘That ladies be admitted as associate members.

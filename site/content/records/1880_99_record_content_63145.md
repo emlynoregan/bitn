@@ -21,6 +21,7 @@ topics:
 - regulation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Apoinga District Council notes reveal some of the regulations concerning loans of seed wheat.  No crops were to be removed or disposed of until loans for seed wheat are repaid and any hay already removed must be returned or paid for.

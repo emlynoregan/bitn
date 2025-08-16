@@ -23,6 +23,7 @@ topics:
 - goldfield
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Some of the local men have returned from the fields.  The gold fields have grown more comfortable with the erection of more substantial premises.  T. Kitchen got very little, But Messrs J. Edwards, Harvey and Hill have had splendid luck, getting 75 oz of gold and earning about £25 per man per week.

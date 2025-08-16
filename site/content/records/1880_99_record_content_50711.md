@@ -21,6 +21,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Institute Committee has agreed to stage a Flower Show in late October or early November and Mr Hague has been granted free use of the hall for rehearsals and the performance of a drama in return for half the proceeds of the performance.

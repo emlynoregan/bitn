@@ -22,6 +22,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra and Young Australians Cricket Clubs present a Grand Vocal and Instrumental Entertainment at the Institute, 13 May.  2/- & 1/-.

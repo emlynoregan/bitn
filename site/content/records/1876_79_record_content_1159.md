@@ -21,6 +21,7 @@ topics:
 - church
 - social event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Church introduced the concept of the "Sociable"; a pleasant evening

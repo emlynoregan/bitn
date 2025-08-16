@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Land in the District of Burra

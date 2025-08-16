@@ -18,6 +18,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Baldwin Butterfly Company was quite well attended and a most wonderful company.  A lengthy program with each item ‘capitally rendered’ was presented.  There were songs, comedy, magic, clairvoyance and mesmerism.

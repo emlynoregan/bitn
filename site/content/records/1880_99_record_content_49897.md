@@ -21,6 +21,7 @@ topics:
 - legal
 - retrenchment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Depression.  A short time ago all the talk was of Federation: now it is all of retrenchment.  [The Adelaide publication] Quiz suggests dispensing with one SA judge.  They believe two would suffice, though this would require an Act of Parliament to reconstitute a Full Court.  [Details of how it would work are given.]

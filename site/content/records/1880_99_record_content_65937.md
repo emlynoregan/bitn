@@ -19,6 +19,7 @@ topics:
 - railway
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  A child [unidentified by the paper] fell out of a train somewhere last Thursday and was taken to Riverton for medical treatment.  It ‘had its chest smashed, in addition to being seriously cut about the head and face’.

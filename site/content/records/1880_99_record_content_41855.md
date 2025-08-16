@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs M.A. Franks died 27 June at the Burra Hospital.  [Mary Ann, aged 64: from marriage perhaps born Mary Ann Oram, though there is about a five year discrepancy in ages.]

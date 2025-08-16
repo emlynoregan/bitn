@@ -21,6 +21,7 @@ topics:
 - anniversary
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The anniversary of the United Presbyterian Church was held on Sunday with three special services, but due to the inclement weather the attendance was small.  The tea and public meetings on the following day were, I believe, more successful.

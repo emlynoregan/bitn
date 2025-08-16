@@ -23,6 +23,7 @@ topics:
 - sport
 - club formation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  A meeting on Monday decide to form a St Mary’s Cricket Club.  Elected: President, J.D. Cave; Captain, Mr Jennings; Vice-Captain, George Herbert; Sec. & Treasurer, W.B. Page.

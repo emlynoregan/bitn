@@ -20,6 +20,7 @@ topics:
 - advertisement
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Commencing business 1 November 1898, next to J. Ford’s Butcher Shop

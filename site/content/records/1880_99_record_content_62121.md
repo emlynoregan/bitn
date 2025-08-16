@@ -19,6 +19,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Federal Convention is meeting in Adelaide, but ‘practically nothing has been done – except the payment of salaries.’

@@ -18,6 +18,7 @@ topics:
 - education
 - classes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Wittber’s Class attracted about 36 young men from 14 to 33 and a lesson in mental arithmetic began the series.

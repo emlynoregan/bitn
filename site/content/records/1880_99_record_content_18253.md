@@ -20,6 +20,7 @@ topics:
 - public meeting
 - footway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from the Mayor, John Dunstan Jun. in response to a requisition to call a public meeting re the footway to Aberdeen.  He declined to call such a meeting and asserted that:

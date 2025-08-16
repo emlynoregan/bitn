@@ -20,6 +20,7 @@ topics:
 - transport
 - stagecart
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  There is another advertisement for the ‘Reformer’ stage cart; similar to that of 23 October.

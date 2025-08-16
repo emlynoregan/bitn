@@ -25,6 +25,7 @@ topics:
 - events
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had 37 at their last meeting for songs, music and recitations.

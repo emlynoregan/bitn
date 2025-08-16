@@ -20,6 +20,7 @@ topics:
 - construction
 - risk
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. Until recently work on the bridge had been going on rapidly, but now it has slowed and various parts, though in position, are resting on a staging that would give way were any quantity of water to come down the creek. Rain can be expected at any time now, so action is needed.

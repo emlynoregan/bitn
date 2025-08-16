@@ -21,6 +21,7 @@ topics:
 - fundraising
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Bazaar in the Institute last Friday and Saturday was most successful.  The hall was packed on Friday.  Mr A.W. Dobbie of Adelaide exhibited his phonograph to the delight and wonder of all listeners.  Proceeds were c. £140.

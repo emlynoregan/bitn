@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - strike
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A fine imposed on James Martin & Co. of Gawler for a delay in completing the ironwork for the Redruth Bridge was remitted because the hold-up was caused by a strike.

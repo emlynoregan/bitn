@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wheal Sarah proprietors have taken up two more sections close to their mine, which is busy and turning out some good ore.

@@ -29,6 +29,7 @@ topics:
 - funeral
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  About a fortnight ago a terrible accident occurred to the wife of a labourer employed at the Smelting Works.  While cooking her husband’s breakfast, her clothes caught fire and before any assistance could be given they were burnt off her, literally roasting her body.  She lingered in great agony till the twelfth day.  The deceased was one of the Irish orphans recently arrived and had been married only about three months.  A collection raised to defray funeral and other costs has been carried off by her heartless husband, who has gone to Adelaide, leaving a kind fellow workman liable for the funeral and for a suit of clothes kindly lent that he might appear decently at the funeral.  It is to be hoped that justice will soon overtake this ungrateful scamp, application having been made to the Resident Magistrate for that purpose.

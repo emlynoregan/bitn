@@ -25,6 +25,7 @@ topics:
 - real estate
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dempsey, Wilkinson & Sandland will sell for Mr F. Simpson, who is removing to Adelaide, the household effects [enumerated at length] and all that block of land situated on Railway Tce opposite the Railway Station containing c. 1 acre with a frontage of 100’.  A stone house of 7 rooms, iron roof, front and back verandah, underground tank, stone stable, chaff-house, pigsty, fowl-house, etc.

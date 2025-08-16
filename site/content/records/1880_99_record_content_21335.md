@@ -20,6 +20,7 @@ topics:
 - police
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy complaining that the objector to his outburst was one of the larrikin supporters of larrikinism.  As for his letter harming the town: on the contrary, since it was published there had been police action and improvement.

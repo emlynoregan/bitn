@@ -28,6 +28,7 @@ topics:
 - slaughterhouse
 - piggery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Premises occupied by Forder Bros [At Nelson] are also in need of improvement.  40 cows are kept and milk sent regularly to Broken Hill by rail.  The milking shed should be properly paved and drained with a receptacle for manure and animal refuse.  The surroundings of premises occupied by Henry Mill, milk seller of Firewood Creek, were also unsatisfactory.

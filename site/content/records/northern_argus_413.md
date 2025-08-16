@@ -19,6 +19,7 @@ topics:
 - event
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Veteran & Vintage Motor Cycle Club of SA will visit Burra next weekend.

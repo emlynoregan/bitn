@@ -19,6 +19,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pleuro-pneumonia caused two cows from Queensland to be destroyed at the recent sales here.

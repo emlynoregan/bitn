@@ -19,6 +19,7 @@ topics:
 - response
 - larrikinism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hardy responds by asserting that his main point remains valid: the larrikinism is unacceptable and the authorities have a duty to react appropriately.

@@ -20,6 +20,7 @@ topics:
 - waterworks
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The pipes given by P.L. Killicoat for the oval were inspected and found to be in good order.

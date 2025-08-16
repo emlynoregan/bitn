@@ -17,6 +17,7 @@ topics:
 - community
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  One of the young gum trees recently planted has been pulled up.

@@ -21,6 +21,7 @@ topics:
 - emigration
 - leases
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry Marshall writes to the editor expressing his concern that if gold is not found in SA the colony will miss out on the huge number of emigrants that are bound to head to Australia once the new of the gold discoveries reached the UK.  It is therefore vitally important that SA’s other mineral deposits are discovered and exploited and hence that the leasing arrangements are put in order.  Marshall considers the present leasing arrangements totally inadequate.

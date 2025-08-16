@@ -21,6 +21,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Burra Amateur Athletics Club will hold its first meeting in R. Austin's Paddock, Aberdeen with the Burra Band on Easter Monday, 22 April. The program was mostly flat races, but also included throwing the 14 lb hammer, pole leaping, a 1 mile walk and a 50 yard handicap Potato Race for Boys under 14.

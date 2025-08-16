@@ -18,6 +18,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra 5 for 156 defeated 18 Muffs 45.

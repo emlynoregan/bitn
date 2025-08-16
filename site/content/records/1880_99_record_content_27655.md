@@ -21,6 +21,7 @@ topics:
 - water
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy who asserts that Mr Ridgway’s tearing up of the water account is ‘proof’ that he owes it.  It is well known that he uses water to grow produce for which he receives payment.  Ridgway must be compelled to pay.

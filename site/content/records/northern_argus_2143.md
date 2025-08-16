@@ -20,6 +20,7 @@ topics:
 - youth
 - delegation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Trich Thamm is in Bendigo as delegate to the National Anglican Youth Synod.

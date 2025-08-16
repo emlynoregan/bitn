@@ -24,6 +24,7 @@ topics:
 - commerce
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr H.T.H. Morris, who was at one time stationed at Burra on behalf of the late firm of Morris, Wilkinson and Sandland, has bought the Kapunda branch of Dempsey, Wilkinson & Sandland to run as his own business.  He was formerly manager there.

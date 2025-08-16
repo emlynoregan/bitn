@@ -25,6 +25,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Lecture Hall last Monday was the scene of a farewell tea for Revs S.F. Prior and G.E. Rowe who move on to Adelaide and Port Adelaide.  They will be succeeded by the Revs H.T. Burgess and J.H. Hadley.

@@ -20,6 +20,7 @@ topics:
 - business
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The partnership of John Drew, Charles Drew, and Thomas Drew, trading as Samuel Drew & Co., is dissolved by mutual agreement 1 November 1881 when John Drew retired from the firm.  Charles Drew & Thomas Drew will carry on as Samuel Drew & Co.  Dated 1 April 1882.

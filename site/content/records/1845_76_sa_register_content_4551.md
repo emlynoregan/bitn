@@ -25,6 +25,7 @@ topics:
 - wages
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Grand Total Dividends in 4½ years 	£172,480

@@ -21,6 +21,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Flood at Kooringa.  Winter set in on 12 May when rain fell in torrents for the first time since Christmas.  The numerous small tributaries fed into the main creek causing it to rise by eight feet to the dismay of about 750 souls living in Creek Street.  Their homes are made ‘by digging into the bank until a perpendicular of about ten feet is obtained, then cutting in a doorway, one, two, and sometimes three rooms are excavated, having a window, each, the supporting walls being about three feet thick.  When whitewashed and tenanted by happy faces the inside of these little vaulted dwellings present a pleasing and comfortable appearance.  The chimneys are run up from the back part of the rooms, their mouths wide opening in the upper bank threaten the uninitiated night traveller with too speedy an introduction to the lower regions.  Of these a few were flooded out, the earthy parts of those exposed to the beat of the weather beginning to scale off in large pieces gave their owners disagreeable sensations of premature burial, while at the lower part of the creek the miners were compelled to deepen the channel to save their tenements.  Right gladly did they welcome the storm’s cessation.’

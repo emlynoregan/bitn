@@ -20,6 +20,7 @@ topics:
 - community
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Early Closing.  Burra tradespeople have agreed to close their premises at 8 p.m. Saturday nights instead of 10 p.m. at later, as hitherto.

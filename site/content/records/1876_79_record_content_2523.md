@@ -19,6 +19,7 @@ topics:
 - fraud
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Frederick Adams charged with having l8cwt painted on his vehicle when it weighed 22cwt thus cheating buyers out of 4cwt on each delivery.

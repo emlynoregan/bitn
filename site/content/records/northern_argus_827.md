@@ -22,6 +22,7 @@ topics:
 - astronomy
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Halley’s Comet.  Pastor Harry Scott will speak at Burra Civic Centre on Sunday 9 March.

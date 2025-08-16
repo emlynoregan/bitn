@@ -53,6 +53,7 @@ topics:
 - concert
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the festive season and looking back on 1899 which has been a year of war in Transvaal and of tolerably good results commercially, though grain was not as good as hoped for, but wool was rising to high prices.  There have been four years of bad harvests.  Population in Burra was about the same as twelve months ago in spite of the general depression and employment has been found for all, which is more than could be said 12 months ago.

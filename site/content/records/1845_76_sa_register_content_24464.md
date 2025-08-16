@@ -19,6 +19,7 @@ topics:
 - diggings
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  A letter from the diggings reports some nice finds in the last few days.

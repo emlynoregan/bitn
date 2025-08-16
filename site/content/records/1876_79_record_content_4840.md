@@ -19,6 +19,7 @@ topics:
 - court
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Court saw the usual collection of people re straying livestock.

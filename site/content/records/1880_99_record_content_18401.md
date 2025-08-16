@@ -35,6 +35,7 @@ topics:
 - petition
 - unemployment relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D. McNeil declined to fence allotments as ordered by the Council.  Only one of them, he said, belonged to him and he declined to fence that either.

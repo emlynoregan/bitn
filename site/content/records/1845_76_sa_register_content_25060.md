@@ -23,6 +23,7 @@ topics:
 - transport
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Patient Sufferer’ writes concerning the blockage of wheat traffic on the Northern Railway.  His complaint was that, given a huge piling up of wheat at stations, there seems to be no effort on behalf of the railways to run extra trains or to otherwise expedite the movement of wheat to the port.  The want of special trains at night is most apparent and he wonders why the Members of Parliament are not more active in pursuing this matter.

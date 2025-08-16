@@ -36,6 +36,7 @@ topics:
 - mining
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Victorian Gold Fields

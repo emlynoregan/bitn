@@ -20,6 +20,7 @@ topics:
 - community
 - volunteer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: The Volunteer Movement meeting failed when only about 6 persons turned up - a disgrace when even Saddleworth had over 30 volunteers and Clare over 60.

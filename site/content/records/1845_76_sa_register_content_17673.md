@@ -19,6 +19,7 @@ topics:
 - road
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The ford is in the same state although the money for it was voted some time ago.

@@ -19,6 +19,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Workingmen’s Blocks.  The Crown Lands Dept. advises that 20 acres of the Police Paddock will be preserved for police purposes and the rest offered in blocks of 5 acres each.

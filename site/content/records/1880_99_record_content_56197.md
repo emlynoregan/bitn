@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note the anomalous use of No. 310, which through another anomaly had not been used in its proper sequence in 1894!]

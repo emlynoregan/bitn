@@ -17,6 +17,7 @@ topics:
 - agriculture
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is expected that shearing will begin towards the end of the month.

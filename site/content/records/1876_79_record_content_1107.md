@@ -21,6 +21,7 @@ topics:
 - development
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Drought continues; the new Hundreds of Baldina & Bright petition for a town to be surveyed at the intersection of the travelling stock routes near the confluence of Baldina and Cumbo Creeks.

@@ -20,6 +20,7 @@ topics:
 - politics
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was 9.30 when Holder rose to speak and he said he hoped to finish his hour and a half speech at 10 p.m. and would trim his remarks to suit.

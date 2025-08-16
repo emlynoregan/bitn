@@ -19,6 +19,7 @@ topics:
 - cricket
 - correction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note in VI, 404, 9 January 1883, page 3, this is corrected and Saddleworth’s scores are given as 55 & 65 (120).]

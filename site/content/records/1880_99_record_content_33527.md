@@ -19,6 +19,7 @@ topics:
 - capitalism
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer takes issue with Mr Andrew Carnegie’s argument on the nature of Capitalism in an article running for three columns.

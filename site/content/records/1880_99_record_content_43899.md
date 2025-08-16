@@ -18,6 +18,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Bible Christian Sunday School Anniversary of 20 & 25 December is reported.

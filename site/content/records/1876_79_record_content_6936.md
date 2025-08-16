@@ -22,6 +22,7 @@ topics:
 - public order
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W.B. Matthews & Dan Pritchard fined 10/- each for creating a disturbance on Sunday evening near the church foundations in Redruth. [The old Anglican foundations?] Matthews claimed he was only helping Pritchard home as he was the worse for liquor. The police swore both were intoxicated.

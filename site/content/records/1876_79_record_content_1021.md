@@ -20,6 +20,7 @@ topics:
 - hospital
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hotel - Advt. Hotel to be closed after Sat. 25 August 1876 by order of the Hospital Committee, John D. Vane, Sec.

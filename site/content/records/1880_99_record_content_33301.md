@@ -20,6 +20,7 @@ topics:
 - social progress
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Principles of Social Progress.  The writer comments on some of the points raised by the Rev. Hugh Gilmore at the Institute the previous Wednesday, especially concerning education.  ‘Education should be regarded as an end in itself to enable and enrich our nature, not merely as a means of making us more valuable for service’.

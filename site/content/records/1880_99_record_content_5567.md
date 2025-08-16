@@ -25,6 +25,7 @@ topics:
 - event
 - inauguration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Orroroo Railway was opened last Tuesday.  A special train left Adelaide at 0630 and reached Burra at 1030, carrying the Governor [Sir William Jervois] and MPs.  They transferred to the narrow gauge at Terowie and reached Orroroo c. 1400, where a crowd of c. 1,500 had assembled.  After a banquet at the Institute, the official party started back c. 1600.

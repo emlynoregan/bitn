@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  T. Hosking, a resident since 1855, died on Sunday [18 April] from pleurisy and bronchitis.  [Thomas Hosking, aged 63]

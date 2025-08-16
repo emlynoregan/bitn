@@ -18,6 +18,7 @@ topics:
 - population
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Population.  By the end of June it was estimated the SA population had dropped from 318,816 on 1 January to 316, 699.

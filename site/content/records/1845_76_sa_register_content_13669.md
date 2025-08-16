@@ -18,6 +18,7 @@ topics:
 - agriculture
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather continues favourable for farmers, who are looking forward to a good harvest.

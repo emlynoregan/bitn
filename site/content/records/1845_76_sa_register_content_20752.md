@@ -27,6 +27,7 @@ topics:
 - railway
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A new cobalt mine has been opened lately and a company formed in Burra with £1,000 capital – half a crown paid up.  With this the Directors will raise five tons of ore and send it to England to decide on the venture’s viability.

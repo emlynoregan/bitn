@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Wanderer’ writes on Education, reviewing the methods used in France and Germany and finding that both have failed.

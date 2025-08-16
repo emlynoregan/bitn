@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Primitive Methodist Church Anniversary, 15 & 16 Sept., preacher Rev. T. Jarret.

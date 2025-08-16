@@ -17,6 +17,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Musical Union Concert on Tuesday, the third in the series, was much improved and is reported at some length.

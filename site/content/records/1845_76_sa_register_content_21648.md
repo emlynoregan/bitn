@@ -19,6 +19,7 @@ topics:
 - attendance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On 27 February Time Tries All was presented, followed by the burlesque Bombastes Furioso.  About 200 attended.

@@ -22,6 +22,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter complaining about the nature of the `so-called' children's entertainment at the Institute last Saturday. As many as a third of parents would have kept their children away had they known the nature of the affair. The writer also objects to the affair being promoted by the public school which apparently handed out vouchers that entitled holders to get in for 6d. The editor agrees on the latter point. [The real nature of the complaint is not specified.]

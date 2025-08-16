@@ -28,6 +28,7 @@ topics:
 - town
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the second site a rich start par excellence resulted in an opening some 16 ft wide and 6 ft deep was made and in following the ore this increased to 21 ft wide and no depth limit has yet been found.

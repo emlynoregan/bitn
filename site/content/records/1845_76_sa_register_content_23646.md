@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Saddleworth visitors to Burra on Monday were disappointed by the arrangements made for the reception of visitors.  It was regarded as a sell.

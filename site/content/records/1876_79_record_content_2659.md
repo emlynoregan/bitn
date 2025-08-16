@@ -21,6 +21,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary/Inquest into death of T. Bendall concluded death by accident.  [Died 5 August 1877 Kooringa, residence Yongala aged 28.]

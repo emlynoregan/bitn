@@ -20,6 +20,7 @@ topics:
 - correspondence
 - local opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Correspondent writes that the information received by him from a gentleman of unquestionable veracity leads him to disregard ‘Nemo’.

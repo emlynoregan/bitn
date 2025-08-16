@@ -21,6 +21,7 @@ topics:
 - court
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elizabeth Alcock, employed by Mrs S.J. Vivian of Opie’s Hotel was charged with stealing half a sovereign.  Sentenced to one month.

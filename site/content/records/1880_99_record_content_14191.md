@@ -19,6 +19,7 @@ topics:
 - mining
 - resource
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver-Lead is said to have been found at Ketchowla c. 10 miles east of Pandappa Dam.

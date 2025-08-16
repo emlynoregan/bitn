@@ -23,6 +23,7 @@ topics:
 - town
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A bird’s eye view of the town would show ‘a sort of resuscitated Herculaneum; a washed, and dried and cleansed Pompeii; the preponderance of ramshackle, inartistic houses and walls are [sic] so great.  But in the midst lurks snug retreats with foliage and “verdure clad” often behind high and uncouth walls.’

@@ -18,6 +18,7 @@ topics:
 - cemetery
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cemetery.  There has not been an interment for more than six weeks.

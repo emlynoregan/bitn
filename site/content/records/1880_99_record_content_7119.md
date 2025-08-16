@@ -21,6 +21,7 @@ topics:
 - mission
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Primitive Methodist Colonial Missions.  W.R. Stephenson preaches in Kooringa at 10.30 a.m. & 6 p.m., at Copperhouse 3 p.m.

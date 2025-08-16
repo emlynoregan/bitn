@@ -21,6 +21,7 @@ topics:
 - music
 - teacher
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.M. Bennett	Music Teacher at Burra on Fridays

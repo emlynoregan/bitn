@@ -23,6 +23,7 @@ topics:
 - local government
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A motion to cut weeds in Jubilee Avenue was moved by Crs Hardy and Rabbich, but opposed by Crs Sampson, O’Leary and Watt and lost.

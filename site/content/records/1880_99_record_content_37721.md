@@ -19,6 +19,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Annual Report and Public Dinner Meeting.  Next Wednesday.  Dinner 4 p.m.  Meeting 7.30 p.m.

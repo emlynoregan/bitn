@@ -19,6 +19,7 @@ topics:
 - industry
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The boiling down works is a nuisance that should not be allowed to continue.

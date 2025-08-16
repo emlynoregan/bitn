@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Races.  At the races on Tuesday one of the jockeys, James McGrath, was quite severely injured with his right ear almost cut off and his head much bruised.

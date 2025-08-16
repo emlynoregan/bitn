@@ -19,6 +19,7 @@ topics:
 - community
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Circuit Harvest Thanksgiving services were held last Sunday.

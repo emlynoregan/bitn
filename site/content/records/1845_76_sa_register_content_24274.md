@@ -24,6 +24,7 @@ topics:
 - retirement
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr W. Challoner was given a complimentary dinner by a few old friends at the Burra Hotel on Friday night.  He has recently retired from the management of the Burra Mines.  Upwards of 250 persons signed the address that was presented to him.  Dr Dashwood JP presided, supported by Mr T.S. Porter, with Captain Killicoat in the vice-chair.  Mr Challoner left Burra on Tuesday morning en route for Europe.

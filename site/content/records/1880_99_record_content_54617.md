@@ -19,6 +19,7 @@ topics:
 - advertisement
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Offers invited up to 30 September of land suitable for Homestead Blocks in the neighbourhood of Burra.  Vide SA Government Gazette 13 September.

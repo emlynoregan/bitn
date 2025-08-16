@@ -19,6 +19,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P-C Radford, who has for some time been in charge of the Kooringa station, is to leave the district.  He has at all times discharged his duties impartially, untiringly and well.

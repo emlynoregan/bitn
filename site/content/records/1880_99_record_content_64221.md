@@ -20,6 +20,7 @@ topics:
 - women's suffrage
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Schoolroom.  Miss Helen Hart, a pioneer of women’s suffrage, will lecture on Loving, Courting, Marrying, next Monday.  1/6 & 1/-.

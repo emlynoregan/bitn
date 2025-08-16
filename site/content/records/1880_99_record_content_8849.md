@@ -18,6 +18,7 @@ topics:
 - literature
 - biography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 16 Jun.	XIX-XXIII	Perseverance	X		X	X		X		X			Henry Irving at Home

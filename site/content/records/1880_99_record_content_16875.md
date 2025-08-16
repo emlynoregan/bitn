@@ -20,6 +20,7 @@ topics:
 - clairvoyance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mesmerism & Clairvoyance at the Institute, Thursday 26 March.

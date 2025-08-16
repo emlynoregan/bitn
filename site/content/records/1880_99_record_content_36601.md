@@ -18,6 +18,7 @@ topics:
 - publication
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 NOTE: This is the first issue of the paper to bear the note: Printed and Published by P. Murrie jun.

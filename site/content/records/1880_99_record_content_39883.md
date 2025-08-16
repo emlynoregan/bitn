@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To Kooringa via No. 2 Reserve where almost all last year’s tree plantings had died: in fact only 12 of 400 were worth watering.

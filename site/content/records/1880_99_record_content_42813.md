@@ -22,6 +22,7 @@ topics:
 - mental health
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George McCauley ran into Kooringa on Saturday claiming a man with an axe was pursuing him to kill him.  He was subsequently found to be a lunatic and was conveyed to the asylum on Monday.

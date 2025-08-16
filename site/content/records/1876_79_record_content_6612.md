@@ -19,6 +19,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Donations are sought for the Angas Memorial Fund. In honour of George Fife Angas a number of cottages are to be erected for the needy in or near Adelaide.

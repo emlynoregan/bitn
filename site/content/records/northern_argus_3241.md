@@ -20,6 +20,7 @@ topics:
 - donation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Royal Exchange Hotel Social Club handed over two cheques each for $200 last week to the 1st Burra Scout Group and to Burra Girl Guides.

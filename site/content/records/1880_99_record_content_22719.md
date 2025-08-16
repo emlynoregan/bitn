@@ -19,6 +19,7 @@ topics:
 - work
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  40 from 70 applicants have been chosen to work on Barker’s Dam.

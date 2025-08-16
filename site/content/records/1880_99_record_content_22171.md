@@ -19,6 +19,7 @@ topics:
 - mining
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The overall impression is that little of real substance has been found anywhere in the World’s End-Robertstown area.]

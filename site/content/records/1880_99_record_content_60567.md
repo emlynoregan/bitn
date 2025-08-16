@@ -21,6 +21,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Davey has been elected Secretary of the Burra Burra Lodge MUIOOF, in place of George Parks.

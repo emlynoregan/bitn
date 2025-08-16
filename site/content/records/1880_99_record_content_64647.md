@@ -25,6 +25,7 @@ topics:
 - society
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society held its annual services last Sunday & Monday.  There was a united service in the Primitive Methodist Church on Sunday with an address by the deputation, Rev. James Reed and a meeting in the Wesleyan Lecture Hall on Monday where Dr Brummitt presided.  For the coming year Dr Brummitt was elected President with Mr Wilkinson as Vice-President and P. Lane as Treasurer.

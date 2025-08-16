@@ -19,6 +19,7 @@ topics:
 - pest
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grasshoppers are appearing in winged form at Baldina and World’s End and if cold weather does not come soon they will become a problem in the town.

@@ -21,6 +21,7 @@ topics:
 - cricket
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  G. Parks was presented with a gold medal at the Burra Hotel on Friday night for the highest batting average for last season with Burra Cricket Club.

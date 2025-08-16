@@ -20,6 +20,7 @@ topics:
 - business
 - lodging
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 15 March 1851, page 4

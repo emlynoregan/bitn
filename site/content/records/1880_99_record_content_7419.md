@@ -19,6 +19,7 @@ topics:
 - death
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [No Halliat is registered as dying, but John Hallett died on 11 July of heart disease, aged 64.  He was a farmer of Gumbowie and seems certain to have been the person intended despite the name and date of death being 10 July in the paper.]

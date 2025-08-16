@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School picnic on Good Friday was at Mr Sandland’s paddock [Sod Hut] and was very enjoyably spent.

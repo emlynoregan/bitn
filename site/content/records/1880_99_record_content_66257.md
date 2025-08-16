@@ -21,6 +21,7 @@ topics:
 - agriculture
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Vermin Board proposed for the Hundred of Rees, Pat. Hundred of King etc. is expected to require a rate of 12/9 per mile and as this is high more land will be included to the extent of 25,000 acres to increase the number of landowners to share the cost.

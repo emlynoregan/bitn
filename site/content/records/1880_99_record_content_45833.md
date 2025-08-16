@@ -18,6 +18,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Edwin C. Thomas on 23, 24 & 25 June gave a series of limelight exhibitions on the subject of ‘Modern Babylon, or a Trip to London’.  There was also a treat for the young on the last two nights with the comic element to the fore.

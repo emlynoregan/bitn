@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church will picnic at Sod Hut on New Year’s Day.

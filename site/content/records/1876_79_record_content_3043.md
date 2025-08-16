@@ -18,6 +18,7 @@ topics:
 - harvest
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agriculture. Harvest is under way. Hay and wheat looking good with no signs of rust as yet.

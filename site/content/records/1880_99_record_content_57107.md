@@ -24,6 +24,7 @@ topics:
 - finance
 - fairness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 David Rogers of Hampton writes concerning Council tenders.  Tenders were called for a dry stone wall in Bridge St and 4½ chains of kerbing in the same street.  I tendered according to specifications for £6.  The other tender was for £7-16-0 or with lime and sand for £9.  This last was accepted.

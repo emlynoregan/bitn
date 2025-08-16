@@ -29,6 +29,7 @@ topics:
 - epilepsy
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mrs Diana Bagg was found dead in her bed on Sunday morning 15 September.  An inquest was held before Mr MacDermott SM.

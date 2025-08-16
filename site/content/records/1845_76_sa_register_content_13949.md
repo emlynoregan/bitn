@@ -25,6 +25,7 @@ topics:
 - postal_service
 - telegraph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Resident’ writes to the editor from Kooringa 11 January re the proposal to relocate the post office at Kooringa:

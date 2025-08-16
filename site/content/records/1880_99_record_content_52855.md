@@ -21,6 +21,7 @@ topics:
 - community
 - child welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Neglected children.  Four children of John Fitzgerald have been taken into care as being neglected and sent to the Magill School.  Three children of Joseph Christie have been similarly dealt with.  This is a particularly hard case as Christie is known to have remarried and simply stopped providing for the children, who were left with a housekeeper, who of course has not been paid.

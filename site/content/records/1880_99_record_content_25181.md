@@ -20,6 +20,7 @@ topics:
 - community
 - acknowledgement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s annual vestry meeting gave special thanks to Mrs Lewis for a handsome altar cloth.

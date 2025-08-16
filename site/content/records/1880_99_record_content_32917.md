@@ -21,6 +21,7 @@ topics:
 - moderation
 - public debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy on Temperance Reform, agreeing with the moderation and gradualism of Dr Sangster’s approach as being the most effective path.  He deplores the evil of drink and believes the answer lies in moderation.

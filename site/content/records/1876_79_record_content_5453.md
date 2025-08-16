@@ -22,6 +22,7 @@ topics:
 - bridge
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. The ironwork for the Redruth and Kooringa bridges is now arriving at the railway station.

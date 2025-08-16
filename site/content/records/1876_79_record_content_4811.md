@@ -21,6 +21,7 @@ topics:
 - real estate
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett. The township of Hallett South, being portions of Sections 402 & 407 of the H. of Hallett, adjoining the railway station will be offered for sale on 25 September by Lipson, Shakes & Co. at Mann’s Hotel, Hallett at 2 pm. Terms; 20% deposit and balance in 6 or 12 months without interest.

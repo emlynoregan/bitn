@@ -20,6 +20,7 @@ topics:
 - poetry
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 24 Nov.	Saved by a Ring: I-II	The Psalm of Life	X	X	X	X		X	X	X			The Love Story of a Hero

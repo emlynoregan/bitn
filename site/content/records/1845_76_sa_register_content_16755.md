@@ -24,6 +24,7 @@ topics:
 - inspection
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captains Deeble and Morrison have completed their inspection of the Bon Accord Mine, but it is not known whether their report will be favourable.  Mr Deeble has worked in the Burra Mine and is thus likely to be acquainted with the ground.

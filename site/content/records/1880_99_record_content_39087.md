@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket seems to have had its quietus despite the club having equipment and funds.  Kapunda wants a match, but it seems unlikely.

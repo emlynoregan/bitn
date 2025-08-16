@@ -23,6 +23,7 @@ topics:
 - council
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 North Ward Ratepayer writes that he has heard it would be possible to overturn the election in North Ward because John Prior voted and his name was on neither the Assessment Book nor the Roll.  Surely it would be a good policy for the Councillor elected on the casting vote of the returning officer to send in his resignation.

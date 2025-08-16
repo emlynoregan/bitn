@@ -19,6 +19,7 @@ topics:
 - royalty
 - morality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wanderer disapproved of how he divides his time between gambling on the turf and prizefighters.

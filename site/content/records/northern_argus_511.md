@@ -20,6 +20,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ricky Loffler now works at the Burra branch of the State Bank.

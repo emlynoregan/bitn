@@ -20,6 +20,7 @@ topics:
 - service
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J. Homann jun.’s services last Sunday at the German Chapel were well attended and much appreciated.

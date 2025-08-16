@@ -19,6 +19,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Cycling Classic will begin at Burra on 2 august near the Commercial Hotel and end at c. 3.30 p.m.

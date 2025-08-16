@@ -21,6 +21,7 @@ topics:
 - conveyancing
 - insurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. John D. Cave. All types of conveyances under the Real Property Act, execute mortgages. Agent for insurance &c.

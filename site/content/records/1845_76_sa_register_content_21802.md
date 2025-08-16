@@ -22,6 +22,7 @@ places_mentioned:
 topics:
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The retiring Directors were re-elected.  Arthur Blyth and T.G. Waterhouse were leaving SA and were replaced with Messrs Henry Rymill and Neville Blyth.

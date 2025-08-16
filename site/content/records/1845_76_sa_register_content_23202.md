@@ -20,6 +20,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Ranger.  Locals at Burra welcome the decision of the Government to leave the Ranger here rather than remove him to Mount Remarkable.

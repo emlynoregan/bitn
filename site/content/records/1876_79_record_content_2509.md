@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 On 30 June they performed at Taylor's Hall, Manoora: `the usual nigger jokes were abundant and good'

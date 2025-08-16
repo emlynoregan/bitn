@@ -22,6 +22,7 @@ topics:
 - government
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S. Pearce moved the second motion ‘That this meeting protests most emphatically against the office of Commissioner of Crown Lands being held be a member of the Legislative Council.’  Seconded W.H. Hardy.

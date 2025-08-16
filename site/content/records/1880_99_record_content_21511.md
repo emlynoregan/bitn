@@ -20,6 +20,7 @@ topics:
 - survey
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina.  Mr Quintrell of the Office of the Conservation of Water went out to Baldina Creek on Tuesday to make a survey on the practicability of irrigation.

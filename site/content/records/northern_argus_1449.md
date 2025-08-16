@@ -20,6 +20,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Council was recently addressed by John Womersley, manager of the State Heritage Branch.  As a result Council has moved to consider the appointment of a heritage advisor/planning officer through the National Estate Program.

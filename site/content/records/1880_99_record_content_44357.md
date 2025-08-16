@@ -21,6 +21,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C. Rawling, who had a contract for 10,000 yds3 of metal from the Aberdeen Ballast Quarry, has finished the work.  Many teams have been employed delivering a further quantity, but the side of the quarry has slipped away filling up the gangway and so all have been laid off - the quarrymen as well as a gang of repairers on the line.  The Government though, wants another 10,000 yds3 so the quarry will likely reopen soon as it is the source of the best and cheapest high quality ballast.

@@ -31,6 +31,7 @@ topics:
 - Land Act
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Eastern Plains Selectors.  Dr Stephens has presented the case for payment relief to the Commissioner of Crown Lands.

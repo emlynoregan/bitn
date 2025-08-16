@@ -24,6 +24,7 @@ topics:
 - pastoral
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mr William Finke’s funeral took place on 19 January.  He was greatly associated with Mr James Chambers in pastoral and mining activities.  He was a friend and patron of the explorer J.M. Stuart who was advised of his funeral, but was unable to attend, being 300 miles from Adelaide.  (The funeral trappings used at the funeral of the late Duke of Wellington had been purchased and were used in Adelaide for the first time at this funeral.)

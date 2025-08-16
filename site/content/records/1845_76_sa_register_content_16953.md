@@ -19,6 +19,7 @@ topics:
 - race
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Annual Races will take place on 31 December 1863 and 1 January 1864.

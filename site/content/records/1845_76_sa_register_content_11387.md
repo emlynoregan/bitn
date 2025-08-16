@@ -22,6 +22,7 @@ topics:
 - conveyance
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Messrs Smith and Jennings beg to inform they will start a conveyance to and from Gawler, Kapunda and Kooringa on 22 February.

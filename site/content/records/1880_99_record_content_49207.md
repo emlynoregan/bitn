@@ -21,6 +21,7 @@ topics:
 - council
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson said there were 67 men out of work in North Ward.  He moved that a deputation wait on the Government this week.  2nd Cr Walsh and carried.

@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - schedule
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 7.43 p.m.	7.48 p.m.

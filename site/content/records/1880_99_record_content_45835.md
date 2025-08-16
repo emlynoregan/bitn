@@ -19,6 +19,7 @@ topics:
 - crime
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robberies.  A bag of flour and one of chaff were stolen from a shop in the main street and a residence in Lower Thames St was broken into and £4 in cash taken.

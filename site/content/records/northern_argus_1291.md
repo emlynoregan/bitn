@@ -19,6 +19,7 @@ topics:
 - obituary
 - in memoriam
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Claude Allen died 8 June 1984 from an ‘In Memorium’ notice.

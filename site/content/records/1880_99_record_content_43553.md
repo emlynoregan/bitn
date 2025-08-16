@@ -23,6 +23,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hardwicke College held break-up celebrations in the Institute last Thursday.  The Chairman, Rev. R.M. Hunter thanked the Misses Bond and Dellow for their efforts since they took charge 3 months ago when the Misses Hotson left.

@@ -19,6 +19,7 @@ topics:
 - obituary
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  24 June, Charles Rawling, at his residence in Kooringa.  Aged 64, a resident for 30 years.

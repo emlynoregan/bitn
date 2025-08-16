@@ -19,6 +19,7 @@ topics:
 - finance
 - crop yield
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Thomas got 100 bags off 140 acres, which would not pay the year’s bills let alone the Govt.

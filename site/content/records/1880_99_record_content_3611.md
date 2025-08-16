@@ -22,6 +22,7 @@ topics:
 - sport
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Athletic Sports - Easter Monday, 18 April, in R. Austin’s Paddock, Aberdeen.  [Events included flat and hurdle races, pole leaping, high jumps, hammer throw and tug-of-war.]

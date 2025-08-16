@@ -21,6 +21,7 @@ topics:
 - advertisement
 - food
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  R. Cook, Fruiterer, Redruth.  Fresh fruit almost daily from his Watervale Garden.  Table grapes 1½d lb.

@@ -22,6 +22,7 @@ topics:
 - fundraising
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Lulu Gillespie, a native of Burra, will visit on 3 November for a concert aimed to raise some money towards sending her to Europe to further her musical studies.

@@ -37,6 +37,7 @@ topics:
 - ceremony
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In doing so he expressed the debt due to the ministry for completing the line in time for the harvest.  An adjournment was then made to Weinrich’s Royal Hotel for lunch.  The official party then drove the 14½ miles to the end of the narrow gauge line at Petersburg.  On the narrow gauge line from Terowie to Petersburg the earthworks are almost complete and plate laying has commenced, but the two gauges are not expected to meet at Terowie for about two months.

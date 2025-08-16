@@ -23,6 +23,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  John Alexander Watt, 4th son of James Watt, Forgue, Aberdeenshire, Scotland & Martha, eldest daughter of Ambrose Harris, Kooringa.  At the Wesleyan Church, Kooringa, 24 May.

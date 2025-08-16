@@ -22,6 +22,7 @@ topics:
 - legislation
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rates Subsidy.  Mr Holder, the Treasurer, has managed to get the Subsidy to Corporations Bill through the House of Assembly so that instead of licence fees the Corporation will get 5% of the general rate.  In Burra’s case the Corporation will lose over £100 p.a.

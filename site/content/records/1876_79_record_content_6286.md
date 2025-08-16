@@ -20,6 +20,7 @@ topics:
 - town council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. A special meeting last evening accepted the resignation of Mr Fogg as Town Clerk. Mr Holder was appointed to act for the time.

@@ -20,6 +20,7 @@ topics:
 - employment
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Peter & Chris Muller are going to Ceduna where Peter has a job with the Council.

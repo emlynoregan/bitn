@@ -38,6 +38,7 @@ topics:
 - starvation
 - search
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  G.W. Goodhart JP held an inquest on 24 February on the deaths of Emma Gordon aged 32 and Alice Gertrude Gordon aged 5 who were lost in the scrub on the Eastern Plains about three weeks ago.

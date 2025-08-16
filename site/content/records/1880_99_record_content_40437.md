@@ -21,6 +21,7 @@ topics:
 - public policy
 - refreshment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Refreshment!  We have sometimes heard a great deal said against the Government allowing sale of ale and porter at railway station refreshment rooms.  We think it would be a deal better than the dangerous ‘much’ [sic] now sold there under the name of wine.

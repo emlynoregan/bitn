@@ -25,6 +25,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  A grand entertainment is being arranged to take place towards the end of the year to raise funds for a New Year’s dinner for those too poor to enjoy the occasion.  The Militia Fife and Drum Band of Adelaide will join Davey’s Band and several amateurs new to the local audience.  Organised by W.J. Davey and T. Heming of the Burra Hotel.

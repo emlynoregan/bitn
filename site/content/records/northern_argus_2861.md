@@ -19,6 +19,7 @@ topics:
 - community
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 An Evening of Gilbert & Sullivan will be put on at Mt Bryan on 1 August.

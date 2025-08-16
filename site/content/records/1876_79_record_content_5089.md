@@ -19,6 +19,7 @@ topics:
 - police
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [The Kelly Gang.] It is some time since bushranging attracted much notice, but a gang at work in Victoria has caused a large body of police to be sent to effect their capture.

@@ -19,6 +19,7 @@ topics:
 - crime
 - robbery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robbery.  H. Roach’s flour mill was robbed c. 4 o’clock on Monday afternoon when the cash box was found to be rifled.  The thief took a ticket for a southern station and vanished.  No local resident was implicated.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Gold.  There is a report of gold being discovered near Port Lincoln.

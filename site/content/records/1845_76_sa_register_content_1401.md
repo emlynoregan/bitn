@@ -18,6 +18,7 @@ topics:
 - wages
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Shepherds	10/- to 12/- per week plus rations*

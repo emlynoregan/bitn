@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary/Accident.  Mrs E.A. Skewes of Hilltown was killed when thrown from her buggy in a capsize on 30 November.  She was a sister to Mrs Wade of Kooringa.  [Registered as Elizabeth Ann Skews died 30 November 1891.]

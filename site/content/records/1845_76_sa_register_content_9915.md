@@ -21,6 +21,7 @@ topics:
 - hospitality
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Public-House to let: the Wakefield Arms at Port Wakefield.  Immediate entry.  Apply at the office of the English & Australian Copper Co., Adelaide.

@@ -20,6 +20,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr A.J. Stewart of Adelaide will deliver an address at the German Chapel, Redruth, on 31 July at 7.20 p.m.  Bring your Bibles.

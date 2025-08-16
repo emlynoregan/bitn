@@ -24,6 +24,7 @@ topics:
 - partnership
 - dissolution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  From 24 March the partnership between August Miller and Edward Statton as Blacksmiths and Wheelwrights of Kooringa is dissolved by mutual consent.  All debts to be paid to John Snell of the Temperance Hotel, Burra.

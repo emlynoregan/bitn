@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The Anglican Sunday School picnic at Princess Royal on 28 Sep. was a great success.  The weather was delightful and the sports were enjoyed.

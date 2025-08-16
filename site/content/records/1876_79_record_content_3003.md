@@ -22,6 +22,7 @@ topics:
 - advertisement
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 He will also set up his studio at Redruth on the flat near the creek facing Mr Orchard's and Mr Opie's hotels.

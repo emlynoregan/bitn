@@ -21,6 +21,7 @@ topics:
 - health
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Gold.  Reports say that the men of the Government group have been busy sinking shafts, but have not found significant gold yet.  W.H. Hardy has sprained his ankle and been unable to work for a week.

@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Transcontinental Railway.  The Northern Territory Times suggests ending the depression by borrowing £8,000,000 to complete the transcontinental railway.

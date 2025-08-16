@@ -20,6 +20,7 @@ topics:
 - council
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Sampson is the subject of a requisition being circulated to ask him to stand as councillor for East Ward.

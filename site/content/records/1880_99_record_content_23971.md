@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Susan Jane Skewes, second daughter of Mr Henry Skews of Booborowie, died at the Burra Hospital on 1 December, aged 14 years 11 months.

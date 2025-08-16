@@ -22,6 +22,7 @@ topics:
 - child neglect
 - institution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jane Woods 15 years 9 months was subsequently charged, on the information of L-C Thomas, with being a neglected child.  Persons were called and gave evidence that the house kept by Mary Woods had a reputation as a brothel.  The girl was sent to the Industrial school till 18.

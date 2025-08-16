@@ -19,6 +19,7 @@ topics:
 - birth
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth. 28 November, at the Mine, to the wife of J.G. Innes HMCS, a daughter.

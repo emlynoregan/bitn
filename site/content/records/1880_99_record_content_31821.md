@@ -28,6 +28,7 @@ topics:
 - accident
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of Abraham Goitt, an Assyrian, began on 28 Feb. and almost at once adjourned till the 5 March.  In 28 Feb. Dr Sangster said the deceased had been brought to the hospital on the 27 Feb. and died on the 28 Feb. apparently from concussion of the brain, which might have been caused by a fall from a train.  He was identified by a cousin, Carlile Goitt.  The deceased had a wife and several children in Damascus.

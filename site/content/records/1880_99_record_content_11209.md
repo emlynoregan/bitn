@@ -19,6 +19,7 @@ topics:
 - waterworks
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  The Council intend to use their own shaft and extend the main to the hospital.

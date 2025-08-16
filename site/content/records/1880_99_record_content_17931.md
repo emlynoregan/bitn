@@ -18,6 +18,7 @@ topics:
 - church
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Redruth Wesleyan Church Anniversary on Sunday and Monday was very successful.

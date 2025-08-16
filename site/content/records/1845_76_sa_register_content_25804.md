@@ -20,6 +20,7 @@ topics:
 - tenders
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for the building of a hall, committee rooms and other additions and alterations at the Kooringa Institute by 19 September.

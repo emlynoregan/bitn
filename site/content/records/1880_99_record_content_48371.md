@@ -20,6 +20,7 @@ topics:
 - censure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks thought any censure should be on the shoulders of the late Waterworks Committee.

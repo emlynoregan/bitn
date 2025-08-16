@@ -42,6 +42,7 @@ topics:
 - staff changes
 - jubilee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Learn to Swim Campaign in Burra is currently under way.

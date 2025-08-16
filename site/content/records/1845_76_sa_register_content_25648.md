@@ -23,6 +23,7 @@ topics:
 - entertainment
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 16 May 1874, page 6

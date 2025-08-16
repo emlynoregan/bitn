@@ -18,6 +18,7 @@ topics:
 - note
 - dating
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This item doesn’t say when, but a letter to the editor places it on the previous Monday night.]

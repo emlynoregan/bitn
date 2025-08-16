@@ -21,6 +21,7 @@ topics:
 - transport
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Council is to write to petrol companies about fuel tankers coming through the town rather than making use of the bypass.

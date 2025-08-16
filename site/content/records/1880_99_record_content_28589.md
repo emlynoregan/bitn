@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A.E. Moore still retains his labour office where all business is transacted on reasonable terms.  Market Square, Kooringa.

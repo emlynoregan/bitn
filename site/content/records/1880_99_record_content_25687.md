@@ -20,6 +20,7 @@ topics:
 - politics
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Governor’s Speech to the opening of the 1st session of the 12th Parliament of SA is printed.

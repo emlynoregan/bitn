@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Saturday night a lamp was dropped in John Hunter’s Boot Palace when a lad was taking it down.  It burst into flames, but they were fortunately extinguished before much damage was done.  The town still possesses no fire fighting equipment!

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 6 August.  Entertainment by the Burra Amateur Christy Minstrels in aid of the Burra Hospital.  To end with the slide-splitting farce: - ‘The Black Barber’.

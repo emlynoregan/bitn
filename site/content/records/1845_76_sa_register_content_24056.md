@@ -21,6 +21,7 @@ topics:
 - police
 - public_order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Cundy paid £4 in fine and costs (or 4 month in gaol) for smashing furniture in the bar at the White Hart Hotel, resisting police and committing a nuisance in the police cell.  That he was drunk was regarded as no excuse.

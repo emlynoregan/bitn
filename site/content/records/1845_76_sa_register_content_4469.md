@@ -26,6 +26,7 @@ topics:
 - development
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An Artful Dodge at Port Henry [i.e. Port Wakefield]

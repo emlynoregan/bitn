@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 28 December at Hallett Burra 139 defeated Hallett 48

@@ -27,6 +27,7 @@ topics:
 - police
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Mayor, Mr Packard, with Cr Ridgway & Mr Holder waited upon several ministers in Adelaide.

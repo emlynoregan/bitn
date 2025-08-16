@@ -18,6 +18,7 @@ topics:
 - business
 - office_note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The office note scrawled on the paper reveals that the 31 cm x 17 cm advertisement cost £8-6-0.]

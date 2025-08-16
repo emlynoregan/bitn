@@ -21,6 +21,7 @@ topics:
 - mayoralty
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Monday the returning officer, Cr Pinch, declared Mr F.W. Holder duly elected as Mayor in the absence of any other nomination.  He was shortly afterwards sworn in.

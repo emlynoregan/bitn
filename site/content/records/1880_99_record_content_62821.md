@@ -20,6 +20,7 @@ topics:
 - crime
 - attempted theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Attempted Theft.  On Monday night between 8 and 9 p.m. someone attempted to break into Luke Day’s premises, but was scared off by the arrival of the boy at the store.  Luke was off looking at Blondin’s feat in walking the tight wire behind the Commercial Hotel.

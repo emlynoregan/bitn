@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Money will be lost from the town by delay because when farming operations absorb local surplus labour soon outsiders will have to be brought in the do the work.

@@ -21,6 +21,7 @@ topics:
 - farewell
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Captain & Mrs Melksham’s farewell social was held last Wednesday at the Barracks on the eve of their departure for Magill after a stay of seven months.

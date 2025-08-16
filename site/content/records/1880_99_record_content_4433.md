@@ -21,6 +21,7 @@ topics:
 - advertisement
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Jones has commenced business at Redruth near the Primitive Methodist Chapel as a general boot and shoemaker.

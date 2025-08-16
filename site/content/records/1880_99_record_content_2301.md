@@ -20,6 +20,7 @@ topics:
 - accident
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  At Mr Tobin’s in Kooringa yesterday a dressing table and bed caught alight and flames were just reaching the calico ceiling when they were put out.

@@ -25,6 +25,7 @@ topics:
 - licence
 - evening school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Pupils present when inspected, 48; pupils attending school, 80; state of schoolroom, good; general discipline, good.  Recommended for a licence from 1 April.  Evening school 20 pupils.

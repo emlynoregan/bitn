@@ -29,6 +29,7 @@ topics:
 - community
 - liquor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sunday Closing. There was a meeting of about 70 people at the Inst. last Friday to consider a response to the proposal to repeal Nock’s Act which limits Sunday trading in liquor. The Mayor took the chair. 

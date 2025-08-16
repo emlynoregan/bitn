@@ -18,6 +18,7 @@ topics:
 - gold
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Hundreds are now leaving, but many are still arriving.  With about 3,000 there, departures about balance new arrivals.

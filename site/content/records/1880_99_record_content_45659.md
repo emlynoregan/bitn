@@ -18,6 +18,7 @@ topics:
 - employment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted: At Burra Hospital, a servant to undertake the duties of laundress and housemaid.  14/- per week.

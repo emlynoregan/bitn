@@ -21,6 +21,7 @@ topics:
 - church
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  A fine altar rail was presented to St Mary’s by Mrs John Lewis last week.  It was designed and made by Mr J.L. Scott of Mannum.

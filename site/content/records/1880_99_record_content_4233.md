@@ -19,6 +19,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  10 June, at the Institute, the 1st in a series of entertainments in aid of the Institute Funds: Readings, Recitations, Vocal and Instrumental Music.

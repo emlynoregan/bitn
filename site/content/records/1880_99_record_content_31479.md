@@ -21,6 +21,7 @@ topics:
 - court
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved that in future all Corporation cases would be set down to be heard on Mondays and the Mayor undertook to be present to hear such cases.

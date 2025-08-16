@@ -20,6 +20,7 @@ topics:
 - building
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Buildings. Mr Wilkinson is about to rebuild and improve his shop. Mr Lipsett's remodelling is now in hand. The new Bank [of Australasia] is nearing completion.

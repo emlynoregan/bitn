@@ -29,6 +29,7 @@ topics:
 - accident
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘The Directors having understood, that the answer to the petition of the Tributers, forwarded by them about three weeks since had not been communicated to them, by the late Superintendent, hereby subjoin a copy of the answer of the Board to that Petition:

@@ -20,6 +20,7 @@ topics:
 - crime
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Vandalism. Mr Robert Thomson offers a reward for conviction of the person who cut a hole in one of his iron tanks so wasting the water. The tank in question was placed for the convenience of travellers 100 miles from Burra.

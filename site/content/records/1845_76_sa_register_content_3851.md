@@ -21,6 +21,7 @@ topics:
 - food
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 When flour was £10 a ton in Adelaide and cartage to Kooringa was £1-5-0 a 4 lb loaf of bread cost 7d.

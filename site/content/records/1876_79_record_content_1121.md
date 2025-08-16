@@ -20,6 +20,7 @@ topics:
 - accommodation
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Commercial Hotel owned by W.L.H. Bruse, 22 rooms, stables, bar, taproom, parlour, billiard room, dining room, box room, 6 bedrooms and kitchen in detached building, 1st floor has 6 bedrooms, a dining room and a balcony.

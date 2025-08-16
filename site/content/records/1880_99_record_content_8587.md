@@ -23,6 +23,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Sunday School Anniversary 24 December & 25 December.  Revs J.G. Wright & S. Knight will preach on the 24th with the tea meeting on the 25th.

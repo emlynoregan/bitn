@@ -18,6 +18,7 @@ topics:
 - literary society
 - reading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc.  Last meeting saw the reading of a series of articles on leading topics of the day.

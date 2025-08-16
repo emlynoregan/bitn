@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Easter Monday at Victoria Park: Teachers’ Assoc. 5 for 239 defeated Burra 167.

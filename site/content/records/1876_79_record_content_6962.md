@@ -24,6 +24,7 @@ topics:
 - geography
 - administrative
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 County Burra, Hundred 281 lies north of H. of Mongolata and south of the H. of Wonna and east of the H. of Hallett. 1/4 is rough scrubby country and the rest open saltbush and bluebush. The plains areas are fairly grassed.

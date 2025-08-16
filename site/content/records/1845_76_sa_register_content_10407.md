@@ -25,6 +25,7 @@ topics:
 - construction
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called before the 24 December next for the erection of the Burra Miners’ and Mechanics’ Institute.  Plans and specifications may be seen at the Post Office, Kooringa from 20-27 November and from 17-24 December, and from 1-13 December at Green’s Exchange, Adelaide.

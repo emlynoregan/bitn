@@ -22,6 +22,7 @@ topics:
 - appeal
 - liquor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M.J. Hirsey’s conviction for supplying liquor to an Aboriginal named Davis, was quashed on appeal on Wednesday, there being no evidence that Davis was an Aboriginal and no evidence that liquor had been sold to him by the appellant.

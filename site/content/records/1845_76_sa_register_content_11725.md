@@ -18,6 +18,7 @@ topics:
 - weather
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  There has been very little rain in the district of Burra and it ahs been very cold, with maxima of c. 54°F.  Many lambs have been dying from the cold and the absence of fresh feed.

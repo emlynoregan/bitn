@@ -22,6 +22,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Accident.  We learnt yesterday from Mr D’Arcy of the Cross Keys, Little Para that a man named David Bryce was lying dead at his house awaiting an inquest.  It is said the deceased, while intoxicated, was riding on the pole of his dray, when he fell, and the wheel passed over him, killing him on the spot.

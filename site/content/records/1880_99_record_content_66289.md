@@ -19,6 +19,7 @@ topics:
 - embezzlement
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Kitchen, former secretary of Albert District of the Order of Rechabites has been charged with embezzling £20 from the same and the case has been adjourned with bail.

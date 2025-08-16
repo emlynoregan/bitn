@@ -21,6 +21,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on a shocking case of an elderly couple living in appallingly filthy circumstances in the town.  The man was totally incapacitated by cancer eating away his face and the wife was suffering from dementia.  The writer says the Local Board of Health was justified in intervening in the people’s privacy as they were beyond helping themselves.  The man has been sent to Adelaide Hospital and the woman to the Destitute Asylum.  [The final paragraph makes it seem doubtful that they stayed in Adelaide.]

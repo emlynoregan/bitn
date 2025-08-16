@@ -21,6 +21,7 @@ topics:
 - advertisement
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Bock	Has moved to a new shop next door to W.L.H. Bruse’s Furniture

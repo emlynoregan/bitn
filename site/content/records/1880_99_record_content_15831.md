@@ -21,6 +21,7 @@ topics:
 - council
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To save money one must reduce the total or reduce the amount paid from rates and thus gain subsidy.  This could be achieved by paying the Town Clerk for Waterworks related duties from Waterworks revenue.

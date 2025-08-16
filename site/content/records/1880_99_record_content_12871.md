@@ -18,6 +18,7 @@ topics:
 - editorial
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader explores the role of the editor in election campaigns.  The writer says he should be quite neutral or impartial with respect to facts and in publishing letters, but he must be a man of convictions who is willing to publish his judgements and views.

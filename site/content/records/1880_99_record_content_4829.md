@@ -21,6 +21,7 @@ topics:
 - economy
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Deputation to the Govt.  A deputation has waited on the Govt. re the railway tariff for cereals.  The Commissioner said he already had the information laid before him and intended shortly to announce reduced charges for long distances.

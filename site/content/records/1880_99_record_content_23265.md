@@ -20,6 +20,7 @@ topics:
 - offence
 - intoxication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.W. Harris was charged with being drunk on the railway platform and was cautioned.

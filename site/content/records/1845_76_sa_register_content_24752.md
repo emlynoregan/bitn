@@ -37,6 +37,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry M. Smith wrote a letter concerning Parliamentary statements about connecting the colony’s northern areas with the coast.

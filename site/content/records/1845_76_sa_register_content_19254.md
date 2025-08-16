@@ -20,6 +20,7 @@ topics:
 - health
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  It has been oppressively hot for the last few days.  A man named William Davey was sunstruck at the Mine and taken home in a cart.

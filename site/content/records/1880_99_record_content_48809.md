@@ -19,6 +19,7 @@ topics:
 - performance
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra’s Jolly Oxidentals had only a moderate audience at Hallett Institute.

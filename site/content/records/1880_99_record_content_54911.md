@@ -24,6 +24,7 @@ topics:
 - theatre
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Warners Merry Moments, First Appearance at the Institute 12 October.

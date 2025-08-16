@@ -19,6 +19,7 @@ topics:
 - free speech
 - censorship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’s Farewell’ W.H. Hardy writes to complain that he is being excluded from the paper ‘by party motives’ and ‘on account of my fearless and otherwise hot references to the hypocrisy of certain money-bag would-be leaders of the people, whom it is to your interest not to offend, free speech is being stifled.’

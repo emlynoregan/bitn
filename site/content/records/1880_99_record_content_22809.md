@@ -19,6 +19,7 @@ topics:
 - public order
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  Last Saturday the competition between the larrikins and the Salvation Army became absurd.  The larrikins began with a lot of noise before the Army arrived and then both parties made abysmal noise with ‘the utmost disregard of music’.

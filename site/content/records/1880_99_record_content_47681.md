@@ -23,6 +23,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Redruth Wesleyan Sunday School picnic was held in Mr Hawkes’ paddock on the old Adelaide Road 7 miles from Burra.  Sports and lavish refreshments were enjoyed.

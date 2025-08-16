@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 4 Nov 81	Partners Ch XXI-XXII	Bewitched in Mid Ocean		X	X	X	X	X	X	X

@@ -21,6 +21,7 @@ topics:
 - harvest
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Harvest Thanksgiving last Sunday saw a 111½ lb pumpkin from Mr Snell’s garden conspicuous among the produce.  Mr & Mrs C. Drew were welcomed back having been farewelled on the similar occasion last year.

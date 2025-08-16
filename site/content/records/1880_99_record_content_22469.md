@@ -20,6 +20,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute held its monthly meeting.  F.W. Holder gave notice of a motion to effect the erection of two rooms at the back of the hall and at the same time carrying the back of the hall ten feet further, the whole to be completed outside in uniform with the present building.  For consideration next month.

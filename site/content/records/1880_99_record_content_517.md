@@ -19,6 +19,7 @@ topics:
 - well
 - drilling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Well.  The broken chisel has been recovered and drilling is continuing.

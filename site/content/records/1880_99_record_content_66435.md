@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council rescinded the resolution ending the water concessions on Monday night.

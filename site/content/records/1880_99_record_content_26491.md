@@ -26,6 +26,7 @@ topics:
 - excursion
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from J. Cooksley of Farrell’s Flat, complaining that the Farrell’s Flat contingent were hurried into the brake-van with little air or light until Riverton, when one door was opened, but near Adelaide it was again closed and they endured the heat till the Exhibition Grounds, ‘w[h]ere one poor woman fainted’.

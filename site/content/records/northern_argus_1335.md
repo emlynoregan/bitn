@@ -25,6 +25,7 @@ topics:
 - project
 - restoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 David Bannear directed operations at the miners’ entrance to Morphett’s Shaft on Sunday before a crowd of Apexians.  Danny O’Bryan and his back-hoe uncovered the entrance about 20 metres from the shaft.  The object is to recreate the entrance so that people will be able to walk through it into the shaft itself.  The project is funded by the Department of Mines and Energy.  This and the restoration of Morphett’s Enginehouse is the final leg of the Jubilee 150 Burra Heritage Town Project.  [Photo of the unearthing of the entrance.]

@@ -23,6 +23,7 @@ topics:
 - sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. For sale by tender. The lease of the Miners' Arms hotel with 11 years to run comprising the hotel with chaff house (let for 30/- a week) and provision of all firewood. Extensive yards where Liston, Shakes & Co. and Coles & Goodchild hold monthly sales. Rent of the whole £140 p.a. and also plans for a new hotel.

@@ -25,6 +25,7 @@ topics:
 - community
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show, was held at the premises of the English and Australian Copper Co. [i.e. the Old Smelts Yard]

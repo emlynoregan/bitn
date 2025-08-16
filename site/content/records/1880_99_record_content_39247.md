@@ -19,6 +19,7 @@ topics:
 - school
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grasshoppers & sparrows have fouled the Burra School’s water tanks.

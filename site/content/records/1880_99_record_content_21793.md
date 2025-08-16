@@ -18,6 +18,7 @@ topics:
 - wages
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wages.  The salaries of Government Ministers are to be cut to £800 p.a., but the writer notes that the present ministers will be out of office before the move becomes effective!

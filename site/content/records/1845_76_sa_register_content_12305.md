@@ -20,6 +20,7 @@ topics:
 - insolvency
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A meeting of the creditors of Mr A. Motley was held at the Burra Hotel on 18 April to hear a statement of his affairs.  It is feared the estate will realize little, if anything.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season continues good with recent rain.  Now farmers require a little fine weather.

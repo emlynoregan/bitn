@@ -21,6 +21,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The undersigned is desirous of an engagement as a mining clerk and storekeeper; has had the management of the extensive stores of the Burra Burra Mines for some years.  George Bellgrove, Burra Burra Mines.  Reference – The Hon. Henry Ayers, secretary SA Mining Association.

@@ -19,6 +19,7 @@ topics:
 - social
 - bicycles
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British Medical Journal has published opinions from leading physicians in favour of women riding bicycles.

@@ -31,6 +31,7 @@ topics:
 - council
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: Another delegation to the Commissioner of Public Works re. The Eastern Road. This time the Mayor, P. Lane, Captain Sanders (Cr.), T. Warnes (Chairman of District Council), Mr Duell & Mr. Goodfellow favoured a road from Kooringa via Warne's Corner to World's End. Their route ran from the S.E. corner of Kooringa to SW corner of Baldina to the Hundred of Bright.

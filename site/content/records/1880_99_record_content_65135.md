@@ -22,6 +22,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called by the Old Koomooloo Vermin Board for 57 miles of Vermin-Proof Fencing.

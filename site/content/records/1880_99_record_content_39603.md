@@ -19,6 +19,7 @@ topics:
 - fiction
 - table_of_contents
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Made a Mistake by Thomas P. Montport, 12 September.

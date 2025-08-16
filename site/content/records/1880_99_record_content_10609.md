@@ -19,6 +19,7 @@ topics:
 - meeting
 - IOR
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR Rose of Sharon Tent.  At the quarterly financial meeting the order reported 111 members and 59 in the juvenile tent.

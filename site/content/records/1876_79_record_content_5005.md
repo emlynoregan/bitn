@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the railway gauges — the foolishness of SA having two gauges. [SA was about to see the problems caused when broad gauge met narrow gauge at Hamley Bridge and Terowie — and somewhat later in the South East.] The editor favoured converting all SA to the NSW gauge of 4’8½”.

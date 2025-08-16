@@ -33,6 +33,7 @@ topics:
 - medical
 - negligence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Was in Bollmann’s house yesterday when the child died about 2.30 p.m.  Deceased had then taken a nobbler of brandy.  Deceased then went into the next house, and lying on the ground, went into hysterics.  Gave him a drink of water and deceased then said he had taken poison.  Asked Mrs Bollmann if they had any poison.  She had said they had arsenic, but it was locked in her workbox and she did not believe her husband had taken poison.  Sent for the doctor as she feared it was something serious.  Did not send for the police, as there was no one to send.

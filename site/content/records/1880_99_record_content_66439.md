@@ -20,6 +20,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra High School.  Miss Davidson is severing her connection with the school after 2½ years.  After the mid-winter recess Miss Bertha Millar, the Principal’s niece, will join the staff.  The third term begins on 19 July.

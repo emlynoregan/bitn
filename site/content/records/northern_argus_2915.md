@@ -23,6 +23,7 @@ topics:
 - heritage
 - archaeology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Community Employment Program will provide a grant of $104,137 for tourist development at the Burra Mine.  There will be a sponsor contribution of $13,674 made up of $5,000 from the Department of Mines & Energy, $5,000 from the Department of Tourism and $3,674 from the Burra Mine Management Committee along with a non cash donation of $12,892.  The project is scheduled over 28 weeks.

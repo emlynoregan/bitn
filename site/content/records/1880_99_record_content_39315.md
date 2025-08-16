@@ -18,6 +18,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Reading Room Committee: where is the secretary and where is the money collected for it?

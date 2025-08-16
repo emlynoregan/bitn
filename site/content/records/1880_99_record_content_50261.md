@@ -19,6 +19,7 @@ topics:
 - land
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Land Board.  Burra Institute 26 June, 10 a.m.

@@ -24,6 +24,7 @@ topics:
 - picnic
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Wednesday in Market Square 28 men turned out in full uniform and rode to Princess Royal at the invitation of Mr A. McCulloch where he entertained them on the verandah with ‘good things’.  They then mounted and went to the side of the hill opposite where St Mary’s picnic was being held.

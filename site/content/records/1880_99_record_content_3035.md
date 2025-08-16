@@ -18,6 +18,7 @@ topics:
 - gold
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  The gold prospectors are digging on Mitchell’s Flat, but we fear the little so far found is a plant from the digging times, or gold once lost and now rediscovered.

@@ -20,6 +20,7 @@ topics:
 - institution
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Gaol is being converted to a Girls’ Reformatory by the Government, at a cost of £300, because the Adelaide buildings cannot meet the demand.

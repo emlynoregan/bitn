@@ -21,6 +21,7 @@ topics:
 - court
 - rent
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In the local court today William Pearce brought an action against Julius Victorsen for two weeks’ rent of a draper’s shop in Kooringa.  The defendant claims a verbal notice terminated their written agreement, but the Court found for the plaintiff for £3.

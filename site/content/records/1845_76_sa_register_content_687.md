@@ -22,6 +22,7 @@ topics:
 - tender
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  To Builders and Contractors

@@ -23,6 +23,7 @@ topics:
 - irrigation
 - gold prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council is asked to urge the Government to move on Baldina irrigation scheme proposal and on gold prospecting at Ulooloo.

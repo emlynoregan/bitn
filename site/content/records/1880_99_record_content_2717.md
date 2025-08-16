@@ -18,6 +18,7 @@ topics:
 - superstition
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 11 Mar 81	Serpent Ch XXV-XXVI	Mrs Pierrepoint	Graveyard Superstitions	X	X	X		X		X	X

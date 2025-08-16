@@ -24,6 +24,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  15 April, George Dawson, only son of the late William Dawson of Bedford, England & Dora Bock, eldest daughter of the late William Bock of Kooringa.

@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thursday. Burra 153 I. Zingari 58 & 90 for 5 wickets

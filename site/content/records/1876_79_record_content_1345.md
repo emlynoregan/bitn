@@ -22,6 +22,7 @@ topics:
 - transport
 - railways
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways: Complaint about the slowness of trains: Melbourne to Ballarat similar distance, 3 hr 45 mins, But Adelaide to Burra, 5 hrs.

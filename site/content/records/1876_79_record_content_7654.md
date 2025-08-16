@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Midland Road Board will visit the Baldina Creek crossing on their tour of inspection. It badly needs attention.

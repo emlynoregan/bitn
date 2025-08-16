@@ -20,6 +20,7 @@ topics:
 - economy
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the role of millionaires like Carnegie and Rothschild.  We are told they ‘are the most honest possessors in the world’, that they are the custodians of property or it would be lost.  We say ‘only give every man all the property he with his own labour creates, and the rights of property will be something more than an empty phrase’.

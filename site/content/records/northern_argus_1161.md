@@ -23,6 +23,7 @@ topics:
 - SES
 - CFS
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC has a road grant for 1986-87 of $63,000, up 3%.  Des Menz presented a plan for the interior of the railway goods shed, part of which is to be leased to house the SES & CFS.

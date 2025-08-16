@@ -20,6 +20,7 @@ topics:
 - meeting
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF annual meeting will be held in the Institute on 25 February, Captain F.W. Holder commanding.

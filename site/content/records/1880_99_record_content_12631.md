@@ -27,6 +27,7 @@ topics:
 - taxation
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Government policy for the coming election.  The editor’s view is that they lack any real policy.  They will re-introduce a Taxation Bill already rejected and a Land Bill will be re-introduced.

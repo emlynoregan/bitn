@@ -19,6 +19,7 @@ topics:
 - meters
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was discussion with Mr Jobson over details of the Waterworks arrangements.  He said meters would be charged for at an annual rental of 12/- for ½” meters and more for larger ones.  Meters were valued at £5.  Meters were considered a necessity.

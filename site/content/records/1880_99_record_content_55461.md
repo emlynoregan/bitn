@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Athol Stuart Dawes, eldest son of James H. & Clara F. Dawes of Princess Royal Station, died of croup and convulsions, aged 7 years 5 months.  [Born 25 June 1887: died 7 December 1894.]

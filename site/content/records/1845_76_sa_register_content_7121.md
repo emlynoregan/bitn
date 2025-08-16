@@ -22,6 +22,7 @@ topics:
 - migration
 - poverty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Boundy writes to the editor with warnings to those thinking of going to the NSW Goldfields.

@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 18 October 1848, page 2

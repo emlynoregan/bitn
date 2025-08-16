@@ -18,6 +18,7 @@ topics:
 - voting
 - civic duty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the need for all to enrol to vote.

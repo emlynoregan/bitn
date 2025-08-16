@@ -26,6 +26,7 @@ topics:
 - natural history
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boys’ Field Naturalist Society, Burra Branch, had an outing on Saturday.  Messrs Wittber, Opie & Bentley, from Burra School and Rev. R.J. Daddow attended.  The group went to the Burra Creek for soil analysis, St Mary’s cutting for contortion in limestone and The Mine to look at exposed rock types.

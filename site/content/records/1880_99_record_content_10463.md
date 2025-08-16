@@ -21,6 +21,7 @@ topics:
 - sanitation
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Board of Health.  Inspector Saunders wrote calling attention to the damp, unsanitary condition of Opie’s Hotel.  The Inspector is to visit and report.

@@ -18,6 +18,7 @@ topics:
 - mining
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the Burra Mine about 220 men are at work.

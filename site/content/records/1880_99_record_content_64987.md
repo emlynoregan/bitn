@@ -21,6 +21,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Fr O’Dowling, an old and respected past pastor of St Joseph’s gave a lecture here last Wednesday on Dublin: Old and New.  He was assisted by concert items.

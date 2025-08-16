@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  William Anderson and F.M. Hosking, both of Kooringa, on 30 June.

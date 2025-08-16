@@ -20,6 +20,7 @@ topics:
 - employment
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bath & Pearce advertise that they have engaged the services of an exceptional milliner from Melbourne to take charge of their millinery department.

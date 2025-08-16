@@ -20,6 +20,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute. Rev. Charles Clark; lecture-entertainment ‘Westminster Abbey’. Introducing the famous English War Cry Declared to be the Finest Piece of Declamation ever heard in Australia either on Stage or Platform.’ 3/- & 2/-

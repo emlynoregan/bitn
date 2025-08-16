@@ -21,6 +21,7 @@ topics:
 - disease
 - pleuropneumonia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra DC is content to allow the Corporation Inspector to be appointed to inspect meat in their district during the pleuropneumonia outbreak if the Town Council will fund him.

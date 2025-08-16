@@ -20,6 +20,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gun Accident.  A young man was admitted to Burra hospital last evening severely wounded while playing with a gun at Paratoo.

@@ -21,6 +21,7 @@ topics:
 - community
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Old Sport’ writes that he intended no slight to the secretary of the Racing Club, but merely to try to raise interest in racing and to use the money for some purpose if no racing is to be done.  Meetings should have been called.

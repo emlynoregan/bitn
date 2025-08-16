@@ -20,6 +20,7 @@ topics:
 - sports
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. The Burra club met for its first scratch match of the season on Saturday when Colours 12 took on Allcomers 15. Mr Brady's team (Colours) won 1 to nil.

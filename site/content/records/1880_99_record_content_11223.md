@@ -19,6 +19,7 @@ topics:
 - government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tax.  Opponents of the Government’s tax scheme are confident of ultimately rejecting the Bill.

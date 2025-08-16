@@ -20,6 +20,7 @@ topics:
 - sale
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr H. Copas of Wirrabara had a sale of fruit and ornamental trees at the Burra Hotel on Monday.

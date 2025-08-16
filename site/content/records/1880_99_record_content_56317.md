@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Fruit Social in connection with their Harvest Thanksgiving was held at the German Chapel on Monday evening.  Rev. D.S. Wylie presided.

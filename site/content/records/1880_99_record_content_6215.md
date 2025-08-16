@@ -20,6 +20,7 @@ topics:
 - premises
 - improvement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Lasscock is remodelling and improving his premises, formerly those of Henry Dawson.

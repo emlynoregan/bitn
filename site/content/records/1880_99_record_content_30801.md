@@ -24,6 +24,7 @@ topics:
 - government
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Secondly the possibility of the sale of the Burra Mine gives the town prospects it has not had for years.

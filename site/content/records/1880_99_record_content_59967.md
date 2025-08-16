@@ -19,6 +19,7 @@ topics:
 - transport
 - women
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports that three Burra women are negotiating to buy bicycles, so it is likely machines will soon carry fair ones in Burra.

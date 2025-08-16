@@ -22,6 +22,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘North Ward Ratepayer’ writes objecting to W.T. Rabbich’s references to the planting of No. 2 reserve.  The donors deserve to be thanked not abused.

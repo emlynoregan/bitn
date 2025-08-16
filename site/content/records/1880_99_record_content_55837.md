@@ -20,6 +20,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR, Rose of Shannon Tent meeting on 3 January.  Income for the year was £815-5-3 and expenditure £382-7-8.  There were 170 members good on the books.  There were 35 junior members with funds of £350.

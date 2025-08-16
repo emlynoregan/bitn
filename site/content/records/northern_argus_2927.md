@@ -18,6 +18,7 @@ topics:
 - fundraising
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Library Board’s trading table was well supported on Saturday morning.

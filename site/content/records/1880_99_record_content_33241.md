@@ -18,6 +18,7 @@ topics:
 - authorship
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [As with other editorials this year the internal evidence of this long left wing article, which extends for c. 1⅓ columns suggests that W.H. Hardy was writing the editorials and leading articles at this time.]

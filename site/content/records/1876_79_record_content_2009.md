@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse: Special services at the Primitive Methodist Church at Copperhouse, to aid the manse fund, saw 150 sit down to tea and raised £14

@@ -19,6 +19,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment at the Hallett Institute by the Terowie Glee and Dramatic Society on 12 December, featuring the drama ‘The Seven Clerks’ in 2 Acts plus songs, glees and a laughable farce.  2/- & 1/-.  MOONLIGHT.

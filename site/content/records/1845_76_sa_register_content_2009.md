@@ -21,6 +21,7 @@ topics:
 - trade
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Copper Sales.  On 16 December we reported SA copper for sale at Swansea on 26 August; 325 tons from Burra and 163 tons from Kapunda.  We now have details of those sales and for sales on 9 September.

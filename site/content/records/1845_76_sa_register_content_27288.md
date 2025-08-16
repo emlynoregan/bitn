@@ -25,6 +25,7 @@ topics:
 - correction
 - missing person
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Correction.  A telegram in the Register on 11 February stated that Mrs Gordon, the wife of a shepherd on Mr J. Baggs’ run on the Eastern Plains had been lost in the bush with her child.  Mr J. Baggs’ Jnr wishes us to correct the statement that in consequence of there being no food at Gordon’s hut the search party organised by Trooper O’Brien of Redruth had returned.  He says that in addition to their being plenty of food there for man and beast, there was plenty of water and mutton available at Mr Cowper’s station about five miles distant.  We have, he says spared no effort or expense in trying to find Mrs Gordon and her infant.  It is hard enough to bear the lack of success in that search without the odium of not having of having occasioned their loss by any neglect on our part.

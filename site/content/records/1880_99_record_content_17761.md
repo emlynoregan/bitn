@@ -28,6 +28,7 @@ topics:
 - appointments
 - patriotic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  Wednesday.  1st Company meeting with Captain Bleechmore of Terowie who organised the corps.  The roll was called and names added to complete the first 40.  A letter was received from [Rev.] George Edwards Rowe on behalf of the Patriotic Committee, pledging to equip 40 men.  The committee for the selection of a Commanding

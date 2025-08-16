@@ -19,6 +19,7 @@ topics:
 - event
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Farewell to Mr Holder at Burra Institute Friday 11 September at 8 p.m.

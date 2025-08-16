@@ -20,6 +20,7 @@ topics:
 - competition
 - rifle match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  Last Wednesday C. Parks defeated A.H. Jennings by 13.

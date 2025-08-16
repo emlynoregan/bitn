@@ -19,6 +19,7 @@ topics:
 - performance
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Faust Family of Bellringers gave a good performance in the Institute on 24 October to a poor house.

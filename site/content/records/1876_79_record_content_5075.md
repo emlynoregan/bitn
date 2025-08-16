@@ -20,6 +20,7 @@ topics:
 - opinion
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Bystander’ writes to explain that the reason that the ‘Infant Mozart’ did not do well was because ‘they didn’t go the right way to work. They should have blackened their faces and made coarse jokes about as old as the hills, and the room would have been packed,’

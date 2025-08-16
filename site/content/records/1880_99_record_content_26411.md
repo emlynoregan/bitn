@@ -19,6 +19,7 @@ topics:
 - opinion
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ echoes others who have expressed some dismay at the way Adelaide accumulates the wealth of the colony - especially apparent in the Jubilee Year with all and sundry flocking to the Exhibition and spending up while there.

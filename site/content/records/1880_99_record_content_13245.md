@@ -23,6 +23,7 @@ topics:
 - phrenology
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Rev. Ralph Brown of Victoria [phrenologist and physiognomist] will give his popular lecture: Heads and Faces at the Wesleyan Lecture Hall, Kooringa 23 May.

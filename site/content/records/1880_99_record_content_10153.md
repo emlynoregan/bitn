@@ -19,6 +19,7 @@ topics:
 - concert
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Concert on Wednesday night in aid of Mrs Hill was well attended.  Mr Rooney was warmly received despite any little misunderstanding that may have been on a recent occasion.

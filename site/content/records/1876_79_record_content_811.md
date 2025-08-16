@@ -21,6 +21,7 @@ topics:
 - amputation
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident.  Mr Henderson of Statton & Henderson had a little finger of his right hand severely cut in a circular saw about a fortnight ago.  It has now had to be amputated.

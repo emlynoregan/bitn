@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  F.W. Holder inserted a clause into the Waterworks Bill in the Assembly providing that local bodies leasing waterworks from the Government should have the rating powers of the Government.  This will facilitate profitable working of the undertakings by Burra and other Councils.

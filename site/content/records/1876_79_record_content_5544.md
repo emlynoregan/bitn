@@ -25,6 +25,7 @@ topics:
 - obituary
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Mary Anne, Eldest daughter of Richard & Amelia Teresa Field. Aged 21. Of bronchitis, at her residence, Monavea. 30 December 1878.  [Probably born 11 November 1857 at Kooringa, though the mother is then cited as Amelia Mary Field nee Jones.]

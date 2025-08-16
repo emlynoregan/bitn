@@ -23,6 +23,7 @@ topics:
 - missing person
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  Fears are held for the safety of Mr S. Marks, of the Hindley Street firm of M. & S. Marks.  The horse he lately rode to Kooringa, and one he led, arrived there without him, with spots of blood clearly on the saddle.  His brother left the city last night for Kooringa to ascertain his fate.

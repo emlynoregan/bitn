@@ -19,6 +19,7 @@ topics:
 - lecture
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 John Durgess is to lecture tonight in Kooringa on `Billy Bray'.

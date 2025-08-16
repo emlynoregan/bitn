@@ -22,6 +22,7 @@ topics:
 - water conservation
 - unemployment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Blocks.  We understand a letter has been sent from the Mayor to the Commissioner recommending the Baldina homestead blocks be re-advertised and the water conservation scheme there implemented as an aid to unemployment problems in the district.

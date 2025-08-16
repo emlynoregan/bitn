@@ -24,6 +24,7 @@ topics:
 - partnership
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Kitchen dissolves his partnership with Mr Jordan, trading in Kooringa as storekeepers, and commences business on his own account in the shop between Messrs Urwin & Sons & J. Snell’s in Market Square.

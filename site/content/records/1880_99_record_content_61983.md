@@ -21,6 +21,7 @@ topics:
 - visit
 - public_lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor B. Freimann will appear on Monday 1 March at the Commercial Hotel.  He is a famous medical specialist – a medical clairvoyant and medium and a professor of psychology who speaks 12 languages.  He gives advice on investment, law suits, speculations, and domestic troubles.

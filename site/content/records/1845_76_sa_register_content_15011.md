@@ -22,6 +22,7 @@ topics:
 - missions
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Sunday three special sermons were preached in the Bible Christian Chapel by Mr S. Keen of Adelaide on behalf of Home Missions and there is to be a public meeting on the same subject tonight.

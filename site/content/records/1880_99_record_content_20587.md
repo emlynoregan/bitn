@@ -21,6 +21,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway said the staff was two troopers, one foot constable and one sergeant at a cost of c. £600 p.a.  He thought a foot constable could replace the sergeant at Kooringa and the foot constable at Redruth could be dispensed with which would save c. £70 p.a.  This advice will be passed on to the Government.

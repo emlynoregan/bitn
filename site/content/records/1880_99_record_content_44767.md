@@ -23,6 +23,7 @@ topics:
 - auction
 - farm stock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bagot, Shakes & Lewis will sell all the farm stock and household effects of W.H. Pearce at the farm eight miles northwest of Burra on 16 March.

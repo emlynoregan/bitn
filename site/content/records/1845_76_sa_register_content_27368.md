@@ -23,6 +23,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 4 March 1876, page 7

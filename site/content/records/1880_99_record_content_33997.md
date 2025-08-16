@@ -20,6 +20,7 @@ topics:
 - bazaar
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Monster Bazaar in the premises lately occupied by J. & E. Hosking.

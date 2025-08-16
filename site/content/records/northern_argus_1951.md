@@ -20,6 +20,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Rosslyn Helbig, daughter of John & Rhoda Helbig, will marry

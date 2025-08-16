@@ -19,6 +19,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. for the Burra show on 26 Sept. Entrance 2/6 at 1.00 pm and 1/- at 2.00 pm.

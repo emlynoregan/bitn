@@ -18,6 +18,7 @@ topics:
 - community
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Dr Nesbitt thanked the meeting for the amicable way in which unpleasant aspects of the past year had been aired without rancour.

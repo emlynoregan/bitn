@@ -22,6 +22,7 @@ topics:
 - homing
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race from Manoora last Wednesday was officially won by E. Lewis’s blue c. Buffalo Bill at 1250½ yards/min., but it is thought that E. Crewe’s Prosperity may have been faster, though the time keeper failed to see it arrive and it was found in its loft later.

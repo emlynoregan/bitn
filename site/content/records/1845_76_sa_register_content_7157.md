@@ -19,6 +19,7 @@ topics:
 - finance
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The tables include revenue and expenditure and imports and exports.

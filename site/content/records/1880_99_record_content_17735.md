@@ -18,6 +18,7 @@ topics:
 - events
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the apparent end to the war scare with Russia.

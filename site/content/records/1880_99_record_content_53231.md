@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Concert on Thursday night at the Institute was very well presented by Mr J. A. Kennedy, headmaster.  A full report is printed.

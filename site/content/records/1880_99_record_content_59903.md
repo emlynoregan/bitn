@@ -20,6 +20,7 @@ topics:
 - community
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Christian Endeavour, 4th Anniversary was held on 30 April with a program of addresses, recitations, music, singing, convenors’ reports and refreshments.  (In the Kooringa Wesleyan Lecture Hall.)

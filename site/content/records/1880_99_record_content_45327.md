@@ -23,6 +23,7 @@ topics:
 - horticulture
 - flowers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemums.  This year at the Adelaide Show Messrs Cave and Lewis were unsuccessful with nearly all the prizes going to Sir E.T. Smith and Mr Gordon.

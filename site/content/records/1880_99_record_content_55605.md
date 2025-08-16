@@ -21,6 +21,7 @@ topics:
 - charity
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra High School presented a concert at the Institute on Monday night which included the cantata Beauty and the Beast.  Proceeds to give Christmas cheer to the children of the unemployed.  6d.  The annual school prizes were given out at the end of the concert and the prize list is printed.

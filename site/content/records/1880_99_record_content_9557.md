@@ -20,6 +20,7 @@ topics:
 - organization
 - juvenile
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The annual festival of Hope of Kooringa Tent IOR was held Wednesday in the Wesleyan Schoolroom when about 50 juvenile members sat down for a repast. There are 54 members.

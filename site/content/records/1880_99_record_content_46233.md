@@ -19,6 +19,7 @@ topics:
 - procedure
 - motion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Kitchen opposed the move and moved an amendment that the matter stand over till the end of the year.

@@ -19,6 +19,7 @@ topics:
 - labor
 - eight-hour system
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles T. Young, of Narridy, writes in a similar vein, urging the worker to fight against any move to end the eight-hour system.

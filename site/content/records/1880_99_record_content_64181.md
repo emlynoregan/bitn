@@ -21,6 +21,7 @@ topics:
 - anniversary
 - Sunday School
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School anniversary next Sunday with Rev. W.H. Rofe (Wesleyan), Rev. W.O. North and Rev. R.S. Wellington (Primitive Methodist).

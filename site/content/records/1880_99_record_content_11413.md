@@ -19,6 +19,7 @@ topics:
 - YMCA
 - local option
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 YMCA met last Friday in Parliamentary mode to debate local option.  The majority were in favour.

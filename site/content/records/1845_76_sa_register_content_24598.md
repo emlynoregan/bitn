@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  Mr Charles Wall, a brother-in-law of Mr Chewings JP of Woorkoongoroo, and well known in Burra, fell from his dray while driving between Redruth and Hampton.  He sustained severe injuries and died on Tuesday after enduring three days in great pain.  He was believed to have been riding on the rail when the vehicle went over a large stone and he was thrown off, landing on his neck.  He leaves a widow and a large family.

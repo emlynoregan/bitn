@@ -21,6 +21,7 @@ topics:
 - traffic
 - freight
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Last week the World's End Road saw: 70 drays carrying 233 tons to Kooringa, 15 drays carrying 21 tons from Kooringa & 7 drays carrying 18 tons to Redruth

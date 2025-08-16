@@ -21,6 +21,7 @@ topics:
 - water
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A group of seven waited on the Commissioner of Public Works to refute the need for an undercrossing near the Bon Accord Hotel.

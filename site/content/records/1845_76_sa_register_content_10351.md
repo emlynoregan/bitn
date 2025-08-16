@@ -27,6 +27,7 @@ topics:
 - finance
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The half-yearly meting of the Burra Company was held yesterday.   We have much pleasure in calling attention to the favourable account given of the different workings of these celebrated mines.

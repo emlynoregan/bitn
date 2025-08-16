@@ -21,6 +21,7 @@ topics:
 - competition
 - rifle
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  The VF Companies of Riverton, Wallaroo and Burra recently competed and the results were: Riverton 542, Burra 469 and Wallaroo 466.

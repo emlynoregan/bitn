@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - public_works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mayor reported that the erection of the fountain in the Avenue was going on, but not in a workmanlike way and it needed attention.

@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Richard Ward, a resident and businessman died in Redruth on Wednesday.  [Died 18 February, aged 59.]

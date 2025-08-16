@@ -20,6 +20,7 @@ topics:
 - science
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment. Mr H.A. Severn will give his second entertainment for the Committee at the Burra Institute this evening with numerous experiments. The Earth and the Moon, including photographs of the moon etc. 2/6 & 1l-. Institute members get double tickets for the price of a single.

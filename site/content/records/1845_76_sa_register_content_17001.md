@@ -25,6 +25,7 @@ topics:
 - addresses
 - transport/accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The visit of the Governor is reported in more detail, but essentially repeats the report of the previous day.  The Governor’s arrival was delayed by a wheel of the carriage coming off.  He reached the Burra Hotel a little later than 6 p.m.  The texts of the two addresses are printed.  The address from the German community (in English) was signed on behalf of their committee by William Leunig, Charles Degenhardt and F. Bock.]

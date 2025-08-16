@@ -22,6 +22,7 @@ topics:
 - appeal
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Lionel W. Stanton writes from the Parsonage, Redruth, 8 September concerning the case of William Owers.

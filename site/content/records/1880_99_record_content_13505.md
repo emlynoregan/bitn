@@ -19,6 +19,7 @@ topics:
 - environment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees have been planted in the town’s streets: 400 in tree guards and more are to go into the reserves.

@@ -18,6 +18,7 @@ topics:
 - fire
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Smoke from a large bushfire, apparently near Mt Bryan, was visible on Tuesday.

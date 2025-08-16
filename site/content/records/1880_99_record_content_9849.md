@@ -19,6 +19,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Entertainment at the Institute in aid of the Institute funds on Tuesday was only fairly attended.  The program was almost that of the Foresters’ Concert on Easter Monday.

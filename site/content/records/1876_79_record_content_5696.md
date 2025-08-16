@@ -22,6 +22,7 @@ topics:
 - school
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Miss Rankin is appointed assistant at the Burra Model School. Miss Cox is transferred to Caltowie.

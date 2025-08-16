@@ -18,6 +18,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder won the House of Assembly contest and the £1-1-0 prize in connection with the SA Rifle Assoc. matches.

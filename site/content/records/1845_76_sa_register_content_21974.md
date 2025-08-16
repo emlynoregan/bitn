@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Wesleyan Mutual Improvement Association held its annual soiree on 25 May in the Wesleyan Schoolroom.  Rev. D.S. Wylie presided.

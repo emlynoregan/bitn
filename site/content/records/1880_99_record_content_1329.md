@@ -20,6 +20,7 @@ topics:
 - public order
 - disturbance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police Inaction.  The editor asks why police took no action on Monday when within a few hundred yards of the Kooringa Police Station there was a disgraceful disturbance from a drunken man and some women, with screams and a great battering of doors and windows.

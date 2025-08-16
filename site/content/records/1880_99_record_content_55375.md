@@ -21,6 +21,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Strawberry Fete [St Mary’s] will be held at the Institute this year on 5 December.  A Punch & Judy is being imported from Adelaide.  6d & 3d.

@@ -28,6 +28,7 @@ topics:
 - waterworks
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aquarius writes a column ‘Copperopolis’ in mock Biblical style telling of the installation of Holder as Mayor and of the dealings of the Council and of the Councillors:

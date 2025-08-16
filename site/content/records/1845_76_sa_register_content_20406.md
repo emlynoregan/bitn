@@ -17,6 +17,7 @@ topics:
 - business
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The fee for Directors attendance at a meeting was reduced for one guinea to half a guinea.

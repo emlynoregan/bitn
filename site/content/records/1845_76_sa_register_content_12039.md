@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 For the last few days it has been very hot and dusty, but now it is again quite cold.

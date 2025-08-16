@@ -21,6 +21,7 @@ topics:
 - publication
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Burra Burra Mine and Smelting Works

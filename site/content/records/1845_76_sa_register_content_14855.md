@@ -26,6 +26,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Loyal Aberdeen Lodge MUIOOF was celebrated on Tuesday evening by a public dinner at the Aberdeen Hotel.  Not as many attended as were expected, but the affair went pretty well.  Dr Mayne presided.

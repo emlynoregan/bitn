@@ -21,6 +21,7 @@ topics:
 - transport
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Patent Copper Company is presently operating only five furnaces, chiefly due to the lack of pasturage making it impossible for the bullock drays to bring in wood.  Many men are unemployed in Burra as a consequence and trade there is very dull.

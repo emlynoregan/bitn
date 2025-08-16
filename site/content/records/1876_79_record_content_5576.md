@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Mr Hunn, an old Burra resident, died last Saturday. On Monday shops were partially closed.

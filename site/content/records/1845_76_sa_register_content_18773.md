@@ -28,6 +28,7 @@ topics:
 - decision
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 19 July 1865, page 4

@@ -21,6 +21,7 @@ topics:
 - council
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the controversy over who should pay for the making and maintenance of Ayers St.  The editor felt that at least some input from the other wards was appropriate as half the wear and tear comes from people outside the South Ward and the Council acknowledges this by already contributing £20 from the general fund.

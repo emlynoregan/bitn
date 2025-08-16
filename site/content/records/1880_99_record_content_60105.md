@@ -21,6 +21,7 @@ topics:
 - science
 - photography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Young Men’s Club.  Wesleyan Lecture Hall, 24 June.  Dr Brummitt will give Science Talk No. 1 on The New Photography.  Light – Photography – Röntgen’s Rays.

@@ -20,6 +20,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: Volunteer Company. All hopes for a volunteer company in Burra died last week when a proclamation in the Govt. Gazette removed Burra and Wallaroo from the list of brigades.

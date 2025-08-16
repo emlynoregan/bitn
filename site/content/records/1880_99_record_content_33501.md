@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian special services were held last Sunday and Monday.  Mrs O. Lake officiated morning and evening and Rev. T.M. Rowe (Wesleyan) in the afternoon.  Proceeds were a little over £40.

@@ -23,6 +23,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  James, eldest son of Mr James Tiver JP of Aberdeen, has died at the age of 42.  He arrived in SA on the David Malcolm in 1855.  The funeral on Sunday was one of the largest ever seen here.

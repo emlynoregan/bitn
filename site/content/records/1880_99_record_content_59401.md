@@ -22,6 +22,7 @@ topics:
 - obituary
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr M. Tier died in Adelaide on Friday last.  He weighed 22 stone

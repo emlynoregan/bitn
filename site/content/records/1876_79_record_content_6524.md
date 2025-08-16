@@ -21,6 +21,7 @@ topics:
 - sale
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kapunda. Liston, Shakes & Co.'s sale of the Kapunda Mine plant realized about £5,000.

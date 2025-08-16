@@ -18,6 +18,7 @@ topics:
 - police
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mrs Watts, who was charged with receiving stolen goods when her husband was arrested, has been discharged for want of evidence.

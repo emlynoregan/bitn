@@ -20,6 +20,7 @@ topics:
 - insolvency
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Despite the difficult trading conditions in the town there has not yet been a single case of insolvency.

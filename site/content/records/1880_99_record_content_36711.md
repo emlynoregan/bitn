@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  We understand that tenders have been let for about 400 holes for trees in Redruth Reserve and for holes to form an avenue of trees along cemetery road.  [Ayers St]

@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Barrier Trade and NSW.  Statements that the NSW Government is in favour of a line to Broken Hill [from Sydney] cannot be taken seriously when throughout NSW ‘the permanent way, rolling stock, and traffic system, are individually and collectively rotten’.

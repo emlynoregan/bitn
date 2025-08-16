@@ -19,6 +19,7 @@ topics:
 - meeting
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Agricultural Society meeting called for this afternoon in J.D. Cave's office in Kooringa.

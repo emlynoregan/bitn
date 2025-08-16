@@ -21,6 +21,7 @@ topics:
 - celebration
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Picnic’ urging that a town picnic at the Princess Royal be organised to celebrate the success of the Wednesday half-holiday movement, now of almost two years’ standing.

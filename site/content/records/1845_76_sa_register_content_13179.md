@@ -24,6 +24,7 @@ topics:
 - opinion
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Burra Elector’ writes from Kooringa 2 April re the election.

@@ -25,6 +25,7 @@ topics:
 - community
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 And Council is considering a contribution to the Ian Auhl mezzanine floor in the Community Library.

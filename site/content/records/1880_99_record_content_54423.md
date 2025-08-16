@@ -21,6 +21,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Morgan has been appointed by the District Council of Burra as Inspector under the Sparrow Destruction Act of 1889.  All occupiers are required to destroy all sparrow eggs and nests and do everything reasonable to prevent sparrows increasing in number.  Failure to do so can allow the Inspector to take necessary steps at the cost of the occupier.

@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Godden, relict of the late Edward Godden of Kooringa, died on 16 April at the residence of her son-in-law, Mr Richard Collins.  [Aged 94.]

@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - toilet
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson District Council complains that the railways refuse to erect a toilet and urinal at Daviston [Davies/Davieston] because too few passengers use the station.

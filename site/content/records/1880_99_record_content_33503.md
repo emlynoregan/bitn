@@ -21,6 +21,7 @@ topics:
 - crime
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Theft.  On Friday night last a thief stole 3/6 from the Royal Exchange Hotel and also broke into the Burra Hotel, though nothing was missed from there.  An old offender called Maroney has been taken into custody.

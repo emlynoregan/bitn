@@ -18,6 +18,7 @@ topics:
 - policy
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial in favour of banning Chinese immigration completely, though he was not in favour of unjust or discriminatory treatment of Chinese once they were admitted to the country.

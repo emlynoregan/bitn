@@ -21,6 +21,7 @@ topics:
 - school
 - discipline
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.W. Mathews writes explaining why, in very hot weather recently, he got some of the youngest children to have a sleep in his school, as they were peevish and disruptive for the rest of the school.  This has caused adverse comment (perhaps because he offered a 1d for lollies for the first to go to sleep), which under the circumstances he finds surprising.

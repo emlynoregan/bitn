@@ -20,6 +20,7 @@ topics:
 - fire
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A fire on 2 March destroyed the house and store of Albert August Frederick Müller at Hallett.  The inquest is reported in 1⅓ columns.

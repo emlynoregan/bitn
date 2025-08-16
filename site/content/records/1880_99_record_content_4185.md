@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  Richard Hill and Mary White at Kooringa, 8 May.

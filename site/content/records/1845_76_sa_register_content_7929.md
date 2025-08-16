@@ -22,6 +22,7 @@ topics:
 - mining
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Overland to the Diggings.  Harry Whittle has arranged that the stage coach the Adelaide Star will go to the Mount Alexander Diggings, drawn by bullocks and taking not more than 12 passengers.  Fares: inside £5 and outside £3.  If sufficient passengers desire it a spring cart with two horses will also be sent, fares: £3.  Thomas Ball will conduct the whole and a bullock dray will take passengers’ luggage (1 cwt outside and 1½ cwt inside passengers).  Departing the Robin Hotel, Kensington on or before 15 March.

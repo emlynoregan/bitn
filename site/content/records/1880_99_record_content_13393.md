@@ -18,6 +18,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Governor’s Speech at the opening of Parliament.  It is slated as policyless.

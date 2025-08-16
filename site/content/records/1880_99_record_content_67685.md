@@ -27,6 +27,7 @@ topics:
 - lodges
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advertisements and a useful column of local information covering Burra Markets, Municipal Officers, Banks, Postal Regulations, Courts, Train Timetables, Lodges, Cabs and District Council Officers.

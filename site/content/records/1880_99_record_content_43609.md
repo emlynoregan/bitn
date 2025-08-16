@@ -19,6 +19,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The Boxing Day tea raised £14-5-6 nett.  In the evening the band marched through the streets, after which a public meeting in the barracks crowded the hall.

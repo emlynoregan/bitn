@@ -22,6 +22,7 @@ topics:
 - transport
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Isaac Killicoat writes from Abberton Park, 19 September

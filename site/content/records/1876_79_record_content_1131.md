@@ -18,6 +18,7 @@ topics:
 - labour
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wages: Navvies on the railway promised 6/6 a day by the govt.

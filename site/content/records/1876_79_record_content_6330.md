@@ -22,6 +22,7 @@ topics:
 - bridge
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The bridge cost £2,500 and consists of two 60' spans with a centre pier of two cast iron cylinders which are sunk 12' into the bed of the creek. Mr Purchas has been charge of the erection and Mr Davis of Adelaide was the contractor for the ironwork.

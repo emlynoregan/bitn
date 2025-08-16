@@ -35,6 +35,7 @@ topics:
 - taxation
 - Sunday closing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Rees’s Meeting at the Institute, 4 April.

@@ -21,6 +21,7 @@ topics:
 - health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William McWaters, gored by a bull at Baldina on Friday is progressing favourably in the Burra Hospital.

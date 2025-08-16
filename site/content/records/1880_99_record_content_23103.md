@@ -19,6 +19,7 @@ topics:
 - rates
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A deputation reported the resolutions of the public meeting on the Inspectorship and other issues.  The Mayor said the issue of the Inspectorship and of lower rates would be considered, but that the latter question was hard to see being enacted considering the overdraft.

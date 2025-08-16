@@ -21,6 +21,7 @@ topics:
 - sanitation
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last year typhoid was prevalent and several deaths resulted.  The Local Board of Health does good work, but we must all be vigilant.  Arrangements have been made to improve scavenging in the town.  Each house will be visited twice a month.

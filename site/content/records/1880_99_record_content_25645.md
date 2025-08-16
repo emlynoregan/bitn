@@ -18,6 +18,7 @@ topics:
 - court
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This is a regular feature of the court reports and some names recur quite often.]

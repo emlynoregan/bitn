@@ -21,6 +21,7 @@ topics:
 - anniversary
 - preaching
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church Anniversary next Sunday when Rev. J. Hopkins and Rev. R.S. Casely will preach.

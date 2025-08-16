@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rodda’s Patent Ore Reducing Process

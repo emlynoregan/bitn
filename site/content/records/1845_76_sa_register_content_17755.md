@@ -21,6 +21,7 @@ topics:
 - business
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Storekeepers are wondering if the Government will be as liberal in their terms to the squatters in renewing leases as the SA Mining Association are with their tenants.

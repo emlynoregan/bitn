@@ -23,6 +23,7 @@ topics:
 - community
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church Anniversary, Sunday 25 May.  Rev. S. Knight, Rev. George E. Rowe & Rev. Ralph Brown.  Tea meeting 26 May.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ministering Children’s League Social & Promenade Concert in the Wesleyan Lecture Hall last Friday drew only a moderate attendance in poor weather.  £6 was raised.

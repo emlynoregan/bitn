@@ -20,6 +20,7 @@ topics:
 - event
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday School Concert at the Wesleyan Lecture Hall on 22 August.  1/- & 6d.

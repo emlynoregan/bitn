@@ -23,6 +23,7 @@ topics:
 - election
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society met last evening and ends the year 9/3 in credit.  Election: -

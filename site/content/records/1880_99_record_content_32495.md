@@ -21,6 +21,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Dempsey, Wilkinson & Sandland advise of the sale of ornamental and useful Japanese goods in the Institute Hall tomorrow afternoon.

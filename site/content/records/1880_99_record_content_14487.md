@@ -28,6 +28,7 @@ topics:
 - mining
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the scurvy way in which the Council treated the Mayor’s request for some trees.  The permanent benefit to the town was surely worth a brief debt of perhaps £2-£3 for each ward.

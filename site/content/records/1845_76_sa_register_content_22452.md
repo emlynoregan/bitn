@@ -21,6 +21,7 @@ topics:
 - public works
 - water supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A deputation met with the Commissioner of Public Works on Tuesday 10 November to protest the proposal to move the station from Wasleys to Forresters.  Wasleys was served by superior roads and served a larger population.  The Commissioner thought he would be able to comply with the request.  The proposed change had arisen over the water supply.  Mr H.C. Mais, the Engineer-in-Chief, said it was probable the station would be at its original site at Wasleys and the water supply would be at a distance of about a mile at Forresters.

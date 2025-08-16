@@ -22,6 +22,7 @@ topics:
 - dispute
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 D. Rayfield & G.R. O’Connor wrote separate letters challenging the previous report of the meeting relating to Market Square.  In lengthy arguments their allegations are in essence:

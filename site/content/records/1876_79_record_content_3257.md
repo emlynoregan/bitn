@@ -21,6 +21,7 @@ topics:
 - fees
 - photography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp set a charge of £1-10-0 for erecting of a tent in Market Square by Mr Thwaites for photographic purposes.

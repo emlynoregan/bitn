@@ -21,6 +21,7 @@ topics:
 - real estate
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston Shakes & Co. are selling, in the assigned estate of F.E. Bromley, the lease on allotments 285, 293 & 358 in Kooringa on which are erected 3 cottages.

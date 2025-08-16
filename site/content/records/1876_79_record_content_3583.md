@@ -19,6 +19,7 @@ topics:
 - safety
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Footbridge near the Miners' Arms gets another paragraph. Its dangerous state is even more significant now that the school is open.

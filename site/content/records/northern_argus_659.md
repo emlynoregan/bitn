@@ -24,6 +24,7 @@ topics:
 - burial
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Mr Allan Edwards, formerly of Mt Bryan, died in Adelaide last week.

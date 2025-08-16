@@ -18,6 +18,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  More on the activities at Clare where the correspondent says they are attracting two groups: followers of Wesley and Larrikins.

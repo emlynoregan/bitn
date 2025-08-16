@@ -21,6 +21,7 @@ topics:
 - transport
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Bolt.  Dr Mayne was visiting a patient last Monday in a light buggy, which was left in the care of a small boy, when the horse took fright and bolted off at a frightful pace, around a corner an up by Paxton Square.  The boy was here either jerked out of the vehicle or jumped.  The horse turned off the road behind the United Presbyterian Church and passed over several gutters, breaking the breaking the shafts and bending the axle.  The horse was then free to run about the town without restraint.  Fortunately the boy was not hurt and nor was anybody else.  The vehicle sustained surprisingly little damage for so light a buggy.

@@ -20,6 +20,7 @@ topics:
 - local government
 - ratepayers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson amended it to stand over for a fortnight.  Cr Tiver was unprepared to vote.  Cr Sampson thought the promises to ratepayers had not been fulfilled.  Amendment carried.

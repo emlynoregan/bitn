@@ -17,6 +17,7 @@ topics:
 - economy
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘In all respects, commercially, socially and intellectually, we believe we are entering upon a prosperous new year.’

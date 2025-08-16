@@ -45,6 +45,7 @@ topics:
 - production
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Another yard some 203 acres in size is walled in stone and contains the timber used in the Mine and copper received from the Smelting Works.

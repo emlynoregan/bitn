@@ -20,6 +20,7 @@ topics:
 - health
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Harris, who is 58 and has resided in Burra for 39 years, is very seriously ill following an apoplectic stroke about seven weeks ago.

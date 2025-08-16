@@ -17,6 +17,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain in the last few days has brought the year’s total to 13.53” so far, compared with 11.625” to the same time last year.

@@ -24,6 +24,7 @@ topics:
 - exchange teachers
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The two American exchange teachers are leaving at the end of the year and so is Lek, our American Field Scholar from Thailand.  Other departures will be the Fidock family, who are moving to Adelaide and Bev & Jim Low, who are moving to Cummins.

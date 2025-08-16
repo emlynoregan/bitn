@@ -23,6 +23,7 @@ topics:
 - public health
 - drainage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Creek.  A smelly stagnant pool lying opposite the properties of Dr Brummitt, W. Pearce, J.F. Moore & E.C. Lockyer has been drained into the main creek and the disagreeable matter covered with sand etc.

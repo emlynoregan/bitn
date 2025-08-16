@@ -25,6 +25,7 @@ topics:
 - land board
 - allocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Land Board met at Burra last week to consider applicants for 43 blocks in the Hundreds of Hanson, Ayers, Apoinga and Bright.  There were 270 applicants.  Preference was given to those with large families and those who had no land or only bad land beyond Goyder’s Line - or that was the theory, but the paper’s reporter believed that all too often they ‘gave people land who had many acres already’.

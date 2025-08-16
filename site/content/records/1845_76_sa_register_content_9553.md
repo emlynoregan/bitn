@@ -23,6 +23,7 @@ topics:
 - gaol
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called by the Office of Public Works, Adelaide for the building of a Gaol at Redruth.  Plans and specification may be seen at this office and at the present Gaol at Redruth.

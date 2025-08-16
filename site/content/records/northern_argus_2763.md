@@ -18,6 +18,7 @@ topics:
 - education
 - exchange
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Three American Field Scholarship Students visited BCS last Friday.

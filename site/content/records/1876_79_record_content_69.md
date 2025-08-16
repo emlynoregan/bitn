@@ -22,6 +22,7 @@ topics:
 - stores
 - railway
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 James Tiver	Railway Stores, Aberdeen.  Draper, Grocer, Ironmongery, Tinware, Crockery, Ropes, etc.  Branch store near the Railway Goods Shed, Bran, Chaff, Flour & Pollard

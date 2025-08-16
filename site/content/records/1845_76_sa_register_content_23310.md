@@ -19,6 +19,7 @@ topics:
 - entertainment
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An Entertainment.  Mr Stanton and musical amateurs presented a pleasing entertainment at the Burra Hotel on Tuesday evening.  [The program is printed.]  A collection was made to buy firewood for the poor.

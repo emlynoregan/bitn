@@ -20,6 +20,7 @@ topics:
 - cricket
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from the Secretary of the Young Australians Cricket Club challenging some of the figures cited at the Burra Cricket Club AGM.

@@ -19,6 +19,7 @@ topics:
 - medical
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Dr J.I. Sangster may be consulted at the surgery late the residence of Dr W.H. Dashwood.

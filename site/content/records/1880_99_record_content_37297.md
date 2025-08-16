@@ -20,6 +20,7 @@ topics:
 - building
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Comment later in the paper: with over £200 in the building fund why is the Institute afraid of altering the present disgraceful state of the performance accommodation?

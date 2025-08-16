@@ -18,6 +18,7 @@ topics:
 - horticulture
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 1 double zonale	1st 	3 annuals	1st

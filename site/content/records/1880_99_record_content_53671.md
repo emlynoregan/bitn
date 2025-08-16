@@ -22,6 +22,7 @@ topics:
 - obituary
 - residence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Elizabeth Lawler, relict of Edward Lawler died at Aberdeen, aged 78.  A resident for over 40 years.  [Died 1 May.]

@@ -19,6 +19,7 @@ topics:
 - lottery
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bath’s Grand Lottery was drawn in the large room of the Burra Hotel on 5 May, when 40 prizes were handed over to the fortunate winners.  About 150 people attended.  Mr Kingston attended for a short time and was enthusiastically cheered.

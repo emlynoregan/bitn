@@ -18,6 +18,7 @@ topics:
 - social change
 - opinions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Women’s Roles.  A reprinted article from The World predicted that the coming trend of women pushing their ways into the professions would surely mean that ‘they will take to the solace of smoking.’  Overall the writer seemed quite complacent about the coming changes.

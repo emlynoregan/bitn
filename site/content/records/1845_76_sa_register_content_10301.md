@@ -23,6 +23,7 @@ topics:
 - work stoppage
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Operations at the Smelting Works at Kooringa have recently been suspended due to a misunderstanding between the Overseer and the workmen.  Our latest advice is that the men are gradually returning to work.

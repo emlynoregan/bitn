@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  One of these deaths was Mrs Treglown aged about 24 and but newly arrived in the colony.

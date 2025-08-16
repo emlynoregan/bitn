@@ -17,6 +17,7 @@ topics:
 - local_news
 - publishing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 All in all there is a good coverage of local news in considerable detail.

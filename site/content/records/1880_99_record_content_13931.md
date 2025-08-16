@@ -20,6 +20,7 @@ topics:
 - fundraising
 - Sunday school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs John Drew was given a farewell at the Kooringa Wesleyan Church.  The public meeting afterwards was in aid of Sunday school funds.

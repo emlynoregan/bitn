@@ -20,6 +20,7 @@ topics:
 - waterworks
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Littlejohn, the Waterworks engineer applied for an increase in salary.  Debate held over.

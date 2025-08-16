@@ -18,6 +18,7 @@ topics:
 - community event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Stony Gap Annual Tea Meeting on Friday.

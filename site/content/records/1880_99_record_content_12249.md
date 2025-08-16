@@ -18,6 +18,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader.  The Burra Electoral Committee calls for candidates to let it be known where they stand on the issues of the day.

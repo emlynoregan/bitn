@@ -20,6 +20,7 @@ topics:
 - administration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Settlement of the assessment debacle with delegates agreeing to pay the rate to count for the calendar year 1877.Calls for the planting of trees.

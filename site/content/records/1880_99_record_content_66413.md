@@ -21,6 +21,7 @@ topics:
 - smelting
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  A report in the Register by Mr Thomas FCS casts doubts on the profitability of treating the Burra slagheap, but it has been assayed and duly tested.

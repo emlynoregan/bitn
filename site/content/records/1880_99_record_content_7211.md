@@ -23,6 +23,7 @@ topics:
 - donation
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P.L. Killicoat has undertaken to obtain 100 sugar gums from the Government Reserves for the Corporation, free of cost.  John Sampson has presented 17 trees and Mr Lewis has filled in places near his home where street trees have died.

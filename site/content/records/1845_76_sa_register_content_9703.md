@@ -26,6 +26,7 @@ topics:
 - celebration
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Wesleyan Sunday School celebrated its anniversary last Sunday.  Sermons were preached by Mr Wright and in the evening by Mr Jolly of Mintaro.  In the afternoon addresses were given by Rev. M. Wilson and Mr Jolly of Mt Barker. [Sic]  On Monday at 2 o’clock the children (about 40) were led in procession through the town and then regaled with tea and cakes.  There was a public tea-meeting at 5 p.m. at which about 250 sat down.  Mr Robinson presided over the public meeting.  Proceeds from the Anniversary amounted to £29.

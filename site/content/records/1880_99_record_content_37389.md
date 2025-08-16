@@ -24,6 +24,7 @@ topics:
 - government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Federal Council delegates will be the Premier, Dr Cockburn; The Minister of Education, Hon. J.H. Gordon; Sir J.C. Bray; Sir J.W. Downer; Hon. R.C. Baker; Hon. T. Playford; Hon, C.C. Kingston.

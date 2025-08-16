@@ -21,6 +21,7 @@ topics:
 - business
 - boot shop
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Williams	Cash Boot Shop, Market Square, next to the Burra Hotel

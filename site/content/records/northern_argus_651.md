@@ -20,6 +20,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 President of the Burra Hospital auxiliary until it went into temporary recess in 1975.

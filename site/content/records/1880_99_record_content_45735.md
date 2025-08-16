@@ -21,6 +21,7 @@ topics:
 - service
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Services by Rev. W.H. Evans.  Service of Song was Jessica’s First Prayer under the leadership of Mr R. Birt with Rev. H. Parkinson giving the connective readings.

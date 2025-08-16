@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - public services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. Letter to Ed. querying why the Aberdeen standpipe is kept locked when parties are waiting for water. Water carts are in a fix since they have no appliance at the Bon Accord to load and the trough at the railway gate is dry.

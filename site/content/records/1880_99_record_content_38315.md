@@ -24,6 +24,7 @@ topics:
 - sanitation
 - dairy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Board of Health Inspector visited and was generally satisfied, though concerned at the continued use of non-watertight cesspits.  Fifteen of them are in Paxton Square.  On Mitchell Flat where domestic water is obtained from wells all cesspits are now watertight.  Around Burra there are 53 cows yielding milk, of which 70 gallons is sent daily to Broken Hill.  Some increase in the standard of cleanliness is desirable.  One dirty dairy at Firewood Creek needs attention.  Slaughterhouses are still unsatisfactory.  The town itself is satisfactory, but some close parts of the district need attention.

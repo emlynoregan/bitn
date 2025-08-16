@@ -18,6 +18,7 @@ topics:
 - timing
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The train was actually 1 hour 40 minutes late.

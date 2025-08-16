@@ -20,6 +20,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School: An unclear reference to the school in the council report seems to suggest that the public school was being held in the Bible Christian Schoolroom.

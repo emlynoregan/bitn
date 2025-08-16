@@ -28,6 +28,7 @@ topics:
 - clothing
 - terminology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Some of these terms may be unfamiliar:

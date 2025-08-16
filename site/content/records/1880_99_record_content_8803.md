@@ -18,6 +18,7 @@ topics:
 - literature
 - adventure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3 Mar.	XVI-XVII	Faint Heart Ne’er Won 	X		X	X		X	X	X		Pearl Diving Among Devil Fish

@@ -20,6 +20,7 @@ topics:
 - resignation
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. Mr Holder tendered his resignation as vice-president on account of lack of time to discharge his duties. He exhibited some lovely slides with a binocular microscope.

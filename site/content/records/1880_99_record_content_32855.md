@@ -18,6 +18,7 @@ topics:
 - vandalism
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  One of the largest cedar trees in Chapel St has been ring-barked.

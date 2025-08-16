@@ -18,6 +18,7 @@ topics:
 - housing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For more Working Men’s Blocks to be laid out.

@@ -20,6 +20,7 @@ topics:
 - public safety
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stray Cattle.  We protest the way in which stray cattle are allowed to injure street trees which have cost so much to plant.  Dozens have also been killed by children.

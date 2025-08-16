@@ -20,6 +20,7 @@ topics:
 - law
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr D.S. Packard & F.J. Packard, legal practitioners have entered into partnership.

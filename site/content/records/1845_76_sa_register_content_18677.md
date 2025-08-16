@@ -26,6 +26,7 @@ topics:
 - community
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Saddleworth News, 21 June

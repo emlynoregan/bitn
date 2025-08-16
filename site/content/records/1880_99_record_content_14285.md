@@ -20,6 +20,7 @@ topics:
 - public disturbance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Further reports from Clare where eggs continue to be thrown.

@@ -19,6 +19,7 @@ topics:
 - regulation
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mineral Claims.  New regulations will see that blocks sought by more than one person will be auctioned.

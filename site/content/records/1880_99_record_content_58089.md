@@ -18,6 +18,7 @@ topics:
 - meeting
 - fencing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vermin Proof District Meeting.  There is a further report on the meeting covered in the 2nd leader.

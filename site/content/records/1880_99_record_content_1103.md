@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Watkins, of Hampton, fell into an old quarry at Redruth last Thursday and broke her leg.

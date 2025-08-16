@@ -19,6 +19,7 @@ topics:
 - company
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI inspection will be on 24 August.  The company has greatly improved over the last year.

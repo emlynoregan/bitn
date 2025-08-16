@@ -22,6 +22,7 @@ topics:
 - race
 - pigeons
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race for Mr Welch’s trophy from Paratoo on 28 August encountered strong head winds.  1st home were J.A. Pearce’s birds, covering the 73 miles 125 yds in 169 mins.

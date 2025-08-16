@@ -19,6 +19,7 @@ topics:
 - event
 - literary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a social last Friday to close their present session.  The attendance was smaller than expected but the evening was very successful.  The report of the year with toast and speeches extends for 1¾ columns.

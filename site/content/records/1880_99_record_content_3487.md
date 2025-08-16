@@ -19,6 +19,7 @@ topics:
 - wages
 - union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘I am a Working Man’ claiming that as one of the millers is about to reduce his men’s wages and is trying to get others to do the same, it is time the men also got united.

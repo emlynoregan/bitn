@@ -22,6 +22,7 @@ topics:
 - employment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 In contrast to the Burra Mine the Yorke's Peninsula Mining Co. reported good profits and was employing 1651 people - 942 miners, 87 mechanics, 354 labourers, 247 boys and 21 officers.

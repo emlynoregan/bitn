@@ -20,6 +20,7 @@ topics:
 - advertisement
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alexander Harris	Steam Chaff Works and Cut Wood, Kingston St

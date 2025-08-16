@@ -25,6 +25,7 @@ topics:
 - service
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Frequent Traveller’ writes from Aberdeen on 1 July, complaining about the Northern Mail Service.

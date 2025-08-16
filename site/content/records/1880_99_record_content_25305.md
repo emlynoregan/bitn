@@ -25,6 +25,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Grand Entertainment, at the Institute, 4 May, in aid of the poor of Burra.  Under the patronage of the Mayor, the A.O. of Foresters, the I.O. of Rechabites and Leading Residents of the Town.  The VF Military Band have also offered their services.  The first half will end with the farce, Up a Tree and the second half with the farce, The Mischievous Nigger’.  2/- & 1/-

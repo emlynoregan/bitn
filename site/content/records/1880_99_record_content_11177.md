@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Primitive Methodist Church, Redruth, special effort on 11 November with a tea meeting on 14 November with a sale of gifts.

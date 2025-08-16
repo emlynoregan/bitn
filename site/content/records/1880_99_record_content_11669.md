@@ -18,6 +18,7 @@ topics:
 - poetry
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 Jul.	IV (End), & Evangeline,		X	X		X	X	X	X				A Fair Enthusiast

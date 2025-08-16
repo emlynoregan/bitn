@@ -21,6 +21,7 @@ topics:
 - legal
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Commercial Hotel.  Under distraint for rent, J. Sampson Jun. is instructed to sell the whole of the stock-in-trade, comprising household furniture and effects of the Commercial Hotel, Kooringa, at 11 o’clock 30 & 31 July 1886.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Northern Extension Railway.  The permanent way has now been laid to the terminus and an engine and train have run the whole distance.  Residents of Kooringa hope the Governor may be able to open the line on 1 August.

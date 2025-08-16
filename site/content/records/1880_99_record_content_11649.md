@@ -18,6 +18,7 @@ topics:
 - serial
 - short story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 25 May	A Stranded Ship, by	Napoleon’s Three Warnings	X	X		X	X	X	X

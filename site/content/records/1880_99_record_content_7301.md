@@ -18,6 +18,7 @@ topics:
 - events
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Matinee Saturday at the Institute & Friday & Saturday Nights, 7 & 8 July.

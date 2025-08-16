@@ -20,6 +20,7 @@ topics:
 - racing
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  Out-of-town reports cover the Melbourne Spring Racing Carnival and the Australian cricketers in the UK.

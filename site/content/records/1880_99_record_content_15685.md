@@ -19,6 +19,7 @@ topics:
 - economy
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the need for SA to diversify its production.  There is a good harvest, but with wheat prices low the farmers will still not get good returns.  Suggestions include olives and white mulberries.

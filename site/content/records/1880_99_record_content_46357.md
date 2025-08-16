@@ -20,6 +20,7 @@ topics:
 - economy
 - claims
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mintaro Goldfields have been opened to the public.  Those who have been there for twelve months have found it paid quite well.  So far only surface gold has been taken.  Already 30-40 claims have been taken out and several old Burra hands are at work.

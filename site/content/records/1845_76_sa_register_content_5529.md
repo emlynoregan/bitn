@@ -19,6 +19,7 @@ topics:
 - race
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kapunda Races.  A two day meeting on the 26 & 27 December 1850 is reported.

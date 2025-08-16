@@ -20,6 +20,7 @@ topics:
 - commerce
 - opening hours
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Working Conditions. Storekeepers meeting at Drew's office resolved to close at 6 PM daily except Saturday when they would close at 8 PM in winter and 9 PM in summer.

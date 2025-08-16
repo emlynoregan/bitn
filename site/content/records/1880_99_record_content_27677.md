@@ -39,6 +39,7 @@ topics:
 - emergency
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the fire at Opie’s Hotel.  F.W. Holder JP as coroner and William Bentley as foreman of the jury.

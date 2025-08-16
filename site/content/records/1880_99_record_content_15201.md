@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary, 9 & 10 November.  Rev. G.E. Rowe preached in the morning to a fair audience.  The service of song in the afternoon was A Child of Jesus.  Rev. J.R. Bradbury preached in the evening to a crowded congregation.  Proceeds c. £24.

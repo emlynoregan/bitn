@@ -21,6 +21,7 @@ topics:
 - inspection
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF was inspected by Gen. Downes and Capt. De Burgh.  There were 36 on parade in good weather.  Several movements were executed fairly well.  On the whole the General was pleased with the improvement over last year both in drill and general appearance.

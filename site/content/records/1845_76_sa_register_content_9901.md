@@ -26,6 +26,7 @@ topics:
 - animals
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Goodfellow recalled Dr Carmichael returning from Kapunda, having gone there to see about his horses.  Goodfellow had taken a note from Mayne to Carmichael in consequence of the spread of the story.  Carmichael came over to Mayne’s at once and said there was no foundation for the report.  He said that he had not said anything about it to the Landlord of the Sir John Franklin in Kapunda.  Goodfellow swore that on both the 20 and 21 February he and Dr Mayne were out looking for a mare between 10 a.m. and 4 p.m.  Goodfellow was Dr Mayne’s brother-in-law and he said he had been placed outside to hear what had been said [between Carmichael and Mayne].

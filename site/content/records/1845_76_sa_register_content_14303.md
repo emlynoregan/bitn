@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Sunday last Mr Fulford began his ministry at St Mary’s Church.  There was a very full attendance in the morning and a more moderate number in the evening.

@@ -20,6 +20,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes commenting that though some men have been employed in Burra ballasting, they are now out of work.  But surely they could be employed longer as ballast metal is surely needed and employment till the start of the shearing season is sorely needed.

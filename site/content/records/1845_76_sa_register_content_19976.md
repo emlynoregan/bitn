@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Since Wednesday morning we have had 24 hours of steady gentle rain – most unusual for this time of year.

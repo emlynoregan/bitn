@@ -21,6 +21,7 @@ topics:
 - theft
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Patrick O’Connor, aged 16, was charged with entering Philip Lane’s shop on 7 May and stealing a breach-loading gun and two watches.  Sentenced to six months, but sentence suspended on payment of a £20 bond and reporting to L-C Thomas every three months.

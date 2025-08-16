@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Cables.  The two cables from Darwin to Europe are broken: one 100 miles out and the other 600 miles out.  This has provoked fears of a military cause for the disruption.  Victoria has responded by sending a gunboat to patrol outside the heads [of Pt Philip] and by getting its fighting forces into trim.

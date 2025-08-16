@@ -19,6 +19,7 @@ topics:
 - service
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Home Mission services were held this week and were well attended.  Rev. S. Knight preached.

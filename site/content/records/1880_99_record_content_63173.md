@@ -24,6 +24,7 @@ topics:
 - amalgamation
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa, Clare & Melrose Breweries have amalgamated.  The three businesses have been secured for c. £62,000 and the company will comprise 37,500 shares of £2 each.

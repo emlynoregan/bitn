@@ -25,6 +25,7 @@ topics:
 - law reform
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An Election Meeting was held on Saturday 4 September to hear the political views of Mr McEllister.  The meeting had not been widely advertised and it was 8 p.m. before about 40 people assembled and proceedings could begin.  Mr G. Leon was elected to the chair in the absence of any person who had been long in the town.

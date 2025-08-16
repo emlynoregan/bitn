@@ -22,6 +22,7 @@ topics:
 - lighting
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan of Argent St Broken Hill have installed gas lighting in the Broken Hill Wesleyan Church.  A twenty-light star is in the centre of the building, sides and rear are illuminated by eight-light stars and there are six-light stars in the choir gallery.

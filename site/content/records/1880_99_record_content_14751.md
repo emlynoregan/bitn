@@ -20,6 +20,7 @@ topics:
 - guarantors
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Joubert, of exhibition fame, proposes a number of gentlemen become guarantors of an exhibition in 1887 to replace the one projected by the late Government and dropped by the present one.  He is prepared to be one such.

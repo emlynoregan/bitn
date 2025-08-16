@@ -19,6 +19,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr P. Murphy was elected sexton and gardener of the cemetery.

@@ -22,6 +22,7 @@ topics:
 - community
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.S. Casely was given a purse of 120 sovereigns at the Draper Memorial Church in Adelaide before his departure for England.  He is expected to return in early April 1882.

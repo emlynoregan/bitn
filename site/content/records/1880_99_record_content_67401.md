@@ -21,6 +21,7 @@ topics:
 - agriculture
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are invading occupied land to the east of Burra from unoccupied Crown Land, in their thousands.  Farmers are easily destroying 150 to 200 a day.

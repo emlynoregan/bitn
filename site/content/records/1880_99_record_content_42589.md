@@ -19,6 +19,7 @@ topics:
 - construction
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for the removal of the old wall and its relocation at the new southern boundary of the cemetery.

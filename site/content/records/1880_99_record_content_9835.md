@@ -18,6 +18,7 @@ topics:
 - community
 - religious
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope meeting on Tuesday 10 April was very successful.  This Band is in a very flourishing state.

@@ -20,6 +20,7 @@ topics:
 - pest control
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Six gentlemen went out to a shooting party on Princess Royal as guests of Mr A. McCulloch.  After a substantial repast they set out for about five miles and returned by another route.  By about 5 p.m. they had accounted for 238 rabbits.  In the past few months Mr McCulloch has been doing extensive work with phosphorised pollard and ploughing up burrows.

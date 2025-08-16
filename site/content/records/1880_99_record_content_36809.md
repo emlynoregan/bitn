@@ -21,6 +21,7 @@ topics:
 - environment
 - amenities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  There is a nice flat needing planting near the remains of the Jubilee Foot Bridge.  ‘Bye the bye, there is a tale to unfold in reference to that bridge, but I do not feel inclined for that now.’

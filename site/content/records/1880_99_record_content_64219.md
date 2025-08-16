@@ -21,6 +21,7 @@ topics:
 - departure
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Departures.  Two old Burraites have left the town: J. Gubbins has gone to WA and C.W. Walker for an undisclosed destination.

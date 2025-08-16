@@ -20,6 +20,7 @@ topics:
 - market
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stockyards.  ‘We have at the north end of the town the largest stock market in the colony’ and ‘the largest and most substantial cattle and sheep yards that are to be found outside of Adelaide.’

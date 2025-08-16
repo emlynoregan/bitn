@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Thomas John Bath, eldest son of Thomas & Sarah Bath, died at Kooringa 17 January 1870 aged 4 years 6 months.  [Born 1 July 1865 Kooringa.]

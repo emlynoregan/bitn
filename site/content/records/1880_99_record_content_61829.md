@@ -27,6 +27,7 @@ topics:
 - work
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Fogarty [who died 10 January] has worked as a blacksmith and wheelwright at Messrs Statton & Henderson of Kooringa and was well and favourably known in the neighbourhood.  After completing his apprenticeship he worked elsewhere in Burra before going to Jamestown and then Terowie where he married Miss Putt and had six children, of whom the eldest is now 14.  ‘Little Jack’ (9) is at present in the Burra Hospital with an affection of the eyes.

@@ -18,6 +18,7 @@ topics:
 - society
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 And women who condemn ballet dancers for stripping their lower limbs, but themselves ‘strip the other end to an extent which makes the masculine mind wonder how on earth it keeps its dress on’.

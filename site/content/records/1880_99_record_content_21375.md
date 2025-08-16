@@ -21,6 +21,7 @@ topics:
 - souvenir
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Bentley, local photographer, has a cabinet portrait of Rev. J. Leggoe with Ratu Bua, the Fijian student who visited recently: it makes an interesting souvenir.

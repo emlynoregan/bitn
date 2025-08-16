@@ -20,6 +20,7 @@ topics:
 - suffrage
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adult Suffrage has been opposed by Hon. James Martin and the editor says the comment that ‘the time was not ripe yet’ was ‘quite right’.

@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Kooringa Wesleyan Sunday School picnic at Princess Royal with sports and refreshments 13an. Coaches will run all day.

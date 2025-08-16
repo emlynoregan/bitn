@@ -18,6 +18,7 @@ topics:
 - taxation
 - quote
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘If one person is doing more business than another it is not right that the man doing the most should be taxed higher than the other.’

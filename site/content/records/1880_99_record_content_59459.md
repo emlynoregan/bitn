@@ -43,6 +43,7 @@ topics:
 - entertainment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Third Annual Military Sports for the Burra Military Company were held in Mr Austin’s paddock on Wednesday in excellent weather.  Businesses had a half-holiday from 12 noon and at 12.30 p.m. a procession of horsemen headed by the Burra Brass Band left Market Square for the grounds.  As soon as they arrived The Best Military Section was contested and won by Cpl Gillett’s Section.

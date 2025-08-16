@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  On Monday 26 December an inquest was held at Cross-Roads Inn before Mr J. Young JP, into the death of James Wilson.  The deceased had been drinking and fell backwards over the step onto his head and died almost instantly.  The verdict was accidental death.  The deceased was known in the district as Old Jamie.

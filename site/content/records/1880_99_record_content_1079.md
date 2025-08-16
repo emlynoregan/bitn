@@ -19,6 +19,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Governor’s speech on the opening of the new session of SA Parliament is reported in 1¾ columns.

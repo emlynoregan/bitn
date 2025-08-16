@@ -18,6 +18,7 @@ topics:
 - membership
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The number of subscribers has fallen from 81 to 73.

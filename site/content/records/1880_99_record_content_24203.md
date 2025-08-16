@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Primitive Methodist Sunday School anniversary on 26 & 27 December drew large congregations.

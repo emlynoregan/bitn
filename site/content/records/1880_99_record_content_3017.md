@@ -21,6 +21,7 @@ topics:
 - food
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  N. Lihou of Burra and Terowie, makers of syrups, cordials, ærated waters, ginger beer, lemonade etc.

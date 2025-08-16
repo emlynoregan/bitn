@@ -19,6 +19,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Selwyn is expected to pass through on his way north.  He may find some gold, but no coal.

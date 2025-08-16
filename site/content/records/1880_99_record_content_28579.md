@@ -20,6 +20,7 @@ topics:
 - crime
 - embezzlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It is reported that Mr Bartle, late Waterworks Engineer was sentenced to six months for embezzlement.

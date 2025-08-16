@@ -19,6 +19,7 @@ topics:
 - business
 - trades
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C. & A. Fuss	Carpenters, Builders, etc., Aberdeen

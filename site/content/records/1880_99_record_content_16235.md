@@ -21,6 +21,7 @@ topics:
 - shipwreck
 - survival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Mignonette Case in which Dudley & Stephens were shipwrecked with a young lad called Parker and they ate him in order to survive themselves.

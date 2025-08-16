@@ -22,6 +22,7 @@ topics:
 - church
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fresh tenders called for the erection of a presbytery at St Joseph’s Church, Burra.  George McLagan, Architect.

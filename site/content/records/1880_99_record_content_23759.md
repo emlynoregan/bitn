@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to Mrs G. Anderson on 7 November, a daughter.  [Marjorie Myrtle Anderson]

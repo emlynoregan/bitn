@@ -22,6 +22,7 @@ topics:
 - preaching
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Baeyertz preached last Sunday to crowded congregations and will preach again next Sunday.  On Wednesday she took a large group of children from the Burra School to the Bible Christian church for a scripture address after school.

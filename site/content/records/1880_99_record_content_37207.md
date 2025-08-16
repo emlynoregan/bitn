@@ -18,6 +18,7 @@ topics:
 - workers
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Labour Troubles - generally in favour of improved conditions for workers.

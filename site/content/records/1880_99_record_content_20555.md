@@ -20,6 +20,7 @@ topics:
 - death
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Fred Barnes of Suffolk, England, died on 6 December in the Burra hospital, aged 55.  A colonist of 37 years.

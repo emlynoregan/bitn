@@ -23,6 +23,7 @@ topics:
 - engine
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association held its AGM yesterday at its Adelaide Office.  The Directors report that the Victorian Gold discoveries had induced two thirds of their miners to leave.  Nevertheless 5,709 tons of ore had been raised in the past six months, equal to 11,418 tons in a full year.  The average profit is stated to be £5-2-1 per ton, so that the present and prospective profit for the year is £58,000.  The return of so many of the miners from Victoria and their settling down at Burra is doubly satisfactory and vouches for the goodness of the employment.  The Copper Company has issued assurances that it has a stock of fuel and other appliances sufficient to guarantee continued operations through the winter.

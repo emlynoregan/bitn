@@ -21,6 +21,7 @@ topics:
 - retail
 - drapery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra Stores.  M. & S. Marks than inhabitants of Cooringa [sic] for previous patronage and notify that they have received large parcels of goods by all the late arrivals and have replenished their extensive assortment of drapery, groceries, ironmongery, fruits etc. and have a general assortment of crockery.

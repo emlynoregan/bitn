@@ -21,6 +21,7 @@ topics:
 - business
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks supported Cr Watt [both clearly afraid the fee would deter auctioneers from continuing in the town.]

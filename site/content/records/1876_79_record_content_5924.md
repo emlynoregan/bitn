@@ -19,6 +19,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. Burra to play Kapunda at Burra on 1 March.

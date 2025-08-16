@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Notice.  Burra Burra DC gives notice of a proposal to close and sell part of Ursula Street.  The Council has received this proposal and calls for persons wishing to make representations concerning the proposal to do so no later than 1 May.

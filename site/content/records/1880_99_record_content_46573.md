@@ -25,6 +25,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Clara Alice Jackson, daughter of Mortimer Theophilus Jackson, boundary rider, drowned about 11.30 a.m. on 28 August.  Aged 2½.  The father works for Mr Gebhardt of Mt Bryan and the girl was missed for about two minutes by her mother and found dead in the dam.  Dr Sangster examined the body and was satisfied it was a case of accident.  L-C Thomas and Mr Lane JP enquired and were also satisfied and it was decided no inquest was necessary.  The father was absent from home at the time.

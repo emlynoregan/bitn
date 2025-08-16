@@ -21,6 +21,7 @@ topics:
 - health
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster jun. intends to visit Burra soon.  He has returned to Burra as the English cold does not agree with him.  He is due in a day or two.

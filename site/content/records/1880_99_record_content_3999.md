@@ -20,6 +20,7 @@ topics:
 - crime
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ned Kelly.  There is an article on the rewards paid to those involved in Ned Kelly’s capture.

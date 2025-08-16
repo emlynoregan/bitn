@@ -24,6 +24,7 @@ topics:
 - children
 - industrial school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ada Davis (5) & Annie Davis (4) the children of Frank Davis of Redruth who deserted his wife, Annie, about 2½ years ago have been sent to the Industrial School till aged 18 as their mother is unable to support them even with Government rations.

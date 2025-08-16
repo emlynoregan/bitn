@@ -17,6 +17,7 @@ topics:
 - entertainment
 - ticketing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Final Penny Reading performance.  Reserved chairs 6d.  Others at 3d, 2d, & 1d.

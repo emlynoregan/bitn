@@ -28,6 +28,7 @@ topics:
 - local government
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The proposal was to consider the proposition that the £390 in hand for the town survey was insufficient for that purpose and should instead be applied to public works on the streets and footways.  30-40 people attended.  The Mayor (E.C. Lockyer) presided.  Cr Geake said that about 18 months ago ratepayers gave leave to borrow £2,500, of which £400 was for a town survey.  After considerable effort it was found that it would cost between £800 and £1,200.  The money had then been placed in the bank at interest.  He explained the financial advantages of spending it now on public works and moved that it be done.  Cr Ward 2nd.  P. Lane asked for information on the funds already expended in 1883 - £642-11-8, on which a subsidy of £149-17-2 has been received and subsidy on a further £320 is expected.  J.D. Cave moved that the money be spent on a public baths that would be profitable and beneficial.  The chairman ruled this out of order and Cr Geake’s motion passed 27 to 6.

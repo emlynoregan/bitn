@@ -21,6 +21,7 @@ topics:
 - museum
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Mine Model is progressing.  Pam Marlow has been in Burra for the last week to work on the model of the mine as it was about 1860, at the peak of its productive life.  [Photo of Pam with Brian Salter.]

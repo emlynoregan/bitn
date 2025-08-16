@@ -18,6 +18,7 @@ topics:
 - agriculture
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The State Advances Bill, which proposed loans to primary producers at low interest rates.  The editor was opposed at he did not believe it met the real needs of farmers.

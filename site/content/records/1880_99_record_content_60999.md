@@ -21,6 +21,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aenach Mor Gaedilge: The Great Irish Fair had a very successful three day run from 15 October at the Institute.  It was opened by Rt Rev. James Maher DD, Lord Bishop of Pt Augusta.  Financially the result was highly satisfactory.

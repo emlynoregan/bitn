@@ -21,6 +21,7 @@ topics:
 - religion
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rev. R.W. Campbell has died in Perth.  He was a Wesleyan minister in Burra for two years.

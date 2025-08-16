@@ -18,6 +18,7 @@ topics:
 - archaeology
 - Aboriginal history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter reprinted from the Advertiser regretting that the discoverer of the diprotodon bones had not also searched for evidence of Aboriginal hunters at the site.

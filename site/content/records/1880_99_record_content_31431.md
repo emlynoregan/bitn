@@ -25,6 +25,7 @@ topics:
 - finance
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The expenditure has largely been on capital works, which in other countries has been done by private individuals, (railways, telegraph lines, harbours, jetties, public buildings etc.)  There is ample security for such borrowings.  Contrast this with the UK taxpayer, which supports an unproductive army and navy.  We should be concerned less with reducing taxes and more with increasing the equity with which they are levied.

@@ -20,6 +20,7 @@ topics:
 - club
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Iron Mine Band of Hope met on 7 November before going into summer recess.  There was a good attendance.

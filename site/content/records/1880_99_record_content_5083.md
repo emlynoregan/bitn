@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Owners of cottages are not prepared to look after street trees.  The Council will have them watered.

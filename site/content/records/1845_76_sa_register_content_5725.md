@@ -20,6 +20,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  A requisition is printed calling upon Mr William Paxton to stand for election to the Legislative Assembly to represent Kooringa.  William Paxton declines the invitation on the grounds that he could not devote as much attention to the duties as they would require and as the constituents deserve.

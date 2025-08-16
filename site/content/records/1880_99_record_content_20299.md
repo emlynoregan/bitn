@@ -20,6 +20,7 @@ topics:
 - unemployment
 - work
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The unemployed object to going to Hergott* to work for 5/6 a day.

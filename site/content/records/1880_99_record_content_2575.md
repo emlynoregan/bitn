@@ -19,6 +19,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Catholic Concert.  The concert in aid of the new convent at Kooringa was not well attended due to the holidays, but the performances were very good.

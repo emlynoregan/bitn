@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An adjourned meeting at the Royal Exchange Hotel last Friday resolved to hold a fancy dress bicycle race at the Burra Oval to raise funds for the big race, due to be run on Easter Monday.

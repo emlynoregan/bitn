@@ -26,6 +26,7 @@ topics:
 - travel
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Morris Marks, writes re the fate of S. Marks as reported in the paper of 3 January.  The report then was in error, as neither saddle nor bridle was found on either of the horses.

@@ -21,6 +21,7 @@ topics:
 - land request
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Also resolved that application be made to the Yorke's Peninsula Mining Assoc. for a piece of land near the railway station for recreation purposes.

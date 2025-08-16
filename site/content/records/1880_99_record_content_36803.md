@@ -22,6 +22,7 @@ topics:
 - rifle match
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Firing Matches arranged for Monday went off successfully, though the wind proved shifty.  The three prizes went to: Pte. Page (50/-), Lieut. Watt (44/-) and Pte A. Davey (33/-).

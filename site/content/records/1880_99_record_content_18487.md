@@ -25,6 +25,7 @@ topics:
 - statistics
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration July 1884-June 1885

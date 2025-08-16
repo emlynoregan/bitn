@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘A Ratepayer’ about the habit councillors have of making good roads even to their own back doors, while others could not even get a rut filled in at their front doors.  He says in his rambles he ‘noticed a nice new street made at the back of the blacksmith’s shop and leading to no place in particular.  I was puzzled as to its use, but my mate, called me an ass . . . He told me it was a military road, to be used when the Russian cruisers sail up the Burra Creek!’

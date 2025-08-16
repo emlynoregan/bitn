@@ -19,6 +19,7 @@ topics:
 - organization
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Patent Copper Company’s office is in King William Street in Waterhouse’s Buildings.  Open from 9.30 til 4.

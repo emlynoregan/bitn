@@ -25,6 +25,7 @@ topics:
 - death
 - squatting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.   Mr John McCulloch died in England on 18 August.  He was the second son of Mr A. McCulloch of Princess Royal.  He was SA born and with his brother, Alexander, was a squatter at Blackrock Station under the name McCulloch Bros., of which firm he was manager for some time.  Due to ill health he went to England about eight years ago.  He leaves a wife and three young children.  [Born 8 May 1849.]

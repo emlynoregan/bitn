@@ -19,6 +19,7 @@ topics:
 - prices
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sheep per head	7d	7½d	8¾d	8½d

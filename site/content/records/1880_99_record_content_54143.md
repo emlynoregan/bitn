@@ -18,6 +18,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment at the Institute 11 July.  Program includes Romberg’s Toy Symphony and that most popular of all farces Box and Cox.  1/- & 6d.

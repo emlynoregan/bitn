@@ -21,6 +21,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  Mr P. Nankivell was returning home to Baldina from Burra on Monday evening when the swingle-tree became detached and one of the horses took fright.  The buggy ran into a fence and was much damaged.  The occupants were thrown out.  Miss Nankivell receiving a nasty cut or two, but her brother was uninjured.

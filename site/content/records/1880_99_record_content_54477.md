@@ -19,6 +19,7 @@ topics:
 - inspection
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR is drilling in preparation for the inspection in September.

@@ -21,6 +21,7 @@ topics:
 - ore
 - engine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Roach reported that a great deal of new ore ground has been opened in the last few months and the pitches are generally looking well.  In driving the fifty fathom east from Waterhouse’s Shaft a lode of malachite of the richest sort and eight feet wide has been encountered.  Other shafts are being sunk and efforts made to prosecute the work more vigorously.  In the last two months 2,070 tons of ore were raised.  Another large pumping engine has arrived at Port Adelaide.

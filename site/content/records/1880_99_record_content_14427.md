@@ -23,6 +23,7 @@ topics:
 - government
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Government’s decision to get an official report on the Bird-in-Hand and other Woodside gold reefs.

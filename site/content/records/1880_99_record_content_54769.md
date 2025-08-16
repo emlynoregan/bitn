@@ -20,6 +20,7 @@ topics:
 - appointment
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.F. Robertson has come forward as a replacement for Cr Linkson: nominations close on Monday.

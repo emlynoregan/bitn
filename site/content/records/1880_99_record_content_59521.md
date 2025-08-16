@@ -22,6 +22,7 @@ topics:
 - auction
 - household furniture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co. will sell for Mr A.M. Wilson, who is leaving for WA, the whole of his household furniture and effects at Wildotta on 11 March.

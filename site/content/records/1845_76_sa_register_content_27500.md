@@ -18,6 +18,7 @@ topics:
 - land
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agricultural Land Selection for the week ending 23 march at £1 per acre, with 10% deposit.

@@ -22,6 +22,7 @@ topics:
 - administration
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Commissioner said the late Hydraulic Engineer, Mr Mestayer, was not clear on where the costs were incurred and the Commissioner would go through the lines with officers of the Dept.  He was most concerned about the precedence that would be set by any concessions granted.

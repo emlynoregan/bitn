@@ -24,6 +24,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute, Annual Meeting of Subscribers was unusually largely attended on Tuesday.  Dr Brummitt presided.  The debt at 1 January was £419-17-9 and at the end of the year £381-2-11 despite expenditure of £150 on the property.  Entertainments and the Conversazione raised c. £60.  A substantial claim for grant-in-aid funds will substantially reduce this debt.  There are 107 subscribers, up 5 for the year.

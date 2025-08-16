@@ -21,6 +21,7 @@ topics:
 - discipline
 - letter to the editor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘A Parent’ complaining of the arbitrary discipline at the Model School.  The gates are locked to exclude children even if they are only 30 seconds late.  Children are deprived of their lunch by detention.  Some parents are keeping their children home after lunch rather than tolerate such unjust treatment.  Are children denied the right to go to the toilet on pain of detention ‘all the evening’?  [Or as the paper words it when they ‘ask to go out for private purposes’]  Many students would go to a private school for 6d or 1/- a week if such classes were offered.

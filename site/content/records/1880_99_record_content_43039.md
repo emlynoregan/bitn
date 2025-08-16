@@ -20,6 +20,7 @@ topics:
 - agriculture
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire at Copperhouse on Monday morning burnt 8-9 acres of wheat on John Nicholls’ property.

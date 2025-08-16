@@ -20,6 +20,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Leighton Annual Picnic, 25 December, on the flat near the township of Leighton.  Ball in the evening.  Moonlight.

@@ -20,6 +20,7 @@ topics:
 - football
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  30 players and supporters travelled to Broken Hill on Friday evening by the express.  On Saturday they played Broken Hill.

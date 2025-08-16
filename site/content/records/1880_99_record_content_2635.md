@@ -18,6 +18,7 @@ topics:
 - travel
 - poetry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 29 Oct 80	Paten’s	How She loved Him	Inns of Old England	X	X		X	X		X

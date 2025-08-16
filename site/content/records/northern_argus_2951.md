@@ -20,6 +20,7 @@ topics:
 - cycling
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Cycling Classic was held last weekend.  Thirty-six cyclists competed and the event was run in fine weather.  Darrel Beddome was the winner, collecting the $300 prize and also the $120 reward for fastest time.  [Photo of the starting line in Best Place.]

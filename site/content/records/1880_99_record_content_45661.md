@@ -21,6 +21,7 @@ topics:
 - banking
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 L.M. Carruthers of the National Bank of Australia will leave Burra after some 2½ years.  He is being promoted to a position at Penola.

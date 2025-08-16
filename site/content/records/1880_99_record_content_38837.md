@@ -24,6 +24,7 @@ topics:
 - wards
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After six years a new assessment was made in which property values in the town fell.  Mr Bartholomæus was appointed and his assessment was 16% lower than the previous one.  There was only one appeal and that assessment was upheld.

@@ -19,6 +19,7 @@ topics:
 - travel
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Two or three parties left for Wallaroo this week and others are preparing to depart.

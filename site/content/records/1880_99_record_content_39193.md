@@ -19,6 +19,7 @@ topics:
 - livestock
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. will offer 35,100 sheep and 100 cattle on Tuesday 23 December.

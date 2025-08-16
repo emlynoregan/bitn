@@ -19,6 +19,7 @@ topics:
 - mining
 - exploration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mining.  The group of men who went to Ulooloo have returned empty handed, but a couple who have been fossicking in the Burra Creek for copper are getting a bit.

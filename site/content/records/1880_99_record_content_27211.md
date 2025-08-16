@@ -20,6 +20,7 @@ topics:
 - sport
 - rifle_match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match on Wednesday was fired in bad light and uncertain wind, which produced poor scores.  1st was Lieut. Butterworth, 2nd Pte C. Parks and 3rd Mr W.E. Sandland.

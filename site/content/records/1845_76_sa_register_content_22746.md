@@ -26,6 +26,7 @@ topics:
 - inquest
 - poverty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 7 May 1869, page 2

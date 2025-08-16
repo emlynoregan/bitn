@@ -23,6 +23,7 @@ topics:
 - tenders
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hospital committee called tenders for an iron roof on the north wing. Won by W.L.H. Bruse for £120 (Sara & Dunstan £137/17/- & Goss £142)

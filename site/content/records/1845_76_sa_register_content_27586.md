@@ -18,6 +18,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  The Prospectus for the Northern Carrying Co. Ltd is printed.

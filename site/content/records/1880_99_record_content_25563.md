@@ -21,6 +21,7 @@ topics:
 - transport
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 VF Military Review.  The special train will leave Burra at 4.56 a.m. and arrive at Adelaide at 8.50 a.m. with fall-in on the Parade Ground at 9,15 a.m.

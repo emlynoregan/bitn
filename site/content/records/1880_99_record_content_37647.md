@@ -20,6 +20,7 @@ topics:
 - football
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra 5.13 defeated Terowie 3.3.  [Note different scores are given in next issue.]

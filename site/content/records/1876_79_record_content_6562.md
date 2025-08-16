@@ -19,6 +19,7 @@ topics:
 - government
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Report on the Governor's speech opening the 2nd session of the 9h SA Parliament.

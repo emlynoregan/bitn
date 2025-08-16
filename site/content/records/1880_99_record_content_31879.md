@@ -20,6 +20,7 @@ topics:
 - religion
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy contributes another article on the education question.  He deals mainly with how bad most sermons are.  Preachers use unfamiliar language, speak in abstractions and generalisations, mix in theological controversy and generally fail to engage their listeners.  What is needed is a clear and convincing manner in dealing with political and social subjects of the day.

@@ -20,6 +20,7 @@ topics:
 - motion
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy gave notice that he would move at the next meeting of Council that the motion that had the effect of adopting the new by-law be rescinded.

@@ -19,6 +19,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At Terowie last Wednesday, Terowie won the toss and sent Burra in.  Burra scored 15 and then Terowie scored 76.  In their second innings Burra was all out for 64, giving a total of 79.

@@ -19,6 +19,7 @@ topics:
 - youth
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Any manual work, boys under 15 (bamboo table)	C. Lasscock

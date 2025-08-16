@@ -22,6 +22,7 @@ topics:
 - performance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: The Davenport Bros. dealers in mystery coming to Institute with the ventriloquist E.D. Davies & Professor Fay.

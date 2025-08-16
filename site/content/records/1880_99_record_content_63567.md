@@ -30,6 +30,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss Jane Pearce aged 54, a resident of 49 years, has died.  She was an active member of the Kooringa Wesleyan Church and a daughter of the late James & Ann Pearce and a sister of Mrs Josling (Adelaide), Sarah Pearce, T.W. Pearce, J. Pearce, W. Pearce jun. and H. Pearce of Burra.

@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. SAMA is willing to grant the use of the well for the waterworks so long as the other rights to the site are not interfered with. Cr Ridgway pointed out that under such conditions the land might be sold at any time and there was no permanence in it as a basis for a water supply.

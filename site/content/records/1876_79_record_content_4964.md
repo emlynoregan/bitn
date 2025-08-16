@@ -21,6 +21,7 @@ topics:
 - transport
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The train timetable for through trains from Adelaide to Port Pine via Jamestown is printed. The Hallett to Jamestown section was by stage-coach and took 3.10 hours to 3.30 hours.

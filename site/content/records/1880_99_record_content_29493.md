@@ -23,6 +23,7 @@ topics:
 - payment
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy, taking issue with W.R. Ridgway over the Waterworks.  When Ridgway says ‘one reason for the aforesaid failure is that water has been consumed for public purposes for which no payment has been made’

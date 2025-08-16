@@ -19,6 +19,7 @@ topics:
 - business
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. is installing new machinery with a view to its being in operation by the year’s end.

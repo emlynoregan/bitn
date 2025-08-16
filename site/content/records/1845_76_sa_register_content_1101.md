@@ -41,6 +41,7 @@ topics:
 - community
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Directors estimate the total quantity of ore raised in the twelve months to 20 November as 7,200 tons, but as in calculating the small ores retained for smelting at the mine at 1,462 tons, they were greatly below the mark, we may safely revise the estimate to 10,000 tons.  The sales of ore at Swansea already show an average value of something over £23-16-0 per ton, so that even deducting £8-16-0 per ton for carriage, freight and charges, the mine may be said to have yielded at least £150,000 estimated upon the ground, or as the miners say ‘at grass’.  And this within 13 months from commencement.  Nor is this large amount likely to be a maximum.  The mine is undoubtedly equal to the production of 300 tons or more per week of ores likely to yield a much higher average than heretofore.  It is not hard to see the immensity of future returns.

@@ -22,6 +22,7 @@ topics:
 - prospecting
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Charles Simmons again writes contesting the correspondent’s view that there are operations at Cousins’ Gully.  He reiterates his contention that the place referred to is a flat known as Gainer’s Rush.

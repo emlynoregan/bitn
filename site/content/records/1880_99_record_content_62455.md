@@ -20,6 +20,7 @@ topics:
 - construction
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr O. Bartholomæus has won the contract to erect the new room at the Burra Hospital.

@@ -24,6 +24,7 @@ topics:
 - social
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church gave a farewell social to Mr & Mrs R.H. Birt on their leaving Burra for Glenelg.  About 60 attended.  Mr Parkinson presented an illuminated address.

@@ -18,6 +18,7 @@ topics:
 - weather
 - heat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 To the north it has been very hot with reports of 105°F at Boolcoomata, but there has also been rain from thunderstorms.

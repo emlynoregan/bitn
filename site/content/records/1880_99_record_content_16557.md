@@ -19,6 +19,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Baldina Wesleyan Church Anniversary on 23 & 25 February. [This is an error and should read 22 & 25 February]

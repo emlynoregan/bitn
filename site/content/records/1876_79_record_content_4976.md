@@ -20,6 +20,7 @@ topics:
 - government
 - reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Legislative Council reform has again been shelved despite the return of men pledged to do something. The Hons J. Hodgkiss & C.B. Young seem to have espoused very different views now they have been elected.

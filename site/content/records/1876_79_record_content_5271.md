@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The last concert for the season by the Burra Musical Union will be on 10 December.

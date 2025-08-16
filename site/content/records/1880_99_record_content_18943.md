@@ -19,6 +19,7 @@ topics:
 - community
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  We are glad to see that the Council is filling in the gaps in plantations.  [The editor then gives a ¼ column of advice on care for trees and what sort should be planted where.]

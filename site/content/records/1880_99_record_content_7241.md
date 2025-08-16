@@ -18,6 +18,7 @@ topics:
 - sports
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Saturday, Reds 3.3 defeated Allcomers 1.6

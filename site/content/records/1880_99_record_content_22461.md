@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Jeffrey Pearce, an old resident and road contractor, has died from inflammation of the lungs.  [Died 12 June 1886 aged 56, registered as Jeffery]

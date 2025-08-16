@@ -19,6 +19,7 @@ topics:
 - compulsory education
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Education. The Govt. has decided that compulsory education according to the Act of 1875 is to be enforced wherever `there is sufficient school accommodation'.

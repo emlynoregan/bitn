@@ -23,6 +23,7 @@ topics:
 - fundraising
 - mission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Primitive Methodist Church had special services on 6 & 7 August in aid of the Kooringa Manse Fund.  Rev. E. Masterman of North Adelaide preached on Sunday and his address at Monday’s tea meeting was on ‘Missionary Life and Labours in London’. 

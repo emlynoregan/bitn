@@ -19,6 +19,7 @@ topics:
 - rumour
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  There was yet another rumour that the mine had been sold, but as usual it was without foundation.

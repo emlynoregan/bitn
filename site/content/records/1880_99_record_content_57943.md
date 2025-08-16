@@ -22,6 +22,7 @@ topics:
 - public works
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Blow for Blow was a great success when performed on Friday night.  It is reviewed in c.  ¾ column.

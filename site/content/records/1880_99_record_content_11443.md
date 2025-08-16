@@ -22,6 +22,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The following matches are planned for the holidays

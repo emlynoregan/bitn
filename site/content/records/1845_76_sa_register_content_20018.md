@@ -20,6 +20,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Arrangements have been made for Mt Leyshon Jones to smelt ore in the Burra Creek.

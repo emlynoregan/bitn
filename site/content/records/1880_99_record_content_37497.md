@@ -18,6 +18,7 @@ topics:
 - wealth
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on sharp business practices and accumulation of wealth and the hypocrisy of those who have it.  [All in rather purple prose.]

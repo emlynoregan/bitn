@@ -19,6 +19,7 @@ topics:
 - event
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society has collected a prize list amounting to £150 for the show on 19 September.  For visitors a special carriage has been added to the luggage train leaving Burra for the south at 5.25 p.m.

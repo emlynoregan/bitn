@@ -19,6 +19,7 @@ topics:
 - strike
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One of the People’ writes again concerning the ineffectiveness of strikes in assisting the working man and how they waste money otherwise going to them.

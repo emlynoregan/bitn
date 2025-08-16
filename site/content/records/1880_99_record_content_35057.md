@@ -25,6 +25,7 @@ topics:
 - clay
 - lease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1,000 share paid to £1 were to be issued to present proprietors as consideration for their interest in Crown Lease No. 816 for 99 years and rent at £2 p.a. being 40 acres of land in the Hundred of Baldina, 13 miles from Burra, containing unlimited fire clay and other clay and three years lease of premises for manufacturing adjacent to the Burra Railway Station, 3 acres with good water, substantial stone office and other buildings, etc. etc.  1,500 shares are offered to the public.

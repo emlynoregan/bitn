@@ -20,6 +20,7 @@ topics:
 - fundraising
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military Sports preparations continue and £30 has been raised for prize money.  A meeting made much progress on Friday, at the Court House Hotel, with W. H. Linkson presiding.

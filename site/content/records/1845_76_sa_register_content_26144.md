@@ -22,6 +22,7 @@ topics:
 - dance
 - social event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Quadrille Class had their closing party for the season on Thursday night.  The class meets twice a month in winter at the Burra Hotel Assembly Rooms.  Dancing continues for four hours with a break for sandwiches and coffee.  A subscription of £1-1-0 allows a gentleman to introduce two ladies.  The fees pay for the hall and the music and, as there was a surplus, Schrafer’s Band from Adelaide was engaged for a ball and supper.  About 30 couples attended.

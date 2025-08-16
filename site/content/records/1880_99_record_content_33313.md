@@ -19,6 +19,7 @@ topics:
 - social progress
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Hugh Gilmore’s address on ‘The Principles of Social Progress’ is reported in 1½ columns.

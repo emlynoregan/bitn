@@ -22,6 +22,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Ruse.  A tramp wrote a series of notices advising that a lecture on the coming elections would be given opposite the Burra Hotel the other night.  A number attended and did not notice anything sensational as had been announced in the notices, but did observe a vigorous collection being taken up.  The lecture was an immense success from an amusing point of view.

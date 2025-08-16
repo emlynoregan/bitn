@@ -21,6 +21,7 @@ topics:
 - uniforms
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI.  There are now 39 members.  Last Friday Major DePassé visited and gave instruction in drill to the 33 present.  The men were then measured for uniforms.  The first mounted drill will be on Wednesday afternoon.

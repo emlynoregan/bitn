@@ -25,6 +25,7 @@ topics:
 - dispute
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Cr George Parks publishes notice that despite the Mayor asserting The Record’s report of Burra Corporation in issue of 1 March contains errors he says it is ‘true in every particular’.  Parks is joined in this by W.C.L. West, Thomas Walsh and W.H. Linkson.

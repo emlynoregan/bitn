@@ -18,6 +18,7 @@ topics:
 - event
 - jubilee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Sunday School Jubilee Services Easter Sunday 10 & 11 April.  Tea meeting on Monday 11 April.

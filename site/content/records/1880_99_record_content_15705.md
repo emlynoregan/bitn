@@ -19,6 +19,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Strathalbyn-Goolwa & Milang Railway was opened for steam traffic on Wednesday last.

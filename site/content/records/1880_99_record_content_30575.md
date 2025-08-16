@@ -23,6 +23,7 @@ topics:
 - fundraising
 - band
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The PUBLIC are cautioned against giving subscriptions in aid of the original Burra Burra Town Brass Band; as no person or persons have been authorised to collect for the above, which is carried on under the leadership of Mr J. Davey.  All communications to be addressed to S.J. Davey, Sec. BBB Band.

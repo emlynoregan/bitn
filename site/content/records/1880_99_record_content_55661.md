@@ -27,6 +27,7 @@ topics:
 - business
 - auctioneers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. Ltd	Auctioneers, Adelaide, Pt Adelaide, Kooringa, Pt Augusta, Kapunda, Jamestown, Broken Hill & London

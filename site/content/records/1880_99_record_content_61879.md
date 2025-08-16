@@ -21,6 +21,7 @@ topics:
 - employment
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the year there were 13 inquests into mine deaths.  The mines employ 5,600 hands.

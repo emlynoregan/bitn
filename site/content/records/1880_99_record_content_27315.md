@@ -18,6 +18,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Storm of Life by Hesba Strutton began 8 July and ran till 2 August.

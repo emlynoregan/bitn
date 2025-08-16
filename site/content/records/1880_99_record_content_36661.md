@@ -21,6 +21,7 @@ topics:
 - theatre
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Review of the ‘amusing yet pathetic musical comedy, Hans the Boatman, at the Institute on Saturday last.  The piece was very well sung and acted.  Indeed at the climax where the blinded Hans is reunited with his wife ‘the audience gave way to sobs and tears’.

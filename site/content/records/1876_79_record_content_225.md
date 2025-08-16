@@ -32,6 +32,7 @@ topics:
 - society
 - visitors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Masonic Lodge held a meeting on Monday 3 July.  W. Watts of Kooringa and E.C. Davies of Buttamuc [sic] were initiated by PM Alex. Stewart.  Visitors included Mr G. Sanders of the American Constitution, recently arrived from the USA.  He is the eldest son of Captain R. Sanders of the Burra Mines.  [W. Watts was probably the William Watts elected for North Ward in the District Council in 1878 and perhaps the same W. Watts who sold his butchering business in Thames St to Mr Ohlmeyer – see advertisement 22 February 1878.  Buttamuck was a run northwest of Peterborough, established in 1868.]

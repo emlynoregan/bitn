@@ -19,6 +19,7 @@ topics:
 - local government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The appropriation of Ward moneys for various purposes is outlined.  Each ward had between £230 and £260 to spend.

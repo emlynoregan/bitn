@@ -19,6 +19,7 @@ topics:
 - livestock
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The far north is very bad with drought with sheep at Beltana dying at the rate of c. 100 a day.

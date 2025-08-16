@@ -21,6 +21,7 @@ topics:
 - legal
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway says the Council’s agreements with the Inspector are legally and morally binding, but as an illegal transaction was entered into with his assistance he seems to ignore all principle.

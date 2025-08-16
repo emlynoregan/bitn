@@ -18,6 +18,7 @@ topics:
 - publication
 - volume
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume XV began with No. 221 on 7 December and ran to No. 224 on 28 December 1892

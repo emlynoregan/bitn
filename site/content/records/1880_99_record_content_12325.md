@@ -25,6 +25,7 @@ topics:
 - Salvation Army
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  On Friday the ‘War Cry’ was heard in Burra streets for the first time.  On Saturday there were reinforcements in the person of Staff Captain Thurmann and several Lieutenants who opened their campaign on the hill near the state school.  The United Methodist Church meeting was held at the pump as usual.  The Salvationists went to Paxton Square.  Rev. S. Knight and other speakers at the pump expressed their willingness to co-operate with the Salvationists at their Saturday night meetings.  The battle was rejoined on Sunday.

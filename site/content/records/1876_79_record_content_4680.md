@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - streets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Town Council. There is now £200 of work in hand improving the streets.

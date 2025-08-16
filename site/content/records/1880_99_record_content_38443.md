@@ -22,6 +22,7 @@ topics:
 - business
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Sing & Fat, who have been in business here for some time as general storekeepers are to have a new premises erected at the corner of Thames St and Market Square.

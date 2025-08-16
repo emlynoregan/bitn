@@ -20,6 +20,7 @@ topics:
 - drought
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Z.Y.X.’ writes 24 April:

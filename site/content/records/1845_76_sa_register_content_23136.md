@@ -19,6 +19,7 @@ topics:
 - mining
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 New Burra Burra Mine.  Captain Lord was down a shaft on 3 January when the flood came so quickly he was almost drowned.  Stones rattled down on him and he had to force his way up to a drive having its entrance towards the sloping portion of the hill.  He escaped with a drenching and some bruises.

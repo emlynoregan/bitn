@@ -20,6 +20,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Accident.  An old miner of Kooringa, Mr John Bowden, was using his horse and cart to sell lime in Market Square.  A boy was driving and when dust got into his eyes he could not properly direct the course of the horse.  The cart wheel fell into a gutter and the boy lost his seat.  To save himself he leapt onto the horse’s back, causing it to kick.  The boy fell between the horse and the shafts and the horse bolted.  The deceased was in the cart and sought to grab the reins, bit the cart overturned with the deceased beneath.  Apparently some part of the cart struck his head and he was killed instantly.  A coroner’s inquest returned a verdict of accidental death.

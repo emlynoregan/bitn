@@ -19,6 +19,7 @@ topics:
 - education
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Roger Henderson & Leo Vasilunas have received their B. Ed. Degrees recently.

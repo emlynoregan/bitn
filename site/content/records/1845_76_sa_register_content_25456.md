@@ -19,6 +19,7 @@ topics:
 - agriculture
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 October 1873, page 7

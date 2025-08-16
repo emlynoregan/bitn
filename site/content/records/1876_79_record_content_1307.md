@@ -20,6 +20,7 @@ topics:
 - finance
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mine reports that receipts for the half year were £800 less than expenditure - blamed on the purchase of new machinery worth £4,000.

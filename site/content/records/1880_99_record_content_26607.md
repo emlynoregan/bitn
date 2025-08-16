@@ -22,6 +22,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Great Northern Railway is to be extended from The Peake to Angle Pole.

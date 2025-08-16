@@ -22,6 +22,7 @@ topics:
 - partnership
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The partnership of William Liston, James Shakes & John Lewis, trading as Liston, Shakes and Co., Auctioneers, General Commission Agents and Stock Salesmen, is dissolved.  The business will continue as Shakes & Lewis.

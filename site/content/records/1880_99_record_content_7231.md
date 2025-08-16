@@ -20,6 +20,7 @@ topics:
 - survey
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council has accepted the tender of R.G. Gardner & Co. for the town survey for £408-15-0.

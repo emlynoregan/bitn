@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  On Saturday 10 August the mail driver arrived at Kooringa and while he was adjusting the harness the horses started.  He held on as long as possible, but eventually stumbled and fell; the wheel of the cart passing over him.  He sustained severe internal injuries and a broken rib.

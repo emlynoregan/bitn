@@ -20,6 +20,7 @@ topics:
 - park lands
 - bonds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1889 begins with a large overdraft increased by accounts due and coupons due on 1 January to over £300.  With bonds of £300 to be redeemed there will be little left to spend on public works.

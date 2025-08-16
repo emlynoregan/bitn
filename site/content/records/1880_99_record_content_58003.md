@@ -21,6 +21,7 @@ topics:
 - injury
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elliott Wise (6), son of John Wise, sustained serious injuries to his right arm when a dray capsized as a result of a horse bolting at Cartapoo yesterday.  There is a compound fracture above the elbow and a simple fracture above the wrist.

@@ -21,6 +21,7 @@ topics:
 - appointments
 - Methodist Union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Conference has appointed a committee to look at Methodist Union.  Rev. C. Tresise from Port Augusta has been appointed to Burra.

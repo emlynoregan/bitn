@@ -20,6 +20,7 @@ topics:
 - naming
 - geography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alice Springs.  A new town at Alice Springs is to be named Stuart after the explorer.

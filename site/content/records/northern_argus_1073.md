@@ -21,6 +21,7 @@ topics:
 - history
 - conservation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ian Auhl’s 475 page The Story of the Monster Mine is being well received.  Mr Auhl was born in Burra and returned later as Principal of the Primary School.  He majored in History at the University of Adelaide and was a member of the Council of the National Trust for some years.  He has published a number of books on Burra and was awarded the OAM in 1979 for services to conservation.  The book is available from the Burra Burra DC and the Burra Tourist Information Office.

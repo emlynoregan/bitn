@@ -18,6 +18,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Collecting for the Guy.  One canny lad who collected money with a Guy has instead invested in a new pair of trousers and a vest with the received donations.

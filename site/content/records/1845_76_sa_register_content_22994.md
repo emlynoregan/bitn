@@ -20,6 +20,7 @@ topics:
 - equipment
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At Whyte Park on 16 December 67 wagons with harness, materials, stores, weighbridge, implements etc.

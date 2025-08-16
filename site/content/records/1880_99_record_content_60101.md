@@ -22,6 +22,7 @@ topics:
 - lease
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crown Lease No. 7745 of section 228, 233, 236, 237, 244, 245 & 246 in Hundred of Wonna comprising 2929 acres of good grazing land.  Annual rent £8-0-2 with right of purchase.

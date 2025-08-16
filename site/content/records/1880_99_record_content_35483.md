@@ -19,6 +19,7 @@ topics:
 - federation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The conference was bungled with no real outcome.  Parkes was guilty of bombast, Playford failed to advance the cause of federation.  The main resolution passed simply confirmed the desirability of union ‘on principles just to the several colonies’.

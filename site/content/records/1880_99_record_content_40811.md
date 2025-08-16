@@ -19,6 +19,7 @@ topics:
 - youth
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Juvenile Foresters Lodge: Pride of the Burra was inaugurated on 16 March.  Twenty boys presented their health certificates and with parental consent were initiated.  [Further details are given.]

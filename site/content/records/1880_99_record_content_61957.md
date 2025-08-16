@@ -18,6 +18,7 @@ topics:
 - cinema
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cinematographe is described and prices are quoted at 3/- front seats, 2/- second, 1/- back seats.

@@ -21,6 +21,7 @@ topics:
 - traffic
 - freight
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Baldina road saw merely: 6 drays carrying 13 tons 12 cwt from Kooringa & 2 drays carrying 2 tons from Redruth

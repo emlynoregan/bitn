@@ -22,6 +22,7 @@ topics:
 - real estate
 - assessment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Property Values in Burra have fallen with removals from the town to Broken Hill.

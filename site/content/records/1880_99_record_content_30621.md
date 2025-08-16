@@ -19,6 +19,7 @@ topics:
 - business
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  The mine has not been sold in England and will now be placed under offer to the local committee this week.

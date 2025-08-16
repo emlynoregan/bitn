@@ -21,6 +21,7 @@ topics:
 - meeting
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI.  Several members went to Mt Bryan on Wednesday to enable country members to put in a drill.  Supper afterwards was provided by Miss Ullmann.

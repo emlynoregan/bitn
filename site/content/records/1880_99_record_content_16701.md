@@ -29,6 +29,7 @@ topics:
 - rates
 - overdraft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway moved that the Council consider the services of a constable at Redruth necessary, but object to paying for the six months for which he was away.  Carried.

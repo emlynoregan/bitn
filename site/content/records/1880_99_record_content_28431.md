@@ -21,6 +21,7 @@ topics:
 - obituary
 - settlers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Henry Topperwein, one of Redruth’s earliest settlers, died last week and was buried yesterday.  [Heinrich Philip Topperwein, died 20 April, aged 71.]

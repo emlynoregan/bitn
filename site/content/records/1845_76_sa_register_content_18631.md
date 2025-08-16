@@ -29,6 +29,7 @@ topics:
 - meeting
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Public Meeting at Steelton was held in the schoolroom on 6 June.  Mr J.B. Miller presided.

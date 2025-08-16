@@ -20,6 +20,7 @@ topics:
 - property
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.R. Ridgway replies to the irate ‘Ratepayer’ saying that the house referred to is four-roomed not eight-roomed and far from being new is one of the oldest in the town: it was renovated some years ago and there are not two men in the town who know values better than the witnesses called.  We all understand the nature of an oath inside and outside the court.

@@ -22,6 +22,7 @@ topics:
 - fundraising
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment.  John Roach has organised a Grand Entertainment at the Institute on 30 Oct. 1889 in aid of the Burra Literary Society Piano Fund, featuring Adelaide talent.  The program is printed.

@@ -17,6 +17,7 @@ topics:
 - tenders
 - procurement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Tenders are called for this work on the same page.]

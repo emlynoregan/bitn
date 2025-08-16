@@ -26,6 +26,7 @@ topics:
 - inquest
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest/Obituary [There is quite a detailed report of the discovery of the body of William Smith and of the inquest that followed.  In essence as follows.]

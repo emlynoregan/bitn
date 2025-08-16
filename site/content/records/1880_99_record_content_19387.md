@@ -20,6 +20,7 @@ topics:
 - charity
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Steam Circus.  Messrs Seal & Baxter, proprietors of the Steam Circus and Park Swings, so well patronised this last week, have left at this office £1 for the Burra Hospital and announce a benefit for the Burra Hospital for tomorrow afternoon.

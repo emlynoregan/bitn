@@ -21,6 +21,7 @@ topics:
 - sports
 - cycle race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cycle Race.  The 20 mile cycle race last Wednesday started from the Bon Accord Bridge.  Kelly of Copperhouse won, but was given too great a handicap advantage with 25 minutes.  He would have won given 5 minutes!

@@ -26,6 +26,7 @@ topics:
 - relief
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Floods.  From our Kooringa correspondent:

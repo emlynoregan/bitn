@@ -25,6 +25,7 @@ topics:
 - meeting
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 5 April 1848, page 2

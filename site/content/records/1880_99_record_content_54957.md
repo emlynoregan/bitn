@@ -21,6 +21,7 @@ topics:
 - livestock
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Elder, Smith & Co. will offer 14,100 fat & store sheep (10,000 from Momba Station) at their saleyards on 26 October.

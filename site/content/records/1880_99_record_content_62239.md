@@ -21,6 +21,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Prince of Wales Hospital Fund has been established to commemorate the 60th anniversary of the Queen’s reign and will fund the London Hospital’s gap between ordinary receipts and ordinary expenditure.  The Bank of Australasia will forward amounts of not less than 10/- free.

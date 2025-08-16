@@ -24,6 +24,7 @@ topics:
 - reception
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Show Soc.  The Reception Committee has a few tickets spare for the official luncheon at which His Excellency the Governor and visitors will be present.  5/-.  J.E.H. Winnall, Hon. Sec.

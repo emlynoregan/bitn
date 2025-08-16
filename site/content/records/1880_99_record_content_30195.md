@@ -19,6 +19,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At the opening match for the season last Wednesday 11 of the Burra Club 134 defeated 19 Muffs 68.

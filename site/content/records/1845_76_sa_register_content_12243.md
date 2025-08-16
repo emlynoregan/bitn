@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Du Pre has been exhibiting his fire-eating and sleight-of-hand tricks at the Miners’ Arms.

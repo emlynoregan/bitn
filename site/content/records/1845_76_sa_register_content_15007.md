@@ -25,6 +25,7 @@ topics:
 - church
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Extreme weather.  On last Thursday, Friday and Saturday it was very still and warm, but during Saturday night a north wind arose, which continued all Sunday as a violent storm with frightful clouds of dust and oppressive heat.  At 2 a.m. on Monday morning the violence increased to such a degree that many roofs and buildings were damaged.  This storm continued till noon, when the wind veered to the west, clouds covered the sky and two sharp showers of rain and hail laid the dust, after which the afternoon and evening were very pleasant.

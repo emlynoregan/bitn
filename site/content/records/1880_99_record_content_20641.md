@@ -20,6 +20,7 @@ topics:
 - picnic
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday School Picnic, New Year’s Day at Hallett.

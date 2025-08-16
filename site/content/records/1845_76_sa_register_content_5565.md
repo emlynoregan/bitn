@@ -19,6 +19,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The orders issued at the mines at Kooringa are paid on presentation at the office.  Secretary; Henry Ayers.

@@ -22,6 +22,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘At the last meeting of the Council Councillor Walsh, one of the straightest, conscientious and peaceful men that has ever sat in the Burra Town Council, intimated that he would not be in the Burra Town Council next year.  Now North Ward ratepayers, be loyal to him, who has been loyal to you, and induce Councillor Walsh to alter his mind.’

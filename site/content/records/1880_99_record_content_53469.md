@@ -21,6 +21,7 @@ topics:
 - history
 - office
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Agent General of Sa in London.  This discusses the changing role of that office and person through the history of the colony.

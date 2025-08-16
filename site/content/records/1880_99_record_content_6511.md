@@ -25,6 +25,7 @@ topics:
 - rates
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The Corporation gives notice that it will sell in one year from the publication of this notice the land listed for non-payment of rates.

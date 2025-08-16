@@ -20,6 +20,7 @@ topics:
 - ore
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 30 January 1854, page 3

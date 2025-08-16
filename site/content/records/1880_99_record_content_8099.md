@@ -19,6 +19,7 @@ topics:
 - law
 - Sunday trading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sunday Trading.  One of the [unnamed] hotels at the north end of town is evading the Sunday trading ban by bringing in shearers and others on Saturday and giving lodging till Monday when they return to work, thus complying with the strict letter of the law.

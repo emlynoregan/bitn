@@ -22,6 +22,7 @@ topics:
 - social event
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Kennedy is leaving the town for Teetulpa and the Catholic choir met to wish her well on Thursday evening last with an excellent tea and a presentation of 4 volumes of Crown of Jesus’ Music Book in appreciation for her work with the choir of St Joseph’s.  A social evening followed.

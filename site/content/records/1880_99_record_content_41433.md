@@ -20,6 +20,7 @@ topics:
 - lacrosse
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lacrosse. A match between a team from Jamestown and a metropolitan teal will be played at the Burra Oval on 25 May.

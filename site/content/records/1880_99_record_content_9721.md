@@ -18,6 +18,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A public meeting is called to consider the route of the Transcontinental Railway, the Charges on Cheques, the Vermin Act and the immediate need for a dissolution of the House of Assembly.

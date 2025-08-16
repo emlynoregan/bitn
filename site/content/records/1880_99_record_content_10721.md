@@ -19,6 +19,7 @@ topics:
 - militia
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The 1st 12 men were sworn in last Saturday.

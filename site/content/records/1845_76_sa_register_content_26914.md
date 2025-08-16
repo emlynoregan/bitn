@@ -23,6 +23,7 @@ topics:
 - agriculture
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Mill.  Mr J. Roach of the Burra Flour Mill began grinding new wheat on 7 December.  The sample was nice, clean, full grain from the Eastern Plains some ten miles from Kooringa.  Several loads are expected this week, as the weather has lately been too dull for reaping.

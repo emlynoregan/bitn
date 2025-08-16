@@ -21,6 +21,7 @@ topics:
 - dance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Quadrille Assembly wound up at the Institute last night with dancing to the wee hours.  The ladies will reciprocate on Tuesday evening next.

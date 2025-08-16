@@ -22,6 +22,7 @@ topics:
 - real estate
 - for let
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The shop next to Mr Bruse’s in Commercial St, now occupied by Mrs Bock, is to let from 13 October.

@@ -20,6 +20,7 @@ topics:
 - mission
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Church.  On Tuesday evening Rev. C.P. Hard, a missionary from India, lectured on mission work.  A fascinating lecture, but poorly attended on account of poor weather.

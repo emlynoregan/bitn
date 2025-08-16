@@ -22,6 +22,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Brass Band.  A meeting was held at the Commercial Hotel last Monday for the re-formation of the Burra Brass Band.  Mr A. Wheatley was reappointed bandmaster.

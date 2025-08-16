@@ -18,6 +18,7 @@ topics:
 - licensing
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Why has the Town Council instructed their Inspector not to proceed with certain informations laid against certain people who failed to take out current licences for their trollies?

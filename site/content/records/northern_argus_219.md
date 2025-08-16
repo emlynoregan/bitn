@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Girl Guides held a Fashion Parade & Luncheon in the Sports Complex on Tuesday.

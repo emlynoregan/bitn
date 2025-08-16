@@ -19,6 +19,7 @@ topics:
 - performance
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment.  The Flower Queen Cantata will be performed at the Burra Institute on 16 & 17 February.  Chorus of all the Flowers.  [There is a list of the performers.]

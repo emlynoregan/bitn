@@ -20,6 +20,7 @@ topics:
 - licensing
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 BYMMIA, Friday last, William Pearce Sen. read a paper: Have the Government a right to grant licences for the manufacture and sale of intoxicants?

@@ -18,6 +18,7 @@ topics:
 - coroner
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The verdict was that he died from exposure probably after becoming drowsy from the effects of alcohol.

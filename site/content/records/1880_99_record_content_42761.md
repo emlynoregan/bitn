@@ -20,6 +20,7 @@ topics:
 - commerce
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. have attracted some objections to their holding a special sale a day previous to the usual day of the other two firms of auctioneers.

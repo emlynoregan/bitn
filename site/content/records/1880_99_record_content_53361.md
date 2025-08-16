@@ -20,6 +20,7 @@ topics:
 - football
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The first general meeting of the Burra Football Club for 1894 in the Commercial Hotel on Wednesday evening.

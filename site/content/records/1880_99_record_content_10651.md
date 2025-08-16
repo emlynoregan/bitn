@@ -19,6 +19,7 @@ topics:
 - horticulture
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Turnips, 12 yellow	W. Fuss	2nd

@@ -20,6 +20,7 @@ topics:
 - advertisement
 - treatment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madame Somerset Stanley, with over 25 years experience begins consultation in Adelaide on 13 September.  She specialises in epileptic fits, upon which she guarantees perfect cure, asthma, heart and lung disease, rheumatics, piles, varicose veins, etc.

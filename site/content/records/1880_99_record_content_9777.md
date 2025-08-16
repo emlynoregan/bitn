@@ -21,6 +21,7 @@ topics:
 - perjury
 - sentence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Samuel Davis, licensed victualler, formerly of Burra was sentenced last week to 18 months for perjury.

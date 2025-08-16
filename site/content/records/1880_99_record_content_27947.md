@@ -23,6 +23,7 @@ topics:
 - international
 - monarchy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the political situation in Germany where the 90-year-old Emperor William I was probably dying and the Crown Prince Frederick was perilously ill.  The next in line was Prince William [the Kaiser Wilhelm of WWI fame] whose accession it was feared would make a European war more likely.

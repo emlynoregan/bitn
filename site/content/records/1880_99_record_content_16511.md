@@ -20,6 +20,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The procession then went on to the Recreation Ground to a large tent and a tea.  Weather threatened then with rain likely, but the crowd adjourned to Market Square where several hundred people stood for two hours around a wagon from which various visitors addressed them.  Thick clouds of wind-borne dust did not deter them.  We understand financial proceeds were satisfactory.

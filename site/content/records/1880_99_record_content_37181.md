@@ -21,6 +21,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Commissioner of Crown Land has written re the Baldina irrigation scheme saying it would cost several thousand pounds and he would require a guarantee that a considerable area of land would in consequence be taken up.

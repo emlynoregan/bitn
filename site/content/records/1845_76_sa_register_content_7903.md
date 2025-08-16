@@ -20,6 +20,7 @@ topics:
 - mining
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.H. writes from Forest Creek, 25 January 1852.

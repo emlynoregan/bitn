@@ -20,6 +20,7 @@ topics:
 - business
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson Jun. will sell, at the Court House Hotel, on 11 September, Lot 191 in Millerton with a five-roomed house and also lots 168, 170, 171, 173 to 186 inclusive and 190 E.

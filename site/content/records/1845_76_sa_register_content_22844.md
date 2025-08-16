@@ -26,6 +26,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Colley of the Primitive Methodists gave a lecture Monday evening at the Institute on behalf of the librarian, Mr Cross, whose health is bad and whose wife is laid up.  He spoke on ‘The Russian War’.  Mrs Smith played some beautiful pieces of music, assisted once by Miss Coglin and songs were rendered by Mr Frederick Moody and Miss Perry.  About £4 was collected.

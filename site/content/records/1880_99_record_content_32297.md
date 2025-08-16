@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Sunday School Anniversary last Friday.  The Children’s treat was followed by prize giving and a public tea meeting.

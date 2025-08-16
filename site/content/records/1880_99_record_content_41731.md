@@ -21,6 +21,7 @@ topics:
 - transport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Industrial Exhibition.  The trip to the exhibition by school children saw about 160 children at the Burra Station for Friday morning’s train to Adelaide.

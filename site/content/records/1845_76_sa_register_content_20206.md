@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Prior to a change last Monday the weather has been intensely hot.  There was thunder and some refreshing rain with the change.

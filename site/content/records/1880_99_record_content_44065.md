@@ -19,6 +19,7 @@ topics:
 - competition
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  Entries are called for the rifle match for a gold medal offered by W.H. Linkson.

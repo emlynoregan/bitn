@@ -30,6 +30,7 @@ topics:
 - newspaper
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The larrikins mustered well here on Monday night.  Mob rule was nearly in vogue here last week.  Five –pound notes flew about very freely on Monday night here.  Several of the Burra youths worked harder on Monday than for some time previously.’

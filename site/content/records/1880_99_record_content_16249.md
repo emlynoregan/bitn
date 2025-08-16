@@ -23,6 +23,7 @@ topics:
 - education
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute¸ annual meeting on last Tuesday - a bare quorum attended.  Library volumes are now 3062 and members 88: a decrease of two.  For 1885 the President is F.W. Holder, Vice-President W. Anderson, Treasurer Dr Brummitt and Hon. Secretary J. Hosking.

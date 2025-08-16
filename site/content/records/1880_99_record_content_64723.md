@@ -26,6 +26,7 @@ topics:
 - personnel
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The names of the ministers after Mr Way and their order have not been procured, but Mr Hancock, Mr Trewin, Mr W. Richards, Mr J. Rock, Mr McNeil, Mr Pearce, and Mr Tresise all held the post.

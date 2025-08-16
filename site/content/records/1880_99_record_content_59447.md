@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Note.  Yankee Doodle Tobacco is a new brand just available: from R. Dixon & Co. of the Conqueror Tobacco Works.

@@ -18,6 +18,7 @@ topics:
 - fundraising
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Hospital Auxiliary has raised more than $2,000 at the Melbourne Cup Luncheon.

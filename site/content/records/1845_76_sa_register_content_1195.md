@@ -20,6 +20,7 @@ topics:
 - procurement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called for the supply of 5,000 ore bags.

@@ -22,6 +22,7 @@ topics:
 - attendance
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice met on Wednesday.  Reports of children improperly supplied with drinking water were investigated and found to be wildly exaggerated, but there was a shortage of pannikins.  A supply has been arranged.

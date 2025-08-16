@@ -21,6 +21,7 @@ topics:
 - editorial
 - colonial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the French reaction to the English response to an outbreak of cholera in Toulon.  The editor turns this into an attack on the qualities of France as a colonial power.

@@ -18,6 +18,7 @@ topics:
 - accident
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 While the event is much to be regretted, it should at the same time be remembered that the Burra has hitherto enjoyed an immunity from accidents of any kind to an extent which has perhaps never characterised equally large mines in other countries.

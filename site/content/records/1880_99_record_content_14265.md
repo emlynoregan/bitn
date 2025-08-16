@@ -32,6 +32,7 @@ topics:
 - court
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Catholic Young Men’s Soc. and students of St Joseph’s School will give a Grand Concert in the Institute on Wednesday 10 Sep.

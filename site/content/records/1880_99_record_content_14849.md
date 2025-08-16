@@ -19,6 +19,7 @@ topics:
 - labor
 - eight-hour system
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.R. Tuck, of Narridy, writes re the eight-hour system.  He is against the paper’s view and for the eight-hour day.  He finds it hard to see the claimed mutual benefit for worker and employer for the worker’s slaving an extra two hours a day for the same wage.

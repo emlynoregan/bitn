@@ -18,6 +18,7 @@ topics:
 - literature
 - romance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 23 Jun.	XXIII-XXVII	A Romance of West Point	X	X	X	X		X	X	X	X

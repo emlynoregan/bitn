@@ -20,6 +20,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Amateur Dramatic Society makes its first appearance on Thursday 4 August in the one act play I’ve Eaten My Friend and the laughable farce Turn Him Out.

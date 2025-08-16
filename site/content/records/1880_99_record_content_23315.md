@@ -21,6 +21,7 @@ topics:
 - football
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter claiming that ‘Quiz’ badly represented the match with Clare and that the roughness of play was rather on the Burra side, not the reverse as had been suggested and that the umpire in the second half was very biased towards Burra.

@@ -22,6 +22,7 @@ topics:
 - smithing
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Scott	Shoeing & General Smith, Iron Mine (Late A.J. Filmer)

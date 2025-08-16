@@ -26,6 +26,7 @@ topics:
 - short story
 - supplement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poem	Christmas in the Splitters’ Camp	Henry Kendall

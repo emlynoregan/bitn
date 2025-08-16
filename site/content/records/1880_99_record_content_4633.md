@@ -19,6 +19,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  The next Burra Show will be on 21 September.  The dinners following the show had been producing losses: last year amounting to £7.  A proposal will be brought forward to discontinue them.

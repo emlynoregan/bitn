@@ -21,6 +21,7 @@ topics:
 - animal cruelty
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Lawler was fined 15/- for furious riding on the 10 September.  He was also charged that on 8 September he cruelly ill treated a horse in that, leaving Burra as the train was crossing the railway bridge, he then raced it to Mount Bryan.  Fined £1-10-0.

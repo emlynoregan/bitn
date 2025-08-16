@@ -18,6 +18,7 @@ topics:
 - religion
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bible Society collectors have not met their usual success under the prevailing circumstances this year.

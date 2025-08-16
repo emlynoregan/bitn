@@ -19,6 +19,7 @@ topics:
 - agriculture
 - pest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are becoming a serious pest to the east and at Paratoo and Nackara.  Should they increase they will do much damage when the wheat ripens.

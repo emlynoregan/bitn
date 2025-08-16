@@ -22,6 +22,7 @@ topics:
 - fines
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A. Riggs, W.J. McBride and W.P. Barker were each fined £2 + costs for failure to destroy rabbits in Hundred of Kooringa.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. Since the last issue the iron arches have been put in place. The staging no longer carries the weight of the bridge so flood damage is no longer a threat.

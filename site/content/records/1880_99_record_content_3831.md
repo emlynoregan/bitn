@@ -22,6 +22,7 @@ topics:
 - church
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  We understand Mr McCulloch of Princess Royal has given £500 to St Mary’s, it previously having been lent at a low rate of interest.  The gift was in accordance with the wishes of the late Mrs McCulloch who died a fortnight since and in whom the district’s poor have lost a good friend.  She had long provided the Christmas fare for all the poor families of the district.

@@ -20,6 +20,7 @@ topics:
 - fire
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another fire occurred in Mr T. Warnes’ paddock on that day too and destroyed several acres of grass.

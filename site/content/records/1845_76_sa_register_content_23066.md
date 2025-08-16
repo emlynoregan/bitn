@@ -19,6 +19,7 @@ topics:
 - public nuisance
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Citizen’ bothered by the same habits, hopes the police might be more active than in previous years.

@@ -22,6 +22,7 @@ topics:
 - death
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The late Hon. John Bentham Neales was interred in the family vault at Brighton on Saturday 2 August.  At his wish the funeral was conducted in the quietest and most unostentatious manner.  Three mourning coaches conveyed the family and there were about 12 or 14 other coaches carrying close neighbours and business friends.  Rev. T. Field, a son-in-law of the deceased conducted the service in St Jude’s Church.  Shops at Glenelg and Brighton were closed as a mark of respect.

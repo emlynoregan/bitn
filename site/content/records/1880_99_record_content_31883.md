@@ -21,6 +21,7 @@ topics:
 - court
 - public_opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes re Forsyth v. Bosence.  He agrees that all the evidence and public opinion together incline him to think that the verdict was wrong, as do most other people.  He recounts the evidence in summary.  Rabbich can’t for the life of him see why the verdict was so much against the weight of the evidence.

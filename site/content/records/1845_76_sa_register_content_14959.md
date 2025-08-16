@@ -19,6 +19,7 @@ topics:
 - wool
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The late lambing season has been very productive with rates as high as 95%.  The yield of wool this year has also been very good and cleaner than in former years.  Many farmers are already sending off their clip, with many loads going through the town this week.

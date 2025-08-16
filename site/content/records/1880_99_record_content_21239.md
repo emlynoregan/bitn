@@ -23,6 +23,7 @@ topics:
 - health
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Burra Hospital.  This has been a great success since its inception, though there has been insufficient effort to involve the public and an undue reliance upon the Government subsidy.  There have been relatively few subscribers.  Much is due to the Honorary Medical Officers: Drs Nesbitt, Cave, Stephens and Sangster.  The doctors see no reason why they should not be paid for their services and the Board has now voted £100 p.a. to the two surgeons from 1 January 1886.

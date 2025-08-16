@@ -21,6 +21,7 @@ topics:
 - railways
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. The Clare Bill has been rejected by the Assembly. 

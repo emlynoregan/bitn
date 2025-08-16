@@ -19,6 +19,7 @@ topics:
 - advertising
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Record.  We found it necessary to publish this week on account of the demand for advertising space.

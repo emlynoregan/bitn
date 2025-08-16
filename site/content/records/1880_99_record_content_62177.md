@@ -19,6 +19,7 @@ topics:
 - sports
 - polo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  Last Saturday at Aberdeen Mt Crawford 9 defeated Burra 1.

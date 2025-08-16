@@ -21,6 +21,7 @@ topics:
 - council
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Lawn Tennis Club asked permission to use another portion of the same ground, undertaking to fence and plant and pay a nominal rent.

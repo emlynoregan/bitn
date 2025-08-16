@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Redruth Wesleyan Chapel held its anniversary on 8 & 9 July.  The preachers were Mr Burgess and Mr Wilkinson.  There was a tea meeting and public meeting on Monday.

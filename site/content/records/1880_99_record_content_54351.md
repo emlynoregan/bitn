@@ -22,6 +22,7 @@ topics:
 - hospital
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Nelson has injured his back in a fall at the Ulooloo Goldfields and is in the Burra Hospital.  ‘The injuries are not likely to prove fatal.’

@@ -18,6 +18,7 @@ topics:
 - government
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Rabbits.  There is a need for Government action to cause all lands to be inspected and clearance of rabbits to be enforced.

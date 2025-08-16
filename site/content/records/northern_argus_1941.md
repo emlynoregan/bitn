@@ -21,6 +21,7 @@ topics:
 - health
 - achievement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Carolyn Bowden & Debbie Moore have passed the State Final examinations as Enrolled Nurses.

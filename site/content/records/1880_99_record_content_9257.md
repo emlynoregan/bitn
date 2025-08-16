@@ -28,6 +28,7 @@ topics:
 - hospital
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest into the death of George Williamson, a shepherd who died at the Burra hospital aged c. 52. [Probably on 14 January.]

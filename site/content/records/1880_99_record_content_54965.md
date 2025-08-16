@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Anniversary services last Sunday were not well attended.   The weather was bad and the tea scheduled for Monday was postponed to Friday.

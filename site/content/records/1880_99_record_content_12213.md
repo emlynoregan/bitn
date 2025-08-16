@@ -20,6 +20,7 @@ topics:
 - business
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Edwards writes re his recent fire.  He explains that his claim was for £600 for stock and when they offered £550 he objected and signed an agreement for valuation for damage by fire, water and smoke in the one valuation, but the valuators simply valued what had been burnt and awarded £469-19-6.  Unfortunately the whole stock was not valued and as he is still finding stock damaged by smoke, he believes he is £200 or so out of pocket.

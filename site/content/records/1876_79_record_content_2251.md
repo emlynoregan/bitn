@@ -19,6 +19,7 @@ topics:
 - bridge
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Bridge: Commissioner of Public Works writes to say that the new bridge at Kooringa will be funded in the next year's estimates & that the Council need take no steps to acquire land as that will be done by either the Govt. or the Midland Roads Board.

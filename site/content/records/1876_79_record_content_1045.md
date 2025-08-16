@@ -18,6 +18,7 @@ topics:
 - advertisement
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kerr Bros. - Advt. `WANTED, a Smart BOY for the Smith's Shop.' Editorial - re the defence of the colony

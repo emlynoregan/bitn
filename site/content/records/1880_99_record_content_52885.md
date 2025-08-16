@@ -19,6 +19,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 9 February, return of the Great Hibernicon Co.

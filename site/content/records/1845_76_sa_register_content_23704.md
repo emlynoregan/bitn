@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The crops are very promising.  Wheat is in places nearly four feet high and a dark healthy green colour.  Should rust not appear and other conditions remain good yields of up to 30 bushels per acre seem likely.  Showers of rains continue to fall and there is no sign of the crops changing colour yet.

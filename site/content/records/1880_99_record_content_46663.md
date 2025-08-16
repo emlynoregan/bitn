@@ -21,6 +21,7 @@ topics:
 - petitions
 - Baldina Irrigation Scheme
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.W. Rabbich moved that the petitions re the Baldina Irrigation Scheme be laid on the table.

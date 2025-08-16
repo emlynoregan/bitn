@@ -22,6 +22,7 @@ topics:
 - council
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A public meeting is called to enable ratepayers of the North Ward to consider certain matters arising between their Councillor Rabbich and the council, next Friday at the German Schoolroom, Redruth.

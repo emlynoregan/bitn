@@ -24,6 +24,7 @@ topics:
 - governor
 - arrival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Governor will arrive on Tuesday by the midday train with Miss Mabel Buxton, Mr Harrold Buxton and Captain Guise.  They will be guests of Mr A. McCulloch.

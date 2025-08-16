@@ -19,6 +19,7 @@ topics:
 - library
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Institute half yearly meeting of subscribers on Tuesday found that the debt on the property is now only about £40 despite additions to the library stock and some planting on the grounds.

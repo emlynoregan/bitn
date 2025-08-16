@@ -20,6 +20,7 @@ topics:
 - business
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Building.  Drew & Co. have pulled down an old building in Market Square this week and this office is soon to fall also and four large new shops will be erected in place of the old ones.  Each shop will have a good bold front and at the back of each will be a handy room.  The front will feature a verandah and paved footpath.  The Record office will be in one of the shops and two others are already let in anticipation.

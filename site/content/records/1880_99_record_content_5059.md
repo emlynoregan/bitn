@@ -21,6 +21,7 @@ topics:
 - cricket
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Captain Opie’s side 59 & 31 (90) defeated

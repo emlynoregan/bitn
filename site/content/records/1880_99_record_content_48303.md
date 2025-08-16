@@ -22,6 +22,7 @@ topics:
 - lecture
 - gambling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.W. Howitt will preach in the Bible Christian Church at 3.30 today and will lecture on ‘Gambling’ in the Institute at 8 p.m., when F.W. Holder will preside.

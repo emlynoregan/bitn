@@ -20,6 +20,7 @@ topics:
 - environment
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Town appearance: Editorial on the desolate look of Burra with no trees and no recreation ground. Though land has been set aside in Redruth it is not available. At present the cemetery is the ‘place of public resort' - most unsuitable. How about planting some gum trees!

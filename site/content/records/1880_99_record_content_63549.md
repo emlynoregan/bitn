@@ -22,6 +22,7 @@ topics:
 - council
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.J. Davey was given permission to erect a verandah at his premises in the town.

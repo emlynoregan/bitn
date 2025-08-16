@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A Burra-Clare Barrow Push is being organised for 13 October.

@@ -18,6 +18,7 @@ topics:
 - local government
 - mayoralty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr P. Lane has been approached and after consideration has accepted.

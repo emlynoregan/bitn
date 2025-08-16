@@ -21,6 +21,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Federation and Free Trade between the colonies.  Report of a federation meeting in Sydney.

@@ -28,6 +28,7 @@ topics:
 - farming
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Agricultural Bureau.  A preliminary meeting was held on 1 June at Shakes & Lewis’s office with Dr. Brummitt in the chair.  Others were W. Barker, T. Fairchild & A.H. Forder.  J. Lewis JP was elected chairman and Mr Forder, the Hon. Sec.  Meeting will be held the evening of the Tuesday before full moon each month.  The first such meeting was last Tuesday, but bad weather saw only Messrs Lewis & Forder & Dr Brummitt turn up for it.  The discussion was on wattle growing which is a good possibility on stony ground.  [For use in tanning.]

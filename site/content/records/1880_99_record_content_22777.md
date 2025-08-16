@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The monthly meeting decided not to undertake any new building program at the rear of the hall in the present circumstances.  The committee also decided to seek police advice on what can be done to control larrikinism at functions.

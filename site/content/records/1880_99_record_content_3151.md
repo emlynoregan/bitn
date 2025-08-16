@@ -20,6 +20,7 @@ topics:
 - survey
 - by-law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The point was the lack of a plan of footpaths and streets in the town.  No proper town survey had ever been done and the cost of one was estimated at £400, which was beyond the means of Council - and the effect this might have on by-law 4.

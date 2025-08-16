@@ -19,6 +19,7 @@ topics:
 - concert
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist dinner and concert in aid of the Sunday-school went off successfully 

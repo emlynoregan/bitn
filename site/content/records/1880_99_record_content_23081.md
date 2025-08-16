@@ -19,6 +19,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Chess Club has been formed which has non-exclusive use of the Institute amusement room on Tuesday evening.

@@ -25,6 +25,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church farewelled Rev. J.G. Wright and Mr Burrows last Wednesday evening.  The former goes to Adelaide and the latter to Dawson as a Home Missionary.  At a tea meeting a purse of sovereigns went to Mr Burrows and the ladies gave Rev. Wright a small sum to procure a memento of Burra.

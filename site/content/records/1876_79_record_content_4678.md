@@ -19,6 +19,7 @@ topics:
 - resignation
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hon. J. Colton has resigned due to ill health.

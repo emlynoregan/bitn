@@ -17,6 +17,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  It has been hard to get a team together so no inter-club matches so far this season.  Even practice matches seem to fall through.

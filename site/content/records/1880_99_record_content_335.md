@@ -25,6 +25,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harvest Festival at the new St Mary’s on 5 February.  Communion was at 8 a.m. with Morning Prayer at 11 a.m. and Thanksgiving at 3 p.m.  Rev. Archdeacon Dove preached.  There was a full choral service under direction of Mr Boult, the St Peter’s Cathedral organist, with choristers from the cathedral. This was followed by a public tea and a concert.  The program for the concert was: -

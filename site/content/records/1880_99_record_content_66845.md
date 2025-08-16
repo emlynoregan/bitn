@@ -25,6 +25,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christians held their annual effort on 3 & 4 September when ‘Uncle Harry’ of the Children’s Sunbeam Society was to conduct all services, but was unavoidably absent on Sunday and was replaced by Rev. W.G. Clark in the morning and Rev. W.O. North in the evening.  The afternoon service of song, Woodland Music, was conducted by J. Davey with Arthur Davey at the organ and C. Pressick giving the connective readings.

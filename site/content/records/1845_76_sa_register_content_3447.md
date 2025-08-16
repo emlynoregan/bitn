@@ -26,6 +26,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Scotchman’ writes from Kooringa, 1 January 1849, that in February last, the Rev. J.C. Bagshaw (Anglican) was appointed to this district.  While here, he has truly fulfilled the duties of a Christian pastor.  The appointment was intended to be temporary (12 months) and I am given to understand that his slender salary has been defrayed from English Funds and his Bishop (it is said) declines to continue to support a clergyman to benefit a congregation apparently unwilling to defray the costs.

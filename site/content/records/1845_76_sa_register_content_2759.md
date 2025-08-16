@@ -22,6 +22,7 @@ topics:
 - real estate
 - mercantile
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  E.N. Emmett & Co. will conduct auction sales at Burra Burra on 10 January 1849:

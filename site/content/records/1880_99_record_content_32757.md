@@ -18,6 +18,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse School was inspected on 31 May and of the 30 pupils presented 21 were promoted and 6 obtained the compulsory certificate.

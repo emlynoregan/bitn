@@ -21,6 +21,7 @@ topics:
 - Sudan Campaign
 - troops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sudan Campaign.  SA and Victoria have offered troops for the Sudan campaign and their offer has now been accepted for August/September.  [But did not eventuate.]

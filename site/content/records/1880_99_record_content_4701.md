@@ -18,6 +18,7 @@ topics:
 - sanitary
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dangers of Burial of the dead from a sanitary viewpoint are outlined in a ½ column article headed ‘The Dangers of Inhumation’.

@@ -20,6 +20,7 @@ topics:
 - competition
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P.L. Killicoat’s challenge to run his dog against any other after kangaroos for £5 has been accepted by g. Parks.  To be run in about a month’s time.

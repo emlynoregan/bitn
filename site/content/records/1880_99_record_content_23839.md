@@ -18,6 +18,7 @@ topics:
 - wildlife
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Kangaroo Hunt was held on the holiday of 9 November.  [Using kangaroo dogs to run down the roo.]

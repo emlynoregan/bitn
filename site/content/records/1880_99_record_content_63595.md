@@ -18,6 +18,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  Water restrictions have been imposed due to excessive usage.  Water use for garden or irrigation purposes is now forbidden between noon and midnight.  The penalty is severance of supply.

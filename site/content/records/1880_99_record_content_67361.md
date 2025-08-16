@@ -20,6 +20,7 @@ topics:
 - agriculture
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grasshoppers invaded the town in their millions on Friday, but they soon headed off south.

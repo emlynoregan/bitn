@@ -19,6 +19,7 @@ topics:
 - community
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Dew writes complaining of young men with dogs going through his wheat crop on Sunday 21 December hunting for hares and damaging the wheat, which would be ready for the stripper in a few days.

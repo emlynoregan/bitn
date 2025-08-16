@@ -21,6 +21,7 @@ topics:
 - market gardeners
 - local history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This last name should probably be Sing & Fat who were a pair of market gardeners in The Paddock and had a shop in Market Square, though the dates of their operations in either place are unclear.]

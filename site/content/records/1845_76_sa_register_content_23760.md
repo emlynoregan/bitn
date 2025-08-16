@@ -19,6 +19,7 @@ topics:
 - yields
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  Some land near Gum Creek is said to have yielded 35 bushels per acre.  This is exceptions and although reports vary considerably, it is thought an average of 20 to 25 bushels per acre is likely.

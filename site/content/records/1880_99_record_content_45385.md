@@ -25,6 +25,7 @@ topics:
 - organization
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F. Treloar, the manager of Gum Creek, controlled the beat and Messrs Watt, Sandland, Crewes & Drew controlled the public.  Mr McDonald was judge.

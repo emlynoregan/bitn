@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Whilhelmina (Minna) Killicoat, wife of P.M. Killicoat, died on 25 March at Kooringa, aged 25.  [Born Wilhelmina Gebhardt 15 April 1869.]

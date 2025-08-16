@@ -22,6 +22,7 @@ topics:
 - sanitation
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 O’Leary Bros slaughterhouse and yards were a bit smelly due to the heat.

@@ -29,6 +29,7 @@ topics:
 - performance
 - gymnastics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Boy’s Brigade was recently formed in the Wesleyan Lecture Hall and several of the Prince Alfred College Boys assisted by Miss Mabel Best consented to assist by giving a concert on Thursday evening.  J. Drew, an old PAC scholar, occupied the chair.  (Mr C. Scanley Newman, Mr J. Harley Morrell, Mr E.H. Armstrong Stirling.)  There was a gymnastic display by E. Arthur Brummitt & R. Douglas Brummitt, who also did club swinging and juggling.  After the interval a performance of Bob Sawyer’s Picnic Party from Pickwick Papers convulsed the audience.

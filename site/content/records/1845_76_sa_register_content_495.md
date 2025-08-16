@@ -20,6 +20,7 @@ topics:
 - contracts
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mines.  Remarkable among the operations of the Burra Burra Mines are eight miners who joined together to raise ore from one of the main shafts for a contract price of 30/- per ton for two months.  They cleared £70-£80 each and left the company with nearly 200 tons of ore not equal to the terms of the contract, but which can profitably be smelted on the spot.  A new contract has been entered into at the much reduced rate of 15/- per ton.  So far the greatest number of hands employed has been about 140.

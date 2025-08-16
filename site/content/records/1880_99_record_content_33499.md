@@ -21,6 +21,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr H.C.E. Müggee was presented with a watch at a social at the bon Accord Hotel on 31 August on the occasion of his leaving Burra for Adelaide.

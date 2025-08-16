@@ -23,6 +23,7 @@ topics:
 - community
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Collinsville Junior Rams Team is in training for the 1988 Burra to Broken Hill Barrow Push.

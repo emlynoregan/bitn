@@ -19,6 +19,7 @@ topics:
 - football
 - score
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra		0.0	2.1	2.3	5.3	(33)

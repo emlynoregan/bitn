@@ -22,6 +22,7 @@ topics:
 - event
 - camping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouts held a camp this last weekend, sleeping at the Show Hall and hiking around the district.

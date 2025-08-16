@@ -23,6 +23,7 @@ topics:
 - death
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Staff Captain Bennetts and his wife visited the local corps last Thursday.  He is the new Divisional Officer for the district.

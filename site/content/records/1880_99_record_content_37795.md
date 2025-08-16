@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A fair practice game was played last Saturday in preparation for the Clare game next Monday.

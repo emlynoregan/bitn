@@ -19,6 +19,7 @@ topics:
 - tree planting
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W.R. Ridgway writes in support of his attempts recently to (a) get vacant blocks in town fenced, to help with tree planting and general improvement of appearances, and (b) to get vacant lots with unpaid rates sold.

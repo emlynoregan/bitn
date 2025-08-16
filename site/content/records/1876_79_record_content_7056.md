@@ -21,6 +21,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tonight at the Institute a Concert organised by the Committee of the St Mary's Building Fund who have gained the services of Mr Plaisted the celebrated Melbourne organist. (The program is then printed) 2/- & 1/-.

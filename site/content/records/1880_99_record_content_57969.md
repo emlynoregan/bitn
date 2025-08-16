@@ -19,6 +19,7 @@ topics:
 - law
 - public complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Resident’ writes condemning the practice of cabs carrying parcels.  It is surely against the law, as it is for the parcel van to carry passengers.  It is a practice detrimental to the parcel carrier and also to the passengers of the cabs who suffer from the dirt etc. from boxes and parcels and also from the worn and torn cushions they cause in cabs.

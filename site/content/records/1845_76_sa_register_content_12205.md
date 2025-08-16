@@ -19,6 +19,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mining mania continues, though no new discoveries of significance have been reported.  The visiting Directors of the River Broughton Mining Co. reported to their shareholders at the [Burra] Hotel last Friday and it was resolved to continue development.

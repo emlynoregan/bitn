@@ -19,6 +19,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Foresters’ Sports have attracted 31 nominations for the Burra Sheffield Handicap and 14 for the Xmas Handicap, with 15 for the Bicycle Race.

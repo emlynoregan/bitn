@@ -20,6 +20,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inspector’s salary was reduced from £60 to £50 and the job given to R. Snell.  Then confusion set in and the decision was cancelled and the job given to Mr Gray at the old salary of £60.

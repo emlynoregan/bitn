@@ -36,6 +36,7 @@ topics:
 - industry
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Burra Corporation acknowledges contributions of £108-14-0 to the Tree Planting Fund.

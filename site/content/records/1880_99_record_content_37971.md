@@ -20,6 +20,7 @@ topics:
 - social
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  About 20 members of the ‘Joker’ Juveni8le Football Club met at Mr J. Lewis’s nursery schoolroom for a social.  Games followed the excellent spread until about 10 p.m.

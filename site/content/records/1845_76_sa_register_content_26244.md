@@ -31,6 +31,7 @@ topics:
 - railway
 - postal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie.  21 January.  The heat today has been around 100°F in the shade.  A fire has consumed many hundreds of acres of grass on the reserve near Mr Browne’s sheep station.  Bridges over the Freshwater and Deep Creeks between Georgetown and Port Pirie have made it possible for light vehicles to get to the Burra railway about as quickly as they could get to Clare.

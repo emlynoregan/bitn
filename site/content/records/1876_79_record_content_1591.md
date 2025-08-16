@@ -21,6 +21,7 @@ topics:
 - industry
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mine news - signs at the 85 fathom level of Morphett's Shaft are very promising

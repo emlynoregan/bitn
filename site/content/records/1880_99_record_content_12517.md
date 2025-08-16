@@ -20,6 +20,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fire Sale.  T. Edwards will continue sale of salvage from the late fire in the adjoining store during reinstatement of the building.

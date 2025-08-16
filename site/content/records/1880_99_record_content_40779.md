@@ -21,6 +21,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Ruth Harry, relict of the late John Harry, died 12 March at Fairview House Mt Bryan, aged 78 and a colonist of 42 years.  [Born Ruth Thomas.]

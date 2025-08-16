@@ -23,6 +23,7 @@ topics:
 - mining
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  There has been a good find of gold at [Hd of] Wonna [at Teetulpa] and the report on it reached the discoverers when they were at Ulooloo which gave rise to an unfounded story that the rich gold find was there.

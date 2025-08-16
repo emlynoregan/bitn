@@ -20,6 +20,7 @@ topics:
 - story
 - mistake
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joe Ward’s Mistake by Luke Sharp, 15 July.

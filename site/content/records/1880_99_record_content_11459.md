@@ -25,6 +25,7 @@ topics:
 - picnic
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School held a picnic last Friday as a reward for the students’ creditable performance at the late examination.  Headed by the Burra Brass Band they marched through Kooringa, Aberdeen and Redruth to the Police Paddock.  The youngest went in a wagon lent by Catchlove & Co.  The sports and treat were thoroughly enjoyed.

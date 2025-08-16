@@ -21,6 +21,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army marched through Hallett with a Brass band on Wednesday 2 March and held a successful tea meeting later.

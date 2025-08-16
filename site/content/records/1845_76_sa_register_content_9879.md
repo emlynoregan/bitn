@@ -39,6 +39,7 @@ topics:
 - legal
 - case dismissed
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Local Court, Kooringa, 23 May

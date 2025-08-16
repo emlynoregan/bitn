@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Entertainment in the Institute last Wednesday in aid of the Mayor’s Tree Planting Fund was well attended.  The Burra Brass Band played in front and the nett proceeds exceeded expectations at £8-10-0.  The fund now stands at £13-3-6.

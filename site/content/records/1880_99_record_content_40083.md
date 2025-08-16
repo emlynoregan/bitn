@@ -25,6 +25,7 @@ topics:
 - elections
 - quorum
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Enquirer’ writes re the Institute AGM.  After the election of the President, Vice-President, Treasurer and Secretary the nominations for the committee were called and at that point somebody asked how many of those present were eligible to vote and the President then found only 7 of the 15 had paid their subscriptions.  The other eight then paid after some discussion.  The enquirer contends that the whole proceedings were thus informal and the elections invalid and the committee nominated without a quorum.

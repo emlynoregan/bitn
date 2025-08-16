@@ -20,6 +20,7 @@ topics:
 - telegraph
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett. E. Squires, Deputy PMG opened the telegraph to Hallett on Wednesday.

@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Fort at Glenelg is to be commenced and the guns housed.

@@ -20,6 +20,7 @@ topics:
 - labor
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on unemployment in Victoria and the need for a fair deal for both sides in the employer-employee debate.

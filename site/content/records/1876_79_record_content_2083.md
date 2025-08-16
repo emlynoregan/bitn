@@ -19,6 +19,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sunday 3 April. Report too on the Kooringa Wesleyan Sunday-School Anniversary

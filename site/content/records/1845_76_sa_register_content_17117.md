@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - local news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ediowie News [sic: Edeowie] 20 January

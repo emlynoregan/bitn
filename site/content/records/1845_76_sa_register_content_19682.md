@@ -20,6 +20,7 @@ topics:
 - crime
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Theft of firewood, even from fenced backyards at the rear of houses, continues to be a problem.  Mr Charles Cowper of the Pig & Whistle has lost an unusually large amount recently and so set a trap, connecting a piece of wood with a concealed gun loaded with saltpetre and buckshot with the muzzle pointed to the ground so that only legs could be hit.  He heard the gun go off in the night at about 1.30 a.m. and someone ran away in haste.

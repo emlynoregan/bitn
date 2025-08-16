@@ -22,6 +22,7 @@ topics:
 - appointments
 - health rate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. J. Fogg appointed Town Clerk and J.R. Gray as Inspector. General Rate declared of 1/- in the £ and a Health Rate of 3d in the £.

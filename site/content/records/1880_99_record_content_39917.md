@@ -19,6 +19,7 @@ topics:
 - auction
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith will offer 15,130 sheep on 30 January.

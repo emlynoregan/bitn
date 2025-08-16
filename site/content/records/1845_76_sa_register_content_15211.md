@@ -21,6 +21,7 @@ topics:
 - mining
 - technical advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Arthur Motley of Redruth writes offering his advice on the constriction of smelting facilities, ‘having been for many years practically acquainted with the erection and working of furnaces’.

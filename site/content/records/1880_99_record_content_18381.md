@@ -19,6 +19,7 @@ topics:
 - education
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Miss Sleep, having had the schoolroom enlarged and made thoroughly comfortable hopes to carry on her scholastic duties with even greater success.  The school reopens on Monday 13 July 1885.

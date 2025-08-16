@@ -18,6 +18,7 @@ topics:
 - series
 - irregularities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The series then begins using numbers not previously used and runs fairly regularly from 355 to 397, although the following irregularities do occur:

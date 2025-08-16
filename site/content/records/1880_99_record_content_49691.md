@@ -19,6 +19,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on Friday last and enjoyed good attendance despite the weather.  Seven new members were accepted.  Music and elocution for the next meeting.

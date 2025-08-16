@@ -21,6 +21,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.G.M. Murphy delivered his popular address on America, illustrated with magic lantern views, at St Mary’s schoolroom on Wednesday evening.  Proceeds will aid the flower stall at the strawberry fete.

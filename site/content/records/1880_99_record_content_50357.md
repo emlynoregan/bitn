@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Walter Terry, youngest son of the late William Terry, died at Copperhouse on Friday after a long illness, aged 14 years 6 months.

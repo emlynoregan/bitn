@@ -22,6 +22,7 @@ topics:
 - local politics
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘J.A.H.’ from Laura writes an ironic letter supporting the paper for having ‘dared, ay dared, to rebuke the Mayor and his satellites, those tritons among the minnows of your town; and lo! You have been deservedly pulverised’.  Fancy daring as the Mayor said to ‘pick them to pieces, when they had been trying to do their duty’.  The writer advises repentance and apologies ‘for venturing to give utterance to unpalatable truth’.

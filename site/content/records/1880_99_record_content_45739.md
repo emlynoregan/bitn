@@ -20,6 +20,7 @@ topics:
 - culture
 - literary society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on Friday for a medley program with songs, duets, instrumental pieces, readings and speeches.  [Including in the latter one by Mr [C?] Fuss.]

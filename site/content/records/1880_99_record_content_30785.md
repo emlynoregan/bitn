@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George Brown, aged 38, left a wife and six children and had entered service on 31 May 1681 [sic] [1861?]

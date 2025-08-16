@@ -21,6 +21,7 @@ topics:
 - fundraising
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The local corps have raised £13-8-0 in their self-denial effort this year compared with £20-6-5 last year – an indication of ‘the depressed state of the local money market’.

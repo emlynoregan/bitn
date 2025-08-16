@@ -20,6 +20,7 @@ topics:
 - animals
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Snakes are numerous this year and easily lost in the abundant feed.  Mr J.G. Lehman lost a cow on Saturday to snakebite in the Brewery Paddock.

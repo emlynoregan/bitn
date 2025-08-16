@@ -19,6 +19,7 @@ topics:
 - local government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Mine.  A management committee for the Burra Mine Area has been formed under section 666C of the Local Government Act.

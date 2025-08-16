@@ -21,6 +21,7 @@ topics:
 - contracts
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra Mines.  Contracts for supplying the above mines with gum slabs in quantities of 1,000 to 10,000 will be entered into at the office of the SA Mining Association, Rundle Street, Adelaide or at the counting house at the Mines.  Adelaide 23 August 1854.

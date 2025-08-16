@@ -20,6 +20,7 @@ topics:
 - bridge
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bridge: The cost of the new footbridge at Bridge Street c.£12/10/- with construction c. £9 and transport of materials from the old bridge c.£3/11/-. Once work on it is quite finished the footbridge at the Pig and Whistle will be restored.

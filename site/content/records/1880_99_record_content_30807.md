@@ -19,6 +19,7 @@ topics:
 - finance
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Adelaide Jubilee Exhibition had receipts of £68,701-13-8 and a credit balance of £264-17-2.

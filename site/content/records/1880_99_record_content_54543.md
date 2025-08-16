@@ -18,6 +18,7 @@ topics:
 - community
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Turner, a resident of 30 years is selling his furniture and moving.

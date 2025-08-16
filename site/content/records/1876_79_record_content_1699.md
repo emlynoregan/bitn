@@ -19,6 +19,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Advt. - At the Miners' Arms Billiard Room Mr Herbert Roberts the Champion Thumb and Finger Player will give exhibitions on Friday evening. Tickets 4/-

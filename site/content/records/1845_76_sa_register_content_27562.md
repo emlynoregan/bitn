@@ -24,6 +24,7 @@ topics:
 - school
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Education at Burra.  It might perhaps be inferred from the visit of the President of the Council of Education, by people not knowing Kooringa, that Burra did not have a good public school.  The defect is not in the institution, but in the building.  F.W. Holder has about 50 pupils or more than the size of the room warrants and many more children are unable to attend because the teacher cannot cram them in without a danger to health.

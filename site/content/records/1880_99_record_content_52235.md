@@ -18,6 +18,7 @@ topics:
 - disease
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Respiratory Disease has killed 700 in London last week.  [Fog?]

@@ -20,6 +20,7 @@ topics:
 - sports
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Basketball’ is a new game for girls that has been introduced into England.  This really splendid game is an importation from America . . . the great beauty of basketball consists in its extreme simplicity.  Basketball is, in fact a sort of football played with the hands and the teams are disposed in much the same manner with goal-keepers, backs, half-backs &c.

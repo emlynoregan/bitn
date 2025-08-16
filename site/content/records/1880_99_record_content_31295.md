@@ -19,6 +19,7 @@ topics:
 - community
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy alleging that men of good standing in the town are stealing and eating people’s fowls and geese and then claiming it was just a lark.  If the needy did it they would be arrested.  He says he could name names, but ‘the law will not allow a man to call a spade a spade’.

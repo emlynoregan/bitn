@@ -22,6 +22,7 @@ topics:
 - football
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Football Club AGM was held at the Commercial Hotel on 12 May.  Captain for the year is G. Herbert and Vice-Captain is J. Wade.

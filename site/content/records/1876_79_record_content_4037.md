@@ -20,6 +20,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Coaches. Terry's coaches are still advertised as leaving from Burra.

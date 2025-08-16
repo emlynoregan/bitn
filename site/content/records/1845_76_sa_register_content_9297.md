@@ -24,6 +24,7 @@ topics:
 - election
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 G.S. Kingston writes an address to the Electors of the Burra.  Major points in a very long piece:

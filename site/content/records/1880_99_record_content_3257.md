@@ -18,6 +18,7 @@ topics:
 - government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on Judge Gwynne’s on-again off-again resignation and the turmoil in the Govt.

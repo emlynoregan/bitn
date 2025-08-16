@@ -21,6 +21,7 @@ topics:
 - advertisement
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 5 July 1853, page 2

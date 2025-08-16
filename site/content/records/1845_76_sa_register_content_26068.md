@@ -25,6 +25,7 @@ topics:
 - infrastructure
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Northern Crops.  Crops north of Burra in the areas of Booborowie, Mt Bryan and Hallett are looking splendid.  Grass on Booborowie Run and other pastoral holdings is also good and the sheep are in fine condition.

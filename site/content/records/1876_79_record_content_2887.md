@@ -21,6 +21,7 @@ topics:
 - appointment
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. Letter to Ed. complaining about cronyism in the appointment of a friend, J.D. Cave, of the president, Mr T. Warnes, to position of Overseer of Works at £70 per year.

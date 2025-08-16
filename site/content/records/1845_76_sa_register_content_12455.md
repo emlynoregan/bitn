@@ -18,6 +18,7 @@ topics:
 - geology
 - expedition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Selwyn Geological Expedition is reported.

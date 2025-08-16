@@ -19,6 +19,7 @@ topics:
 - accident
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Beckwith’s horses grew excited as he was unharnessing them on Wednesday last.  One got away and went home.  The other collided with E.C. Lockyer’s fence breaking all the spokes in a wheel.

@@ -26,6 +26,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred E. Builder, eldest son of Mrs Builder of Burra, has been promoted to manage a WA branch of Messrs Crooks & Booker of Adelaide and Pt Adelaide.  He was made several presentations prior to his departure for the West.

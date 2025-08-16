@@ -21,6 +21,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football. Mr Blott will umpire the match against Clare next Monday at Victoria Park.

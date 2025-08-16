@@ -23,6 +23,7 @@ topics:
 - obituary
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Preece, wife of Benjamin Preece of Aberdeen has died after a long and painful illness.  Mr Preece had lived in the town since the early days - about 37 years ago.  She leaves a large adult family.  [Died 12 February 1890 aged 63.  Born Hannah Jones.]

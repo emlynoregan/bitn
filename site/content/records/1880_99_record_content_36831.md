@@ -23,6 +23,7 @@ topics:
 - hospitality
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Smith, late of the Wilmington Hotel and the Central Hotel, Port Pirie, takes over the Burra Hotel.

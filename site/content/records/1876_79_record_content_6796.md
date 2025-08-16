@@ -18,6 +18,7 @@ topics:
 - building
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Proposed rebuilding of the Miners' Arms. [Though this did not take place in the rather grandiose form originally proposed.]

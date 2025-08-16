@@ -18,6 +18,7 @@ topics:
 - economy
 - local_business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Empty Shops are plentiful in Market Square.

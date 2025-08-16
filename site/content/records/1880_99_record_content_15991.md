@@ -20,6 +20,7 @@ topics:
 - retail
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Kitchen	Grocer, Tea Dealer, Crockery, China, Glassware, Fancy Goods, Butter, Eggs, Fowls, Ducks, Turkeys, Commercial St

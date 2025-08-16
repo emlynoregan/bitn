@@ -20,6 +20,7 @@ topics:
 - fundraising
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D. Ross the American auctioneer will give a varied entertainment in the Institute tonight.  Half the proceeds go to the hospital.

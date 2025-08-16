@@ -21,6 +21,7 @@ topics:
 - meat inspection
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pleuropneumonia is a problem in the area to the east and the District Council are is too large for their Inspector to see every carcase in the various slaughter yards.  Could arrangements be made for the Town Inspector to take up this important duty?  We do not say out butchers would knowingly sell diseased meat, but it might be in an early stage detectable only to experienced authority.

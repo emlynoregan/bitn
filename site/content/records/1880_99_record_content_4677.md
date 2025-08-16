@@ -21,6 +21,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Post Office.  A deputation to the Govt. last Friday asked for new postal facilities at Redruth and Aberdeen as well as for a new railway station.  It seems a new station will be provided, but not any nearer the town.

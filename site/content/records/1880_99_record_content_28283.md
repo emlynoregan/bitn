@@ -19,6 +19,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Joker Silver Mining Syndicate has a shaft now at 61’ and a drive 22’ to within 6’ of the big blow.

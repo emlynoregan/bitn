@@ -18,6 +18,7 @@ topics:
 - railway
 - land grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader opposed to the construction of a Transcontinental Railway [to Darwin] on the Land Grant Scheme.

@@ -19,6 +19,7 @@ topics:
 - anniversary
 - birthday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Xenia Stockman was 85 on 7 May.

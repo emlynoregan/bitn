@@ -24,6 +24,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The tender of Messrs Launder & Co. for a lime and sand wall in East Ward for £9 was accepted.  (Not per chain as stated in the last issue.]  (Or £7-16-0 for a dry wall.)  The other tenderer was D. Rogers; for £6.  Messrs Launder & Co. tendered £2-5-0 for kerbing, which was accepted.  The other tender from D. Rogers was for £1-19-0.

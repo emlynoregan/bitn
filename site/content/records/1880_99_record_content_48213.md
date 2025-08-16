@@ -23,6 +23,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Relief.  Rev. R.M. Hunter, assisted by Mr E.C. Thomas, gave a lecture and lantern entertainment at the Burra Institute on Friday night in aid of Broken Hill relief.  The 40 limelight views showed how the poor lived in London.

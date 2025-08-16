@@ -29,6 +29,7 @@ topics:
 - ore
 - export
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The 13th AGM of the SA Mining Association was held last Wednesday at the Company’s office in Adelaide.  One of the largest shareholders, J.B. Graham was in attendance.  He is presently visiting the colony from Frankfurt, where he has taken up residence.  The report gives a glowing account of prospects and of the increased production over the last six months.  In the sic months to 31 March 6,304 tons was raised.  This is an increase of 940 tons on the same period a year earlier and 580 tons more than for the immediately previous six months.  The average produce has been 23-24%.  For the year ending 31 March 1857 the ore raised was 10,961 tons.  This was raised at a cost of £128,780-6-3 or £11-15-0 per ton.  It realised £171,403-3-8 or £15-12-9 per ton.  This yielded a profit of £42,622-17-5 or £3-17-9 per ton.  The total nett profit for the year was £44,226-9-4.  The balance for credit in the profits and loss account to 30 September last was £40,894-12-1 however; out of this the last two dividends were paid, amounting to £24,640.  The residue, with the profits of the year brings the balance of profit to £60,481-1-5.  The estimated value of produce on hand is based on the latest figures from England, which show a fall in copper prices to £9-10-0 per ton.  The Directors expect that copper prices will rally and estimate the profit will therefore rise by £20,937-19-4, making altogether a divisible balance of £81,419-0-9.

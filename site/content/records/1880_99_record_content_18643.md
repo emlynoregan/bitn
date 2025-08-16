@@ -19,6 +19,7 @@ topics:
 - immorality
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on immorality in high places.  Mrs McEvoy’s disorderly house in Adelaide was raided and she was fined £10, but the names of the ‘upper ten’ visitors were carefully concealed.

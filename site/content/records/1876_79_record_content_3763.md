@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. The dayman is working on doubling the height of the footbridge at the Miners' Arms, making it a plank wider, and adding a hand rail.

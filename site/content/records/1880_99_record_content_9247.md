@@ -26,6 +26,7 @@ topics:
 - presentation
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Farewell Banquet to J. Braley JP and Charles Gall.  Mr Braley has retired from the firm of Stephens & Braley.  Charles Gall is about to leave the management of Mt Bryan Estate, which has recently been sold, to Messrs Bowman.  The banquet was thrown at Lewis’s Hotel, Hallett and about 40 sat down.

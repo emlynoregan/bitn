@@ -18,6 +18,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Young Australians 41 & 3 for 180 drew with Burra Juniors 43.  A result called in the paper ‘a draw in favour of the Young Australians’.

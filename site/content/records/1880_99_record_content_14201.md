@@ -19,6 +19,7 @@ topics:
 - public service
 - statement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Ker writes disassociating himself from the egg throwing.  He had no personal knowledge of the event and such action could endanger his job in the public service.

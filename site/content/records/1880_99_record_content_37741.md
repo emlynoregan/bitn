@@ -20,6 +20,7 @@ topics:
 - agricultural
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dogs continue to worry sheep in the area and several more sheep have had to be destroyed.

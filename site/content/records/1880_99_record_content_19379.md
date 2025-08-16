@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Pedestrian’ on the matter of roof guttering in Burra - expressing his disgust at both Cr West and the Mayor and suggesting that voters give consideration to electing councillors who will consider the welfare of the town in general.

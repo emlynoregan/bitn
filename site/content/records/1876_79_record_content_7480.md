@@ -19,6 +19,7 @@ topics:
 - building
 - improvements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Church Kooringa. We hear tenders will soon be called for a new front and considerable other improvements to the building. The whole to cost c. £500.

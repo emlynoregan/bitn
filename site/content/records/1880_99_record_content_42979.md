@@ -22,6 +22,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes complaining of the new railway timetable in which the afternoon train which used to go to Adelaide at 4.23 p.m. is now an hour earlier to the great detriment of business in the country.

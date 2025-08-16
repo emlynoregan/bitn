@@ -25,6 +25,7 @@ topics:
 - partnership
 - auctioneers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  McLaren, White & Co., auctioneers, announce they have taken into partnership H.T.H. Morris, formerly of Liston, Shakes & co. and have secured the Bon Accord saleyards, which will be renovated and enlarged.  The Burra office is three doors south of the National Bank.  Members of the partnership are: John McLaren, J. Wharton White, A.F. Scammell, & H.T.H. Morris.

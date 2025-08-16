@@ -20,6 +20,7 @@ topics:
 - drought
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chaff has risen by £1-10-0 a ton to £6-5-0 as a result of the continuing drought, though chaff from northern areas is still being delivered this week in Burra for £4-15-0 a ton.

@@ -19,6 +19,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Taylor-Carrington Co. performed at the Institute on Friday to a bumper house.

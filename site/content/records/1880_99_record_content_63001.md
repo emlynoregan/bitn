@@ -18,6 +18,7 @@ topics:
 - council
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The year’s small overdraft should be handled with ease next year in the absence of any bonded debt to be repaid.

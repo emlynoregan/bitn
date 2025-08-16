@@ -19,6 +19,7 @@ topics:
 - heritage
 - restoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse – Photo showing progress with scaffolding around the building and the balconies, roof and new was facing the shaft all in place.

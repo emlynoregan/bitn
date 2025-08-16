@@ -21,6 +21,7 @@ topics:
 - dedication
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  A large chancel window has just arrived from England on order of the family of the late Mr & Mrs A. McCulloch.  It will be dedicated next Saturday morning at 11 o’clock when the Venerable Archdeacon Dove will officiate.  The window features: The Crucifixion, The Blessed Virgin Mary and St John.

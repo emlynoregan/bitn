@@ -19,6 +19,7 @@ topics:
 - waterworks
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The works continue to operate satisfactorily.  From 1 July all concessions for excess water have been discontinued.  [These concessions had allowed excess use in one assessment to be transferred to another assessment which had been underused, but from 1 July each assessment would stand alone and be charged accordingly.]

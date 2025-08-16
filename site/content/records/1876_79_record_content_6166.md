@@ -23,6 +23,7 @@ topics:
 - arrival
 - personnel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. James Bickford, who comes to the Kooringa Wesleyan Church, arrived by mail steamer from England on Monday and should reach Burra about 10 April.

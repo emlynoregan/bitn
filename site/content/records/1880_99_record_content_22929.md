@@ -18,6 +18,7 @@ topics:
 - legislation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Payment for Members.  A Bill to pay backbenchers £200 p.a. is to be introduced.

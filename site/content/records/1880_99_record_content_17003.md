@@ -22,6 +22,7 @@ topics:
 - horticulture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen and Redruth Reserves are looking promising, as is the plot behind Mr Bartholomæus’ store.

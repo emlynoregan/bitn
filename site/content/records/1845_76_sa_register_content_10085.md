@@ -31,6 +31,7 @@ topics:
 - mail
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 15 August 1856, page 3

@@ -18,6 +18,7 @@ topics:
 - purchase
 - evidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dorothea Schmidt had bought 6 packets of cocoa for 1/6.

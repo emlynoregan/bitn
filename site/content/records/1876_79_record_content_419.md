@@ -30,6 +30,7 @@ topics:
 - dispute
 - Board of Health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from W. Peel Nesbitt, Government Medical Officer

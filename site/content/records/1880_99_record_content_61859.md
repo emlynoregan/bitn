@@ -22,6 +22,7 @@ topics:
 - social
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Australasian National League Committee invites members and their friends (including ladies) to a Social at the Burra Institute 19 February 1897, to honour J.J. Duncan on his retirement from representation of the N-E District of the Legislative Council.  John D. Cave, Secretary.

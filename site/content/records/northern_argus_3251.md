@@ -21,6 +21,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Letcher family will soon be leaving Burra for Adelaide and on Friday night the Scouts will hold a farewell barbecue for them.

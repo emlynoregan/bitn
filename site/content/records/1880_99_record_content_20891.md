@@ -22,6 +22,7 @@ topics:
 - letter
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Dunstan Jun. writes to the Hon. Dr Cockburn, Minister of Education, urging a systematic search of the country east of Burra for minerals in this time of unemployment.  Significant discoveries could ease the burden ‘by absorbing some of the surplus labour’.

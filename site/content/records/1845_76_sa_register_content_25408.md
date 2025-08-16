@@ -20,6 +20,7 @@ topics:
 - teetotalism
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A.W.P. Ward, known as ‘Yankee Bill’, lectured on teetotalism at the Wesleyan Schoolroom on Tuesday, but due to poor weather the attendance was not good.

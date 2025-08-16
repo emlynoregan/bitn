@@ -23,6 +23,7 @@ topics:
 - auction
 - real_estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  George Green will sell by auction on 9 December, by order of the mortgagee:

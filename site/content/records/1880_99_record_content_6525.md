@@ -22,6 +22,7 @@ topics:
 - festival
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rose of Sharon Tent IOR held its annual festival at the Institute last Wednesday.  The hall was filled and Rev. J.A. Burns from Adelaide took the chair, assisted by F.W. Holder.  At present there are 99 members.

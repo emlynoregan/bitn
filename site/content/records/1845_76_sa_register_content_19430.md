@@ -19,6 +19,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr & Mrs George Case have been entertaining people in Burra this week.

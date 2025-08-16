@@ -20,6 +20,7 @@ topics:
 - service
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sunday next at the Bible Christian Church Rev. A.J. Finch will preach special services.  Dinner Thursday at 5 p.m.

@@ -20,6 +20,7 @@ topics:
 - mail
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rounsevell’s Burra Burra Mail.  While any other conveyance runs at 10/- Rounsevell’s will run at 5/-.  While any other runs at 5/-, Rounsevell’s will dun at 2/6.

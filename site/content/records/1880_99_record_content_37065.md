@@ -20,6 +20,7 @@ topics:
 - editorial
 - legislature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on ‘Political Fossils’ i.e. the members of the Legislative Council, especially ferocious is the attack on the Hon. Samuel Tomkinson.  He is accused of ‘arrant hypocrisy’.  The Legislative Council is the house of ‘a spirit of conservatism of the most extreme type’.

@@ -20,6 +20,7 @@ topics:
 - road
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Murray Street, which was passable only with difficulty a few weeks ago, due to its newly macadamized surface, has since been pulverised into a mere sand bed.  Recently in a single day 80 drays and wagons loaded exclusively with coal passed along it on their journey northwards.

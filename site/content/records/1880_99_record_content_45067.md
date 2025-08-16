@@ -20,6 +20,7 @@ topics:
 - hunting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The rabbit hunt from Klaebe’s last Saturday came off very well with 438 rabbits bagged from Block A.

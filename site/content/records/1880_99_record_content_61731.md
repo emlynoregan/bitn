@@ -20,6 +20,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  Periodicals in the Institute have been mutilated and a £5 reward is offered for information leading to a conviction.  If the trouble continues the doors of the reading room may be shut to all but subscribers.

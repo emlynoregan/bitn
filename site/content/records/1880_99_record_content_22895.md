@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government Dam at Manna Hill has been placed so that most water will bypass it.

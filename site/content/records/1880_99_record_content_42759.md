@@ -21,6 +21,7 @@ topics:
 - pests
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.E. & A. Gebhardt of Mackerode	£4-17-0

@@ -21,6 +21,7 @@ topics:
 - health
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. West Sen. has been dangerously ill for the past few days with a cold which settled in his lungs, but he now seems to be on the mend.  During his illness Cr West, his son, has taken over the management of the mine and property.

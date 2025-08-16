@@ -19,6 +19,7 @@ topics:
 - shareholders
 - commercial bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21655→Commercial Bank.  A meeting of shareholders resolved that attempts should be made to carry on, even though there will be no prospect of returns to shareholders for a long time.

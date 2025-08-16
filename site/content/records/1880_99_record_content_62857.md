@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mine.  The boring machinery and newly appointed engineer will arrive in Burra tomorrow and work will proceed at once.  The secretary expects boring to be underway during the next fortnight.

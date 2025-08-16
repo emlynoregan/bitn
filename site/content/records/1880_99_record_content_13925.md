@@ -22,6 +22,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Teamster Robert O’Connell was admitted to the Burra Hospital on 29 July with a shattered leg caused when a wagon passed over it on the road from Terowie to Silverton.  He is not expected to live.

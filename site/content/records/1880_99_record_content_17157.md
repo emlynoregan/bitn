@@ -20,6 +20,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This was arranged to allow connections with the Wallaroo line trains, but the earlier afternoon train, by 40 minutes is awkward for the Burra sales.

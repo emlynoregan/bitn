@@ -20,6 +20,7 @@ topics:
 - church
 - altar cloth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Nesbitt was presented with a handsome album by St Mary’s choir.  Miss Nesbitt completed the embroidered altar cloth on Easter Eve.

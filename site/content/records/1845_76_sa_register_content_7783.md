@@ -24,6 +24,7 @@ topics:
 - river navigation
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gold Discoveries and the Navigation of the Murray

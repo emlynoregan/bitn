@@ -20,6 +20,7 @@ topics:
 - recreation
 - gambling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson Institute [i.e. Farrell’s Flat] 1⅔column report on a meeting re allowing card playing.  The eventual decision was 12 for and 7 against.  The proponents thought that card games like euchre and whist were harmless fun, but opponents of course thought they inevitably led on to gambling, a dissolute life style, ruin and damnation.

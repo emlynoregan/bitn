@@ -21,6 +21,7 @@ topics:
 - visit
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s.  The Lord Bishop of Adelaide will visit on 15 & 16 September.  On 15th there will be a service of preparation for Holy Communion [confirmation] 16th September, Holy Communion at 8 a.m., Matins & Holy Communion at 11 a.m. and Evensong at 6.30 p.m.

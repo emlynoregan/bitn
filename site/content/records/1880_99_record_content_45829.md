@@ -19,6 +19,7 @@ topics:
 - injury
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism: several young boys are stupidly throwing lighted matches at passers-by.  They are also lighting them and forming a line along the footpath.  On Tuesday one of our office boys fell a victim and received severe burns in the eye.

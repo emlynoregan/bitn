@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Bridge.  Six tenders were received ranging from £1,715-6-5 to £1,904-4-4.

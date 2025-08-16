@@ -20,6 +20,7 @@ topics:
 - football
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Manoora 3.7 defeated Aberdeen 1.5.  [Aberdeen’s total changed to 1.6 in the next issue.]

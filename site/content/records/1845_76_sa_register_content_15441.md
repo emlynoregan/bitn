@@ -20,6 +20,7 @@ topics:
 - economy
 - food
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Much fruit has been brought to the town this year at such moderate prices that some families have made it a principal article of diet.

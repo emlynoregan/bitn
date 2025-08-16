@@ -20,6 +20,7 @@ topics:
 - business
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  W.W.G. Nicholls ‘Off to the Mines Again!’

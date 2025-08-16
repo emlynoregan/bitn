@@ -19,6 +19,7 @@ topics:
 - wheat
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hallett has had a good start to the wheat season.  The village itself is quiet, but progressing.

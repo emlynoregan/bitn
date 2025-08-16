@@ -20,6 +20,7 @@ topics:
 - council
 - policing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Government has agreed to have only one foot constable in Burra, which will save the Council its moiety of £70 p.a.

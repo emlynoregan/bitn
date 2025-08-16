@@ -21,6 +21,7 @@ topics:
 - thanks
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice: H. Howitt thanks neighbours who helped put out the fire in the Glebe last Friday.

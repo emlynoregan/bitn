@@ -22,6 +22,7 @@ topics:
 - mining
 - passage-tickets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice to miners engaged by Mr Winship.  The undersigned are instructed to issue Passage Tickets by the Rangatira, to sail about the 10th inst. to W. Hoskins, Charles Beattie and William Tomkins, and their families.

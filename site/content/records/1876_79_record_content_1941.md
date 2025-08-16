@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - engineering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Letter from Engineer-in-Chief of the railways to the Corporation saying that an underpass at the Aberdeen Mill was not feasible as the embankment was too low.

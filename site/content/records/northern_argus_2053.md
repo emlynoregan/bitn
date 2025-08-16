@@ -35,6 +35,7 @@ topics:
 - wool
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Show Society held its AGM and Peter Stockman was elected as the Society’s new President. The Vice-Presidents are Bob Jamieson and Ian Slade.  Jock Duncan as outgoing President reported on a very successful 1986 show.  With a focus on sheep and wool, the features had been:

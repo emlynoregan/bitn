@@ -20,6 +20,7 @@ topics:
 - charity
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Jubilee Benevolent Soc.  The concert on Wednesday evening was very interesting.  The society has, since its inception, raised £86-9-6, £37-4-0 coming from the Jubilee Celebration Committee.  22 families have received assistance.  23 widows have also been helped, 10 widowers and 3 single persons.  The concert concluded with the farce Keep Your Temper, which sent all home in a merry mood.  Mr C.H. Hague was particularly good in this, but all were commendable.

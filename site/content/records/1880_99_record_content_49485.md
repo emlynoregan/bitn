@@ -18,6 +18,7 @@ topics:
 - election
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [In issue 239 it is suggested that Mr Duncan is continuing the campaign.]

@@ -20,6 +20,7 @@ topics:
 - religion
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The German chapel has all services in German and the small Bible Christian Chapel on the western side of the plain is connected with Kapunda Station, but is now closed.

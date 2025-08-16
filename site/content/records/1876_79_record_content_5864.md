@@ -23,6 +23,7 @@ topics:
 - bridges
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. A deputation says the Queens St Bridge is too small for the flow of water and so also is the new Commercial St Bridge. The solution they suggest is a retaining wall to secure the bank of the creek for a distance of some 20 yards to save the foundations of the Catholic schoolroom. They consider the Queen St bridge needs rebuilding at a greater width and to improve the flow of water.

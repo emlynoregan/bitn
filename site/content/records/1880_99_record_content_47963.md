@@ -22,6 +22,7 @@ topics:
 - streets
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Surveyor-General wrote re the names of streets in New Aberdeen.  He suggested the Council apply to the LTO and also to Sir Henry Ayers re the names.

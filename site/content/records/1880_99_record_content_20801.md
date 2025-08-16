@@ -30,6 +30,7 @@ topics:
 - overseer
 - scavenger
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson thought this meeting was a special call.

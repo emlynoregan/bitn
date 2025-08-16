@@ -19,6 +19,7 @@ topics:
 - insolvency
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 E.H. Grafe has been obliged to call his creditors together – business being flat and too much booking going on and insufficient money being earned for the working people to pay their way.

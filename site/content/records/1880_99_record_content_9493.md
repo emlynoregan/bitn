@@ -19,6 +19,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He then considers the cost of the reservoir, pump, pump house etc., new well, pipes and 3” main to Market Square etc. to come to £1,900.

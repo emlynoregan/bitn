@@ -28,6 +28,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Late Floods.  The District councils of Hallett and Mt Bryan have waited on the Treasurer, Hon. F.W. Holder, at his Kooringa office to plead for funds to repair roads etc.  Mr J. Dunstan, Chairman of the Hallett D.C., said £400-£500 would not repair the damage.  The others supported the same general line.  Mr Collins, Chairman of Mt Bryan D.C., pointed out that their total rate of £350 would hardly repair the fords in the district.  At Mt Bryan the water had been a foot over the railway line near the station.  Mr Holder made few promises and told them to spend what grants they had and to reapply in three months for the next [financial] year’s special grants.

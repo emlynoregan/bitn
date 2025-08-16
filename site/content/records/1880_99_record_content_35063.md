@@ -21,6 +21,7 @@ topics:
 - estate
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  In the estate of the late Leonard Urwin tenders are called for the cash purchase of Drapery, Stock & Fixtures in Commercial St, Kooringa.

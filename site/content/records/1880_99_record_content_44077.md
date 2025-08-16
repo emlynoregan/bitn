@@ -23,6 +23,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘It is to be very much regretted that Mr Hardy cannot go to work with his colleagues in a proper and gentlemanly manner instead of rushing into print to try to show them up, but even in this feeble attempt he has failed.’

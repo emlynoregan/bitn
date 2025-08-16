@@ -21,6 +21,7 @@ topics:
 - music
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary 11 & 12 October was largely attended and an excellent tea was provided on the Monday when the Iron Mine Brass Band was much appreciated in the evening.  The balance sheet will allow a small reduction in the debt after the payment of interest.

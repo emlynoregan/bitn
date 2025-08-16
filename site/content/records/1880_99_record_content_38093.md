@@ -22,6 +22,7 @@ topics:
 - business
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The late Mrs Bock carried on a business in fancy goods in Market Square for many years.  She was a resident for 26 years and was mother-in-law to Mr George Dawson, a long-time manager of this office.

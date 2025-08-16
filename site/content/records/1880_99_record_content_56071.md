@@ -19,6 +19,7 @@ topics:
 - public safety
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Beware of Rabbits.  Phosphorized pollard has been very widely distributed in the district and as it takes up to a week to act, consumers of rabbits should exercise caution because the eating of affected rabbits could lead to unpleasantness or even death.  It is not safe at present to catch rabbits for consumption.

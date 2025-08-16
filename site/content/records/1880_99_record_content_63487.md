@@ -19,6 +19,7 @@ topics:
 - mining
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mines has been at a standstill over the holidays, but will resume boring operations shortly.

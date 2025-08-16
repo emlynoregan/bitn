@@ -19,6 +19,7 @@ topics:
 - show
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  A committee meeting on Friday at the Institute decided to cancel the 1897 show on the grounds of the phenomenally bad season.

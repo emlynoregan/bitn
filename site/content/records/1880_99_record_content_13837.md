@@ -24,6 +24,7 @@ topics:
 - religion
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Capt. William Bonell of the Salvation Army v. Young for disturbing an open-air service on the evening of 21 June.

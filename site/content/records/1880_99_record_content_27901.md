@@ -18,6 +18,7 @@ topics:
 - land
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Workingmen’s Blocks in the Redruth Police Paddock will be offered for sale on 15 March.

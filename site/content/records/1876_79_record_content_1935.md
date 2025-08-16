@@ -22,6 +22,7 @@ topics:
 - weather
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Another editorial on the inadequacies of the culverts designed for this, especially in light of the Feb. 19 thunderstorm and that of last Monday (19 March) too.

@@ -41,6 +41,7 @@ topics:
 - meeting
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 5 July 1865, page 4

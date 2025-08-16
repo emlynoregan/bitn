@@ -21,6 +21,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Gordon & Gail Hains of the National Bank, a son, Brett Matthew.

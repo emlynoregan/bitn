@@ -20,6 +20,7 @@ topics:
 - bridge
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Both tenders for the widening of the bridge in Queen St were considered too high.

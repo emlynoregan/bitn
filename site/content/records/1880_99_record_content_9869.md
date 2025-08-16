@@ -20,6 +20,7 @@ topics:
 - advertisement
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Tenders called for two earth closets, a urinal and a mortuary chapel at the cemetery.  (The chapel to have trellis sides and an iron roof.)

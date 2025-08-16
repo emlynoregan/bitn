@@ -17,6 +17,7 @@ topics:
 - telegraph
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Cables.  The breaks have now been found not to be far apart after all.

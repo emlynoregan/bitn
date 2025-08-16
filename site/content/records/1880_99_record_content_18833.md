@@ -27,6 +27,7 @@ topics:
 - urban planning
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Exhibition.  A revised plan by E.T. Smith MP for a Jubilee Exhibition.

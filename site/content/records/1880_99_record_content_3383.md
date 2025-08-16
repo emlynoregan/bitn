@@ -18,6 +18,7 @@ topics:
 - government
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election matters.  The policy of the Government is reported in just over 1 column.

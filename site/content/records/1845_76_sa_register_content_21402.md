@@ -21,6 +21,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On 4 December a poor widow who makes a living by affording food and shelter to wandering bushmen was charged with keeping a disorderly house.  It seems that one night two or three men returned to her house ‘the worse for beer’ and sang a song or two.  Mr MacDermott considered the charge proved and fined her 10/- or a week in gaol.  A Samaritan kindly paid the fine for her to spare her imprisonment.

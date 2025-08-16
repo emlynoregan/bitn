@@ -19,6 +19,7 @@ topics:
 - parliament
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the painful occurrence in Parliament on Tuesday last when Mr Ward defied the speaker.

@@ -24,6 +24,7 @@ topics:
 - matches
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. A meeting of the club was held in the Institute on 16 December and two matches were arranged for the holidays: one against East Adelaide (26th) and the other against Moonta Young Australians (30"'). Captain W. Parker resigned and George Butterworth replaces him.

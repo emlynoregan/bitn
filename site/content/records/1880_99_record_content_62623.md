@@ -23,6 +23,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary/Accident.  Last Sunday John Wall (7½) and George Camp (15) found an old unused revolver at Camps premises and went to another house to try experiments with what they thought was a broken weapon.  Unfortunately when struck by a hammer a charge went off entering Wall’s forehead.  He died three hours later.  An inquest was considered unnecessary as the sad event was purely accidental.  [John Wall was born 26 March 1889 and died 8 August 1897 and was therefore aged 8.]

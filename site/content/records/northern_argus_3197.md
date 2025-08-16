@@ -22,6 +22,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Brett & Heather Afford (nee Lloyd), a son, Dudley James.  A grandson for Joyce & Ray Lloyd.

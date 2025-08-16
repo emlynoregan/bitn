@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Dunstan and family were given a social tea on 21 April by Redruth Wesleyan Church and the opportunity was taken also to welcome the new minister, Rev. J. Hopkins who read the address to Mr Dunstan who had been a scholar, teacher, secretary and superintendent of the Sunday school and who had worked hard at the liquidation of the church debt.  A number of people spoke in support before Mr Dunstan replied.

@@ -19,6 +19,7 @@ topics:
 - waterworks
 - payment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks Department seeks payment for 40,000 gallons of water used to water trees.

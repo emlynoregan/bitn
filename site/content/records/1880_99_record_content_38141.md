@@ -21,6 +21,7 @@ topics:
 - legislation
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes about the rabbit menace.  He blames the half-hearted enforcement of the provisions of the Act for killing vermin and the position of the Government in exempting themselves from acting on Crown Lands.  Wire netting is useless with inevitable gaps at creeks etc. to say nothing of their climbing over or under it!

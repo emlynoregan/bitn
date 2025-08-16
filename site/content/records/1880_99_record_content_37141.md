@@ -22,6 +22,7 @@ topics:
 - obituary
 - tuberculosis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Henry Richards, aged 34, died of tuberculosis.  He was born in Victoria and came to Burra with his parents about 30 years ago.  For 16 years he worked for Drew & Co. as a draper.  He then ran a business for himself in Strathalbyn before returning home some time before his death.  [Died 2 July.]

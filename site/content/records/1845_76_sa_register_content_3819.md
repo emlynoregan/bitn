@@ -22,6 +22,7 @@ topics:
 - sale
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth.  The announcement of the intended sale of allotments in the new Township of Redruth has surprised Burra Burra folk and a brisk competition is expected.

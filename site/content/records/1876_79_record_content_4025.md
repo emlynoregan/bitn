@@ -19,6 +19,7 @@ topics:
 - lectures
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. H.A. Severn's lectures were interesting and well illustrated with lantern slides, but were poorly attended.

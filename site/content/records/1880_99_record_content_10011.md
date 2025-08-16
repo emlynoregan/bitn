@@ -23,6 +23,7 @@ topics:
 - race
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The main event was the Burra Handicap of three races over 150, 220 & 440 yards. (Prizes were £6, £3 & £1)

@@ -20,6 +20,7 @@ topics:
 - post office
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The telegraph office is not central; rather the reverse, being on the outskirts of the township.  It is the last house at the end of town opposite from where the mail cart enters.  It is also perched on a hill so high and inaccessible as to prevent the near approach of the mail cart.

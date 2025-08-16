@@ -18,6 +18,7 @@ topics:
 - editorial
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial of the recent visit to the town by an Inspector of the Central Board of Health.

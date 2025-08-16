@@ -25,6 +25,7 @@ topics:
 - mining
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Addicoat, an old resident of Burra went to the Barrier silver field and was employed in the Broken Hill Mine, but he soon met with an accident underground, sustaining internal injuries from a fall of timber.  He suffered for nearly two years before succumbing on Wednesday morning.

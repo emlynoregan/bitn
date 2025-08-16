@@ -19,6 +19,7 @@ topics:
 - divorce
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Cynic’ writes arguing that evidence in divorce courts should be banned from publication.  A law will be needed due to the avidity with which the public seeks such information.

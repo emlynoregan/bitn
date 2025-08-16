@@ -21,6 +21,7 @@ topics:
 - community
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This year they were a tame affair with a poll required only in North Ward where Mr Cox 61 defeated Mr Richards 12.

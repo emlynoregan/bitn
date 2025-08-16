@@ -23,6 +23,7 @@ topics:
 - football
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football. On Wednesday at the Burra Oval Burra played a combined team of Terowie plus other players and at full-time the scores were 2 goals each.

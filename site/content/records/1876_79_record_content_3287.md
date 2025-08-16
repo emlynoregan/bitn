@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water supply. Water from the Bon Accord Mine shaft will be supplied as requested to a trough, though the formal agreement of the Yorke's Peninsula Mining Co. is needed.

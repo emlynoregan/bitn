@@ -22,6 +22,7 @@ topics:
 - dispute
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Dr John Cockburn writes defending his actions in treating Sarah Ann Fogarty and denying she was unfit for travel to Burra and condemning Dr Dashwood as severely as a polite professional colleague could. ‘With regard to Dr Dashwood’s evidence perhaps the less said the better.’

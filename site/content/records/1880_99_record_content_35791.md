@@ -22,6 +22,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Strike.  The Pt Augusta paper reports their belief that a strike is being forced on the workers at the Alma Mine by big men in Adelaide to manipulate a big fall in the value of stock so it may be purchased at a very low cost.

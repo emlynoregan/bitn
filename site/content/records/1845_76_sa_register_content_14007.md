@@ -17,6 +17,7 @@ topics:
 - community
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The number of dogs has been considerable reduced to the benefit of the community as a result of the operation of the Dog Act.

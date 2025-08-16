@@ -36,6 +36,7 @@ topics:
 - meeting
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Annual Effort was held on 21 September [sic: clearly an error for 21 August].  Mr Hooper MP & Rev. S. Wellington preached and on Wednesday Rev. B. Wibberley preached to a good congregation with a sermon of a very high order.  The Wednesday dinner was largely attended and the lecture was on Woman: Her Place and Power.  Supper was well patronised and the financial returns were satisfactory.

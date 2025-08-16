@@ -21,6 +21,7 @@ topics:
 - union
 - conference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Conference in Adelaide last week carried the motion in favour of Methodist Union 69 votes to 26.

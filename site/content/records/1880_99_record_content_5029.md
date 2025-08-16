@@ -19,6 +19,7 @@ topics:
 - science
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, in aid of the Institute funds will hold a Conversazione in the first week of October, featuring Pictures, Curiosities, Specimens, Pneumatic Experiments, Electric Experiments, Telephones, Microscopes and Music each evening.

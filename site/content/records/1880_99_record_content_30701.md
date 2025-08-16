@@ -26,6 +26,7 @@ topics:
 - municipal
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr O’Leary moved an amendment that acceptance depend on the Mayor paying the cost of the election, but he did not feel a further penalty should be applied.

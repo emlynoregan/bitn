@@ -23,6 +23,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  Messrs Hudson & Builder were returning to Kooringa from Farrell’s Flat on Sunday at about 8 p.m. when the horse shied near the Burra Hotel.  Both gentlemen were thrown out and the cart overturned.  The horse was on his back and Mr Hudson was pinned under a rail until help arrived.  Mr Builder escaped with a shaking.  Mr Hudson has also recovered, having been protected by the ironwork of the seat-rail from receiving a fractured skull.

@@ -21,6 +21,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Rifle Club.  Mr F. Field proposes to start a Rifle Club in Burra and has almost the 30 members needed.  The Government will supply an allowance of ammunition free and more at a cheap rate.  There will be no drills or horses to keep.

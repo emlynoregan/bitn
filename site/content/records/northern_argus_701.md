@@ -37,6 +37,7 @@ topics:
 - research
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Burra DC has recently acquired the Ian Auhl Burra History Collection.  The collection, which will be kept in the custody of the Burra Community Library, consists of an indexed collection of newspaper references to the Burra Burra Mine and its townships covering the period from the discovery of copper in 1845 to the closure of the Burra Burra Mine in 1877.

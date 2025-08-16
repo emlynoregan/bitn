@@ -26,6 +26,7 @@ topics:
 - exploration
 - gold prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan.  Mr Henry Clode reports from Redruth on 8 March that he went with Mr E. Foreman to investigate reports of gold having been found at Mt Bryan.  Mr Dare said he had found none on his station, but had a few specks in a bottle from a man who had been washing for gold at Ulooloo.  Clode and Foreman found no evidence of gold in the creeks around Mt Bryan and the survey party at Ulooloo also reported finding none there, though others had found small traces, but no in payable quantities.

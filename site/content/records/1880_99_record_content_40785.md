@@ -19,6 +19,7 @@ topics:
 - social
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Social for employees of Drew & Crewes was held on Tuesday by Mrs Symons.

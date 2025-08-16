@@ -19,6 +19,7 @@ topics:
 - sanitation
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W. West denying he was the author of the letter on sanitary matters signed ‘SAMA’ - though he largely agreed with it.

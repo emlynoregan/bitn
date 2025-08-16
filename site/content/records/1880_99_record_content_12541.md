@@ -21,6 +21,7 @@ topics:
 - court
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the adjourned case of Duff from 20 Feb. who had been charged under an old by-law with furious driving (exceeding the speed limit), the case was dismissed as the by-laws had been repealed.

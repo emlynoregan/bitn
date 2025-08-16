@@ -23,6 +23,7 @@ topics:
 - administration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  There has been no reply from the commissioner re the transfer of Constable Johnson from Kooringa.  He has now gone to Georgetown.  The town pays half the salary and was well satisfied and this should have kept him in place.

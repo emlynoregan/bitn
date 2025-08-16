@@ -21,6 +21,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This was a private special meeting as before the meeting began Cr Hardy moved the Council go into committee to which Cr Sampson strongly objected.  The meeting reappointed Mr Gray as Inspector at £60 p.a., as elsewhere reported.

@@ -27,6 +27,7 @@ topics:
 - postal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial. The death of Mrs Statton after six days illness, which the jury said was brought on by stones thrown on her roof, came only a week after her marriage. This seems to have been a development of the reprehensible custom of `tin-kettling' so frequently kept up in this town. It is absurd and a nuisance and at anytime might be productive of a great mischief.

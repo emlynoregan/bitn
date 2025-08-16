@@ -19,6 +19,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Saturday, Burra, 119 defeated Muffs, 25 (7 of the men being ducks’ eggs)

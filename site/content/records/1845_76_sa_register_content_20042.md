@@ -22,6 +22,7 @@ topics:
 - music
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In the evening there was a public meeting at the Court House where Mr Kelly of Clare gave a spirited address and the united Redruth and Copperhouse Fife bands produced such music as was never heard before in Burra.

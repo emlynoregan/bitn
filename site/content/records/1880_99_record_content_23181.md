@@ -23,6 +23,7 @@ topics:
 - roads
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board.  The Burra Town Council sought permission to improve the grade of the main road between the Redruth Bridge and Bartholomæus’ Store.  Approved.

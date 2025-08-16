@@ -19,6 +19,7 @@ topics:
 - administration
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 We learn that the clause ordering minor offices to be tendered for was reluctantly inserted by the Committee at the wish of Cr Sampson.

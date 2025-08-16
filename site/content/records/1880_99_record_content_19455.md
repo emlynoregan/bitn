@@ -20,6 +20,7 @@ topics:
 - military
 - drill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  Lieut. De Burgh, RVF instructor, is to give the Burra Co. a special drill this evening.

@@ -20,6 +20,7 @@ topics:
 - local government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last Monday J. Rogers was elected for Baldina Ward.

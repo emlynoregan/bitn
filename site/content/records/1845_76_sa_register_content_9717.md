@@ -27,6 +27,7 @@ topics:
 - governance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The next AGM of the SA Mining Association will be held at the Office of the Company in Rundle Street, Adelaide, 16 April at 11 a.m. for the purpose of receiving the Directors’ Report, the examination of the Auditors’ Report and Accounts, the Secretary’s Report of the attendance of Directors and for the election of five Directors to replace Messrs George Strickland Kingston, George Hall, Archibald Jaffrey, Arthur Blyth and John Morphett who retire.

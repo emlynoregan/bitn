@@ -20,6 +20,7 @@ topics:
 - advertisement
 - printing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pether & Jarman	Printers of the Northern Mail and General Printers

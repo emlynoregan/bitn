@@ -22,6 +22,7 @@ topics:
 - performance
 - audience
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Davies and Lewis drew a good audience at the Inst. on Tuesday evening & the program was much appreciated as were the gifts distributed to various persons attending.

@@ -23,6 +23,7 @@ topics:
 - emergency
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Christmas Day a fire broke out on Mr W. McBride’s paddock at Firewood Creek, two miles north of Burra.  It travelled the length of his paddocks and into grass country near the hills and ran towards Mt Bryan.  It was fought by many volunteers before being stopped at a road.  It is thought to have been started by the midday passenger train.

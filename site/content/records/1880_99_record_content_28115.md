@@ -21,6 +21,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor reported on the deputation re the Waterworks, to which there has so far been no reply.  A ratepayers’ meeting is called for 22 March.  The engineer has been instructed to have water laid on to the Avenue Fountain site before the fountain is erected.

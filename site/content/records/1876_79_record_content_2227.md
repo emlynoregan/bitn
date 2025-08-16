@@ -18,6 +18,7 @@ topics:
 - shops
 - hours
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Working Conditions: Letter to Ed. promoting closure of shops on Saturday at 6pm for sake of workers and as little business if done.

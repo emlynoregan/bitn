@@ -19,6 +19,7 @@ topics:
 - concert
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Musical Union Concert on Monday last was also a victim of the weather with a small audience.  The concert was the best ever given by them.

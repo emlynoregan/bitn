@@ -27,6 +27,7 @@ topics:
 - court
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Parks was charged with embezzling £6 & £5 respectively while acting as clerk and servant of the Burra Burra Lodge of the Order of Oddfellows.

@@ -18,6 +18,7 @@ topics:
 - rates
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A special meeting of Council on 25 April will deal with arrears of rates.

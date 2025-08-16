@@ -24,6 +24,7 @@ topics:
 - government visit
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 His Excellency the Governor Sir Dominick Daly accompanied by the Chief Secretary, the Aide-de-Camp, Assistant-Commissary-General Strickland and the Burra Directors, left the city on Tuesday morning for Kooringa.  We believe this to be His Excellency’s fir visit to the famous Burra Burra Mine.

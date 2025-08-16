@@ -31,6 +31,7 @@ topics:
 - visit
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Four converted Maoris visited Burra on Thursday – two men and two women.  The two men conducted an open-air meeting, after which there was a set-to in the Barracks.  Captain Nicholls (the interpreter) was in command.  Lieut. Maria Tamater and Cadet Hera Tarena are splendid vocalists.  Sgt Wini Kerei, a saved drunkard and ex-policeman etc., and Lieut. Aterea, a converted comic and former athlete, related interesting incidents.  Their visit was highly successful.

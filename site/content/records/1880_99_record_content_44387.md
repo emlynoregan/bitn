@@ -20,6 +20,7 @@ topics:
 - sermon
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.J. Daddow’s sermon at the Kooringa Primitive Methodist Church on Sunday is reported in ⅔ Column, but no special reason is given.

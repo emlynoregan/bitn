@@ -20,6 +20,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Rain fell in the northeast on 17 January, sufficient to fill waterholes and make the country boggy.  At Ketchowla 1¾ inches fell, but at Burra, none.

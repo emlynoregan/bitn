@@ -18,6 +18,7 @@ topics:
 - community
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Adelaide Institute reading room and the Museum were open last Sunday afternoon for the first time and there was a large attendance.

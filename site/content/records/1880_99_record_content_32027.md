@@ -22,6 +22,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The lease for the Waterworks has arrived and been checked by Mr Packard.  The Railways are not to be charged over 2/6 per 1,000 gallons and the lease can be terminated by either side on one month’s notice.  The cost of maintenance of the works from 1 January to 14 March was £47-13-6.

@@ -18,6 +18,7 @@ topics:
 - tennis
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis seems to have gone into recess here - perhaps something to do with the poor way members treated the promoter of the late concert by failing to turn up and make it a success.

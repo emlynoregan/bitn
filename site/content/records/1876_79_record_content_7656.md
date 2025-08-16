@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Church. The enlargement by Sara & Dunstan is now completed. It will be used again on Sunday next when the Sunday-school anniversary will be celebrated. A service of song, `The Creation' will be given in the afternoon. On Monday there will be the usual sports and tea-meeting.

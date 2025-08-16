@@ -20,6 +20,7 @@ topics:
 - bazaar
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Bazaar opened yesterday afternoon.  Rev. S. Gray said until last year the debt was £725 and this had been reduced to £675.  The aim this year was to lower it by £100.  Some £25-15-0 was taken yesterday.

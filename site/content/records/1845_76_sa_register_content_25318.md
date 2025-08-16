@@ -27,6 +27,7 @@ topics:
 - competition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Apoinga & Black Springs Ploughing Match.  This annual event took place on Mr Williamson’s paddock on 13 August.  The weather was rough and thus attendance less than for other years.  Winners were:

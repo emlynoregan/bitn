@@ -24,6 +24,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Outalpa Annual Concert at the woolshed on 27 September raised £25 and it was decided to give half to the Adelaide Hospital and half to Burra Hospital.  Last year the Burra Hospital was the beneficiary and got £17.  The proprietor, Harry Foote Esq. presided.

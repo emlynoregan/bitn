@@ -20,6 +20,7 @@ topics:
 - deputation
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The memorials about the Bon Accord Bridge are ready and the Mayor has been voted as a deputation to take the same to the Treasurer.

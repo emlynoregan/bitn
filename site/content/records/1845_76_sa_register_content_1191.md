@@ -20,6 +20,7 @@ topics:
 - employment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice to Sawyers.  Wanted: two pair of sawyers for Burra Burra Mines.

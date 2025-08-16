@@ -21,6 +21,7 @@ topics:
 - performances
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The Wheeler Family, Comedy Entertainments will perform at the Institute 23 & 24 April. 3/-, 2/- & I/

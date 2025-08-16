@@ -19,6 +19,7 @@ topics:
 - event
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army ‘T Fight’ on Monday was attended by 1.200 to 1,500 persons from all districts around.

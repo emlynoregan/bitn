@@ -20,6 +20,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Coolgardie (WA) reports further extraordinary finds [of gold].

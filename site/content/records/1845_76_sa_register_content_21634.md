@@ -21,6 +21,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Primitive Methodist Sunday-school celebrated its Anniversary last Sunday and Monday.  Rev. Jarrett preached to good congregations.  Collections were almost as much as last year.

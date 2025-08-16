@@ -19,6 +19,7 @@ topics:
 - association
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A meeting at the school on 19 August will further steps towards the formation of an Old Scholars Association.

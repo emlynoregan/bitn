@@ -18,6 +18,7 @@ topics:
 - finance
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oddfellows Lodge Annual Finance Meeting on 2 December showed the lodge had a loss for the year of £148-8-6 due to the amount of sick pay distributed: £694-1-8.  The total worth of the funds remains a satisfactory £6,211-17-7.

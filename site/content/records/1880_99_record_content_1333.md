@@ -18,6 +18,7 @@ topics:
 - legislation
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fires.  A Bill is to be introduced to ban the importation of Tandstikkor matches.

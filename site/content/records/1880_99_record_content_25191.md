@@ -19,6 +19,7 @@ topics:
 - homestead
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 One asked why more men have not taken up the homestead blocks. [Also known as working men’s blocks.]  They are available at Hallett and would provide the necessities of life.

@@ -22,6 +22,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  10 June at St Patrick’s, West Terrace [Adelaide], Charles Keefe & M.A.M Linkson, only daughter of William George Linkson, storekeeper of Redruth.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Band of Hope held a concert on 10 June in aid of the piano fund, but the attendance was as poor as the weather and the takings were only £1-8-0.

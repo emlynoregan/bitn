@@ -23,6 +23,7 @@ topics:
 - transport
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Also a Frequent Traveller’ writes in response to ‘Frequent Traveller’ re the North-Eastern Mails.

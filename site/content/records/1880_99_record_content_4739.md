@@ -20,6 +20,7 @@ topics:
 - community
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Progress’ suggesting some more flowers for Burra gardens - this time some that are half-hardy or tender.

@@ -31,6 +31,7 @@ topics:
 - family
 - hardship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Newcomb, a well-known identity in Burra, was charged in Adelaide with obtaining from C. Moore & Co. by means of a valueless cheque for £5, goods to the value of £4-18-7.  The outcome is not yet to hand.

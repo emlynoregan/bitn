@@ -20,6 +20,7 @@ topics:
 - government
 - community service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W.F. Coglin JP has received a Government appointment necessitating his removal from Burra after many years.  He is a member of the Hospital Board and the Burra Institute Committee.

@@ -25,6 +25,7 @@ topics:
 - ownership
 - capital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Tre-Pol-Pen’ writes from Adelaide 18 October 1849.

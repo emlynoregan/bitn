@@ -18,6 +18,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Splendid rains this month have resulted in 95 points at the local post office.

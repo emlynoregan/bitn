@@ -23,6 +23,7 @@ topics:
 - machinery
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  We hear that Mr Swansborough was to leave England on 25 July on the Yatala.  Some of the new machinery is on the same vessel and the rest comes on the Ettie.  On arrival Mr Swansborough will commence the erection of the machinery.

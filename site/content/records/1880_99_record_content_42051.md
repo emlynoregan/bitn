@@ -21,6 +21,7 @@ topics:
 - cricket
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football & Cricket have both sustained a loss with the transferral of Mr Whitby of the Bank of Australasia to Mt Barker.  He was secretary of the Cricket Club last season and also played a good game of tennis.

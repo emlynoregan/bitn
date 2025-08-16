@@ -18,6 +18,7 @@ topics:
 - literature
 - short story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Short Story: Who Had the Laugh? By ‘Wirrildah’, to be concluded next issue.

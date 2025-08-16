@@ -19,6 +19,7 @@ topics:
 - entertainment
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For lovers of good recitation Mr James Bodinner of Prince Alfred College will appear for three recitations.  Performance for children 4-5 p.m. at 6d & 3d. Evening 7.30 p.m. 2/- & 1/-

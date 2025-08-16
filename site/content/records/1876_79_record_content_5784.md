@@ -22,6 +22,7 @@ topics:
 - event
 - match_result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. Burra played Clare at Aberdeen last Saturday. Clare 45 & 34 = 79

@@ -22,6 +22,7 @@ topics:
 - inquest
 - witness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elizabeth Edwards (wife), Helen Anderson, William Anderson (bootmaker), George Parks (grocer’s assistant), & John Anderson (blacksmith) all gave evidence, but they add little to what has been reported.

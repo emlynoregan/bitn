@@ -21,6 +21,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Quarry Accident.  On Thursday afternoon a rock fall in the quarry opposite the Burra Hospital buried J.H. Chynoweth of Kooringa and his 14-year-old son.  Chynoweth was buried to the waist, but was soon dug out.  The boy was completely covered, but was eventually extricated alive with a very badly shattered left leg.

@@ -42,6 +42,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 26 July	Gawler to Kapunda via Grotegut’s, Sheoak Log and Greenock.

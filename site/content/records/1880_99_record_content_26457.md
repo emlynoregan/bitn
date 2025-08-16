@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr F. Hinde, late Colour-Sergeant to the Burra Co. VF has died.  [Frederick Hinde, born 12 August 1864; died 9 October, aged 23.]

@@ -19,6 +19,7 @@ topics:
 - events
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Laura Sports on 28 December, and Terowie Sports on 1 January 1894.

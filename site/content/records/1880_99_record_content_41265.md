@@ -26,6 +26,7 @@ topics:
 - letter
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes commenting on John Lewis’s address to Council, calling it a ‘plausable [sic] yarn as long as one’s arm for the purpose of trying to put the ratepayers of East Ward to expense to do most unnecessary work in lowering the ford near the brewery gate, for nothing more or less than pigheaded foolishness.  I might say the story rambled through by Mr Lewis as reported by you is one gigantic garble from beginning to end . . . whilst the latter part of such story is simply false and most unbecoming any gentleman’

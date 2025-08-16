@@ -19,6 +19,7 @@ topics:
 - holiday
 - local life
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Easter Holidays passed in Burra without any organised activities except for Sunday school anniversaries.  Why is Burra unlike other towns in this respect?  It used not to be so.

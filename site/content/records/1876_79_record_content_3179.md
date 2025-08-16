@@ -19,6 +19,7 @@ topics:
 - bazaar
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's bazaar was described as moderately successful with a good attendance on Thursday, but fewer on Friday. It raised £150.

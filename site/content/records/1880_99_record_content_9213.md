@@ -20,6 +20,7 @@ topics:
 - boarding house
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bushman’s Home, Aberdeen.  Mr A. Williams, having given up the above boarding house begs to inform that the same will be kept on as usual at moderate rates, meals and beds of best quality.  F.E. Bromley, Manager.

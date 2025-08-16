@@ -20,6 +20,7 @@ topics:
 - land policy
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the increasingly grave situation with respect to farmers in the north and other drought-affected areas and with their suppliers of goods.  The aid must go far beyond that of last year’s Land Act.

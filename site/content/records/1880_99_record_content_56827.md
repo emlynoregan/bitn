@@ -31,6 +31,7 @@ topics:
 - gardening
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  It is our painful duty in this issue to record the death of Mr H.C.W. Fuss, which took place at his residence, Redruth, on Thursday morning last after a few weeks illness at the age of 79 years.  The deceased gentleman was a very old and respected resident of Burra, having arrived in S.A. in 1847 in the good ship Herman Von Beckeratt.  Hearing so much at that time of the famous Burra Burra Mine, Mr Fuss visited the town, and fortunately found employment as a miner, but he only filled the position for a short time, when he was promoted to one higher, having sole charge of the smelting works charge-yard, and he mixed the first and last charge for the furnace.  After the smelters ceased operations Mr Fuss followed the occupation of farmer at Springbank for a few years, and then retired to a private and comfortable life.

@@ -19,6 +19,7 @@ topics:
 - transport
 - vessel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Baboo left Plymouth on 24 August, the Duke of Bedford on 20th and the Thomas Lowry on 31st.

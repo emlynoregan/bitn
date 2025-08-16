@@ -19,6 +19,7 @@ topics:
 - letter
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Bourgeois’ in reply to what he calls ‘the terrific outburst of Billingsgate’ from the pen of Cr Ridgway in the last paper.  He says he was at a complete loss to understand the relevance of Cr Ridgway’s story and declares it a ‘quarter yard of gibberish.’

@@ -18,6 +18,7 @@ topics:
 - event
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guy Fawkes Night passed with little enthusiasm this year and seems destined to fade from memory.  The kiddies made a few bonfires and burnt a few guys.

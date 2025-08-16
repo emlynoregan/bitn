@@ -20,6 +20,7 @@ topics:
 - labour
 - poem
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 4 November 1848, page 1

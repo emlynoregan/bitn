@@ -20,6 +20,7 @@ topics:
 - injury
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A few days ago the six-year-old daughter of a settler at Black Springs, named Glasson, was lifting a vessel off the fire when her dress caught alight, enveloping her in flames.  Her sister aged 10 came to her aid and threw water over her.  The burnt child was dreadfully burnt, but is now out of danger and slowly recovering.

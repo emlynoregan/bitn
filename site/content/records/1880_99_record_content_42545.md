@@ -20,6 +20,7 @@ topics:
 - community
 - ball
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Grand Military Ball for 21 October was arranged at a meeting held at Vivian’s Hotel on Friday: the first such event in Burra.

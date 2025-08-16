@@ -17,6 +17,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on last week’s flower show.  There is a complimentary review of the show and a discussion of the importance of the development of the aesthetic sense.

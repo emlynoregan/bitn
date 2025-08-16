@@ -25,6 +25,7 @@ topics:
 - advice
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  M. Terry, contractor for the North-East Mails, will run a four-horse conveyance to the Ulooloo diggings leaving the Burra Hotel every Monday, Wednesday and Friday after the arrival of the 12.30 train, returning from Ulooloo Tuesdays, Thursday s and Saturday s.  Fares 10/- each way or 15/- return.

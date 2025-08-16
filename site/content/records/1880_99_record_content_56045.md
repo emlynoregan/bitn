@@ -27,6 +27,7 @@ topics:
 - agriculture
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Queen had that day assented to the Women’s Suffrage Bill.  Women were given equal voting rights with men and allowed to stand for Parliament.

@@ -20,6 +20,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Saturday 8 December Messrs Box and Hudson drove a cart down the hill at Redruth.  In turning the corner the cart and horse were completely turned over and righted again.  The horse then bolted and repeated the operation.  He bolted a second time, but was soon stopped.  Amazingly neither the passengers, nor the horse nor even the cart sustained any serious injury.

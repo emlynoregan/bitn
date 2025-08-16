@@ -34,6 +34,7 @@ topics:
 - AGM
 - reorganization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association at its AGM in its offices in King William Street on Wednesday considered the report of the Directors, deciding on the adoption of a scheme previously submitted to reorganise the Association.  The Hon. G.S. Kingston was called to preside.  Hon. H. Ayers read the annual report, which was adopted.

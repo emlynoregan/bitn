@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - gauge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from L.W.H. suggesting that instead of simply relaying the track from Hallett and Terowie the old rails should be moved in to accommodate 3’6” gauge trains and new rails placed to accommodate the 5’3” gauge.

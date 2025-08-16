@@ -18,6 +18,7 @@ topics:
 - publication
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mine is Thine, the page four serial, ends with this issue and in future will be replaced by short stories and articles of general interest.

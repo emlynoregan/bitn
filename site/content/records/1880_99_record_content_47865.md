@@ -22,6 +22,7 @@ topics:
 - cycling
 - bicycle types
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 United Friendly Societies’ Sports on 26 December have attracted 66 nominations for the cycle events including 22 from and near Adelaide.  This year the rules allow for mixed bicycle events.  Some think this is a mistake, but ‘Whip’ thinks ‘The graceful movements of the “little chaps” in spinning around the track will be the cause of much excitement and amusement’.

@@ -34,6 +34,7 @@ topics:
 - infrastructure
 - Hamley Bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 12 May 1869, page 2

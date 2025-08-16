@@ -20,6 +20,7 @@ topics:
 - cattle
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pleuro-pneumonia. There has been an assurance that affected cattle are not passing through the Burra slaughterhouse.

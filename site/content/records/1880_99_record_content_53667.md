@@ -19,6 +19,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  New Aberdeen Lime Kiln.  Charles Rawlings advises business as usual in his absence.

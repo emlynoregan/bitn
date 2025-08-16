@@ -21,6 +21,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Eyes’s Electrical, Scientific and Musical Entertainment in Aid of the Burra Literary Society, Friday 15 June.

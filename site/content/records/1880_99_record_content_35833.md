@@ -17,6 +17,7 @@ topics:
 - politics
 - local_option
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The other two candidates were for local option with compensation.

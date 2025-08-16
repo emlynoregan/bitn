@@ -22,6 +22,7 @@ topics:
 - lighting
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called for the ‘Supply of the Requisite Materials, Labor, &c., and Lighting Lamps.  No.1 Market Square.  No. 2 Opposite Tiver’s for the twelve months, commencing January 1 1886.’

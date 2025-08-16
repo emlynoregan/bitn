@@ -19,6 +19,7 @@ topics:
 - meeting
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Fire Brick Co.  A meeting is called for Friday 30 October at the Institute of those interested in forming a Fire Brick Co.

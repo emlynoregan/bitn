@@ -21,6 +21,7 @@ topics:
 - legal
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Martha McInnes was fined 5/- for 2 stray goats in Paxton Tce.

@@ -18,6 +18,7 @@ topics:
 - advertisement
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Advt. for a performance of the local Christy Minstrels on Monday.

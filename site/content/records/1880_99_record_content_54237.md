@@ -19,6 +19,7 @@ topics:
 - employment
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Public Meeting is called at the Institute on 21 July to consider the provision of work for the unemployed.

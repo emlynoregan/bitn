@@ -18,6 +18,7 @@ topics:
 - legal
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Andrew Przibella	£1 + 10/-	Dog without name on collar etc.

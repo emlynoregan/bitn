@@ -23,6 +23,7 @@ topics:
 - opening
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Radio & Electrical Service will open in new premises on Friday – [immediately west of Pearce’s Buildings].  Gerry & Merilyn Baulderstone bought the business three and a half years ago and have now expanded with a huge stock of electrical goods, spare parts and specialise in television and radio.  The official opening of the new premises will be on 2 May.  Gerry and Merilyn are both Burra born.  Gerry worked with his brother in the green grocery business in Burra before moving to Clare and running a fruit and vegetable business there for fourteen years.  On returning to Burra he opened up the electrical business.  [Photos of the building and of Gerry Baulderstone.]

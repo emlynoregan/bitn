@@ -19,6 +19,7 @@ topics:
 - council
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mayor said he had received some correspondence on the matter which he would read later on.

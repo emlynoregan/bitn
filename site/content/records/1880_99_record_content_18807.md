@@ -21,6 +21,7 @@ topics:
 - engineering
 - consumption
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy querying the need for a larger pump at the Waterworks.  If the pump ordered can lift 2,700 gallons per hour and the same engine with a second pump can lift 5,000 gallons per hour, then the engine with the extra pump can lift 120,000 gallons if worked 3 days a week for 8 hours or 6 days a week for 4 hours.  Thus even if consumption is doubled to 100,000 gallons per week compared with last year’s consumption, it will be adequate.

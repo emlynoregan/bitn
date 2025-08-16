@@ -18,6 +18,7 @@ topics:
 - council
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This makes it clear that ‘that firm’ referred to by Cr Watt was Bagot, Shakes & Lewis.]

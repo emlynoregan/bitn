@@ -23,6 +23,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the new Market St roadworks.  Mr Duffy, Surveyor for the Midland Road Board, is imposing on the contractors and the Council in asking that the road in front of the Institute be made to within ⅛” of perfection and to spread 8” of best top metal is unreasonable.

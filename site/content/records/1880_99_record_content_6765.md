@@ -20,6 +20,7 @@ topics:
 - concert
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Foresters’ Picnic and Sports Wednesday 3 May with a grand concert in the evening at the Institute.

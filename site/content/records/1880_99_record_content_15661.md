@@ -18,6 +18,7 @@ topics:
 - administration
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the proposal to merge the jobs of Dayman and Inspector.  This is fine if it can be done effectively, but the real economy is only achieved if we can get the two jobs well done for the price of one wage and this seems absurd.  The apparent gain would soon be an obvious loss as neither job was well done.  No one without special experience can be an efficient sanitary experience either.

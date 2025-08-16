@@ -19,6 +19,7 @@ topics:
 - migration
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Several parties are returning from Wallaroo as many could not get work there, but the families of others are going, so the population here remains about the same.

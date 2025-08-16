@@ -21,6 +21,7 @@ topics:
 - tourism
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Winner in the SA Tourism Awards 1986: Tourist Service Award, O’Connor’s Tours.

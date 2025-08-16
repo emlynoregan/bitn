@@ -21,6 +21,7 @@ topics:
 - transport
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Complaint that the Governor, Lord Kintore, ordered a special train just to get back to Adelaide from Strathalbyn last Sunday, at a cost of about £30.

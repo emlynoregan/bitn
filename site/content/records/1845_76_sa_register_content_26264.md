@@ -19,6 +19,7 @@ topics:
 - land
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Land Selections since 4 March at £1 per acre:

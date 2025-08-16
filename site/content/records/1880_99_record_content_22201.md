@@ -19,6 +19,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  There is a move to get it completed to the border by December 1886 instead of June 1887.

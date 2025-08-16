@@ -18,6 +18,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘That if the reports were as the Mayor represented them to be they should have been beneath the notice of the Council and should have been treated with contempt.’

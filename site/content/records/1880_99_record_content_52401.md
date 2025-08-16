@@ -40,6 +40,7 @@ topics:
 - procession
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Eve was kept up on 23 December as Christmas day was a Monday.

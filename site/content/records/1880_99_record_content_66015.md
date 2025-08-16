@@ -25,6 +25,7 @@ topics:
 - water scheme
 - survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water scheme.  The surveyor, Graham Stewart, found that the Mt Horrock’s scheme gave a height above the railway station of 160’ which is 60’ above the present storage.  The rainfall is about 2” above that at Kooringa.  The mayor and Mr Lockyer were favourably impressed and the survey continues re the cost and the work needed.

@@ -19,6 +19,7 @@ topics:
 - legislation
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council unanimously supported a move to have reinserted in the new Municipal Corporations Bill, the part of clause 275 providing that licence fees for public houses come to the corporations.  This had been struck out by an amendment of Mr Gilbert MP last week.

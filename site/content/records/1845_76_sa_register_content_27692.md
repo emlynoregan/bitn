@@ -19,6 +19,7 @@ topics:
 - events
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Benson Troupe appeared at the Institute on Wednesday and this evening before good audiences.

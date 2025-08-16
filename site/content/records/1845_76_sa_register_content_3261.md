@@ -30,6 +30,7 @@ topics:
 - free press
 - capital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 George Hogg writes of the subject of the George Stevenson libel case, pouring scorn on someone taking an action against another for calling him ‘honest’. 

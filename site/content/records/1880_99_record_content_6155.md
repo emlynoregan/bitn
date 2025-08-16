@@ -19,6 +19,7 @@ topics:
 - cricket
 - match_result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Aberdeen 148 defeated Muffs 40 & 40 for 6 wickets.

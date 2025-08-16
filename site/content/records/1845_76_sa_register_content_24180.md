@@ -18,6 +18,7 @@ topics:
 - wheat
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The wheat crops look promising, but yields are threatened by want of rain.

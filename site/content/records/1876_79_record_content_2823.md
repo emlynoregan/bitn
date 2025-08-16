@@ -20,6 +20,7 @@ topics:
 - injury
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mine accident - a boy called Joyce has leg lacerated in machinery, but is recovering.

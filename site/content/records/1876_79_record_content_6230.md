@@ -20,6 +20,7 @@ topics:
 - weapons
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rifle Club. All rifles lent to the various Rifle clubs must at once be returned or paid for - see the secretary of the Burra club. It is a pity a Rifle Company cannot be enrolled here.

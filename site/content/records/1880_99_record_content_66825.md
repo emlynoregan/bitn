@@ -21,6 +21,7 @@ topics:
 - punishment
 - language
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Rambache received 48 hours detention for drunkenness and a similar sentence for making ‘use of choice Billingsgate’.

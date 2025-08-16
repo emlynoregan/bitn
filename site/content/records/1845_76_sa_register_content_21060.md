@@ -23,6 +23,7 @@ topics:
 - employment
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Working Men’s Association of SA

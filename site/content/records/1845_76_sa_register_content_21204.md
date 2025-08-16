@@ -21,6 +21,7 @@ topics:
 - ore dressing
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the Burra Mine the ore dressing in the creek is progressing well.  The present ‘take’ ends on 26 September and will yield 500 tons of 15% and another 100 tons of about 16% will be got from the halvins around the Mine.  About 230 men and boys are employed and this could go on for years.  The proceeds from this ore will pay all expenses – fuel for the engine, wages, shaft expenses, sinking Graves’ Engine Shaft and salaries, and leave a surplus.  All this from merely washing what was until recently considered useless.  There are other places in the Mine where ore can be obtained at trifling cost, such as from the lobby leading into Beck’s Workings.  Many would take work there at a low tribute and their labour would add to the surplus referred to.

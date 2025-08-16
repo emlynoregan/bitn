@@ -20,6 +20,7 @@ topics:
 - school
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Burra High School, Frances McLagan, Principal, will resume on 23 January.

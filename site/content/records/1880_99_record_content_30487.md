@@ -18,6 +18,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Juvenile Branch of Burra Burra Lodge of Oddfellows MU will be opened at the Institute on Thursday 6 December 1888.

@@ -19,6 +19,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The work of preparing for the new system and installing machinery is expected to start in five or six weeks on the arrival of Mr Swansborough.

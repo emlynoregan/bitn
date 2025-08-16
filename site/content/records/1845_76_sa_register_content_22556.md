@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Elizabeth Banin 7 July 1876, Kooringa.]

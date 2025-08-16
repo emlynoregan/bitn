@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Pearce of Cockrum & Pearce died at the Burra Hospital on Thursday.  [The registrations suggest Mr Henry Hezekiah Pearse who died 6 November 1891 aged 28.]

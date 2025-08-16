@@ -23,6 +23,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders for street lamp lighting were accepted from H.W. Tiver for the North Ward (£7-14-0) and from W. Geake for the two in Kooringa (£13).

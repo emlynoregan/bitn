@@ -46,6 +46,7 @@ topics:
 - building
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Opening of the Burra Burra Miners’ & Mechanics’ Institute

@@ -22,6 +22,7 @@ topics:
 - photography
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Northern Gem Photographic Co. have erected their studio in Henderson’s Machine Yards, Kooringa.  Instantaneous Gem Portraits 5/- per dozen, finished and delivered in 15 minutes.

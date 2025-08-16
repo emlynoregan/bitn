@@ -19,6 +19,7 @@ topics:
 - festival
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Christmas Festival is planned for the Kooringa Wesleyan Lecture Hall on Wednesday 18 Dec. The main feature will be a collection of home industries.  Also a Christmas tree, Christmas basket, cake fair, promenade concert and prizes for home industry sections including farm and dairy produce.

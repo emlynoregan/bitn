@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  O. Bartholomæus, Carpenter, Builder, etc. Has commenced business in Redruth.

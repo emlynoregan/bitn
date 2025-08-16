@@ -20,6 +20,7 @@ topics:
 - government
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The State Advances Bill has been much modified with the removal of clauses referring to the Savings Bank.  We understand the Government will now urge the establishment of a State Bank and thus make use of the remaining portions of the Bill.

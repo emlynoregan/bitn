@@ -22,6 +22,7 @@ topics:
 - water
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Creek has been much cleaned out by the strong flows this year and nearly all the sand from mining operations has gone and in many places original bottom can be seen.

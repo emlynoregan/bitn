@@ -18,6 +18,7 @@ topics:
 - hunting
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Turkey Shooting is presently a daily sport with some large bags during the week.

@@ -18,6 +18,7 @@ topics:
 - customs
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The list of toasts was typical of formal social gatherings and is included to give an idea of the practice.]  Between the toasts various items of entertainment were presented.

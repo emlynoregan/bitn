@@ -22,6 +22,7 @@ topics:
 - mining
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hodge saying that SA could benefit from establishing a School of Mines, prospecting boards and a Department of Mines, as in Victoria.

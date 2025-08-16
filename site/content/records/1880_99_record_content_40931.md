@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George Remington McLagan, eldest son of Thomas McLagan of Perthshire, Scotland died 3 April at Bleak House of paralysis, aged 71.  [See more details at XII, 1034, 8 Apr. 1891, Page 3.]

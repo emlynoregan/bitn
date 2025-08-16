@@ -19,6 +19,7 @@ topics:
 - well
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The well at the cemetery has reached 34’ with hardly any water.

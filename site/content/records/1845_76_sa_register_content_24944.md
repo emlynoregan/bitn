@@ -24,6 +24,7 @@ topics:
 - copper
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The prospectus for the Broughton River Mining Co. Ltd is printed.

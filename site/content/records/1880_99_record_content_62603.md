@@ -22,6 +22,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Saturday at Farrell’s Flat Burra 4.9 defeated Farrell’s Flat-Mintaro 3.7

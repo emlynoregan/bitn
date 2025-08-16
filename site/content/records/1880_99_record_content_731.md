@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Midland Road Board inspector has been to see the creek crossings on the road to Mongolata as called for by Dr J.R. Stephens JP, and they will be improved.

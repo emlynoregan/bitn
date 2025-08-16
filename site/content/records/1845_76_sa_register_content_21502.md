@@ -19,6 +19,7 @@ topics:
 - wheat
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Messrs Cobb & Co had 250 acres of wheat in crop, most of it being cut for hay and 60 acres left for wheat.  One patch of 10 acres yielded 65 bags and another 12 acres averaged 22 bushels per acre.  Reaping is general now with no rust to speak of.

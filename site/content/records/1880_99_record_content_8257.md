@@ -19,6 +19,7 @@ topics:
 - performance
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Service of Song The Babes in the Basket, or Daph and Her Charge [sic] will be produced in the Kooringa Primitive Methodist Church on Monday 13 November.  1/-

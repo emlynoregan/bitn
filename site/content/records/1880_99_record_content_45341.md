@@ -17,6 +17,7 @@ topics:
 - business
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The American Auctioneers’ who appeared last week did such poor business that they cleared out after the second night.

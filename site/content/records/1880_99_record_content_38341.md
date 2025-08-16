@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council has found the cost of a bridge on the Burra-Copperhouse road is £300 which is beyond its ability to fund.  Application has been made to have the route declared a main road.

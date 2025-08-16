@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "generatedAt": "2025-08-16T22:29:34Z",
+  "datasets": [
+    {
+      "slug": "record-1876-79",
+      "title": "Burra in the News Record 1876–79",
+      "path": "js/search-record-1876-79.json",
+      "docCount": 2590,
+      "checksum": "sha256-9XNzeuj19BZCCO6HretbX7ft0mFSNlwhOGF9LVkEnnE="
+    },
+    {
+      "slug": "record-1880-99",
+      "title": "Burra in the News Record 1880–99",
+      "path": "js/search-record-1880-99.json",
+      "docCount": 20082,
+      "checksum": "sha256-dvMpyyebjM6mmFg+NyuOodZN5pWir9txLXAKzcEOuQc="
+    },
+    {
+      "slug": "northern-argus",
+      "title": "The Northern Argus",
+      "path": "js/search-northern-argus.json",
+      "docCount": 950,
+      "checksum": "sha256-1Oo1sTxNgeyiZSxaaHuZ24VaGp/I6EoTeqxhASPpD9s="
+    },
+    {
+      "slug": "sa-register",
+      "title": "The South Australian Register",
+      "path": "js/search-sa-register.json",
+      "docCount": 4387,
+      "checksum": "sha256-AI9aV9w+MAGxGTbRWqM3wC71yzBnwJpgtz4oL/dZIFU="
+    }
+  ]
+}

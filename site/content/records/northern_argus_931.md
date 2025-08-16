@@ -25,6 +25,7 @@ topics:
 - meeting
 - ratepayers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 We are now in a position to contribute $40,000 towards the third stage with a cost of $120,000.

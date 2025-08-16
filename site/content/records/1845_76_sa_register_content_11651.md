@@ -21,6 +21,7 @@ topics:
 - rubbish
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The high profit figure for 1856 relates to the high price of copper at that time.

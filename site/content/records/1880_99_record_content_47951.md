@@ -20,6 +20,7 @@ topics:
 - charity
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Barr Smith has given £100 to the Broken Hill distressed.

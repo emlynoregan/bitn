@@ -18,6 +18,7 @@ topics:
 - measurement
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hd King	5.46 to 4.24

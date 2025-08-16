@@ -19,6 +19,7 @@ topics:
 - letter
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter complaining of cruelty to two cows opposite the Exchange Hotel.  They had no shelter and very little to eat either.

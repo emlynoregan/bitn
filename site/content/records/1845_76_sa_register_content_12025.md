@@ -18,6 +18,7 @@ topics:
 - migration
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Numbers of miners are still leaving for Port Curtis, despite disastrous accounts from there.

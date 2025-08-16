@@ -20,6 +20,7 @@ topics:
 - services
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams announces he is now able to effect repairs to bicycles and supply fittings of all kinds, so machines no longer have to be sent to the city.

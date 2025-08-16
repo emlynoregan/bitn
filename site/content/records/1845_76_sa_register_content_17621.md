@@ -20,6 +20,7 @@ topics:
 - economy
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Everything remains dull.  Drays are absent because from the state of the roads they are unable to come on.

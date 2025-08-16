@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  20 May, Beatrice Evelin Jenkin, youngest daughter of Rev. W. Jenkin, aged 10 months.

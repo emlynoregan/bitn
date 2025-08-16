@@ -21,6 +21,7 @@ topics:
 - local government
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows are a pest and we hope the District Council and Town Council will supply poisoned wheat as is being done in southern districts.

@@ -26,6 +26,7 @@ topics:
 - health
 - ore-dresser
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  William Lang, coroner, held an inquest at Kooringa on Monday 24 September, on the body of Richard Gilbert, who died suddenly the previous evening.  From the evidence it appears that the deceased, who had lived with his parent in a hut on the bank of the creek, had laboured under a disease of the heart.  He was an ore-dresser at the Mine and had worked there on Friday.  Feeling unwell on Saturday, he did not go to work.  Dr Bull said the deceased had extensive heart disease and such sufferers frequently died suddenly.  The verdict was ‘Died by the visitation of God.’

@@ -19,6 +19,7 @@ topics:
 - council
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Lexicon’ writes concerning the latest Council report.  He considers Cr Rabbich was quite justified in objecting to being called a gentleman.  To do so is tantamount to calling him names – and no one likes to be called names.

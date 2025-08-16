@@ -21,6 +21,7 @@ topics:
 - trees
 - provision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Steps are to be taken to secure a recreation ground for the town. Mr Ullmann has offered gum trees to be planted when the site has been obtained.

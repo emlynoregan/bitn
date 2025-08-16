@@ -17,6 +17,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 29 December.  I went to church in the morning and evening.  At present it is in a temporary place, the future schoolroom.  The Wesleyans are the strongest body.

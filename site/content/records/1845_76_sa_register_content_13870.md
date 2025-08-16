@@ -23,6 +23,7 @@ topics:
 - examination
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At Redruth the school run by Mr Bennett has been going for about 10 months.  There are 87 pupils; 52 boys and 35 girls.  The smaller students being in a separate room with Mrs Bennetts.  The scholars here were somewhat severely tested in mental arithmetic, geography, grammar, spelling, reading and history, but they proved themselves equal to the ordeal, with prompt answers and general intelligence.  Mr MacDermott, in retiring, expressed his pleasure and complimented the teacher and scholars on the efficiency of the school.  There was a vigorous onslaught on the tea and cake before the school broke up for the Christmas holidays.

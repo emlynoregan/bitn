@@ -19,6 +19,7 @@ topics:
 - exploration
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Overland Telegraph.  Three of the parties organised for the construction of the overland telegraph will set out this morning for Mount Margaret.   [Details are given.]

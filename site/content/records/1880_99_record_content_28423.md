@@ -20,6 +20,7 @@ topics:
 - legal
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Insolvency.  There is a report of the insolvency of W. Midwinter, farmer and hotelkeeper of Baldina.  The details of his income and expenditure are printed.

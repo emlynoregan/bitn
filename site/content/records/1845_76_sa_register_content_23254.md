@@ -18,6 +18,7 @@ topics:
 - demographics
 - census
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The next census returns, if not too long delayed, will place Kooringa in the rank of non-progressive towns.

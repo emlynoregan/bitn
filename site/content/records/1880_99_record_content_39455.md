@@ -21,6 +21,7 @@ topics:
 - accident
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Mr H. Reilly’s store and house at Farrell’s Flat was burned down on Christmas Day.  The fire started in the store, but the cause is not known.

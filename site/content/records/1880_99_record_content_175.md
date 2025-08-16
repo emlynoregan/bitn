@@ -19,6 +19,7 @@ topics:
 - health
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the rates.  The general rate must remain at 1/- in the £, but the health rate will have to rise if we want rubbish removal more often than every 15 or 16 days as at present.  It is currently 3d in the £ and raises about £150.  At 4d it would raise c. £200 and allow for a better service.  Yet we hope for no increase this year.

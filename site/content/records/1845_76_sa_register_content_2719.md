@@ -18,6 +18,7 @@ topics:
 - cargo
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cargo of the Richardson

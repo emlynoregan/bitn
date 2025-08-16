@@ -23,6 +23,7 @@ topics:
 - presentation
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Sunday school, Kooringa, held its anniversary last week and Mr J. Burrows, who has for years promoted the musical side of the church, was presented with a silver hunting watch and gold Albert. Mr W. Winwood of Adelaide presented him with a gold pencil case attached to the chain.

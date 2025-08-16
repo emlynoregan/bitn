@@ -19,6 +19,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The players again failed to gather at the proposed meeting to decide on matches for the season.

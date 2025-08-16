@@ -17,6 +17,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Hospital Ladies’ Auxiliary Gals Day recently raised c. $2,000.

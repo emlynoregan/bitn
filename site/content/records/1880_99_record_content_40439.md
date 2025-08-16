@@ -22,6 +22,7 @@ topics:
 - horticulture
 - rent
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Snell has produced some wonderful peaches and his garden in Kooringa is producing great produce and the garden would have been an even greater area had SAMA not demanded an exorbitant rent.

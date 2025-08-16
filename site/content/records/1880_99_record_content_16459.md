@@ -19,6 +19,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Co. RVF.  Those interested in forming the same are to meet at the Commercial Hotel on Tuesday at 8 p.m. to elect officers etc.

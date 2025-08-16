@@ -19,6 +19,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ada Delroy’s Company drew a larger audience than any other travelling company has for a considerable time at the Institute on Monday evening and the crowd was kept in almost convulsive laughter from start to finish.  The show ran almost to 11 p.m.

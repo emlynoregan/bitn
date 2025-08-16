@@ -20,6 +20,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. staged an entertainment in the German Schoolroom on Friday evening.  The venue was full and the night went very well.  [Details in c. ⅓ column.]

@@ -19,6 +19,7 @@ topics:
 - road
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: Editorial. The deputation achieved little. Conditions bad in many places, but the Baldina Ford has some improvements. Why can't the bulk of the £1.500 be spent even if there is dispute over the last couple of miles?

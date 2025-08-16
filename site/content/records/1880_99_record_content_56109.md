@@ -27,6 +27,7 @@ topics:
 - death
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident – Obituary.  At the 29-mile crossing between Gawler and Roseworthy on Saturday a train ran into a buggy killing Mr L.S. Burton and injuring Mr George Warren JP.  Mr Warren died from his injuries on Monday.  He was a relative of J.D. Cave and Mrs P.L. Killicoat.  [Leonard Samuel Burton died 23 February aged 71 and George Warren died 25 February aged 74.]

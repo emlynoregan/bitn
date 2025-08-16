@@ -20,6 +20,7 @@ topics:
 - union
 - accusation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note.  Some dirty tricks in the election campaign seem to have been employed to discredit William Killicoat.  A claim was circulated that he proposed to pay 5½ days wages for 6 days work when he was a District Councillor.  He answered this in an advertisement on 23 November.  Another claim was that he owed the Shearers’ Union £2-5-0 and had refused to pay.  This was refuted in the paper of 7 December with reference to receipts etc.]

@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George Hiles died suddenly 19 September at his residence Mt Bryan aged 36.  He was the husband of Ada Hiles and youngest son of George Hiles JP of Petherton House, Hallett.

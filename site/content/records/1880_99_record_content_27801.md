@@ -20,6 +20,7 @@ topics:
 - investment
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the rise in silver stock.  Many stocks have risen sharply.  Broken Hill shares have doubled in two months to £400 with just 16,000 shares.  Alma Gold shares are also up from 6/3 a year ago to £5.  The editor favours investment and is confident many mines will repay handsomely, but warns: ‘No man can go in for development or speculation unless he is prepared to lose all he puts in, and must face the probability of having to do so.

@@ -19,6 +19,7 @@ topics:
 - performance
 - mesmerism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madam Sibly has had small houses for her later performances, but her mesmerism has been admired.

@@ -22,6 +22,7 @@ topics:
 - education
 - exchange student
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The school will have a Thai exchange student for 1987, through the American Field Scholar Scheme.  Sujitra Suttiserm will live with her host family Dick & Barbara Secomb and their sons Tony and Greg.

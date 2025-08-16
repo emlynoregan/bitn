@@ -33,6 +33,7 @@ topics:
 - legal
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Littlejohn said, even if true it did not follow he had been drinking there and whenever he left the works, as his business compelled him to go anywhere and everywhere, he always shuts off steam and leaves the engine secure.

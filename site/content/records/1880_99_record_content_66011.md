@@ -22,6 +22,7 @@ topics:
 - finance
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Church held its quarterly meeting on 28 March.  There is a debt of about £35 and a Karitorama was about to be held to remove this liability.  Kooringa Sunday school attendance has been up lately.  Conference has appointed Rev. W.G. Clarke to take the place of the late Rev. J.Y. Simpson.

@@ -24,6 +24,7 @@ topics:
 - local government
 - leases
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa townspeople are agitating for freehold title to property in the township.  A letter signed by leading townspeople has been sent to the Directors, making a series of points.

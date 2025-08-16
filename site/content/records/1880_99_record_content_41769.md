@@ -18,6 +18,7 @@ topics:
 - meeting
 - charges
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wood Carters’ Union has some more members and next Saturday a meeting will fix a day for the beginning of new charges.

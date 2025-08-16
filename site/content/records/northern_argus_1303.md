@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Booborowie Hall Committee will hold a dinner on 5 July.

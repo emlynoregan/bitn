@@ -22,6 +22,7 @@ topics:
 - local government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. Henry Pinch and William Watts elected for North or Redruth Ward.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - shop
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  T. Kitchen has taken over the business of Mr John Kelly in Commercial St and will open next week as a grocer etc.

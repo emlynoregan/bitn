@@ -26,6 +26,7 @@ topics:
 - transport
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Road Accident.  Last Tuesday Mr W.H. Hardy was driving a horse and trap belonging to Mr J. Sampson in front of the Royal Exchange Hotel when the horse suddenly shied into the right of way between the hotel and Mr Cox’s shop, colliding with a post on the footpath and breaking the shafts and crossbar and some of the harness.  Mr C. McDonald helped to secure the horse without further damage.

@@ -21,6 +21,7 @@ topics:
 - undertaker
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Notice.  Thomas W. Pearce published a letter from W.L. H. Bruse of 3 April in which the latter advises that he will not in future let his hearse at all and gives notice of this in time to allow Mr Pearce to buy one of his own.

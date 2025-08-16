@@ -21,6 +21,7 @@ topics:
 - assault
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.   Thomas Rosewall was charged with assaulting a Chinaman, Hoo Fie, on Sunday 12 August.  He pleaded guilty.  Hoo Fie said through an interpreter that the accused had entered his shop in Kooringa and without provocation had first beat a dog and then struck him blows on eyes, chest and stomach.  Rosewall was fines £2 + £3 costs, or 14 days.  The fine was paid.

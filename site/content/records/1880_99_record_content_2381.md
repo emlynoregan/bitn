@@ -21,6 +21,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute.  A Grand Musical and Dramatic Entertainment by Locals and Ladies and Gentlemen from Adelaide, in aid of a New Convent School under the care of the Sisters of St Joseph.

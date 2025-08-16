@@ -23,6 +23,7 @@ topics:
 - community
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H. Rabbich visited Burra last week.  With his brother Tom he is doing all right in the west.  There are many old Burraites at Kalgoorlie.

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kooringa Primitive Methodist special annual services were held last Sunday 31 July and on 3 August the usual annual dinner was followed by a concert at the Institute.  Total proceeds were £37-5-9.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well. Work started on Monday and the borers unexpectedly struck solid rock at only seven feet.

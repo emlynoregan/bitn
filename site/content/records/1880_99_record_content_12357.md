@@ -23,6 +23,7 @@ topics:
 - buildings
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army has obtained the land on which John Sampson’s auction mart stands and intends to build there a Barracks.  They are attracting large crowds nightly in the square.

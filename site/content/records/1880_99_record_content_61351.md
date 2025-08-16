@@ -18,6 +18,7 @@ topics:
 - court
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A new trial was commenced on Monday and the same evidence was presented.

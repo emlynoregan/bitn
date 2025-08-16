@@ -20,6 +20,7 @@ topics:
 - place names
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 3 August 1868, page 3

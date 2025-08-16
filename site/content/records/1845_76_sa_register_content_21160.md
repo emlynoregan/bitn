@@ -20,6 +20,7 @@ topics:
 - royal visit
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Squibs & Crackers’ writes urging that the beacon on Mount Lofty for the Royal Visit should include some very large Bengal lights.

@@ -19,6 +19,7 @@ topics:
 - rifle match
 - militia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match between Burra Co. VF and the Militia Cavalry on Wednesday was won by Burra co. 577 to 516.

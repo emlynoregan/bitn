@@ -20,6 +20,7 @@ topics:
 - media
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Lynx’ who finds it amusing when W.H. Hardy poses as a moral censor.  ‘Coming from such a source, who can help being amused?’

@@ -20,6 +20,7 @@ topics:
 - fine
 - vehicle
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Bitmead was also fined 5/- for not having two lamps on his cab.

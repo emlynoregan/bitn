@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guarantees for water worth £74 in Kooringa and £150 in Aberdeen and Redruth have been obtained.  A further effort will be made because if the government’s offer is rejected it is felt unlikely it will be repeated any time soon.  The sum required annually is £400

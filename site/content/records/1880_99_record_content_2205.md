@@ -18,6 +18,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd leader on the Terowie Railway.  We believe there are defects in some of the girders on the small bridges along the line, which will delay opening until after the present harvest.  This is monstrous.  The strongest representations should be made to effect an early opening.

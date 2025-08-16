@@ -22,6 +22,7 @@ topics:
 - farewell
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hardwicke College, (Kooringa) students assembled last Monday to present parting gifts to teachers the Misses Lily & Annie Hotson who are having to leave Burra through ill health.

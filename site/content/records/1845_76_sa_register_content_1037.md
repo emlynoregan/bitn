@@ -25,6 +25,7 @@ topics:
 - education
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 21 November 1846, page 2

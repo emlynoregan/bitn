@@ -22,6 +22,7 @@ topics:
 - roadworks
 - drainage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Chapel Street is undergoing major roadworks.  The first stage involves the reconstruction of the road from Commercial Street to the bridge and includes 140 m of 600 mm stormwater drain.  The original drain, which extended across Commercial Street and down Chapel Street to the creek, had become blocked with silt.  Another box culvert drain was blocked with tree roots and silt.  The road itself was never well constructed and the seal consequently continually broke down, making maintenance costs exorbitant.  [Photo.]

@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  24 April at Redruth to the wife of C.T. Winders of Baldina, a daughter.

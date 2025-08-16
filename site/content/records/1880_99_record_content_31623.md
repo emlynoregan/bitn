@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Dugald McNiel, a settler near Douglas, was found dead on the road about three miles from the creek by Mr Carpenter on Monday.  [Registered as McNeill, 9 February, aged 54.]

@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lady Cyclists have become frequent in the town, though few venture beyond the municipality.  Two however, rode to Farrell’s Flat races and back – a distance of over 33 miles.

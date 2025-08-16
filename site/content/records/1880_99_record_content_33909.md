@@ -19,6 +19,7 @@ topics:
 - malicious prosecution
 - wrongful imprisonment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a further case when local JPs had their decision overturned.  The writer accuses them of failing to give sufficient thought to the matter, which resulted in the accused then suing for malicious prosecution and wrongful imprisonment. [With some success, though he got only £30 of the £400 sought.]

@@ -20,6 +20,7 @@ topics:
 - labour
 - discussion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday night had a large audience for a discussion on coloured labour.  Mr Dunstan the ex-president and founder was in the chair.

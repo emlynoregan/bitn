@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Lindsay Thomas died last week.  He was a former resident of Burra and will be remembered by many for his fine voice.  He was a brother to Reta Jennison.

@@ -20,6 +20,7 @@ topics:
 - speech
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.T. Smith, the temperance speaker at the Institute on Wednesday, drew a fair attendance and produced an impressive performance.

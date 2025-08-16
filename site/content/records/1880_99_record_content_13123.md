@@ -18,6 +18,7 @@ topics:
 - other
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [It seems unlikely that the writer would indeed have been so ignorant and while Hardy later denies having carried a hod, the thrust may well be a disguised shot at his past as a chimneysweep.]

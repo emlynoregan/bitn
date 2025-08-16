@@ -19,6 +19,7 @@ topics:
 - legal
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Nelson fined 11/- for furious riding in Kooringa on 29 November.

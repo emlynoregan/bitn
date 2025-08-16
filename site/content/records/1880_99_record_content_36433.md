@@ -20,6 +20,7 @@ topics:
 - community
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter again from ‘Satisfied’ pointing out that ‘some years ago there would have, no doubt, been a branch of the Burra Institute at Aberdeen had it not been for the manner in which certain parties went about making the arrangements.  From that time there has been a general eruption between the north and south ends of the town, and all caused by a well-known clique, which, I am sorry to say, cannot be healed.’

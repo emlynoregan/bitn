@@ -22,6 +22,7 @@ topics:
 - performance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rhe Buckley & La Feuillade  Anglo-American Co. performed at the Institute on Friday 23 June.  There was only moderate attendance due to insufficient notice.  It was an evening of songs, comic songs and music in part one.  After the interval songs, dances, comic sketches and musical items were presented.  On Saturday night there was a change of program, which was also gone through with spirit and was loudly applauded by the small audience.

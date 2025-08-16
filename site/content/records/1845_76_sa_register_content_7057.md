@@ -20,6 +20,7 @@ topics:
 - construction
 - materials
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Morewood, Rogers & Co. have a lengthy advertisement extolling the virtues of galvanized iron.  It is ideal for verandahs and general roofing.  It is cheap to erect, requiring no framework for verandahs except a wall plate and columns.  It is cheaper, lighter and cooler than slate.  It keeps water pure at all times and is light and durable and so is recommended for baths, buckets, deed boxes, gutters, pipes, windguards and cistern-heads.

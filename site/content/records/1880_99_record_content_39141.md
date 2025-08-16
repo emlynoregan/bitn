@@ -19,6 +19,7 @@ topics:
 - legal opinion
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Hardy is seeking legal opinion on what he thinks were irregularities in the recent poll and may contest the results.

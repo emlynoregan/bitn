@@ -21,6 +21,7 @@ topics:
 - politics
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ considers Mr Rounsevell will again ‘misrepresent’ Burra in the new Parliament.

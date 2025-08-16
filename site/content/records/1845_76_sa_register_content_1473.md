@@ -22,6 +22,7 @@ topics:
 - occupation licences
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Crown Lands Office, 21 April

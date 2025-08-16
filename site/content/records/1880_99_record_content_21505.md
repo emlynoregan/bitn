@@ -18,6 +18,7 @@ topics:
 - sport
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Handicap Hurdles over 150 yards and 200 yards carry prizes of £2-10-0 & £1.

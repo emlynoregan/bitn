@@ -20,6 +20,7 @@ topics:
 - advertisement
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Monday 5 October at Burra Institute.  Rev. J.W. Mouland will give the popular lecture Nature’s Fingerpost.  ‘Phrenologically pointing to suitability for Business, Professional and Matrimonial Life.  Brilliantly illustrated by LANTERN VIEWS, Pictures, Model Heads and Skulls.

@@ -20,6 +20,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Races. The Burra Jockey Club has changed the date to 2 April. The Burra Handicap will have a purse of 70 sovereigns.

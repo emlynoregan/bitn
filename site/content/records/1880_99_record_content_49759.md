@@ -40,6 +40,7 @@ topics:
 - weather
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Electric Lights.  The Register reports that hansom cab No. 44 in Adelaide has been fitted with an electric light.  The battery runs for 16 hours and the lamp throws a white light a great distance in front of the horse.

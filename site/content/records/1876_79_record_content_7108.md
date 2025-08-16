@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter asking where Iron Town is as it is said to be a better place for a school that Copperhouse, but he has been all around the Leighton and Iron Mine area and can see no `Iron Town'.

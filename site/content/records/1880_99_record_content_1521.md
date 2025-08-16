@@ -21,6 +21,7 @@ topics:
 - community
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Youth’s Athletic Club’s second sports meeting was marred by inclement weather on Monday last.  It was held in Mr Austin’s Paddock.  Attendance was low.  Results are printed.

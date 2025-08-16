@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Payne Family played at the Institute last Tuesday and Wednesday to crowded houses.  Their playing of the bells was much admired.

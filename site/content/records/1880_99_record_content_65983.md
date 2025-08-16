@@ -21,6 +21,7 @@ topics:
 - education
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson D.C. Clerk reported that no accommodation could be provided for the teacher at Leighton School as it was only a provisional school and residents needed to take means to have it declared a proper school.

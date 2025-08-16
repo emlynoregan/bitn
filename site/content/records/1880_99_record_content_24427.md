@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On New Year’s Day Young Australians 174 & 1 for 31 defeated Clare Early Closing Association 93 & 103

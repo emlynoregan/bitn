@@ -21,6 +21,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Solon’ writes again on the Northern Railway.  He adds that in his earlier letter he failed to say that the Murray trade would also be tapped best by his route.  The extension of a line from the Burra to North West Bend would be the cheapest way to reach the Murray.

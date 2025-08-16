@@ -25,6 +25,7 @@ topics:
 - polo
 - teams
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Smith, Downer, Murray & Bagot will take on the locals; two Bowmans, Hawkes & G. Lewis.

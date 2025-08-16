@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  A special train will take VF members to Adelaide at 4.56 a.m. next Tuesday.

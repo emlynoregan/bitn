@@ -38,6 +38,7 @@ topics:
 - crime
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire Inquest.  The premises of Mr John Jones, Bootmaker of Redruth, were destroyed by fire on the morning of 6 July.  The shop was a galvanised iron on wood frame building with a calico ceiling and iron roof.  There is no fireplace and no use of fire, but a kerosene lamp was in use.  The contents of the shop were £10 of leather and the stock of boots and shoes worth c. £50-£60.  Jones blew out the lamp and left at 7.30 p.m. Wednesday.  He knew of no ill will towards himself, but believed there was some towards his landlord, Mr Gray - some quarrel with Mr O’Farrell about ownership of the land.

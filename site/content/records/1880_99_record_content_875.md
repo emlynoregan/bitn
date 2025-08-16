@@ -23,6 +23,7 @@ topics:
 - public health
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Observer’ who complains that while one person (J. O’Brien) was informed against for keeping one pig, the butchers in the town keep many more.

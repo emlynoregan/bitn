@@ -24,6 +24,7 @@ topics:
 - agriculture
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  At Baldina and in the Hundred of King the country is like a desert with not a blade of grass and the saltbush is eaten to the ground.  It is the worst season seen for 16 years (and that was no worse).  Cattle and horse are dying and sheep in hundreds.  One blocker recently purchased 16,000 sheep and only 500 are now alive - and that with difficulty.  All cattle on The Gums Station have had to be moved to Pandappa.  At Nelinghoo large numbers of sheep will soon be killed in the hope of saving the remainder.  They are too poor to fetch to market.

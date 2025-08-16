@@ -18,6 +18,7 @@ topics:
 - societies
 - demonstration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The United Friendly Societies’ Demonstration was approved by the component lodges [Oddfellows, Foresters & Rechabites] and this was reported to the general committee last Tuesday.

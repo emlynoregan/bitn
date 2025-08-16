@@ -19,6 +19,7 @@ topics:
 - shooting
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S.G. Kingston shooting case.  An article from the SA Times is reprinted.

@@ -20,6 +20,7 @@ topics:
 - volunteer force
 - recruitment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: Ed. on the Volunteer Force. When the actual time for enrolment came only 13 actually came forward, though initially 70 names were given. Several reasons are possible, including the lack of cavalry and not knowing who the officers would be, and recent dismissals of mine workers made their staying in the town uncertain, but there were also less creditable reasons. Gawler and Kapunda had the required numbers. Ed. clearly disgusted.

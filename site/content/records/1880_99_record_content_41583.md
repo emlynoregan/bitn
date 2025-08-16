@@ -19,6 +19,7 @@ topics:
 - performance
 - postponement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Taylor-Carrington Co. has cancelled its performance tonight due to illness.  Postponed to 17 June.

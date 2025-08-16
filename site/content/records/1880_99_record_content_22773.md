@@ -19,6 +19,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Minister, Rev. W.F. James will depart next April.  He has seen the erection of a new manse and created a wonderful garden for it with many trees: if all had done as well ‘Burra would not now look as cheerless as it does.’

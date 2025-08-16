@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Supplement to the Paper. This was a sales advertisement re Goldsworthy Bros. Estate from which George Eaton was selling drapery, clothing, groceries, crockery and ironmongery etc.

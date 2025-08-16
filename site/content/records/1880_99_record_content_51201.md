@@ -21,6 +21,7 @@ topics:
 - council
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After a final skirmish Crs Walsh, West and Linkson left the room and the others continued with the meeting.

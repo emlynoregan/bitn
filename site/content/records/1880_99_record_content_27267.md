@@ -17,6 +17,7 @@ topics:
 - employment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The present demand for labour has given some hope that the unemployment trouble is past.

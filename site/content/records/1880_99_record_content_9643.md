@@ -24,6 +24,7 @@ topics:
 - agriculture
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Forestry Picnic will be in Austin’s Paddock, Aberdeen.  There are many entries and the Volunteer Brass Band will attend.

@@ -21,6 +21,7 @@ topics:
 - community
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster Sen. Sails for England on the 10 April to recover his health.  He expects to be away about 7 or 8 months.  St Mary’s congregation will give him a farewell on 3 April.  At the meeting of the Hospital Board on 14 March he was given leave of absence and proposed his son, Dr J.I. Sangster jun. as his locum tenens and this was granted unanimously.

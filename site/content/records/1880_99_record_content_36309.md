@@ -22,6 +22,7 @@ topics:
 - community
 - local rivalry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Morland Chaplin, Hon. Sec. pro tem of the Aberdeen and Redruth reading room movement.  He denies this has anything to do with north-south rivalry.  He says that there are plenty of people working in the north who find a walk to Kooringa after work at say 7 p.m. and then back again is too hard after labour.  When they asked for a branch of the Institute they had ‘cold water thrown upon them’, so now they are following the proverb ‘Heaven helpeth them who help themselves.’

@@ -38,6 +38,7 @@ topics:
 - pleurisy
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  An inquest was held at the Miners’ Arms hotel, Kooringa, by J.D. Cave JP on Saturday 20 November regarding John Roberts who died suddenly while lying on a form outside the hotel.

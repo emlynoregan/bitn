@@ -17,6 +17,7 @@ topics:
 - business
 - goods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Cut Wood, 13/- a ton and 12/- for long wood.

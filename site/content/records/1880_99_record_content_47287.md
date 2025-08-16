@@ -29,6 +29,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Program for St Peter’s Cathedral Choir, 12 November 1892.

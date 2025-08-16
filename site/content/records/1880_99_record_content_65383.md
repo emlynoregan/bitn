@@ -22,6 +22,7 @@ topics:
 - organization
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Lodge (Oddfellows) was visited by District Officers on Wednesday 14 December.  There was a special lodge meeting in the evening followed by a social at the Commercial Hotel chaired by Dr Sangster and this is reported at length in 1¾ columns.

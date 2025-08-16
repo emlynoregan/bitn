@@ -21,6 +21,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Grand Entertainment for only 6d in the Wesleyan Lecture Hall, Thursday 10 June, in aid of the Kooringa Band of Hope.  Songs, Readings and Recitations.

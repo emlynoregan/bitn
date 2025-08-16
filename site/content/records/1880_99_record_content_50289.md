@@ -18,6 +18,7 @@ topics:
 - industry
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Aberdeen Ballast Quarries.  The reopening has been delayed till next Monday by rain.

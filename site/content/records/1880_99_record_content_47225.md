@@ -30,6 +30,7 @@ topics:
 - performance
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Lecture at the Institute on 8 November.  Rev. R.J. Daddow will, by request, deliver his address on Labour, Capital and Unions.  W.T. Rabbich will be chairman.

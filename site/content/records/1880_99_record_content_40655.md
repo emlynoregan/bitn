@@ -20,6 +20,7 @@ topics:
 - poisoning
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison!  Two young wood carters called Ledwith, who reside at Redruth, were brought home from Thistlebeds suffering from a serious illness.  It is now thought they were suffering from rabbit poison having contaminated the well at Thistlebeds.  Others have complained of feeling unwell after using it.  They are improving.

@@ -21,6 +21,7 @@ topics:
 - road
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge is finished and will be opened next Friday when the Midland Road Board will be in Burra. The Mayor will give a banquet to the Board.

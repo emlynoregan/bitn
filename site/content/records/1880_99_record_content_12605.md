@@ -20,6 +20,7 @@ topics:
 - hotel
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The plans are for a plain, but substantial structure with 18 rooms plus pantry, bathroom, passages etc.  There will be a balcony on two frontages.  The licensing branch has allowed six months for erection.

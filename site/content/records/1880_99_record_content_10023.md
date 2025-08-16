@@ -17,6 +17,7 @@ topics:
 - employment
 - municipal services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Application for position of nightman for 12 months.  The applicant will have use of the Corporation night-cart and must charge according to the authorised scale.

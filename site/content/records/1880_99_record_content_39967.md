@@ -27,6 +27,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Coursing.  W.H. Linkson chaired a meeting at the Burra Hotel on Wednesday to discuss the formation of a Burra Coursing Club.  The formation was moved by G. Parks and 2nd by Mr Rabbich.  G. Parks was elected secretary.  Patrons were F.W. Holder MP and G.H. Lake MP and P.L. Killicoat JP.  J. Sandland was voted President.

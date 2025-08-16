@@ -20,6 +20,7 @@ topics:
 - accident
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.   A three-year-old child of Mrs Skinner of Bundey burnt to death on Tuesday when placing sticks on the fire, her mother being briefly outside to see to the cows.  [Not found in registrations.]

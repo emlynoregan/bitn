@@ -22,6 +22,7 @@ topics:
 - farewell
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ann & Bryan Rees from the National Bank were farewelled last week.  Bryan will take up an appointment in the metropolitan area.

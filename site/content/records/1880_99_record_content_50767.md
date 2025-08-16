@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment on Wednesday 13 September in the Institute in aid of the St Mary’s Building Fund.

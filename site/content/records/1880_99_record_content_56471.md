@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Jane Godson, wife of William Godson, died at Chipping Campden in Gloucestershire on 11 February, aged 65.  She was formerly of Redruth SA.

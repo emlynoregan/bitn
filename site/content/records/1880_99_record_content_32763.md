@@ -19,6 +19,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee met on Monday and agreed to change the skating nights to Monday, Wednesday and Saturday, but a request for children on Saturday mornings was refused.  [Previously Tuesday, Thursdays & Saturdays.]

@@ -20,6 +20,7 @@ topics:
 - council
 - works program
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 $390,000 for Council’s Works Program

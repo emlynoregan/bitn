@@ -20,6 +20,7 @@ topics:
 - road
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The surveyor recommended against altering the fence at the approach to the bridge near Fore St in Redruth.

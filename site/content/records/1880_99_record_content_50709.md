@@ -19,6 +19,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Reading Room has been rearranged to be more convenient.

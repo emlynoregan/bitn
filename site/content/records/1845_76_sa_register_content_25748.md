@@ -27,6 +27,7 @@ topics:
 - legal opinion
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra DC.  21 July.  Mr Rees MP writes re the main lines of road to be inserted in the schedule of the new Bill.  The Council wants the road from Kapunda to Burra Railway Station and thence northwards via Mount Bryan, and the road from Kooringa to five miles beyond Baldina creek to be declared main roads.  Way & Symon write advising their opinion that the Government cannot collect a police rate from a police district.  A memorial from ratepayers asked for road repairs near Prince’s Town [or Princess Town].

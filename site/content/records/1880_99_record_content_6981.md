@@ -18,6 +18,7 @@ topics:
 - planning
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For Government purposes a plan of 200’ to 1” would do, and only buildings within say 2’ of a boundary need be shown accurately - approximate positions only of others are needed.

@@ -22,6 +22,7 @@ topics:
 - economy
 - tariff
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Cable.  A second cable is to be laid between India (Madras) and Penang.  The tariff will be reduced to 4/- per word.  [Compare this with wages of perhaps 6/- a day for a labourer!]

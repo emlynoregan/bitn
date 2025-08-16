@@ -21,6 +21,7 @@ topics:
 - development
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Progress’ writes that railways need to be located to open up the country, they need to be pushed into the heart of the country & to the Barrier. Branches to be added later. The writer felt that the N-E was able to grow wheat and therefore needed the railway though squatters would oppose it as resumption of leases would follow.

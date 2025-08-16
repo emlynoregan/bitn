@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ calls for a careful approach to the Mayoralty.  Voters should get to know the candidates and perhaps propose another and realise that the future will be difficult with, among other problems, the white elephant of the Waterworks to contend with.

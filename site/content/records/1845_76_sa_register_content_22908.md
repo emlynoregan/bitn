@@ -23,6 +23,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  It is reported that crops around Kooringa are seriously affected by the drought and unless rain falls within two weeks it is feared they will be past recovery.

@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.B. Rounsevell refused to act as a steward or judge at Onkaparinga on account of the use of the totalizator.

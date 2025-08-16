@@ -18,6 +18,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dutton’s Trough.  No work of any value has been done yet to test this promising claim.

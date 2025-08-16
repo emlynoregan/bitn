@@ -19,6 +19,7 @@ topics:
 - travel
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Prices are given for excursion tickets to Melbourne and Victorian stations on the line for the Easter Holidays.  The return to be used within two months.

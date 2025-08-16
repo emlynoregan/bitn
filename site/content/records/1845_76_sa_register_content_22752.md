@@ -39,6 +39,7 @@ topics:
 - rolling stock
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 8 May 1869, page 2

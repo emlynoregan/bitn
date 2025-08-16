@@ -22,6 +22,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  Several young ladies of the Sunday school got together a cake fair on Thursday afternoon which raised £1-9-0, followed by an evening concert which raised £1-1-0.  The total will aid Dr Barnardo’s Homes in London.

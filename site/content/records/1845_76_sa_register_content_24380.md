@@ -20,6 +20,7 @@ topics:
 - floods
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Floods. Heavy rain from violent thunderstorms has produced extensive flooding in the north of the colony.  Reports from Kooringa say the weather has been fearful to the north and the Burra Creek was running higher than it is remembered to have done.  It was still rising rapidly and houses in Aberdeen had been flooded.

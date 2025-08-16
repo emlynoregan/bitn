@@ -22,6 +22,7 @@ topics:
 - police
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the extraordinary evidence offered by the police at the case in court on Wednesday.  Schutz & Halls were before the court concerning the breaking of lamp glasses, which had been going on for some time.

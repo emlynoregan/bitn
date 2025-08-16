@@ -26,6 +26,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs James Littlejohn died at Aberdeen on Monday 10 June, aged 54.  She came to Burra in 1890 from Gladstone and was a daughter of Mr Henry Hambly of Camborne in Cornwall.  She was a sister-in-law of W.J. Littlejohn of Broken Hill.  [Hannah Littlejohn.]

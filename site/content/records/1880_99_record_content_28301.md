@@ -20,6 +20,7 @@ topics:
 - transport
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From the North to Adelaide	7.09 a.m.	7.16 a.m.

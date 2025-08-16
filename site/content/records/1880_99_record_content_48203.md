@@ -22,6 +22,7 @@ topics:
 - labour
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The local hospital has continued to give excellent service and the local friendly societies continue to give valuable relief to those in need.  The great labour dispute of the year was that at the Barrier, which we hope will never be repeated.  Burra residents responded to the needs of those in need at Broken Hill.

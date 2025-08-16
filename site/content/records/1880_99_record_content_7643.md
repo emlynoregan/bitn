@@ -21,6 +21,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Jordan, 19 August at Burra, aged 43.  Wife of George Willmer Jordan, leaving a husband and four children.  [nee Kearns]

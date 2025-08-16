@@ -20,6 +20,7 @@ topics:
 - event
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Lynch Family Bellringers (Est. 1867) will appear at the Institute on 22 March.

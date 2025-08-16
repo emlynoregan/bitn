@@ -40,6 +40,7 @@ topics:
 - ownership
 - public dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 2nd leader. Our attention has been drawn to an extraordinary letter in the Australian Star signed ‘Humanity’ accusing us of partiality and unfairness. The Mayor (it says) cannot explain his side of the case. [re the Burra Hospital] In fact Mr Lipsett sent us only two letters and both were published — the first, long one, as received, the second with some minor changed which were discussed with Mr Lipsett. The Star complains that the surgeons and their friends can get their letters published. Fact — one surgeon wrote two letters and both were published after alterations at the request of the editor. The Secretary of the Hospital Board wrote one long letter and refused to change the wording at editorial request. It was printed as a paid advertisement. The Star then asserts that the Record is owned by the Hospital Board. But in fact: - 

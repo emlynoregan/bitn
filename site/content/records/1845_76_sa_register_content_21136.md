@@ -23,6 +23,7 @@ topics:
 - procession
 - illumination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Reception of the Duke of Edinburgh

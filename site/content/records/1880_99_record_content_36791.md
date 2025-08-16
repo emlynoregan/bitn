@@ -19,6 +19,7 @@ topics:
 - church
 - postal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader.  Conferences and their Work: reflections on the Wesleyan Conference and the Intercolonial Postal Conference.

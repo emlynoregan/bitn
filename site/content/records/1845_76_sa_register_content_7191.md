@@ -19,6 +19,7 @@ topics:
 - business
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 This group of tables covers publicans’ licences, public houses, manufactories and Court convictions.

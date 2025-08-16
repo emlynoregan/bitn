@@ -17,6 +17,7 @@ topics:
 - education
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Once again the ranting in purple prose is like wading through treacle, but the gist of the complaint seems to be that the writer objects to public schooling being strictly secular and abhors the way in which God and his works have been excluded from the curriculum and, consequently of course, all moral values at the same time.]

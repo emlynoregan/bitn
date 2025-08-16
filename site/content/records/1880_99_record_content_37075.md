@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - drainage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.G. Kelly of Copperhouse writes complaining that the District Council seems incapable of side drainage for the main street and instead cuts a creek 20 chains long down the centre of the road.  Or allows/encourages the waters to do so.

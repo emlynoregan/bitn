@@ -34,6 +34,7 @@ topics:
 - injury
 - damages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mann Court Case.  There was ¾ column on this in the editorial column and then another ¾ column summary here before almost 2 columns of the actual court report.  This was considerable overkill for the event.

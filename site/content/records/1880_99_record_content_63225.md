@@ -19,6 +19,7 @@ topics:
 - community
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Xmas Eve was busy in town and good business was done till a late hour.  The crowd was larger than 1896 indicating an improvement in the times.

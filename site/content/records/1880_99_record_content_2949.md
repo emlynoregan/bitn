@@ -20,6 +20,7 @@ topics:
 - advertisement
 - drapery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A. Watt	Draper, Clothier etc. Opposite the Bank of Australasia

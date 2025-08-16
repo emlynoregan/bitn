@@ -23,6 +23,7 @@ topics:
 - construction
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders are called for the erection of a dwelling house and butcher’s shop for Mr Rabbich Sen. at Aberdeen.  G. McLagan, Architect, Redruth.

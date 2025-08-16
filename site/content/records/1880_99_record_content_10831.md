@@ -19,6 +19,7 @@ topics:
 - serial
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 These had presumably been running in the Literary Supplement, which also presumably ceased when the paper was published twice weekly.  Unfortunately the position is not absolutely clear as neither the hard copies I have had access to nor the microfilm version preserve copies of the Literary Supplements after 10 August.  An announcement says Ettie’s Error was due to begin on 17 August.  A truncated assortment of the Literary Supplement features continued within the paper after it changed to twice-weekly publication in the form of two serials and usually two other headings.  See summary of Literary Supplements at the end of the year.

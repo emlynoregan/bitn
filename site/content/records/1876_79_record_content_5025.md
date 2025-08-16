@@ -23,6 +23,7 @@ topics:
 - machinery
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Grubbing Machines. [The SA Parliament had voted a prize for the invention of an effective grubbing machine] The second trial took place at Alma Plains following an earlier one near Gawler. Hand grubbers actually beat the 10 machines that competed. Prizes ranging from £17 to £5 were awarded. The £17 went to a machine of W. Symons of Windsor — priced at £9.

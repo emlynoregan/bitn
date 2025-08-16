@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Bible Christian Anniversary, 19 February.  Rev. Thomas to preach.  At 3 p.m. the pathetic and popular Service of Song: Eva.  Tea meeting 20 Feb. 5.30 p.m.

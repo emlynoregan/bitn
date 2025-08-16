@@ -19,6 +19,7 @@ topics:
 - election
 - voter roll
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Court of Revision sat at the Burra Hotel this week when one name was struck off the roll for the Legislative Council and one from the roll for the House of Assembly.

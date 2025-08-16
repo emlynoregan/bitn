@@ -19,6 +19,7 @@ topics:
 - band
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Promenade Band Concert.  W.J. Davey, who has returned recently after an absence of three years, will conduct.

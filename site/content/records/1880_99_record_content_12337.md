@@ -19,6 +19,7 @@ topics:
 - ward boundaries
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson gave fresh notice of his motion to change Ward boundaries.

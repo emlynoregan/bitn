@@ -19,6 +19,7 @@ topics:
 - animals
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cruelty to Animals.  An article complains of cruelty to animals, especially concerned with a horse broken in by Halls: ‘the animal had been ruptured and its bowels were hanging in an abominable and disgusting manner’.  We informed the police and understand the animal has since been destroyed.

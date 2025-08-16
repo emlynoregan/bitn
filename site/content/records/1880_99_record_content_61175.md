@@ -18,6 +18,7 @@ topics:
 - retirement
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr John Sampson who has been bailiff for many years has retired: ‘and a man even more Noble than he had emerged’.

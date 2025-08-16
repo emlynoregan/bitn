@@ -19,6 +19,7 @@ topics:
 - dairy
 - demonstration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Cream Separator was demonstrated at Robertstown on 21 July.

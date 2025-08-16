@@ -22,6 +22,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Bob Steele died last week.  He had been very active in the community with a long running interest in the Burra Pony Club, Legacy and Lions and was also a former Councillor.

@@ -19,6 +19,7 @@ topics:
 - sport
 - rifle
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Captain Butterworth 1st 70 from Sgt Jennings 66.

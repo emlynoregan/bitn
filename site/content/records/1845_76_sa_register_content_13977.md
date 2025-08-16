@@ -23,6 +23,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Uninterested’ also writes to the editor on the same topic.  He makes five points in response to the previously published correspondence.

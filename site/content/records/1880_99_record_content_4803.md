@@ -17,6 +17,7 @@ topics:
 - lecture
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The lecture ‘Creed v. Creed’ is reported in over 2 columns.

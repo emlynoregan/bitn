@@ -19,6 +19,7 @@ topics:
 - finance
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Farmers’ Association wants credit for farm purchases extended from 6 to 10 years.

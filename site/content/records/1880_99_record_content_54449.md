@@ -19,6 +19,7 @@ topics:
 - health
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Watt has resigned from the Presidency of the Institute due to ill health.  The committee expressed sympathy for his long illness and asked that he allow himself to retain the position.

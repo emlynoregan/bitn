@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Baynes, husband of Emily, died on 11 April, aged 50, leaving 2 sons and 2 daughters.

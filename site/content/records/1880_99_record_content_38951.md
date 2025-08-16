@@ -24,6 +24,7 @@ topics:
 - licensing
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes protesting that there are so many hawkers in the area affecting the ability of the local storekeepers to earn a living.  Some have no licences.

@@ -18,6 +18,7 @@ topics:
 - pastoral
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Last week more than 30,000 sheep left this place overland.

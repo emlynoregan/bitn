@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - fiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Du Dead Men Dream? 10 June.

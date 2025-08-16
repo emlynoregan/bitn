@@ -21,6 +21,7 @@ topics:
 - religion
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute - Ed. on why sectarian journals are excluded from the reading room.

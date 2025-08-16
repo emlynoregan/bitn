@@ -34,6 +34,7 @@ topics:
 - politics
 - butchers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Tax Meeting of Ratepayers at the Institute on Monday last.

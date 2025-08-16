@@ -18,6 +18,7 @@ topics:
 - short story
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 7 Apr.	Theodora Vail  I-III	Little Forty-two	X	X	X	X		X	X	X	X		Some Peter Stonnor Stories

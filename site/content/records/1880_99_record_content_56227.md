@@ -25,6 +25,7 @@ topics:
 - loss
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire destroyed the wood and iron house of C. Klaffus, farmer of World’s End last Tuesday morning.  Nothing at all was saved.  Mrs Klaffus was not home and Mr Klaffus was working some distance away while the children were down at the creek.  The cause of the blaze is a mystery.  There is a subscription list, which so far has £10.

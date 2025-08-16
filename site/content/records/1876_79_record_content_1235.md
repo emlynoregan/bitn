@@ -19,6 +19,7 @@ topics:
 - defence
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The immigration debate [SA was at the time sponsoring immigration with the Govt. initially supporting migrants when they arrived.] Defence of the colony.

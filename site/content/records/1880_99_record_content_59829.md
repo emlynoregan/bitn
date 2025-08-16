@@ -18,6 +18,7 @@ topics:
 - events
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show.  The decision not to hold a show this year will disappoint some, but was taken in view of the recent bad weather that has totally destroyed the flowers in several nice gardens.

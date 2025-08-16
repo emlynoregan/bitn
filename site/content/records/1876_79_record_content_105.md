@@ -23,6 +23,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Note from the Publishers expresses apologies for a smaller size of the paper than was intended.  They considered deferring the first issue due to difficulties experienced, but decided to publish a slightly smaller issue.  [It was five columns wide instead of six.]

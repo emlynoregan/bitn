@@ -21,6 +21,7 @@ topics:
 - anniversary
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Bible Christian Church anniversary 22 & 23 February.  Rev. W.H. Cann from England will preach.  Articles left over from the bazaar will be sold at the tea meeting at greatly reduced prices.

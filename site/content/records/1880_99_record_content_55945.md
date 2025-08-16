@@ -20,6 +20,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Last Sunday a fine stallion, the property of Mr Thomas Woollacott of Redruth, grazed too close to the top of the Aberdeen Ballast Quarry and fell to its death.

@@ -19,6 +19,7 @@ topics:
 - public health
 - scarlatina
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [Dr Nesbitt then names the scarlatina cases in Paxton Square.]

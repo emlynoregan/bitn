@@ -22,6 +22,7 @@ topics:
 - business
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 National Bank. Mr W.H. Rosman who has managed the Kooringa branch for some years has resigned to take a position with the Unicorn Brewery. Mr Loutit, from Angaston, takes his place at the bank.

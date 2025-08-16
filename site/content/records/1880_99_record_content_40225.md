@@ -18,6 +18,7 @@ topics:
 - harvest
 - export
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The recent harvest.  Despite the problems of locusts and red rust the late harvest has been ‘far from unsatisfactory’.  It averaged 7 bushels per acre from 1,850,000 acres and of the 12,950,000 bushels; 9,135,000 bushels are available for export after allowing for seed and food for 330,000.

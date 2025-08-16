@@ -19,6 +19,7 @@ topics:
 - obituary
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The late Mrs Edlin was for several years a resident of Burra and ran a young ladies' school. Her friends and old pupils will regret her passing.

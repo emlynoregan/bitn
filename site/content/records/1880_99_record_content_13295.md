@@ -22,6 +22,7 @@ topics:
 - death
 - infant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The infant son of Albert and Jane Topperwein died on 24 May at Pt Wakefield, of convulsions, aged five months.  [Gladstone Moltke Topperwein born 20 December 1883.]

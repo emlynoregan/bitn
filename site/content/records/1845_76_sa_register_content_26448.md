@@ -28,6 +28,7 @@ topics:
 - mail
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James Reed, G.C. Knight, Charles Morris, commercial travellers of Adelaide write re the Mt Bryan Road.

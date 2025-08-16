@@ -17,6 +17,7 @@ topics:
 - hunting
 - wildlife
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hunting.  A local sportsman has killed no less than 21 wild turkeys last week.

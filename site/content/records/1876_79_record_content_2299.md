@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway; the piles for the road underpass had been driven and they were now driving those for the Burra Creek Bridge.

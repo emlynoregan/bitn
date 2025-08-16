@@ -21,6 +21,7 @@ topics:
 - election
 - vacancy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The Town Council, having declared vacant the seat of Mr William Thomas Rabbich, nominations are called for the vacancy by Monday 13 April.

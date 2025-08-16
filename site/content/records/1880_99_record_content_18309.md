@@ -20,6 +20,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Go Ahead’ urging the establishment of bacon and cheese factories in SA.

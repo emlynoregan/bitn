@@ -18,6 +18,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Main Roads account		£21-12-4	[Debit or credit is not stated.]

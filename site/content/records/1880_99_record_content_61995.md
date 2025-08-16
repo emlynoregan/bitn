@@ -21,6 +21,7 @@ topics:
 - confederation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Richard Chaffey Baker again on Federation: The Disadvantages of any Other Form of Union.

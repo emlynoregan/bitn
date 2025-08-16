@@ -29,6 +29,7 @@ topics:
 - legal
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest on Tuesday into the loss by fire of Mrs Camp’s haystack at Springbank on 19 February.  W.R. Ridgway, coroner.

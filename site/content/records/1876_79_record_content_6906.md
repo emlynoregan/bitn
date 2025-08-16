@@ -20,6 +20,7 @@ topics:
 - drainage
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Overseer's report was that Market Square needed to be much raised and the hollows filled in before it can be thoroughly drained. Already over 70 yards [3] of quarry rubble have been carted there.

@@ -21,6 +21,7 @@ topics:
 - livestock
 - border
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Pleuro-pneumonia, wondering why more is not done to prevent the spread of the disease by preventing diseased animals from Queensland and NSW crossing the border.  The fear is that meat from diseased animals will be sold for consumption.

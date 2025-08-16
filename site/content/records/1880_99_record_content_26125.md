@@ -30,6 +30,7 @@ topics:
 - committee
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Children’ Jubilee Committee.  A meeting was held last Monday at the Institute to arrange to take the Burra children to the Exhibition.  Special admission charges of 3d each and 6d for accompanying adults are available.  Other costs will be 2/6 for travel and 6d for a meal.  The number of children is estimated at 400-500.

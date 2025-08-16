@@ -20,6 +20,7 @@ topics:
 - bridge
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Bridge of Sighs’ has been repaired and a good job made of it.  [The next Council meeting report suggests this refers to the footbridge at the Pig & Whistle crossing.]

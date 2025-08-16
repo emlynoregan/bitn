@@ -19,6 +19,7 @@ topics:
 - employment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Applications are called for a librarian and caretaker at the Burra Institute.  £65 per annum with house, fuel, light and water.  F.R. White Hon. Sec.

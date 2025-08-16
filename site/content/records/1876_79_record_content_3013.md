@@ -25,6 +25,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Capsize. Mr Wright, the White Hart ostler was driving Mr & Mrs John Gerrard between Burra and Prince's Town when the buggy capsized. Mrs Gerrard was badly lacerated on the head, but the two men were only bruised.

@@ -18,6 +18,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Seats 1/- and 6d, in aid of St Mary’s Sunday School.

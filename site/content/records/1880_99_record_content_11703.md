@@ -17,6 +17,7 @@ topics:
 - literary
 - preservation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21 Sep.		[If issued this is not preserved either in hard copy or microfilm.]

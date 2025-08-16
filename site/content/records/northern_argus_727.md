@@ -19,6 +19,7 @@ topics:
 - volunteer
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouts held their first meeting of the year last Friday, but the Cubs will have to go into recess unless a leader is found.

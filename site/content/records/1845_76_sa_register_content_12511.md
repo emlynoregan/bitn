@@ -23,6 +23,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Royal Mining Co. offers the right to run over 24 sections totalling 1,916 acres at the Emu Flats, County of Stanley.  For terms apply to the office in King William Street.  Nath. Summers, Secretary.

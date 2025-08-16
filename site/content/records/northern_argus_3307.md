@@ -23,6 +23,7 @@ topics:
 - heritage
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Branch of the National Trust has presented the painting Peter’s Vision to St Mary’s Church on permanent loan.  Mr Stanley Warner had gifted them the 18th/19th century painting.  The presentation was accepted by the Bishop of Willochra at the service in St Mary’s on Sunday.  [Photo.]

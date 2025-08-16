@@ -21,6 +21,7 @@ topics:
 - lecture
 - magic lantern
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Since Signor Cutolo’s departure we have had Mr Creswick & Co., who played for several nights to thin houses.  Mr Gome delivered three lectures, and exhibited magic lantern views, including dissolving views, chromotropes etc.

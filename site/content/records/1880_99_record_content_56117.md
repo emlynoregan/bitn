@@ -32,6 +32,7 @@ topics:
 - military
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military Sports last Wednesday were a great success.  A crowd of over 1,000 attended.  The procession headed by the Burra Brass Band set out from Market Square at 12.30.   Descriptions of events and the results are printed.

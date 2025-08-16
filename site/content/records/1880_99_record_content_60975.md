@@ -19,6 +19,7 @@ topics:
 - memorial
 - teachers' union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hartley Memorial Fund.  The newly formed Teachers’ Union will co-operate with the committee of the Hartley Memorial Fund to raise £1,500 or more to establish scholarships for public school children or some other suitable scheme to perpetuate the memory of the late Inspector General.

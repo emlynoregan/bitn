@@ -20,6 +20,7 @@ topics:
 - assessment
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy also expressing amazement at the action in relations to assessment appeals and placing the whole responsibility for it on the Town Clerk, [J.D. Cave] who acted without Council knowledge.

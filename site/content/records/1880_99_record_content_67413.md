@@ -21,6 +21,7 @@ topics:
 - industry
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Fossicker’ considers the Mine directors are adopting a dog-in-the-manger approach to the mine.

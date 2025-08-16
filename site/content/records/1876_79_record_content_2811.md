@@ -21,6 +21,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Stephen Salmon. Inquest at the Burra Hospital into his death on the way to same, having been found on the roadside at Aberdeen. Concluded he died from being crushed by the wheel of a dray passing over his chest; his probable drunkenness being a factor.

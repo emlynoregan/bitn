@@ -20,6 +20,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Professor Gilbert, physiognomist physiologist and popular speaker will lecture at the Institute 2 & 3 March on The Physiognomy of Intemperance and Crime.

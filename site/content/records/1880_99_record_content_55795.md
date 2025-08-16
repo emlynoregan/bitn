@@ -19,6 +19,7 @@ topics:
 - finance
 - benefits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Lodge met on Monday and has been forced to reduce sick pay from £1 to 16/- a week.  For the year ending in November last £780 had been paid out resulting in a loss to the funds of about £375 for the year.

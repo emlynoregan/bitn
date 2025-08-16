@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Ruth & Gil Strachan of ‘The Gums’, a son.

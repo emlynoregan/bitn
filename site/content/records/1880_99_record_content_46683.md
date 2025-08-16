@@ -22,6 +22,7 @@ topics:
 - tennis
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports the tennis match on 1 September on the court opposite the Burra Hospital in which Burra 84 games defeated Clare 75 games.

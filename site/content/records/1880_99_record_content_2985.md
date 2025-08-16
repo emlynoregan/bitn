@@ -18,6 +18,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Stray Leaves Co. played on Saturday to a crowded house.  ‘Stray Leaves’ played for over 200 nights elsewhere and was very well received.  Welsh, Irish and Dutch impersonations were wonderfully well done.  There were also good houses on Mon. & Tues.

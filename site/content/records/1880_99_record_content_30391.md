@@ -19,6 +19,7 @@ topics:
 - waterworks
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Ratepayer’ objecting to the Town Council’s general inaction on the Waterworks and other issues.

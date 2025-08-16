@@ -17,6 +17,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mortuary Chapel.  This is very much needed and would be very useful as a resting place for Sunday visitors.  A stone chapel would be costly and would have to be kept locked.  It would be dreary inside and ugly outside.  Combine the arbour and the other and you gain many ends and lose no advantage.

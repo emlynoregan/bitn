@@ -23,6 +23,7 @@ topics:
 - company
 - brewery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Christison of Clare is Managing Director and F.W. Jacka head brewer.  The head office will be at Melrose.  Freehold and leaseholds of hotels attached to the breweries also go to the new company along with the associated aerated waters and cordial factories.

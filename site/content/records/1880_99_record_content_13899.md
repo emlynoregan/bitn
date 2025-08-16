@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - route
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton.  We note that most people passing through Burra on the way to Silverton take the eastern route commonly known as the peg line.  They consider it the best to travel by.  This is another argument in favour of the line advocated by Burra residents for the proposed railway.

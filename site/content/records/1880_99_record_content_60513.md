@@ -21,6 +21,7 @@ topics:
 - race
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  8th race for the season was from Nairne on 5 August over 94 miles and was won by S. Edward’s birds at 1,365 yds per minute.

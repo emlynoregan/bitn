@@ -20,6 +20,7 @@ topics:
 - drunkenness
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Schutz fined 40/- or 21 days for drunkenness in Kooringa on 10 November.

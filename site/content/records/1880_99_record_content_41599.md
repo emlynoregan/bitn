@@ -27,6 +27,7 @@ topics:
 - fundraising
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr John Roach, the well-known Adelaide sharebroker has, ever since his departure from Burra periodically assisted the funds of the local Institute by arranging for concerts etc., bringing to Burra some of the leading talents of SA.  The recent concert included the Beaumont Read Quartet comprising Mrs Alderman, Miss Minna Schrada and Mr Gribble [& presumably Mr Read?] - all household names in SA.  The concert raised £12 and was an excellent evening’s entertainment.  Mr Read remained in Burra for Sunday evening’s service at St Mary’s where he sang ‘He was despised’ [from Handel’s Messiah.

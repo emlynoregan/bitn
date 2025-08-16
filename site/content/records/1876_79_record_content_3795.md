@@ -20,6 +20,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident I Offence. Last Tuesday the Opie's coach, being driven by W. Dempsey, returning to Burra, was involved in a "trial of speed" with a rival coach and while going over a crossing the coach capsized. The coach was much damaged, but fortunately the passengers escaped with a few scratches.

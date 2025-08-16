@@ -17,6 +17,7 @@ topics:
 - weather
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Good Friday was wet and disagreeable rendering the amusements provided almost a failure.

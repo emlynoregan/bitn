@@ -20,6 +20,7 @@ topics:
 - industry
 - living conditions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 28 December 1850.  I visited the Patent Copper Company Works; a mass of buildings with nineteen furnaces at work.  I saw the process of casting.  A row of iron moulds are placed around the furnace; one or two men fill them with the smelted ore; no all at once, but at six different times, each time with an iron ladle holding fourteen pounds; this is poured in, cools immediately; another is supplied and so on, until the six are completed.  They are then turned out, separated, and their edges cleaned by boys and men.  There is a sawmill attached for cutting the firewood to the required lengths.  In the large yard adjacent the ore is mixed before smelting with the proper proportions of coal, iron ore and limestone; the whole being reduced to the size of pigeons’ eggs.  From thence it is conveyed to a large funnel over each furnace.

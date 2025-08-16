@@ -19,6 +19,7 @@ topics:
 - conference
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 SKAL International Conference on Tourism will send 360 delegates to Burra on 3 & 5 November for day visits.

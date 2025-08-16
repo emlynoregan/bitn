@@ -20,6 +20,7 @@ topics:
 - politics
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [He says Mr Kingston has maliciously attributed an address written by one of the Committee, to Mr Mildred himself.]

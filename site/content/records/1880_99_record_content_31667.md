@@ -20,6 +20,7 @@ topics:
 - water conservation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hon. A. Catt, Commissioner of Public Works will visit Baldina Creek today with reference to its suitability for water conservation works.

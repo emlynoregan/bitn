@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Wesleyan Church held its Anniversary services on Sunday.  Preachers were Rev. J.B. Stephenson and Mr J. Jeffrey.   The tea meeting was held on Monday and the total proceeds were £80.

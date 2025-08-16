@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Church anniversary celebrated 19 & 24 May (Queen's Birthday holiday.)

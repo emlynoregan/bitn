@@ -21,6 +21,7 @@ topics:
 - cricket
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Not Cricket!  Aberdeen played Manoora at Manoora on Good Friday.  Manoora 53 & 144 defeated Aberdeen 66 & 31 for 6 when Aberdeen forfeited.  The Aberdeen captain withdrew from the ground following his brother, H. O’Brien’s dishonourable conduct in arguing with the umpire after being twice clean bowled and once stumped.

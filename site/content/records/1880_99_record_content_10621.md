@@ -20,6 +20,7 @@ topics:
 - court
 - breach of promise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a fairly detailed report of a breach of promise suit of Elizabeth Geach v. Frederick Jones.  The court awarded Geach £150.

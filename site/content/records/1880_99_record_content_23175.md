@@ -21,6 +21,7 @@ topics:
 - police
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter on larrikinism pointing out that now that the police are keeping good order at the Penny Readings on Saturdays, the larrikins have moved to the BYMU concerts on Fridays, with much noise from the boys and young men at the back of the hall.  Why no police there?

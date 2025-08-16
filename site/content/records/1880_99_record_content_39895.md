@@ -20,6 +20,7 @@ topics:
 - building
 - public_safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Several verandah posts intrude into the street in lower East Ward.

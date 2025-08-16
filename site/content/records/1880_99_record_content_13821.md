@@ -18,6 +18,7 @@ topics:
 - finance
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Exhibition - so far costs incurred total £2,094-17-0.  The second reading of the repeal bill has been stood over pending printing of information about costs.

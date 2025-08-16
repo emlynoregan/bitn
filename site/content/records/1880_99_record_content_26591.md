@@ -21,6 +21,7 @@ topics:
 - theft
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from William Dowling SJ of St Joseph’s complaining that a person or persons are taking wood from the Sisters’ convent.  Their income is so small that this is a dastardly act.

@@ -22,6 +22,7 @@ topics:
 - debate
 - social_welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Friend to the Bushman’ writes in response to ‘Hawker’

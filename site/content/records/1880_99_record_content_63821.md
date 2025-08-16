@@ -26,6 +26,7 @@ topics:
 - appointment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Ensign Horn and Lieut. Gridley were farewelled at the Barracks on Sunday and at a pasty supper on Monday.  At present the Burra Corps is stricken with a lack of members and poor finances, still the lassies were financially more successful than many of their predecessors.  Captain Griffiths and Lieut. Samuels will take up the work in Burra for a term.

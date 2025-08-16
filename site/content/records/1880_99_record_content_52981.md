@@ -20,6 +20,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club has its first race today, from Princess Royal.

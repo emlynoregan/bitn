@@ -19,6 +19,7 @@ topics:
 - sport
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Two very improved players received President’s Trophies: Paul Williams and Jason Shepherd.

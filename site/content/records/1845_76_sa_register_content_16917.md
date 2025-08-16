@@ -18,6 +18,7 @@ topics:
 - shearing
 - labour movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There has been a large influx of shearers from the north in the last few days.

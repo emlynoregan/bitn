@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Harris complained that Mr Littlejohn did not flush every fireplug along the main.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - stores
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 John Carey	Chaff & Wood Stores, Kooringa & Aberdeen

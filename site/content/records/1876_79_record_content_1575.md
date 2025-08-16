@@ -22,6 +22,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Kooringa Bible Christian Sunday School Picnic planned for 26 Dec. near Sod Hut.

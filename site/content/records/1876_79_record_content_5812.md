@@ -20,6 +20,7 @@ topics:
 - theatre
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The Uncle Tom Combination Troupe performed at the Institute on 26 Jan. The front seats were well filled, the middle seats partly filled and the back crowded. The performance began with `Perfection, or a cork leg', then several sketches and Act III of `Uncle Tom's Cabin' and ended with `Bells of the Kitchin'. All in all the performance fell short of expectations.

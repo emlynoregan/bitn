@@ -20,6 +20,7 @@ topics:
 - regulation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor replies that it has been in force since 12 December and the police have the duty to enforce it.

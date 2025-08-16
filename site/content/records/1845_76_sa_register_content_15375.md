@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Black Springs Wesleyan Chapel celebrated its anniversary with special services last Sunday and there was a tea and public meeting on Monday.

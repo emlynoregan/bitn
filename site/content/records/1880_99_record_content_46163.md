@@ -25,6 +25,7 @@ topics:
 - education
 - school board
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The new Burra School Board of Advice met on 22 July and Mr W. West was elected chairman.  Members mentioned are Rev. Daddow, Mr Hardy and Mr Rabbich.  Today they visit Copperhouse, Leighton and Davieston.  [Note use of Daviestown rather than Hanson.]

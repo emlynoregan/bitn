@@ -20,6 +20,7 @@ topics:
 - accident
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mill.  A major cogwheel at Roach Bros Mill has broken and production will be delayed some days.

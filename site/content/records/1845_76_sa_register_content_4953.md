@@ -37,6 +37,7 @@ topics:
 - transport
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr W.S. Chauncy’s Report on the Survey of the Northern Railway to the SA Railway Committee.

@@ -21,6 +21,7 @@ topics:
 - livestock
 - fraud
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Butchers, dealers and other purchasers of cattle in SA, NSW and Victoria are warned against buying cattle branded P.C.C.  Legal proceedings will be taken against any person retaining or offering such cattle for sale and a liberal reward will be given for information leading to the conviction of the offender or offenders.

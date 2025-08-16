@@ -20,6 +20,7 @@ topics:
 - crime
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Vandalism. Robert Thomson offers £10 reward for the tank damaged on the road between Parnaroo North Dam and his Kongdong Vale Run. [Kongdong = Quondong]

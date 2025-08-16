@@ -25,6 +25,7 @@ topics:
 - fundraising
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Polo Match last Wednesday.  	William J. Richard’s side 11 goals 14 behinds

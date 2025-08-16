@@ -22,6 +22,7 @@ topics:
 - events
 - signal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Briton’ writes urging Councils and others to take up the suggestion  of lighting a line of beacon fires from one end of the colony to the other to signal the arrival of HRH the Duke of Edinburgh on the Galatea.

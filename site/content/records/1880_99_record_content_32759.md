@@ -22,6 +22,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Oddfellows welcomed District Officers etc. to a social at the Burra Hotel last Wednesday.  A lodge of Past grands was held.  Membership in Burra is 300 and only one lodge in SA has more members.

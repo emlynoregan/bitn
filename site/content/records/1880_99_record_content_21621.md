@@ -22,6 +22,7 @@ topics:
 - obituary
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs D. Packard, widow of the late Daniel Packard and mother of the Mayor, died at her son’s home on Tuesday morning.  She had arrived in SA in 1857.  [nee Sarah Devereux?]

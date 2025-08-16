@@ -20,6 +20,7 @@ topics:
 - school
 - renovation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Schoolroom has been recently renovated at considerable expense. Its improvement was celebrated by a public supper and entertainment on Friday, proceeds to assist the improvement fund.

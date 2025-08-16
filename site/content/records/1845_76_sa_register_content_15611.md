@@ -20,6 +20,7 @@ topics:
 - election
 - withdrawal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 3 May 1862, page 1

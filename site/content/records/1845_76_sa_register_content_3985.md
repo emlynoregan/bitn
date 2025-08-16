@@ -35,6 +35,7 @@ topics:
 - operations
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Far Famed Burra Burra Mine

@@ -17,6 +17,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Several games of cricket were played.

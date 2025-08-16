@@ -22,6 +22,7 @@ topics:
 - streetlights
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Streetlights.  C.G. Tiver will attend to the Aberdeen lamp for £7-15-0 p.a. and W. Geake will attend to the two in Kooringa for£13 p.a.

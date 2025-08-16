@@ -24,6 +24,7 @@ topics:
 - waterworks
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Commissioner of Public Works is getting an estimate of the present worth of the Waterworks after which Cabinet will consider the question of the sale.

@@ -21,6 +21,7 @@ topics:
 - typhoid
 - sanitation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ writes: ‘It is a well known fact that what is wanted is the removal of the barrier which prevents labour having access to the land, and the only thing which would in any way benefit the industrious poor.’

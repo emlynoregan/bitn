@@ -22,6 +22,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Aberdeen Club was formed at a meeting at the Exchange Hotel on Monday evening.  15 persons attended with Mr Ridgway in the chair.  M. Moorhouse was appointed secretary pro tem.

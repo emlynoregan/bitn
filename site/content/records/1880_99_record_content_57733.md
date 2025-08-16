@@ -22,6 +22,7 @@ topics:
 - hospital
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The young man named Symes, who was admitted to the Burra Hospital from Broken Hill, died last week.  The funeral on Sunday was largely attended.

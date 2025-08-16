@@ -19,6 +19,7 @@ topics:
 - railway
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Train: on Saturday the passenger train from Terowie was an hour late due to the engine derailing itself twice at Terowie.

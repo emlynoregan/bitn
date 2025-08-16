@@ -22,6 +22,7 @@ topics:
 - public health
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local Medical Officer of Health.  The Central Board of Health has demanded that the Burra Local Board appoint a Medical Officer of Health.  They were informed that Dr Brummitt as Government Medical Officer performed the necessary tasks.  The Central Board replied that Dr Brummitt is not bound by his appointment to discharge duties under the Public Health Act, but if the Local Board appoints him as Officer of Health he would be likely to be approved.

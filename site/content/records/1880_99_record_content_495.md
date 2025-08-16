@@ -21,6 +21,7 @@ topics:
 - flood
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  A severs local storm on Tuesday caused some local flooding in Kooringa.  Aberdeen was much less affected.  Much further south the railway line was washed away at Wasleys.

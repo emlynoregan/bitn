@@ -18,6 +18,7 @@ topics:
 - industry
 - local industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local Industry.  W.H. Pearce has devised a durable and cheap plant label.

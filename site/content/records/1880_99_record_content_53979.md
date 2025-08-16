@@ -20,6 +20,7 @@ topics:
 - suffrage
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ninety-nine out of every hundred would exercise her franchise in precisely the same direction as her husband, and in this case we would only have a larger electors’ roll with the same results.’

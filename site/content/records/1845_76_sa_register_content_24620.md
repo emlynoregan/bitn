@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra District Council.  Moves to get this body established seem to have died again.  This is a pity as local government would greatly improve the town.  Goats and pigs roam at ease in the streets to the annoyance of those who have formed gardens and the roads are miserable.

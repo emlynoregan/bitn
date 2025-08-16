@@ -19,6 +19,7 @@ topics:
 - politics
 - naval
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on the naval defence of the colony, clearly setting out the alternatives of supporting an Australian Fleet as worked out at the recent Imperial Conference in London, or of maintaining the Protector and a torpedo boat.  The writer favours the latter option, but the house of Assembly favours the former and the matter is now with the Legislative Council.

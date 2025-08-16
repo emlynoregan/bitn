@@ -18,6 +18,7 @@ topics:
 - concert
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School.  The scholars put of a concert for the break-up festivities on Friday night.  The items were well rendered.  The program is printed.

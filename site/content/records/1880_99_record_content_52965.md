@@ -19,6 +19,7 @@ topics:
 - economy
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One of the People’ writes again on the topic of falling wages and the argument in favour of the untrammelled interplay of supply and demand.

@@ -23,6 +23,7 @@ topics:
 - healthcare
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 In another letter P.B. Moroney writes in praise of the Burra Hospital after being there some time. He especially thanks Dr Nesbitt and Matron Mrs Cox.

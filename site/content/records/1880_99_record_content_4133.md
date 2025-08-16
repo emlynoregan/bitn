@@ -20,6 +20,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Meeting called 16 May, Exchange Hotel to form an Aberdeen Football Club.

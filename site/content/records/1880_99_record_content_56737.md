@@ -21,6 +21,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr John Dunstan Sen. Has died at his residence at Mt Bryan on Monday morning last, 22 April, aged 96*.  He had worked in the Burra Mine in the early days and was very successful in getting the largest amount paid to any tributer.  He later took to farming.  He leaves a wife and adult family.

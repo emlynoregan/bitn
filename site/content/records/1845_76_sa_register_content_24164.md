@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The mine stamps are again working and the reintroduction of the old apparatus is highly approved by the miners.

@@ -20,6 +20,7 @@ topics:
 - business
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  E.H. Benney has sold his butchering business to Mr Symons of Market Square and thanks customers for their patronage in the past three years.

@@ -21,6 +21,7 @@ topics:
 - public health
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Anti Dirt Heap’ complaining that the water tables along the north side of Commercial St and Market Square are foul smelling and need cleaning out.

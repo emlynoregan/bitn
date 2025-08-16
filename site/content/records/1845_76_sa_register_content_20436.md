@@ -19,6 +19,7 @@ topics:
 - medical
 - recovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The boy Broad, who sustained such severe injuries last week when a mule team passed over him, is making good progress and his hand will be saved, though he may not have such free use of it as formerly.

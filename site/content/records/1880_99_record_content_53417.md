@@ -20,6 +20,7 @@ topics:
 - appointment
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J. Hopkins is going to a new circuit at Magill.

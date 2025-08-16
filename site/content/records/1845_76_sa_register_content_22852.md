@@ -26,6 +26,7 @@ topics:
 - road
 - bridges
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Traveller’ writes calling for urgent action on the Saddleworth-Black Springs Road.  He is also scathing about the Black Springs-Chinkford [Chingford - later Manoora] Road.  He says at the very least the four or five bogs crossed between Glendore [Black Springs] and Manoora demand attention.  A bridge across the Wakefield and another in Chinkford are also needed.

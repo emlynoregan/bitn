@@ -18,6 +18,7 @@ topics:
 - mining
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  The extraordinary general meeting called to confirm the motions passed at the meeting of 24 January was held and the motions were confirmed.

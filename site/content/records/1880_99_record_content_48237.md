@@ -23,6 +23,7 @@ topics:
 - court
 - evidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Thomas Jones alias Tracey case is given in more detail.  Evidence is reported from E. Cox, R. Collins, Thomas Bevan & mark Linkson.

@@ -31,6 +31,7 @@ topics:
 - police
 - ejection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From the door the editor heard Cr Linkson try again to have his objection recorded.

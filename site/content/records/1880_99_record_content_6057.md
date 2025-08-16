@@ -22,6 +22,7 @@ topics:
 - advertisement
 - purchase
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  E.H. Benny, butcher, Lower Thames St, has purchased the butchering business of F.E. Bromley.

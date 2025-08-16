@@ -19,6 +19,7 @@ topics:
 - uniform
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volunteer Forces.  As no agreement has been reached on the uniform for the Battalion the General has been asked to decide.  It is expected he will choose scarlet tunics with buff facings.

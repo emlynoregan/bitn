@@ -24,6 +24,7 @@ topics:
 - monopoly
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Everyone knows the NDL is ‘set for the defence of the money bag and land monopoly.’

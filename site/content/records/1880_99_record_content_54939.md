@@ -19,6 +19,7 @@ topics:
 - exercise
 - gender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Female Exercise.  A celebrated physician says re exercise for women that the best thing is walking.  ‘Tennis he declared to be violent and too much of it is likely to lengthen the arms and make the height of the shoulders uneven.  Cycling renders women awkward in their walk; they gradually come to move with a plunging kind of motion, the reverse of graceful.  Riding is one-sided, and women who have habitually ridden for years usually have one hip higher than the other.  Croquet really does not give exercise.’

@@ -21,6 +21,7 @@ topics:
 - construction
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. Rail laying has been delayed by lack of bolts; but is now north of Burra Creek and also active at Myle's crossing 2 miles north.

@@ -19,6 +19,7 @@ topics:
 - prospecting
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfield.  Some of the Government men are getting a little gold now.  The Government has agreed to supply a horse and cart and several water casks, which will help much.  Other prospectors are however, doing much better.

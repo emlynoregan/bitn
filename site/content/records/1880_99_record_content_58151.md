@@ -36,6 +36,7 @@ topics:
 - flowers
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After its revival 18 months ago vigorous work by the society has produced a phenomenal success.  £73 was taken at the gate and £45 in entries.  The new shed was a great improvement and so were the arrangements for cattle.

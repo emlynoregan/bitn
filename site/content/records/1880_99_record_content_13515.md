@@ -20,6 +20,7 @@ topics:
 - death
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  J.F. Wigley, who some time ago contested a seat for the Legislative Council, and at last election was defeated for Newcastle, died suddenly of heart disease at his North Adelaide home on Saturday.  [James Francis Wigley died 21 June, aged 53.]

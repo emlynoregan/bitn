@@ -23,6 +23,7 @@ topics:
 - community
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  ‘Short Mark’ reports that last week 10 Reds made close work for 18 Allcomers, but the actual scores are not given.  Allcomers won by 1 behind.

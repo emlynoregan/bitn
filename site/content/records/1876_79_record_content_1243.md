@@ -19,6 +19,7 @@ topics:
 - pests
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits: Apoinga Council reduced the bounty on rabbit scalps to 1/2d - in a recent month 23,398 had been received!

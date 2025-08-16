@@ -25,6 +25,7 @@ topics:
 - education
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Thursday evening the Rev. S. Knight will deliver a lecture at the Institute on Thomas Carlyle in aid of its building funds.  Children from the Model School under Mr Cater will contribute some musical selections.

@@ -21,6 +21,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.M. Hunter (Kooringa Wesleyan) will lecture tonight on General Gordon.

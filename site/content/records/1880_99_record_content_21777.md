@@ -20,6 +20,7 @@ topics:
 - alluvial deposits
 - quartz reef
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  It is reported that 40-50 men are at work looking for gold at Ulooloo where alluvial deposits have been found.  Two quartz reef claims have also been pegged, but it is too early to speak of success.

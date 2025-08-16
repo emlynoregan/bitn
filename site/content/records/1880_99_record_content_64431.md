@@ -22,6 +22,7 @@ topics:
 - ward
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There being two members required for Kooringa and one for each of Baldina & King, an election will be needed in Baldina Ward.

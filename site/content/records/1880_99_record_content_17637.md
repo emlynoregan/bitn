@@ -30,6 +30,7 @@ topics:
 - horticulture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chrysanthemum Show, managed by the Institute committee was held on 29 April.  The display was highly creditable and in fact 24 blooms brought from Adelaide by one of the judges as samples of good blooms of the newest and best sorts were quite outdone by many of the locally grown flowers.  The best flowers undoubtedly came from Mr J.D. Cave.

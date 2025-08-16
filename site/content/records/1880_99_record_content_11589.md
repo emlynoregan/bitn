@@ -18,6 +18,7 @@ topics:
 - serial
 - supplement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Date	Novel	Short Story	Poetry	Agriculture	Boys	Humour	Science	Household	Misc.	Nature or	Essays	Traveller	Sketcher

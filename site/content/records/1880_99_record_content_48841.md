@@ -24,6 +24,7 @@ topics:
 - cricket
 - match results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Burra Junior Club went to Manoora recently where:

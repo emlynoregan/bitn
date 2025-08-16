@@ -19,6 +19,7 @@ topics:
 - circus
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 6 elephants, Arabian & Bactrian Camels, a hippopotamus, sea lions, Asiatic, African and American lions. Bare-back riding. Seats 5/- and 3/

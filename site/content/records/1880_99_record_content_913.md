@@ -19,6 +19,7 @@ topics:
 - religion
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Jarrett has been appointed the first Primitive Methodist minister at Morgan.

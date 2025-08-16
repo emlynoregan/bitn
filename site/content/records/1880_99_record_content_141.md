@@ -21,6 +21,7 @@ topics:
 - community
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday-school Anniversary last Sunday and Rev. W. Richards preached in the morning with Rev. J. Bickford in the evening.

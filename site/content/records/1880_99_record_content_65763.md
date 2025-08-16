@@ -22,6 +22,7 @@ topics:
 - thanks
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C. Hawkins writes thanking all who supported his collecting for the Adult Deaf & Dumb Mission, especially Mr Vivian at the Commercial Hotel for five days free board and lodging.

@@ -20,6 +20,7 @@ topics:
 - land
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.R. Gray applied to purchase part of an unused street in Redruth - report next meeting.

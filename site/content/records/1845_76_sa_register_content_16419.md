@@ -38,6 +38,7 @@ topics:
 - bridge
 - identification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  On Friday a coroner’s inquest was held at the Aberdeen Hotel before Dr Mayne JP to enquire into the death of James Waite, sheep farmer.  Captain Killicoat was the foreman of the jury.

@@ -20,6 +20,7 @@ topics:
 - sports
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be a Monster Picnic and Grand Athletic Sports on account of the IOR Rose of Sharon Tent at Princess Royal on 26 November.

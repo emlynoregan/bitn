@@ -17,6 +17,7 @@ topics:
 - advertisement
 - medicine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There is a wonderful advertisement for the Viagra of the 1890s:

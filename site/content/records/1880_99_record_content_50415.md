@@ -31,6 +31,7 @@ topics:
 - history
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The Burra Institute.  There is a history of its development.

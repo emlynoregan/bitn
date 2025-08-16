@@ -29,6 +29,7 @@ topics:
 - mining
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 30 November 1864, page 3

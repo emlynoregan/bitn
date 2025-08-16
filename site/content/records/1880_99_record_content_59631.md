@@ -31,6 +31,7 @@ topics:
 - employment
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Elsewhere the paper reports he had c. £500.]  He was not ill on Monday.

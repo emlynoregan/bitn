@@ -21,6 +21,7 @@ topics:
 - moving
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The household effects of George Mayger will be auctioned tomorrow as he has removed to Broken Hill.

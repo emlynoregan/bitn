@@ -29,6 +29,7 @@ topics:
 - accident
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  The inquest was held at the Riverton Court House on 17 May on the body of Hermann Lummer who had been thrown from his trap on the 16 May.

@@ -22,6 +22,7 @@ topics:
 - fine
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Hall[s] and Charles Grow were fined 10/- each for plying for hire off the cabstand and C. Grow a further 10/- for smoking while driving his cab.

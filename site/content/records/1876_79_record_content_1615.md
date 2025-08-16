@@ -21,6 +21,7 @@ topics:
 - accident
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J. Roach jnr. almost drowned while swimming his horse at the back of his father's mill - rescued by Mr Minchin who was nearby in a boat.

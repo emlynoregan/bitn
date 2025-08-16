@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. J.C. Bray, Premier of SA, reshuffled his ministry on Monday.

@@ -21,6 +21,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. Burgess, President of the Wesleyan Conference preaches two special sermons at Kooringa next Sunday to conclude his term in Burra.

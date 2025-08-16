@@ -20,6 +20,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Primitive Methodist Church Anniversary, December 12 & 14.  On the Wednesday Rev. J.G. Wright will lecture on ‘An Hour with Queen Victoria’.

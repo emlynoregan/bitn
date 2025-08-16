@@ -19,6 +19,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School The headmaster, James Cater, intends opening an advanced class for those scholars of the above school who can join such a class with advantage to themselves. Work will commence Saturday 2 April from 10-12.

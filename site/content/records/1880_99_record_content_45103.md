@@ -29,6 +29,7 @@ topics:
 - hunting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbit Hunt.  There is a more detailed report of the rabbit hunt from a house lent by Mr A. Mann, known as Klaebe’s.  The group set off at 9 a.m. in a line keeping a chain apart.  At 11 o’clock they paused for a billy and lunch by which time they had 192 scalps.  Then they went on to the creek and over to Mr Irlam’s where they halted for lunch, this time with 91 scalps.  An hour later they set off again towards home with firing so quick it was like a skirmish.  They got back about 5 o’clock after 16 miles hard walking and Mr T. McWaters supplied a capital spread and Mesdames McWaters, Duldig, Phillips and others waited on the hunters.

@@ -21,6 +21,7 @@ topics:
 - drill
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mounted Rifles under Lieut. J.A. Watt had a useful drill on Wednesday and a foot drill in the evening.  The sham fight was held on the hill near the smelting works.

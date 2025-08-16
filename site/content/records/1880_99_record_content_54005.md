@@ -23,6 +23,7 @@ topics:
 - match
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday a team comprising 8 men from the Aberdeen team and 12 from the Burra team went by express to Tarlee and thence by road to Kapunda.  After some practice the match started at 1.30 p.m.  Burra 4.10 defeated Kapunda 2.3.  They left for home at 3.45 and arrived back at 8.15.

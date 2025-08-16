@@ -31,6 +31,7 @@ topics:
 - horses
 - vehicles
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W. Rounsevell has just received a considerable addition to his numerous stock of new vehicles, numbering now about 100 and consisting of Victorias, Alberts, Dog-Carts, Spring Carts, Gigs, Denetts, Skeletons, Phaetons, Cabs, Carriages, Omnibuses and every other description of vehicle in use in the colony, which he is determined to let at prices that will defy competition.

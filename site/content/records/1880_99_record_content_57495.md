@@ -21,6 +21,7 @@ topics:
 - football
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A team from Norwood Alberts’ Football Club came to Burra on Saturday evening and were entertained at McClusky’s Hotel.  Rain on Sunday made for a slippery surface on Monday, but the weather was fine.

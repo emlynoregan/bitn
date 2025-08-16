@@ -19,6 +19,7 @@ topics:
 - politics
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A long prose contribution for a whole column on the Irish question from R.W. Mathews and a shorter, ¼ column of dreadful poetry from P. Murphy on the same theme.

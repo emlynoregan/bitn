@@ -24,6 +24,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M-C Benham, in charge of Kooringa Police Station is to be replaced by M-C Jamison, presently at Clare.  M-C Jamison has suppressed Clare’s notorious larrikinism in the eight years he has been there.  [In a brief report of his activities the name is spelled ‘Jamison’ four times and ‘Jemison’ once: subsequently it usually appears as ‘Jemison’.]

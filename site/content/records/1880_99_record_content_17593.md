@@ -21,6 +21,7 @@ topics:
 - community
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The War Scare and another call for a Burra Company of the Rifle Volunteer Force.

@@ -19,6 +19,7 @@ topics:
 - real estate
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eudunda West town allotments were sold at auction on 31 May and raised £ 1,445/ 10/-.

@@ -20,6 +20,7 @@ topics:
 - restoration
 - timber
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse.  Four massive pieces of Canadian timber that will be used to support the new floors in the building were unloaded at the site last Friday.  They are each 48 feet in length.  [Photo.]

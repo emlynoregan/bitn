@@ -21,6 +21,7 @@ topics:
 - fundraising
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Information and forms for the establishment and running of an Institute have been obtained.  The Kooringa Institute is to be approached for a donation or other support.

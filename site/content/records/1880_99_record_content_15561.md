@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The trial on Saturday showed the pressure of water in Commercial St to be 65 lb per square inch.

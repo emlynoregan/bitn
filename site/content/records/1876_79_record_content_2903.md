@@ -20,6 +20,7 @@ topics:
 - weather
 - postponement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Christy Minstrels were due to perform at Waterloo on Saturday, but heavy rain caused a postponement.

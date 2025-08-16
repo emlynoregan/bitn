@@ -23,6 +23,7 @@ topics:
 - event
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Johnston commented on Mr Challoner’s remark at the dinner honouring Mr Kingston:

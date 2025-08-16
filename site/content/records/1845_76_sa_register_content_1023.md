@@ -24,6 +24,7 @@ topics:
 - forgery
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 4 November 1846, page 2

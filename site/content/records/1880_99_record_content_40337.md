@@ -19,6 +19,7 @@ topics:
 - birth
 - stillborn
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth. On 24 Jan. at Richmond Creek, to the wife of Thomas Ellery, a stillborn child.

@@ -18,6 +18,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Road Accident. For the fourth or fifth time Mrs Chivell was thrown out of her milk cart when it capsized.  As on the other occasions, she was not seriously hurt.

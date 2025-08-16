@@ -18,6 +18,7 @@ topics:
 - exhibition
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Jubilee Exhibition is described in a 1 column-length article.

@@ -24,6 +24,7 @@ topics:
 - swimming
 - Royal Life Saving Society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Swimming Prizes for the 1986 Swimming Marathon were awarded at the Civic Centre on 18 June.  Also Mr Ray Martin of the Royal Life Saving Society presented Rikki Loffler with his Distinction Award for passing the advanced examination for practical knowledge in the art of natation and ability to render aid in resuscitating an apparently drowned person.  Jan Jacka presented Ray Martin with a cheque for $1,687 – half the proceeds of the marathon.

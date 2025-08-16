@@ -19,6 +19,7 @@ topics:
 - production
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Newcastle smelter produced 1,094 tons compared with 1,196 tons.

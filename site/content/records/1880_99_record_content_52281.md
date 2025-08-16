@@ -20,6 +20,7 @@ topics:
 - fundraising
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Bazaar last Friday in the Institute.  High wind and raised dust did not aid attendance in the morning, but it was reasonable and in the evening the hall was crowded to excess.  Tableaux Vivant were presented and the day raised c. £57.

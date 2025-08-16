@@ -19,6 +19,7 @@ topics:
 - police
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Justice: letter complaining about the arbitrary and rough justice being handed out by some police and justices in the Northern Areas.

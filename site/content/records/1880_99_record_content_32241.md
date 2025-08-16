@@ -18,6 +18,7 @@ topics:
 - council
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The necessary rating powers for the Waterworks have been conferred on the Council in the last Gazette.

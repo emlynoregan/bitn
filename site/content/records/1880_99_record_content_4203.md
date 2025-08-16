@@ -19,6 +19,7 @@ topics:
 - employment
 - dismissal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A new complaint against the sexton has resulted in his dismissal.  [See tender notice.]

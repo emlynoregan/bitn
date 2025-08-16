@@ -27,6 +27,7 @@ topics:
 - police station
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Buildings.  A Wesleyan Chapel is in the course of construction at Redruth.  At New Aberdeen Stewart’s Hotel is making rapid progress under the contractor Mr Sara, who is also building a steam flour mill for Mr J. Roach nearly opposite Mr Opie’s Hotel on a site bought from SAMA.  Near the Telegraph Station a new Roman Catholic Church, to be named St Joseph’s, is nearing completion.  A police station is being erected in Kooringa.

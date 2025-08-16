@@ -20,6 +20,7 @@ topics:
 - fraud
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 March, who had been tried in February for fraud and had the case dismissed, sued his accuser, Chivell, for damages for false imprisonment.  The evidence was similar to that of the earlier case and the bench found for the plaintiff and awarded £25 damages.

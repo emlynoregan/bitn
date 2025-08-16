@@ -23,6 +23,7 @@ topics:
 - transport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Yesterday Kooringa was graced with the appearance of Rounseville’s [sic: for Rounsevell’s] splendid turn-out of four greys in a handsome carriage.  In the carriage were seated Edward Stephens Esq., John Brown Esq. and some ladies, driven by Mr Rounseville.  People rushed to their doors to get a look at this gay equipage.

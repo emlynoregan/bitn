@@ -21,6 +21,7 @@ topics:
 - business
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Stock Exchange has moved from the Royal Exchange Buildings to McHenry St.

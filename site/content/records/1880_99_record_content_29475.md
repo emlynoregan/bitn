@@ -22,6 +22,7 @@ topics:
 - shearing
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearing has started with the despatch of the first of the season’s shearers to Mr T. Warnes’ Koomooloo on Wednesday when 16 travelled by Mt T. Hall’s coach and four.

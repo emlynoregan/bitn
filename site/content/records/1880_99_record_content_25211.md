@@ -20,6 +20,7 @@ topics:
 - show
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemums look like being very good for the show next Wednesday.  J.D. Cave has a magnificent display of over 150 varieties.  He will also show 90 varieties at the Adelaide Show two days later.

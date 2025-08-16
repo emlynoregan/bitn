@@ -21,6 +21,7 @@ topics:
 - show
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  Meeting on Friday last in the Institute.  It starts the year with a debt of just under £1, but with considerable assets.  The next show to be the Thursday after the Adelaide Show.

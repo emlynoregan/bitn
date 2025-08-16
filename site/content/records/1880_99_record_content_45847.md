@@ -21,6 +21,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Barracker’ writes after the Clare football game, urging Burra to wear their uniforms and take steps to see a measure of uniformity is achieved.

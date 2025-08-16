@@ -21,6 +21,7 @@ topics:
 - road
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board is widening the main Kooringa-Aberdeen road by 5’, which is much needed.  10-12’ extra would be a good idea as it is very busy.  A footpath is also to be constructed which is also most necessary.

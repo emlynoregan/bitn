@@ -21,6 +21,7 @@ topics:
 - animal
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Wicklein was asleep in his workshop in Market Square last Sunday morning when he was awakened by sounds at the back of his shop that sounded like burglars.  He got hold of a pistol and loaded it and went around to the back where he encountered another person on top of the fence.  After a short confab they proceeded and eventually encountered Mr J. Drew’s horse old Creamy, which had lost his mental facilities and was rushing about the yard crashing into things.  Old Creamy was shot and Mr Wicklein and friend returned to bed.

@@ -20,6 +20,7 @@ topics:
 - volunteer force
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Government has declined the offer of those who sent in the requisition for the formation of a rifle corps.

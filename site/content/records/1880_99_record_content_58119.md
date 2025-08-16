@@ -21,6 +21,7 @@ topics:
 - social_event
 - funds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR held a social gathering at the Institute on the occasion of the visit of District Officers on Monday evening.  The three branches all took part and Dr Brummitt presided.  The members of the order in the town almost total 400 with funds nearing £2,600.

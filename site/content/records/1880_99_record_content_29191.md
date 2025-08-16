@@ -21,6 +21,7 @@ topics:
 - sport
 - rifle matches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Matches.  Private Cooksley has presented a single barrel breech-loading shotgun to be won with the top three in this round to go through to the final.  They were Privates Cooksley and Rabbich and Lieut. Butterworth.

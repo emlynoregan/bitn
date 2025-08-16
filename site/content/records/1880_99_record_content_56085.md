@@ -21,6 +21,7 @@ topics:
 - military
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military Sports Today.  Burra Band leaves Market Square at 12 o’clock with the first event at 1 p.m. Shops will close at noon instead of 1 p.m. and school children will have a half-holiday with admission for 2d.  There will be a social in the Burra Hotel at 8 p.m.

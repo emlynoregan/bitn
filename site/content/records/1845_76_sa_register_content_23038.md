@@ -25,6 +25,7 @@ topics:
 - commerce
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Saddleworth is prospering with the coming of the railway.  On 15 December a branch of the National Bank was opened and Mr Oldham transfers from Kooringa to manage it.  Siekmann & Moule are erecting a spacious corn store near the railway station.  Gurr & Cornish are building a substantial structure with domestic accommodation on the upper floor and their store on the lower.  Their store is intended to be used in the wheat trade.  Mr Kevill is the third wheat buyer in the town.  It is hoped the railway will soon be open for goods traffic with the passengers to follow not long after.

@@ -21,6 +21,7 @@ topics:
 - letter
 - personal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 If ‘Inhabitant’ turned out to be a medical man residing not a hundred miles away from Mt Pleasant, West would thank him to be f rank and open enough to sign the name his  fat her or mother bestowed on him.

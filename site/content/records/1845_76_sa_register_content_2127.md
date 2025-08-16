@@ -18,6 +18,7 @@ topics:
 - licensing
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Others along the route of the road to Adelaide are listed.]

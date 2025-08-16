@@ -20,6 +20,7 @@ topics:
 - business
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pig and Whistle Hotel; Samuel Davis Prop.; enlarged with assembly room, stockyards, stables and secure paddock.

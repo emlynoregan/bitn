@@ -23,6 +23,7 @@ topics:
 - railway
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railway accident. W. Partridge, stoker on the Sat. train to Burra fell while trying to affix the headlamp soon after Gawler and had his left foot severed just above the ankle. Sent to Gawler for care. At Hamley Bridge it was discovered that a second class passenger had jumped off just after Wasleys and had been seriously injured.

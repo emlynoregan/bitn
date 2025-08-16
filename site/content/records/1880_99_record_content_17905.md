@@ -20,6 +20,7 @@ topics:
 - roads
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Presumably a reference to Cr West, who lived in the old mine site.]  Other roads in West Ward are a disgrace.

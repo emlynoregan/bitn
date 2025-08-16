@@ -21,6 +21,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. S. Anncar [or Anpear? The print is unclear.] preached on Sunday 18 November to two large congregations in the Bible Christian Chapel.  He visited in connection with the Rechabite Rose of Sharon Tent for the purpose of advocating Temperance.  He gave lucid accounts of his travels in Africa as a missionary and on Monday & Tuesday evenings spoke eloquently on Total Abstinence.

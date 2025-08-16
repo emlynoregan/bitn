@@ -18,6 +18,7 @@ topics:
 - mining
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The writer then goes on to complain that copper is not being smelted in England and cannot understand why not.]

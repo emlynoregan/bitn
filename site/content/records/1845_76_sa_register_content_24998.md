@@ -23,6 +23,7 @@ topics:
 - school
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Wesleyan Sunday School Anniversary on Sunday saw Rev. J. Daniel of Morphett Vale preach the services in the German Church.  The children’s treat and the public meeting followed on Monday.  About 60 pupils took part in the singing.  Proceeds were £13.

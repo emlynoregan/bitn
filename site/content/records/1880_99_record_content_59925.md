@@ -21,6 +21,7 @@ topics:
 - meeting
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Burra Gold Mining Syndicate.  Shareholders’ Meeting at Royal Exchange Hotel, Aberdeen, 14 May at 7.30 p.m.  W.T. Rabbich, Secretary.

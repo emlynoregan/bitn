@@ -19,6 +19,7 @@ topics:
 - elections
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Registered electors for the District of the Burra and Clare:

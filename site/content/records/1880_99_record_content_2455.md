@@ -23,6 +23,7 @@ topics:
 - property
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson jun. will sell by auction the following Mitchell Flat properties on the instruction of the executors of the wills of the late Mr & Mrs Boundy.

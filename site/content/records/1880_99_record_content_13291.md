@@ -20,6 +20,7 @@ topics:
 - business
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A. Wade, having made additions will remove in about six weeks to his old premises opposite the National Bank.

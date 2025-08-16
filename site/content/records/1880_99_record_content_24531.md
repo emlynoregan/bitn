@@ -19,6 +19,7 @@ topics:
 - theft
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  A young child, Esther Laity, was arrested yesterday for stealing parasols on the day before.

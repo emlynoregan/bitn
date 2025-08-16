@@ -26,6 +26,7 @@ topics:
 - fire
 - arson
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An inquest was held at the residence of Mr Richard Hallett, Wandillah, near Kooringa, before Mr MacDermott SM into the fire in Cobb & Co.’s paddock on 10 November.

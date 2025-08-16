@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Redruth Bridge is at last under construction.  Men are presently busy digging the foundations.

@@ -20,6 +20,7 @@ topics:
 - livestock
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Aberdeen Level Crossing will be sorely tested again today with the creek up and 20,000 sheep on offer at the sales.

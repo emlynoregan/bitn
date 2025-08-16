@@ -22,6 +22,7 @@ topics:
 - law
 - SAMA
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism has occurred at a well owned by SAMA and known variously as Gilbert’s, Ford’s or Ellery’s.  Boards have been torn from the shed and thrown down etc.  The four lads responsible were fined 2/6 each.

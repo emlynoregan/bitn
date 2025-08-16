@@ -21,6 +21,7 @@ topics:
 - roads
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. Meeting of 15 June 1878. The Daymen are to repair a bad place on Moonlight Hill and then return to Copperhouse.

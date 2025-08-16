@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editor appears to have taken the report to heart and the report is brief and matter-of-fact.]

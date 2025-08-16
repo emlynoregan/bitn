@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Friday a young daughter of Thomas Turner, c. 4 years old, [Ethel May was b. 12 June 1888] fell out of a swinging boat and broke her thigh.

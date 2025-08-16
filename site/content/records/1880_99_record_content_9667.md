@@ -23,6 +23,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Last evening [29 March] Mr & Mrs [Richard] Rogers of Gum Creek were thrown out of their trap while returning from Baldry.  Mr Rogers [aged 70] is dead, but Mrs Rogers is not dangerously hurt.

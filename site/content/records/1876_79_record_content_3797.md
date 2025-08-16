@@ -20,6 +20,7 @@ topics:
 - health
 - ophthalmia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. More teachers to be provided because of increased student numbers. At present no less than 150 scholars are absent suffering from ophthalmia.

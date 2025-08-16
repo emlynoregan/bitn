@@ -18,6 +18,7 @@ topics:
 - society
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Juvenile Missionary Society met on 30 April at the Wesleyan Schoolroom.  The collection raised £2-3-6.

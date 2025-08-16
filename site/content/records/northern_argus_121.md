@@ -19,6 +19,7 @@ topics:
 - counselling
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Caring & Sharing Group begins again on 24 September when a counsellor from Marriage Guidance will speak.

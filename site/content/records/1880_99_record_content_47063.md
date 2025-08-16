@@ -25,6 +25,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the five schools there are 34 teachers and 233 scholars.  During the quarter Sunday school anniversaries were held at Redruth, Westbury, & Davieston and a church anniversary at Booborowie.  Rev. J.C. Hill was invited to the circuit for next year.

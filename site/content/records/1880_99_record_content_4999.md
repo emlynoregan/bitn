@@ -20,6 +20,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Social Club.  Messrs Drew & Co. have given the club a set of lawn tennis equipment and a set of quoits for recreation and an air pistol and bagatelle board for Thursday evenings indoors.

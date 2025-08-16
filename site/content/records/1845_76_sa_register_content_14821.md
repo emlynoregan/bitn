@@ -23,6 +23,7 @@ topics:
 - meeting
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Last evening a meeting was held to consider the advisability of petitioning the Governor to dissolve the present Parliament on account of their recent decision regarding Mr Justice Boothby.  Unfortunately the weather was so inclement during the afternoon and evening that very few attended.  The meeting resolved to adjourn till next Tuesday and asked Chairman Mr H. Corey to advise their three representatives and Messrs Forster and Barrow, if they should be disposed to attend.

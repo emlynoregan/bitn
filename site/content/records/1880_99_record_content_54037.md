@@ -19,6 +19,7 @@ topics:
 - sport
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cycling news takes almost 1¼ columns and though most is not local; there is a preview and tips for the 20 mile race to Mt Bryan to be run today.

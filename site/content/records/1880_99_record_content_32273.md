@@ -18,6 +18,7 @@ topics:
 - production
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tributers working above water level have raised 114 tons on ore in the last 6 months.  64 tons averaged 24¼% and c. 50 tons averaged 26%.  In the last half year outgoings were £441-10-7 and income £1,233-4-7 which increased the credit balance to £15,437-0-7.

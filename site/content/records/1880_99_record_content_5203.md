@@ -19,6 +19,7 @@ topics:
 - legal
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Richards and W.L.H. Bruse were each fined 5/- for stray cattle.

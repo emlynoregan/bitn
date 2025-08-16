@@ -22,6 +22,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Nardoona Minstrels played at the Institute on Monday, Tuesday and Thursday and gave a musical treat to those who attended.  Had there been proper publicity no doubt audiences would have been larger.

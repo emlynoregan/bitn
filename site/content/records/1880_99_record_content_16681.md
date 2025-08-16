@@ -20,6 +20,7 @@ topics:
 - community
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Fire Brigade.  The cost of establishing a fire brigade is beyond the resources of the Council at present and it is hoped that private subscription and a committee might supply the want.  The Mayor is to take the matter up.

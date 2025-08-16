@@ -17,6 +17,7 @@ topics:
 - migration
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  The population outflow seems to have been reversed.

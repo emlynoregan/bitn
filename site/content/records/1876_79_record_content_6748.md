@@ -18,6 +18,7 @@ topics:
 - local government
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 `Ratepayer' calls for reports of Council meetings to be published `as elsewhere'.

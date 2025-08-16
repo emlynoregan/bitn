@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Frederick Leighton, one of the oldest inhabitants of Mintaro, has died.  He was a resident for over 40 years and was buried on 22 November.  [Registration gives date of death as 20 November and age as 69.]

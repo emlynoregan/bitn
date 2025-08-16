@@ -20,6 +20,7 @@ topics:
 - education
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice has erected a footbridge over Burra Creek for over £30 and wished the Council to assume responsibility for it.  Cr Rabbich so moved, but was not 2nd.

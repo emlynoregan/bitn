@@ -32,6 +32,7 @@ topics:
 - industry
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Report, by Mr Trewartha of certain lands on the new road to the Burra Mine and on the Wakefield near Emu Plains and in the Murray Scrub east of the Burra Mines.

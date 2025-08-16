@@ -21,6 +21,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Footballers practised on the oval on Wednesday for the return bout with Clare on 1 September.

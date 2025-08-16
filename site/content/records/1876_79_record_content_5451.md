@@ -21,6 +21,7 @@ topics:
 - building
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bank of Australasia. Sara & Dunstan are now building the new Bank of Australasia which will fill an unsightly vacancy in Commercial Street.

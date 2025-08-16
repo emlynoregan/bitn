@@ -20,6 +20,7 @@ topics:
 - homing club
 - pigeon racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The first race of the 1896 season was flown from Saddleworth on 29 April and was won by J. Edwards’ birds at 1,274 yds/min.

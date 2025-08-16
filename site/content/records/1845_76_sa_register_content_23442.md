@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Northern Extension Railway.  Tradesmen and others have determined that if the Governor comes to open the railway he will be welcomed as heartily as possible.

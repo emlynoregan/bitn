@@ -21,6 +21,7 @@ topics:
 - court
 - justice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘The complainant was now a respectable young man, and whatever he may have been formerly no person was justified in taunting him with it to his injury and annoyance.

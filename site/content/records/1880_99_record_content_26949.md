@@ -28,6 +28,7 @@ topics:
 - polo
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  The opening match of the Burra Polo Club was played on 26 Nov. near the Bon Accord Hotel.  [One team is referred to as Burra, but the other is not named.]

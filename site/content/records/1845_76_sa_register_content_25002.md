@@ -20,6 +20,7 @@ topics:
 - gold
 - diggings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Northern Argus reports the field almost deserted.  The Government party remains, but has produced about 10/- worth of gold since June.  The storekeeper and publican wander about, surviving on fossicking.  Mr Mutton and family also survive on thin pickings.

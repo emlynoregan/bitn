@@ -22,6 +22,7 @@ topics:
 - anniversary
 - CWA
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 CWA Warnes Group held its 40th anniversary lunch at the Burra Civic Centre on 26 September.  Burra Branch President Mrs Irene Hirschausen welcomed the visitors.  [Details and some history of CWA activities extend for more than a column.]

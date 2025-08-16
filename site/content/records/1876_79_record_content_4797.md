@@ -23,6 +23,7 @@ topics:
 - legislation
 - public institutions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the coming legislative session. A Bill for a railway from Hallett to Section 216, H. of Yongala has been passed and the question now is the extension of the line north to Pichi Richi and southwest to Jamestown. This Bill narrowly got through a second reading this week. The Real Property Act Amendment Bill is making progress. The Adelaide Sewers Bill has reached committee stage and seems likely to pass. The new Parliament House site is still undecided and so holds up the decision on the new Museum and Public Library.

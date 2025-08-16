@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth. To the wife of J.H. Cockrum of Banbury, at Mt Bryan on 30 Dec. 1878, a son.

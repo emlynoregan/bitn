@@ -25,6 +25,7 @@ topics:
 - grant
 - architecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 St Mary’s, Burra is undergoing repairs with the aid of a $25,000 heritage grant.

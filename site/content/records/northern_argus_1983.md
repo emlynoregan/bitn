@@ -18,6 +18,7 @@ topics:
 - committee
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A sub-committee will draft a brief for the operation of the Heritage Advisory Committee.

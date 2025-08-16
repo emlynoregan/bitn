@@ -21,6 +21,7 @@ topics:
 - farewell
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An illuminated address is being prepared for W.T. Rabbich, who is soon leaving Burra for the West.

@@ -22,6 +22,7 @@ topics:
 - government
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Harris moved that the Government be asked to grant the Council the piece of land in question.  Carried.

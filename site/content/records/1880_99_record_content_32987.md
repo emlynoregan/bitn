@@ -22,6 +22,7 @@ topics:
 - irrigation
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A. Catt, Commissioner of Waterworks, calls for applications until noon on 9 July for leases for irrigation land two mile east of the township of Douglas.  Leases of 21 years with right of renewal.  1/- per acre per annum and water at 17/- per acre per annum (subject to availability) for entitlement of 543,000 gallons per acre per annum.  The works on Baldina Creek and distribution system to be built when 80 acres have been allotted.

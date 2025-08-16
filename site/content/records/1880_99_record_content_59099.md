@@ -28,6 +28,7 @@ topics:
 - celebration
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Eve was fine and business did good trade and the usual trumpets sounded the glad tidings to the delight of youngsters.  The Burra Band made the proceedings lively by playing selections in front of various places and the Salvation Army had a great set-to in Market Square.  Public Houses did well, but no unpleasantness arose through the effects of drink.  The police were on active duty, but had an easy night.

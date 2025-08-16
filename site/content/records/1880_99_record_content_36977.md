@@ -24,6 +24,7 @@ topics:
 - influenza
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  R. Handyside, formerly of the Bank of Australasia [presumably in Burra] died in Adelaide on Friday as a result of influenza.  [John Robert Handyside died 13 June 1890 aged 17: born 23 February 1873.]

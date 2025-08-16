@@ -23,6 +23,7 @@ topics:
 - horse taming
 - public event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Melville gave a demonstration of horse taming in the Burra Hotel Yards on Saturday evening.  He was assisted by local colt breaker John Hocking.  Mr Wheatley’s Brass Band attended, along with a large crowd of spectators.

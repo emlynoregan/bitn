@@ -33,6 +33,7 @@ topics:
 - heart disease
 - prison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The editor reports the receipt of letters from James Willshire, George Dodgson of Leigh St, A.W. Potter, W. Becker watchmaker of Hindley St, C. Tubb painter and glazier of North Adelaide, all testifying to the deceased’s sobriety and Mrs Tiptaft also assures us of his sobriety of habit and is very distressed by the verdict.  Her husband had for some time suffered from heart disease.  We have also seen a letter from John Fisher to Ven. Archdeacon Marryat, which says in part ‘… I had many opportunities of seeing him while he was guard at the Yatala Labour Prison, and have never seen him at all the worse for liquor, and have never heard of his being addicted to habits of intemperance; indeed, I always considered him a respectable well-conducted man, rather above the position he held at the Prison.’

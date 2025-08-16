@@ -20,6 +20,7 @@ topics:
 - tennis
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  Burra defeated Clare at Clare on 16 April, 82 games to 35.

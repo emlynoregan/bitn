@@ -25,6 +25,7 @@ topics:
 - government
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There have been two changes to the ministry.  Rayner replaces Linkson as Chief Secretary, the latter having decided he didn’t like the policy.  Watt has resigned as Commissioner of Crown Lands having been won over by the Opposition.  The second reading of the Education Act Amendment Act was carried - opposed only by Stephenson & Fuss. [Probably C.A. Fuss]  It now goes into committee.

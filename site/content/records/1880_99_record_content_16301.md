@@ -23,6 +23,7 @@ topics:
 - employment
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Coglin moved the dayman for East and West Wards be paid 6d more per day to come into line with the one in North Ward.  The other Councillors thought he should be paid what he tendered for and the motion lapsed.

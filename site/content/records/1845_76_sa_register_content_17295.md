@@ -20,6 +20,7 @@ topics:
 - community
 - social issues
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Drinking in the Bush

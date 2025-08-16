@@ -19,6 +19,7 @@ topics:
 - gold
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 These sales will throw a considerable amount of land onto the market, more or less valuable for its mineral deposits.

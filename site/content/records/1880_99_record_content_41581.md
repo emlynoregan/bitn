@@ -22,6 +22,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.J. Mayers, who is in charge of the Dr Barnardo’s Boys, preached at Redruth last Sunday morning and at the Bible Christian Church in the afternoon, when large numbers of school children from the various Sunday schools were present.

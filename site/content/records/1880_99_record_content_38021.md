@@ -18,6 +18,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The season opens tomorrow with a Club versus Muffs game on the oval.

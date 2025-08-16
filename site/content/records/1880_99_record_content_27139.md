@@ -18,6 +18,7 @@ topics:
 - events
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Flower Queen will be performed at the Institute on Boxing Day, 26 December.

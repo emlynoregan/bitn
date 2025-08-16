@@ -20,6 +20,7 @@ topics:
 - legal
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daniel Sullivan was sentenced to two months for stealing the Children’s Hospital cash box from the bar of the Royal Exchange Hotel.

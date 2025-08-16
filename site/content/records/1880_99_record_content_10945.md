@@ -20,6 +20,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The 1st match of the season between Burra & Clare was played at the ground near Drew’s store on Saturday.

@@ -22,6 +22,7 @@ topics:
 - charity
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The last general meeting for the Burra Committee for the Industrial School for the Blind will be at the Wesleyan Lecture Hall on 4 August at 3 p.m.  All donations produce and needlework must be delivered on that date.

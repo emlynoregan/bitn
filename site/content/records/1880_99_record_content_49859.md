@@ -22,6 +22,7 @@ topics:
 - trespass
 - costs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mary Woods then did not proceed with a case for £5 for trespass against Capt. McLeod & F. Harris and Mr Pendlebury was awarded costs.

@@ -21,6 +21,7 @@ topics:
 - rates
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich moved ‘That at the end of each year water-rate payers be allowed as against water used at the rate chargeable, the full amount of the year’s rates as paid by them to the secretary of the Waterworks.’

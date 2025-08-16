@@ -21,6 +21,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Captain Gillieland of the Salvation Army is farewelled this evening and his place taken by Captain Foyle.

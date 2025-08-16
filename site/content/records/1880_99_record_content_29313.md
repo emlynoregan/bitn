@@ -22,6 +22,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church annual special effort Sunday and Monday next, 12 & 13 August.  Miss Green, the City Missionary from Adelaide, will preach in the evening.

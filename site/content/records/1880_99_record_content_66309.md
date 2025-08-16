@@ -21,6 +21,7 @@ topics:
 - traffic
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 David Miles fined 5/- + costs for driving too fast around the corner from Mt Pleasant into Market Square.

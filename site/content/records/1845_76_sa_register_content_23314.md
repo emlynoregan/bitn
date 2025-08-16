@@ -24,6 +24,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Hart visited Burra and met electors at the Burra Hotel on 20 April to thank them for electing him.  W.R. Ridgway took the chair.  HE hoped to see money for education better distributed to aid the poor and hoped also to see an improvement in employment at the Burra Mine.

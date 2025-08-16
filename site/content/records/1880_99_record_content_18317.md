@@ -21,6 +21,7 @@ topics:
 - footpath
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the East Ward ratepayers’ meeting.  The editor now believes the ratepayers have spoken so strongly that the Council must rescind its motion to go on with a footway on the eastern side of the main road and spend the money elsewhere in East Ward.

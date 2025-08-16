@@ -23,6 +23,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute on 10 February.  Sale of Superior Household Effects and Furniture, as Mr Jacka is leaving the town to take up Grayson’s Coffee Palace on North Terrace, Adelaide.

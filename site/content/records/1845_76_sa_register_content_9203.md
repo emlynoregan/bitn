@@ -21,6 +21,7 @@ topics:
 - farewell
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Paxton’s Farewell breakfast at the Napoleon Bonaparte Hotel is reported at length.

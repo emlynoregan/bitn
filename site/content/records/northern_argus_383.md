@@ -22,6 +22,7 @@ topics:
 - employment
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 David & Jenny Heath and daughter will soon move to Katherine, NT, where David will be manager of a branch.

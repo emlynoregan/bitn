@@ -19,6 +19,7 @@ topics:
 - labour
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The general situation described was of an economy where most labour was in under supply and those categories where there were sufficient workers were still in full employment.]

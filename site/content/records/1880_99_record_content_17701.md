@@ -42,6 +42,7 @@ topics:
 - fencing
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway offered to take charge of a reserve in Redruth and spend £5 p.a. on it for seven years.  Accepted.

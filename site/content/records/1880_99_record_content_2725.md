@@ -20,6 +20,7 @@ topics:
 - exhibition
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1 Apr 81	Serpent Ch XXVIII-XXIX	A Mesmeric Experiment	Victorian International Exhibition: Chinese	X			X		X	X

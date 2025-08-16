@@ -22,6 +22,7 @@ topics:
 - death
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Stephen King died 30 December 1891 at Mt Bryan Flat of influenza and inflammation of the lungs, aged 38.  He was the 2nd son of the late John King of Gawler and the husband of Sarah Ann King.  He also leaves a family of six children.

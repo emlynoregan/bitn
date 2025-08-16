@@ -21,6 +21,7 @@ topics:
 - music
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Chat about the Evening Star Burra Institute 5 July by Mr F. Chapple, with music.

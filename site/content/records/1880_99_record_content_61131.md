@@ -19,6 +19,7 @@ topics:
 - environment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Creek.  The cutting of several channels has conveyed the stagnant water away and the result has been very satisfactory.  Dead dogs, cats and poultry have been removed to more suitable locations, but a good flood would be most welcome.

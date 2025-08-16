@@ -20,6 +20,7 @@ topics:
 - health
 - dentist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Henry Gordon, dentist, sees patients the last week in every month at Mr Snell’s, or in their own residence.

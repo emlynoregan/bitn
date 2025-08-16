@@ -21,6 +21,7 @@ topics:
 - tin-kettling
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor from 'Qui Vive' also protesting about tin-kettling and about the inaction of police who stood by while some larrikin lads stood at Ford's corner and tied a rope across the new bridge to stop certain persons from crossing.

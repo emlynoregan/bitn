@@ -21,6 +21,7 @@ topics:
 - agriculture
 - quarantine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pleuropneumonia has been found last week in some cattle east of Burra.  Two lots of c. 150 have been quarantined by Inspector Needham.  Inoculation has been halted because Mr Needham was injured by a nasty kick from a bullock.

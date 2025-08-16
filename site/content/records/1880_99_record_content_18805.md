@@ -21,6 +21,7 @@ topics:
 - rail
 - costs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Transport costs.  Last Friday Bath & Pearce received two loads of sugar from Pt Adelaide by road, at the same cost as it would have been by rail.

@@ -19,6 +19,7 @@ topics:
 - club
 - ministry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Parliamentary Club, 31 July.

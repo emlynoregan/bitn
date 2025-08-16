@@ -20,6 +20,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Bible Christian Sunday School Anniversary was held on 21 & 25 December.  Rev. W.F. James preached.

@@ -19,6 +19,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church, Anniversary will be 1 & 2 November.

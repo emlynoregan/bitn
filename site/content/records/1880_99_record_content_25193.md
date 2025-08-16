@@ -19,6 +19,7 @@ topics:
 - charity
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two writers refer to the call to aid the victims of the major colliery disaster at Bulli in NSW.  They suggest that there is equally great need for charity at home and it is a form of hypocrisy to give only when your generosity will be publicly noted as in the Bulli case.

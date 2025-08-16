@@ -20,6 +20,7 @@ topics:
 - community
 - holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Exhibition.  So many Burra people, including all the VF Company, will be in Adelaide for the opening of the Jubilee Exhibition that both today and tomorrow are being observed in Burra as business holidays.

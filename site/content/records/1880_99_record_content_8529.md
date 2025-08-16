@@ -21,6 +21,7 @@ topics:
 - property
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale: Allotment 62 Township of Redruth comprising 1 rood.  160’ frontage to St Dye St.  4-roomed stone house and large cellar, known as Nolan’s Wine Stores.

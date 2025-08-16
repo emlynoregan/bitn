@@ -23,6 +23,7 @@ topics:
 - concert
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  There will be an Attractive Concert in the German Schoolroom, Redruth, Friday 22 December, in connection with Miss Yeoman’s School.  6d.

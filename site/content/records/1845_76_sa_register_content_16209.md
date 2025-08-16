@@ -21,6 +21,7 @@ topics:
 - mine
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Newcastle mania has entirely subsided.  All are going on in the old track.  Two of the emigrants have returned and give very unflattering reports of the affairs at Newcastle.  Had those who acted precipitately waited prudently for more information they would have saved themselves much trouble and loss.

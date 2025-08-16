@@ -24,6 +24,7 @@ topics:
 - partnership
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The partnership of William Roads [sic] Ridgway & Morris Rayner, storekeepers of Aberdeen is dissolved from 16 July 1879. [Rayner to continue the shop in Aberdeen and Ridgway the one in Mt Bryan.]

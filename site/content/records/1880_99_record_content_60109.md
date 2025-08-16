@@ -29,6 +29,7 @@ topics:
 - accident
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  James Alfred Langton aged 7 was drowned last Wednesday in the waterhole in the Burra Creek just south of the footbridge by the Bible Christian Church.  He was going home from school with his friend James Hoare and was crossing a footbridge near Benjamin Newman’s house when he tried to get a branch out of the water and fell in.  Hoare raised the alarm and F. Hornhardt stripped and retrieved the body, but it had been in the water for 20 minutes and life was extinct.  Only two months ago the family buried a young infant.  [J.A. Langton was born 2 June 1889 and died 10 June 1896.  The infant referred to was Edward Leonard Langton born 18 November 1895: died 11 March 1896.]

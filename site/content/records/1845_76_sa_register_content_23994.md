@@ -27,6 +27,7 @@ topics:
 - court
 - arrest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Court Case.  There is a report of the arrest by Lance-Corporal Smith of a man called Barry.  The accused was pursued some 35 miles to the east from Burra towards the Murray and arrested at Government Well Station.  Barry and his mate were said to have sold three or four horses in Kooringa, stating that they had brought them from the Darling, when they had actually been stolen.  Mr Challoner JP committed the accused for trial.

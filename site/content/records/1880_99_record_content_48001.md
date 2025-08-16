@@ -29,6 +29,7 @@ topics:
 - fundraising
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last Friday the Mayor, W.T. Rabbich, convened a meeting to consider the best means of raising money for the Broken Hill Relief Fund.  Letters were read of sympathy.

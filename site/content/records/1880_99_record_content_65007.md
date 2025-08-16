@@ -21,6 +21,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary last Sunday with Rev. W.H. Rofe in the morning and Hon. F.W. Holder in the afternoon and Rev. S. Wellington in the evening.  Public tea Friday at 1 p.m.

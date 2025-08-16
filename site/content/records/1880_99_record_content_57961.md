@@ -19,6 +19,7 @@ topics:
 - legal
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Reuben Hoare seeks the return of the chairs taken from his property at Firewood Creek, or legal proceedings will be taken.  The parties are known.

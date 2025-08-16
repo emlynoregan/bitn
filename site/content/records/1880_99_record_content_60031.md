@@ -21,6 +21,7 @@ topics:
 - entertainment
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute 19 June.  Grand Night with the Children.  A Grand Musical Entertainment.

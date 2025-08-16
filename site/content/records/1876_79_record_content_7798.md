@@ -18,6 +18,7 @@ topics:
 - bushrangers
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bushrangers. There is a 1 column report on the career of Captain Moonlight.

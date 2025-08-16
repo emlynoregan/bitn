@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George March writes complaining of the poor condition of the Redruth cabstand.  [Aberdeen?]

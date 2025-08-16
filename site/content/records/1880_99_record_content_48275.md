@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Charles Parks will open a tea and coffee restaurant and small goods and confectionary shop in the shop lately occupied by J.A. Watt – on Friday next.

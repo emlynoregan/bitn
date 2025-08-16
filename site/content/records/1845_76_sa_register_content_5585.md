@@ -20,6 +20,7 @@ topics:
 - travel
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 25 December 1850.  Christmas Day was very hot.  The Lady Young was high and dry two miles from the shore, which meant we had to wait 15 or 16 days for another barge, or go home via the Burra.  A cart runs once a week from that place and the fare is £1 for 75 miles.

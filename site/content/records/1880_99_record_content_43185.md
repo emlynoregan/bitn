@@ -21,6 +21,7 @@ topics:
 - swimming
 - public_safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Swimming.  Complaints have been made that lads are bathing in the Burra Creek opposite the post office and near the Mine Bridge.  The Inspector is to see it stops.

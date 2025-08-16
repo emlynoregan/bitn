@@ -21,6 +21,7 @@ topics:
 - appointment
 - magistrate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Jefferson Stow is the new Special Magistrate for the northern districts.  He comes from Mt Gambier to replace the late A.J. Edmunds.

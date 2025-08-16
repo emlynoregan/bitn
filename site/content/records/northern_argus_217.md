@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Helen & Garry Earle on 25 September, a daughter, Amanda Kate.

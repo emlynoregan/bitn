@@ -21,6 +21,7 @@ topics:
 - transport
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Halls & Bromley, Aberdeen & Kooringa.  Livery & Bait Stables, Horses & Traps bought, sold & exchanged.  Buggies to let.  Lowest contract prices for picnics.

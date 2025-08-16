@@ -18,6 +18,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist concert and dinner resulted in £26-6-0 which will go towards the Sunday-school room.

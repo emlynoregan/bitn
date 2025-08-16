@@ -19,6 +19,7 @@ topics:
 - waterworks
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Beetaloo Waterworks, which are to cost in all c. £600,000.

@@ -18,6 +18,7 @@ topics:
 - politics
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Henry Ayers has been reappointed President of the Legislative Council.

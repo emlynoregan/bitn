@@ -19,6 +19,7 @@ topics:
 - entertainment
 - holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Thursday 24 May; the Queen's Birthday holiday passed with no amusements in town except `the Anglican Church pinic' [sic]

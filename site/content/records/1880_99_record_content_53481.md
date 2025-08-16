@@ -21,6 +21,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Baynes, farmer of Leighton, died in the Burra Hospital on Wednesday 11 April and had a large funeral the following day.  [Aged 50.]

@@ -17,6 +17,7 @@ topics:
 - weather
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Weather.  On the weekend Saturday began fine, but ended with pouring rain and was very cold.  On Sunday the golf championship was called off due to intense cold.

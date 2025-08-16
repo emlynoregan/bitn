@@ -27,6 +27,7 @@ topics:
 - mail
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kapunda’s loss.  The opening of the Burra railway has reduced the Kapunda line from the main one to a branch.  It reduced Kapunda’s direct communication with the north and has reduced the town to two mails a day to Adelaide.  The local paper protests against the discontinuation of the noon train and wants a direct postal link with Tarlee to maintain proper communications with the north.  A road eastwards to the Murray is another strongly desirable feature to keep the town growing.

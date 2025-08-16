@@ -20,6 +20,7 @@ topics:
 - address
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Baeyertz has returned to address congregation members in the Wesleyan church this evening.

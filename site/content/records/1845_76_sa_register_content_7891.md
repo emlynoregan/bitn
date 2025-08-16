@@ -19,6 +19,7 @@ topics:
 - community
 - indigenous
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Aborigines held a large conclave on Tuesday last to deliberate on the measures necessary to be taken in consequence of the desertion of the country by the white men!

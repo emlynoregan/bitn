@@ -20,6 +20,7 @@ topics:
 - construction
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Bridge excavation work has started.  The total cost is £1,542 which is £42 above the estimate voted.

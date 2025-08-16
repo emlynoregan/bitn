@@ -19,6 +19,7 @@ topics:
 - service
 - Anzac
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Anzac Dawn Service was held in the RSL Hall due to inclement weather.  Quite a good crowd attended.

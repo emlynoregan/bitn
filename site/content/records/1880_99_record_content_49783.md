@@ -20,6 +20,7 @@ topics:
 - court
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For the second time in a week Edwin Boulton (21) was charged with fighting in a public place.  Fined £2.

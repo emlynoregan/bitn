@@ -20,6 +20,7 @@ topics:
 - funding
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A total of $15,957 went to Burra National Trust to help with its heritage work.

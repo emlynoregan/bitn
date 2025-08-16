@@ -20,6 +20,7 @@ topics:
 - copper
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Copper Price.  Telegrams from London of 1 August quote copper at £108 per ton.  Mr E. Cooke of E. & A. Copper Co. had a telegram citing £106 on 31 July.

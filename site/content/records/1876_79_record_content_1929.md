@@ -19,6 +19,7 @@ topics:
 - menagerie
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cooper, Bailey & Co.'s Circus & Menagerie

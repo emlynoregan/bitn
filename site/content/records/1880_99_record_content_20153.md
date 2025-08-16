@@ -33,6 +33,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The public works this year have been work on about 200 chains of roads and 300 chains of footpaths.  The relationship with the Midland Road Board has previously been rather strained, but we have this year managed to put them on a better footing.  As a result the Board has ceded to Council control of the Main Roads except for the actual metalled centre, which has allowed us to effect many improvements.  Examples: -

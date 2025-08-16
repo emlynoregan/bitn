@@ -21,6 +21,7 @@ topics:
 - passenger service
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 With a sidelight on the problems of the Daviestown Station: passengers getting off there must go to the brake-van the station before and clamber down from there. [The context implies a lack of a platform.] Passengers joining there reverse the performance. They also have to pay the fare to the next station (or if getting on there, the fare from the previous station).

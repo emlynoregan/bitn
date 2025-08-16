@@ -19,6 +19,7 @@ topics:
 - picnic
 - fishing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Monday, the Prince of Wales’ birthday, was kept as a holiday.  Many people picnicked at Princess Royal where a favourite pastime was cray-fishing.  [Yabbying.]

@@ -26,6 +26,7 @@ topics:
 - building
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Farrell’s Flat.  The harvest is coming in.  Messrs Box & Hudson of Kooringa have just completed a handsome and roomy store 66 ft x 33 ft in limestone with Kapunda stone dressings.  This will provide a much needed market for wheat and a source of supply for general goods.  Mr Bleechmore of Mintaro is just completing a neat public house in limestone with Auburn bluestone dressings.  Stormy weather has retarded reaping, but the yield should still be about 20 bushels per acre.

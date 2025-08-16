@@ -19,6 +19,7 @@ topics:
 - society
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc.  There was a small attendance on Friday due to bad weather.

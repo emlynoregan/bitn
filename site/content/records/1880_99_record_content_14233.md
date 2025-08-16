@@ -21,6 +21,7 @@ topics:
 - railway
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  The NSW Government has refused to construct a railway to Silverton.

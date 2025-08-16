@@ -25,6 +25,7 @@ topics:
 - auction
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will sell Household Furniture and Effects for Mrs W.E. Pearse on 24 December at the house, nearly opposite Dr Sangster’s.  Mr Pearse is in Kalgoorlie and Mrs Pearse is going there at once, so all must be sold.

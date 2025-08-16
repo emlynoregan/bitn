@@ -21,6 +21,7 @@ topics:
 - cycling
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports that the cricket Club lecture was a financial failure.  He says the Friendly Societies are preparing for a sports day to include bicycle contests as a special feature as well as the Sheffield Handicap.  He comments that bicycling continues to grow in favour with ladies around the world, Mr Grundy notwithstanding.

@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Bible Christian Sunday-School Picnic 26 Dec: at Mr Fradd's paddock at Sod Hut. Sports, refreshments and the town band.

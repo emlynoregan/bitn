@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Petersburg Railway.  Some ballasting is due on the line north of Burra.  We hope local unemployed will get the work, not men from Adelaide.

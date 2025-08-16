@@ -26,6 +26,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage. On 12 April at St Joseph’s by Rev. Fr Haendl.

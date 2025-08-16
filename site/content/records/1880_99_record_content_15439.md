@@ -19,6 +19,7 @@ topics:
 - municipal
 - assessment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.Z. Jones writes saying that the assessment for this year is £104 higher than last year not £140 as published.

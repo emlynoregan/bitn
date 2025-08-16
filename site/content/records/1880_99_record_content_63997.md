@@ -20,6 +20,7 @@ topics:
 - local government
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Dunstan Jnr is reported to be an alderman at Broken Hill.  The same report suggests that the goings-on at the Burra Council, however entertaining, are as nothing compared with those of the Broken Hill Council.

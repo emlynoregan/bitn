@@ -21,6 +21,7 @@ topics:
 - church
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R. H. Lee was given a farewell social at Hallett before he left for the Pt Elliott Circuit.

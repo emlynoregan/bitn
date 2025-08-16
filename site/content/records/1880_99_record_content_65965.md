@@ -22,6 +22,7 @@ topics:
 - meeting
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Members of St Mary’s Church to attend a meeting at the schoolroom tomorrow (Thursday) to arrange a farewell social for Rev. A.G. & Mrs King.

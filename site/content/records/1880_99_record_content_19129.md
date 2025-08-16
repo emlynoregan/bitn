@@ -18,6 +18,7 @@ topics:
 - politics
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Payment of Members Bill has failed to pass the Legislative Council.

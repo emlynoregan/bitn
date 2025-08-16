@@ -25,6 +25,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.M. Hunter & T. Kitchen were farewelled by a large gathering at the Wesleyan Church on Tuesday 11 April.  Tea in the schoolroom was followed by a meeting in the church.  Dr Brummitt presided.  Mr Hunter was thanked especially for his care of the country places like World’s End and for his work with the Sunday school.

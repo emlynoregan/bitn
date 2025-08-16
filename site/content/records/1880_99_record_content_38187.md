@@ -21,6 +21,7 @@ topics:
 - government
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  G.W. Goyder, Surveyor-General, says he had asked for Government rabbit eradication parties for the lands in the Hundred of Terowie, but the Commissioner replied that ‘he had no confidence in destruction parties sent out by the Government’, so nothing has been done.

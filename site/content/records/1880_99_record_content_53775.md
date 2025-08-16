@@ -21,6 +21,7 @@ topics:
 - sport
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The first match for the season between Burra Juniors and Aberdeen Juniors was held last Wednesday and Aberdeen 5 defeated Burra 1.  [This disagrees with the previous week’s report.]

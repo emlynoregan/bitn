@@ -19,6 +19,7 @@ topics:
 - culture
 - cliques
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cornish dialect letter replying to W. Ridgway & several others pointing out how silly his argument on cliques was.

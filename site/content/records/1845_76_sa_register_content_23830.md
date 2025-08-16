@@ -18,6 +18,7 @@ topics:
 - agriculture
 - crop yields
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Farming.  The district is likely to average about 20 bushels per acre despite recent adverse weather.

@@ -20,6 +20,7 @@ topics:
 - hospital
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Day in the afternoon the Wesleyan Choir sang for the Burra Hospital patients and Rev. R.M. Hunter read ‘The Wallaby Track’ and ‘Bob Cratchit’s Christmas Dinner’.

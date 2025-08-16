@@ -21,6 +21,7 @@ topics:
 - debate
 - compensation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Temperance’ writes agreeing with ‘Erratic Correspondent’s’ attack on temperance extremists and asks for a balanced debate and compensation for legitimate losses if a licence is cancelled.

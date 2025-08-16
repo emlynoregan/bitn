@@ -26,6 +26,7 @@ topics:
 - election
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Whittick was re-elected President with Messrs Rabbich and [C.] Fuss as Vice-Presidents.  Life membership was voted to Messrs F.W. Holder, Rev. R.M. Hunter, Rev. R.J. Daddow and Rev. Father W. O’Dowling SJ.

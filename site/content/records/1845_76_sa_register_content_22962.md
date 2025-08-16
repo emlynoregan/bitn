@@ -22,6 +22,7 @@ topics:
 - sale
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Section 2206 between Springbank & Nankervis of 80 acres about 1 mile from Burra railway.

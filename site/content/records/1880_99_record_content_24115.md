@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Raymond Lasscock, aged 1, son of William & Sarah Lasscock, died at Kooringa on 15 December.

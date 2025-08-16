@@ -22,6 +22,7 @@ topics:
 - magazine
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Rubbish’ who says he has received a handbill advising that from1 March a magazine called the Burra Tandem will appear.  The manager/editor is an ‘aristocratic young gentleman, an ex-solicitor, shepherd etc.’

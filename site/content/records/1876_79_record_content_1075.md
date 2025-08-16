@@ -19,6 +19,7 @@ topics:
 - construction
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth had the foundations laid for an Anglican Church, but after 20 years it had got no further.

@@ -23,6 +23,7 @@ topics:
 - death
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Helena Kellaway, wife of Stan Kellaway, died during the last week.

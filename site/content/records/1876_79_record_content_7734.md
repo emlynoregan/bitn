@@ -21,6 +21,7 @@ topics:
 - census
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School Census. W.J.L. Dix has surveyed the district for children of school age.

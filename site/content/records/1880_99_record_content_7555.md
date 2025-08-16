@@ -19,6 +19,7 @@ topics:
 - football
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Seven Hills were only able to bring 18 men and Burra could only muster 19.

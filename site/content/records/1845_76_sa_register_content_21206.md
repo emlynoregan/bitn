@@ -20,6 +20,7 @@ topics:
 - politics
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We are anxiously expecting the Bill for the railway extension beyond Forresters to be brought forward.

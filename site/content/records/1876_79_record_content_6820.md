@@ -20,6 +20,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. A saloon carriage is now attached to the goods train from Hallett to meet the first up train from Burra.

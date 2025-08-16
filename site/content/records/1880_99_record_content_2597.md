@@ -17,6 +17,7 @@ topics:
 - literature
 - supplement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Comprising poetry, short stories and items on the Inns of old England, science, household advice and agriculture.

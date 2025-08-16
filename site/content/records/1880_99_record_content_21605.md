@@ -20,6 +20,7 @@ topics:
 - silver
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  The work on the silver claims at World’s End-Robertstown goes on to prove their worth.  There is promise, but it is not definite yet.

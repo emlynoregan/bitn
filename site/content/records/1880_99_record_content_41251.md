@@ -22,6 +22,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The performance passed off without a hitch.  The whole cast was good and well sustained throughout.  The performance raised about £21 for the Institute.  Mr T. Edwards afterwards entertained the cast in the lodge room.

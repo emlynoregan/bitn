@@ -19,6 +19,7 @@ topics:
 - capitation grants
 - Catholics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Capitation Grants are explained.  The Government proposes to give a sum per capita to enable Catholics to educate their children in their own schools.

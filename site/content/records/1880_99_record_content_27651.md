@@ -19,6 +19,7 @@ topics:
 - animal
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Woodruffe was fined 5/- for each of two charges of allowing his pigs to stray.

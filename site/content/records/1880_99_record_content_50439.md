@@ -26,6 +26,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  There was an accident at Finch’s crossing about 1½ miles from Burra on Saturday morning.  Mr Przibilla was driving to Burra from Hanson and managed to cross the line, but behind him Mr J.G. Mann had just got his horse onto the line when it was struck by the goods train from Adelaide.  The horse was killed and the cart slewed around violently, throwing Mr Mann under the culvert with the train passing over him.  He was badly shaken and bruised.  He was taken to the Burra Station by the train and thence to the hospital by cab.  He is progressing favourably.

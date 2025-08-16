@@ -20,6 +20,7 @@ topics:
 - sale
 - household_effects
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. On the 20 December John D. Cave will sell the household effects of John Foy who is leaving the neighbourhood.

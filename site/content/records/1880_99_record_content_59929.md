@@ -18,6 +18,7 @@ topics:
 - drought
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The country to the east is in a wretched state with not even a blade of grass to be seen for miles around and the bush has practically been eaten to the ground.

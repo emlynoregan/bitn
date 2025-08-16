@@ -19,6 +19,7 @@ topics:
 - council
 - poll
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the Waterworks poll the Council will have to continue to control the scheme: the vote was in favour 74 and against 34.

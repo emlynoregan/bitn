@@ -23,6 +23,7 @@ topics:
 - mission
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Home Mission services at Kooringa and Mt Bryan on 18 October.  Revs. S.C. Mugford of Riverton & R.C. Yeoman of Kooringa preached.

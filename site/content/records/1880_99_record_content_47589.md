@@ -22,6 +22,7 @@ topics:
 - slander
 - public notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Notice: Ex-Councillor John Sampson will please understand that drunkenness will be no further excuse against my prosecuting him for any continued vile slander towards myself.  W.H. Hardy, Burra.

@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  A motion to survey a route from Morgan was lost in the House of Assembly.

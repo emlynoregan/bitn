@@ -20,6 +20,7 @@ topics:
 - event
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Clare Early Closing Assoc. 227 defeated the Burra Mixed team 38, at Clare on Good Friday.

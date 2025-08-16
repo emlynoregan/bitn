@@ -20,6 +20,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Fire Brick Co. enquired at what price they could be supplied with water.  Waterworks Committee to report on it.

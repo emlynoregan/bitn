@@ -20,6 +20,7 @@ topics:
 - cooperative
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wood-carters Co-operative Union got going last Saturday when about 30 members were listed as willing to work together.  Mr W. H. Hardy was elected President with W.H. Linkson as Hon. Sec.  They intend to co-operate to end cutthroat practices and settle on a uniform price for wood.

@@ -20,6 +20,7 @@ topics:
 - sports
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Whyte-Yarcowie Athletic Sports meeting advertisement is amended to 2 Jan. 1888.

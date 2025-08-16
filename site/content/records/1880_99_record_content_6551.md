@@ -19,6 +19,7 @@ topics:
 - finance
 - contracts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders accepted:  J. Richardson for the whole £2,500 bonds at £93 in the £100.

@@ -18,6 +18,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 16 Dec 81	Bella’s Hero Ch III-IV	Gentleman George by Mrs M.L. Rayne	X	X	X	X	X	X	X	X

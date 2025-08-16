@@ -22,6 +22,7 @@ topics:
 - fines
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cox and Clode were fined 10/- each for furious riding in Kooringa streets. Collins was fined 5/- for unlawfully riding on a dray.

@@ -20,6 +20,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Clairvoyance: In Aid of the Burra Institute.  Mr W.T. Carter will give one of his popular entertainments with dissolving views (see posters) on Monday 14 December.  1/-

@@ -17,6 +17,7 @@ topics:
 - announcement
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Record will not be published on Wednesday next.  [But it was.]

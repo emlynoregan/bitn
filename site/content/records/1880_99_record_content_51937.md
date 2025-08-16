@@ -21,6 +21,7 @@ topics:
 - legality
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 7 March.  The Mayor called a special meeting to pass the pay sheet and sign cheques.  Cr Parks queried the legality of the meeting, but was assured all was in order.

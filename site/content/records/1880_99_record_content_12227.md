@@ -21,6 +21,7 @@ topics:
 - justice
 - colonial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Veritas’ writes a letter extending 1 column decrying the recent article on the Ilbert Bill and defending the native Indian population against the suggestions that justice would not be possible under a judge or jury that might be Hindu, Mohammedan etc.

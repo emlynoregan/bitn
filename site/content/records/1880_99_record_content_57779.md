@@ -25,6 +25,7 @@ topics:
 - obituary
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Charles Greenwood died at Burra Hospital a few days ago.  He was born 20 May 1849 at Duckhill, Wandsworth, Parish of Halifax in Yorkshire.  Before falling ill the deceased had worked for Mr H.S. Dunn.  [Died 6 July aged 46.]

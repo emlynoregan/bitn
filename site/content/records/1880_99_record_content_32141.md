@@ -20,6 +20,7 @@ topics:
 - ceremony
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  World’s End Wesleyan Church.  The Memorial Stone is to be laid by Mrs T. Drew at 4 p.m. on Wednesday 10 April with tea to follow.

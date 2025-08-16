@@ -21,6 +21,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Helen Spence delivered her interesting lecture at the Institute to a good audience considering the weather.

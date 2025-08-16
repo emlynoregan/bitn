@@ -24,6 +24,7 @@ topics:
 - company
 - brewing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Brewing Founded.  A company has been formed with a capital of £400,000 in £2 shares to take over the brewing business of Sir E.T. Smith and the Hon. W.K. Simms and the wine & spirit business of Messrs Rounsevell & Simms, to be called the SA Brewing, Malting, and Wine and Spirit Co.  Managing directors will be W.B. Rounsevell MP, R.A. Stock and A. Simms.

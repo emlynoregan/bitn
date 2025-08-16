@@ -18,6 +18,7 @@ topics:
 - temperance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Temperance Society Meeting addressed by Dr. Brummitt, a new arrival, and a total abstainer

@@ -27,6 +27,7 @@ topics:
 - mining
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  An inquest was held at the Miners’ Arms on Saturday before W. Lang, Resident Magistrate, on the body of Richard Jones.

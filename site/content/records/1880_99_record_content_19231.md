@@ -19,6 +19,7 @@ topics:
 - race
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Personal interest: there were no Chinese names among the fruit and vegetable winners this year and no Fuss name in the flower section.]

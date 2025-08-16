@@ -22,6 +22,7 @@ topics:
 - community
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The exodus from Burra has resumed, with Messrs Larwood, Francis & Co. using their respective teams to take families to Wallaroo.

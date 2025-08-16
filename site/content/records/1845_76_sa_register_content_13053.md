@@ -20,6 +20,7 @@ topics:
 - meeting
 - assets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Broughton River Mining Co. held its first Annual Meeting at the Aberdeen Hotel last Tuesday.  The marketable assets of the company were estimated at their lowest value and were then almost sufficient to meet liabilities.  The main perpendicular shaft had reached 20½ fathoms.  A drive had been commenced towards the lode and had been dug about 3 fathoms.  It was estimated the lode would be reached in five fathoms more or less.

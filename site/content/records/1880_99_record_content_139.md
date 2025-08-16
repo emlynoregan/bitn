@@ -19,6 +19,7 @@ topics:
 - railway
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Railway.  The earthworks and ballasting are well advanced.  The rails are due to arrive in April.

@@ -21,6 +21,7 @@ topics:
 - economy
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Mill at Burra would be a good investment according to our local correspondent.  A mill to grind flour and cut chaff should be kept busy because Burra currently forwards large quantities of these products to the north and north-east and beyond the Barrier Ranges.  Farmers in the area are continuing to break new ground to grow wheat and soon all land not locked up in sheep grazing will be growing grain.

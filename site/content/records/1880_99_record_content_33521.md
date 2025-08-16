@@ -19,6 +19,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. T.H. Burgess gave his third address on Thursday: The Land We Live In: Its Illustrious Future.  There was a small audience at the Institute.

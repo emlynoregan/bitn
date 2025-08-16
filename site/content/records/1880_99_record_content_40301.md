@@ -25,6 +25,7 @@ topics:
 - meeting
 - lodge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Pearce then asked on behalf of the lodges that closet and urinal accommodation be provided for lodge use.

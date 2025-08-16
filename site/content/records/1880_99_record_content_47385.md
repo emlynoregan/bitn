@@ -23,6 +23,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Alan Sandland, aged 4, son of Thomas Sandland, died on Friday afternoon when he fell from a picket fence and was suspended from it by his shirt for about twenty minutes before being found.

@@ -20,6 +20,7 @@ topics:
 - government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Parliament: 1st Session of the 11th Parliament was opened by the Governor on 5 June.  The House of Assembly now has 52 members, which it is hoped will produce greater stability.

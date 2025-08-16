@@ -17,6 +17,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  There is not much action now as many players are away and most are looking toward the cricket season.  The scratch match on Saturday was described as uninteresting.  [To the extent that no results are given.]

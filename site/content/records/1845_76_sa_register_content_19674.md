@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The men lately breaking stone for the road were discharged last week and have been kept waiting for their money.  This is a great inconvenience as they could not leave to seek work elsewhere.  Many were again set to work on Monday afternoon.

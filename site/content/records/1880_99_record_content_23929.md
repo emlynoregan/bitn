@@ -24,6 +24,7 @@ topics:
 - urban improvement
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  [This is a good example of parochialism.]  The editor condemns the through running of trains to and from Broken Hill.  Cockburn should, he says, remain the terminus and thus become the trading centre for the northeast.

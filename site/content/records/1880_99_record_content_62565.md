@@ -22,6 +22,7 @@ topics:
 - mission
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr E. Salas of the Adult Deaf and Dumb Mission is visiting the district soliciting donations for the Mission’s building program in Wright St, Adelaide.  £722 was needed, of which £500 has been raised.

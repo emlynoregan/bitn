@@ -19,6 +19,7 @@ topics:
 - police
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Hynes fined 5/- or 3 days for drunkenness. (He went to jail.)

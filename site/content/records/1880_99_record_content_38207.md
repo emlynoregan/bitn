@@ -20,6 +20,7 @@ topics:
 - protectionism
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Nelson P. Whitelock, editor of the Barrier Miner, was to give a lecture at Broken Hill on protection, but it was cancelled on account of the small attendance.

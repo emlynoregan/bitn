@@ -21,6 +21,7 @@ topics:
 - bridge
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Bridges. The Commercial St Bridge is finished and riveters are at work on the Kingston St one. It is a tedious job.

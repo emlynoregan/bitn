@@ -22,6 +22,7 @@ topics:
 - education
 - tuition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.  Mrs Charles Lowe will offer tuition to a limited number of Young Ladies as Boarders and as Day Pupils at Bridge Cottage, Commercial Street from 24 July.

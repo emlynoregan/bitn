@@ -17,6 +17,7 @@ topics:
 - resource
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A List of Timber Licences is printed.

@@ -20,6 +20,7 @@ topics:
 - tennis
 - match results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  Burra went to Clare on Tuesday 1 September.  In doubles Clare won by 1 game, but in men’s singles Burra won 33 to 10 so that overall Burra 84 defeated Clare 62.

@@ -21,6 +21,7 @@ topics:
 - labor
 - eight-hour system
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robin Morton, on behalf of Sara & Dunstan’s employees at Narridy new Post & Telegraph Office, writes in support of Hardy and the eight-hour day.

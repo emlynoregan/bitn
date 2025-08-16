@@ -19,6 +19,7 @@ topics:
 - agriculture
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agricultural report. All the country to the north was looking good and the model farm at Manna Hill had good crops in. Report from A Beaglehole.

@@ -19,6 +19,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a proposed Government Bill re water conservation.  There is quite a bit of detail on how the Government proposed to finance a water supply for various parts of the colony.

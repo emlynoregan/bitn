@@ -19,6 +19,7 @@ topics:
 - commodities
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper seems likely to remain at about £50 per ton.

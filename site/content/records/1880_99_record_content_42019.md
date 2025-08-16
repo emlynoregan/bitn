@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  W. Sampson, an old Burra resident, has died.  [The paper seems to have got this wrong: registrations of death record William Alfred Sampson born 2 August 1891, died 3 August 1891, son of Thomas Sampson.  No other William Sampson is recoded as dying about this time.]

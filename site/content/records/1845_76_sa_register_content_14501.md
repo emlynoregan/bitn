@@ -31,6 +31,7 @@ topics:
 - meeting
 - mineral leases
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Was in favour of continuing grants in aid – at least for country schools.

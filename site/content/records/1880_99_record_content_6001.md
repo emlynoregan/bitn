@@ -28,6 +28,7 @@ topics:
 - agriculture
 - ostrich farming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1882 opens with the promise of more mining activity at the Yorke’s Peninsula mines and gold finds at Echunga, Barossa, Ulooloo and Waukaringa.  There are hopeful signs of coal near Salt Creek and at Kingsborough’s in the S.E.  There are also possibilities of ostrich farming.

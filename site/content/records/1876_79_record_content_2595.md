@@ -21,6 +21,7 @@ topics:
 - ploughing match
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 (Advt.) Ploughing Match organised by Show Society in Josiah Thomas's paddock on Mt Bryan Road for 16 Aug.

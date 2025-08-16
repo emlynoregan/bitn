@@ -24,6 +24,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Kate McNamara, daughter of John McNamara of Hanson has died at the age of 26 from rheumatic fever and pleurisy.  Father Deitel conducted the funeral on Sunday.

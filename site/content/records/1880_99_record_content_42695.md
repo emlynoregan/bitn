@@ -21,6 +21,7 @@ topics:
 - epidemic
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Influenza has broken out in Burra, but not as severely as in Broken Hill where about 100 miners are absent from work.

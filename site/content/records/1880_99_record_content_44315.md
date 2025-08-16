@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Bridge tenders close today.  Reasons for the delay are not known.

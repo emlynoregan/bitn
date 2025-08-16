@@ -24,6 +24,7 @@ topics:
 - marriage
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Marriage. On 9 October at the Wesleyan Church, by the Rev. H.T. Burgess, John Whittick of Aberdeen to Martha, elder daughter of Henry Hollick of Redruth.

@@ -22,6 +22,7 @@ topics:
 - health
 - vaccination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Notice.  Dr Cave will vaccinate Free of Charge every Wednesday afternoon at 3 o’clock in Mr Batchelor’s house in Commercial Street from 23 August.

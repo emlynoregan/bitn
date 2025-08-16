@@ -21,6 +21,7 @@ topics:
 - education
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Nicholas Opie, late of Burra, has been promoted to head teacher at Dawson School.

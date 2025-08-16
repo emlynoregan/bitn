@@ -19,6 +19,7 @@ topics:
 - death
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor admits that 17 was the total for the whole town: not just the hospital.

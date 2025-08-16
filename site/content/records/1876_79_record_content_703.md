@@ -23,6 +23,7 @@ topics:
 - inquest
 - medical competence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [Note that Dr Dashwood’s competence came into question on the matter of typhoid in an inquest into the death of Sarah Ann Fogarty reported in the paper of 2 August 1878 and within a few months he had been replaced by Dr Sangster.]

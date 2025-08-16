@@ -19,6 +19,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to Mrs W.H. Pearce on 3 October, a daughter.  [Registered for 2 October as Mildred Pearce]

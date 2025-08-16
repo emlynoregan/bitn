@@ -19,6 +19,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William West and his daughter were involved in a nasty incident with a bolting horse brought about through a defective brake last Wednesday evening.  Despite a very dangerous drive the party was finally able to get things under control.

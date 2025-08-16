@@ -17,6 +17,7 @@ topics:
 - voting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There were 762 males and 671 females on the roll.

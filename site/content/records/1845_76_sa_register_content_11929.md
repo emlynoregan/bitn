@@ -18,6 +18,7 @@ topics:
 - business
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Building Society.  Four £60 shares were sold on Tuesday last at an average price of £1-15-0 each.

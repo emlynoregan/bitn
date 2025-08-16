@@ -18,6 +18,7 @@ topics:
 - council
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 First meeting with D.S. Packard as Mayor.

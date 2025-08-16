@@ -19,6 +19,7 @@ topics:
 - geology
 - enterprise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [A correspondent had evidently posed the question whether the discovery of the Burra Burra Mine had an injurious effect on other mining venture.  The paper printed a reply to the suggestion.]

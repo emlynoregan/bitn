@@ -22,6 +22,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  From Saturday 16 August Martin Pederson will be removing from his former premises to those lately occupied by W. Geake in Market Square.  On opening day the Burra Brass Band will play a few selections.

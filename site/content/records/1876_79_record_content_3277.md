@@ -23,6 +23,7 @@ topics:
 - medical practice
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Dr Cave, having commenced practice in Childers St, North Adelaide, has appointed F.R. White to receive all moneys owed to him. [This contradicts the Jamestown practice information of page 307]

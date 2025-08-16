@@ -21,6 +21,7 @@ topics:
 - employment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council met on Monday to consider applications for work from the unemployed and a cheque was drawn to pay those already helped with road work.

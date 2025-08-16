@@ -22,6 +22,7 @@ topics:
 - culture
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. began a new season on Friday with a meeting at the German Chapel.  Mr C. Fuss was elected President with W.T. Rabbich and T. Queale as Vice-Presidents.

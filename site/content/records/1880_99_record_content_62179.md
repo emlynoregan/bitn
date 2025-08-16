@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Josiah Statton died at Terowie last Friday.  [Josiah Joel Statton died 9 April aged 64.]

@@ -19,6 +19,7 @@ topics:
 - unemployment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A deputation with S. Hill as spokesman waited on the Council re unemployment in the town.

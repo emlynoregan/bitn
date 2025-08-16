@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer urges that the best line would be the shortest distance from the border to Port Adelaide.

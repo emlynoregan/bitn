@@ -23,6 +23,7 @@ topics:
 - protection
 - free trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This will result in many residents now on the minimum paying 15/- instead of 25/- and the total revenue will drop by c. £200.  We support the Council in this saving and the Council is sanguine that they can conduct the Waterworks at this level of income.

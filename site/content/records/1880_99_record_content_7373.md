@@ -20,6 +20,7 @@ topics:
 - finance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  Half-yearly meeting Tuesday. Attendance was small.  Total liabilities £219-7-6.  The Treasurer, Dr Brummitt hoped to pay off the debt if members’ subscriptions came in for c. £34-7-6 and with £50 raised by the end of the year and the £56-13-10 already raised the Government subsidy would allow the debt to be paid off.

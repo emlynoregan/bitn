@@ -21,6 +21,7 @@ topics:
 - fines
 - licences
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fines for failure to renew licences: - Charles Schutz, omnibus proprietor, £1 Frederick Fuss, water-cart operator, £1

@@ -23,6 +23,7 @@ topics:
 - obituary
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Mary Cox, formerly of Burra, died recently and has been buried here.

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton has established a day school for the education of poor children.  Subscriptions are being raised to defray the expenditure.  In this connection an entertainment was staged on Tuesday in the Burra Hotel Assembly Rooms.  [Details of the program are printed.]  £5 was raised.

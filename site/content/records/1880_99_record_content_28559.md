@@ -22,6 +22,7 @@ topics:
 - transport
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on improving trade with Broken Hill by laying a third rail to Adelaide for through trains and building a loop from Terowie to Thyer’s Corner, cutting off 12 useless miles and Petersburg and two heavy grades.

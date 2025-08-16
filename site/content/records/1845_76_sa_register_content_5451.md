@@ -17,6 +17,7 @@ topics:
 - legal
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Case adjourned to allow all parties to produce necessary evidence.

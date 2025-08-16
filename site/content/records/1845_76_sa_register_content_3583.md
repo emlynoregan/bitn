@@ -20,6 +20,7 @@ topics:
 - weather
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Some rain fell on Saturday, but the streets remain comparatively clean compared with Adelaide at present.  Last winter Mr S. Marks built a small bridge, a portion of which broke recently.  The adjoining occupant of Victoria House talks of effecting repairs.

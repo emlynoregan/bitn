@@ -20,6 +20,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Ewbank gave two readings and recitations in the past fortnight at the Burra Hotel and the Institute respectively.  Both were thinly attended.

@@ -22,6 +22,7 @@ topics:
 - schools
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Rosie Lloyd (17) competed in the Australian & NZ Secondary Schools’ Athletics Competition in Auckland and Hamilton.  She came 2nd in two 400 metre hurdle events and 3rd in the 310 metre long distance run [sic!].  She was also a member of the winning 4 x 400 metre relay.

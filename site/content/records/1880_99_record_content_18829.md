@@ -21,6 +21,7 @@ topics:
 - church
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Service of Song A Child of Jesus was performed at Baldina on Sunday by the Redruth Wesleyan Choir to a large congregation.

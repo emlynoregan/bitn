@@ -19,6 +19,7 @@ topics:
 - sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Edward Lipsett offers a genuine stock reduction sale in which he says stock must be ‘reduced by December Next in order to arrange for the Fresh Branches of Business to be introduced under the New Partnership in JANUARY NEXT, full particulars of which will be duly announced.’

@@ -24,6 +24,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Advt. for Levy the Greatest Living Instrumentalist with Signor Rosnati, Signor Giorza, Mrs R.S. Smythe and Miss Wilkins, will give two grand concerts at the Institute 9 & 10 October.

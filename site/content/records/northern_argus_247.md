@@ -22,6 +22,7 @@ topics:
 - sport
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Pony Club celebrates its 10th birthday this year and is planning a horse show on Aberdeen Oval on 10 November to celebrate.  Twenty-seven events are planned.  The club secretary is Bronwyn Steele.

@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra 2.6 & Aberdeen 2.11  This is reported as a draw.

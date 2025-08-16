@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket results from 18 September: 15 Allcomers 114 defeated the Burra Eleven, 36.

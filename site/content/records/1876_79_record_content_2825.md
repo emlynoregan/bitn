@@ -20,6 +20,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Capsize. Mrs Chivell's milk cart capsized on Sunday morning when the horse bolted near Lihou & Bromley's in The Paddock distributing milk and cream all over the road.

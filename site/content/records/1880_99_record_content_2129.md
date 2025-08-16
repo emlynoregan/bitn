@@ -21,6 +21,7 @@ topics:
 - event
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Anniversary of St Joseph’s Church, 21 November.  Rev. Charles Morrogh SJ, BA, of Sydney, will preach.

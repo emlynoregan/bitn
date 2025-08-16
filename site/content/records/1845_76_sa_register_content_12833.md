@@ -17,6 +17,7 @@ topics:
 - weather
 - dust storms
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On the following Thursday there was a severe dust storm from the west.

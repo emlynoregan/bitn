@@ -26,6 +26,7 @@ topics:
 - shipment
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Copper Mines.  [The article begins with references to copper discoveries in the far north of SA.]

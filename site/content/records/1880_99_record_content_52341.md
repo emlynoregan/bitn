@@ -21,6 +21,7 @@ topics:
 - community
 - promotion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With this issue subscribers received a pictorial supplement which gave a bird’s eye view of Kooringa and Redruth.  3,000 were distributed around Australia ‘bringing the town into greater prominence’.

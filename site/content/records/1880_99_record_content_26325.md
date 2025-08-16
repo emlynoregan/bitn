@@ -27,6 +27,7 @@ topics:
 - economy
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the opening of the railway to Silverton last Friday.  This and the connection soon to Broken Hill effectively annexes the Barrier mineral district to SA.

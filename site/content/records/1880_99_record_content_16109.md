@@ -21,6 +21,7 @@ topics:
 - federation
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader suggests that as now the world is much smaller and ‘the other side of the globe is not now far off’ Australia need to look to its own defence and other interests.  England is less prepared to look after us, and this is a powerful reason for federation.

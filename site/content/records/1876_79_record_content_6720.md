@@ -20,6 +20,7 @@ topics:
 - migration
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Employment. A number of the Burra Miners have gone to work in New Caledonia on two year contracts - some for 11/- a day.

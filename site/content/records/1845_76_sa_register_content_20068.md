@@ -19,6 +19,7 @@ topics:
 - legal
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A charge by James Pearce against John Bagg for abusive language was dismissed.

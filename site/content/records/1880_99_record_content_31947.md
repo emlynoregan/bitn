@@ -19,6 +19,7 @@ topics:
 - sport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Recreation Ground cycle and racing tracks are complete, but for rolling which will be done after heavy rain.  The trees there are growing well.

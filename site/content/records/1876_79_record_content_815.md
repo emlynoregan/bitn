@@ -18,6 +18,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Weather.  There has been widespread rain in the [western] agricultural areas from last Saturday to Tuesday.  Burra recorded 1.31 inches for the week.

@@ -21,6 +21,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The annual races at Mr Oram’s Cross Roads Hotel were also held, some three miles from Kooringa.  Some good racing occurred.  Six races are reported with results printed.

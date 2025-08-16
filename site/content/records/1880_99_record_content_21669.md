@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21669→Obituary.  Sarah Watson, mother of Mrs Simons and of Mrs C.C. Williams, died at Macclesfield on 13 March, aged 68.

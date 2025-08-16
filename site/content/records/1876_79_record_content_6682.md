@@ -19,6 +19,7 @@ topics:
 - livestock
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Liston & Shakes offer 5,100 sheep on 4 July.

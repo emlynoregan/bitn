@@ -22,6 +22,7 @@ topics:
 - agriculture
 - floriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  To the east the situation is dire.  Hardly any vegetation is to be seen.  Many paddocks are as bare as the road.  Hundreds of sheep can be seen starving.

@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School held its anniversary on 23 December and Christmas Day.  Rev. S. Gray & Rev. W.H. Hodge preached.  Congregations were large.  The children’s treat was held on Christmas Day at 3 p.m. followed by a public tea and public meeting.

@@ -26,6 +26,7 @@ topics:
 - standing orders
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson moved the Council adjourn for the purpose of calling a special committee meeting to consider the matter as provided for under clause 44 of standing orders.  2nd by Cr O’Leary.

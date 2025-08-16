@@ -21,6 +21,7 @@ topics:
 - bridge
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Work at the Bon Accord Bridge is at a standstill as it waits for the ironwork from England.

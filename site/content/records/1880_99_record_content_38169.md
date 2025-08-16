@@ -23,6 +23,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Sales.  Last Friday’s sales at the Bon Accord yards were the largest for a long time and all sheep were cleared.  [The advertisement listed 17,720 sheep and 100 cattle on offer.]

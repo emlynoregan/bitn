@@ -19,6 +19,7 @@ topics:
 - agriculture
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘BFL’ writes suggesting that local farmers follow the lead of those in parts of New Jersey who place two goats with their sheep and they chase off attacking dogs.

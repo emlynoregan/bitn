@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church held its Anniversary last Sunday & Monday.  Preachers were Rev. T.M. Flood and Rev. J.Y. Simpson.  The latter also delivered the address at the largely attended tea meeting on Monday, where he gave an amusing and instructive lecture on Crotchety Grumblers.

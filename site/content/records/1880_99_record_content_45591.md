@@ -19,6 +19,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Departing officers were given a farewell social on 31 May and on Wednesday 1 June they gave their last open-air addresses.

@@ -17,6 +17,7 @@ topics:
 - writing
 - occupation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [He writes over ½ column of detail.  He was a butcher.]

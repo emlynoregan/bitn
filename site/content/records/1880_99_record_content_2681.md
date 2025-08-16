@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 7 Jan 81	Serpent Ch XIII	An Only Offer	By Chance	X	X		X	X	X	X	X

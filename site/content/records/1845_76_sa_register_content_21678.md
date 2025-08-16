@@ -22,6 +22,7 @@ topics:
 - crime
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [On 12 March in NSW there was an attempt to assassinate HRH the Duke of Edinburgh by James O’Farrell.]

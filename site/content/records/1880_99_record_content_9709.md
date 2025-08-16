@@ -20,6 +20,7 @@ topics:
 - burial
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr R. Rogers was buried on Saturday last.  He was an old colonist and about 50 vehicles followed the hearse.  Mrs Rogers is slowly recovering.  [But see 10 August 1883.]

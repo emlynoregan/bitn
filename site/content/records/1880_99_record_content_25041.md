@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Primitive Methodist Sunday School Picnic will go to Sod Hut on Good Friday.  Rides 1/- return: children 6d.

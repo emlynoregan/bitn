@@ -20,6 +20,7 @@ topics:
 - public holiday
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Why is it that cheap excursion fares for the 1 September public holiday are only being offered for a 50 mile radius of Adelaide?

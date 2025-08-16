@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Road at Wandillah is dangerous due to a very sharp bend caused by the railway construction.

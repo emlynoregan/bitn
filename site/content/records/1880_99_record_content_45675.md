@@ -19,6 +19,7 @@ topics:
 - races
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ commented on out-of-town cricket, races and football.

@@ -21,6 +21,7 @@ topics:
 - injury
 - burns
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Three children of W.T. Rabbich made an experimental ‘boiler’ from an old tin can.  When fired up it burst, badly scalding their lower parts.

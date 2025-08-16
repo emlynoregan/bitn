@@ -27,6 +27,7 @@ topics:
 - pioneer
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sir George Kingston died on the steamer between King George Sound and Galle [Sri Lanka]; he has been one of the earliest pioneers, Speaker of the House of Assembly, one time representative of the Burra District.  He was on his way to India seeking better health when he died.

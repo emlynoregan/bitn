@@ -21,6 +21,7 @@ topics:
 - education
 - institution
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 Mrs Henry Chambers	Kooringa Educational Institution for Young Ladies

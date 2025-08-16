@@ -26,6 +26,7 @@ topics:
 - freight
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor strongly opposed the current Govt. and said its apparently dazzling policy was actually threadbare.  The Premier had made the division of the colony into three or four electorates for the Legislative Council of less importance than reforms that would give the House of Assembly more power.  The editor thought the former change was vital.

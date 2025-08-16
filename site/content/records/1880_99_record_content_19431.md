@@ -22,6 +22,7 @@ topics:
 - assault
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trooper Haedge was being assaulted by a man named J. Holder in Market Square on Monday afternoon and was being thrashed when rescued by a man called Nelson and F-C Murphy.

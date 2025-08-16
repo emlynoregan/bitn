@@ -20,6 +20,7 @@ topics:
 - church
 - fair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Christmas Fair at the Institute will be opened by the Mayor, Dr Brummitt, at 3 p.m. today.

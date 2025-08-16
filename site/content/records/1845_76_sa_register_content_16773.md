@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Wesleyan Chapel held its Anniversary services last Sunday.  Mr H. Jolly of Mintaro preached two powerful sermons.  The tea meeting on Monday was largely attended.

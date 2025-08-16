@@ -18,6 +18,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Rose of Sharon Tent IOR has now 121 members and the female tent has 30.

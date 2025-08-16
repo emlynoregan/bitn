@@ -20,6 +20,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Parl. Club failed to get a quorum and it was suggested that it may have to go into recess for the summer.

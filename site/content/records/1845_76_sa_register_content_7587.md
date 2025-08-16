@@ -22,6 +22,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Hospital.  A preliminary meeting of those seeking a hospital at Kooringa was held on Friday evening last.  W.R. Mortlock took the chair.  No business was done except the appointing of J.P. Winchcombe as Secretary pro tem.  There will be a more general meeting at the Burra Hotel on Thursday next on the subject of the Government grant of £500 for the proposed hospital.

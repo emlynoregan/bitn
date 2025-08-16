@@ -24,6 +24,7 @@ topics:
 - lectures
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.H. Evans also gave lectures at Ironmine on 13 & 14 June and on Thursday at the Kooringa Primitive Methodist Church & at Redruth Primitive Methodist Church on Friday.  His addresses were both amusing and instructive.

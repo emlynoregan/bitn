@@ -21,6 +21,7 @@ topics:
 - weather
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain washed out the proposed Clare v. Burra tennis match at Burra on Wednesday.

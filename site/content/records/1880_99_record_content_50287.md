@@ -19,6 +19,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr R. Hogarth addressed the Burra Branch of the National Defence League on Friday last and a fair number attended.

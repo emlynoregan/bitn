@@ -21,6 +21,7 @@ topics:
 - advertisement
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 8 & 9 December.  Return of Stacey’s Hans the Boatman Company, this time with the greatest success of the day: Struck Oil.

@@ -20,6 +20,7 @@ topics:
 - mining
 - geology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Joker Mine.  There is a report by Captain J.H. Hocking, which is just slightly more promising than that of the government geologist.

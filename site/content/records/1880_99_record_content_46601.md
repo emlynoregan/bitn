@@ -19,6 +19,7 @@ topics:
 - event
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Reserved seats 1/6, others 1/- and 6d.  Mr J. Roach and professionals from Adelaide assisting.  Mr Roach will recite Poor Little Joe and A Babieth Thtorwy.

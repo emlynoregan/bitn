@@ -18,6 +18,7 @@ topics:
 - entertainment
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Houdin's Wonders had only a moderate attendance.

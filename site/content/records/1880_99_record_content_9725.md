@@ -21,6 +21,7 @@ topics:
 - club
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Amateur Dramatic Club was formed on Wednesday with Mr Gibson in the chair and Mr Liebig as Secretary & Treasurer.

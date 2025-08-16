@@ -24,6 +24,7 @@ topics:
 - execution
 - murder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Case of Mrs Knorr, the baby farmer, continues to attract attention.  Apparently she killed 13 infants in Melbourne before being arrested in Sydney.  She is to be hanged in Melbourne on 15 January.  The total number of children she killed will never be known. Oddly enough the hangman, Thomas Walker, aka Jones the Hangman, was said to be intimate with Mrs Knorr and cried when she was sentenced.  He later became hysterical and tried to get his assistant, Roberts of Sydney, to do the deed.  He has been taunted when people found out he was the hangman and his wife’s temper has also been terrible.  On Saturday he cut his throat and died.

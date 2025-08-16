@@ -20,6 +20,7 @@ topics:
 - theatre
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert in aid of the Catholic Building fund, 6 April, to conclude with the laughable farce, Turn Him Out.

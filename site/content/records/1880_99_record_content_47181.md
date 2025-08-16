@@ -23,6 +23,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Sunday School, 36th Anniversary will be held on 6 November.  Rev. R.M. Hunter and Rev. J. Hopkins will officiate.  Afternoon service of song: Left Alone.  On 9 November there will be the annual picnic at Sod Hut.

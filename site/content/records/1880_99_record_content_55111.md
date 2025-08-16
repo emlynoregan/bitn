@@ -22,6 +22,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professors Lowrie and Perkins had a fair attendance for their lectures at the Institute on Friday.  The report runs for 1 column.

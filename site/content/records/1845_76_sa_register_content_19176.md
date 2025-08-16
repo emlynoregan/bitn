@@ -19,6 +19,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Verbum Sap’ writes giving rainfall figures for Burra:

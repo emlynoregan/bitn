@@ -20,6 +20,7 @@ topics:
 - fundraising
 - famine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese Famine Relief Fund.  The total for Burra can be amended to £65-5-0, though it is to be noted that of this £31-10-0 came from J.M. McBride.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Artesian Wells. There was a long (21/2 column) article on artesian wells which were currently being discussed as needed for the development of the eastern plains, the dry year having shown the inadequacy of dams.

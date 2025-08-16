@@ -22,6 +22,7 @@ topics:
 - injury
 - transportation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  On Friday a man named Peartree was travelling on the roof of the omnibus from Kapunda to Kooringa and when it struck a hole he was jerked off.  The wheel passed over his leg inflicting a severe wound.  He is progressing under the care of Dr Dashwood.  He had only been married a few days.

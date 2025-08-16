@@ -20,6 +20,7 @@ topics:
 - vandalism
 - public property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A reward of £5-5-0 was offered for information leading to convictions for the damage done on New Year’s Eve to Corporation property.  Among other things the bridge near the Primitive Methodist Church had been overturned and left in a dangerous state.

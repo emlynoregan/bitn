@@ -19,6 +19,7 @@ topics:
 - restoration
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse work is proceeding.  [Photo of the installation of one of the huge Oregon timbers to support the second storey floor.]

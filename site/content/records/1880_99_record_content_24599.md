@@ -19,6 +19,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Assoc. held its 1st meeting for the year last Saturday in the Burra School.

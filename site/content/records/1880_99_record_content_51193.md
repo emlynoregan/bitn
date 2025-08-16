@@ -21,6 +21,7 @@ topics:
 - rifle
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA National Rifle Assoc. matches in Adelaide saw Captain J. A. Watt take a prize in the Allcomers Match which attracted 198 men.  Also a prize in the revolver contest in which there were 154 competitors and another in the short range event.  Pte Gemmell won a prize in the Nursery Handicap.

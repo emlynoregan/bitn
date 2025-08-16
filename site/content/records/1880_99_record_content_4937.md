@@ -18,6 +18,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A Muff Cricket Club has been formed in Burra this week and a large number are expected to join.

@@ -20,6 +20,7 @@ topics:
 - community_notice
 - scheduling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Burra Burra Mines.  The next Public Survey Day will be held 5 February instead of 11 January.

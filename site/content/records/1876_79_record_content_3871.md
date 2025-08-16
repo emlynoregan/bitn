@@ -21,6 +21,7 @@ topics:
 - anniversary
 - pastor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Church anniversary was celebrated on 31 March & 1 April. The new pastor, Rev. T. Richards preached morning & evening with the Rev. F. Page in the afternoon. Mr E. Lipsett chaired the public meeting. A lengthy report followed.

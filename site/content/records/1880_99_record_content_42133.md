@@ -24,6 +24,7 @@ topics:
 - dinner
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Annual Effort last Sunday week and the following Wednesday had Rev. R.J. Daddow and the blind man Mr Sterne as preachers.  For the dinner on Wednesday the tables were beautifully set and it is not often one has the opportunity of such a good spread for 1/-.  The Burra Brass Band played.

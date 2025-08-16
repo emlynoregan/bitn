@@ -22,6 +22,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fitzgerald Bros. Mammoth Circus, 7 January on the vacant block opposite Rabbich’s butcher’s shop Aberdeen.

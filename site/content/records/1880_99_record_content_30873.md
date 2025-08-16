@@ -22,6 +22,7 @@ topics:
 - education
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School ends the year today.  On Wednesday Pupil Teacher Wade received two volumes of Beeton’s Encyclopaedia and a set of mathematical instruments from the scholars and teachers as he now goes on to the Training College.

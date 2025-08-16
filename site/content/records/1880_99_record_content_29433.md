@@ -18,6 +18,7 @@ topics:
 - population
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Population of Adelaide is reported to be 43, 527.

@@ -19,6 +19,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The annual examination at Mr Bennett’s school at Redruth took place last Thursday.  Few except those nominated as examiners attended.  The pupils acquitted themselves well.

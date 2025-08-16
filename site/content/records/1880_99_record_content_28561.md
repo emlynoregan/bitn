@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The match next Wednesday, 9 May will be between 17 Burra players and 25 Allcomers, captained by W. Bath.

@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Show Society calls tenders for the erection of cattle yards at the Recreation Ground.

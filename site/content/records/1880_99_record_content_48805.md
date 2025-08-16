@@ -23,6 +23,7 @@ topics:
 - local government
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter supporting Cr Hardy’s suggestion that only three Councillors are needed to expedite town affairs.  The writer suggests they be Crs Walsh, Parks, Linkson and West – with one of them to be the Mayor.

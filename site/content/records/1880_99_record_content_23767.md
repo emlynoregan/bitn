@@ -18,6 +18,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  The names of those getting full marks in the junior and first grades are published.

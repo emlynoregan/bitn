@@ -20,6 +20,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder to preach two sermons at the re-opening of the Douglas Church next Sunday.

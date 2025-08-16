@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On Wednesday 29 March, at Mongolata, to the wife of F.W. Holder, a son.  [Frederick Stephens]

@@ -23,6 +23,7 @@ topics:
 - employment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from R. Hunt re Government red tape.  Gentlemen at Baldina advertise for men to destroy rabbits.  He applied for a job and was told to apply personally to the Sub-Inspector at Morgan - Why? - When there is an Inspector less than half the distance from here?

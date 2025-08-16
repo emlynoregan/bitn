@@ -20,6 +20,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the SAR and the convenience of the public - specifically on the lack of a suitable connection between the northern line and the Yorke Peninsula lines at Hamley Bridge.

@@ -23,6 +23,7 @@ topics:
 - election
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Meeting tonight in the Institute to hear from election candidates Richardson, Lake and Ward.

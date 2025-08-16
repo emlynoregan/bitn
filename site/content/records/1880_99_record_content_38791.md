@@ -32,6 +32,7 @@ topics:
 - bonded debt
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accidents.  On Monday Harry Vivian of the Commercial Hotel was driving Mr Simpson of Hamley Bridge to the railway station when the trap collided with that of Mr Thomas of Copperhouse.  Both men were thrown out and rather bruised and shaken.

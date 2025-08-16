@@ -22,6 +22,7 @@ topics:
 - court
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jacob Burrows, Charles Tresise, J.B. Davison & John Snell were each fined 5/- for various stray horses and cows

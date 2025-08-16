@@ -19,6 +19,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Born Mary Theresa Newcomb 27 February 1890, died Mary Teresa Newcomb 9 May 1892.]

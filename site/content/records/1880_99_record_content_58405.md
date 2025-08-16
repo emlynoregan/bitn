@@ -29,6 +29,7 @@ topics:
 - support
 - contempt of court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick Gebhardt was charged on the information of his wife with leaving her without adequate means of support.  He pleaded not guilty.

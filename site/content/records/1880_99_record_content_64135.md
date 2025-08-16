@@ -26,6 +26,7 @@ topics:
 - cycling
 - record
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A.S. Bagg accomplished his task of breaking the cycle record for a ride from Broken Hill to Adelaide last week.  He dropped the time from 66 hours to 36½ hours.  The previous record was held by Virgin.  Burra sports intend to present him with a medal which is now in the hands of Mr Wicklein to execute the necessary engraving.

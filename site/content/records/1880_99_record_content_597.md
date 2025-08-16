@@ -18,6 +18,7 @@ topics:
 - agriculture
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat.  The eastern districts have sent in 78,066 bushels of wheat which fully justifies ‘the throwing open of this land and shews how it is that Burra continues to flourish in spite of the stoppage of the mine.’

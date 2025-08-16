@@ -19,6 +19,7 @@ topics:
 - politics
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The SA Government was threatened this week by the resignation of the Hon. J.H. Howe, Commissioner of Lands.

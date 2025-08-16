@@ -19,6 +19,7 @@ topics:
 - shipping
 - transportation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  First Vessel for the Diggings.  The fine teak brig Gazelle leaves for Sydney 5 July.

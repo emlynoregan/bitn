@@ -18,6 +18,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Roman Catholic Bazaar offers the range of stalls of a country fair and has been very well got up.  It continues tomorrow.

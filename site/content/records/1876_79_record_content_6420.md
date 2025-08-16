@@ -19,6 +19,7 @@ topics:
 - migration
 - immigrants
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Migrants. The Star of India and the Durham have arrived with c.750 immigrants.

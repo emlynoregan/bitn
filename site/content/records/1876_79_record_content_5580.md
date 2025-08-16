@@ -19,6 +19,7 @@ topics:
 - bridge
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. The ironwork for the new bridge is arriving and the structure will be a fine one - it is a pity it will be a monument to the incompetency of its designer, being out of line with both the streets it connects.

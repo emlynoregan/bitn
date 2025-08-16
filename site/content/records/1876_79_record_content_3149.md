@@ -22,6 +22,7 @@ topics:
 - petition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. A deputation from Mount Bryan waited on the Commissioner of Public Works about the siting of the Mt Bryan Railway Station. It wanted the station on Sec. 75 and presented a petition of c.80 signatures. The commissioner now proposes to visit the area personally.

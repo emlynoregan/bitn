@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton Wesleyan Church celebrated its anniversary in March and attendances at services and the tea meeting were very large.

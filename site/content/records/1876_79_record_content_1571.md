@@ -18,6 +18,7 @@ topics:
 - races
 - planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Plans in hand for a race meeting on 17-18 March 1877.

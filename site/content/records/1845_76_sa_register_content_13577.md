@@ -21,6 +21,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  An old man named William Chester died suddenly on 8 July.  The death was subject to an inquest by Dr Meredith JP.  The conclusion was that he died from a combination of old age and exhaustion brought on by influenza and bronchitis.  [William Chester died 8 July 1860 at Aberdeen, residence the Bush aged 61.]

@@ -23,6 +23,7 @@ topics:
 - church opening
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Chapel was opened on 23 July 1882.  At each service the place was more than filled.  Rev. J.G. Wright and Mr T. Hutchins preached.  There was a public tea on Wednesday.  The church is built of stone and covered with iron.  When all promises are collected the debt will be but £10.  Mr Turner donated the land.  Previously services were held at Mr & Mrs Dolman’s house.

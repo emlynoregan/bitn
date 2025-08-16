@@ -18,6 +18,7 @@ topics:
 - public order
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Police Protection.  Since we pay annually £140 towards the cost of police we should expect better service than at present.  Currently the amount of drunkenness in town is appalling.  Men are often seen lying insensible on footpaths, or in gutters, or jostling pedestrians and insulting ladies.  Outrages to public decency are often perpetrated directly opposite shops in the busiest part of town and this should be intolerable.  The constable is too often called away beyond the town.

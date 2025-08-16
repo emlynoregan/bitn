@@ -24,6 +24,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  Mr Fred Gurney had driven the mail conveyance from Gawler to Kooringa and later from Kapunda to Kooringa and sometimes from Kooringa to the North-East without injury whilst travelling on dark wet nights, crossing dangerous creeks, going over steep sidlings, often with half-broken horses, on one of the colony’s worst winter tracks, but he was killed instantly on a piece of good road in broad daylight.  He was driving a coach and four from the Burra Races with a vehicle laden with passengers and when nearly opposite Mr Bath’s store the vehicle gave a slight swerve at a small gutter and he was thrown off his seat.  He fell on his head, broke his neck and with a few gasps was no more.  He leaves a widow and large family.  He must have been driving to and from Burra for the last 18 years.  Dr Dashwood JP held the inquest.

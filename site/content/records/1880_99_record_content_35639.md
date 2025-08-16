@@ -20,6 +20,7 @@ topics:
 - politics
 - candidates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  A requisition calling upon F.W. Holder to stand again for election will be presented to him at the Institute on Saturday afternoon at 4 p.m.

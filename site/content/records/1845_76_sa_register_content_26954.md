@@ -24,6 +24,7 @@ topics:
 - defence
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [A letter to the editor on 21 from John Charles seeks to clear him of any involvement in the events of the 13 December.   He says he left the bar at 10.45 p.m. and had nothing to do with the drink consumed after that.  Those in the bar were sober when he left.  He also defends the licensee Mr Thomas Edwards.

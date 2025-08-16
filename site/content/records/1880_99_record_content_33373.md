@@ -21,6 +21,7 @@ topics:
 - defence
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Henry Hancock, the new Hallett blacksmith, writing to defend his new premises against any tendency to fall down and protesting against ‘Man in the Moon’s’ attempt to damage his business.

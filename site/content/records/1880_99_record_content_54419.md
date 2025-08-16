@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bishop Kennion, [the Anglican Bishop of Adelaide] is reported to be going to leave Adelaide on 29 August, having been transferred to the See of Bath and Wells.

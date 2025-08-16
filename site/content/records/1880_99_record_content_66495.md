@@ -19,6 +19,7 @@ topics:
 - education
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Copperhouse School was examined by Inspector Gold on 22 & 23 June.

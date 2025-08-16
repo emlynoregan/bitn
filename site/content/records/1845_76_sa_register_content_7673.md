@@ -18,6 +18,7 @@ topics:
 - press
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Demise of another SA paper.  The Austral Examiner made its last appearance on Friday.  It joins the Oddfellows’ Chronicle, the South Australian, and the Daily Times in ceasing publication in the recent past.

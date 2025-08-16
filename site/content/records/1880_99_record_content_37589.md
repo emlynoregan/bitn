@@ -19,6 +19,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Professor’, Joseph Carter, the colt-breaker, has received two years hard labour for stealing T. Hall’s horse etc.

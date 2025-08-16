@@ -21,6 +21,7 @@ topics:
 - religion
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Dr Shiel, the Roman Catholic Bishop, came to Burra on Monday night and 14 young persons were confirmed on Tuesday in the Catholic Chapel.

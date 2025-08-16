@@ -22,6 +22,7 @@ topics:
 - arts
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Cousin Jack’s of Burra now boasts the largest turned wood display in SA.  Cousin Jack’s opened on 15 December 1985.  [A photo of resident artist and proprietor Gary Donaldson with a selection of his work is accompanied by a brief article.]

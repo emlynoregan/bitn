@@ -19,6 +19,7 @@ topics:
 - weather
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Weather remains very dry and in the past week there was much wind and raised dust.

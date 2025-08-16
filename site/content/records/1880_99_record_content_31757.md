@@ -28,6 +28,7 @@ topics:
 - religion
 - preacher
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The late Mr Joseph Sleep was born 4 January 1824 in Cornwall and brought up as Church of England, converting to the Wesleyan Church when 17.  He became a tract distributor and exhorter before leaving England when 22 and arriving in Australia in 1846.  He spent six months at Kapunda before coming to Burra where he became a local preacher in 1848.  He went to preach at the Victoria gold fields when the gold rushes took place along with John Boots, James Jeffery, William Moyle, Thomas Thomas and Henry Jolly, but he soon returned to Burra where with no resident minister north of Kapunda he had much to do visiting the sick, burying the dead and preaching.  He led the Tuesday Class and in 1863 was appointed leader of the Sunday Morning Class.  He preached far and wide in the north as a local preacher.

@@ -18,6 +18,7 @@ topics:
 - tax
 - stamp duties
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stamp Duties proposed by the Government are listed.

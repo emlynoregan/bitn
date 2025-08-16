@@ -23,6 +23,7 @@ topics:
 - land
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 20 February 1847, page 3

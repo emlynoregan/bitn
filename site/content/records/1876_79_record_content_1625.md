@@ -20,6 +20,7 @@ topics:
 - agriculture
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits: Mt Bryan Rabbit District paying Id each for rabbit scalps (8/4 per hundred)

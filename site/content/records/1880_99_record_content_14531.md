@@ -19,6 +19,7 @@ topics:
 - ward boundaries
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Government has agreed to a change in Ward boundaries, replacing Middle and South Wards with East and West Wards.

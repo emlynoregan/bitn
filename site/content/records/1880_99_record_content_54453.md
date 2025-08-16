@@ -21,6 +21,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra will be represented in next Saturday’s football match in Adelaide, when North meets South, by Messrs Arthur Williams and Parkin.

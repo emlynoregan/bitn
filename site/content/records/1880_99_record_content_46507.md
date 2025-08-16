@@ -23,6 +23,7 @@ topics:
 - religion
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Staff Captain Bennett & Major Hoskin, leader of the Salvation Army in SA, will visit Burra on 2 September.  There will be a torchlight procession followed by a coffee supper.  Brass band to the front, Major Mounted.

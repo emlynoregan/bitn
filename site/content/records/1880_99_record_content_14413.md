@@ -19,6 +19,7 @@ topics:
 - legal
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.H. Woollacott fined 4/- for driving 4 horses in Young St within prohibited hours.

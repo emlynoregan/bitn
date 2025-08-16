@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 25 Mar 81	Serpent Ch XXVII-XXVIII	The Prettiest Little Woman in the World	X	X		X	X		X		X

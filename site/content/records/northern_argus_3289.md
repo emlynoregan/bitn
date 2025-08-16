@@ -21,6 +21,7 @@ topics:
 - school
 - guest speaker
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  Sportsman Robert Oatey will be guest speaker at the annual speech day on Friday 18 December.

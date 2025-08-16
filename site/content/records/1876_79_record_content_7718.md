@@ -22,6 +22,7 @@ topics:
 - event
 - schoolroom
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Stony Gap Anniversary Services, 21 December at 2.00 p.m. & 6.00 p.m. by Mr E. Lipsett. 25 December Tea-meeting. Proceeds to aid the schoolroom fund.

@@ -24,6 +24,7 @@ topics:
 - SES
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra SES held its AGM on 26 June and a good crowd attended.  [Photo of Rhys Vengastern (sic: Van Gasteren?) (Rescue Officer), Andrew McInnes (Deputy Controller) and Des James (Controller).]

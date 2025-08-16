@@ -24,6 +24,7 @@ topics:
 - assault
 - perjury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The case of Kronke v. Hiles for an indecent assault was dismissed at the hearing at Redruth Local Court.  It will appear again as Mr Hiles has indicted Mrs Kronke for perjury.

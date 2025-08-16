@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Warners Merry Moments Co. gave an excellent performance and the Institute was ‘well filled – with chairs and forms’ people were sparse.

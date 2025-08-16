@@ -18,6 +18,7 @@ topics:
 - politics
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr G.H. Lake MP seems likely to have to resign his seat.  He is suffering from a curious impairment of memory apparently brought on by great worry.

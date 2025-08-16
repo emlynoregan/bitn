@@ -19,6 +19,7 @@ topics:
 - water
 - pumping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The latest report from the Mine at 6 p.m. on the 1st inst. [?] reports the water reduced by 8.5 fathoms below the 20 fathom level and the workings all secure.

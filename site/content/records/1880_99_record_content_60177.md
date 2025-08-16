@@ -21,6 +21,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Entertainment on Monday night in aid of St Joseph’s Schoolroom was held in fine weather and drew a large attendance.  £15 was raised.  The performances are reviewed and Miss Laura Carrigg comes in for particular praise.  A very successful ball followed the concert.

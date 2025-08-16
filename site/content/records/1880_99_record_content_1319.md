@@ -23,6 +23,7 @@ topics:
 - croup
 - infant mortality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  10 July at Kooringa, Herbert Richard Edwards, aged 14 months.  [Born 1 May 1879]

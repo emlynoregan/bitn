@@ -23,6 +23,7 @@ topics:
 - club
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club held its second race of the season on 8 May, from Terowie.  29 birds flew and first were Mr J. Edward’s birds with a velocity of 1,144 yds/min, followed by Mr J. Drew’s Glenora at 996 yds/min.

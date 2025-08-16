@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  Plans are being drawn up for the addition of two rooms with nurses’ quarters and lavatory in between for use in isolating infectious cases.  A padded room is also to be provided.

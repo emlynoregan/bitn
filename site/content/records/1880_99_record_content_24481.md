@@ -18,6 +18,7 @@ topics:
 - accident
 - poisoning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Mr A.B. Fordham is recovering after accidentally mistaking carbolic acid for medicine and almost dying.

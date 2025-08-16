@@ -17,6 +17,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Aberdeen Football Club met on Thursday at the Royal Exchange Hotel with C.F. Packard in the chair.  He was appointed secretary.  J. Murphy was appointed Captain with F. Sellars as Vice-Captain. P.L. Killicoat was elected President.  There will be a match v. Allcomers on 15 May.

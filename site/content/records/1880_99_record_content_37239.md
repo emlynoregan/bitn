@@ -23,6 +23,7 @@ topics:
 - hotel
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A smoke social was held in the evening at Opie’s Hotel.  This could have been Opie’s Hotel in Burra, but a Mr Opie had the Imperial Hotel in Terowie until some date in 1890.

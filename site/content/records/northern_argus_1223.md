@@ -21,6 +21,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Architect Bob Shannon has offered some street furniture to the re-development of Market Square and it has been accepted with thanks.

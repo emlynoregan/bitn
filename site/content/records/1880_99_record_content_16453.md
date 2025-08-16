@@ -21,6 +21,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The very popular service of song ‘A Child of Jesus’ will be repeated in the Kooringa Wesleyan Church by the Redruth scholars and choir, next Sunday.  Readings by Rev. G.E. Rowe.  In aid of the Kooringa Church Renovation Fund.

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Rural Expo organised by the United Farmers & Stockowners’ Association Burra Branch and held recently in Burra raised $1,220.

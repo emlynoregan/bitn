@@ -21,6 +21,7 @@ topics:
 - council
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said he disliked the situation where the Public Works Committee comprised the whole Council except for Cr West.  It was resolved that the committee comprise the whole Council.

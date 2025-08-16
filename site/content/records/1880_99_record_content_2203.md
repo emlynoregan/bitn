@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on ‘A Transcontinental Railway’.  Prospects of seeing a land grant system seeing the construction of a railway in Queensland to the Gulf of Carpentaria.

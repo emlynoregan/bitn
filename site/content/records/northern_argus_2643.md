@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Maude & Joe Phillips celebrated their 50th wedding anniversary on 7 May.

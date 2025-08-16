@@ -22,6 +22,7 @@ topics:
 - telephones
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This must have been somewhat experimental since Australia’s first trunk line for telephones was the 16-mile link between Adelaide and Pt Adelaide, which only opened in 1886.]

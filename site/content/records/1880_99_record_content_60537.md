@@ -22,6 +22,7 @@ topics:
 - damage
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Kidman accused J. Ford of entering Block 77W of 13,914 acres in Co. Burra and with breaking fences and driving sheep thereon, which ate, destroyed and injured grass.  Claim for £17-14-0.

@@ -21,6 +21,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Wesleyan Church was visited by the Kooringa Wesleyan Choir on 10 August and supper followed the concert.  The attendance should have been much larger.

@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Mrs Glad Reilly died recently.  She was the mother of Peter and Matt Reilly.

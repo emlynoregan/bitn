@@ -19,6 +19,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  An 11-year-old son of Mr J.T. Walker was sitting on the horse works driving the horse at Mr Birt’s cordial manufacture when a board moved and his foot slipped into the cogs almost to the ankle.  Amazingly he escaped with needing only five stitches and is recovering.

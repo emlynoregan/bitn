@@ -21,6 +21,7 @@ topics:
 - Jubilee 150
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Jubilee Industry Trade Train has been at Burra and attracted much interest.  Quite a large crowd, many in period costume, went through the train and visited the food stalls at the station.  Radio 5PI broadcast from the platform.  There were also rides on camels and the old Denis Fire Engine.  Several school groups visited the train on Monday.  [Photo of Audrey Little making damper.]

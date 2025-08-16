@@ -23,6 +23,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church anniversary is tomorrow.  In the evening at the Institute the Rev. John Watson will lecture on Reminiscences of His Life in South Africa.  Dr Sangster will preside.

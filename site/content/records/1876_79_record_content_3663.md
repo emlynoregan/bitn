@@ -21,6 +21,7 @@ topics:
 - roads
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. Tenders called for Nankivell's Gully Road.

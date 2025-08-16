@@ -19,6 +19,7 @@ topics:
 - history
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The red brick building was erected to replace a wood and iron structure dating from 1913.  This structure then became the Sunday School Hall.  When the red brick building was opened it was used by two congregations, which merged into one – the congregation from the wood and iron building and the one from the former Bible Christian Chapel, built in 1871 and still standing about 2 km northeast of the town.  It is believed that the declining population in the district prompted the merger.  A short history of Methodism in the Mt Bryan District has been written and will be available on 3 May.

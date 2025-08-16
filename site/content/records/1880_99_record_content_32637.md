@@ -20,6 +20,7 @@ topics:
 - behaviour
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from the proprietor of the skating rink protesting against complaints of bad behaviour at the rink and assuring patrons that care is being taken to control and exclude unruly elements.  [The specific person referred to was female.]

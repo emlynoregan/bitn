@@ -19,6 +19,7 @@ topics:
 - fundraising
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hockey Club had a successful trading table on Friday, raising c. $300.

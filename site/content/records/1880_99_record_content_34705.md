@@ -19,6 +19,7 @@ topics:
 - finance
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Another Inquirer’ who asks what has been done for the 1,000 paid up shares in the Fire Clay Co.

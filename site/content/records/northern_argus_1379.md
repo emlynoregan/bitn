@@ -22,6 +22,7 @@ topics:
 - election
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Notice.  Burra Burra DC st a meeting on 14 July elected John William McMahon Chairman in place of James Seymour Hawker and elected Graham Malcolm Kellock as Deputy Chairman.. [Photo.]

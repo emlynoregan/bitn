@@ -18,6 +18,7 @@ topics:
 - construction
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alex Harris calls tenders to erect a nine-roomed house.

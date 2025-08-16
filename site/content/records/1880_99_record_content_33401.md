@@ -21,6 +21,7 @@ topics:
 - entertainment
 - closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Skating.  Last night a fancy dress skating carnival was held as a farewell benefit to Mr Harry Cowan who has managed the rink for the Elite Skating Co. who have decided to close their season here.

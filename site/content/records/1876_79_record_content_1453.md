@@ -20,6 +20,7 @@ topics:
 - complaint
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 S.A. Carrying Co.: - Ed. on its exorbitant charges [started considerable correspondence]

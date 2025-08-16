@@ -35,6 +35,7 @@ topics:
 - public meeting
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Elections: Mr Mildred at Burra

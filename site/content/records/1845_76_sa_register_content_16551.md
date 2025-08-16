@@ -19,6 +19,7 @@ topics:
 - mining
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The arrangements with the English & Australian Copper Co. expire next May and no new engagement has yet been entered into.

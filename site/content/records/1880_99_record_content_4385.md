@@ -19,6 +19,7 @@ topics:
 - circus
 - admission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  17 & 18 June, Burton’s Great Australian Circus, 20 Star Artists, Male and Female Riders.  Pit 2/-, Stalls 3/-, Dress Circle 4/-

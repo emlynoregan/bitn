@@ -21,6 +21,7 @@ topics:
 - project
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Over 450 entries have been submitted by students and about 40 adults are contributing to the effort as well.

@@ -19,6 +19,7 @@ topics:
 - community
 - benefits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rechabites - letter from a Rechabite saying Burra had had a Lodge for over 12 years with about 60 members and like other lodges they provided sick pay and funeral benefits.

@@ -19,6 +19,7 @@ topics:
 - railway
 - station
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Railway Station. The platform is too short.

@@ -33,6 +33,7 @@ topics:
 - order
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 News of the NSW Gold Rush

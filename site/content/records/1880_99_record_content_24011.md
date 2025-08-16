@@ -23,6 +23,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson called on the Salvation Army to be prevented from parading the streets on Sundays, especially near places of worship.

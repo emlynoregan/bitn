@@ -19,6 +19,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Charles C. Williams has taken over the business of the late W. Builder.

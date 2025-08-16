@@ -25,6 +25,7 @@ topics:
 - meeting
 - extension
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Elders Pastoral sponsored a Lucerne Variation & Management meeting at Burra on 4 April.  The group visited the irrigated lucerne project at ‘East Bungaree’ and then went on to ‘Collinsville’.  After dinner at the Burra Hotel Ian Kaehne from the SA Department of Agriculture spoke on Lucerne varieties and management.  [Photo.]

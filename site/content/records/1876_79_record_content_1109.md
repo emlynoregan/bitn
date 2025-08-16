@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Public School; plans for new school being prepared - current one most inadequate.

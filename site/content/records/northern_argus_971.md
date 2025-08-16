@@ -20,6 +20,7 @@ topics:
 - employment
 - transfer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Phil McDonald of the State Bank has been transferred to the Regional Office.

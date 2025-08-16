@@ -22,6 +22,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on The Burra Hospital - one of the most useful of local institutions and open to the whole of the north and north-eastern districts.  Although a public hospital, it gets some £200 p.a. from subscriptions.  The costs for 1881 have been only c. 3/6 per head of patients - made possible by the doctors [Brummitt & Sangster] not charging for attendance.  This saves the Government £500 p.a. for which the whole district owes them a debt of gratitude.

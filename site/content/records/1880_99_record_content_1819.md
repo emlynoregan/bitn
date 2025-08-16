@@ -20,6 +20,7 @@ topics:
 - maintenance
 - public building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Post & Telegraph Office is a disgrace with peeling paint and broken windows.  It is in urgent need of maintenance.

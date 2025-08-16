@@ -22,6 +22,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rev. Arthur Clarke died at Quorn on Saturday [8 January] of typhoid, aged 27.  He had been a public school teacher at Copperhouse, then a probationer for the Wesleyan ministry and later a minister for the Quorn Bible Christian Church.  He was also known as a poet with a small published volume.

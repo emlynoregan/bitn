@@ -22,6 +22,7 @@ topics:
 - council
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan District Council.  After several petitions the Commissioner of Crown Lands has approved the request of residents that the number of councillors for Middle and East Wards be reduced from two to one in each case.

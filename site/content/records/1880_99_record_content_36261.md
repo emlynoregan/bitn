@@ -23,6 +23,7 @@ topics:
 - reading room
 - local rivalry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘the whole basis is looked upon as an attempt to give Kooringa a slap in the face.  It is well known that for years prominent (?) residents of the north end of the town have been terribly jealous of the success of Kooringa against the one-horse capabilities of Aberdeen and Redruth, but with all Kooringa is not yet vanquished.  Fancy in a small town like this, where there is a public reading room second to none in South Australia, a clique through transparent jealousy tries to throw cold water on it.’

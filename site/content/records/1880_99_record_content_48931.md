@@ -26,6 +26,7 @@ topics:
 - federation
 - reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Daddow’s address in his church on 13 February in reply to Mr Hogarth’s lecture on the National Defence League is summarised.

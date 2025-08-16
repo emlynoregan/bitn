@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - gaol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 From the Police Commissioner’s Quarterly Report

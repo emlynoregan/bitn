@@ -17,6 +17,7 @@ topics:
 - local government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The ruse seems to have worked and now ratepayers have an inspector at £30 higher cost than necessary.

@@ -20,6 +20,7 @@ topics:
 - drunkenness
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Schutz was fined 40/- or 14 days hard labour for being drunk in charge of two horses and a cab in Market Square on 9 August.

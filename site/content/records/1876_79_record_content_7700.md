@@ -20,6 +20,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The first match in Burra for the season (if we may call it a match) was the farce of Burra v. Clare on Saturday. We were surprised a few weeks ago when Hallett beat them, but the Saturday game was an utter farce -`several even being run out by their captain*. Clare 108 defeated Burra 8 & 49.

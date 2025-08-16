@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society Annual Services were held on 30 7 31 July in the Kooringa Wesleyan Church and were addressed by the deputation, Rev. James Lyall on Sunday afternoon.  The public meeting was held on Monday evening in the Kooringa Primitive Methodist Church.

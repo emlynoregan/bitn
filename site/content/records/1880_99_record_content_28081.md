@@ -19,6 +19,7 @@ topics:
 - education
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from L. Scammell of Adelaide on the need for a School of Mines in Adelaide.

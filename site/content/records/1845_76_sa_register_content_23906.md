@@ -42,6 +42,7 @@ topics:
 - land sale
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  There is a long and quite detailed advertisement for the English & Australian Copper Co., which was clearly selling off its assets, particularly those along the old Copper Road from Burra to Pt Wakefield.  In brief the lots were:

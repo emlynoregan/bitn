@@ -19,6 +19,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Wheeler Family will appear at the Inst. 29 & 30 November. Free presents will be distributed each evening. New songs, acts and sketches. Unrivalled comedy.

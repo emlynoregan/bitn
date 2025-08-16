@@ -18,6 +18,7 @@ topics:
 - police
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences: Legal proceedings against wood carters who carry horse feed and include it in the supposed weight of their load of wood - two recent cases involved weights of 2.5 and 3 cwt.

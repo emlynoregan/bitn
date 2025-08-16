@@ -21,6 +21,7 @@ topics:
 - government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said if the rate of interest comes down the Council had almost decided to continue with the waterworks and if it did not to hand them to the Government.

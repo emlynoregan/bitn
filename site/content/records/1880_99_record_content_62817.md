@@ -19,6 +19,7 @@ topics:
 - mining
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mine.  Applications for the position of engineer will be received by Mr West in a day or two and when one is selected the work will proceed.

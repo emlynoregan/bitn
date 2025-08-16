@@ -18,6 +18,7 @@ topics:
 - community
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare Salvation Army continues to experience the most cowardly and dangerous attacks with little official reaction.

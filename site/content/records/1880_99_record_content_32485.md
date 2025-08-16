@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Provincial Elite Roller Skating Rinks: A branch of these rinks will open at the Institute Hall in Burra on Every Tuesday, Thursday & Saturday from 15 May 1889.

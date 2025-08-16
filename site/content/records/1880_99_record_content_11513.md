@@ -21,6 +21,7 @@ topics:
 - sanitation
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Typhoid’ hoping the creek is dammed as by the end of summer the green slimy mud-hole will be exactly what would delight him ‘and I should be a constant resident.’

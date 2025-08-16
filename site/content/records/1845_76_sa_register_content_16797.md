@@ -20,6 +20,7 @@ topics:
 - sale
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Box will hold a cattle sale at the Hotel Yards every Wednesday.  Last week cows fetched about £4, but this week less was offered and bids failed to reach the reserve.

@@ -18,6 +18,7 @@ topics:
 - mail
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on the question of an eastern mail run.  An officer was to have been sent to investigate, but has not turned up yet.

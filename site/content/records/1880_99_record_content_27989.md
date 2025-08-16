@@ -21,6 +21,7 @@ topics:
 - opinion
 - class
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Wanderer' writes on the distribution of the nation’s wealth.

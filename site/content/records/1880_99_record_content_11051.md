@@ -20,6 +20,7 @@ topics:
 - church
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Trengrove, active for some years in the Redruth Wesleyan Sunday School and Church is removing from the district and was farewelled with a tea on Friday.

@@ -19,6 +19,7 @@ topics:
 - company
 - training
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  Class firing was completed on Saturday and the company is now at 66, of whom 63 are ‘efficient’.

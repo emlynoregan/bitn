@@ -21,6 +21,7 @@ topics:
 - building
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith’s & Co.’s new building in Market Square has been surveyed and building should soon commence.

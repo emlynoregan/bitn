@@ -26,6 +26,7 @@ topics:
 - society
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Musical Union.   Interested parties met on the 27th April at the Institute to consider forming a society.  It was convened by G. Butterworth with the Rev. J.S. Wayland in the chair.  The Burra Musical Union resulted.  Elected to office were:

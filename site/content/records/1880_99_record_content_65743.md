@@ -21,6 +21,7 @@ topics:
 - health
 - personnel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a generous letter of thanks for the work of William Davey as Town Clerk and hopes his health will improve soon.

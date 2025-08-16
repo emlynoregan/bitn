@@ -18,6 +18,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodists form a committee to establish a Temperance Society.

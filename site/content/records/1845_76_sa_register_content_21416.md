@@ -21,6 +21,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bible Christian Mutual Improvement Association held an inaugural meeting in the schoolroom last week.  Rev. Thomas Allen was chairman.  A pleasant evening was spent and £6 was collected.  It will go to the library fund.

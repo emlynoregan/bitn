@@ -20,6 +20,7 @@ topics:
 - statistics
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Of the 1360 formal votes there were 176 plumpers, of whom 75 were for Ward and 23 for Duncan.  The rest got from 11-19 each.

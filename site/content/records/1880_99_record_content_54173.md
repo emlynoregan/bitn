@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary [Richard] Andrews, husband of Ellen Andrews died on 4 July at Ayers St, Kooringa, aged 49.

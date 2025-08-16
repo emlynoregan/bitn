@@ -29,6 +29,7 @@ topics:
 - picnic
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The United Friendly Societies held a picnic in Mr Need’s paddock four miles south of Burra on the Adelaide Road.  Among the sports played was a 150 yards foot race for men and a 150 yards foot race for boys under 15.

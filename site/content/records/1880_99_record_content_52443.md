@@ -20,6 +20,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Pigeon Club has been formed with P.L. Killicoat (Mayor) as the President.

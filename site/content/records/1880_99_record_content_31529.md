@@ -22,6 +22,7 @@ topics:
 - agriculture
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Sandland and Richard Berryman both had cases brought by the Burra District Council for not destroying star thistles.  Both cases were withdrawn because the work has since been satisfactorily performed.

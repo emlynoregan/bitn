@@ -19,6 +19,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School Anniversary, Easter Sunday with service of song: The Martyrs of the Covenant at 2.30 p.m.

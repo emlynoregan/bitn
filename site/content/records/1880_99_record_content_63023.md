@@ -20,6 +20,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At Douglas last Wednesday Mongolata 51 defeated Burra Juniors 28.

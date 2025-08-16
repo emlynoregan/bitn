@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  James Levers sustained a broken leg when a wall he was demolishing at the rear of the Burra Hotel fell on him on Tuesday.

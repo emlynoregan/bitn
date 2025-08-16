@@ -35,6 +35,7 @@ topics:
 - TSR
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Travelling Stock Roads.  A meeting was held at Hanson last Saturday on the cutting up of the TSR’s.

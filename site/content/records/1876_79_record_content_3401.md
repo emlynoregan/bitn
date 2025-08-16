@@ -19,6 +19,7 @@ topics:
 - picnic
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Picnic at Princess Royal was a great success with the woolshed again available. The gross proceeds were c. £55.

@@ -22,6 +22,7 @@ topics:
 - government
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Mr Rees and the affair of the connection of the Engineer-in-Chief with the Silverton Tramway co. and other matters.  Mr Rees has tried to affix on the Engineer-in-Chief the stigma of having received bribes, without any proof.  So far his efforts have rebounded upon himself.  A select committee has been appointed.

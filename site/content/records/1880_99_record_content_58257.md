@@ -24,6 +24,7 @@ topics:
 - union
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodist Union.  A meeting on Methodist Union was held at the Bible Christian Church last Monday night.  Speeches in favour of Union were delivered by Rev. W.H. Fitchett (President of the Victorian Methodist Conference) and Rev. John Watsford of Victoria.  Rev. R.S. Casely and Rev. W.F. James also spoke.

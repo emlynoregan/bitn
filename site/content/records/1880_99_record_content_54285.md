@@ -21,6 +21,7 @@ topics:
 - church
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  F.W. Holder will preach at Kooringa Wesleyan Church at 11 a.m. on 29 July and at the Redruth Wesleyan church at 6.30 p.m.

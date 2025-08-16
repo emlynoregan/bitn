@@ -19,6 +19,7 @@ topics:
 - entertainment
 - closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Brief note] Goodbye ye skaters.  [So presumably the rink has now closed.]

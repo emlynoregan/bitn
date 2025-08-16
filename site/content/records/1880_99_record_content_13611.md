@@ -23,6 +23,7 @@ topics:
 - election
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council.  There will be a ballot at Copperhouse Post Office on 7 July to elect two councillors for North Ward.  Candidates:	Robert Brown

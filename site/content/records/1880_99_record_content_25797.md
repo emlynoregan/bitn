@@ -18,6 +18,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charity Move.  There is a move to embrace all religious denominations in a Local Benevolent Society.

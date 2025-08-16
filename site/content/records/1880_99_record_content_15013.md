@@ -21,6 +21,7 @@ topics:
 - transport
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  The Bill for the railway from Petersburg began its passage through Parliament, but the debate has been adjourned.

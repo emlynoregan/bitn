@@ -19,6 +19,7 @@ topics:
 - land
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Working Men’s Blocks.  Part of the Police Paddock at Redruth has been subdivided into working men’s blocks.  A small piece is left for the gaol and another for public use.

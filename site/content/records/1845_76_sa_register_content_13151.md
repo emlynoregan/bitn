@@ -18,6 +18,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An attempt to declare Dr Browne a fit and proper candidate was met with interruptions of contempt and derision and failed to gain support.

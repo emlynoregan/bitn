@@ -21,6 +21,7 @@ topics:
 - politics
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Topperwein, formerly of Burra, is the Mayor of Broken Hill, at a salary of £250 a year

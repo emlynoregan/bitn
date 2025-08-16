@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church anniversary was successfully celebrated on 15 August with tea meeting on 17 August.  Rev. S. Gray preached to fairly good congregations and the public meeting presided over by Mr Birt was interesting.  The proceeds of £10 will be spent to improve the building.  There is no debt on the property.

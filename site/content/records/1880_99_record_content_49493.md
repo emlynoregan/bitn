@@ -22,6 +22,7 @@ topics:
 - race
 - bicycle
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bicycle Sports on Easter Monday were a great success.  In the 20 mile race place-getters were:	1st	R.D Morton	£12

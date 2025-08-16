@@ -19,6 +19,7 @@ topics:
 - salaries
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The sexton was reappointed at £110 p.a.

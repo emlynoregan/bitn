@@ -18,6 +18,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tea & Concert 1/6, separately 1/- [each].  Children half price.

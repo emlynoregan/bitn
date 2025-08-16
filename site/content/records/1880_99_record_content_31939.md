@@ -19,6 +19,7 @@ topics:
 - politics
 - Ireland
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on St Patrick’s Day, Ireland, and the bane of Balfourism.  [Balfour was Chief Secretary for Ireland, and was pursuing repressive policies there.]

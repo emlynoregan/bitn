@@ -23,6 +23,7 @@ topics:
 - personal_remark
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The report runs to c. ⅔ column and of personal interest: M. Fuss took part in the Maypole Dance.  This is probably Muriel rather than Myrtle seeing that her brother Ray and company sang songs and choruses from HMS Pinafore and he also sang a duet with Amy Wylie.]

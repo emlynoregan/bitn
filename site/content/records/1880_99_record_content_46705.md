@@ -23,6 +23,7 @@ topics:
 - football
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ discusses a locally arranged fight, the puppy stake and out-of-town tennis as well as local football and the prospects for cricket.

@@ -20,6 +20,7 @@ topics:
 - post office
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Deputations to the Govt. re the post office for Aberdeen/Redruth and for a new railway station are reported in c. 1⅔ columns.  The details are as at the meeting already noted.

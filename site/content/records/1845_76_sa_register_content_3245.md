@@ -24,6 +24,7 @@ topics:
 - press
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 22 November 1848, page 3

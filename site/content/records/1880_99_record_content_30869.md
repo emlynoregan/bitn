@@ -19,6 +19,7 @@ topics:
 - event
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School will celebrate its anniversary on Sunday 23 December.  The children’s treat will be on Christmas Day at 3 p.m. with the tea at 4.30 p.m. and the public meeting at 7.30 p.m.

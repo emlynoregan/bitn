@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Amateur Dramatic Society’s first appearance at the Institute last night was a creditable success.  The crowded house must have brought in almost £20.

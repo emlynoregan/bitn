@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Resolved to pay half cost of a footbridge at the White Hart Ford if the public will fund the other half.

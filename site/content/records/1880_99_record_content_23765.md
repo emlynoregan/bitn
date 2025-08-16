@@ -19,6 +19,7 @@ topics:
 - community
 - dance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Young Men’s Union.  Friday entertainment of songs, recitations and farces followed by a dance till midnight.

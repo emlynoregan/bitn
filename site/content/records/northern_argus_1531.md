@@ -19,6 +19,7 @@ topics:
 - emergency services
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 $10,000 for SES plant and equipment

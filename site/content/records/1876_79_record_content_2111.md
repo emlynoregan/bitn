@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Aberdeen Mill Underpass. 20 people attended a meeting at the Institute to discuss the motion `That an under crossing through the railway embankment between the Bon Accord Hotel and Messrs J. & E. Butterworth's mill is absolutely necessary.'

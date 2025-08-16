@@ -19,6 +19,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  George Jenkins, who was thrown on the racecourse on Sunday 1 January, died last week from his injuries.  [George Jenkins died 5 January 1860 at Redruth aged 19.]

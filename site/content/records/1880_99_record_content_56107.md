@@ -19,6 +19,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church’s 35th anniversary last Sunday.  Rev. Thomas Allen of Bowden preached twice.  The service of song in the afternoon was Babes in the Basket.

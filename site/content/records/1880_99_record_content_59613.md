@@ -23,6 +23,7 @@ topics:
 - animal
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Elsewhere on the same page the District Council of Burra report reveals he hauled the horse for 9 miles along a metalled road and then left it to rot in a creek near the road and only buried it at the instance of the Ranger.]

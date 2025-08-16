@@ -24,6 +24,7 @@ topics:
 - police
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Sufferer’ writes that Burra has long enjoyed notoriety for the number of animals poisoned within the town – dogs – pigs – goats – fowls, whether free or tethered etc.  – between 40 and 50 deaths so far this season.  In the last few weeks alone four dogs and a lot of ducks and fowls in the North End and not long before it was in the South End.  Police should take more interest in it.  In Victoria the giver-out of poison is held responsible for the damages and strict supervision of the laying and the taking up of baits is enforced, but they are never allowed within towns.

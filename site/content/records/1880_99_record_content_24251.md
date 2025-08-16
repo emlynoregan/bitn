@@ -19,6 +19,7 @@ topics:
 - serial
 - novel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fallen Fortunes by James Payn then began on 26 March and ran till 14 September when it concluded at Chapter LII.

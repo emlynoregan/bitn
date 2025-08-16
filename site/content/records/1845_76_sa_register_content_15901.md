@@ -22,6 +22,7 @@ topics:
 - mining
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 All six sections in the Hundreds of Apoinga and Stanley Nos 3054, 3058, 3059, 3060, 3062 & 3063, containing about 528 acres, known as the Karkulto Mine.

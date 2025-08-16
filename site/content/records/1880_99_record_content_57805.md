@@ -18,6 +18,7 @@ topics:
 - religion
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The report in the paper of 14 August confirms Rev. J.G. Wright did both.]

@@ -35,6 +35,7 @@ topics:
 - taxation
 - public policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  Last Thursday at the Institute Hon. F.W. Holder addressed electors.

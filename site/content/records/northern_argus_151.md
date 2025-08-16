@@ -22,6 +22,7 @@ topics:
 - tourism
 - historic preservation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Malowen Lowarth, Cottage 11 Paxton Square will be open to the public for the first time over the October long weekend.  The name is Cornish for Hollyhock Garden.  The National Trust set up the interior as it would have been some 130-140 years ago.  Dirt floors have been laid, canvas ceilings installed and appropriate furnishings collected and put in place.  After the long weekend it will be opened on a regular basis.

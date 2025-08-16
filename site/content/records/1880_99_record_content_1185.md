@@ -21,6 +21,7 @@ topics:
 - advertisement
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For an Institute Caretaker/Librarian at the Burra Institute at £65 p.a. + a rent free house with wood and lighting.

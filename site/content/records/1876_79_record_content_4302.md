@@ -17,6 +17,7 @@ topics:
 - education
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editor on Education — in favour of ‘reasoning for themselves, and thinking out for self, every conclusion arrived at and by so doing no single branch of thought is alone being brought out, but all equally.’ 

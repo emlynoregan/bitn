@@ -19,6 +19,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Parliament is to meet soon to elect two delegates to the Federal Council to be opened next month.

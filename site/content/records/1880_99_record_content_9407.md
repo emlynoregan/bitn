@@ -20,6 +20,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 South Australian Farmers’ Mutual Association met and produced a list of seven desirable changes or concessions in view of the great distress of farmers, especially in the Hundreds beyond Goyder’s Line.  To be forwarded to the government for action.

@@ -19,6 +19,7 @@ topics:
 - investigation
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is said the fire may have started from the malice or neglect of a discarded shepherd.

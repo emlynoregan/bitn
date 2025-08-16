@@ -22,6 +22,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Connexion held a Burra District meeting on 2 & 3 February at Auburn.  Amid a lengthy report it states that the new Kooringa Manse cost £745, of which £393 has been raised.

@@ -22,6 +22,7 @@ topics:
 - gauge
 - parliamentary club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘Semper Idem’ writes on the Battle of the Gauges concerning the sources of information used by Mr Rees and the Burra Parliamentary Club.

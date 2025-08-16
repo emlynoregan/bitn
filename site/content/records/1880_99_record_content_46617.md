@@ -20,6 +20,7 @@ topics:
 - meeting
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Cricket Club AGM is called for 13 September at the Commercial Hotel.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There was a Musical Entertainment one evening at which the Amateur Christy Minstrels delighted a crowded audience.  Over £10 was taken at the door.

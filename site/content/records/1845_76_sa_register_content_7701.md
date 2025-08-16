@@ -21,6 +21,7 @@ topics:
 - diggings
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mount Alexander.  A former compositor for the Register (W.W.) writes from the diggings:

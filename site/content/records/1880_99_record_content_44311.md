@@ -20,6 +20,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Concert in aid of the manse was held at the Institute on Friday evening, chaired by Dr Sangster.  Attendance was very small, but the concert was one of the best given for some time.

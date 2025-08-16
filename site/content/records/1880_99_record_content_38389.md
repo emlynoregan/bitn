@@ -22,6 +22,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  William Ker, 3rd son of I.G. Ker and Augusta 2nd daughter of the late Theodore Bock, both of Kooringa.

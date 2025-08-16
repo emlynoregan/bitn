@@ -19,6 +19,7 @@ topics:
 - entertainment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ideal Comedy Co. did a good job to a poor house on Thursday and had not enough cash to pay their debts.  The advance agent settled things as comfortably as possible and the company disbanded.

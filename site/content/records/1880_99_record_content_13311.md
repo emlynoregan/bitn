@@ -29,6 +29,7 @@ topics:
 - religion
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church Anniversary last Sunday with sermons by Rev. S. Knight, Rev. G.E. Rowe & Rev. R. Brown.  The tea meeting on Monday was the largest for some years.  Dr Brummitt gave an address on Christian Work: the Genius of the Methodist Church.  £271-13-6 has been spent in building a new vestry and other improvements.  The total cost of the whole property has been £2,000-4-9 and the debt was £531-19-7.  Other addresses were given by F.W. Holder, Rev. J.G. Wright, Rev. C. Tresise, Rev. S. Knight, and Rev. G.E. Rowe.  The financial result of the anniversary was over £60.

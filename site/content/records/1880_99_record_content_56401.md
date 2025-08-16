@@ -34,6 +34,7 @@ topics:
 - health
 - vote
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson said the same question had cropped up when Mr Holder was Mayor and the Central Board had given instructions.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A sub-committee was appointed to get a skillion put up in substitution for the old bathroom adjoining the operating room.  A re-arrangement of rooms for the night nurse and porter’s family was made.

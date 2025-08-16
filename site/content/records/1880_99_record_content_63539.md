@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  It has been very hot and disagreeable for the last weeks, varying from 85°F to 109°F.  Tuesday blew a gale with severe dust.

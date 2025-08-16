@@ -19,6 +19,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Young intends to open a Grammar School in Aberdeen for boarders and day pupils on 28 April.

@@ -17,6 +17,7 @@ topics:
 - hunting
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shooting has been good of late with one hare brought in over 3’ long.

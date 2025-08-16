@@ -18,6 +18,7 @@ topics:
 - entertainment
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Carandini Co. was excellent and attendance disappointing. Well attended night 1, but only 50% the second night.

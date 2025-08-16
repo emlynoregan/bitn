@@ -26,6 +26,7 @@ topics:
 - racing
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club met on Saturday at the Commercial Hotel.  An attempt is to be made to co-ordinate the meetings of the Burra, Kapunda, Martindale and Clare clubs so that horses can start from Adelaide and run at all four meetings before going on to Petersburg and Broken Hill.  The Burra club has been registered and will run under SAJC rules with a totalizator to be secured.

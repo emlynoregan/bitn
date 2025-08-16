@@ -19,6 +19,7 @@ topics:
 - civil service
 - retirement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial urging greater Government economy in this time of depression.  Three steps are suggested:

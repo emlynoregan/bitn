@@ -19,6 +19,7 @@ topics:
 - business
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Proposed Copper Smelting Company.  The adjourned meeting will resume this afternoon at Payne’s Hotel.

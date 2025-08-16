@@ -21,6 +21,7 @@ topics:
 - nuisance
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Duty without partiality’ re the stray animals in the streets.  It is bad enough during the week ‘And then on Sundays, the place is actually swarming, and the Inspector’s assistants almost falling over them.  I think it is only fair that the cattle, & c., belonging to the “upper ten” should be seen whilst straying in the back streets as well as the poor man’s cow in the front street.’

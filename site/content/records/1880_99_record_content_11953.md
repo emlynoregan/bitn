@@ -20,6 +20,7 @@ topics:
 - real estate
 - shop
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. For Sale: a new shop in Redruth, best business position, beautifully fitted with a cottage of five rooms.  Apply Thomas Bath.

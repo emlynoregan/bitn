@@ -19,6 +19,7 @@ topics:
 - health
 - community education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 An AIDS information night was held at the school last Thursday.

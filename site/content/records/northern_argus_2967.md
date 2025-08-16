@@ -20,6 +20,7 @@ topics:
 - obituary
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Vic Gisi, formerly a Burra garage proprietor died recently.

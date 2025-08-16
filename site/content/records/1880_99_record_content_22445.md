@@ -18,6 +18,7 @@ topics:
 - population
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Population.  In 1885 the population of SA increased by 6,988 to 319,769.

@@ -20,6 +20,7 @@ topics:
 - business
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Nicholls & Ross, Temperance Hotel, Hindley Street.

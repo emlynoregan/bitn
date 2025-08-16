@@ -20,6 +20,7 @@ topics:
 - military
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF has had four drills and now has 48 names on the roll.  Drill is rapidly being learnt.  The company meets this evening in Mr Edward’s store in Commercial St.

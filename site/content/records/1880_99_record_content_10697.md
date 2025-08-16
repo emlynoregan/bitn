@@ -19,6 +19,7 @@ topics:
 - anniversary
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Church Anniversary last Sunday and Wednesday.  Rev. J.C. Hill preached.  There was a floral service in the afternoon.

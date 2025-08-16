@@ -27,6 +27,7 @@ topics:
 - polo
 - arrangements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports on out-of-town coursing, football, boxing, sculling, cycling and polo.  He also reports that arrangements have been made for a football game next Saturday between Aberdeen and Burra.

@@ -22,6 +22,7 @@ topics:
 - music
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Davey’s Burra Band will play at Redruth on Wednesday evening 2 Oct. at 7.25 p.m. in the reserve near the German Chapel.  T. Halls will run a cab for 4d return.

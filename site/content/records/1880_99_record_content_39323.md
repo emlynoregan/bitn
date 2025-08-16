@@ -17,6 +17,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Parcels for the poor are being prepared by a party of ladies and gentlemen.

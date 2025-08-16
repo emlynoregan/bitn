@@ -22,6 +22,7 @@ topics:
 - employment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Trevor Willmott is the new manager of Dalgety Bennetts Farmers at Burra.  He succeeds Andrew Butler who has been appointed stud stock representative for the Northern and West Coast Areas of SA.  He will continue to be based in Burra.

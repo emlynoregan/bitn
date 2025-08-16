@@ -20,6 +20,7 @@ topics:
 - legal
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Schutz was fined £1 for using abusive language in Market Square on 19 October.

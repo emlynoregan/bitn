@@ -20,6 +20,7 @@ topics:
 - economy
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Not An Employer’ complaining that the working classes are grossly overpaid.  The depression has halved the cost of living, but they still want 12/- a week for servants and you can’t get them.  People are not going into service.  They are so well dressed now that you can’t tell who is the working class from their clothes etc.

@@ -17,6 +17,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Nigger Troupe will appear again: New songs, New Jokes, New Hits.

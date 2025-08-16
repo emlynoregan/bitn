@@ -18,6 +18,7 @@ topics:
 - offence
 - road safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences: Lights in vehicles to be enforced - needed half hour after sunset to half hour before sunrise except for two nights before and after a full moon.  Several people were fined 5/- with 10/- costs

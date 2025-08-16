@@ -18,6 +18,7 @@ topics:
 - council
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Report on the meeting outlined in the 2nd leader.

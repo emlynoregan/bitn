@@ -20,6 +20,7 @@ topics:
 - drill
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  Last drills for the year are called for tonight and Thursday night.  Captain Holder will be in command himself and a large attendance is hoped for.

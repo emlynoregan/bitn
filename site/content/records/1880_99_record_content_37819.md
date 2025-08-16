@@ -19,6 +19,7 @@ topics:
 - parliament
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Model Parliament seems to have died: it has not been possible to get together a meeting for the past three or four weeks.

@@ -21,6 +21,7 @@ topics:
 - crime
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the present time in which ‘the press is teeming with accounts of immorality’.  e.g. The case in Victoria of a Sunday school teacher guilty of criminal assaults on his 16 year-old daughter who gave birth to a child in September.

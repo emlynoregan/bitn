@@ -18,6 +18,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Don’t forget shooting for the gold medal will be concluded today: to commence at two o’clock

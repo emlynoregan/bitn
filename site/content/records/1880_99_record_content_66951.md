@@ -36,6 +36,7 @@ topics:
 - art
 - manual work
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss W. is also a mystery.

@@ -22,6 +22,7 @@ topics:
 - church
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Alfred Dearlove, who is about to leave the district, was presented with a beautiful copy of Fox’s book of Martyrs by teachers at the Kooringa Primitive Methodist Sunday-school, where he has been Assistant Superintendent.

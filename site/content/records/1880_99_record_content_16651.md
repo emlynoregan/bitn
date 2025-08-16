@@ -24,6 +24,7 @@ topics:
 - public works
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editor goes on to say that the subsidy attracted would fail to meet the police moiety of £140 by about £60, which suggests that the £78 attracted a £ for £ subsidy.]

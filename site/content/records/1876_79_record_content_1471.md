@@ -24,6 +24,7 @@ topics:
 - railway
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Glendore: Report from this town - [1 mile south of Black Springs]

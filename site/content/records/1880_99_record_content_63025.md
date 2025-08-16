@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After the contest was over our boys secured an overwhelming victory at the Primitive Methodist tea struggle.

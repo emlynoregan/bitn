@@ -22,6 +22,7 @@ topics:
 - flood
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  Thunderstorms have deluged much of the north and the eastern plains, though there was little in Burra.  There were widespread floods north of Port Augusta.  Eastern dams are full and Hiles Lagoon [near Terowie], which has not been full for years, is flooded.

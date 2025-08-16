@@ -19,6 +19,7 @@ topics:
 - ore
 - exploration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Narkara hole has yielded some good ore and the promoters are hopeful of success.

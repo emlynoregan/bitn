@@ -17,6 +17,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Service of song repeated on 13 November. Picnic on public holiday 13 November.

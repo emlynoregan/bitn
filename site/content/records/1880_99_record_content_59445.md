@@ -24,6 +24,7 @@ topics:
 - business
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice of Removal.  A. Williams, Boot and Shoemaker of Market Square, informs customers he has moved to the shop lately occupies by Messrs Kitchen & Jordan next to Mr John Snell.

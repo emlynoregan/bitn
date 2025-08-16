@@ -30,6 +30,7 @@ topics:
 - mining
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 F.H. Burslem, Surveyor of Morphett Street, Adelaide, 2 September, writes on the Northern Districts.

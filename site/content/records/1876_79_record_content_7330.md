@@ -19,6 +19,7 @@ topics:
 - bridge
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. The girders are in position and planking is down. It will soon be ready for traffic.

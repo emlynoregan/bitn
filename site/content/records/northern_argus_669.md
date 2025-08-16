@@ -21,6 +21,7 @@ topics:
 - sport
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of Rosie with coach, BCS Physical Education teacher Richard Bednall.]

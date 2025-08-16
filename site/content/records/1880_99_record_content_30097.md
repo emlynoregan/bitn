@@ -23,6 +23,7 @@ topics:
 - education
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Institutes have elected David Bower, John Medway and F.W. Holder as governors of the Public Library.

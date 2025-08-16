@@ -22,6 +22,7 @@ topics:
 - bridge
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Butterworth said the bridge near Mr Packard’s was unsafe owing to the stones being washed away.  [Perhaps the bridge on Smelts Rd?]

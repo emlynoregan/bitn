@@ -20,6 +20,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Tomorrow Aberdeen 1st 11 versus 15 Allcomers at the ground by Drew’s Store.

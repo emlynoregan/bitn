@@ -20,6 +20,7 @@ topics:
 - church
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s vestry meeting was the last for Rev. A.G. King before leaving for Pt Pirie.  £60 is currently being expended on repairs to the church and rectory.

@@ -21,6 +21,7 @@ topics:
 - scouting
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Tim Letcher, Burra’s most recent Queen’s Scout, received his Royal Certificate from H.E. the Governor Sir Donald Dunstan at the Annual Act of Loyalty Service on 3 May, following the annual Queen’s Scout and Queen’s Guide dinner.

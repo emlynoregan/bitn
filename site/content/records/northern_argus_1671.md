@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Mr Dick Reed died last week.  He is survived by his wife Dorothy and children Peter & Chris.

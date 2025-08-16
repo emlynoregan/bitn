@@ -32,6 +32,7 @@ topics:
 - board and lodgings
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Local Court, Kooringa, 5 August.

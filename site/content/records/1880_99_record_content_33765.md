@@ -20,6 +20,7 @@ topics:
 - morality
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Stumbler’ disagreeing with Rev. Burgess that the greater fault lay with the buyer of liquor than with the seller.  The tempter surely is worse.  He also asks if liquor sellers can hold office in their church.

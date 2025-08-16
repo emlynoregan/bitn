@@ -21,6 +21,7 @@ topics:
 - community
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  Parade for Company drill 3.30 p.m. tomorrow.  Assemble at Institute, march to range for drill.  Return march at 5 p.m. led by the band for the first time.

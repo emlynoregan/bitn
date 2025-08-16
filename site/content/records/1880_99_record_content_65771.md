@@ -25,6 +25,7 @@ topics:
 - infrastructure
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. F.W. Holder arrived in Burra on Saturday night and was met at the Institute by a deputation who wished a survey made from Firewood Creek into the town.  The Treasurer acceded to the request and we await the engineer’s report.  Though Mr Holder seemed well, the pressure of his Parliamentary duties is telling on his health.

@@ -20,6 +20,7 @@ topics:
 - land title
 - Real Property Act
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has moved to place a caveat on the title of the Aberdeen Reserve when it comes under the Reap Property Act.

@@ -19,6 +19,7 @@ topics:
 - mining
 - silver
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver has gone quiet in the whole World’s End-Robertstown area.  What ever happened to the Black Hills Mine?

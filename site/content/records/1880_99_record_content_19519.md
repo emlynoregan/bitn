@@ -28,6 +28,7 @@ topics:
 - theatre
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   3 Nights at the Burra Institute begins 29 October

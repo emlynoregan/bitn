@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Monday 2 January was generally kept as a holiday.

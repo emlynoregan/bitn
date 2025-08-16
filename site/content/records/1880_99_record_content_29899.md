@@ -18,6 +18,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Vocal and Instrumental Concert at the Institute on 11 October.

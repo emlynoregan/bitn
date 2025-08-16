@@ -18,6 +18,7 @@ topics:
 - mining
 - satire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Jonathan Norwest Mining Captain reports with satirical detail on the site and its wonderful prospects.

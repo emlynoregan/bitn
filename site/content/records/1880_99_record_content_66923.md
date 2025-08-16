@@ -19,6 +19,7 @@ topics:
 - jubilee
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Lodge MUIOOF will celebrate its jubilee on 13 October with a public social.

@@ -24,6 +24,7 @@ topics:
 - railway
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Colonel Downes has reported to the Government on the Rifle Volunteer Force ‘as little better, if at all so, than a shooting club, on a large scale.’  It has the added disadvantage of giving a false sense of security.

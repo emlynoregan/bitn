@@ -18,6 +18,7 @@ topics:
 - auctions
 - market reports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Small advertisements, especially of stock sales and auctions, with public notices and market reports.

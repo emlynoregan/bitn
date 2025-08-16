@@ -21,6 +21,7 @@ topics:
 - presentation
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Dawson was given an address and gold locket from the eight apprentices at the Burra Record office last Saturday.  He is leaving Burra after having been foreman of the office for six years.  Mr Holder made the presentation on their behalf.

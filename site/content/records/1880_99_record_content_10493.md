@@ -21,6 +21,7 @@ topics:
 - government
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Why is it that an officer of the postal department has to accompany the mailbags to Burra every evening, but from there on mailbags are dumped in the guard’s van with no one responsible for them.  Are Burra bags ‘of such superior value that they merit extra care?’

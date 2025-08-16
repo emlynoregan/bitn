@@ -19,6 +19,7 @@ topics:
 - wages
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The sexton is to get 1/- extra for each grave dug over 7’ deep.

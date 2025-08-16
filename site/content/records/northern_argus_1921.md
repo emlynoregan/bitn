@@ -21,6 +21,7 @@ topics:
 - heritage
 - video
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  At the meeting on Monday Councillors saw the video made of the final preparations of Morphett’s Enginehouse and shaft and the official opening of the Heritage Town Project, made by Richard Lockheed.

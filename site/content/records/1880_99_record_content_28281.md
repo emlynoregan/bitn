@@ -21,6 +21,7 @@ topics:
 - church
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.H. Hadley was farewelled at the Redruth Wesleyan Schoolroom on Wednesday evening when about 100 attended.  A bound address was presented to the minister who is going to Kadina.

@@ -20,6 +20,7 @@ topics:
 - lectures
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The incumbent gave the first in a series of lectures on Church History at St Mary’s Schoolroom last Wednesday.  Dr Sangster will give the second on a date to be fixed.

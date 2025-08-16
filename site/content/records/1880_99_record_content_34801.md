@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Situated on Crown Lease 816 for 99 years at an annual rent of £2 for 40 acres in the Hundred of Baldina, 13 miles from Burra railway station.  Also a lease for 3 years on 3 acres contiguous with the Burra station with a well, stone office and other buildings.

@@ -25,6 +25,7 @@ topics:
 - dispute
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a long report of a case in which Albert Richard Edwards was charged with placing timber across a chain roadway in Mongolata on 18 January with the intention of harming John and Annie Howell, who used the road to drive home in their trap.  After a great deal of evidence was taken it was not possible to prove who had placed the logs there.  The court cautioned Edwards about placing logs on the road and dismissed the case.  The police had earlier decided that there was no case, but the Howells had written to the Commissioner of Crown Lands who then instructed the police to bring the action.

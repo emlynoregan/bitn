@@ -17,6 +17,7 @@ topics:
 - finance
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The present Council therefore leaves office with a credit balance against a debit at the start of the year of nearly £200.  The debit in the Health account has been reduced by c. £40.  The Cemetery account debit of £9 has become a credit of £37 and the Park Lands account has a small debit balance of c. £12 after paying off a £100 bond.

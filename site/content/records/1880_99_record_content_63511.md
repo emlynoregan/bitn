@@ -22,6 +22,7 @@ topics:
 - council
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A shed for the water cart is to be erected alongside the old Baptist Church and tools etc. are to be moved to the building.

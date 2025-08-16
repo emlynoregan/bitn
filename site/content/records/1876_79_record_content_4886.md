@@ -21,6 +21,7 @@ topics:
 - road
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road. The two roads to the east are nearing completion. The Redruth one has all bridges, culverts and cuttings complete and the Kooringa-Nankivell’s Gully road is being finished. This will make a pleasant loop drive from Kooringa to Redruth or vice versa.

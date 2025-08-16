@@ -30,6 +30,7 @@ topics:
 - government
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Dawson said the objects of the meeting were altogether unclear and he moved it adjourn for a week so that the objectives could be made clear to those coming a distance to attend.

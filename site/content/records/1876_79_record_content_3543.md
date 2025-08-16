@@ -21,6 +21,7 @@ topics:
 - appointment
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Mr C. Lowe resigns as Town Clerk and is replaced by F.W. Holder.

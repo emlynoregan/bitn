@@ -21,6 +21,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Burra Christy Minstrels performed at the Institute on 16 Oct. in aid of the Indian Famine and received many encores. Raised £20.

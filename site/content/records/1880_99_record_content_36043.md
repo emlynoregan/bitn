@@ -23,6 +23,7 @@ topics:
 - elections
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘An Elector’ writes accusing W.R. Ridgway, at a political meeting at Saddleworth, of saying Mr Holder was inconsistent and a turncoat and that he denied Mr Ridgway any privilege through the columns of the Burra Record.  But, he says, he had not heard Mr Ridgway say any of these things when Mr Holder had been present at two other meetings, when Mr Ridgway appeared to be running in harmony with him.  He also suggests that voters might like to consider the benefits to the town of having two members of like minds.

@@ -20,6 +20,7 @@ topics:
 - community
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guy Fawkes Night passed off in good style and large fires were to be seen all over the hills as old Guy burnt to ashes.  No significant injuries were reported.

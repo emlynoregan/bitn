@@ -20,6 +20,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Splane has started business in Kooringa as a Bootmaker.  He was a Burra resident many years ago.

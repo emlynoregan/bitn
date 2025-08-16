@@ -20,6 +20,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H. Howitt has now returned from 12 months leave of absence [during which he went to England].  He preached at St Mary’s last Sunday and was welcomed back at a tea in the Institute on Monday.

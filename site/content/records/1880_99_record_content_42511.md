@@ -21,6 +21,7 @@ topics:
 - business
 - agency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  F.W. Holder: Companies’ and General Agent, All Land, Office & Other Selectors’ Agency Work.  AMP Buildings, Adelaide.

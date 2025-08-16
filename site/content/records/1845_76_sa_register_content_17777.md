@@ -22,6 +22,7 @@ topics:
 - sheep farming
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 H.B. writes re the want of rain and challenging the view of some that squatters have made large fortunes:

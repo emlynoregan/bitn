@@ -21,6 +21,7 @@ topics:
 - community
 - leisure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Holidays have come and gone, but the toy trumpets in particular seem to have come to stay, unfortunately.  The main activities locally were picnicking and fishing.

@@ -20,6 +20,7 @@ topics:
 - advertisement
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to Editor protesting the circulation in the town of ‘somewhat shady quack advertisements’.

@@ -18,6 +18,7 @@ topics:
 - transport
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Railway Fares, from 1 September.  Return tickets will cost a fare and a half and excursion tickets on Saturdays and special occasions will provide returns for single fare price.

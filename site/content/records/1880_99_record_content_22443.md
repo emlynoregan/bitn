@@ -18,6 +18,7 @@ topics:
 - mining
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mining on Private Property Bill.  A Bill was introduced to allow mining for ‘royal metals’ on private property.

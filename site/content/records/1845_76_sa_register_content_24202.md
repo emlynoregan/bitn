@@ -23,6 +23,7 @@ topics:
 - mining
 - prospects
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Gold-field.  Prospects seem to be improving.  Though returns are not large, regular parcels of gold are despatched by the storekeeper there.  Four or five parties of men are at work – in all about 20 diggers.

@@ -17,6 +17,7 @@ topics:
 - hospital
 - cost
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The cost per bed per year per patient was £55-0-5½

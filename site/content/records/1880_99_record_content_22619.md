@@ -20,6 +20,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stone throwing in Kooringa almost cost a child called Rogers an eye last week.

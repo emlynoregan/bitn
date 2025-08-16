@@ -22,6 +22,7 @@ topics:
 - church
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School Picnic and Festival was held Wednesday 3 October with a special service on Sunday.  The picnic was at Koonoona, courtesy of Mr Sandland.  There was dinner of ham sandwiches, sausage rolls, jam tarts and gallons of tea and milk, before sports.  Afterwards there was more tea and cakes, which were disposed of rather hurriedly as a storm threatened, but all reached home before it broke.

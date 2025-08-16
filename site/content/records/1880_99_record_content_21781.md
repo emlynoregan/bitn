@@ -22,6 +22,7 @@ topics:
 - irrigation
 - reservoir
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A correspondent disagrees with proposals to make the RVF more professional and inveighs against accepting C.C. Kingston into decent society:

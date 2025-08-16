@@ -19,6 +19,7 @@ topics:
 - strike
 - industrial relations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Affairs at Broken Hill, where there was a strike that was brought about when the directors broke an agreement.

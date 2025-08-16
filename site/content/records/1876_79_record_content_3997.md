@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway will be opened today, not on the 15th as previously announced. This upsets plans already made and so does the wet weather. The Commissioner of Public Works will arrive by special train and will leave for Hallett at 11 a.m. In the future the morning train from Adelaide will continue to Hallett and the return train will depart there at 3.45 p.m.

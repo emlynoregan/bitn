@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. F. Gebhardt of Kooringa fractured his arm on Sunday morning when thrown from his cart near Booborowie.

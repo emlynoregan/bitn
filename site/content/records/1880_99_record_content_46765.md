@@ -26,6 +26,7 @@ topics:
 - licence
 - irrigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor reported waiting on the Treasurer re the Bon Accord crossing.  The latter will consider the matter on receiving the memorials being prepared.  The Commissioner of Crown Lands replied similarly about the Baldina Irrigation Scheme.

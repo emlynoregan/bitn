@@ -21,6 +21,7 @@ topics:
 - church
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.S. Wayland has been offered the combined parishes of St Paul’s, Pt Pirie; At Silas’s, Crystal Brook and St Clement’s, Pt Germein.

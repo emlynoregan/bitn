@@ -20,6 +20,7 @@ topics:
 - government
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Vice-Regal assent has been given to the Municipal Corporations Amendment Bill which validates the council assessment and rates.

@@ -21,6 +21,7 @@ topics:
 - trees
 - municipal services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  ‘Treeguard’ writes complaining that the Council is not watering its street trees, nor those at the Recreation Ground and the latter must grow before there can be any increase in revenue from it.

@@ -32,6 +32,7 @@ topics:
 - government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks Meeting.  There was a very large attendance at the meeting at the Institute on Friday 12 October to consider the Government and the Waterworks.  The Mayor, P.L. Killicoat, presided.

@@ -30,6 +30,7 @@ topics:
 - railway
 - obstruction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson then tried to speak, but was halted by the Mayor, even after pointing out that others had been allowed to speak two or three times without there being a motion before the chair.

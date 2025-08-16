@@ -24,6 +24,7 @@ topics:
 - conservation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich on water conservation in favour of smaller schemes in arid areas, such as on the Burra, Newikie and Baldina Creeks rather than one or two large schemes such as the Barossa or Beetaloo dams.

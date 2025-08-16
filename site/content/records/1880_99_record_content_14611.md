@@ -22,6 +22,7 @@ topics:
 - community
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.C.W. Fuss writes in reply to Carl Oppermann’s letter.  He objects to the personal way in which Mr Oppermann has taken the whole matter.  His argument was not with Mr Oppermann, but with the committee.  He did not blame the judges, but the committee for upholding the decision of the judges when ‘they must have known that the judges had made a mistake, or they did not know what different varieties means: if not, I pity them’.

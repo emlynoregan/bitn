@@ -25,6 +25,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Institute Committee provided a free concert on 15 November.  Mr Vale from Adelaide gave some excellent readings.  Songs were given by Messrs Moody, Vale and Belcher and Mrs Oakford accompanied on the piano.

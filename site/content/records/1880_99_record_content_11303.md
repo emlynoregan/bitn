@@ -18,6 +18,7 @@ topics:
 - health
 - sanitary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Local Board of Health has continued scavenging and inspection and the town is in a good sanitary condition.

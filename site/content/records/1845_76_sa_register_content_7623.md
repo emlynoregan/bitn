@@ -20,6 +20,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Church at Kooringa.  An effort is being made to raise funds for a church at Kooringa to be called St Mary’s.  Divine service has so far been held in the schoolroom.

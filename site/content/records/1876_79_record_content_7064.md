@@ -19,6 +19,7 @@ topics:
 - legislation
 - public notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Notice re the new Rabbit Suppression Act of 1879 which received assent on 2 September. [Not only were rabbits to be killed, but anyone introducing or freeing rabbits to a part of SA could, under clause 26, be fined up to £100.

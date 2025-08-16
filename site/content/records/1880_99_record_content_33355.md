@@ -22,6 +22,7 @@ topics:
 - benefit
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Skating Rink.  Mr H. Cowan is compelled by ill health to resign his management of the Provincial Elite Skating Rink.  There will be a farewell benefit Grand Fancy & Evening Dress Carnival, including a Frog Race, Boys’ Race, Beginners’ Race etc.  Davey’s Brass Band will attend.

@@ -19,6 +19,7 @@ topics:
 - water
 - footpath
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Important watertabling and footpath work has been undertaken in Commercial St.

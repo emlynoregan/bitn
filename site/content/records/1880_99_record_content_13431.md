@@ -21,6 +21,7 @@ topics:
 - tender
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Quondong Mail.  Tenders have been called in the last Government Gazette for a mail service from Kooringa to Quondong with an alternative of Thistlebeds to Quondong.

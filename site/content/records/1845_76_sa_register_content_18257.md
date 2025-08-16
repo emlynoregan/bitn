@@ -23,6 +23,7 @@ topics:
 - livestock
 - squatters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 J. Rounsevell writes from Kapunda 13 February.

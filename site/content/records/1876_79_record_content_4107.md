@@ -18,6 +18,7 @@ topics:
 - meeting
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Agricultural Society to meet 2 p.m. Wednesday next.

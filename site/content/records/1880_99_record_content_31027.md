@@ -20,6 +20,7 @@ topics:
 - editorial
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Smaller advertisements.  Stock sales and market reports.  Local entertainments and public notices.  Editorials and short items of local news.  There is a column headed ‘Items’ which begins with very short items and goes on to slightly longer ones.  Some are local, but much of it is not.  The shortest items are sometimes enigmatic.  Some letters to the editor.

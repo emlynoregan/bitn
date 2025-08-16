@@ -21,6 +21,7 @@ topics:
 - meeting
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 General Temperance Society.  About 30 persons attended the meeting at the Institute last Thursday to form the General Temperance Society.  Three groups of members were admitted.

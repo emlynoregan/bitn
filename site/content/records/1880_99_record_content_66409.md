@@ -17,6 +17,7 @@ topics:
 - fundraising
 - benefit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Benefit Concert on Wednesday last raised £5-0-3 for the Bundaleer Fund, comprising £3-10-0 from the door and £1-10-0 from the Band of Hope.

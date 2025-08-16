@@ -18,6 +18,7 @@ topics:
 - waterworks
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government has agreed to extend the Waterworks lease [for 3 months?] on the condition that the amount of £249-0-9, now owed, be paid.  This was agreed to.

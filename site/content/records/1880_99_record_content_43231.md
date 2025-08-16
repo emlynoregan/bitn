@@ -23,6 +23,7 @@ topics:
 - roads
 - tree planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson would run against Hardy in the East Ward.  He favoured pitch-paving and keeping roads in repair, but thought tree planting overdone.

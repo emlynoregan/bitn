@@ -20,6 +20,7 @@ topics:
 - land sale
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie East will be sold next Tuesday.  [i.e. the blocks surveyed east of the railway line]  It abuts the Government blocks and is opposite the large dam and within 10 chains of the station.

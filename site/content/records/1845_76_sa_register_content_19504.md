@@ -18,6 +18,7 @@ topics:
 - livestock
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Beautiful soaking rains have fallen lately.  Many lambs are dying through the wet.

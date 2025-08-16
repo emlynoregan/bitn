@@ -19,6 +19,7 @@ topics:
 - picnic
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School picnic was held on Wednesday last at Koonoona.

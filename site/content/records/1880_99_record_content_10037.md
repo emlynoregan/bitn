@@ -23,6 +23,7 @@ topics:
 - court
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  J. Rooney, tried to sue T.T. Shortridge and A. Fordham for hissing his performance at the entertainment after the Oddfellows’ sports, on the grounds that it was of such a nature as was likely to cause a breach of the peace, but the case was dismissed without costs.

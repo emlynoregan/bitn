@@ -19,6 +19,7 @@ topics:
 - circus
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wirth’s Circus visited on Thursday and Friday last and drew a large audience on Thursday, but a poorer one on Friday due to very bad weather.  The program was very long, but much enjoyed.  The five-horse acts, bareback riding, clowns, aerial act and royal pantomime were especially commented upon.

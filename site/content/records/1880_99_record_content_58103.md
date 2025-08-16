@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wattle Blossom Fait was a great success.  £70 was raised to meet the instalment of £40 due to the Redruth Wesleyan Trust Fund.

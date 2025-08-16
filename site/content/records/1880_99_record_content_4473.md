@@ -20,6 +20,7 @@ topics:
 - dispute
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Ford sued Mr Watkins for abusive language over her cows allegedly breaking down his fence, but abuse seems to have broken out on both sides and the case was dismissed.

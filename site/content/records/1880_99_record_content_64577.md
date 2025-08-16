@@ -21,6 +21,7 @@ topics:
 - animal welfare
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison Baits are again being laid around town.  Mr George Jordan has lost a cat and a valuable sheep dog.

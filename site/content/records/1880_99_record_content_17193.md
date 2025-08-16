@@ -20,6 +20,7 @@ topics:
 - war
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War News.  Peace seems a little more likely, but the defences of the colonies are all being set in order.

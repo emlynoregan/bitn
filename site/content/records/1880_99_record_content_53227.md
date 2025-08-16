@@ -24,6 +24,7 @@ topics:
 - sale
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.H. Birt has, after 35 years, sold his cordial manufacturing business to Mrs Humphris and left the district.  He came to Burra as a boy and was connected with the Kooringa and Redruth Primitive Methodist Churches for many years.  He will live in Adelaide.

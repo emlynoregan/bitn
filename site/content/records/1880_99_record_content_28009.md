@@ -21,6 +21,7 @@ topics:
 - crown lands
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crown Lands have agreed to a road opposite Butterworth’s Mill on the condition that the Government have the power to revoke the same if the land is required for railway purposes.

@@ -22,6 +22,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  On 10 April at the residence of his sister at Richmond near Melbourne Henry Peacock died aged 35.  He was the second son of the Hon. W. Peacock of Adelaide.  [Arrived SA in 1838 on the Glenavlon.]

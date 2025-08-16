@@ -22,6 +22,7 @@ topics:
 - gift
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C. Jobson, lately in charge of the Burra Waterworks, was very interested in cricket and has presented the Aberdeen Cricket Club with a very handsome Lillywhite bat.

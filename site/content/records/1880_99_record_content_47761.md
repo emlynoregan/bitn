@@ -18,6 +18,7 @@ topics:
 - alcohol
 - Sunday trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Abstainer’ writes complaining that a ‘nice little trade’ is being done in beer on Sundays and urges it be put down by taking a strong hand.

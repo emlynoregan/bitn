@@ -18,6 +18,7 @@ topics:
 - legislation
 - corporations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on aspects of the Corporations Bill in the Legislative Council.

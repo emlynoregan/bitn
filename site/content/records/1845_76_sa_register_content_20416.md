@@ -18,6 +18,7 @@ topics:
 - railway
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Out of work miners are finding work on Government roads and the railway construction.  The lambing season is also creating jobs.

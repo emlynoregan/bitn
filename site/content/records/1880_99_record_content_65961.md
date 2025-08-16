@@ -20,6 +20,7 @@ topics:
 - horse racing
 - cycling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Patrick’s Day last Friday saw Athletic, Horse Racing, and Cycling events at Farrell’s Flat.  It was a good day with very fair attendance.

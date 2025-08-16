@@ -22,6 +22,7 @@ topics:
 - banking
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr G.B. Hall, manager of the Bank of Australasia in Kooringa has been promoted to manage the branch at Latrobe in Tasmania.

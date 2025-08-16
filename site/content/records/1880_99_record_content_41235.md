@@ -24,6 +24,7 @@ topics:
 - female franchise
 - eight-hour bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Berry: The L. Council needed reforming - its nine-year term was too long.  6 years would be enough.  Qualification to vote should be reduced to £12 or £15 p.a.  Property was over represented.  He was a protectionist and believed in encouraging closer settlement in rural areas and the redistribution of unused land.  He was for the present land tax, probate and succession duties and free and compulsory education to the present standard.  Also for local option, female franchise and the 8-hour Bill.

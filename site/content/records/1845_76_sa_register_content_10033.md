@@ -22,6 +22,7 @@ topics:
 - transport
 - economics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Proposed Railway to the Murray.  A letter to the Editor from Charles Simeon Hare.

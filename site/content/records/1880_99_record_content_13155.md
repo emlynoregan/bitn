@@ -22,6 +22,7 @@ topics:
 - club meeting
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra Football Club met on 6 May at the Commercial Hotel and the meeting was well attended.  E.F. Brady was elected Captain & G. Parks Vice-Captain.

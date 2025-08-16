@@ -19,6 +19,7 @@ topics:
 - photo
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of the portrait with the caretaker of the cottages, Brian Bevan.]

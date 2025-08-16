@@ -19,6 +19,7 @@ topics:
 - earthquake
 - natural disaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Earthquake was felt in Burra on Wednesday 29 September at 4.00 a.m.  There was moderate shaking, but no mention of damage.

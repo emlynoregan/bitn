@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth.  To Mrs M. Symons on 6 August, a son.  [William]

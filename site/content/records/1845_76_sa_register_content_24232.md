@@ -21,6 +21,7 @@ topics:
 - event
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Kooringa] Masonic Lodge.  A Masonic Ball was held at the Burra Hotel on Tuesday evening.  Guests came from Clare and Adelaide and other places and a band from Adelaide was obtained.  The room was decorated with evergreens, paperhangings, flags etc.  Dancing continued to dawn.  Nearly 100 people attended.

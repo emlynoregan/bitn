@@ -24,6 +24,7 @@ topics:
 - building
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  A contract has been concluded with Mr Fuss [Probably Charles Fuss of C & A Fuss] for converting the former bar of the old Burra Hotel and the adjoining rooms into a new ward.  The tender was for £60, but with ongoing alterations the final cost is expected to be c. £100.  Increasing arrivals from the north are causing the need for more room.

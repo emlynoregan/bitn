@@ -19,6 +19,7 @@ topics:
 - literature
 - unfinished
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sam Wilson’s Three Visits began on 13 December and then remained unfinished at year’s end.

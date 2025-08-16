@@ -20,6 +20,7 @@ topics:
 - construction
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  It is expected that the erection of the machinery at the slagheap will soon begin and take some two months to complete.

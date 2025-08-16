@@ -20,6 +20,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Wesleyan Sunday School Anniversary on 7 & 10 April.  Mr Burns of Kooringa preached to good congregations.

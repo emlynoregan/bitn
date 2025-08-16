@@ -17,6 +17,7 @@ topics:
 - publication
 - issue reference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 I, 4 (5), 28 July 1876, page 3 [The number of the issue is hand corrected to 5 on the microfilm.]

@@ -22,6 +22,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Browne of the Booborowie Estate have donated £50 to the Booborowie Wesleyan Church.  Some time ago they said that when half the debt then existing was paid off they would donate the other moiety.  The conditions having now been met, the cheque has been handed over.

@@ -20,6 +20,7 @@ topics:
 - bridge
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Platform for ‘Iron Bowstring’ Bridge for the River Light (to be imported from England): £4,200.

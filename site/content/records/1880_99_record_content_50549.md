@@ -19,6 +19,7 @@ topics:
 - municipal association
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Cr Walsh’s move last meeting to have the Municipal Assoc. meet in different locations rather than only in Adelaide for its meeting two or three times a year.  Only 8 country and 11 city councils are members.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - school term
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Second Term at Burra High School, Frances McLagan, Principal, will begin on Monday 10 April.

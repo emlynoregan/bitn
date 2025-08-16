@@ -18,6 +18,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sparks’ column says Mr Fang Sang’s sale will start on 3 April at 2.30 o’clock.

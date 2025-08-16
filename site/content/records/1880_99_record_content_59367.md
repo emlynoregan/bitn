@@ -19,6 +19,7 @@ topics:
 - entertainment
 - military sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Entertainment at Burra Institute 19 February in Connection with the Military Sports.

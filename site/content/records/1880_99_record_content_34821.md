@@ -24,6 +24,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Sunday School Anniversary 22 December, continued 25 December.  Rev. J.H. Ashton, Rev. T.M. Rowe & Rev. S. Gray preached on 22 December.  The Christmas Day children’s treat provided them with tea, cakes, tarts, sandwiches, etc.  Wheatley’s Band attended.  The public meeting revealed there were over 100 students and 15 teachers.  Proceeds exceeded £17.

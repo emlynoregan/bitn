@@ -21,6 +21,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  There is a long article on the school.  Mr Wittber, the Headmaster encourages visitors.  The school is well run and the teaching efficient and effective.  The staff use maps, diagrams, charts, pictures, and other educational appliances and practical aids.  Besides Mr Wittber, and Miss Snell in the infant department, there are only three assistants with two pupil teachers and monitors.

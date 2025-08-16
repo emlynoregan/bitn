@@ -20,6 +20,7 @@ topics:
 - event
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stony Gap Primitive Methodist Church held its Harvest Festival on 7 February when Mr Holder preached.

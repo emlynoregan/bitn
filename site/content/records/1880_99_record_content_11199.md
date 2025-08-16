@@ -22,6 +22,7 @@ topics:
 - performance
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute 13 November Wilford Branscombe’s Great Entertainment.  ‘People we Meet’; Little Lillie, child elocutionist and vocalist; Fred Rollin, Dutch, Irish and Negro delineator.  3/-, 2/- & 1/-

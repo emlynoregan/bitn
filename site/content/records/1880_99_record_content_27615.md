@@ -18,6 +18,7 @@ topics:
 - public holiday
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 26 January has been proclaimed a public holiday in celebration of Australian settlement.

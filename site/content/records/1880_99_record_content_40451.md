@@ -21,6 +21,7 @@ topics:
 - local government
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Watt then moved that at the next Council meeting Cr Rabbich be asked to explain why he took such steps.

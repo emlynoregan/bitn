@@ -19,6 +19,7 @@ topics:
 - election
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election material from W.R. Ridgway and the continuation of a series ‘An Innocent Abroad’, being notes on a visit to NZ.

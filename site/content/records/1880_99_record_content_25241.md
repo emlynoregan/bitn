@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy addresses the same concerns.  His solution is to support both.  He suggests that there be a series of entertainments to benefit locals in need and a subscription list and a Jubilee Dinner for say 200 of our poor residents.

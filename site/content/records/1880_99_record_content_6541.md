@@ -19,6 +19,7 @@ topics:
 - prospectus
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Murphy’s Gold Mine prospectus has been withdrawn due to lack of interest.

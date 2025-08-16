@@ -21,6 +21,7 @@ topics:
 - death
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Hon. P.P. Gillen MP for Stanley and Commissioner for Crown Lands died suddenly in Cabinet on 22 September.  [Peter Paul Gillen died 22 September 1896 aged 38.]

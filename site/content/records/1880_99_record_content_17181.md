@@ -22,6 +22,7 @@ topics:
 - farewell
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church tea meeting, 8 April, to farewell Rev. J.G. Wright.

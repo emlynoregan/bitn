@@ -20,6 +20,7 @@ topics:
 - transport
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The harvest has now commenced in earnest and large quantities are passing through the town.  Wool carting has not yet finished, with several loads here at present in transit for Kapunda and Adelaide.  Business remains slow.

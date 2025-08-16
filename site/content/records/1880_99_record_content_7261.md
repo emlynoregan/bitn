@@ -31,6 +31,7 @@ topics:
 - alcohol
 - Aboriginal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  An Aboriginal named Jimmy Wonga died at Burra Hospital as a result of burns received near Yatina.  He deposed while dying that he had got drunk on brandy and had fallen into a fire without noticing it and on Sunday he couldn’t walk.  He additionally deposed that Mr James of Mannanarie had given him one bottle of rum and Forrest a bottle of brandy at the same time and place.

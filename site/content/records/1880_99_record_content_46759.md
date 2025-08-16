@@ -20,6 +20,7 @@ topics:
 - fundraising
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church anniversary on 18 & 19 September was very successful.  The total interest bearing debt at present is £130 and it was hoped to be able to pay it off this year and while subscriptions are yet to be finalised it is confidently expected that this aim will be realised.

@@ -21,6 +21,7 @@ topics:
 - football
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  First match of the season at the Burra Oval on Monday 25 May.

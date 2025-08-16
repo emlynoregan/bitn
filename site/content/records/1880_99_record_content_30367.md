@@ -33,6 +33,7 @@ topics:
 - society
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Soc.  The meeting last Monday was poorly attended.  For the coming year those elected were:

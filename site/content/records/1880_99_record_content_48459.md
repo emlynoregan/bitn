@@ -19,6 +19,7 @@ topics:
 - politics
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader is a response to the Mayor’s report printed on page 3.  The editor points out that contrary to the Mayor’s ruling his report can be accepted or rejected, either in whole or in part, by the Council.  His ruling such motions out of order was itself wrong.

@@ -21,6 +21,7 @@ topics:
 - business
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Before bidding started the first three named came to an arrangement.  This gave the SA Mining Association first choice and then the next two amalgamated under the name of the Royal Mining Co.  It is not expected that the SA Mining Association will immediately begin any serious operations on its acquisitions at the Emu Plains, but the Royal Mining Co. is expected to begin vigorous operations on its lands.  There is every reason to believe that the mineral wealth of this district will be abundantly realised.

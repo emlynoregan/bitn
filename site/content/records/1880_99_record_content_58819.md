@@ -20,6 +20,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dr Sangster will give a lecture in St Mary’s Schoolroom on 18 December at 7.30 p.m. in aid of the School Building Fund on the subject: Reminiscences of a Visit to England.

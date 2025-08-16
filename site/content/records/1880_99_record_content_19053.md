@@ -19,6 +19,7 @@ topics:
 - livestock
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston & Shakes will offer 19,850 sheep on 4 September. [But see next issue also.]

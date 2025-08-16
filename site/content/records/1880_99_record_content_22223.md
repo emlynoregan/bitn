@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Elizabeth Jane Pearce née Treglohan, wife of Joseph Pearce, aged 51, a colonist of 32 years has died.  [10 May.]

@@ -21,6 +21,7 @@ topics:
 - politics
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Discussing Kanaka labour in Queensland and a proposal for Indian labourers in the Northern Territory.

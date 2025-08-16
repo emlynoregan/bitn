@@ -19,6 +19,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Hardy will not challenge the election result, but expresses regret that informalities were allowed to occur.

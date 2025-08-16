@@ -19,6 +19,7 @@ topics:
 - diggings
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Barrier ranges continue to attract many persons.  It seems the diggings are not where they were first reported to be.  One thing is sure – none of the parties have yet returned.

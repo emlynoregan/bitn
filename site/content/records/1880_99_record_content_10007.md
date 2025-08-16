@@ -28,6 +28,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Oddfellows’ demonstration yesterday came off well in every way and though the morning was rather cold and moist the afternoon was delightful.  The evening entertainment was also very well attended.  Mr Lester, the ventriloquist, greatly pleased the audience and the Amateur Dramatic Society did well.  About 40 gathered between 9 & 10 o’clock and marched to the hospital from where wagons and trollies took them to the ground about six miles from town.  The distance did however, result in only a moderate attendance of the public.

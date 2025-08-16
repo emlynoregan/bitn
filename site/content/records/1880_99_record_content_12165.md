@@ -21,6 +21,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  T. Duell of World’s End died on 22 January.  He was a colonist of c. 46 years.

@@ -25,6 +25,7 @@ topics:
 - mines
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Alfred Jenkin & Son write to the editor re a visit to the Mines of SA.  (Dated 7 March 1862.)

@@ -23,6 +23,7 @@ topics:
 - football
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  At a meeting at the Commercial Hotel of the Burra Football Club, Captain J. Blott resigned for lack of time and was replaced by Mr W. Fitzgerald.  A team was picked to play the Hothams [an Adelaide team] on 21 June.

@@ -21,6 +21,7 @@ topics:
 - politics
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Observer’ writes asking for locals to stand for the local Parliamentary seat rather than allowing Messrs Rounsevell and Ward to represent them.  W.R. Ridgway made a good showing last time.

@@ -18,6 +18,7 @@ topics:
 - Sunday closing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Local Option Poll.  The writer is generally in favour of Sunday closing if it is right across the town and not just in one or two wards.

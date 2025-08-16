@@ -19,6 +19,7 @@ topics:
 - theatre
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Taylor Carrimgton Co.’s appearance at the Institute on Friday in the Irish Drama Home Rule is reported at length.  The scenery is said to have cost £200.  The packed house much admired the sets and scenery and the whole was very favourably received and reported.

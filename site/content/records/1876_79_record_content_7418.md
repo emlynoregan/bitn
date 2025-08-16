@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Govt. has indicated that there will be no payment made on some of the work done on the new bridge. Further application will be made.

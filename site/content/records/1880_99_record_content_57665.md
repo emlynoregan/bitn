@@ -19,6 +19,7 @@ topics:
 - travel
 - wreck
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 30,000 miles by land and sea, wreck of the Wairarapa etc.

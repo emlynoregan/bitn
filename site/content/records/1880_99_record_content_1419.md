@@ -22,6 +22,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  24 July, Thomas Kellaway, 2nd son of William Kellaway & Ellen, eldest daughter of William Reynolds of Kooringa.

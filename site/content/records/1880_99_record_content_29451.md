@@ -22,6 +22,7 @@ topics:
 - management
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It has collapsed because (a) a free well was supplied in Market Square; (b) the Government charged what it liked rather than the true cost of construction.

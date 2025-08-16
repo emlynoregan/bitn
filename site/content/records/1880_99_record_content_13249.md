@@ -25,6 +25,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The Recreation Ground.  About two years ago the Town Council obtained the promise of 7 acres of land from SAMA for use as a recreation ground.  The terms were that the Council enclose the land and plant the ground within two years and on completion the ground would be conveyed to the Council.  Ratepayers approved a loan of £500 and a further £200 more has been spent on levelling, tree planting etc.  Several hundred trees are now doing well and the central oval has been planted.  The trust deed is now being prepared.  The question is whether it must always be open to any member of the public free and on this depends the provision of further facilities such as a pavilion etc.  If no income can be derived the Council would not be at all justified in expending more money on it than is needed to maintain the oval etc.  Council has long decided that any clubs could use the ground for half the gate.

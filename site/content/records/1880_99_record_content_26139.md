@@ -18,6 +18,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor’s Fund has now reached £127-4-6, but the sum required has also been revised up to £150.  [The target at the start had been £70!]  The recent entertainment had raised £9-1-3.

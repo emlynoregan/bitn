@@ -23,6 +23,7 @@ topics:
 - postal service
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Latest from the Bathurst Goldfield

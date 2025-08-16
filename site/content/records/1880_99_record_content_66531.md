@@ -20,6 +20,7 @@ topics:
 - lecture
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. E.T. Cox gave a 1½ hour talk on ‘Charles Kingsley’ at the Wesleyan Lecture Hall on Friday night.

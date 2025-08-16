@@ -23,6 +23,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church Anniversary on Sunday with Rev. A.J. Finch who preached three excellent sermons.  Tea meeting on Monday at which Rev. Finch spoke on Four Years’ Work in London Slums.

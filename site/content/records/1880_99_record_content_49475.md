@@ -23,6 +23,7 @@ topics:
 - military
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  On Good Friday at the Burra Range Adelaide Co. 3rd Regiment beat Burra Mounted Rifles by 115.  Burra Mounted Rifles beat the Militia Band by 24

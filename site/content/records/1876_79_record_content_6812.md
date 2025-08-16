@@ -20,6 +20,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Lecture at the Burra Institute by Rev. S. Green on 'Uguesagen' in aid of the Institute on 4 August.

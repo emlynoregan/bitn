@@ -21,6 +21,7 @@ topics:
 - inquest
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  An inquest was held at Redruth Gaol on Saturday afternoon on the body of William Creighton aged 65.  [Registered as dying 20 October 1891 aged 66.]

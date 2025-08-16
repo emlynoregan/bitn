@@ -19,6 +19,7 @@ topics:
 - health
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A. Watt has been laid up with typhoid and rheumatic fever for nine weeks and was critically ill.  He is now slowly recovering.

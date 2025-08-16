@@ -30,6 +30,7 @@ topics:
 - dissolution
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder then spoke.  The policy of the Progressive Land Tax had been unanimously adopted on the hustings.  It has been said that there was never a majority in the House in favour, but they had 23 and if Messrs Gould, McDonald and Bartlett had been in their places they would have had 26.  Also at the time Grayson, Kingston, Stock and Sir J.C. Bray had announced themselves in favour with some qualifications, so even then there was a majority in favour of a Progressive Land Tax scheme.  This justifies the action taken about the dissolution of the House.  The way the measure was thrown out was only a party move to get rid of the Government.  The split was that Kingston, Bray, Grayson and Stock would support the Progressive Land Tax if it exempted city lands.  Had the Bill been allowed to be discussed no doubt it would have been somewhat amended and then accepted by the House.  The rejection only strengthened its supporters’ hands in the future.  The Progressive Land Tax was not a dead issue.

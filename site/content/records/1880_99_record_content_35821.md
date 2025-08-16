@@ -22,6 +22,7 @@ topics:
 - council
 - hotel closing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letters from ‘A Councillor’, ‘Councillor J.A. Watt’ and ‘No Phool’ support the Councillors’ stand on the action of the Mayor with respect to hotel closing.

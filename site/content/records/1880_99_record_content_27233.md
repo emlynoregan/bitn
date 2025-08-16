@@ -18,6 +18,7 @@ topics:
 - sale
 - departure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Crewes is selling his household effects as he is leaving the colony.

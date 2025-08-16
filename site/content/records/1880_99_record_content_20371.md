@@ -23,6 +23,7 @@ topics:
 - council
 - public safety equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H.H. [Hardy] to say that after the fire at J.T. Walkers he had written that a fire hose etc. ought to be left at the police stations at either end of the town - now Mr Harvey’s shop has been destroyed and all that was available were buckets.  The Council ought to see to it even at the cost of 1d on the rates.

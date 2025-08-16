@@ -21,6 +21,7 @@ topics:
 - anniversary
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Church Anniversary - Rev. G.W. Patchell reports membership at 193 and Sabbath School scholars at 737 (up 178 on previous year.) The church had obtained a 999 year lease at a peppercorn rent.

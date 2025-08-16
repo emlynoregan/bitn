@@ -23,6 +23,7 @@ topics:
 - business
 - local economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Record. By the next issue The Record will have moved to the store next to Drew & Co. in Market Squ. Known as Stansbury’s and with new machinery etc. hope to give better service for any class of general or ornamental printing.

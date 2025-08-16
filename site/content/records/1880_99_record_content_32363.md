@@ -20,6 +20,7 @@ topics:
 - fundraising
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  A company of local Christy Minstrels will perform at the Institute in aid of St Joseph’s School on Friday.

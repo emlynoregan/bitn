@@ -21,6 +21,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  Several men are still working the goldfield.  Large quantities of goods are being forwarded to the Albert Goldfields.  [Apparently due to the low level of the river - the Darling, presumably.]

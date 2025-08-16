@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Railway.  We understand the line will be completed and available for traffic up to the terminus at Redruth by the 15 August.  Any formal opening will probably be postponed until the Burra Mine is again in working order.

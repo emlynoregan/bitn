@@ -19,6 +19,7 @@ topics:
 - travel
 - household
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tea + The Chiffoniers of Paris at Home

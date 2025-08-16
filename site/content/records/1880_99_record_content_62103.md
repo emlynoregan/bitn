@@ -20,6 +20,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.R. Good MP for this district has accepted a position as manager of the Canowie Estate.

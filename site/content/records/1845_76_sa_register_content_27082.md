@@ -28,6 +28,7 @@ topics:
 - coaches
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  James G. Terry announces that he has purchased the North-East Line of coaches from Mr M. Terry.

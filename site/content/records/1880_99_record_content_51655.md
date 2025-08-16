@@ -19,6 +19,7 @@ topics:
 - music
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. St Mary’s Grand Concert, Friday night, 10 November.

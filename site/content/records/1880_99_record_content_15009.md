@@ -21,6 +21,7 @@ topics:
 - military
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 His remarks have provoked much dissension and a soldier writer says the Adelaide Rifles [i.e. the paid military force of the day] should be included in the strictures.  He says the officers are ignorant and can’t maintain discipline, and the whole force is little better than ‘an armed and well dressed mob’.  

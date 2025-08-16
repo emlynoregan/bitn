@@ -21,6 +21,7 @@ topics:
 - church
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council has decided not to pay half the cost of a new entrance for the Catholic Church.

@@ -19,6 +19,7 @@ topics:
 - hotel
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Bruse’s new hotel, which faces the principal street, will be two storeys high and an ornament to the locality. [The Commercial Hotel]

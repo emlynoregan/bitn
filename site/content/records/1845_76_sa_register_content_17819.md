@@ -20,6 +20,7 @@ topics:
 - law
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A lunatic presented himself at the Police Station on Sunday night, saying he was in bodily fear of his master who had offered a large reward to have him shot. He was taken before the Magistrate on Monday and ordered to Redruth Gaol to see what good a little seclusion would do him.

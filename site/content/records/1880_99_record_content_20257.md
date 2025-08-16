@@ -25,6 +25,7 @@ topics:
 - sale
 - maladministration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 We contend it is absolutely illegal to enclose portions of streets and reserves and to give any right or title to any person over any portion illegally enclosed.  The Council have no power to permit any person to occupy any portion of a street with or without rent.

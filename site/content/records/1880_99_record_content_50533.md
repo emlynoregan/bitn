@@ -27,6 +27,7 @@ topics:
 - near drowning
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Near Drowning.  Yesterday afternoon at quarter to five a son of Mr Charles Fuss, returning home from school, fell into the creek while attempting the ford near Roach’s Mill and began to float downstream.  He was rescued by a young man named Rosewall who jumped in fully clothed, having been going home with other young men from the quarries.  The lad was taken home by C. Grow.

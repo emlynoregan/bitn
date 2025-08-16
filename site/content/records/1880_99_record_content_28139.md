@@ -20,6 +20,7 @@ topics:
 - court
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Court: Seven people were each fined 5/- for owning cattle that had strayed in the town.

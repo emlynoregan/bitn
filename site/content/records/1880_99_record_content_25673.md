@@ -22,6 +22,7 @@ topics:
 - community
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mayor’s Fund Concert.  The first of the series was very successful on 2 June.  Mr J. Roach appeared as Mrs O’Rorman to create ‘some merriment’ while the school children conducted by Mr Wittber were another highlight.

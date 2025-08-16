@@ -24,6 +24,7 @@ topics:
 - meeting
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Home Missions annual meeting on Wednesday in Kooringa with Mr Holder presiding.  Income for the year was over £1,500.  Addresses were given by Rev. G.E. Rowe, Rev. S. Knight & Mr Chester.  There was a similar meeting in Redruth on Thursday.

@@ -29,6 +29,7 @@ topics:
 - refusal of service
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 21 October 1875, page 5

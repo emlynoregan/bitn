@@ -18,6 +18,7 @@ topics:
 - public safety
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fireworks.  A warning to boys letting off fireworks in a public place.  The penalty can be as high as six months imprisonment without the option of a fine.

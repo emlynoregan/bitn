@@ -21,6 +21,7 @@ topics:
 - referendum
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Referendum.  Overwhelming support for the continuation of King William St through Victoria Square in Adelaide.

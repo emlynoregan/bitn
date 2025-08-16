@@ -23,6 +23,7 @@ topics:
 - pest control
 - district
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vermin Proof Fencing District.  A meeting to form such a district was held last Friday in the Institute under P.L. Killicoat.  A committee was formed to define the area and decide on costs and a rate.  The committee has defined the area as the Hundred of Rees, part Hundred of King and Blocks 60 & 62 east of these and calls the next meeting on 5 May in the Institute.

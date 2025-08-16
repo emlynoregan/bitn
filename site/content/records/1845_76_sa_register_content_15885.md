@@ -27,6 +27,7 @@ topics:
 - mining
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SA Mining Association gives notice of an extraordinary general meeting of shareholders at the company’s office in Rundle Street on Wednesday 15 October to authorise the directors or any future Board of Directors to sell the following properties: Sections 5541, 5536 & 5539 County of Adelaide; Sections 2002, 2402, 244, 221, 202 & 261, County of Light; Section 2512 County of Gawler; Sections 2009,1966, 1967, 1969, 1970, 1971, 1972, 1973 & 1979 County of Stanley; Sections 2044, 2046, 2047, 2049, 2050, 2052,2061, 26 & 27 west and adjoining the Burra Survey.  By order of the Board of Directors.

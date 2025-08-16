@@ -21,6 +21,7 @@ topics:
 - football
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Clare team arrived last Monday in a Hill & Co. bus.  The game was played in a high wind with a little rain.  Burra 13.11 defeated Clare 0.1

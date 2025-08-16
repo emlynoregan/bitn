@@ -20,6 +20,7 @@ topics:
 - postal service
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mail. A fortnight ago an extra mail run was established between Kooringa and Redruth each day and from Monday last a morning mail delivery has been made in Kooringa.

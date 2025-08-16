@@ -33,6 +33,7 @@ topics:
 - election
 - assessment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson expressed concern about the possible reopening of the mine and urged a deferral of any decision.

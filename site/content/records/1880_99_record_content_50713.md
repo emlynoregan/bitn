@@ -23,6 +23,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Church Annual Dinner Wednesday 23 August.  Rev. J.G. Wright will preach 20 & 23 August as well as address the dinner.  The Burra Band will attend on Wednesday afternoon.  The newly appointed pastor H.J. Parkinson will welcome all.

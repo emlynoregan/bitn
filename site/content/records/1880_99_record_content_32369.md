@@ -19,6 +19,7 @@ topics:
 - regatta
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Terowie Regatta on 22 April attracted about 1,000 people to the water sports.

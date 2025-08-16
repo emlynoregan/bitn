@@ -27,6 +27,7 @@ topics:
 - service
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Visiting Preachers.  F.W. Holder will preach in the Wesleyan Church on Sunday morning and Rev. James Read from Adelaide in the evening.  Read will preach at Redruth in the morning and conduct a united service in the Kooringa Primitive Methodist Church in the afternoon.  There will be a public meeting in the Wesleyan Lecture Hall on Monday evening.

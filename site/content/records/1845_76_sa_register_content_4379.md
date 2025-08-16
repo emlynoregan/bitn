@@ -22,6 +22,7 @@ topics:
 - trial
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gottlieb Keirnall, of Kooringa was ordered to stand trial at the Criminal Sittings of the SA Supreme Court, beginning 11 March.

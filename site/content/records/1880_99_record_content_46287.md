@@ -22,6 +22,7 @@ topics:
 - health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Illness.  Inflammation of the lungs is prevalent at Mt Bryan and five children have been sent to the Burra Hospital including two from the Ullmann family which was so badly hit by influenza a few months ago.

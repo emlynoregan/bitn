@@ -18,6 +18,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Sunday-school, Hallett, anniversary on 15 & 16 September.

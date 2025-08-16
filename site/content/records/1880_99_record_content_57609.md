@@ -20,6 +20,7 @@ topics:
 - invention
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Thomas Warnes of Koomooloo has a newly patented machine capable of making and cutting up pollard baits for rabbits at the rate of 1,000 per minute.

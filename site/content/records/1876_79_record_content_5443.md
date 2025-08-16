@@ -19,6 +19,7 @@ topics:
 - event
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agricultural Machinery. There is a report of the annual trials of new reapers, winnowers etc. held near the Salisbury railway station.

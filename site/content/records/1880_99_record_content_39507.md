@@ -21,6 +21,7 @@ topics:
 - advertisements
 - medicine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Page 4 carried poetry, short stories, essays and other non-news items.  The year began with the paper carrying a serial here, but apparently significant numbers of readers bought only the Friday edition and so this was replaced by complete works.  There were also advertisements, especially for patent medicines.

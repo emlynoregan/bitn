@@ -20,6 +20,7 @@ topics:
 - sales
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Elder, Smith & Co. will soon offer in Burra a sale of 40,000 sheep and 2,000 cattle.

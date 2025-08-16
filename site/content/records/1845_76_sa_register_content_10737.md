@@ -23,6 +23,7 @@ topics:
 - finance
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Money orders of the English & Australian Copper Company after 27 July next will be paid only at the Branches of the South Australian Banking Company at Gawler Town and Port Adelaide.

@@ -19,6 +19,7 @@ topics:
 - injury
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A child recently fell down a new well at Redruth and broke both its legs, one of them in two places.  It also bruised its head.

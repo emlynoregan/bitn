@@ -22,6 +22,7 @@ topics:
 - military
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Quick March’ suggests that the RVF needs a good-sized drill shed of wood and iron to be erected on some cheap land from SAMA.  About £100 total cost should cover it and the musical sympathizers might raise the same with a few concerts and subscription lists.

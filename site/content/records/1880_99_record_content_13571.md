@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader calling on private enterprise to establish a tramway from the station (via Butterworth’s Mill to avoid the steep gradient in Morehead St).  The line could carry goods as well as passengers.

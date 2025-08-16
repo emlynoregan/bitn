@@ -18,6 +18,7 @@ topics:
 - public health
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water pollution.  Beware of contamination of water by the amount of grasshopper debris and sparrow filth in waterspouts etc.  Clean them out before harm results.

@@ -25,6 +25,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Seymour-Forde Opera Co. under the Management of Erskine Scott will present at the Burra Institute on Monday 6 January: Girofle Girofla and on Tuesday 7 January, Maritana.

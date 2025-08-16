@@ -21,6 +21,7 @@ topics:
 - sale
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sale at the Hillside woolshed, four miles north of Burra on 16 April, of surplus live and dead stock of Mt Bryan Station.

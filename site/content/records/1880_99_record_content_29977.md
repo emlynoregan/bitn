@@ -22,6 +22,7 @@ topics:
 - obituary
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sir Anthony Musgrave, Governor of Queensland and former Governor of SA died suddenly.  [Governor 9 June 1873-29 January 1877]

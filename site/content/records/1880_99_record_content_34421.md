@@ -18,6 +18,7 @@ topics:
 - theft
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thieves.  Petty thieves have been stealing and destroying plants.  R.D. Pascoe has lost valuable plants and others complain of losing sundry articles.

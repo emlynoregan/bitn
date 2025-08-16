@@ -28,6 +28,7 @@ topics:
 - medical staffing
 - wards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital board.  New Board: Mr Harvey was elected Chairman for the year, replacing Mr Sandland who had been Chairman for the last two years.  Report of two extra nurses appointed due to the large increase in typhoid patients.  Miss Nesbitt wrote thanking the Board for naming one of the new wards the Nesbitt Ward in honour of her late brother, because of his role in starting the hospital.  She would send a likeness of her brother to be hung in the ward.  Letter gratefully received.

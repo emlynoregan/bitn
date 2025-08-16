@@ -21,6 +21,7 @@ topics:
 - cricket
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Wednesday last at Burra Oval: Burra 185 defeated St Mary’s 110.  J. Drew scored 115 (retired) for Burra.

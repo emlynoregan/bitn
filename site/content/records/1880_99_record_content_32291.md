@@ -19,6 +19,7 @@ topics:
 - community
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the tour of the Premier to country areas and believing he should have been more seriously attacked for his position on protection and for failing to give seed wheat to needy farmers.  It should have been given in those places where success is possible.

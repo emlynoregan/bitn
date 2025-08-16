@@ -26,6 +26,7 @@ topics:
 - business
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  To Bullock Drivers.  Cartage between the Burra Copper Works and the Gawler terminus of the railway.

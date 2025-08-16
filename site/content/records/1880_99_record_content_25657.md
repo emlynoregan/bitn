@@ -20,6 +20,7 @@ topics:
 - community
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School Anniversary on Sunday last week with the tea meeting on Monday, 30 May.  The children had their annual treat at the Recreation Ground whither they marched headed by the Burra Band.

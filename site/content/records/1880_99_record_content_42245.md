@@ -20,6 +20,7 @@ topics:
 - animal
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Robbery was attempted about 2 a.m. Monday at a well-known Redruth Hotel.  Entrance was gained by the cellar door.  The noise roused two inmates, one of whom swore he had seen two Chinamen.  The other said it was someone about to rob the place.  All exits were secured and the police sent for.  Despite all this activity noise from the intruders could still be heard.  When the investigators ventured into the cellar the culprit was found to be an old bay horse, which had fallen down into the cellar.

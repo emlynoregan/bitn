@@ -20,6 +20,7 @@ topics:
 - disorder
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  Traps and ploughs were moved into roadways.  Packing cases etc. were moved onto the pavement in front of Drew & Co.  Iron crossing-plates were overturned etc. in both Kooringa and Redruth.

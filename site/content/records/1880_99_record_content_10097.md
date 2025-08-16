@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Primitive Methodist Chapel Iron Mine, anniversary on 17 June with the tea meeting on 18 June.

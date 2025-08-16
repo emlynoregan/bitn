@@ -37,6 +37,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Terry’s line of coaches depart Redruth on the arrival of the midday train on Friday for Bimbowrie, via Outalpa and Boolcoomata, arriving Bimbowrie on Saturday evenings and leaving there Monday morning to reach the 2 p.m. train for Adelaide from Redruth on Tuesday.  The Blinman mail leaves Redruth every Saturday at 4 a.m. and departs the Blinman post office every Tuesday about 5 a.m.

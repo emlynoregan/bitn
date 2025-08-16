@@ -20,6 +20,7 @@ topics:
 - transport
 - mail coach
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. The mail coach from Hallett to Jamestown was upset near Jamestown on Tuesday, but fortunately no one was seriously hurt and the passengers scrambled out through the window.

@@ -19,6 +19,7 @@ topics:
 - charity
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Ministering Children’s League Cake & Apron Fair will be held at St Mary’s Schoolroom on 1 September.  6d.  Proceeds to Local Charities.

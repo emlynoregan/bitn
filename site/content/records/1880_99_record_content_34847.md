@@ -40,6 +40,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Eve in Burra was lively.  The town was decorated with greenery brought in by the cartload and used to festoon the business places.  The weather was bright and pleasant and the streets were soon thronged with young and old.  By the time it was getting dark the pavements were impassable.  Business places were all decorated and doing good trade.  After tea the crowds forced the use of the roadways and the sound of children’s trumpets filled the air.  The Salvation Army appeared with its music, but failed on this occasion to draw people away from other attractions.  Mr Wheatley’s Band appeared in front of Bath & Pearce’s while Davey’s Band was at the pump.  Business places were packed and it was generally deemed the best night’s business since the mine closed.

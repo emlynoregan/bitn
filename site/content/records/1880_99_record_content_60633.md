@@ -21,6 +21,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Young Men’s Club.  Dr Sangster will lecture on Germs on Wednesday 16 September.

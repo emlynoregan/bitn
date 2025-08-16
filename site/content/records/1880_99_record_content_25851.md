@@ -19,6 +19,7 @@ topics:
 - exhibition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Exhibition.  The opening of the Exhibition, which was designed to simultaneously celebrate the 50th anniversary of SA and of the Queen’s reign, is reported in over two columns.  About 4,000 visitors a day have been attending.

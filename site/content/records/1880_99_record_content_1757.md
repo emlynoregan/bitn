@@ -20,6 +20,7 @@ topics:
 - community
 - gratitude
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  G.A.C. Muller thanks those who helped in putting out the fire in one of his houses at Hampton.

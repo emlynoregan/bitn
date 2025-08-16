@@ -19,6 +19,7 @@ topics:
 - legal
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J.B. Sampson	Furious riding in Commercial St	10/

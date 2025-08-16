@@ -21,6 +21,7 @@ topics:
 - photography
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. Mr Bentley has offered to take a photo of the Burra footballers on Saturday afternoon at his residence at 3.00 p.m. so they are requested to meet there.

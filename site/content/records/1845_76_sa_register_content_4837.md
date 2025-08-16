@@ -23,6 +23,7 @@ topics:
 - property
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Sullivan charged Philip Longmead with detaining a quantity of wood.  The case, which had been before the case several times and adjourned for witnesses, was concluded after hearing much conflicting evidence.  His worship ordered the defendant to pay 10/- for the value of the wood and for each party to pay his own costs.

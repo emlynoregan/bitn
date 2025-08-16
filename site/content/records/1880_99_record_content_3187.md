@@ -21,6 +21,7 @@ topics:
 - mail contract
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson Jun. has taken over the mail contract to Spalding, from E.F. Opie and will also take passengers and/or parcels.

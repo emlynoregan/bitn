@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Lapidge appointed Waterworks Engineer. (Chosen from 12 applicants, including Mr Littlejohn.)

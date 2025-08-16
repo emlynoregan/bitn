@@ -18,6 +18,7 @@ topics:
 - community
 - tree planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting.  There has been unprecedented interest in planting trees this year.

@@ -20,6 +20,7 @@ topics:
 - racing
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  J. Pearce’s Bluelight won the race from Farrell’s Flat last Wednesday at 871 yards per minute.

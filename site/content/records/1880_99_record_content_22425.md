@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Schutz died on 10 June, aged 24, after a long and painful illness.  He was the son of C. & B. Schutz.  [Born 30 May 1862]

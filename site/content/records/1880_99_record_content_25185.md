@@ -18,6 +18,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The season opened with Colours 6 defeating Non-Colours 0.

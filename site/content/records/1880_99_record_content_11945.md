@@ -19,6 +19,7 @@ topics:
 - music
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert in the Institute on Wednesday 2 January.  Program of piano overture, three songs, a duet, a recitation and then two songs before interval, followed by another piano recital, song, recitation, duet, recitation part II, three songs and a duet, before God Save the Queen.

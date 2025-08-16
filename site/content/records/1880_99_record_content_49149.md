@@ -26,6 +26,7 @@ topics:
 - event
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Racing Club met at the Commercial Hotel on Wednesday 8 March with W.H. Linkson in the chair.  It was decided to hold a race meeting on a date to be named. The club held £42-6-8 and had 50 members at £1-1-0 each.  They elected: T.F. Robertson, Secretary; P.L. Killicoat, President; and Messrs A. McCulloch and W.A. Murray as Patrons.

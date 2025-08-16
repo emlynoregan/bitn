@@ -17,6 +17,7 @@ topics:
 - transport
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 7.45 p.m.	7.50 p.m.

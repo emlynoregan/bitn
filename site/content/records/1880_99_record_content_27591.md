@@ -17,6 +17,7 @@ topics:
 - finance
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rose of Sharon Tent IOR had an income for 1887 of £342-7-5 and an expenditure of  £277-13-3.  Details of expenditure are printed.

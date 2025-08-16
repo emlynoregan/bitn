@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. Tenders called for an extension to the engine running shed at the Burra Station.

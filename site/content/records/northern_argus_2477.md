@@ -27,6 +27,7 @@ topics:
 - lifesaving
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Coaches Sylvia Pohlner & Ray Hill took 15 children to the State Championships of the Royal Life Saving Society at the Aquatic Centre [in Adelaide] recently.  David Jennings won the Sir Ewen Waterman Cup for water skills and Sylvia Pohlner won the Meldrum Trophy for water skills.  Bianca Hirschausen won the Gunner Cup for water skills, defeating ten adults in the process.  Lorraine Walker got a silver medal and Tamy Walker a bronze.

@@ -19,6 +19,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dan Barry Dramatic Co.’s production of Foul Play was highly praised as ‘the best that has been staged here for a considerable time.

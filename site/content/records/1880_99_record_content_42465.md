@@ -20,6 +20,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Seatholders meet on Friday to take the first steps towards finding a replacement for the Rev. J. Stuart Wayland who, after completing six years here thought it was time to move on.

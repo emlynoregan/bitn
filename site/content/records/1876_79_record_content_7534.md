@@ -17,6 +17,7 @@ topics:
 - community
 - gossip
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cousin Jenny & Aunt Betty. A 1/2 column of gossip on town affairs in Cornish dialect.

@@ -21,6 +21,7 @@ topics:
 - sports
 - Easter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A meeting is called at the Burra Hotel next Tuesday to arrange sports for Easter.

@@ -20,6 +20,7 @@ topics:
 - religion
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Wesleyan Circuit has been divided by 51 votes to 8.  [To create Kooringa and Redruth Circuits.]

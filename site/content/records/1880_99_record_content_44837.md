@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court Pride of Burra Junior Foresters Lodge celebrated its first anniversary in the Institute on 14 March.  There was a Court Meeting, presentations and refreshments.

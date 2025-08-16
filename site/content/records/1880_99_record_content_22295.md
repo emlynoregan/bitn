@@ -19,6 +19,7 @@ topics:
 - mining
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo by one who has been there.

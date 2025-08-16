@@ -19,6 +19,7 @@ topics:
 - health
 - epidemic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Deaths.  There have been nine deaths in one day at Broken Hill from heat and fever.

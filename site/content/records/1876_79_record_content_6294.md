@@ -19,6 +19,7 @@ topics:
 - transport
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bicycling. A rider recently rode from Adelaide to Strathalbyn, a distance of 36 miles, in 41/2 hours. He returned in 3'/2 hours.

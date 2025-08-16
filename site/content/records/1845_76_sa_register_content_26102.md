@@ -30,6 +30,7 @@ topics:
 - wrongful arrest
 - false imprisonment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 After Keilor’s evidence had been partly heard the case was adjourned and Fogarty released on bail while he sought legal advice and witnesses.  When the case was resumed the case was dismissed by the Magistrate.

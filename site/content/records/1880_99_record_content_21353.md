@@ -20,6 +20,7 @@ topics:
 - health
 - death rate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Whooping Cough epidemic in Adelaide raised the death rate appreciably in the last quarter.

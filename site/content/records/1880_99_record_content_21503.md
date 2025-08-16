@@ -19,6 +19,7 @@ topics:
 - racing
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Foresters’ Demonstration is announced for St Patrick’s Day on 17 March.  The Foresters’ Handicap over 150 yards carries prizes of £10, £4 & £2.

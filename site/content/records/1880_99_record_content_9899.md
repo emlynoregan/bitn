@@ -22,6 +22,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mail.  A deputation has asked that a weekly packhorse postal service be established from Burra to Quondong Vale Station.  The land is now permanently settled and c.120 men were employed along the route.  The cost is estimated to be £350-£400 per annum.

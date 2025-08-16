@@ -24,6 +24,7 @@ topics:
 - geology
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Waukaringa Gold Field.  James Watson has discovered gold in quartz specimens from Wankaringa [sic] Run leased by George Hiles of Munjibbie.  The site is 100 miles northeast of Kooringa in flat country of which the chief characteristics are micaceous schist, slat, hornblende and sandstone with granite intervening between the five leads that have been laid open.    The leaders vary from 6-8 inches to 12-14 inches and dip eastwards at one foot in twenty.  The discoverer and friends intend to erect machinery and work the affair without forming a company.  The samples seen look promising and water is said to be obtainable at 40 ft.

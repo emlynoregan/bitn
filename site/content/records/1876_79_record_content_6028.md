@@ -21,6 +21,7 @@ topics:
 - public notice
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. All goats found straying in the streets of the town of Burra after 11 March 1879 will be shot by order of Joseph Fogg, Town Clerk.

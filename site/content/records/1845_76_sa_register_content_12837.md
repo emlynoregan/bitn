@@ -18,6 +18,7 @@ topics:
 - township
 - property damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A fire broke out in a carpenter’s shop in the township on Saturday, but was fortunately noticed and extinguished before much damage was dome to the timber building.  Had it got a hold it would have spread rapidly and destroyed the block of houses adjacent to it.  The carpenter has lost a number of his tools and a quantity of timber.  He was badly frightened and has vowed never again to smoke in his shop.

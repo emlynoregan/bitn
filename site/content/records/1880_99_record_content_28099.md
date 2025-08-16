@@ -21,6 +21,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Railway.  Already there are complaints that the line is inadequate and will be even more so when the Port Pirie Smelters begin taking ore from the Broken Hill and other mines in the area.  The editor considers the broad gauge should be extended alongside the narrow, but avoiding the detour into Petersburg.

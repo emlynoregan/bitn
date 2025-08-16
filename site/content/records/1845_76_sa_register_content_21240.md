@@ -22,6 +22,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mr James Pearce died in 26 September after an illness of three weeks.  Many of the principal tradesmen attended the funeral along with the Freemasons’ and Oddfellows’ Societies.  He had been associated with the Wesleyan Choir for nearly 19 years and had been leader for the last four years.

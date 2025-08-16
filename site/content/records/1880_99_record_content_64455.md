@@ -24,6 +24,7 @@ topics:
 - employment
 - exports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The 50th Anniversary of James Martin’s manufacturing plant in Gawler was celebrated last Wednesday.  It now has 700 employees and has been exporting much machinery to the mines in the WA gold fields.  It has also made 15,000 reaping machines.

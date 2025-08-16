@@ -18,6 +18,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. The Waterworks Dept. party proved the well can sustain a flow of 1,500 gallons per hour and the height is sufficient to get water to Market Square without a pump.

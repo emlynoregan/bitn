@@ -17,6 +17,7 @@ topics:
 - church
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday-school Anniversary 16 & 17 May saw large congregations and reported the school had 21 teachers and 147 scholars.

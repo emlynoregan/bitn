@@ -25,6 +25,7 @@ topics:
 - theft
 - receiving stolen property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 After a couple more witnesses Mr Fitzgerald summed up, pointing out inconsistencies in the evidence of the various witnesses.  He pointed out that neither of the accused could read or write and so would not know what was on an order received in change.  He contended there was no case to answer.

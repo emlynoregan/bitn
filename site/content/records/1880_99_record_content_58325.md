@@ -23,6 +23,7 @@ topics:
 - auction
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co. will conduct a clearing sale of household furniture etc. for Mrs R. Bartle of Taylor St on 16 October.

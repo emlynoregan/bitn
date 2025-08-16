@@ -23,6 +23,7 @@ topics:
 - charity
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Easter Holidays passed quietly in Burra.  Shops closed on Good Friday and Easter Monday and the usual tea meetings were held.  There was an entertainment by the Rev. Stanton on Monday in the Burra Hotel Assembly Room.  It drew an unusually large audience and the readings and music were excellent.  [Program details are given.]  £6 was raised to buy firewood for the poor of Kooringa.

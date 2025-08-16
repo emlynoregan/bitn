@@ -20,6 +20,7 @@ topics:
 - water
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The cost of the new boiler, governing meter, shed etc. at the Waterworks has been:

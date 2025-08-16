@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School Anniversary services were held last Sunday with a floral service in the afternoon.  The tea meeting was on Monday.

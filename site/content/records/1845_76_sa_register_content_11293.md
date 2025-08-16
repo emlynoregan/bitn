@@ -30,6 +30,7 @@ topics:
 - visit
 - pageantry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 His Excellency Sir Richard Graves MacDonnell with Lady MacDonnell and suite left Adelaide at the beginning of the week to attend the Clare Show.  They spent Tuesday night at Templer’s.  On Wednesday they continued north, reaching Auburn shortly before noon.  The town was gaily decorated and an escort of ladies and gentlemen rode out to greet the Vice-Regal guest.  The party remained in Auburn for about two hours, taking lunch there.  They gathered followers as they went north and by Penwortham the group numbered about 300[?].  [This figure is uncertain as the print here is faulty.]  Triumphal arches had been erected at Watervale, Penwortham, Jacob’s Flat, Donnybrook and Clare.  The Governor’s reception everywhere was cordial and enthusiastic.  At Clare the Governor and suite were the guests of Mr E.B. Gleeson JP for the evening.

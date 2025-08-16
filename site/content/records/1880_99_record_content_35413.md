@@ -20,6 +20,7 @@ topics:
 - land question
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Land question.  It is an argument about how land has been alienated and who has rights to it.  The writer is clearly totally opposed to the private ownership of land: at least in the way it is recognised in the UK and here.

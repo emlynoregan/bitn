@@ -21,6 +21,7 @@ topics:
 - legal
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on The Aberdeen Reserve.  The move to bring the Aberdeen Reserve under the Real Property Act is most likely an attempt to establish title when the Council has a stronger one.  It is likely an attempt to bluff the Council.  A public meeting has endorsed the Council’s entering a caveat on the title.

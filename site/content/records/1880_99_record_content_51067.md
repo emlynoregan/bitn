@@ -20,6 +20,7 @@ topics:
 - education
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had an evening with the microscope last Friday.

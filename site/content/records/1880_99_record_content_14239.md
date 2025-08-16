@@ -23,6 +23,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Morris Rayner writes urging that as part of the Burra Show Professor Custance be invited to give a lecture on The Agricultural Interests of SA.

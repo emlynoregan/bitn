@@ -20,6 +20,7 @@ topics:
 - employment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes re the Council economy, agreeing with the editor that the amalgamation of the jobs of Dayman and Inspector is impractical.  The solution Hardy offers is to pay the Town Clerk perhaps £20 more, make it a full-time job which includes collecting the rates and doing the Inspector’s job.  The Town Clerkship is expensive at present considering the time it takes.

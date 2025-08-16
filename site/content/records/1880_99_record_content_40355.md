@@ -20,6 +20,7 @@ topics:
 - explosion
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Explosion.  Two of T.W. Wilkinson’s sons exploded a small quantity of gunpowder recently.  The eldest, aged 11, burnt his face quite badly, but id progressing as well as can be expected.

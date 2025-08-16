@@ -20,6 +20,7 @@ topics:
 - Land Bill
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the work before the SA Parliament in the coming session: especially the Tax Bill and the Land Bill.

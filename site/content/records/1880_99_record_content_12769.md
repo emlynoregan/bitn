@@ -21,6 +21,7 @@ topics:
 - election
 - requisition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A requisition extending for c. 2 columns of names urged W.B. Rounsevell to stand for Parliament.

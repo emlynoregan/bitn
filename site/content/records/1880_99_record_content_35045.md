@@ -31,6 +31,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Fife & Drum Band arrived on Monday by the midday train and they were transferred by drags etc. to Kooringa, playing as they went.  Lunch was taken at the Burra Hotel and in the afternoon they visited the town and about 7 p.m. they played in Market Square before going to the Institute for a concert.  The plan was to hold a joint concert with Davey’s Band to aid the poor of Burra.  Mr William Pearce gave the hall free of charge.

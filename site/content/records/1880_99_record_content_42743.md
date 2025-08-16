@@ -23,6 +23,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI.  Last Thursday 15 men turned out for a drill at Mr Field’s, some six miles from Burra.  The group practised marching, trotting, galloping, skirmishing, etc.  Mrs Field provided refreshments and songs were sung by Lieut. Watts.

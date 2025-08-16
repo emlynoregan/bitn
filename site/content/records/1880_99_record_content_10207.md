@@ -20,6 +20,7 @@ topics:
 - planting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees ordered by the Town Council from the Forest Board have arrived.

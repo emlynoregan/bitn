@@ -28,6 +28,7 @@ topics:
 - aged care
 - fire protection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital.  The 108th Annual Report was presented by the Chairman of the Board Mr Harry Quinn.

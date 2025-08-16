@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  A temporary asphalt cricket pitch has been prepared at the Recreation Ground.

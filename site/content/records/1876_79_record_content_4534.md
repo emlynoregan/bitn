@@ -18,6 +18,7 @@ topics:
 - theft
 - offence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offence. Mr McAskill’s horse was stolen from the street this week.

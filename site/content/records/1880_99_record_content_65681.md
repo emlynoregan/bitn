@@ -20,6 +20,7 @@ topics:
 - match
 - match_result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s 154 defeated Hallett 56 at Hallett on 2 January.

@@ -19,6 +19,7 @@ topics:
 - races
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Program for the Burra Races, 25 March: Main Race, The Burra Handicap over 1½ miles.  1st prize 40 sovs.  2nd prize 5 sovs.

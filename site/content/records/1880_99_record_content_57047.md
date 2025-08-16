@@ -20,6 +20,7 @@ topics:
 - by-law
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said he had received a memorial signed by 216 ratepayers asking that the decision concerning the new by-law be reconsidered.

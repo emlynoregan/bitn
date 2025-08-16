@@ -18,6 +18,7 @@ topics:
 - rates
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This meant a 1/- in the £ rate in 1883 would bring in £722-10-0

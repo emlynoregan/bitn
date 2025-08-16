@@ -23,6 +23,7 @@ topics:
 - obituary
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Lilian Davey, only child of W.J. & E.L.J. Davey, died on 28 February, aged 3 months.  [Birth registered as Lilian Jenkin-Davey 2 November 1892.]

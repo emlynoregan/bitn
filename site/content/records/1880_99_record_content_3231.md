@@ -19,6 +19,7 @@ topics:
 - finance
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A memorial will be sent to the Commissioner of Crown Lands asking for relief from repayments.  The farmers claimed to want to hold on as they ‘believe that the tide of seasons will shortly turn, and desire to hold on as long as possible so as to reap the reward of their patience and toil.’

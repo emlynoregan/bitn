@@ -18,6 +18,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School anniversary services were held Whit Sunday and Monday.

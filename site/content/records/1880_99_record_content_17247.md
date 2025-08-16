@@ -21,6 +21,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute 9 April, A Grand Entertainment by the Burra Dramatic Club to be held in aid of St Mary’s Church.  Part II features the 1 Act farce A Race for a Widow.

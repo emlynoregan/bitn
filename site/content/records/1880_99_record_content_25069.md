@@ -22,6 +22,7 @@ topics:
 - railway
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter from W.T. Rabbich predicted a worsening employment situation.  Already there were 300 unemployed on the Barrier and Millar Bros work on constructing the Broken Hill railway was drawing to a close.

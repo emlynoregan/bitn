@@ -24,6 +24,7 @@ topics:
 - church
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School holds its picnic at Hallett on 1 January 1885 by special train.  Departs Burra 9 a.m. and arrives Hallett 10.05 a.m.

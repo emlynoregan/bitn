@@ -20,6 +20,7 @@ topics:
 - sickness
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Grundy’s first cattle sale was due to be held on Monday, but he was prevented from attending by the prevailing sickness at Gawler, from which we are so far free.

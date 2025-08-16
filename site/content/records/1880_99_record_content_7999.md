@@ -33,6 +33,7 @@ topics:
 - police
 - welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Burnett left the Burra Hospital on 22 August to go to Farrell’s Flat.  He got as far as Spring Bank on the first night and Sod Hut on Thursday morning.  [This suggests he made a mistake and turned left near Porter’s Lagoon when he should have turned right.]  From there he wandered east and ended up at a hut about four miles from Princess Royal.  There he was overtaken by rheumatics and could hardly move.  He lay almost immobile for five days without food, but managing to crawl to some water.  A station-hand then found him, but did not return with aid.  Burnett, still unable to move stayed at the hut 37 days before attracting the attention of a stockman.  The next day D. McCulloch of Princess Royal had him brought in and then took him into Burra.  P-C Johnson took him to the police station where his wife gave him some oatmeal.  Dr Brummitt was summoned and admitted him to the hospital.

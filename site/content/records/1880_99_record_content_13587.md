@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday Colours 2.4 defeated Allcomers 0.2.  The oval entrance gates are now surmounted by the Kapunda Marble caps presented by James Shakes Esq.

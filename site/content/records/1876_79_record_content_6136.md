@@ -19,6 +19,7 @@ topics:
 - sale
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Liston Shakes & Co. offers 3,000 sheep 4 April.

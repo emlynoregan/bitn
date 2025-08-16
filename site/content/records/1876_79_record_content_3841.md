@@ -19,6 +19,7 @@ topics:
 - meeting
 - railway station
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. A public meeting in Hallett on 18 Feb. considered the problem of controlling rabbits and got two columns of details. The meeting also discussed the siting of the railway station.

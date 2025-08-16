@@ -19,6 +19,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs J.H. Roe’s school in Chapel St re-opens on Monday 19 July

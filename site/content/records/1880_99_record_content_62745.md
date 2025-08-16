@@ -20,6 +20,7 @@ topics:
 - education
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ada Edwards was fined 5/- for not sending her daughter to school.  She said she had to keep the girl home to mind the baby while she went out to earn a living for the remainder of the family.

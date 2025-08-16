@@ -22,6 +22,7 @@ topics:
 - migration
 - diggings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisements.  The shipping news carries notices for some 20 vessels bound for Geelong and Melbourne, many of which are aimed at carrying people to the gold diggings.

@@ -19,6 +19,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian corrugated iron chapel at Hallett has been sold and a new stone building is to be erected.

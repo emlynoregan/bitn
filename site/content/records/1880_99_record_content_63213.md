@@ -23,6 +23,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs T. Parks Sen. died in Chapel St on Sunday: a very old and respected resident.

@@ -20,6 +20,7 @@ topics:
 - trees
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Council seems to be careless of the damage around town to trees and tree guards.

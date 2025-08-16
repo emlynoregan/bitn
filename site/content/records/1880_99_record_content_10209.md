@@ -20,6 +20,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A game was played on Saturday between 14 players from the Model School and 10 of the College Boys at home for the holidays.  C. Cater captained the Models.  Models won 1.15 to 0.5

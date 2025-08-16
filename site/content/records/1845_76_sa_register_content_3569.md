@@ -23,6 +23,7 @@ topics:
 - property
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Victoria House, Kooringa.  Opposite the Post Office.

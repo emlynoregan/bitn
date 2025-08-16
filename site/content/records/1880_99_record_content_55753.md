@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Garrett Barrow died at his residence in Kooringa on Saturday, aged 32, following a cold and inflammation of the bowels.  He was ostler at the Commercial Hotel.  He was a member of the Hibernian Lodge and leaves a widow and family.  [Died 29 December 1894.]

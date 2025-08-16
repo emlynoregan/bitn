@@ -25,6 +25,7 @@ topics:
 - inquest
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest held at the Plough and Harrow in Rundle Street on the body of a child Richard Thomas Burn aged 9, son of Richard Burn of Burra Burra Mines.  The child died as the result of the falling of some earth upon which planks had been laid for the purpose of removing ore as it was raised from one of the shafts.  The child had been sent with some candles for his father and was going home when the accident occurred.  The boy was found by his father buried beneath several feet of earth and was quite dead, having been buried for some hours.  The death was apparently due to suffocation and no broken bones or wounds were found.  The body was taken to Adelaide, but was so much decomposed that meaningful examination by the Colonial Surgeon was impracticable.  The jury found that death was accidental, but that the shoring of the chambers in the mine was insecure and they expressed a hope that more attention would be paid to the security of life in the future.

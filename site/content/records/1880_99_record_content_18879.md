@@ -19,6 +19,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Sevenhills 1st 20, 2.10 defeated Burra 2nd 20, 1.1

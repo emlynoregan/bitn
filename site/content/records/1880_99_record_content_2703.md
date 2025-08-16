@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Date	Novel	Short Story	Sketcher	Poetry	Science	Nature	Agriculture	Household	Misc.	Humour	Travel	Essay

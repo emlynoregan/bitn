@@ -17,6 +17,7 @@ topics:
 - advertisement
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Public Meeting is called for 22 December to discuss the best means of aiding the Transvaal Patriotic Fund.

@@ -25,6 +25,7 @@ topics:
 - land policy
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Vox Populi’ writes in response to C.B.T. re Sir Henry Ayers.

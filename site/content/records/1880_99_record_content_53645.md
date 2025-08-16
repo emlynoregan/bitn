@@ -20,6 +20,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Saturday, Burra 3.12 defeated Aberdeen 2.3

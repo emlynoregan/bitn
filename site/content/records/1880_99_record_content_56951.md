@@ -37,6 +37,7 @@ topics:
 - meeting
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Lewis wrote concerning the work in Ware St.  He says the road was all that was required, but after the work the approach to his back entrance is spoiled and left in a dangerous condition.

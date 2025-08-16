@@ -24,6 +24,7 @@ topics:
 - government
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polling Places.  The abolition of the following as polling places has been recommended: -

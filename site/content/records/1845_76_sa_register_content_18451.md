@@ -18,6 +18,7 @@ topics:
 - church
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the Church of England the usual services were held morning and evening, though the latter was thinly attended.

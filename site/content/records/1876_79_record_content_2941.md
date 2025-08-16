@@ -20,6 +20,7 @@ topics:
 - agriculture
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. New rabbit bill passes the lower house. Call for rabbit cannery at Burra.

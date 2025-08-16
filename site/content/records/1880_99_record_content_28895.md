@@ -19,6 +19,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Mr Baxter’s ‘Sea on Land’ benefit night for the Burra Hospital took 27/6 and instead of half Mr Baxter donated £1 to the hospital.

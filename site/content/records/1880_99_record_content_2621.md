@@ -17,6 +17,7 @@ topics:
 - publication
 - numbering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1880 began with Volume II, Number 71 on 1 January 1880

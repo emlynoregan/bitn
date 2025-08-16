@@ -19,6 +19,7 @@ topics:
 - rain
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crops near Burra are now looking good on account of the good falls of rain.

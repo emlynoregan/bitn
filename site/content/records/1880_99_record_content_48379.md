@@ -19,6 +19,7 @@ topics:
 - water
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He nevertheless said he could be relied upon not to employ any man while he was able to stand, but if he were compelled to read meters just now and attend to the water supply he would have to travel all night with a lantern.

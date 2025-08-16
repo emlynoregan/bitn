@@ -26,6 +26,7 @@ topics:
 - election
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  AGM of the Burra Football Club was held at the Commercial Hotel 29 April 1889.  Elected were: 			Patron			F.W. Holder MP

@@ -18,6 +18,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 National Defence League met on Friday, chaired by Mr John Lewis.  It was largely attended.  A committee was appointed to secure the enrolment of women voters in the district.

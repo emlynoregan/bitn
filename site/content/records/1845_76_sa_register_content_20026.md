@@ -18,6 +18,7 @@ topics:
 - fire
 - disaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire.  A bushfire occurred at Mt Bryan last Saturday 15 December; probably starting from a teamster’s fire.  An area about 5 miles by 1½ miles was burnt.

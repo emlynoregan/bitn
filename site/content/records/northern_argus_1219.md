@@ -22,6 +22,7 @@ topics:
 - building
 - photograph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of Danny O’Bryan and Jack Oates uncovering the turned wood of the balcony at the Town Hall.]

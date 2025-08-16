@@ -19,6 +19,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Burra Institute 27 & 28 December.  Mirth, Music and Melody with The Mowhawk Minstrels with a ball afterwards on the Friday night.

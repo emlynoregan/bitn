@@ -19,6 +19,7 @@ topics:
 - transport
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Train Changes.  The evening passenger train arriving at Burra at 6.20 p.m. has gone on to Terowie since last Wednesday.  The morning train now starts from Terowie.

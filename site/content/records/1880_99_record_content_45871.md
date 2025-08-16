@@ -20,6 +20,7 @@ topics:
 - animals
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council decided on Monday that all goats found trespassing on Corporation property will be destroyed.  This is absolutely necessary to protect the town’s trees.

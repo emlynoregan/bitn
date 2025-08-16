@@ -19,6 +19,7 @@ topics:
 - waterworks
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The water has been cut off on account of the work on the pumps and this is the wrong time of the year for water to be unavailable.  We urge the retimbering of the well to be deferred to the end of summer.  The present system of meter reading does not allow water paid for but not used in one half to be used in the next.  It will be most unjust if people have to lose plants in gardens due to lack of water that they still have to pay for.

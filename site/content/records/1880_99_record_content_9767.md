@@ -23,6 +23,7 @@ topics:
 - route
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The figures then quoted seem to be incorrect and contradictory, but the point being made was that he believed the cost quoted for crossing the river at Wellington was inflated and it could be done far more cheaply thus making the southern crossing better than the route via Murray Bridge.]  J.B. Davidson moved that the meeting favoured a route via Wellington rather than that via Nairne [and Murray Bridge.]

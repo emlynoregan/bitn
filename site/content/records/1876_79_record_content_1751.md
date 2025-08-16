@@ -18,6 +18,7 @@ topics:
 - correction
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [A letter on 2 Feb. corrected this exception to 4 days before and the night of full moon!]

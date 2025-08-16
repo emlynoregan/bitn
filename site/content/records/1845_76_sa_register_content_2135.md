@@ -23,6 +23,7 @@ topics:
 - business
 - fare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 18 March 1848, page 1

@@ -22,6 +22,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Rifle Match for Mr A. McCulloch’s £3 prize was completed on Wednesday last and was won by:	Pte Gemmells	first	114

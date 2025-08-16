@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Young Men’s Club.  The opening of the club will be held in the Wesleyan Lecture Hall tonight.  Rev. J.Y. Simpson will address the meeting.

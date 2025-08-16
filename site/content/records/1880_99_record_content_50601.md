@@ -21,6 +21,7 @@ topics:
 - relief
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council at a special meeting on 25 July found several more cases of real need and decided to provide immediate relief.

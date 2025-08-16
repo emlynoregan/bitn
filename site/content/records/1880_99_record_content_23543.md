@@ -20,6 +20,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Wesleyan Conversazione was so successful that it continues this week as well.  The small fee of 6d covers admission to all features except the art gallery.

@@ -30,6 +30,7 @@ topics:
 - photography
 - local_development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Trip Through the Northern Areas

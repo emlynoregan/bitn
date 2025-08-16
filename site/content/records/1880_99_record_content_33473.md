@@ -19,6 +19,7 @@ topics:
 - defense
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Government has received advice against building a fort at Glenelg.  The guns ordered can be sold or placed in one of the present forts.

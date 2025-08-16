@@ -19,6 +19,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Goodchild, Austin & Co. offer for sale 5,900 sheep on 1 November.

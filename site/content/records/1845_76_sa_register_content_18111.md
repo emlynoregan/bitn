@@ -19,6 +19,7 @@ topics:
 - business
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Tuesday a horse bolted and a man was run over by a dray as a consequence, but fortunately without serious hurt.  Business is slack and the removals to Wallaroo are still plentiful.

@@ -21,6 +21,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   An Entertainment will be held at the Hallett Institute Hall on 24 May in aid of the Chinese Famine Relief Fund.

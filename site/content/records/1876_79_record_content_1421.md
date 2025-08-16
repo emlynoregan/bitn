@@ -20,6 +20,7 @@ topics:
 - offence
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 William Matthews charged with furious driving at Kooringa. 10/- & 10/- costs.

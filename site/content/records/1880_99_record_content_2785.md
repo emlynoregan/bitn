@@ -20,6 +20,7 @@ topics:
 - serial
 - social life
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2 Sep 81	Major Molineux Ch VII-VIII	Nelly’s Mistake	The Family Life of the Turks Part I	X	X			X	X	X

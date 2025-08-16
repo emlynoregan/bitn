@@ -22,6 +22,7 @@ topics:
 - politics
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from J.B. on the same topic from Adelaide.  He defends Gordon and denies that he disobeyed orders.

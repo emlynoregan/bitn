@@ -20,6 +20,7 @@ topics:
 - construction
 - delay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Bridge work has stopped because of the lack of ironwork which has not yet arrived in the colony from England.  The mason work is nearly done.

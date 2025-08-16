@@ -19,6 +19,7 @@ topics:
 - review
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The editor reported on Mr Roach’s recital, which was well done.  In particular he was impressed by the novelty of placing the chairs [i.e. the dearer seats] at the back, where it was cooler and acoustically better, while the benches were at the front.  This had the added benefit of bringing the larrikins to the front in full view of both the stage and the audience members, and the result was greater decorum for the evening.  The performance received a very favourable review.

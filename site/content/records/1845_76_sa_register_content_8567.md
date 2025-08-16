@@ -24,6 +24,7 @@ topics:
 - exhibition
 - minerals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Samuel Davenport, Hon. Secretary to the Local Committee for the London Exhibition of 1851 to R. Hallett & Sons.  Having sent specimens of copper for the exhibition by the Will Watch, the committee now takes the advice of the Burra Directors and sends a further four packages by the same vessel: Numbers 13 & 14 contain grain, Number 15 is a case of olive oil and Number 16 is a case of soap.  There are some other cases ready for shipment by the earliest opportunity.

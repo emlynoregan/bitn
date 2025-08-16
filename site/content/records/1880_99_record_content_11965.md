@@ -19,6 +19,7 @@ topics:
 - agriculture
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr William Dare was fined £15 for using an illegal brand on 30 sheep.  The offence was regarded as accidental.

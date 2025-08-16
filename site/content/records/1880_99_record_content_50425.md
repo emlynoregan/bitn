@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thanks are especially due to long time friend Mr J. Roach, who has done much to augment the Institute funds.  Mr J.A. Watt, at the re-opening, got up a concert that realised £21, besides collecting a similar sum.  The reading room is kept open at a cost of c. £1 a week.

@@ -21,6 +21,7 @@ topics:
 - Catholics
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Southern Cross, a monthly paper for Catholics, will begin in Adelaide in July.

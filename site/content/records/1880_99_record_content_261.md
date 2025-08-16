@@ -20,6 +20,7 @@ topics:
 - accident
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A bolt: a pair of well-known mules bolted again in Market Square on Tuesday from Drew & Co.’s and were caught by Mr W. Young after nearly carrying away a barber’s pole and the artesian well.

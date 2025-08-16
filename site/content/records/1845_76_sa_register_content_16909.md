@@ -21,6 +21,7 @@ topics:
 - church
 - books
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Craig MA delivered a lecture on Tuesday evening in St Mary’s Church in aid of Bush Missions.  He is raising funds for distributing books among the shepherds with whom he is brought in contact.  The subject was Mary Queen of Scots.  The lecture raised the sum of £5-0-6.

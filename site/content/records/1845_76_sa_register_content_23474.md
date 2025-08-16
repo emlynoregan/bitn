@@ -26,6 +26,7 @@ topics:
 - mortuary
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary: Mortuary Returns.  Among the return of persons found dead in public places the following were found in the Kooringa district:

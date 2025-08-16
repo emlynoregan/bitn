@@ -18,6 +18,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Young Men’s Club.  The inaugural meeting was held last week in the club rooms, but due to a small attendance the meeting was adjourned to Monday 25 April at 8 p.m.  [Despite the use of the work ‘inaugural’ this was actually an attempt to revive a club as it later says: ‘A full attendance of members is earnestly requested so that if possible the club may be put in working order once more'.

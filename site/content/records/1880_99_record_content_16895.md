@@ -20,6 +20,7 @@ topics:
 - letter
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W. H. Hardy, who writes at great length [over 1 column] on the British Government’s foreign policy.  He accuses the Government of ‘lowering British prestige and inviting contempt ‘which will lead in time to the real danger of a combination of great powers to despoil England of her outlying possessions.’

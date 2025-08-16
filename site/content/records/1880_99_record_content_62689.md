@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Spencer Finch, sixth son of Edwin N. & F. Finch, died at Kooringa on 11 August aged 7 years 4 months 11 days.  [He was born 1 April 1890.]

@@ -26,6 +26,7 @@ topics:
 - awards
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouting had a busy night on Friday.  Alex and Peter Stockman went up from Cubs to Scouts.  Andrew Jennings went from Scouts to Venturers.  Acting District Commissioner Bill Mugge presented a Leader’s Certificate to Jan Hudd and a Leader Service Award (5 years) to Group Leader Jacky Kleinig.  He also spoke about the Jamboree to be held in Adelaide at the end of 1988.

@@ -20,6 +20,7 @@ topics:
 - finance
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The rates for 1898 will be 10d General, 4½d Health, ½d Park Lands.

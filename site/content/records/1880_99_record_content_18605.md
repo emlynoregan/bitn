@@ -19,6 +19,7 @@ topics:
 - equipment
 - missing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks Engine.  The Hydraulic Engineer said on February 12 this was expected daily.  It has not turned up.  Has it gone down?  [i.e. sunk with its ship.]

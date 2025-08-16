@@ -18,6 +18,7 @@ topics:
 - fire
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Commercial Hotel. A small fire in bedroom curtains at the hotel was extinguished without serious damage.

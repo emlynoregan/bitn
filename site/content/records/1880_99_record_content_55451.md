@@ -18,6 +18,7 @@ topics:
 - appointments
 - salaries
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Clerk was reappointed at £110 p.a., a reduction of £10.

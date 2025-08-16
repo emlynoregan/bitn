@@ -19,6 +19,7 @@ topics:
 - agriculture
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock sales: 27 July 2152 cattle, (comprising 1136 cows, 876 bullocks & 140 prime cattle) and 5,000 sheep.  [This number of cattle is unusual for a Burra sale.]

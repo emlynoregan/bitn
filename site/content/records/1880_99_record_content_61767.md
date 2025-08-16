@@ -21,6 +21,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  L.L. Wicklein has moved to larger premises recently occupied by Mr J.E.H Winnall, next to R.D. Pascoe, Hairdresser in Commercial St.

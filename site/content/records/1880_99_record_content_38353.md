@@ -20,6 +20,7 @@ topics:
 - economy
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial attacks the protectionist writings of the Broken Hill Barrier Miner, especially the assertion that ‘it is utterly impossible for a true unionist to be a free-trader’.

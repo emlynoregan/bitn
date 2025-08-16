@@ -21,6 +21,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Warnes writes saying how little has been done to honour Sir Henry Ayers for his fifty years of service to the colony.  He proposes an address from the people of Burra and encloses £1-1-0 to start the ball rolling.

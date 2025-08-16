@@ -20,6 +20,7 @@ topics:
 - mining
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  Witnesses are being examined in Adelaide with reference to the purchase of the Burra Mine and the question should be settled in a month or two.

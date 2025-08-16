@@ -21,6 +21,7 @@ topics:
 - rescue
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs W.G. Owers’ 4-year-old daughter fell through a wooden cover and dropped 30-40’ down a well on Saturday morning.  She landed in 4’ of water and disappeared underwater twice before eventually being caught on some tree roots and finally being rescued by Mr John Martin.  Oddly enough she was still clutching a cup she had in her hand when she fell in.

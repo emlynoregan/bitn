@@ -20,6 +20,7 @@ topics:
 - industry
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  The machinery was tested on Friday and went well.  The clearing of the well is proving more of a problem than first thought and work should start in 4-6 weeks.

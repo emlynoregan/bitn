@@ -25,6 +25,7 @@ topics:
 - advertisement
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Killicoat is selling without reserve, at his residence near the old Smelting-works, Redruth, Household Furniture & Effects on 2 March.

@@ -18,6 +18,7 @@ topics:
 - animals
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Williams	3 horses	10/-

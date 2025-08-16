@@ -18,6 +18,7 @@ topics:
 - robbery
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Robbery.  Last Saturday at about 8 o’clock a rascal stole about 16 lb of beef hanging on Dr Cave’s verandah and also the hook upon which it was hanging.  He thoughtfully left behind a turkey and a piece of veal.

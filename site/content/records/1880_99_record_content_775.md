@@ -21,6 +21,7 @@ topics:
 - ceremony
 - gift
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Presentation.  A presentation was made last Wednesday to Dr Nesbitt, of a silver tea and coffee service.  Rev. H. Howitt made the presentation when about 25 people attended the Burra Institute.  Dr Nesbitt also received an illuminated address.

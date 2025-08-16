@@ -21,6 +21,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. W.J. Mayers, from Dr Barnardo’s Homes for Destitute Children will conduct special services.  Redruth Wesleyan at 11 a.m. on 31 May.

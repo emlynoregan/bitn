@@ -18,6 +18,7 @@ topics:
 - bushfire
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There have been two or three small bushfires about, but people are not much concerned, believing there is little left to burn.

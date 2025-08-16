@@ -25,6 +25,7 @@ topics:
 - jubilee
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Show is to be held on Saturday 11 October.

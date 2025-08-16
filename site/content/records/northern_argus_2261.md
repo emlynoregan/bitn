@@ -20,6 +20,7 @@ topics:
 - celebration
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Reta & Murray Tiver have recently celebrated their 60th wedding anniversary.

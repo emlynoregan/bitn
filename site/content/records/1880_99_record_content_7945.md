@@ -21,6 +21,7 @@ topics:
 - fundraising
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Stephenson from London gave a lecture in the Institute on Monday on Save the Children.  At the close donations and promises of five year subscriptions to support the Homes for Orphans and Street Arab Children in England amounted to £657.

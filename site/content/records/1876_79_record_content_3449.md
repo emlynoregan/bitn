@@ -19,6 +19,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. By 10 Jan. there were 86 boys and 95 girls enrolled along with 53 infants for a total of 234.

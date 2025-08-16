@@ -22,6 +22,7 @@ topics:
 - regulation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘You Know Who’ complaining that the police are not enforcing the Sunday closing of hotels and that while the front doors are closed, the back doors are open.  Also, he asks, can a wholesale spirit store be open on any day of the week?  If not why do our police never make any attempt to stop it?

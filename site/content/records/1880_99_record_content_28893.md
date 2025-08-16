@@ -18,6 +18,7 @@ topics:
 - transport
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The Railways have cancelled excursion fares from 1 July, but return fares will fall to 1½ the single fare and will be good for 7 days for up to 50 miles and for 1 month for over 50 miles.

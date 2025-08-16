@@ -18,6 +18,7 @@ topics:
 - machinery
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Grubbing Machine. There is a report of about 1⅓ columns on the trial of a grubbing machine. (Not local)

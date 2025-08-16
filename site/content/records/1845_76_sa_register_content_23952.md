@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Church of England Sunday School pupils had a ride to Princess Royal where they were received by Mr McCulloch.

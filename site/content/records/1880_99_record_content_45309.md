@@ -19,6 +19,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For the season Burra won 3 of the 4 country matches played and the loss at Gawler was still quite a creditable performance.

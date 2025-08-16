@@ -29,6 +29,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  H.J. Walker died at his daughter’s home in Kooringa last Monday, aged 61.  He came to Burra aged 16, from England and worked as a teamster.  He had three sons and three daughters and is survived by sons Messrs John, Harry & James T. Walker and by the daughters Mrs W. Harris and Mrs S. Fuller.  [Henry John Walker died 11 June aged 61.]

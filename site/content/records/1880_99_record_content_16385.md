@@ -20,6 +20,7 @@ topics:
 - accounts
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  John D. Cave with further figures to explain the accounts and the editor replies with further statements critical of the way the late Council continued to spend after the funds were exhausted.

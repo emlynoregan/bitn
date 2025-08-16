@@ -19,6 +19,7 @@ topics:
 - community
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To educate the public with a view to their demanding the total abolition of liquor traffic.

@@ -31,6 +31,7 @@ topics:
 - arrest
 - bail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Court, 29 July, before J.W. Macdonald, SM

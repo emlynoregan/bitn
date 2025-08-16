@@ -20,6 +20,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's Mutual Improvement Association. (BYMMIA) Steps are being taken to establish such an association to help young men and extend the usefulness of the Institute.

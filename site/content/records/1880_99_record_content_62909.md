@@ -20,6 +20,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bagot, Shakes & Lewis will offer 13,250 sheep for sale on 5 November along with 180 cattle and 80 horses.

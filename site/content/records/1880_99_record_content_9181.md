@@ -34,6 +34,7 @@ topics:
 - employment
 - candles
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Amelia Doe - wife of James Doe.  Husband came home c. 9.45 p.m. on Friday and did not leave until called by his assistant R. Pascoe about 3.30 p.m.

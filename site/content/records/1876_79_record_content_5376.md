@@ -19,6 +19,7 @@ topics:
 - crime
 - bushrangers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bushrangers. News item re the Kelly Gang in Victoria.

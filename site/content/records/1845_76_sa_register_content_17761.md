@@ -27,6 +27,7 @@ topics:
 - fossils
 - natural history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 From the Report of E.H. Hargreaves

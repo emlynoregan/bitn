@@ -19,6 +19,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter has been forced to stop the treatment of the slagheap as although the process is successful the low price of copper at present makes it uneconomic.

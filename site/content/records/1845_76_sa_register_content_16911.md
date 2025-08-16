@@ -20,6 +20,7 @@ topics:
 - education
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain M. Deeble gave a lecture on Tuesday evening to the Wesleyan Mutual Improvement Society on Cornwall and Its Mines.

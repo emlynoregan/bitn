@@ -17,6 +17,7 @@ topics:
 - education
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on bad eyesight and poorly lit schools and suggesting also the testing of the hearing of children who appear backward in schools.

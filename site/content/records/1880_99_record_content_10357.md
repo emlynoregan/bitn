@@ -19,6 +19,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Blue Ribbon Army has been formed in Burra on Saturday, uniting all the temperance organisations.

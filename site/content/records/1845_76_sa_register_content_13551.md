@@ -19,6 +19,7 @@ topics:
 - operation
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The pump at the Bon Accord Mine has suffered some damage and operation has had to be suspended for some time.

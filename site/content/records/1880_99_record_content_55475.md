@@ -28,6 +28,7 @@ topics:
 - waterworks
 - meters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  At the meeting last Thursday to settle the Chairman of the Public Works Committee Cr Harris’s proposal of Cr Hardy was 2nd by Cr Hardy and declared carried without being put to a vote.  Presumably Cr Hardy would have voted for himself so winning two to one.

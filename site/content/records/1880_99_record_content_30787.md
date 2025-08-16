@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Ryan, aged 25, was unmarried and had entered the service on 2 August 1888.

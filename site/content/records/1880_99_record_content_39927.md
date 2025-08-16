@@ -20,6 +20,7 @@ topics:
 - appeal
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on an appeal from England for support for Dr Bernado’s Home after which the writer concludes that England is rich enough to tend to its own poor and we should keep our money here to tend to ours.

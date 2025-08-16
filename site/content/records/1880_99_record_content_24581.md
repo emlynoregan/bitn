@@ -22,6 +22,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs McLagan has moved to Aberdeen and will open a school on 7 February in the house lately occupied by Mr Wittber, opposite Roach Bros Mill.  [Bleak House.]

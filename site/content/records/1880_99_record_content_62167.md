@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has of late been taking up old wooden crossings and putting down stone ones to improve the town’s footpaths.  No doubt the Diamond Jubilee Celebrations have something to do with the alterations.

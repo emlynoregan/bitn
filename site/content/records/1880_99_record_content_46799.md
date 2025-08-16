@@ -25,6 +25,7 @@ topics:
 - prison
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James H. Moore was sentenced at Salisbury on Thursday to one month in gaol.  He had been arrested on Wednesday in Market Square, Burra, on a warrant for imposing on Charles Alfred Campbell at Salisbury last May.  He fraudulently posed as an agent for the Shearers’ Union and got advances from several shearers.

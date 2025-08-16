@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr T. Bock has died.  He was brought home from the Barrier a few days ago, ill and died at his residence in Kingston St.  [Theodore Bock died 5 March 1890 aged 55.]

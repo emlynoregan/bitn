@@ -19,6 +19,7 @@ topics:
 - notice
 - retraction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  John Sampson Jun. apologises for spreading the report that Philip Lane had made a composition with his creditors and now states that to be untrue and without foundation.

@@ -24,6 +24,7 @@ topics:
 - business
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial is enthusiastic over the Burra Slag Extraction Co.’s efforts, but condemns the inaction of SAMA.  The Slag Extraction Co. has been active now for some days on a trial basis and will shortly begin in earnest with three shifts working.  The editor commends the enterprise and courage shown by the Slag Extraction Co. and urges a similar show of activity in the mine and a push from the town towards that end.

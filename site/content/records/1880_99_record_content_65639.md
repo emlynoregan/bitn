@@ -24,6 +24,7 @@ topics:
 - cycling
 - record
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A.S. Bagg, who left Burra a few days before Christmas, departed from Broken Hill at 12 o’clock on Wednesday to lower the cycle record to Adelaide.  The weather was more conducive this time and he has lowered Thorn’s record by 5¾ hours and will get a substantial reward.

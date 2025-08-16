@@ -17,6 +17,7 @@ topics:
 - race
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Handicap over 1 mile: 1st £10, 2nd £3 and 3rd £2.

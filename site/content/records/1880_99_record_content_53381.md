@@ -22,6 +22,7 @@ topics:
 - inquest
 - gun
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick August Mann’s evidence confirmed the above account.

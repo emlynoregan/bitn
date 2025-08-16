@@ -24,6 +24,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 St John’s Lutheran Church at Burra celebrated its 20th anniversary at Burra North on Sunday.  Extra marquees were erected for the crowd with amplified relay of the service.  Pastor Arnold Schmidt, who was minister for Burra when the building was bought, returned for the service as guest speaker.  Six pastors attended, all of whom had had some connection with the church in Burra.  Bill Campbell of Campbell’s Lowloaders also attended.  The firm had transported the building to Burra twenty years ago.  After the service a luncheon was held in the Burra Show Hall.

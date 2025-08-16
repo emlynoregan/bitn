@@ -18,6 +18,7 @@ topics:
 - travel
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a 2½-column report on a trip to ‘The Western Coast’.

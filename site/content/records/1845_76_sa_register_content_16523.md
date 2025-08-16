@@ -22,6 +22,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mining Company.  A final dividend of ten shillings per share is now payable at the office of Messrs Wright Brothers, Exchange Chambers, by order of the Board.  E.A. Wright, Adelaide, 14 April.

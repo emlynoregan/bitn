@@ -19,6 +19,7 @@ topics:
 - entertainment
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Blind Performers will return to Burra for a concert of Band, Quartets, Duets & Trios on 3 September.

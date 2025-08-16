@@ -20,6 +20,7 @@ topics:
 - finance
 - recreation ground
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A poll is called for 6 February on the following question:

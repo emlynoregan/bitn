@@ -20,6 +20,7 @@ topics:
 - fine
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick Gebhardt had to pay 5/- + 5/- costs for failing to chain the wheel of his cart.

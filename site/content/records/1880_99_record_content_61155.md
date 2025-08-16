@@ -21,6 +21,7 @@ topics:
 - household
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Household Furniture and Effects on Friday 27 November Next to the Wesleyan Parsonage in Kangaroo St, Kooringa.

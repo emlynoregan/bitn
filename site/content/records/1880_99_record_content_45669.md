@@ -23,6 +23,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. staged a mock election campaign at their Friday meeting in which the results were: Mr Whittick 25, Mr Morton 18, Mr Hardy 16 & Mr Rabbich 11.

@@ -20,6 +20,7 @@ topics:
 - lecture
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  National Defence League of SA.  Mr Robert Hogarth will give a free address on the objects of the League in the Institute on 3 February.

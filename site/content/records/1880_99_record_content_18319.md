@@ -19,6 +19,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Dow has returned home after his painful operation and is doing well and hopes soon to be able to resume his duties as Council Inspector.

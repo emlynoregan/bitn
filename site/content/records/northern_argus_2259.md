@@ -24,6 +24,7 @@ topics:
 - grant
 - archaeology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Members of the History Trust of SA visited Burra with a representative of the Department of the Arts to inspect the Bon Accord Museum and Morphett’s Enginehouse.  The Bon Accord Museum is seeking a grant for archaeological work and Morphett’s Enginehouse is seeking accreditation as a museum and also a grant for the installation of an audio display.

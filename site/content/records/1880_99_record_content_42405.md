@@ -21,6 +21,7 @@ topics:
 - band
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  At the final social on Wednesday Mt T. Warnes promised £5 [On page 3 the sum is said to be 5 guineas] towards forming a Band for the Mounted Infantry Co.

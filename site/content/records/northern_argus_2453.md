@@ -18,6 +18,7 @@ topics:
 - mining
 - recognition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Special Recognition as an Historic Mining Town

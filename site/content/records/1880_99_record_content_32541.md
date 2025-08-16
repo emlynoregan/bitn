@@ -21,6 +21,7 @@ topics:
 - recovery
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trooper Williams is just back from the northeast where he had gone to bury the remains of a man lost three years ago on Buckaloo Run.  The country is all water and grass at present.

@@ -18,6 +18,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Burra Quadrille Assemblies will meet next on the 2 September rather than the 26 August.

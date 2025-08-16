@@ -20,6 +20,7 @@ topics:
 - conditions
 - provisions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [A letter from G. Lacy provides greater detail and says there are already hundreds of miners at work, but with a constant stream arriving that will soon be thousands.  He does not glamorise the scene.  He speaks of working in cold water and sleeping in wet clothes.  He believes few will succeed without forming a group or company of six to eight.  Prices of provisions are already extravagant.  Many have already returned.]

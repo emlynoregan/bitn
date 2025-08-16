@@ -20,6 +20,7 @@ topics:
 - contracts
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 And the awarding of a kerbing contract to Messrs Launder & Co. despite Mr Roger’s lower tender.

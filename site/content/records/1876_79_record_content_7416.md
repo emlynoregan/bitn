@@ -20,6 +20,7 @@ topics:
 - safety
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cr Ridgway raised the issue of the Aberdeen railway crossing, saying it needed gates or some other warning device or a man with a red flag to make it safer.

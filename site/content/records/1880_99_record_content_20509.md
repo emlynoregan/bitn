@@ -19,6 +19,7 @@ topics:
 - community
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One Eye Open’ writes complaining that the cabmen play pitch-and-toss on the stand in Market Square, quite openly.  Where are the police?

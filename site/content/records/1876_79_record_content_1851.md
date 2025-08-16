@@ -36,6 +36,7 @@ topics:
 - politics
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr & Mrs Wright Heath appointed wardsman and matron at £100 p.a. + apartment + rations.

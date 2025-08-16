@@ -31,6 +31,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss Harriett White died at her sister’s home in Burra on Sunday afternoon, aged 33.  She was the daughter of John and Jane White and a sister of Mrs T. Selby (Yongala), Mrs R. Hill (Burra), Mrs Robert Speckman & James White (Black Springs), and W. White (Mule Camp).

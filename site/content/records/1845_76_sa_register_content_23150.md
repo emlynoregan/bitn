@@ -37,6 +37,7 @@ topics:
 - property
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Parr & Luxmore will conduct an auction on Wednesday 9 February for the English and Australian Copper Co. 9 lots of valuable property.  [In brief as follows:]

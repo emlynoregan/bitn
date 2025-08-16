@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs T.H. Pearce’s remains arrived from Ballarat on the midday train on Thursday and she was buried that afternoon. [i.e. Pearse]

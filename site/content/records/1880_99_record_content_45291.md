@@ -21,6 +21,7 @@ topics:
 - community
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For Town Life: Messrs Rabbich, Whittick, & Mrs Davis (apologies from Mr Linkson)

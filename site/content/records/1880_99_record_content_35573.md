@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church anniversary next Sunday & Monday.  Rev. W.T. Shapley will preach.  Tea meeting on Monday.

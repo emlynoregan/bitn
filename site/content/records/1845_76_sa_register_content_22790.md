@@ -22,6 +22,7 @@ topics:
 - leases
 - township
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Survey.  Mr Goodfellow and his assistants are busy resurveying the Township of Kooringa preparatory to the renewal of leases by the Burra Company or the freehold of properties sold.

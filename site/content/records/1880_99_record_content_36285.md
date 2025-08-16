@@ -22,6 +22,7 @@ topics:
 - billiards
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Billiards.  On Wednesday a billiard match at the Burra Hotel saw John Chorlton of Burra play T. Oliver of Adelaide.  Chorlton played with a cue and Oliver hand ball.  Oliver gave 500 points in 1,000 to his opponent and won easily, at one stage making a break of 250.

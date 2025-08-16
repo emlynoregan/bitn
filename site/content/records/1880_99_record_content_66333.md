@@ -18,6 +18,7 @@ topics:
 - legal
 - fraud
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Kitchen has now also been charged with other fraud offences: £300 on 11 June 1895, £75 in July 1897, £110 on 20 November 1897 and £9-2-0 on 26 January 1898.

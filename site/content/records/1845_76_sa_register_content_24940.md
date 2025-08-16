@@ -21,6 +21,7 @@ topics:
 - injury
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Dog Attack.  On Tuesday evening an adopted son of Mr Cheval, who lives near the cemetery, was teasing a ferocious dog when it attacked him.  The little fellow was frightfully mutilated before the dog could be secured.  He is under the care of Dr Dashwood.

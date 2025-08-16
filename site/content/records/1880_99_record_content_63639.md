@@ -18,6 +18,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain last week registered 0.76” in a good gentle soaking fall.

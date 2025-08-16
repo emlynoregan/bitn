@@ -19,6 +19,7 @@ topics:
 - mining
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Broken Hill Mine Fire is extinguished.

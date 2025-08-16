@@ -20,6 +20,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Band of Hope was reopened after a recess last Tuesday with a tea meeting.  (The meeting featured songs, music and recitations.)

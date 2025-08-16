@@ -20,6 +20,7 @@ topics:
 - community
 - offer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Cave writes in to explain his offer to those willing to undertake to improve the chrysanthemum stocks in the town.

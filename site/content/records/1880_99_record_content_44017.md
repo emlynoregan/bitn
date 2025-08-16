@@ -27,6 +27,7 @@ topics:
 - waterworks
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Resident' writes a letter headed 'BLOWHARD(Y)ISM'

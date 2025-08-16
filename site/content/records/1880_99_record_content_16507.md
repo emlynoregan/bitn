@@ -21,6 +21,7 @@ topics:
 - assault
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Staff-Officer Jones spoke and said it was he who at Clare last Saturday had first been pelted with rotten eggs and then felled to the ground with a stone because he had belonged to the Salvation Army.  He would not have raised the matter had the Mayor not done so first.  He gloried that he was counted worthy to suffer for the Salvation Army and for the Lord Jesus Christ.

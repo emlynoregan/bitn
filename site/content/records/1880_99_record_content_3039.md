@@ -22,6 +22,7 @@ topics:
 - legal
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Local Option Society has asked the Town Council to request the Attorney General to see that the law is strictly enforced in Burra.

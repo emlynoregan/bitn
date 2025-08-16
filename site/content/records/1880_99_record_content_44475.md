@@ -20,6 +20,7 @@ topics:
 - event
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Booborowie Wesleyan Church celebrated its Harvest Thanksgiving on 31 January with Rev. J. Hopkins.

@@ -20,6 +20,7 @@ topics:
 - athletics
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Booborowie Sports of 25 December 1893 are reported with results.

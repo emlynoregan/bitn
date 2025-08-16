@@ -20,6 +20,7 @@ topics:
 - tobacco
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 One voice suggested they could do without the bridge, but did not like the tax on tobacco.

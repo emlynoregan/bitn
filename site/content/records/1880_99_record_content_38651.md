@@ -21,6 +21,7 @@ topics:
 - legal
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a question over hawkers’ licences.  The Wertheim Agent said he did not need one and challenged a summons.  The Singer Co. is also active.  It was resolved that if the solicitor’s opinion is favourable action will be taken.

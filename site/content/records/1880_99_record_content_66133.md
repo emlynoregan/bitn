@@ -23,6 +23,7 @@ topics:
 - welcome
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.G. Clarke was welcomed at a social in the Kooringa Wesleyan Lecture Hall on Monday evening.  The meeting also welcomed home Mr E.W. Crewes from his trip to England.  Dr Brummitt presided.

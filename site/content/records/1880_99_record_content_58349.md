@@ -20,6 +20,7 @@ topics:
 - pigeon racing
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race from Saddleworth on 9 September was for birds rung after 1 June 1895.  It was won by J.A. Pearce’s birds, which covered the 30 miles 320 yds in 39¾ mins at a velocity of 1,336 yds per minute.

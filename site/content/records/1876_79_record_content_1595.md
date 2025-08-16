@@ -22,6 +22,7 @@ topics:
 - education
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Anniversary of the Stony Gap Schoolroom to be held 24 Dec. & 26 Dec. with special services.

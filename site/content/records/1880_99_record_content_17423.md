@@ -19,6 +19,7 @@ topics:
 - defence
 - navy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War Preparations.  Two cruisers have been purchased to defend Australia and the colonial Governments are pushing on with preparations, but there are now some hopes that was will be averted.

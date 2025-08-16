@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Amusement at Burra Institute in aid of St Mary’s Church.  This is described as a unique entertainment involving living statuary.

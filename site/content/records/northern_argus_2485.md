@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Town Hall Funds were boosted last Friday with takings from an Autumn-Winter Fashion Parade.

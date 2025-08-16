@@ -22,6 +22,7 @@ topics:
 - confirmation
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Sunday morning the Roman Catholic Bishop confirmed 50 young persons and celebrated mass assisted by Rev. J. Tappeiner.  His Lordship then went on to Hanson [i.e. Farrell’s Flat].

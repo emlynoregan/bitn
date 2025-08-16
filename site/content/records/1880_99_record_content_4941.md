@@ -18,6 +18,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jewish Relief.  This office has a subscription list to aid Russian Jews lately subjected to terrible persecution in Southern Russia.

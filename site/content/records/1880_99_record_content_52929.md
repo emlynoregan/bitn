@@ -20,6 +20,7 @@ topics:
 - cricket
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan 39 & 19 (58) was defeated by Burra 39 and 1 for 65.

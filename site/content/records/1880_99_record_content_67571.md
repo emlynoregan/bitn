@@ -31,6 +31,7 @@ topics:
 - obituary
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  James Chynoweth, husband of Mary Jane Chynoweth, died 10 December, aged 63.  He took no active part in public matters, but was a consistent and useful church worker and superintendent of the Sunday school for 15 years.  He was a class leader, teacher, society steward etc. in the Primitive Methodist Church and a town resident for over 24 years.  He leaves an adult family of three sons and three daughters: Samuel (Kadina), James (Wallaroo), William (WA), Mrs Thomas Bentley (Burra), Mrs L.L. Wicklein (Burra) and Mrs B. Harris (WA).

@@ -26,6 +26,7 @@ topics:
 - train
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The train speed was 18-20 m.p.h. and it stopped in 400 to 500 yards.

@@ -22,6 +22,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Bible Christian Chapel Anniversary Services were held on Sunday & Monday 14 & 15 March.  On Sunday sermons were preached by Mr Ashton (recently from England) and Mr R. Dale from Kapunda.  The Monday tea meeting was held.  The total proceeds amounted to £70-13-6.

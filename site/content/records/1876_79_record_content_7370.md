@@ -20,6 +20,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The fifth anniversary of St Joseph's Church will be celebrated on 9 November. Rev. Fr Peters SJ will preach.

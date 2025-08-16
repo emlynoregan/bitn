@@ -19,6 +19,7 @@ topics:
 - rifle match
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  A match was fired on Wednesday last for a series of prizes donated by ladies and gentlemen of the town.  The winner on Wed. was Private Dixon.

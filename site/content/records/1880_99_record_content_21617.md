@@ -20,6 +20,7 @@ topics:
 - police
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robbery.  Police have still had no success with respect to the theft from Mr T. Edwards.

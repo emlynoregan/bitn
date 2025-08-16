@@ -21,6 +21,7 @@ topics:
 - gambling
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Debate in the Wesleyan Lecture Hall on Friday night addressed the question: Does the Totalizator encourage gambling and should it be abolished?  John Drew spoke for and W.H. Hardy against.  A small majority supported John Drew’s views that it does encourage gambling and should it be abolished.

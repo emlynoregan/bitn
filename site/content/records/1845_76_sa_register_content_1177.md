@@ -20,6 +20,7 @@ topics:
 - mining
 - speculation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Visit to the Antipodes by ‘A Squatter’ has been recently published in London.

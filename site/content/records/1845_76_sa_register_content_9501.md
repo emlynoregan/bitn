@@ -19,6 +19,7 @@ topics:
 - gaol
 - public service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Gaol.  Keeper of the Gaol, third class, apartment and £130.  One Turnkey, apartment and 6/- per day £109-16-0.  Increases under Clerks’ Salary Act, £70.

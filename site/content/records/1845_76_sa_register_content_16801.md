@@ -22,6 +22,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Copper Market.  A report from Liverpool dated 25 August cites Burra Burra and Kapunda copper at £99-£100 per ton.  The recent low prices for copper have resulted in reduced production from mines around the world and some have closed; the prices obtained not meeting the costs of production.  Inevitably supplies will be limited for some time and that makes prospects for the article favourable.

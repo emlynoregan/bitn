@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary last Sunday & Monday.  Rev. John Goodwin preached, with a flower service in the afternoon.  F.W. Holder presided over the meeting on Monday.  The church reduced its debt this year.

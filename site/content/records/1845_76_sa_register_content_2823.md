@@ -25,6 +25,7 @@ topics:
 - business
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.W.G. Nicholls again advertises a journey of the Reformer stage-cart to Bagot’s Mines, Burra Burra Mines and then across the country to the north and completes its journey home on one of the most pleasant routes in the colony.  Fares: Burra £1 and the whole trip £2-10-0.

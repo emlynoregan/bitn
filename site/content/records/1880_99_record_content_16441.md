@@ -23,6 +23,7 @@ topics:
 - inspection
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Ford complained that damage was being done to his fences at Redruth by cattle and he thought Inspector Dow was not dealing fairly with his case.

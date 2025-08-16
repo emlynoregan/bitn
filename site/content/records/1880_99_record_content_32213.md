@@ -22,6 +22,7 @@ topics:
 - accident
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Peterson sued Ford for £8 damages to a horse which he said Ford had fatally injured by striking it with a horse and vehicle negligently and unskilfully driven in Aberdeen on 23 March about 9.45 p.m.  Ford counter-claimed 30/- for damages to his cart.

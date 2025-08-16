@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  On 1 March Ensign Houghton, from the colony war office of the Salvation Army visited Burra and on Thursday Brigadier Young, Commander of SA visited.  During his visit he held indoor and open-air meetings and each was largely attended.

@@ -18,6 +18,7 @@ topics:
 - government
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With some difficulty the Upper House was induced to pass a tax bill based on the old higher land values and decreased the untaxed amount from £300 to £200.

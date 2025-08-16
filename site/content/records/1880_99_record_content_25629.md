@@ -22,6 +22,7 @@ topics:
 - farewell
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 26 May Mr A. Lott (Captain of the Burra Football Club) was farewelled at a social at the Commercial Hotel.  He is leaving at once for WA.

@@ -22,6 +22,7 @@ topics:
 - library
 - tour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Library Association of Australia (SA Branch) held its 1985 Country Conference in Burra on 4 & 5 October.  Many of those attending stayed in Paxton Square.  Delegates enjoyed a conference dinner at the Old Jinker Restaurant and a tour of Burra’s historic sites.

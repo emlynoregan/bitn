@@ -20,6 +20,7 @@ topics:
 - legal
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the ‘Absurd Charge’ against Inspector Gray.  Cr Rabbich appears to be grasping at straws to get even with the Inspector and the evidence before the committee is amusing and ridiculous in the extreme.  The action of Cr Rabbich cannot be too severely condemned.

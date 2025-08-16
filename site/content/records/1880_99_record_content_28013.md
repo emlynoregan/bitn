@@ -21,6 +21,7 @@ topics:
 - opinion
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Wanderer' again writes on the subject of wage earners being no better than slaves in a capitalist society.  He then continues against the Farmers' Association as being unrepresentative, before writing further on taxation.

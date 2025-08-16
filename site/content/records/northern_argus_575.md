@@ -28,6 +28,7 @@ topics:
 - sponsorship
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Breathers Barrow Push Team has been sponsored by Adelaide –based Financial Planners Robert J. Elrington & Associates.  The team comprises: Peter Bartlett (manager), Colin Baker, Des Menz, Maurie Taylor, Gary Williams, Dick Cuttle, Paul Smedley and Neil Page.

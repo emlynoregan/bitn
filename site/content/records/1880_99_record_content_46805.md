@@ -19,6 +19,7 @@ topics:
 - conspiracy charges
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill.  A report running 1⅓ columns deals with the conspiracy charges arising from the strike.  Other related matters are also reported.

@@ -19,6 +19,7 @@ topics:
 - waxworks
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kreitmayer’s Waxworks was largely attended.  Much attention was paid to Ned Kelly’s armour and the ‘electric boy’ amused and shocked others.

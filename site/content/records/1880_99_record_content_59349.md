@@ -21,6 +21,7 @@ topics:
 - wildlife
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted: 200 LIVE HARES (Uninjured).  For Price and particulars apply

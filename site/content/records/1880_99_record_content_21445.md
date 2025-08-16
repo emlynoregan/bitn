@@ -21,6 +21,7 @@ topics:
 - sport
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  Ladies and gentlemen from Clare will play Burra tomorrow on the courts opposite the Burra Hospital.

@@ -22,6 +22,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harry Rickards, who recently appeared at the Redruth Court, has now been tried at Gladstone Court for getting money under false pretences.  On Saturday he was sentenced to six months in gaol.

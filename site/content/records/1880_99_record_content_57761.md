@@ -19,6 +19,7 @@ topics:
 - land
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Also a house of 8 rooms at Mt Lofty occupied at present by Mr B. White.

@@ -24,6 +24,7 @@ topics:
 - prizes
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Grand Concert of the Public School children and the distribution of prizes was held in the Institute on Thursday 18 December.  [A recitation ‘Holiday Time’ was nicely rendered by Walter Allen among many items.]  Master Dow, one of the teachers, got a presentation by Mr Wittber from staff and students on his departure for the training college after five years at the school.  His Worship the mayor distributed 23 Compulsory Certificates and 75 Certificates of Merit.

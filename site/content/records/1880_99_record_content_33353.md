@@ -22,6 +22,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  10 Aug. at the residence of F. Gebhardt.  William Frederick Gebhardt, eldest son of F. Gebhardt married Mary Wilton, eldest daughter of Mr J.F. Wilton of Thebarton.

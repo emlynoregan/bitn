@@ -29,6 +29,7 @@ topics:
 - travel accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 This reply, not having been previously communicated to the men, and they were surprised to find that the Directors themselves had not failed to give attention to the petition, though for some reason it had not been announced to them.  Though the neglect was not attributable to them, the Directors would of course be responsible for the negligence of their servants.

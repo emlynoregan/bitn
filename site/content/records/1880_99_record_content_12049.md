@@ -21,6 +21,7 @@ topics:
 - thanks
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice: T. Edwards thanks all and especially J. Lewis JP and J. Anderson for aid in extinguishing the fire at his store last Sunday morning.

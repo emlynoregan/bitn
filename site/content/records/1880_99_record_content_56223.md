@@ -19,6 +19,7 @@ topics:
 - editorial
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Agricultural Bureau of SA annual report for 1893-4.  It reports 130 papers and the editor wishes for a more active branch in Burra.

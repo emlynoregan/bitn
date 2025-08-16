@@ -22,6 +22,7 @@ topics:
 - dentist
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P.H. Priestly, surgeon dentist of 4 Botanic Row North Terrace, Adelaide, may be consulted at the Commercial Hotel on 11 August.

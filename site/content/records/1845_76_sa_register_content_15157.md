@@ -18,6 +18,7 @@ topics:
 - celebration
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Wesleyan Young Men’s Class celebrated their first anniversary last evening with a tea and public meeting; both of which were well attended.

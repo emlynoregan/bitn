@@ -18,6 +18,7 @@ topics:
 - legal
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is ½ column detailing how L-C Thomas managed to catch the offender.

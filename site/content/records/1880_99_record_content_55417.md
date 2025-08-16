@@ -20,6 +20,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club’s 17th race [The last was also called the 17th!] was from Gawler on 28 November when J.A. Pearce’s b. c. Bendigo, b .c. h. Bendimere & b. c. c. Blueleap covered the 65 miles 1,520 yards in 160 mins.

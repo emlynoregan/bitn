@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice has chosen 2 August as Arbor Day with 50 trees to be planted in the school grounds.

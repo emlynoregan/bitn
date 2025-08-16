@@ -25,6 +25,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice.  New members are: John Morgan, grazier of Thistlebeds; John Quinn Hogan, farmer of Leighton; and S. Burns, blacksmith of Kooringa.

@@ -21,6 +21,7 @@ topics:
 - proposal
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 25 March 1875, page 6

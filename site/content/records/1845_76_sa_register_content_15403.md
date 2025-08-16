@@ -26,6 +26,7 @@ topics:
 - bank
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The newly built National Bank is now almost ready for occupation.  It stands on rising ground facing Market Square, at the bend of Commercial Street leading to the Institute and the Telegraph and Post Offices.  It is built of neatly pointed stonework, with stuccoed pilasters, window and door dressings and is surmounted by a bold cornice, also stuccoed.  The roof is galvanised iron.  The interior, though plain, is in keeping with the exterior and is replete with every convenience for the public and the manager.  The public room is 25 x 20 ft and is fitted with handsome cedar counters.  The manager’s room is 12 x 17 ft and is similarly fitted.  There is a strong-room, drawing-room, dining-room, good bedrooms, a kitchen and other domestic conveniences besides a large underground rain-water tank at the rear.  The private entrance is at the side of the building and the public entrance at the corner.  The contractor was Mr Tyrie of Adelaide, supervised by Mr George Bradley, the clerk of the works.  Edmund W. Wright was the architect.  When finished it will have cost about £1,500 and adds considerably to the appearance of the township and will make some of our other pretentious building look all the shabbier.

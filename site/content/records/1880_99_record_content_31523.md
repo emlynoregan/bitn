@@ -22,6 +22,7 @@ topics:
 - politics
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writs at length [⅔ column] taking issue with Dungey’s assertions that men’s industrial efforts have been universally restricted.  He considers that all things considered the colony is in a flourishing state and has achieved great things.  He argues the common sense of borrowing leading to development of a stronger economy.

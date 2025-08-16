@@ -23,6 +23,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Promenade Concert by Davey’s Brass Band Saturday evening 21 Sep. in Market Square under the patronage of the Mayor and Councillors.  Conductor W.J. Davey, Leader J. Davey.

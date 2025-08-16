@@ -20,6 +20,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Brass Band played in front of the Record office on Saturday night with refreshments at the office and success to the paper and its proprietors was drunk in bumpers.

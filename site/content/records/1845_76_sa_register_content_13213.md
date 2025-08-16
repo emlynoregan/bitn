@@ -26,6 +26,7 @@ topics:
 - finance
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association 15th Annual Report [Editorial]

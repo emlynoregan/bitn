@@ -19,6 +19,7 @@ topics:
 - letter
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offence: A letter countering the alleged assault on J. Hanford reported on page 215.

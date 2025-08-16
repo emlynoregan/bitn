@@ -21,6 +21,7 @@ topics:
 - trade
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  W. Pearce, General Wheelwright, has commenced business in the shop formerly used by Messrs Harry & Burns in Commercial St.  Buggies made to order.

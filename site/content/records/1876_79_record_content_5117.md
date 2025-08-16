@@ -20,6 +20,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. At the Inst. 14 Nov. The Grand Actress and Superb Vocalist, Miss Annie Firmin, with the celebrated actor Mr John Jack. 3/- & 2/-.

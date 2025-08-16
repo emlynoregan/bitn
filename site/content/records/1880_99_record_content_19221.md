@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army held a demonstration in Kooringa on Thursday, which was largely attended.  Major Thurman and other officers visited.

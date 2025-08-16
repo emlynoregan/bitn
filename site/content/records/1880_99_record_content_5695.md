@@ -21,6 +21,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Charles Schutz requests continued patronage for his ‘Old Line of Cabs’

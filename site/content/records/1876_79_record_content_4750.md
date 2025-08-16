@@ -34,6 +34,7 @@ topics:
 - culture
 - collection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute. Article by F.W. Holder, ‘Next to the public schools of the province we regard Institutes with their reading rooms and libraries as the best mental educators of the people.’ 

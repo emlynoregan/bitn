@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Joseph Hiles, eldest son of George Hiles of near Hallett, died on 24 April aged 51.  He was the former manager of Caroona Station and leaves a wife and three children.

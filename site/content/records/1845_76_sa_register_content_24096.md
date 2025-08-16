@@ -20,6 +20,7 @@ topics:
 - obituary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  The news of Rev. Ibbetson’s death was received in Burra with deep sorrow.  He was loved and respected here due to his earnest piety and Christian zeal combined with liberal views towards other denominations.

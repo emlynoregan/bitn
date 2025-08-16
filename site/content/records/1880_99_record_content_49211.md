@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Amid a deal of squabbling the Council moved to employ some men clearing out watertables on main roads.

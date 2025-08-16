@@ -20,6 +20,7 @@ topics:
 - motion
 - decision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor called for deferral of action, but the motion, 2nd by Cr Hardy, passed.

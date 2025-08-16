@@ -21,6 +21,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Model School entertainment last Friday was a great success.  It was estimated that 600 attended.  Mr Cater conducted and Mr E. Lipsett JP directed.

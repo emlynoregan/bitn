@@ -26,6 +26,7 @@ topics:
 - celebration
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Public Meeting called by the Mayor last Friday to decide on a form of public action to celebrate the Queen’s Jubilee decided on a treat for the children of the town on 22 June.  About £18 was collected at the Institute on Friday for that purpose.

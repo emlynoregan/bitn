@@ -19,6 +19,7 @@ topics:
 - school
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  A concentrated immunization campaign will be conducted at the school shortly.

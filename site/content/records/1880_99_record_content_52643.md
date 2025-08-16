@@ -20,6 +20,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On Saturday morning Stanley Rabbich was injured in a fall from a horse at Hampton and was spitting blood, but he is now recovering.

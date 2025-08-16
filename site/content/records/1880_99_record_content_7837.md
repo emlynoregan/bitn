@@ -20,6 +20,7 @@ topics:
 - development
 - college
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Roseworthy College.  A college is to be established on the site of the Government Farm at Roseworthy.

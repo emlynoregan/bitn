@@ -18,6 +18,7 @@ topics:
 - migration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 We have lost many local identities who have moved on to other places, most perhaps to Broken Hill.

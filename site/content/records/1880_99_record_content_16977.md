@@ -20,6 +20,7 @@ topics:
 - pest control
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vermin District No. 3, Board of Directors met on Wednesday at Baldina under T. Warnes (Chairman) and declared the rates of pay for vermin killed after 29 January.

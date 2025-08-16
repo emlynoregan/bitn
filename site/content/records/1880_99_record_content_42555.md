@@ -22,6 +22,7 @@ topics:
 - finance
 - trustees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Circuit Quarterly Meeting was held at Baldina on 23 September.  Income for the quarter was £92-4-2 and expenditure was £81-17-2.  The freehold of the Kooringa Church, school and old parsonage has been obtained and the names of the new trustees were submitted and approved.  A vote of appreciation for the work of Mr & Mrs Holder was passed.

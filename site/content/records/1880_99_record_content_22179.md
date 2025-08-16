@@ -18,6 +18,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  The Government men are not getting gold yet, but some others are doing better, though overall fortunes are not being made.

@@ -22,6 +22,7 @@ topics:
 - anniversary
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary was held on Sunday.  Rev. T. Theobald preached in the morning and Rev. J.Y. Simpson in the evening.  Rev. D.S. Wylie gave the connective readings for the afternoon service of song.

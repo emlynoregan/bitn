@@ -20,6 +20,7 @@ topics:
 - economy
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Everything is dull here with a great want of drays, which at this time of the year used to be here in hundreds.

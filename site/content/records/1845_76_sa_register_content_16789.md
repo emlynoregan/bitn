@@ -30,6 +30,7 @@ topics:
 - membership
 - funds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Others mentioned in the report of toasts and entertainments were: E.L. Grundy, GM Box, Bro. N.D. Bennet, Bro. Cheke, Bro. Bartholomew, Bro. Rosenberg, PG Bartholomew, Bro. Tamblyn, Mr Drake, Bro. W. Roberts, NG Chappel (who stated there were 134 members good on the books and over £400 in funds) & Mr Richards.]

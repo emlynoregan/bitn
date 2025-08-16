@@ -23,6 +23,7 @@ topics:
 - address
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 IOB, Rose of Sharon Tent, annual festival in the Institute Tuesday evening. Chair was taken by F.W. Holder. Refreshments were followed by musical items and then an address by Mr Holder: `Total Abstinence and Rechabitism'. There were also recitations and dialogues, songs etc. interspersed with toasts.

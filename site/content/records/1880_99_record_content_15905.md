@@ -17,6 +17,7 @@ topics:
 - fiction
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notes or Gold began 23 September and concluded 16 December 1884.

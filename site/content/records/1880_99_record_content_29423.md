@@ -18,6 +18,7 @@ topics:
 - disaster
 - maritime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Report of the Select Committee in to the Star of Greece disaster is printed.

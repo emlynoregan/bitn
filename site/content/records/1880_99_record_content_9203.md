@@ -24,6 +24,7 @@ topics:
 - fine
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Richardson was charged with selling less than 1 gallon of brandy contrary to his storekeeper’s licence.  On 13 December Sheperdson went to the wine and spirit cellar behind Mr Park’s shop and asked for a bottle of brandy, which was supplied for 6/6.  Despite a plea of entrapment and others of a technical nature the defendant was fined £10 plus £3-14-0 costs or 28 days.

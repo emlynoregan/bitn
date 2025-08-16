@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Launder & Harris were awarded the tender for the cemetery wall at 4/5½ per yard.

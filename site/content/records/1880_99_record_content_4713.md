@@ -19,6 +19,7 @@ topics:
 - entertainment
 - opera
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute Wed. & Thurs. 16 & 17 August the Royal English Opera and Pinafore Co. will present H.M.S. Pinafore and Maritana.

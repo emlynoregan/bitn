@@ -24,6 +24,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H. Wilkinson from Kalgoorlie will preach at the Wesleyan Church on Sunday next.  He is an old Burra boy and should draw a crowded congregation.

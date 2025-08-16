@@ -24,6 +24,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Temperance in Kooringa.  No meetings are reported of the original Total Abstinence Society, but 21 additional names have been added to the pledge book and three cases of reformation reported.

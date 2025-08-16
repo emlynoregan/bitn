@@ -20,6 +20,7 @@ topics:
 - horse racing
 - boxing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sporting News.  The Polo Club continues to practise, but no matches have been arranged.

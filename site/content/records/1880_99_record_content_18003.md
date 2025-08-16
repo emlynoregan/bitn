@@ -23,6 +23,7 @@ topics:
 - railway
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Father Kreissl was attacked at the Jamestown railway station on Monday by a man being sent to Adelaide Lunatic Asylum and his face was badly bruised.

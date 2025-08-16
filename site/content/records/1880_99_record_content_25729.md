@@ -20,6 +20,7 @@ topics:
 - timetable
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Train Timetable.  The afternoon train to Adelaide will run 10 minutes earlier, arriving in Burra at 4.40 p.m. and leaving at 4.46 p.m.

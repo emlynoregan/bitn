@@ -24,6 +24,7 @@ topics:
 - building
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  At Hallett on 2 March soon after 9 p.m. Mr Müller’s store was burnt to the ground. It was an old galvanised iron building lined with matchboard.  It had been erected in the old coaching days by Mr R. Hannaford and was known then as Dick’s Eating House.  Terry’s booking office was adjacent and also went.  The detached store kitchen was saved.

@@ -19,6 +19,7 @@ topics:
 - community
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The following were fined £1 and cautioned for playing football in the street at Kooringa on 7 September.

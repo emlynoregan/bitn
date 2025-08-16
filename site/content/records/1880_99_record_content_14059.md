@@ -21,6 +21,7 @@ topics:
 - correspondence
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Seb. George writes doubting the veracity of the Silverton correspondent.  He accuses him and the papers generally of greatly exaggerating the value and significance of the finds.

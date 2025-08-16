@@ -22,6 +22,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. had a good attendance last Friday, chaired by Rev. R.W. Campbell as President. Ways of improving the organisation were discussed and the possibility of a more central location, perhaps the Institute, was considered.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Locusts.  Grain fields near Kooringa promise a good harvest this year.  Frequent rains have produced luxuriant growth.  Locust hatchings from last year’s eggs are feared, but though a considerable number have been seen in sheltered spots there is as yet no real damage.

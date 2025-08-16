@@ -19,6 +19,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School Annual Picnic at Johnson’s Creek last Wednesday.  There was a special service at 9.15 before starting out.  After sports and games a substantial tea was served and a scramble for oranges etc.  Home was reached about 5.30 p.m.

@@ -19,6 +19,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss M.T. O’Leary was elected Senior Matron and Miss M. Tobin Junior Matron.

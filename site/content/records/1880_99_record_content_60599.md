@@ -22,6 +22,7 @@ topics:
 - recital
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Macully gave a successful recital in St Mary’s schoolroom last Wednesday with selections from Dickens, Hood, Shakespeare & Byron interspersed with instrumental and vocal items.

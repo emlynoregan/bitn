@@ -19,6 +19,7 @@ topics:
 - council
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mayors and Chairmen of District Councils of the north of Adelaide are to be asked to form a deputation to the Govt.  [Further details occupy about ½ column.]

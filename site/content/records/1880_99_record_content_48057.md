@@ -19,6 +19,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The match Burra v. Jamestown started at 2 p.m. on 27 December and at stumps Burra was 7 for 299.  The game continues today.

@@ -20,6 +20,7 @@ topics:
 - entertainment
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Max O’Rell appeared at the Institute on Thursday and gave a lecture on American humour: ‘Jonathan and Yankeedom’.  The attendance was smaller than expected, but those present were highly delighted.

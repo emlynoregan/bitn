@@ -39,6 +39,7 @@ topics:
 - mine
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Flower moved Apoinga Council urge the owner of the following blocks to take action by erecting netting fences to control rabbits: sections 40, 39, 35, 34, 33, 25, E25, S24, 48, 201, 47, 44, 43, 10, 11, & 12.

@@ -24,6 +24,7 @@ topics:
 - finance
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Cemetery. A letter to the editor poses a number of questions relating to the cemetery. SAMA gave the cemetery to a trust. The writer wants to know: Who were the trustees?

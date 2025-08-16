@@ -22,6 +22,7 @@ topics:
 - sport
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 One-Mile Pony Race (Under 14-1)	P.R. Scott’s The Laird

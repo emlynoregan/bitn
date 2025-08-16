@@ -27,6 +27,7 @@ topics:
 - injury
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
   Accident.  John Sanders aged 12, the son of Captain Sanders, left F.R. White’s school at 4 p.m. on the 24 August along with his brother, W. Killicoat and a lad called West.  On their way home they went for a ride in the large balance box at the engine-house at the Mine.   While there Sanders saw his brother-in-law coming and tried to get away by clinging to steps leading to the landing, but the box came up and crushed him severely.  The bottom part of his body was a mass of blood and broken bones, with a large wound in the abdomen.  Drs Cave and Dashwood are attending, but hold no hope of survival.

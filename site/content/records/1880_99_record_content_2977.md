@@ -21,6 +21,7 @@ topics:
 - gold
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold indications have been found on land of SAMA’s near the town and Mr Bock has obtained rights to proceed over a portion of ground.

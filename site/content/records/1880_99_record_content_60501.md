@@ -19,6 +19,7 @@ topics:
 - legal
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Anderson said in the bustle and confusion at the end of a Lodge, errors in addition were not unexpected.  In most cases Parks had robbed himself and it could not possibly be attributed to wilfully falsifying the books.

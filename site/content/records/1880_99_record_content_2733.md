@@ -21,6 +21,7 @@ topics:
 - poetry
 - misc
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 22 Apr 81	Serpent Ch XXXII	One Hundred Pounds Reward		X			X	X	X	X	X

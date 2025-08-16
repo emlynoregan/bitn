@@ -18,6 +18,7 @@ topics:
 - environment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  Plans are in hand to plant 1,000 trees with most of the work to be paid for by public subscription.

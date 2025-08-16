@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.P. Barker has invited the Mounted Infantry Co. to his residence at Baldina today.

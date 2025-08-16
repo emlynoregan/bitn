@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There have been numerous complaints recently, especially from the inhabitants of Redruth, about the closing of two or three cross roads north of the township.  This has diverted much traffic from Aberdeen and Redruth, as travellers from there are unable to get onto the Mount Remarkable Road without a considerable detour, thus depriving the two townships of the benefits of the North Road traffic.  It is time the Ranger or other responsible person enquired into the matter.

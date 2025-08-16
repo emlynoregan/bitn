@@ -20,6 +20,7 @@ topics:
 - transport
 - goods_transit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Railway.  The improvement in the transit of goods since the railway opened has not been as great as was hoped.  The delay is frequently a week.  It may be that carrying firms will not forward from Adelaide until they get truckloads.  In any event horse teams delivered as quickly.  Perhaps the complaints are premature and the difficulties will settle soon.

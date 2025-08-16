@@ -23,6 +23,7 @@ topics:
 - fundraising
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan School building fund services on 30 December with Rev. W.H. Rofe of Terowie and Rev. S. Knight to preach.  And on 2 January 1884 there will be a Grand Concert in the Institute.

@@ -27,6 +27,7 @@ topics:
 - society
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Grand Entertainment for the VF and the Burra Literary Society was well-arranged and nicely carried out last Friday evening.  There was a large audience and they did well considering the inconvenience of having to provide their own furniture: ‘the provisions made . . . in hall accommodation are disgraceful’. 

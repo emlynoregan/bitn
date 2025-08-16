@@ -21,6 +21,7 @@ topics:
 - controversy
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 5 June.  There was a stormy discussion re Cr Linkson putting on a man to work in North Ward.  He was so amazed at the discussion that he said Cr Hardy was not fit to fill any position.

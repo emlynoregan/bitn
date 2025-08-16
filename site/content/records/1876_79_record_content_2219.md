@@ -20,6 +20,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Hibernian Australasian Catholic Benefit Society held an entertainment in connection with St Josephs on 19 April of songs and glees & though of good standard it was not very well attended.

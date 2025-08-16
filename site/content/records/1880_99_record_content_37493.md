@@ -19,6 +19,7 @@ topics:
 - law
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Liquor Traffic Reform introduced by Hon. F.W. Holder, including a graduated licence fee, provision for licensed clubs of not less than 50 persons in the city or 25 in the country, local option under specified conditions, and Sunday closing.

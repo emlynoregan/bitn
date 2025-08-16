@@ -26,6 +26,7 @@ topics:
 - community
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oddfellows’ Sports.  These had been postponed from an earlier date due to rain.  At noon the Burra & Aberdeen Juvenile lodges led by Davey’s Band marched around Commercial St and then to the Recreation Ground. Mr Holder MP opened the gates and with the Councillors, Town Clerk and Lodge Surgeon was escorted to the centre of the oval.  He spoke of the considerable improvements that have been made to the oval and its surroundings, with trees now beginning to grow and he declared the grounds open as the ‘Burra Oval’.  The sports followed and the results are printed.

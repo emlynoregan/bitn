@@ -26,6 +26,7 @@ topics:
 - transport
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called for the conveyance of mails to and from Gawler Town, Kapunda and Burra Burra Mines, with a branch to Bungaree, passing the stations of Messrs Slater and Horrocks.

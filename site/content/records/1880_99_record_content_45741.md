@@ -22,6 +22,7 @@ topics:
 - food prices
 - consumer complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Working Man’ writes complaining of the price of meat in Burra.  He considers butchers make over 200% on meat – the Burra Hospital for example is supplied at 2½d lb all round.  Is this generosity or conscience?  Prices should come down at least 1d per pound all round.

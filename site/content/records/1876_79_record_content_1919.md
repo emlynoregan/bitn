@@ -21,6 +21,7 @@ topics:
 - transport
 - resource supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Captain Sanders said the Mine had received 4,400 tons of firewood in the last six months via their favoured route.

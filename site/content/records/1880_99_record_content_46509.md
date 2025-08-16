@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Bible Christian Church Special Effort on 4 September.  Rev. Thomas Allen will preach and in the afternoon a Service of Song with Rev. R.M. Hunter.

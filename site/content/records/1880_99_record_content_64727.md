@@ -21,6 +21,7 @@ topics:
 - assessment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The assessment of 1898 will be used for 1899 with such alterations as needed.  This will be advertised in the Government Gazette and the Burra Record.

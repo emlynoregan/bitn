@@ -22,6 +22,7 @@ topics:
 - event
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Thomas Bath, a businessman of Burra for many years, will be entertained at a dinner on 17 Feb., prior to his departure soon on a visit to England.

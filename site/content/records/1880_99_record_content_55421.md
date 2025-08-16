@@ -20,6 +20,7 @@ topics:
 - health
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr F.W. Holder is very ill.  He has felt severely the death of one of his young children and he also has a racking cough. His colleague and brother-in-law, Mr Lake, has had to go to Tasmania because of severe illness.

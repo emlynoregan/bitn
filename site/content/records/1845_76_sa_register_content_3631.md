@@ -21,6 +21,7 @@ topics:
 - mining
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident at Burra Burra Mine.  Azariah Goldsworthy was working underground when a ponderous mass of ore and rubbish fell from above and almost buried him.  He escaped with a broken leg and some lesser injuries.  He is recovering under the attention of Dr Moore.

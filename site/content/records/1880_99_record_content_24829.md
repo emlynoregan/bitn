@@ -19,6 +19,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder has agreed to stand for the District of Burra for the house of Assembly.

@@ -22,6 +22,7 @@ topics:
 - event
 - rifle matches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Matches.  75 riflemen from SA will compete in the Sydney Centennial Matches, including Sergeant Watt from Burra.

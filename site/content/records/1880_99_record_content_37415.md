@@ -20,6 +20,7 @@ topics:
 - death
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Deceased was probably a close relation of Cr O’Leary of Burra as the Councillor was absent from Council on Monday 21 July due to a family bereavement.]

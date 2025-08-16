@@ -21,6 +21,7 @@ topics:
 - auction
 - bakery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Under Bill of Sale on the premises of F. Gebhardt’s Bakery in Lower Thames St on 28 April, John Sampson will sell by auction the lease of the bakehouse, dwelling and land and will also auction the baker’s equipment and household domestic effects without reserve.

@@ -19,6 +19,7 @@ topics:
 - drought
 - crop
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crops around Burra are looking promising, but in the east another bad season is threatening.  Grain planted there has gone mouldy without germinating.

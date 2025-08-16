@@ -20,6 +20,7 @@ topics:
 - race
 - protest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Anti-Chinese Feeling. B. Judkins, committeeman assisting the Sydney Seamen's strike, urges the necessity of a meeting to protest against the introduction of Chinese.

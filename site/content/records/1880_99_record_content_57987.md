@@ -18,6 +18,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 East Ward has spent £72-16-2 of its £82-15-7.

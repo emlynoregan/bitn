@@ -19,6 +19,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Broken Hill-Burra Barrow Push is on in five weeks’ time and sixteen teams have nominated.

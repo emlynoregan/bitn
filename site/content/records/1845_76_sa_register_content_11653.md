@@ -31,6 +31,7 @@ topics:
 - property
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘We wish the Directors of the Burra Burra could see it right to offer such terms to persons settling on their property at Kooringa as might induce them to improve the appearance and condition of the township, as it presents a most abject and forbidding aspect to a stranger visiting it.  The town ought to be under municipal regulations, that the accumulation of rubbish in the various thoroughfares might be cleared away.  It is also desirable that the dilapidated buildings should be removed or renovated.’

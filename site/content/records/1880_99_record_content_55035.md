@@ -20,6 +20,7 @@ topics:
 - death
 - genealogy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Born Rachel Flower 1836 in Somerset: died 18 October 1894 aged 58.]

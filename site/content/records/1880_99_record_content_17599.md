@@ -20,6 +20,7 @@ topics:
 - gardens
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Gardens are looking particularly well just now as they reap the advantage of the water supply now available.

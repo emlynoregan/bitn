@@ -20,6 +20,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Edwin Thomas’s magic lantern entertainment in the Bible Christian schoolroom was excellent, but the attendance was not great.  It will be repeated shortly in the Wesleyan Lecture Hall.

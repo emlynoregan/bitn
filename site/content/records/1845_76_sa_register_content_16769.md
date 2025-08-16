@@ -20,6 +20,7 @@ topics:
 - injury
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  J. Kellaway received some bruises in a fall of earth at the Mine.

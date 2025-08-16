@@ -21,6 +21,7 @@ topics:
 - legal
 - assault
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Henry Batchelor (son of W.H. Batchelor) charged Archibald Sampson of striking him in the face without provocation. G.A. Lawson witnessed the action. Sampson was fined 20/- + 28/- costs.

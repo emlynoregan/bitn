@@ -19,6 +19,7 @@ topics:
 - migration
 - goldfields
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  There is a substantial flow of people to WA [and its goldfields].  This year to March 10 SA lost 1,535 to WA.

@@ -25,6 +25,7 @@ topics:
 - letter
 - local dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes that on a recent day of heavy rain his children were unable to cross between the end of the brewery and the school on account of the stream being diverted by Mr J. Lewis of Bagot, Shakes & Lewis as he had been told.  If true this should be remedied and ‘Messrs Bagot, Shakes & Lewis shown that they do not own the whole of the town’.

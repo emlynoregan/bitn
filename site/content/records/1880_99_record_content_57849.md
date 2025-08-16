@@ -20,6 +20,7 @@ topics:
 - legal
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 State advances Bill.  The petition against the Bill is printed.  It will probably be presented today by the Treasurer the Hon. F.W. Holder.

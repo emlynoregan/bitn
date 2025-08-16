@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Thomas Ward, City Coroner, is dead.  [Died 28 December 1888 aged 73]

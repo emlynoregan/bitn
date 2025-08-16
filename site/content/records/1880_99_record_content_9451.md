@@ -26,6 +26,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2.	Another would be so limited that only the Square would be served, apart from the water carts.  It would comprise simply tanks over the well in the Square.

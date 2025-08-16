@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Patrick’s Day passed quietly with services at St Joseph’s.

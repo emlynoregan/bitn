@@ -27,6 +27,7 @@ topics:
 - trade
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Bushman’ writes a fairly letter to the Brisbane Courier concerned with the likely effect on trade of extending the various railway lines that will take western Queensland livestock either to the east coast, possibly to the Gulf of Carpentaria, or to Port Augusta.  The writer considers lines to, (or extensions of lines beyond) Cloncurry and Boulia, Thargomindah, Farina, Innamincka.

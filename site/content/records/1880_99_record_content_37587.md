@@ -19,6 +19,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sale.  The sale of Drew Bros. furniture last Friday at the Institute realised very big prices.  The sale continues next Friday.

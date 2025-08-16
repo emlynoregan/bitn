@@ -25,6 +25,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  At Christmas break-up celebrations Michael Lennon, Assistant Director Department of Local Government, presented Local Government Service Awards to John Burge, Farrell Flat Ward Councillor, for 17 years’ service and to James Hawker, immediate past Chairman of the Council and past Councillor for Booborowie Ward, for 12 years’ service.

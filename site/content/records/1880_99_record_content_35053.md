@@ -26,6 +26,7 @@ topics:
 - industry
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Prospectus for the Burra Fire Brick & Clay Co. is printed to raise a capital of £2,500 in 2,500 £1 shares.

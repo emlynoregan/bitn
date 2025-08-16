@@ -18,6 +18,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Vocalists, Pianistes, Violinistes, Flautists and Bellringers.’  2/-, 1/-.

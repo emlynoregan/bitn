@@ -24,6 +24,7 @@ topics:
 - education
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Thorne is preaching at local Bible Christian churches to raise money to establish Way College in Adelaide, to train candidates for the ministry.  Mr Torr is to be the headmaster and he is going to England for 3-4 years to get a degree.

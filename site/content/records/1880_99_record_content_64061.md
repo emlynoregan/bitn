@@ -22,6 +22,7 @@ topics:
 - hospitality
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Walsh, widow of the late Thomas Walsh has taken over the Kooringa Hotel.

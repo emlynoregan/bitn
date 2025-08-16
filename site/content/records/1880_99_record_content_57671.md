@@ -26,6 +26,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Charlotte A.L. Pearse, wife of T.H. Pearse of ‘The Gums’ died at Kooringa on 13 July aged 34.  She was the youngest daughter of Mr George Hiles of ‘Petherton House’ Hallett.

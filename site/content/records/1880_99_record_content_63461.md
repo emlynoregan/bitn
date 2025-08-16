@@ -37,6 +37,7 @@ topics:
 - school
 - prizegiving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra High School.  17 December saw the end of year for the school and the prize giving.  Rev. A.G. King distributed the prizes.  The severe financial stresses of the times saw a smaller number of students this year and Mrs McLagan has been absent due to continuing bad health.  The loss of Mrs Winnall’s services [Formerly Miss Sprod] was also a severe blow after six years.  For family reasons early in the year the school moved from Bleak House to premises opposite the park which the Council has in part allowed to be used as a playground.

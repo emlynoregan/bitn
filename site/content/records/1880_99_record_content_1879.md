@@ -21,6 +21,7 @@ topics:
 - funding
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Road Grant.  The special £400 grant for the road past the Kooringa P.O. and the Institute has been passed.

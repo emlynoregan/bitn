@@ -19,6 +19,7 @@ topics:
 - mine
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  Operations are progressing slowly.  The fixing of novel and extensive machinery is taking time.  It is hoped full work will be possible in a few weeks.

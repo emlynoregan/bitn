@@ -27,6 +27,7 @@ topics:
 - property
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  For sale by public auction by order of the Trustees of the Royal Mining Company under the provisions of the Winding-up Act:

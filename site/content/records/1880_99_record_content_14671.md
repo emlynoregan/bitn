@@ -18,6 +18,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show will be held on 29 October.

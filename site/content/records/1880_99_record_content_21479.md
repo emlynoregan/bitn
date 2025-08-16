@@ -20,6 +20,7 @@ topics:
 - show
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute monthly committee meeting announces that the Chrysanthemum Show will be held at the end of April.

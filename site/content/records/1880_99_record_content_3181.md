@@ -20,6 +20,7 @@ topics:
 - public health
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Veritas’ who writes deploring the stench in the town from the way dead cats, fowls etc. are left lying around.

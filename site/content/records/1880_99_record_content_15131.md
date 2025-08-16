@@ -18,6 +18,7 @@ topics:
 - editorial
 - note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Absit omen = may this foreboding not become fact.  Which seems a trifle odd since the allegation is that it has been fact for the last 50 years.]

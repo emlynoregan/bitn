@@ -22,6 +22,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Farrell’s Flat Races on Thursday were a success in Mr S. Tour’s [Torr’s] paddock, ¼ mile from the town.  As well as the horse racing there were pedestrian events and the result are printed.

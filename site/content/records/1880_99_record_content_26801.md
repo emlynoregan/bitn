@@ -18,6 +18,7 @@ topics:
 - environment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  People are asked to give a bucket of water a week to the young street trees in front of their houses.

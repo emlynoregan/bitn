@@ -36,6 +36,7 @@ topics:
 - presentation
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Presentations were made to Ex-Councillors J. Sampson & D.J. O’Leary at the Council Chamber at the Institute last Wednesday.  The Mayor, W. West, presided.

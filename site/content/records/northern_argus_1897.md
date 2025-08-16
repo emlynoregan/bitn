@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Marriage.  Burra Last Saturday: Lisa Steele married Mark Brooks.

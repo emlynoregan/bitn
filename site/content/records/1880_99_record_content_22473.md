@@ -19,6 +19,7 @@ topics:
 - public houses
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Petition to the House of Assembly has been signed by 12,042 persons desiring that the public houses be open from 8-10 p.m. on Sundays.

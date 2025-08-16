@@ -19,6 +19,7 @@ topics:
 - equipment
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 About 60 wagons, 250 horses and mules, harness, carts, plant and implements.

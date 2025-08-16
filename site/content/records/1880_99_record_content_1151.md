@@ -26,6 +26,7 @@ topics:
 - law
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jenkin does not blame the Burra School Board as they have answered the questions put to them honestly.  The place is within four miles and the Education Act forbids the opening of a school within four miles, but the Act was not intended to apply to townships. [Only to rural areas.]  Proof of this lies in the situation in the City, at Port Adelaide, or in the country at places like Wallaroo and Moonta etc.  The Copperhouse children cannot be compelled to go to the Burra School and yet are denied a school.

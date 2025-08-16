@@ -24,6 +24,7 @@ topics:
 - auction
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston, Shakes & Co. under instructions from Mr J. Martin will sell Allotments 26 & 27 of Nelson Town, comprising c. ¾ acre on which is a two-roomed dwelling house.

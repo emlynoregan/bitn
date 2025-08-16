@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Statton and Henderson offered to transfer the land needed for the approach to the Kingston St Bridge for nothing if the Corp. would fill the 100 feet of land to be given in exchange, to the height of their existing premises and build a retaining wall. The Corp. agreed to this offer.

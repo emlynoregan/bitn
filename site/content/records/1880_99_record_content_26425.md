@@ -21,6 +21,7 @@ topics:
 - sale
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J. &. E. Hosking, Having decided to relinquish Business in Burra and devote the Whole of their attention to the Broken Hill branch, will offer the whole of their well assorted STOCK at Cost Price for CASH.  Oct. 6 1887.

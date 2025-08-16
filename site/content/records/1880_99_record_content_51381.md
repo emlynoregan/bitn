@@ -20,6 +20,7 @@ topics:
 - society
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met last Friday and featured mock deputations to the Treasurer and Commissioner of Public works – the first sought £100 for the District Council for a bridge on the road to Copperhouse and the second sought gates at the Bon Accord crossing.

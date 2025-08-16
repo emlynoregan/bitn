@@ -20,6 +20,7 @@ topics:
 - fundraising
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Library of 3,118 books, though there are many worn out books.  Subscribers are 72.  Necessary alterations to the hall were discussed together with ways of raising the money.  A series of concerts was decided upon.

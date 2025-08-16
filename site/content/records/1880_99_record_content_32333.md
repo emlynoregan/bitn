@@ -20,6 +20,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School Anniversary 20 & 21 April.  Rev. S. Gray preached.  The church was crowded for the public meeting.  The school was prosperous.  Proceeds were c. £11.

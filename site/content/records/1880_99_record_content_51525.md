@@ -24,6 +24,7 @@ topics:
 - health
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'The wife of Martin Pederson of Kooringa gave birth to triplets on Thursday night last.  The mother and trio are in excellent health while the father is proud of his little visitors.'

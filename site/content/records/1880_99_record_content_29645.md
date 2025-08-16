@@ -20,6 +20,7 @@ topics:
 - volunteer
 - drill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF attended the drill at Balaklava yesterday, returning by the last train.

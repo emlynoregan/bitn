@@ -18,6 +18,7 @@ topics:
 - finance
 - liquidation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Commercial Bank.  All amalgamation or merger chances have been excluded and without a substantial injection of new capital the only option left is liquidation.

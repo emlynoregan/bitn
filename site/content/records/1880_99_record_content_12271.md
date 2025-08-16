@@ -22,6 +22,7 @@ topics:
 - salary
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on why the Government Medical Officer at Burra (Dr Brummitt) gets £100 while the one at Gawler gets £10.  At Burra the Medical Officer does all the medical and surgical work at inquests, post mortems and law courts, certifies lunatics and attends the destitute poor.  In Burra he also visits the Gaol at least twice a week.  The duties in Burra completely justify the expense.

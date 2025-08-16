@@ -19,6 +19,7 @@ topics:
 - business
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A New Draper’ [C.H. Ewins took over Thomas Edwards, but continued to trade as T. Edwards & Co.]

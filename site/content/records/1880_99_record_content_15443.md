@@ -21,6 +21,7 @@ topics:
 - public health
 - consumer goods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes calling attention to the sale of a dangerous Chinese firework.  Sales of these should be stopped during the summer months for fear of fire.  Also in the evening young men stand in the doorways of shops in the town smoking pipes and cigars, knocking them out and scattering sparks which the draught blows under doors and into shops.

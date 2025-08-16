@@ -27,6 +27,7 @@ topics:
 - trade
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Barrier Trade.  There is considerable debate about the Barrier trade with a standard gauge line from Sydney getting nearer.  Some favour a broad gauge line from Morgan to Broken Hill.  Rounsevell favours a 4’8½” line from Adelaide to Broken Hill via Morgan.  Others favour a third rail south from Terowie.  We favour a new broad gauge line from Burra to Broken Hill via the eastern plains.

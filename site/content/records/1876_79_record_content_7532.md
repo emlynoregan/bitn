@@ -17,6 +17,7 @@ topics:
 - legal
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Banks v. Rosman is reported in another 2 columns.

@@ -21,6 +21,7 @@ topics:
 - Salvation Army
 - larrikins
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikins took possession of the Salvation Army meeting in Market Square on Wednesday evening in the singing of the chorus of Fire Away.  The police were present, but did nothing.  What are they paid for?

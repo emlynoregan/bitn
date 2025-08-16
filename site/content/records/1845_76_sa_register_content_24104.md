@@ -19,6 +19,7 @@ topics:
 - ploughing
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Ploughing Match to be held today is expected to attract a large attendance.  Arrangements have been made for excursion fares on the railway and for a liberal prize list to ensure competition.

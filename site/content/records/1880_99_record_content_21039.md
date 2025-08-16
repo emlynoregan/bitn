@@ -22,6 +22,7 @@ topics:
 - stock salesmen
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 McLaren, White & Co.	Auctioneers & Stock Salesmen, Kapunda & Burra

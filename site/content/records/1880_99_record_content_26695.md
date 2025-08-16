@@ -20,6 +20,7 @@ topics:
 - election
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Elections.  As requested the Mayor, F.W. Holder, called a meeting of council contenders for Monday 21 Nov. at the Institute.

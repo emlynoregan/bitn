@@ -19,6 +19,7 @@ topics:
 - events
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Wesleyan Chapel, Hanson anniversary on 2 & 3 November. [At this date this would mean the chapel at Farrell's Flat.]

@@ -22,6 +22,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Mongolata 83 defeated Ketchowla 54 last Saturday.  Of the ten matches they have played this season they have won eight.  The highest batting averages are C. Warnes 21.8 and I Warnes 20.9.  The leading bowling figures are I. Warnes with 30 wickets for an av. 4 and H.S. Stephens 43 for an av. 5.

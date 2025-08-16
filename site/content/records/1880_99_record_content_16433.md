@@ -19,6 +19,7 @@ topics:
 - policy
 - public vs private
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Symons objected to anything being done that would not be done by private individuals.

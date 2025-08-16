@@ -20,6 +20,7 @@ topics:
 - community
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Agricultural Bureau, Burra Branch, has asked the Council to get the town declared a sparrow district.

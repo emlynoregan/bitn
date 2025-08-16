@@ -20,6 +20,7 @@ topics:
 - community
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Great disappointment is expressed that Miss Aitken should leave the colony without visiting the Burra.

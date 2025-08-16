@@ -19,6 +19,7 @@ topics:
 - safety
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bridge: Footbridge behind the Miners' Arms reported to be unsafe due to lack of handrail and insecure approach on the town side. [It seemed to be just a plank in width from the discussion.]

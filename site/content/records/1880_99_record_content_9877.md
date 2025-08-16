@@ -24,6 +24,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment at the Institute in aid of the Kooringa volunteer Brass Band, assisted by A.E. Carter of Rhynie and the Burra Amateur Christy Minstrels and Professor Primrose, Australian Star Phrenologist and concluding with the laughable farce ‘Virginia Mummy’.  2/- & 1/-.

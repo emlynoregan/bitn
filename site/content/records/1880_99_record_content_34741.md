@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson moved the water troughs at Aberdeen be closed and a tender for same be called.  Carried

@@ -20,6 +20,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Anniversary services of Kooringa Wesleyan Sunday School.  Easter Sunday 25 March.  Preacher, James Bickford, President of Conference.  Service of Song ‘Daniel’.  Tea meeting Easter Monday.

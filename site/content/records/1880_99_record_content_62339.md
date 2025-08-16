@@ -24,6 +24,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Elections for Burra last Saturday.  Results known so far favour the sitting members:	Bleechmore	251	plumpers 73

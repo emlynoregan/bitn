@@ -20,6 +20,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  Further work at the Black Hills Silver Claim is said to make the Dunstan party’s prospects look good.

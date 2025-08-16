@@ -21,6 +21,7 @@ topics:
 - religion
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Wesleyan Circuits: Rev. H. T. Burgess has been appointed to Kooringa and T.M. Rowe to Redruth.

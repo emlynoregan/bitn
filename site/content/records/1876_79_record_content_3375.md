@@ -20,6 +20,7 @@ topics:
 - advertisement
 - enrolment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra School_ The Head Master will be in attendance 7 to 11 January for enrolling.

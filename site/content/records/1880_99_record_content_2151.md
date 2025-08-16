@@ -19,6 +19,7 @@ topics:
 - horticulture
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1 Everlasting	1st	6 Any kind grown outdoors	1st

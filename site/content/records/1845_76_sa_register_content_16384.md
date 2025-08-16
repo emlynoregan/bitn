@@ -24,6 +24,7 @@ topics:
 - appointment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Geer has for some time been employed here in a drapery establishment, but at the last Wesleyan Conference he was appointed to a ministerial position at Mt Gambier.  He took his farewell of the church here on Monday evening when Rev. Lloyd presented him with a testimonial from the church in the form of a fine copy of Benson’s Commentaries.

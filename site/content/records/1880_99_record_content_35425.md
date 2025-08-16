@@ -20,6 +20,7 @@ topics:
 - workers
 - class
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Labourer’ warning working class voters to beware of candidates who promise anything to get elected, but once there pander at once to the landowners and those with money.  The editor endorses this and hopes for radical change with the workers being represented by their own class in Parliament.

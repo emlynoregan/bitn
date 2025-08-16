@@ -21,6 +21,7 @@ topics:
 - accident
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burning of the Clare Mill.  A report on the fire at Kimber’s Mill in Clare from the Northern Argus.

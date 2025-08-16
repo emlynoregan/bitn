@@ -20,6 +20,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A haystack of c. 100 tons was burnt at Mrs Grace Camp’s farm at Springbank on Sunday night.  There will be an inquest next Friday.

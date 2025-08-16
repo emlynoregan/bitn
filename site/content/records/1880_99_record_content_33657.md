@@ -20,6 +20,7 @@ topics:
 - morality
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader accusing the Adelaide press of being indecently interested in such foul stuff as the Anderson divorce case.  Beastly actions and corrupt specimens of humanity should be exposed, but we object ‘to chronicle in detail the filthy modus operandi of the beasts in question’.

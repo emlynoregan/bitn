@@ -24,6 +24,7 @@ topics:
 - inquest
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mary Elizabeth Bagg gave details of what she had done on hearing the shot.  She had sent word to John Carey, Mr Launder (who was working on the new house) and to Dr Brummitt.

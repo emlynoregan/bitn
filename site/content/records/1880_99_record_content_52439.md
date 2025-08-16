@@ -20,6 +20,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The grand evening concert was arranged by Mr C. Fuss and was a great success at the Institute.

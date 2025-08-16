@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr John Hutson died in Thames St Kooringa last Wednesday 28 April.  He was a resident of over 40 years.  For some time he was a wheelwright in the town. He was aged 84 and leaves three sons and two daughters.

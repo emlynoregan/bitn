@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School Picnic was held at Princess Royal woolshed last Wednesday and was well attended.  The only drawback was the disagreeable dust storm that blew for part of the time.

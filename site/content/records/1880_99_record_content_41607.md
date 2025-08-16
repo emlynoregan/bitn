@@ -18,6 +18,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Mine.  We have heard a lot about the purchase of the Bon Accord Mine recently, but what has become of the purchasers?

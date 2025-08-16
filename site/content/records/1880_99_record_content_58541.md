@@ -19,6 +19,7 @@ topics:
 - celebration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guy Fawkes Night was celebrated with vigour on 5 November.  A number of frightful figures were hawked around the town and some lads were punished for returning home with the destruction of various parts of their wearing apparel.

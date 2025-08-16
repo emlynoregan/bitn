@@ -23,6 +23,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich has decided to move his piggeries out of town on account of the requirements of the Health Act and By-laws.  It is believed that Mr Bromley and Mr Gebhardt will do the same.

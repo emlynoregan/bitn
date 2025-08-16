@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr John Roach has agreed to direct three special entertainments at the Institute in aid of the proposed alterations.

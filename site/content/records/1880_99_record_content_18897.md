@@ -19,6 +19,7 @@ topics:
 - politics
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Payment of Members Bill, which had passed the House of Assembly, but awaited an uncertain future in the Legislative Council.

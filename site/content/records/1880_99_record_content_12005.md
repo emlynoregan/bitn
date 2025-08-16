@@ -21,6 +21,7 @@ topics:
 - alcohol
 - social issues
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Umberumberka over Christmas one man died from drink and 17 men are (on 3 Jan.) chained to posts with ‘the horrors’ and 5 have gone bush similarly afflicted.  Thackaringa is not much better.  [i.e. in the Barrier Ranges]

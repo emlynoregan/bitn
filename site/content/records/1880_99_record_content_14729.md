@@ -20,6 +20,7 @@ topics:
 - local_government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called by Corporation of Burra for the position of Engineer, Collector etc. for the Burra Waterworks.

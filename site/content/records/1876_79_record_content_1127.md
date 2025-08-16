@@ -20,6 +20,7 @@ topics:
 - migration
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Forfarshire migrant ship arrived Port Adelaide with Hydraspes 1060 migrants in all. [Some of these ended up at Burra, working on the Hallett railway.]

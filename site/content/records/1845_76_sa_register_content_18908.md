@@ -20,6 +20,7 @@ topics:
 - police
 - cattle stealing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Police are on the track of parties involved in several cases of cattle stealing in the neighbourhood lately.

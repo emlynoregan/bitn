@@ -19,6 +19,7 @@ topics:
 - railways
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Broken Hill Expresses ‘are most convenient and are being largely patronised.’

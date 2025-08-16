@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice. Redruth Wesleyan Church Anniversary 21 May and tea meeting 24 May.  Rev. W. Bainger & Rev. S. Knight to preach.

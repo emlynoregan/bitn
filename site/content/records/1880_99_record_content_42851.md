@@ -20,6 +20,7 @@ topics:
 - military service
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Creighton was a veteran of the Crimean War and has a wife in NZ whom he had left because of his drunken habits.

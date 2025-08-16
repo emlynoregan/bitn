@@ -21,6 +21,7 @@ topics:
 - accident
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  D.E. Williams lost a 20 ton haystack to fire at Iron Mine on Wednesday afternoon.  It was set alight by a young boy from the adjoining paddock who wanted to see a fire!

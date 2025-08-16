@@ -28,6 +28,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Copper Festival 1986 attracted thousands.  It is estimated 1,500 took part in the procession, which featured Burra’s magnificent Jubilee 150 float, band, cars, people in period costume, carts, horses, donkeys, Clydesdales, etc.  After the procession attention turned to the Burra Yacht Club’s annual regatta, at which the winners were:

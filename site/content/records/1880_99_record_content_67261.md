@@ -20,6 +20,7 @@ topics:
 - finance
 - shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club.  Half-yearly meeting shows a credit balance of £7-7-9 in the bank plus £1-1-11 cash.  Winner of the last match was A. Millet.

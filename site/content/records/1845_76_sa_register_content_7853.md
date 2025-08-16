@@ -31,6 +31,7 @@ topics:
 - inquest
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  The Burra Mail was involved in a fatal accident at Gawler last Friday.  The mail from Burra did not reach Gawler till 9.30 p.m. on Friday, the roads being so heavy due to the rain.  On turning into the main street, the driver checked the horses to avoid a dangerous hole in the middle of the road and having avoided that, the horses trotted on.  Scarcely 100 yards further on it was found that the pole had snapped off.  The road was on an incline and the driver found it impossible to prevent the coach from running on the horses.  As a result they became unmanageable and the coach tipped over 50 yards from the Post Office.  When lights had been obtained it was found that Patrick Joyce, a farmer from near the Catholic Chapel on the Light, had been killed on the spot.

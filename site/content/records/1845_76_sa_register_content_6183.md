@@ -22,6 +22,7 @@ topics:
 - police
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burglaries.  The house of Mr John Higgs was forcibly entered on Sunday evening while the family was at church.  Among items stolen was Mr Higgs cash-box, which fortunately only held an order for £3.

@@ -20,6 +20,7 @@ topics:
 - education
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Bazaar was held in the Institute Monday to Wednesday last.  We believe the nett proceeds were c. £130, in aid of the building fund of the new convent school, which is in the course of erection.

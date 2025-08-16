@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Railway.  The Terowie correspondent says the real reason for the delay in opening the line is that an error in making some of the small bridges on the line means they will have to be altered.

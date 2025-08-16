@@ -20,6 +20,7 @@ topics:
 - government
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It is rumoured that Mr Holder’s family is preparing to go to London at the start of next year and he is to become the next Agent-General.

@@ -20,6 +20,7 @@ topics:
 - accounts
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  ‘Argus’ writes on the deficiencies in the Corporation accounts as published.

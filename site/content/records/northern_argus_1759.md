@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Elspeth & Graham Radford of ‘Glenora’ on 30 September, a son, Thomas David.

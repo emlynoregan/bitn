@@ -21,6 +21,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Bazaar, Show Day and the day after, in aid of a new Wesleyan Schoolroom, Redruth.  In Institute 22 & 23 September.

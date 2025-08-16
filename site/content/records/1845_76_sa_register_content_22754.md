@@ -35,6 +35,7 @@ topics:
 - public works
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Editorial on Engineering works in progress.  Many of the public works authorised three years ago will be viewed with very different feelings from those of their originators.

@@ -24,6 +24,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The foundation stone of the new Salvation Army Barracks in Kooringa will be laid by the Mayor John Dunstan jnr JP on Wednesday 11 February.  There will then be a TEA FIGHT in the Recreation Ground.  Guests include Major Thurman and Staff-Officer Hulman from Victoria.

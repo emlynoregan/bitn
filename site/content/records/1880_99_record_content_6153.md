@@ -19,6 +19,7 @@ topics:
 - memorial
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Stephens is to present the memorial to the Honourable the Commissioner of Crown Lands.

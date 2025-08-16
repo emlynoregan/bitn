@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At Clare last Tuesday.  Burra 65 & 66 lost to Clare Juniors 114 & 1 for 18.

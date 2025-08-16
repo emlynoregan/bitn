@@ -20,6 +20,7 @@ topics:
 - injury
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Humphrey Sandland, jumped from a trolly at the St Mary’s picnic, fell over, and was then run over by the second trolly.  Amazingly he was recovered from under the wheels with nothing more than a broken shoulder and lesser wounds and will recover in a few weeks.  [Aged c.7½]

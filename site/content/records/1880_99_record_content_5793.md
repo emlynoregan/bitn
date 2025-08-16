@@ -20,6 +20,7 @@ topics:
 - rainfall
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rainfall to 16 December has been 16.573” in Kooringa - last year’s total was 21.145”.

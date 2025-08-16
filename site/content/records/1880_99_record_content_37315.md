@@ -20,6 +20,7 @@ topics:
 - editorial
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the restoration of cable communication with England after a break of nine days.

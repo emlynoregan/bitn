@@ -19,6 +19,7 @@ topics:
 - athletics
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Petrea will compete in the 100, 200 & 400 metre events, the 90 m hurdles, the triple jump, the 4 x 100 m relay and the 4 x 400 m relay.

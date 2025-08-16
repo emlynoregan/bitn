@@ -23,6 +23,7 @@ topics:
 - business
 - departure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr H. Downes, who has been connected with the firm of Elder, Smith & Co. in Burra for some time, is leaving for the city.

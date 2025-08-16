@@ -21,6 +21,7 @@ topics:
 - governance
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Upper Wakefield.  44 ratepayers have petitioned the Governor to annex certain land to the west of Upper Wakefield to that district because the vast traffic between the Burra Burra Mines and Port Wakefield is flooding the area with cattle seeking feed and water and while the land remains outside a proclaimed district, these activities cannot be controlled. [The text of the memorial is printed.]

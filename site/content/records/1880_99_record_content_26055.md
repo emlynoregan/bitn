@@ -21,6 +21,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Ironmine Primitive Methodist Church anniversary will be celebrated 31 July and 1 August.  Sermons by F.W. Holder.

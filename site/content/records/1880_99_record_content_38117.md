@@ -23,6 +23,7 @@ topics:
 - art
 - literary society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert at Burra Institute Wednesday 1 October in aid of Art Exhibition and Literary Society.  [Column 7 says the Floral, Art and Industrial Exhibition and the paper of 30 September confirms its connection with the Redruth Wesleyan Church.]

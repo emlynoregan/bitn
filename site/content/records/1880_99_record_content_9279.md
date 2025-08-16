@@ -22,6 +22,7 @@ topics:
 - fire
 - restoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr John Pearce has won the contract for restoring the premises lately destroyed by fire in Market Square, for £900.

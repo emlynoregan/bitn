@@ -19,6 +19,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thanksgiving services were offered at all the Protestant places of worship except the Anglican Church last Sunday for the preservation of the life of HRH the Duke of Edinburgh.

@@ -21,6 +21,7 @@ topics:
 - local government
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The business of the Council has been being transacted in a most unsatisfactory way and last Monday ‘the whole evening was wasted over most ridiculous child’s play and clap-trap.’

@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - telegraph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for additions to the Kooringa Telegraph Station.  Plans and specifications may be obtained at this office and at the Telegraph Station in Kooringa.  W. Hanson, Engineer & Architect.

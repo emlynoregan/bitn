@@ -27,6 +27,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.  Henry Lecher, aged 16, died last Sunday.  The inquest was held on Monday, P. Lane JP, Coroner and W. Geake, foreman of the jury.  Alex Low described how the deceased was caught in machinery at the chaff house on 27 December.  Edward Roberts confirmed that Henry Lecher took a whip to drive the horses in the chaff cutter.  He told Lecher to jump on the machine and drive the horses, but he was not told to take the whip.  Lecher was employed by Edward Camp who was reaping for Mr Low.  Mr Low, Roberts and another man took the machine to pieces to get the boy out - we often let the drivers ride - think it quite safe - there was not a seat. (The witness seemed intoxicated and his story was hard to extract from him.)

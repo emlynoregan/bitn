@@ -20,6 +20,7 @@ topics:
 - fundraising
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be an Entertainment at the Institute on 22 June in aid of the Children’s Hospital Funds.

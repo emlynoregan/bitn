@@ -19,6 +19,7 @@ topics:
 - letter
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from H.C. Young writes expressing surprise at seeing himself mentioned as a leader in the bread throwing larrikinism and denying same - though he is willing to admit being present and doing ‘what a good many more did’.  He also considers that it is a bit tough to write as if the larrikinism was the cause of the current depression.

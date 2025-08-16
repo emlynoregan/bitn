@@ -18,6 +18,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There is a detailed report on the sleeping carriages used on the Melbourne Express.

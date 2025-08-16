@@ -61,6 +61,7 @@ topics:
 - census
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On 16 September Burra wrote to the Board demanding payment of £1,750 in breach of his contract.

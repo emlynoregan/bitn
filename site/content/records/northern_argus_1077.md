@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Dr Ash Thomas & Kathy on 7 April, a son, Sando Douglas.

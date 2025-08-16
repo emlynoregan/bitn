@@ -19,6 +19,7 @@ topics:
 - events
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Friday and Saturday were fearful days of high winds and dust storms.  Rain fell on Sunday and Wednesday.  The wind did much damage over a wide area of the mid-north.

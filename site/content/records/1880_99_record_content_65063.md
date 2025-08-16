@@ -24,6 +24,7 @@ topics:
 - company formation
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Port Pirie Recorder says a meeting at Mr Copinger’s office on Saturday evening saw the formation of a syndicate of 40 shareholders to prospect a large block of 640 acres near Burra which is known to have a lode of ore running through it.  They will sink a shaft on the property at once and the syndicate has enough money to thoroughly test the site.  The name of the venture is the Burra Consols Mining Co.  We understand the property is near the Princess Royal.

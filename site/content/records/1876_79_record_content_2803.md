@@ -20,6 +20,7 @@ topics:
 - municipal
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. The Commissioner of Public Works replies in the negative to the request for more money for the Kooringa road to Nankivell’s Gully.

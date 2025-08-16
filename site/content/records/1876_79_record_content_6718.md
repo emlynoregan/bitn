@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The Amateur Dramatic Society's entertainment in aid of the Institute was given to a fair audience despite the very wet weather.

@@ -25,6 +25,7 @@ topics:
 - health
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Watt asked if a telegram in the Advertiser about the railway premises [at Burra] being abominable had been authorised by Council to be sent.

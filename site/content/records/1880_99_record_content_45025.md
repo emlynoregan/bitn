@@ -21,6 +21,7 @@ topics:
 - copper
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter has, through the continuing depression of the copper market, decided to sell his plant.  This is a loss both to the town and Mr Paynter.  Several tons of copper have been produced and sold, but present prices did not warrant continuing.

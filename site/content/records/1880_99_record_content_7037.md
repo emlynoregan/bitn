@@ -18,6 +18,7 @@ topics:
 - events
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Races on Wednesday had very few visitors due to the very wet weather.  The racing was very fair.  Results printed.

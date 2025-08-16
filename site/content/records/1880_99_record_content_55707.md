@@ -24,6 +24,7 @@ topics:
 - tinsmith
 - iron worker
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.F. Brady	Tinsmith Iron Worker, etc., Commercial St, in late H. Pearce’s shop & in Aberdeen in late I.W. Goss’s residence

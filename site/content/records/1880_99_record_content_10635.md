@@ -18,6 +18,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Parsonage Fund Bazaar in the Institute this week was well attended and the two days raised £170.

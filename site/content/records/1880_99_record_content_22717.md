@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Grand Open Air Concert is to be held this evening at 7.15 p.m. with proceeds going to the Burra Hospital.

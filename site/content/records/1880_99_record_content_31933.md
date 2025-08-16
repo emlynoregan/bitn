@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Emily Willmer Gebhardt, wife of F. Gebhardt Jun. and third daughter of G.W. Jordan of Kooringa, died 11 March leaving a husband and three children.  [Registered as Emily Wilmore Gebhardt, died 11 March 1889, aged 25.  A child of the same name also died 28 March 1889, aged 2 weeks.]

@@ -22,6 +22,7 @@ topics:
 - business
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The retiring Directors Messrs Thomas Graves, Arthur Blyth, George Strickland Kingston, John Beck and Thomas Greaves Waterhouse, were re-elected.

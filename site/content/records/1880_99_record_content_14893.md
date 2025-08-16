@@ -20,6 +20,7 @@ topics:
 - eight-hour
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes again to attack J. Cooksley on the 8 hours issue.

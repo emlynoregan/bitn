@@ -22,6 +22,7 @@ topics:
 - entertainment
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Band of Hope.  The concert at the Wesleyan Lecture Hall on Thursday night raised about £5 for their cricket club.

@@ -21,6 +21,7 @@ topics:
 - public order
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inspector Gray has acted on complaints re young men swimming in the Burra Creek and has put a stop to their little game.

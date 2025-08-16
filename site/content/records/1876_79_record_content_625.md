@@ -20,6 +20,7 @@ topics:
 - transport
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 First passenger train from Hoyleton arrived at Port Wakefield 13 July 1876.

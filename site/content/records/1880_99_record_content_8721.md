@@ -20,6 +20,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School Anniversary on 24 & 25 December saw a large crowd of children.  On Christmas Day the school made a procession through the town with the brass band and more tea provisions had to be obtained.  The school now numbers 180.  Collections and the tea raised £29.

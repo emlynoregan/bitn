@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Community Library will hold an open day on 20 November to give people an opportunity of seeing the new Local History Room mezzanine.

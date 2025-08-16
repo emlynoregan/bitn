@@ -19,6 +19,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand concert at the Institute in aid of Institute funds, Wednesday 17 June.  2/- & 1/-

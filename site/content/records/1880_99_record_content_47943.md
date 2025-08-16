@@ -24,6 +24,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Friendly Societies’ Sports.  On Boxing Day the societies will form a procession from the Institute headed by the Burra Brass Band and the Mount Bryan Fife and Drum Band to march to the Hospital and then to the Oval for the combined sports meeting.

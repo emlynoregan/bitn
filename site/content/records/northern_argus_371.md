@@ -20,6 +20,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Accident.  A motor vehicle and a section car collided at the Farrell Flat level crossing on 22 October.  The section car driver was slightly injured and the other driver was unhurt.

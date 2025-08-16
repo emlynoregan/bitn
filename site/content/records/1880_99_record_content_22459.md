@@ -22,6 +22,7 @@ topics:
 - disaster
 - volcanic eruption
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the great volcanic eruption in New Zealand last Thursday when Mt Tarawera erupted destroying the village of Wairoa and the famous Rotomahana Terraces.

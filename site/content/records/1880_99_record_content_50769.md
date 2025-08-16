@@ -22,6 +22,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Military Ball on 30 August in the Institute.  Tickets for a Gent and two Ladies 8/-.  Dew and Hindes Musicians.

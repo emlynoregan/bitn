@@ -19,6 +19,7 @@ topics:
 - tender
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The First Annual Meeting of Scrip-holders of the South Australian Mining Association is called for 15 April.

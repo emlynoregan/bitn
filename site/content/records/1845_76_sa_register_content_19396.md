@@ -21,6 +21,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  On 28 May Mrs Warnes, the wife of a sheep farmer near Burra, left four children alone in her house for a few moments and returned to find a girl aged about 2 in flames.  She quickly extinguished the fire and the child’s injuries did not seem to be extensive, but at 6 a.m. the next morning she suddenly died.  Dr Dashwood ascribed the death to nervous exhaustion consequent upon the fire.

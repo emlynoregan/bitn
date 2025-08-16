@@ -20,6 +20,7 @@ topics:
 - event
 - fare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  S.A.R. Cheap excursion fares to the Melbourne Exhibition.

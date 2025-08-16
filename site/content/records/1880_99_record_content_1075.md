@@ -20,6 +20,7 @@ topics:
 - prices
 - food
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  A whole column letter that is again devoted to the high cost of meat, referring to prices described as extortionate in Adelaide - and Burra prices were higher again.

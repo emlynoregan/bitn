@@ -51,6 +51,7 @@ topics:
 - elections
 - constitution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sunday Closing & Local Option Assoc. met on Monday 30 August with Dr Brummitt in the chair.  Attendance was larger than last time.  Mr Holder moved the adoption of a constitution.  2nd Mr Kitchen.  Dr Sangster moved the name be The Burra Sunday Closing and Local Option Association.  2nd by J. Roberts and carried.

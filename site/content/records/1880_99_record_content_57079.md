@@ -24,6 +24,7 @@ topics:
 - labour
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the last meeting of Council Councillors Sampson and Parks, as representatives of East Ward, got some work passed for Ayers St.  The following day they got a dray and two men to work and a few hours later Cr Hardy appeared and instructed the overseer to tell ‘those fellows’ to stop work by order of the Chairman of Public Works.  The overseer, thinking he was under the power of this would-be conspicuous personage, acceded to the request, but the workers used their own judgement and carried on till 5 p.m.

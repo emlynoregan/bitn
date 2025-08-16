@@ -22,6 +22,7 @@ topics:
 - education
 - certificates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St John’s Certificates have gone to E.A. Brummitt, R.D. Brummitt, P.A. Roach & S.M. Lane, (All of P.A.C.)

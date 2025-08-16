@@ -19,6 +19,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 William Jenkins letter supporting the placement of temperance literature in the Institute Reading Room.

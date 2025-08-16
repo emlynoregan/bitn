@@ -20,6 +20,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. At the Inst. for one night only on 16 Nov. Reappearing after an absence of almost three years: - Rainer’s great Diorama of the American War. 1/-, 2/- & 3/-. 

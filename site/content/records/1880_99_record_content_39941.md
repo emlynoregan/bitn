@@ -21,6 +21,7 @@ topics:
 - notice
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice has been served on Bagot, Shakes and Lewis to clear the obstruction in the watercourse.

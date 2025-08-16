@@ -20,6 +20,7 @@ topics:
 - frost
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crops.  A Wonna farmer reports his own crops were cut by frost and many others between Wonna and Terowie, but the wheat that escaped had done very well and the affected wheat is also coming on well.

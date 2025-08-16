@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Karculta Mine.  There are rumours that a syndicate is being formed to reopen this old mine.

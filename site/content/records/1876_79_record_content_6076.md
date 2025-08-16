@@ -21,6 +21,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Meeting called for those interested in forming a Gymnasium Club at the Commercial Hotel 19 March, 8 p.m.

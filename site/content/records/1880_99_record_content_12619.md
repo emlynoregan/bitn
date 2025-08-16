@@ -19,6 +19,7 @@ topics:
 - election
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election.  For District of Burra nomination day was 15 April and voting on 23 April.

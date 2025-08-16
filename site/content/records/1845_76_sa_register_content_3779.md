@@ -24,6 +24,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Prize Boxing is rife in Kooringa, with sums of £1 to £5 a-side being staked.  There are too few police to interfere in this brutalising amusement. After one such fight between ‘Paddy the Horse’ and ‘Scotchy’ some men of violence, miscalling themselves ‘miners’ got up a row with a few Aboriginals, one of whom received a blow that would have fractured a white man’s skull.  The Mine officers have discharged some of the principal movers of these fights, so prejudicial to their interests and to the public peace.  The Resident Magistrate Mr Lang suppressed one fight due to take place near his house.

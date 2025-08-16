@@ -20,6 +20,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.; Entertainment at the Inst. 15 July in aid of the building fund. Dissolving views of the overland route to India at a lecture by Dr. Brummitt. 2/- & 1/-

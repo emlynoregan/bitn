@@ -28,6 +28,7 @@ topics:
 - membership
 - matches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The first dinner of the Aberdeen Cricket Club was held at the Royal Exchange Hotel 26 March.  [Note that this suggests that the ‘Royal’ part of the name was in use as early as this, though the licensing information suggests a much later date for its official use.]  W.R. Ridgway was in the chair.

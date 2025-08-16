@@ -20,6 +20,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway moved that the attention of the Hydraulic Engineer be drawn to the agreement that interest be not charged till the work is complete.  No certificate of completion has been issued and the engine is not fixed and the engine house not built.  A year’s interest was payable before the work began, but was to date from completion.  The whole of that deposit has not been paid: about £95 of the £112, he thought.  Carried.

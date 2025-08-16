@@ -24,6 +24,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  John Harvey, only son of William Harvey of Ballarat and Sarah Ann Webster, 2nd daughter of George Webster of forest Hotel, River Murray, at Kooringa Wesleyan Church 7 August.

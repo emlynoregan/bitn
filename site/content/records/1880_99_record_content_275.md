@@ -19,6 +19,7 @@ topics:
 - payments
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina farmers will be assessed individually for any relief from government payments.

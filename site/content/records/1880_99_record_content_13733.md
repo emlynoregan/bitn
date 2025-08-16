@@ -19,6 +19,7 @@ topics:
 - reserve
 - planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Aberdeen Reserve is to be planted.  [Perhaps worthy of note since the Council didn’t own it.]

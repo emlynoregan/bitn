@@ -23,6 +23,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Abraham Goitt died when he fell from the train near Petersburg last Tuesday.  The inquest at the Burra Hospital was to be continued today, but is expected to be adjourned as the witness who was alone with him in the carriage at the time, a man named Bathgate, has not been found.  [Registered as Giott, died 28 February, aged 45.]

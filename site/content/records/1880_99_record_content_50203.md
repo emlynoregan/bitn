@@ -22,6 +22,7 @@ topics:
 - religion
 - archbishop
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The Catholic Archbishop of Adelaide the Most Rev. Christopher Augustus Reynolds, has died in Adelaide.  [Registered as Christopher Augustine Reynolds died 12 June 1893 aged 58.]

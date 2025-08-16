@@ -20,6 +20,7 @@ topics:
 - butchers
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W. T. Rabbich denying the buying of diseased animals and complaining that the town’s butchers have been impugned without evidence in the paper.

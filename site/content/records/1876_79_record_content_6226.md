@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. With the legal questions finally settled between the Burra Corporation and Statton & Henderson, work on the new bridge is proceeding rapidly and it should be completed soon.

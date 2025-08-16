@@ -19,6 +19,7 @@ topics:
 - supplement
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With the change to twice weekly publication some of the Literary Supplement material begins to appear in the paper on pages 3 & 4 and the Literary Supplement proper presumably ceased.

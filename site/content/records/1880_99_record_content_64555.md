@@ -22,6 +22,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ensign Verity devoted his address to the social programs of the Army.  Rev. Simpson moved a vote of thanks which was seconded by A. Harris Sen.  As a result of the meeting the local corps has been able to send £13 to headquarters.

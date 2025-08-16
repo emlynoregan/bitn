@@ -18,6 +18,7 @@ topics:
 - welfare
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The second must be assisted for their own sakes and the sake of the state.

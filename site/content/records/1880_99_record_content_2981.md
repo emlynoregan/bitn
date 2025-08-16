@@ -18,6 +18,7 @@ topics:
 - community
 - law enforcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year.  The usual larrikinism was somewhat abated by police action, though shutters were removed from a shop window in one case.

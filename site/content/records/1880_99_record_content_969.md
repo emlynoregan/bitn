@@ -21,6 +21,7 @@ topics:
 - editorial
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Captain Bagot and the Land Laws.  Bagot advocated perpetual lease rather than freehold.  The editor considered that it was too late to introduce this in SA now, however good it was in theory if it had operated from the start of settlement.  He also raised other objections to the proposal.

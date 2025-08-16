@@ -23,6 +23,7 @@ topics:
 - burglary
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Crimes. Last Saturday night or Sunday morning it seems a boy was lowered down a chimney at Roach's Burra Mill and he then let in burglars. The safe however, resisted all attempts to open it.

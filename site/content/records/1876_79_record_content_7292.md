@@ -23,6 +23,7 @@ topics:
 - gardens
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Flowers. `We were last week passing Mr Fuss' house in Llwchyr and were very much pleased to see the result that can be obtained by uniting labor combined with skill and taste. Flowers were in abundance and variety and fruit promises exceedingly well. Perhaps no prettier spot its size is to be found anywhere than that is a most unlikely place, even in Market-square, Kooringa, next to Messrs Drew and Co.'s premises. It is surprising to see how much can be got into a small space and also to observe how healthy and hearty all the vegetable growth seems either in the forms of fruit or flowers or vegetable.'

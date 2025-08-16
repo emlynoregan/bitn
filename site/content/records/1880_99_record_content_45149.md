@@ -21,6 +21,7 @@ topics:
 - auction
 - household furniture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At New Aberdeen 29 April John Sampson will sell for William Dunstan, who is leaving the district, the household furniture and effects.

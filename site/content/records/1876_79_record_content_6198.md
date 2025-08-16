@@ -25,6 +25,7 @@ topics:
 - race
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Races. The third annual race meeting since the revival of the Burra Jockey Club was held on 1 April in the Westbury Paddock. Prizes offered were liberal, but only two stables from Adelaide were represented. The old course in the SAMA's paddock has been sold and ploughed up so it was necessary to but a new one. The new one is about six chains over a mile with the broad side of the oval towards the grandstand. There is a slight inclination up to the straight. There were no accidents of significance. Attendance was only moderate and few ladies appeared. [The attendance figure is not clear, but appears to be `about 1,000'.] There were two publicans' booths and tea and coffee establishments. Oysters, crayfish and other delicacies were abundant. The Clare Brass Band was hired and a shooting gallery, ninepins, the purse trick and Aunt Sally, or Cheap Jack.

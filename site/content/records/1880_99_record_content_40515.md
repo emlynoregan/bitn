@@ -22,6 +22,7 @@ topics:
 - meeting
 - procedure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mayor asked Cr Rabbich if he would, by the indulgence of Council, explain why he left the Chamber so abruptly at the special meeting of Council the previous week.

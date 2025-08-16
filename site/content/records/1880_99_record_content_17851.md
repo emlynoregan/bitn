@@ -33,6 +33,7 @@ topics:
 - land
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway moved payment without prejudice and that the commissioner of Public Works’ attention be drawn to the dilatory way the Department had carried out the work and the unsuitability of the engine and the impossibility of erecting it until a piece of land had been acquired.  Everything should be in place before a penny was asked for.

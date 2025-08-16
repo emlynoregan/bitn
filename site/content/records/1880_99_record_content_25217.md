@@ -21,6 +21,7 @@ topics:
 - totalizator
 - appeal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the Totalizator Case A. von Doussa claimed that when the Totalizator Act of 1883 was repealed the provisions of the Lottery Act had not been revived as far as they affected the machine and he contended that therefore by Clause 7 of the Language of Acts Act there was no legislative restriction on the use of the totalizator.  Mr S. Bedows PM disagreed and fined him £10 with £7-5-0 costs, allowing one month for an appeal to a higher court.

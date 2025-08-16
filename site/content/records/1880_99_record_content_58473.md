@@ -20,6 +20,7 @@ topics:
 - drought
 - wildlife
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The drought to the east is bringing kangaroos and emus close in to Burra.  Rabbits are marching onwards by the thousand.

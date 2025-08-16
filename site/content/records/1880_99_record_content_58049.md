@@ -26,6 +26,7 @@ topics:
 - club
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  1st AGM of the Burra Cricket Club at Vivian’s Commercial Hotel on 26 August.  Elected: Patrons, Hon. F.W. Holder & Hon. W. Russell MLC; President, P.L. Killicoat; Hon. Sec. & Treasurer, J.A. Pearce; Captain, G. Parks; Vice-Captain, M. Rabbich.

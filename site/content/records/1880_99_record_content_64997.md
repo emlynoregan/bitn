@@ -20,6 +20,7 @@ topics:
 - social
 - gift
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Saturday evening the employees of Drew & Crewes presented Mr Crewes with a handsome Gladstone bag on the eve of his departure for England.

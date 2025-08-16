@@ -18,6 +18,7 @@ topics:
 - labor
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 4th Leader on the immorality of creating and sustaining the working poor and a class of women who ‘live on weak tea and bread and work fifteen hours a day for wages which men will not accept’.

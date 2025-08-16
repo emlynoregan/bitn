@@ -22,6 +22,7 @@ topics:
 - employment
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Drovers’ Association deputation was favourably received by the salesmen who promised to help where they could.  Moves were put in train to formalise the association, to elect a committee and to take subscriptions.  W.H. Baker as chairman, R.J. Ockenden as Hon. Treasurer, T.T. Shortridge as Hon. Sec.  Charges to be 5/- on entrance and 6d a week.

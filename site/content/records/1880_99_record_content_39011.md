@@ -20,6 +20,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sculling remains a great interest and a match for the championship of the world is being planned between McLean and Kemp at Parramatta on 12 December for £300 or £700.

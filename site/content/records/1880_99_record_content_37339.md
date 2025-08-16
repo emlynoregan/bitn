@@ -22,6 +22,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Melville writes from Broken Hill complaining that he is well-known as a professor of horse taming and feels the recent reports that did not name the gentleman who stole Mr Halls’ horse etc. attack his reputation.

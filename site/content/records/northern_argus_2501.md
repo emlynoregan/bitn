@@ -19,6 +19,7 @@ topics:
 - tourism
 - organisations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Stephen Downs-Woolley is 32 and has lived in the town for seven years.  He is a former police officer and sees the town’s future as a major tourist business centre.  He is a past President of Apex and has served on the Kindergarten and other committees, including the Barrow Push, Jubilee 150, Trade Train and Copper Festival.

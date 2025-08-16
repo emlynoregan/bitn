@@ -19,6 +19,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Sunday School Anniversary on 19 & 22 April.  The rain on Sunday, while much appreciated, prevented many from attending and the evening service was cancelled.  The tea meeting on the Wednesday was well attended.

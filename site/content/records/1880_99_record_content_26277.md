@@ -19,6 +19,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club met on Tuesday, but little was achieved: a further meeting is called for tonight.

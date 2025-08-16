@@ -18,6 +18,7 @@ topics:
 - culture
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc.’s last meeting for the quarter on 24 June was a manuscript magazine for which there was a large attendance.

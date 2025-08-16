@@ -22,6 +22,7 @@ topics:
 - obituary
 - infant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Florence Lillian McDonald, daughter of Robert & Agnes McDonald, died at Redruth on 5 January, aged six months.  [Born 5 July 1885]

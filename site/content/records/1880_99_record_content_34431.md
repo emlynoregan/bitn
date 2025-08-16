@@ -21,6 +21,7 @@ topics:
 - finance
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Waterworks cost the Council 5% p.a.  The Kapunda works do not return 0.25%, so on the face of it the 5% charge for Burra seems somewhat excessive.

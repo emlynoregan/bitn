@@ -22,6 +22,7 @@ topics:
 - bushrangers
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bushrangers. Report from Victoria of the Bushrangers’ Bill which was introduced to make them liable to be shot if they fail to surrender. The reward for the apprehension of those who shot constables Lanigan & Scanlan has been raised to £500.

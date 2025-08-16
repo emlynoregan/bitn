@@ -20,6 +20,7 @@ topics:
 - railways
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fire. A small fire was caused by a train between Burra & Hallett on Wednesday.

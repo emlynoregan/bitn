@@ -24,6 +24,7 @@ topics:
 - firearm
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  Robert Gurney, through an incautious use of a firearm shot dead his niece, Isabella Hall, aged 12, at Mt Gipps on Sunday afternoon.  Gurney had been going to go wallaby shooting, but on getting the gun had played around pretending to shoot two little girls.  He did not know the gun was loaded and it went off.  The gun belonged to Sam Hall, uncle of the deceased.

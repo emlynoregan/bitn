@@ -20,6 +20,7 @@ topics:
 - school
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Master Dow of the Burra School has passed as a pupil teacher.

@@ -25,6 +25,7 @@ topics:
 - assessment
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Paul Pry’ writes expressing amusement at the way Cr Hardy had to climb down at the Court of Appeals.  But for him, there would have been no assessment and the town would have saved £25.  Then he found his pet tenderer was not to get the job and he turned on the successful tenderer.  Finally he gave notice of several appeals in his own name ‘but the most glaring abuse of his position was when he undertook to appeal against the assessments of Messrs Elder, Smith & Co., The Burra mine, [sic] and Mr P.L. Killicoat without complying with the requirements of the Act, under which he has been acting for a number of years, the poor fellow was to be pitied when he had to stand up, acknowledge his ignorance, and withdraw the appeals.’

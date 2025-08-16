@@ -20,6 +20,7 @@ topics:
 - crime
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Theft.  A number of children aged 5-10 have been cautioned for stealing items from cars in Market Square and Queen Street.

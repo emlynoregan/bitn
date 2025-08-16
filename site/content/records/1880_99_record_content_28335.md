@@ -23,6 +23,7 @@ topics:
 - cricket
 - match report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For Terowie Harrison bowled 45 balls including 2 maiden overs and took 5 wickets for 5 runs.  The top scorer in the Burra innings was sundries at 16!  Burra’s top scoring batsmen were J. Sangster and W. Fox who each got 4.

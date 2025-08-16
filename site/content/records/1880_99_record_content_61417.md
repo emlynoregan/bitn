@@ -20,6 +20,7 @@ topics:
 - preservation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee complained that items have been cut out of several magazines and papers.  Steps will be taken against any person found to be cutting or injuring periodicals.

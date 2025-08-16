@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Spectator’ writes suggesting a through line of railway to the Barrier has been surveyed from Terowie.  An alternative one should be made from Burra.  It would save 30 miles.

@@ -23,6 +23,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Iron Mine Primitive Methodist Church on Wednesday 25 March at 4.30 p.m. there will be a public tea to take leave of Rev. J.G. Wright, who goes to a city church.

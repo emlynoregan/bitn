@@ -19,6 +19,7 @@ topics:
 - land
 - leases
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Revaluation of Runs by Goyder

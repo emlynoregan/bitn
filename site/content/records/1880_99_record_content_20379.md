@@ -24,6 +24,7 @@ topics:
 - religious event
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church.  Three sermons were preached on Sunday by Revs H.H. Teague, J.J. Salmon & W.F. James in connection with the opening of the new manse, which the Mayor opened on Monday 30 November.

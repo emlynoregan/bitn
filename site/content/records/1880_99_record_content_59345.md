@@ -28,6 +28,7 @@ topics:
 - obituary
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr George Theuff died at Quondong on 23 December.  [Registered as born George Herbert Theeuf 27 December 1865.]

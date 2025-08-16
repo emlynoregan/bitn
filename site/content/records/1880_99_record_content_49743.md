@@ -20,6 +20,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder has arranged with the Commissioner of Public Works for some work for the unemployed at the Happy Valley Waterworks.

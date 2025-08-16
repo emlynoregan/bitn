@@ -19,6 +19,7 @@ topics:
 - charity
 - jubilee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Jubilee Benevolent Society.  40 cases needy persons were aided on the day of the Diamond Jubilee, receiving wood, clothing, boots etc.

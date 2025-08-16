@@ -20,6 +20,7 @@ topics:
 - government
 - planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Lasscock moved & Cr Ward 2nd that the work be readvertised with the alterations in requirements as suggested.

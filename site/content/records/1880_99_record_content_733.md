@@ -20,6 +20,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs J.H. Roe intends soon to open a new boarding school for young ladies in Kooringa.

@@ -23,6 +23,7 @@ topics:
 - appointments
 - Wesleyan Conference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Conference is almost over and for this district the ministers will be: for Kooringa Rev. R.M. Hunter and for Redruth Rev. T.M. Rowe.

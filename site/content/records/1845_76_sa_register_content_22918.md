@@ -19,6 +19,7 @@ topics:
 - drought
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  There has been no appreciable rain since June around Kooringa.  The grass is short and already yellowing.  Wheat crops so far remain green, but are very short.  If rain does not fall within two weeks many farmers will not recover seed wheat.  The days have been warm and dry, sometimes with unseasonably hot winds.

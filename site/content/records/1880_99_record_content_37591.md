@@ -20,6 +20,7 @@ topics:
 - transport
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Crossing.  A man, rather drunk, was almost hit by the late train to Terowie at the crossing on Friday night.  Something must be done about this crossing.

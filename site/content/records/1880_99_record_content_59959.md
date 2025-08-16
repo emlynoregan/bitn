@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs S.A. Short thanks all those who subscribed to the fund that enabled her to purchase a roof for her house.

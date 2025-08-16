@@ -19,6 +19,7 @@ topics:
 - school
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Concert on 15 December in aid of the Ulooloo School prizes was also successfully mounted.

@@ -18,6 +18,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Farmers Mutual Assoc. annual meeting on Tuesday saw about 20 branch delegates, but more are expected today.  They gave unanimous support to the idea of payment for members of Parliament.

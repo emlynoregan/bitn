@@ -18,6 +18,7 @@ topics:
 - road
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road. There is some probability that the Nankivell’s Gully Rd will be placed on the schedule of main roads.

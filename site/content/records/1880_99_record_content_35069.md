@@ -18,6 +18,7 @@ topics:
 - fire
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fires.  Why do not the Government install patent spark catchers on locomotives to prevent grass fires?

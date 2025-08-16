@@ -20,6 +20,7 @@ topics:
 - timetable
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Roseworthy-Forresters extension of the Northern Line of Railway

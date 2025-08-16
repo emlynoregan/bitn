@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The season opened last Saturday with a game at the Recreation Ground, which was used for the first time.  It is a great improvement on the old Brewery Flat ground.  [Despite the comments of ‘Mark’ apparently.]

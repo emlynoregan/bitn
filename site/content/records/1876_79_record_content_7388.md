@@ -20,6 +20,7 @@ topics:
 - theatre
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra Dramatic Society entertainment on Friday took place before a very good house and was generally well carried out. The less said about the Interlude the better, but all else was quite creditable.

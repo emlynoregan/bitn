@@ -23,6 +23,7 @@ topics:
 - church
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Conference has finally appointed Rev. S. Knight and Rev. G.E. Rowe to the Kooringa Circuit.  Rev. R.W. Campbell goes to WA.

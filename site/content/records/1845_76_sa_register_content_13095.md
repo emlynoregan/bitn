@@ -23,6 +23,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Wanted: conductors to take charge on the road of horse and mule teams.  Applicants must be able to read and write and to ride and drive a team.  Apply to Mr Escott, White Park near Chaddock’s or at the stations of the English & Australian Copper Co.

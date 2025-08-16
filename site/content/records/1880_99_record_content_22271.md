@@ -20,6 +20,7 @@ topics:
 - embezzlement
 - charges
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.F. Opie was charged with embezzling funds from the Hallett District Council.  [This charge was later dropped: see VII. 553. 18 June 1886, page 2.]

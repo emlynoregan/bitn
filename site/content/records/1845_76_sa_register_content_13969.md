@@ -27,6 +27,7 @@ topics:
 - postal_service
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Veritas’ writes to the editor from Kooringa 18 January re Kooringa Post Office in response to two letter on the same subject appearing in the paper of the previous Wednesday:

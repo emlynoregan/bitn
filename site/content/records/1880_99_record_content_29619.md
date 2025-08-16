@@ -19,6 +19,7 @@ topics:
 - labour
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearers.   Another lot have passed through on their way to Quondong Station.

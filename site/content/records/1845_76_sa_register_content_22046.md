@@ -25,6 +25,7 @@ topics:
 - government
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Report of Government Land Sales

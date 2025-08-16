@@ -21,6 +21,7 @@ topics:
 - advertisement
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Offers are invited for homestead blocks near Burra.  See [SA Government] Gazette 1 January 1894.  Peter P. Gillen, Commissioner of Crown Lands.

@@ -19,6 +19,7 @@ topics:
 - charity
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Drawing Room Entertainment is reviewed in over ¾ column.  The performance was in aid of St Mary’s building fund.  There was a very good house and the performance is described as one which would have ‘a pleasing and softening influence upon society at large; especially the rougher portions of it’.

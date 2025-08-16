@@ -19,6 +19,7 @@ topics:
 - visitors
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Redruth Camp Centre catered for 13 schools compared with 2 in 1983.

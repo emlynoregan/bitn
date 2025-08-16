@@ -19,6 +19,7 @@ topics:
 - animal
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Multum in Parvo’ writes a letter asking ‘Which of our butchers go in for dog poisoning’.

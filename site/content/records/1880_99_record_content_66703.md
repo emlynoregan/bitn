@@ -19,6 +19,7 @@ topics:
 - pests
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grubs.  The grubs eating P.L. Killicoat’s wheat have been identified as the larvae of the click-beetle for which there is no easy cure, but fallowing or a dressing of gas lime might be effective.

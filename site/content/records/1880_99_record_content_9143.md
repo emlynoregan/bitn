@@ -20,6 +20,7 @@ topics:
 - fire
 - photograph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Dunden of Burra has taken a very creditable photograph of the ruins of the Kooringa fire.

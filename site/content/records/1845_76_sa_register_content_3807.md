@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Jesse Sydenham died 20 August 1849 aged 10 years 6 months.  Residence Reed Beds.  The Edmund/Edward confusion of his brother’s name reflects the report in the Register.]

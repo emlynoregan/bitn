@@ -22,6 +22,7 @@ topics:
 - protection
 - local criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Smith is trying to sneak out of protecting the railway crossing at the Bon Accord after promising something should be done.

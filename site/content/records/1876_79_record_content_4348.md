@@ -18,6 +18,7 @@ topics:
 - education
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Education. The Burra district has been proclaimed under the compulsory clauses of the Education Act.

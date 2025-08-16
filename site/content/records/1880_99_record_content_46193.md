@@ -21,6 +21,7 @@ topics:
 - military ball
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Mounted Rifles will hold a Military Ball at the Institute 24 August.

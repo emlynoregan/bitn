@@ -19,6 +19,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rains have been good in the last week with Kooringa recording 0.6” and the falls extending to the eastern plains.

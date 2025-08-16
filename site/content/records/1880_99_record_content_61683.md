@@ -21,6 +21,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Christmas Day at Burra, Wadnaminga 54 & 98 was defeated by Burra 183 declared.  [Wadnaminga was a run south of Mannahill.]

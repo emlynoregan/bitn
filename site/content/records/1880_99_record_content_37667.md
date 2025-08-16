@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A public meeting is called in response to the requisition to the Mayor re the defeat of the Cockburn Government.  At the Institute Friday 22 August.

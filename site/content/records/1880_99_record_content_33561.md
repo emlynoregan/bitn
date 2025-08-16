@@ -23,6 +23,7 @@ topics:
 - obituary
 - journalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  David Cameron, aged 29, a journalist of the Kapunda Herald and son of Robert Cameron JP of Kapunda, has died.  [Registered as 7 September 1889.  Born David McIntosh Cameron 3 August 1860]

@@ -34,6 +34,7 @@ topics:
 - emergency
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Great Flood at the Burra Burra

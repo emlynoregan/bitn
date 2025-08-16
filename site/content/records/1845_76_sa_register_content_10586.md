@@ -21,6 +21,7 @@ topics:
 - trial
 - penalty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Recent Brutal Assault. Three men were brought before His Worship on Saturday last in connection with this case.  The case against one was dismissed.  One was fined £5 and Kellaway was committed for trial in Adelaide.

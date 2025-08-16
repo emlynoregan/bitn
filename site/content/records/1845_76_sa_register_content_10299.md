@@ -22,6 +22,7 @@ topics:
 - smelting
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Smelters’ Strike at Kooringa

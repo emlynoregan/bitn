@@ -21,6 +21,7 @@ topics:
 - finance
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mine: - Captain Sanders reports all water clear of mine and all underground work resumed on 19 April. The last 6 months produced 803 tons at an av. 27% copper.

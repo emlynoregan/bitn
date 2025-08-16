@@ -20,6 +20,7 @@ topics:
 - visit
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vice-Regal Visit.  The Editor considers that the visit of Governor Kintore to the Northern Territory was a waste of money and a number of the Governor’s official duties could be dispensed with.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Walker, wife of John Thomas Walker died suddenly at Archer St North Adelaide on 6 February of paralysis of the brain.  She was 41 and leaves a husband and nine children. [Page 3 adds that she was the wife of a respected townsman now residing in Adelaide.] [Born Mary Eddy 12 June 1851.]

@@ -44,6 +44,7 @@ topics:
 - lodge
 - cash defalcation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  An inquest was held by Mr MacDermott on Friday afternoon at the Miners’ Arms on the causes for the death of W.H. Birbeck, an old and well-known resident of Kooringa.

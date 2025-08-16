@@ -22,6 +22,7 @@ topics:
 - Palestine
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Kooringa Bible Christian Church, Sunday 27 December 1885

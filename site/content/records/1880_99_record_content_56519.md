@@ -19,6 +19,7 @@ topics:
 - show
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Petersburg Autumn Flower Show reported from the previous Wednesday.  It included flowers, fruit, vegetables, preserves, trials of winnowers and separators, bicycle races and horses in action.

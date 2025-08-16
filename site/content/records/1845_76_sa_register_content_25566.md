@@ -23,6 +23,7 @@ topics:
 - flood
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Northern Floods.  Sudden storms caused great floods at Clare, Auburn, Saddleworth, Rhynie and Undalya, but there is no mention of rain at Burra.

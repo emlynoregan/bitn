@@ -21,6 +21,7 @@ topics:
 - education
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan will at once commence the erection of the Agricultural College at Roseworthy.

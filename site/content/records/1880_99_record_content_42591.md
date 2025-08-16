@@ -19,6 +19,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Ridge’s Great American Circus, Saturday 10 Oct. at the rear of the Commercial Hotel, Kooringa.

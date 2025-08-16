@@ -20,6 +20,7 @@ topics:
 - road
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board.  The surveyor reports ‘roads generally were lapsing into disrepair’.  The Board would gladly remedy it ‘but for want of funds’.

@@ -22,6 +22,7 @@ topics:
 - legal
 - assault
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry Nankervis was charged by James Edward Bromley with hooting after him and calling him a lag.  Nankervis admitted the charge and apologised.  His Worship said the offence was regarded by the law as a very grave one.

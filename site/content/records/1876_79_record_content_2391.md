@@ -21,6 +21,7 @@ topics:
 - sale
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eudunda West, adjoining the railway station: 86 lots sold av. 1/4 to 1/3 acre, for total of £1423 (75 lots

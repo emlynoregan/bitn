@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Alfred Dearlove was thrown from his horse at Mt Bryan on Sunday and rendered unconscious.  He is now home at Kooringa still unconscious.

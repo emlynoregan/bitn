@@ -25,6 +25,7 @@ topics:
 - birds
 - homing club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  12th race of the season was held on 30 September from Serviceton, Victoria.  Birds from three members arrived at 1.18.

@@ -19,6 +19,7 @@ topics:
 - military
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military Review.  45 Burra men went to Adelaide by the special train.  Most returned by the ordinary train.

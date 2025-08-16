@@ -21,6 +21,7 @@ topics:
 - employment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 To Labourers & Carters.  Constant employment will be given at the Burra Burra Mines to a number of labourers and carters.  Apply at the counting house there or at the office of the SA Mining Association, Rundle Street, Adelaide.

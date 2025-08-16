@@ -19,6 +19,7 @@ topics:
 - meeting
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had a smaller attendance last Friday due to bad weather.  They discussed the need for a State Bank.

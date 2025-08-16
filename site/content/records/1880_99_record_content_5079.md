@@ -20,6 +20,7 @@ topics:
 - land
 - application
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Application has been made to Mr Powell for a piece of land needed for a road in Hampton.

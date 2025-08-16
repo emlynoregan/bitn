@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lily of the Valley Tent Annual social in the Institute Wednesday 26 August was a success with 155 members and friends present.

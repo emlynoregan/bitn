@@ -22,6 +22,7 @@ topics:
 - editorial
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a one-column article on the Irish Question and Mr Balfour MP.  Hardy was convinced of the failure of the whole policy of coercion and in favour of Home Rule for Ireland.

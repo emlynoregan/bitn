@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Woollacott, aged 65, a colonist of 33 years, at his residence at Nelson, near Redruth.  13 May.

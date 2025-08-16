@@ -34,6 +34,7 @@ topics:
 - industry
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Year 1877. An Editorial summary of events.

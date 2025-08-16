@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  There are some more details of the Burra-Clare match reported last week.

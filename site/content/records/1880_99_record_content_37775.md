@@ -18,6 +18,7 @@ topics:
 - progressive land tax
 - dissolution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a very large attendance.  We agree with the meeting generally, though we are not in favour of the Progressive Land Tax, but think it should have been debated.  We cannot agree however, with the request for a dissolution.

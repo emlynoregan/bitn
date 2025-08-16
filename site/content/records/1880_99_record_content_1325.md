@@ -17,6 +17,7 @@ topics:
 - legislation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Licensed Victuallers Bill - which is to replace 4 or 5 old bills.

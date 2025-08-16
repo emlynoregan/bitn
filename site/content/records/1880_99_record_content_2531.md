@@ -25,6 +25,7 @@ topics:
 - partnership
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr John Finlay Duff, for some years manager in Kooringa for the late firm of Coles and Goodchild, and later of Goodchild, Austin & Co., has been admitted a partner and the firm will continue as Goodchild, Duff & Co.

@@ -25,6 +25,7 @@ topics:
 - horticulture
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society held its annual meeting on 6 July and elected Dr Brummitt as President; J.D. Cave, Vice President; F.W. Holder, Treasurer; W. Davey, Secretary.  [There was a W. Fuss on the committee who may have been H.C.W. Fuss as he was known as William and was a keen gardener.]  The next show will be on 31 October and the balance in hand is £8-11-9.

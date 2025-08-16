@@ -17,6 +17,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cantata, Mildred & Patty has been postponed from 29 august to 5 September.

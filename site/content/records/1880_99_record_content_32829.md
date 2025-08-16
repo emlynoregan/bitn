@@ -19,6 +19,7 @@ topics:
 - event
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Provincial Elite Skating Rink at the Institute 26 June

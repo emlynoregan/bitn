@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Petersburg Railway.  The extension of the line from Terowie was opened last week.

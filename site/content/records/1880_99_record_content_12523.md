@@ -19,6 +19,7 @@ topics:
 - association
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the annual meeting of the SA Farmers’ Association, which was not very flourishing at the time.

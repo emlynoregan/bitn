@@ -27,6 +27,7 @@ topics:
 - insurance
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The fire underscored the need for a better water supply.  Willing workers saved the surrounding buildings, but a reel would have helped greatly.  Even better would have been a large supply of water fed by gravity as suggested recently by Dr Brummitt.  A reservoir of 80,000 to 100,000 gallons on the hill would supply water for troughs, water carts, pipes to the larger houses and an abundant flow in case of fire.  As the supply would only go to those who wanted it there would be a great advantage over a Government scheme where all would have to pay.  Furthermore the profits would go to the town.  We are glad that the Town Council took the matter up favourably at its last meeting.  It now awaits a report from a competent engineer re costs and practicability.  This should be a scheme for the whole town and not just one ward.  Revenue then would also be the property of the whole town.

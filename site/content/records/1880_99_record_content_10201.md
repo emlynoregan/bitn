@@ -19,6 +19,7 @@ topics:
 - gambling
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gambling.  The Attorney General proposes to ban all gambling in public places.

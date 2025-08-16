@@ -21,6 +21,7 @@ topics:
 - water
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ complains that having spent a lot of money on trees in the Redruth reserve there is no water laid on so the trees are dying.  Why has this bungle occurred?

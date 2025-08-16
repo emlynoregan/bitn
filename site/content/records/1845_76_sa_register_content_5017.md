@@ -21,6 +21,7 @@ topics:
 - court
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John P. Winchcombe charged Joseph Jones with taking away a bridle.

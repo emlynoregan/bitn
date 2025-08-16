@@ -23,6 +23,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Born Asenath Jayne Mayne 1836, Cambourne, Cornwall: died 11 January 1865, Redruth, SA.]

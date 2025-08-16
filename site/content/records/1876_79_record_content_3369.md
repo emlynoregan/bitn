@@ -19,6 +19,7 @@ topics:
 - fundraising
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Sunday School, Kooringa raised £26 at its anniversary celebrations.

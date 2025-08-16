@@ -21,6 +21,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church gave a public dinner in the classroom on Friday and three special services were given on Sunday by J. Scott and Rev. H.J. Parkinson.

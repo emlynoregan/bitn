@@ -19,6 +19,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Weather.  Burra had some good rain and some good showers extended to the east.

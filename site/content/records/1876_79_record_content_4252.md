@@ -19,6 +19,7 @@ topics:
 - hospital
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W.B. Rounsevell has visited the Burra Hospital and commented favourably on its work.

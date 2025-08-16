@@ -19,6 +19,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Gaolbreakers’ Party at Redruth Gaol on Saturday night was a riotous night of music and fun.

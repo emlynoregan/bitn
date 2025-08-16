@@ -18,6 +18,7 @@ topics:
 - literature
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 31 Dec 80	Serpent Ch XI-XII	The Cold Hand of Morbeck	Victorian International Exhibition:	X			X	X		X

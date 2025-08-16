@@ -20,6 +20,7 @@ topics:
 - access
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Roberts pointed out to Council a vacant allotment at the rear of his premises is used as a road and if it were enclosed access to several houses would be cut off.  It should be made a street.  To be inspected.

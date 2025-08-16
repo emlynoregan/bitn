@@ -20,6 +20,7 @@ topics:
 - sheep
 - survival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 One flock of sheep on Mt Bryan Run unexpectedly survived the fire when a shepherd and his faithful dogs kept rounding them up at a fork between two roads.

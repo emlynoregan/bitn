@@ -23,6 +23,7 @@ topics:
 - building
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Total expenditure		£65-6-4

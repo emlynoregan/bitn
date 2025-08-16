@@ -19,6 +19,7 @@ topics:
 - finance
 - mining companies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 3 February 1860, page 2

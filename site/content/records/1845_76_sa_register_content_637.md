@@ -19,6 +19,7 @@ topics:
 - mining
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Tenders are called for the supply of iron, nails and other ironmongery goods for the Burra Burra Mines.

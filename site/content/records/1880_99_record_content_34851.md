@@ -43,6 +43,7 @@ topics:
 - holiday
 - larrikinism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket was played in the afternoon and the Burra Cricket Club with 5 for 131 defeated a team of 15 visitors and local players, 53.  For Burra, Parks took 8 and Herbert 6 wickets.

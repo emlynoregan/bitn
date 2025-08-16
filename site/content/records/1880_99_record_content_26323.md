@@ -22,6 +22,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale: the stock-in-trade, household effects etc. of the White Hart Hotel, as Mrs Mowat is removing to Adelaide.

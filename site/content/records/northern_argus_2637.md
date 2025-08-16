@@ -22,6 +22,7 @@ topics:
 - hospitality
 - food
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 John & Debbie Clark proprietors of the Kooringa Hotel have engaged Harry Majcen as chef to offer restaurant standard meals.  Chef Majcen favours French provincial style cooking in the main.  [Photo.]

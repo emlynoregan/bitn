@@ -20,6 +20,7 @@ topics:
 - missions
 - lectures
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Wesleyan Church Sunday 18 November, Foreign Missions, Rev. G.E. Rowe preaches.  There will be lectures on Monday, Tuesday & Wednesday.

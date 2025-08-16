@@ -18,6 +18,7 @@ topics:
 - birth
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Mabel Ann Killicoat was born 27 February 1877 and married 15 August 1896.]

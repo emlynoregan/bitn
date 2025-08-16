@@ -30,6 +30,7 @@ topics:
 - flooding
 - community planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway Debate continues over Mt Bryan Railway Station location. Summary so far:

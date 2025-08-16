@@ -19,6 +19,7 @@ topics:
 - mining
 - rush
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa.  There has been a new rush to ‘King’s Bluff’ where 25 dishes yielded 10 dwt 15 grs, which was considered good.

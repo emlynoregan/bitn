@@ -19,6 +19,7 @@ topics:
 - labor
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Cooksley writes again attempting to explain to W.H. Hardy the error of his ways.

@@ -18,6 +18,7 @@ topics:
 - frost
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frost on Tuesday morning was the sharpest ever according to old hands.  Taps and pumps froze and the creek froze over.  Boys stood on the ice in the water troughs.

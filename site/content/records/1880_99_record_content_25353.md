@@ -20,6 +20,7 @@ topics:
 - accident
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Hotel was totally destroyed by fire on 5 May.  At about 10.30 a.m. the owner, Mr W. Midwinter, was about two miles away with his son, burning Bathurst burr, when they saw smoke coming from the premises.  On arriving they were unable to save anything.  The fire started in the cellar, but the cause is not known.

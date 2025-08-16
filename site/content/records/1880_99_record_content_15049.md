@@ -20,6 +20,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope gave a very successful entertainment in the Redruth Wesleyan Schoolroom on 4 November in aid of the piano fund.

@@ -22,6 +22,7 @@ topics:
 - contract
 - magistrates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 1 May 1850, page 3

@@ -19,6 +19,7 @@ topics:
 - police
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Lynes [Lines perhaps?] left his cab without chaining the wheel: 10/- + 10/- and for the same offence three days later another 10/- + 10/-.

@@ -21,6 +21,7 @@ topics:
 - injury
 - firearm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shooting accident.  William Harting of Mt Bryan was accidentally shot on Friday when a revolver discharged while being handled by the owner who was showing it to Harting who was interested in buying it.  The bullet also passed through the owner’s hand.

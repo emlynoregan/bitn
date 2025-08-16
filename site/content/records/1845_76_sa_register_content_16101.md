@@ -21,6 +21,7 @@ topics:
 - relief fund
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The migration to Newcastle continues and numbers of families are still preparing to depart.  The Mining Company has pulled down a row of tenements previously occupied by miners and there are a great many unoccupied houses in various parts of the town.

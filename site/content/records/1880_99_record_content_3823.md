@@ -18,6 +18,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  Efforts are being made to thoroughly test the gold bearing reefs to the north-east of Burra.  A party of men leave on Monday to sink a shaft.

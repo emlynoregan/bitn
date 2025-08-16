@@ -21,6 +21,7 @@ topics:
 - parliament
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra Hansard.  There is a detailed report on the railway gauges debate.  This continues from the previous issue and the additional 3¼ columns here suggest how important and controversial the issue was at the time.

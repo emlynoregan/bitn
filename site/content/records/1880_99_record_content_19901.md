@@ -20,6 +20,7 @@ topics:
 - organisation
 - pay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 RVF.  There is a proposal to amalgamate the VMF and the RVF, doing away with the pay for the former and granting each man a uniform and £2 p.a. capitation grant.

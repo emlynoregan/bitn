@@ -19,6 +19,7 @@ topics:
 - press
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Law of Libel and the Liberty of the Press in the light of a recent case against the Naracoorte Herald.

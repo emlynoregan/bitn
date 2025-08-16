@@ -26,6 +26,7 @@ topics:
 - military
 - international relations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War News.  Preparations for war [i.e. with Russia] continue in England with a squadron preparing for the Baltic.  A British army of 50,000 is already advancing. [Presumably in Afghanistan]

@@ -18,6 +18,7 @@ topics:
 - omission
 - irregularities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 356, 363, 376, 377, 378 & 387 are not used.

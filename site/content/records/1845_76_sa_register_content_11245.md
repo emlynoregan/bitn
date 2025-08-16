@@ -19,6 +19,7 @@ topics:
 - advertisement
 - vehicles
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Some of the terms used in the above advertisement may need clarification.  Some, like an Albert, have proved elusive:

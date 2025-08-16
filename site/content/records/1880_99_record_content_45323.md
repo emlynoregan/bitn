@@ -17,6 +17,7 @@ topics:
 - finance
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The undivided profit brought forward is £14,626-12-6.

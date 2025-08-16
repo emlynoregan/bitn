@@ -19,6 +19,7 @@ topics:
 - marriage
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  Sir Henry Parks (80) has decided to take a third wife, three months after his second wife died.  He will marry his housemaid.  The cook has left and so has Miss Parks.

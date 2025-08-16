@@ -19,6 +19,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Harvest Thanksgiving Services were held on 5 February and again the beauty of the decorations amazed all and puzzled the uninitiated about how they were done.  [c. 1 column of detail.]

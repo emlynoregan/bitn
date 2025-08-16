@@ -21,6 +21,7 @@ topics:
 - fire
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the burning on 16 March of two haystacks of G.A. Gebhardt at Mackerode.  The result was insufficient evidence to prove the origin of the fire, but the jury were of the opinion that it was probably caused accidentally by Walter Fraser while he was at work in the field.

@@ -17,6 +17,7 @@ topics:
 - literature
 - fiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 7 Jul.	XXXII-XLII, but numbers		X	X		X		X	X	X			The Difference of a Dot

@@ -43,6 +43,7 @@ topics:
 - election
 - business
 source_document: 1845-76 SA Register.doc
+publication_slug: sa-register
 ---
 
 SA Mining Association Meeting

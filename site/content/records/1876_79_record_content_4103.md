@@ -19,6 +19,7 @@ topics:
 - finance
 - benevolent society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Lodge IOOF MU half yearly meeting. In the last 6 months £15-16-9 paid as sick pay and £145 to the widows of deceased members.  Total worth of the funds £4,603-9-2. The lodge ranks as the second in the colony in terms of funds per member.

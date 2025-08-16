@@ -23,6 +23,7 @@ topics:
 - election
 - requisition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The requisition calling on Mr Morris Marks to stand as representative for the District of Burra and Clare in the SA Parliament.  [About 200 electors signed the requisition.]

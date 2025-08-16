@@ -20,6 +20,7 @@ topics:
 - fire
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  There was a small fire in E.C. Lockyer’s kitchen on Sunday.  It is believed some coals from the fire were caught between the ash bucket and the weatherboard.  J.D. Cave JP deemed no inquest was necessary.

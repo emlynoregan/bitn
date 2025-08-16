@@ -23,6 +23,7 @@ topics:
 - livestock
 - biosecurity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stockowners Meeting in Kooringa on 4 April at the Institute considered ways of controlling the introduction of scab into SA from NSW.  T. Warnes JP took the chair.  A motion was passed calling on the Government to take due precautions to prevent the spread of scab.

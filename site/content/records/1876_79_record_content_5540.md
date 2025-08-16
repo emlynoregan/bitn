@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Richard Edwards, eldest son of Richard & Mary Jane Edwards. Aged 6½, 28 December 1878.

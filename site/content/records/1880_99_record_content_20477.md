@@ -23,6 +23,7 @@ topics:
 - inquest
 - post mortem
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Emma Gurney, employed by Mr F. Simpson of Aberdeen as a servant, was brought to her house in Kooringa, ill, on Wednesday.  The doctor saw her in the evening, but apparently apprehended no danger.  She died early on Thursday morning.  There was a post mortem and inquest.

@@ -20,6 +20,7 @@ topics:
 - road
 - jurisdiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [There is then discussion of whose jurisdiction the road lies in - as it runs along the boundary of the Hundreds of Ayers and Hanson and is included in the Hundred of Hanson.  Some lies within the jurisdiction of the North Midland Road Board.  Much more detail is provided.]

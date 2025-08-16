@@ -19,6 +19,7 @@ topics:
 - employment
 - railways
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The Victorian Railways had 615 vacancies and attracted 5,930 applicants.

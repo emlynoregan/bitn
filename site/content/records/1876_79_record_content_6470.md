@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Special Services at Kooringa on 18 & 19 May in aid of the trust fund drew good congregations, but the public tea was very poorly attended due to wet weather. Total proceeds amounted to £18-10-0.

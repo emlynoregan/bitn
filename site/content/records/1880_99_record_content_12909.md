@@ -19,6 +19,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The United Religious Services on Good Friday brought together the three Methodist bodies and the Salvation Army and drew large congregations.  A similar meeting at the Wesleyan Church on Monday afternoon was also well attended.

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr P.M. Glynn MP will give a lecture on Thursday evening at the Institute in aid of the St Joseph’s Residence Fund on ‘Ireland - A Retrospect and Prospect’.

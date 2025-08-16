@@ -19,6 +19,7 @@ topics:
 - protest
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  300 men marched through Adelaide on Thursday behind an empty coffin with the banner: ‘The burial of local industries killed by the present Government’.

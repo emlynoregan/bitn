@@ -19,6 +19,7 @@ topics:
 - railway
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: There was a meeting at Mt Bryan to protest the closure of several roads by the new railway.

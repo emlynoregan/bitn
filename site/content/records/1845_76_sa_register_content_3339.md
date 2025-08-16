@@ -21,6 +21,7 @@ topics:
 - death
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  On Friday 24 November a young man named Albert Abbott was driving his bullock team laden with ore from the Burra Mine, when opposite the Smelting House he stumbled over a stone.  His left shoulder became jammed under the upper felloe and he was dragged some distance before being released by a passer-by.  His injuries were such that little hope was held for his recovery and he died on 30 November.

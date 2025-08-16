@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Mayger writes some action over fire prevention and fighting.  With no hoses or standpipes etc. the town is no better off now than before the Waterworks were built.

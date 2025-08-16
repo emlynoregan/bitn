@@ -29,6 +29,7 @@ topics:
 - events
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J. Richardson hosted the New Year sports at the rear of the Commercial Hotel which started with few in attendance, but later the crowd grew to c.200. The Burra Brass Band attended and besides the common sports there was: - Jumping in Sacks, greasy tailed pig, and jingling in the ring.

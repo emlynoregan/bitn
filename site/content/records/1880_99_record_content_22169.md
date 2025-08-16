@@ -23,6 +23,7 @@ topics:
 - silver
 - reports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  A lengthy extract from a report on the Silver Claims is reprinted from the Register.  It reports very mixed results with some claims like Poole’s now idle, but others continue at some depth with Broad’s Claim for instance having two shafts down 96’ with connecting levels.  Another site with workers at 45’ is described as encouraging, but Dunstan’s [of which much had been heard earlier] ‘is quiet’.

@@ -23,6 +23,7 @@ topics:
 - transport
 - postal service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Depart Adelaide by the 3.45 train and depart Gawler the following morning at 6 a.m., arriving at Kooringa about 5 o’clock.

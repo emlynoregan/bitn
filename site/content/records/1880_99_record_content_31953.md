@@ -23,6 +23,7 @@ topics:
 - death
 - maritime accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The late Dr Sydney Ernest Holder.  A ⅓-column biography of F. W. Holder’s brother who drowned recently in the loss of the Priam near Corunna in Spain.

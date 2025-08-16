@@ -37,6 +37,7 @@ topics:
 - assessment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayers’ Meeting at the Institute on Wednesday 20 December with Dr Brummitt in the chair.  It was a rather noisy meeting.

@@ -18,6 +18,7 @@ topics:
 - crime
 - bushrangers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ned Kelly. There is a report on the statement made by Ned Kelly which contains an account of his life.

@@ -23,6 +23,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa News, 29 August

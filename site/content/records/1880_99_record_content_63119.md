@@ -22,6 +22,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Strawberry Fete last Friday was a great success.  The fancy stall was laden with useful and ornamental items and the refreshment stall was well patronised.  Mrs A. McCulloch opened the fete at 12 o’clock.  Proceeds amounted to over £80 which will pay off the schoolroom debt.  The prize list for the baking contest is printed.

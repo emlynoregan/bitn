@@ -21,6 +21,7 @@ topics:
 - disease
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital now has two cases of typhoid from Terowie.  Latterly very few cases have been dealt with from Burra.

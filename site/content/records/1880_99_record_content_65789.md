@@ -20,6 +20,7 @@ topics:
 - mining
 - geology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government Geologist hold high opinions of the country the recent bore hole has passed through.

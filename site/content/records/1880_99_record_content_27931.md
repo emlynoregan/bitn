@@ -21,6 +21,7 @@ topics:
 - politics
 - protectionism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ inveighs against the awarding of the locomotive contract to Martin’s for more than £40,000 in excess of overseas suppliers.  This, he said, was merely another example of the wastefulness of protection.

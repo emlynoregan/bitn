@@ -22,6 +22,7 @@ topics:
 - trade
 - regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Nobes was also charged with not carrying scales and weights, as were R.L. Goldsworthy and F. Gebhardt and all were fined.

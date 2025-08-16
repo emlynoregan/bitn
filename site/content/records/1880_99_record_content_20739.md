@@ -22,6 +22,7 @@ topics:
 - court
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Manslaughter case concerning John Flanagan had to be adjourned at Gladstone when Dr Sangster telegraphed his inability to attend.  (The magistrate contemplated his arrest.)

@@ -20,6 +20,7 @@ topics:
 - community
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Working Man writes re Workingmen’s Blocks, supporting a call for the land along the Burra Creek, north of the Railway Station to be made available.

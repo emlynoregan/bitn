@@ -19,6 +19,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 27 December, to the wife of W.M. Humphrys, a son.  [Frederick Alfred Payne]

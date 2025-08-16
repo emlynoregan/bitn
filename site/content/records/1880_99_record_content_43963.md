@@ -22,6 +22,7 @@ topics:
 - sport
 - practice match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Burra Cricket Club at last decided on a practice match, but the Muffs failed to materialise so they formed two teams of 8 and had a game on Wednesday last in which G. Herbert’s side 133 defeated G. Parks’ side 131.

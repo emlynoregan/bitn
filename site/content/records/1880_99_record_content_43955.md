@@ -20,6 +20,7 @@ topics:
 - travel
 - departure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.P. Jones of the Bon Accord hotel is about to leave us for Adelaide.

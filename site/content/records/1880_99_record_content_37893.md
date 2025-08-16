@@ -20,6 +20,7 @@ topics:
 - dairy
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Butter and eggs are cheap in town [as they could not be exported], but fortunately much of the dairy produce can still get to Broken Hill.

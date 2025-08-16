@@ -20,6 +20,7 @@ topics:
 - advertisement
 - real_estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Detailed advertisement for the sale of the Iron Mine Blacksmith’s shop, house and equipment.

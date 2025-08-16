@@ -22,6 +22,7 @@ topics:
 - road
 - survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 During the week Mr G.E. Hamilton, Government Surveyor, with some assistants, has been surveying the line of main road through this township and Redruth.  I hope something will be done in the way of making as well as marking the road, lest our principal thoroughfare again present the same dismal spectacle next year as it hitherto has done as soon as the rains set in.

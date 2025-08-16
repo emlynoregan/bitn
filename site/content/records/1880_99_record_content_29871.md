@@ -19,6 +19,7 @@ topics:
 - labor
 - collieries
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Newcastle.  Some more of the Newcastle collieries are resuming work.

@@ -21,6 +21,7 @@ topics:
 - entertainment
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Billiards. Mr Albers of Adelaide will give an exhibition at T. Richardson's Kooringa on Friday evening next.

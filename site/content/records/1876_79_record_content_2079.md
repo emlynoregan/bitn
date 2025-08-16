@@ -22,6 +22,7 @@ topics:
 - races
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Sunday 3 April. Burra Races held on the Mine Paddock.  Good weather and the Burra Brass Band and Orchestra of Burton & Taylor's Grand United Circus were in attendance. There were half a dozen races with the Burra Handicap over 2 miles as the main event. 1st prize was 50 sovereigns. [i.e. 50 gold £1 coins]

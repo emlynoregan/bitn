@@ -18,6 +18,7 @@ topics:
 - trade
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Prices throughout March changed only slightly, but trade is picking up generally and prospects are more promising than at any time since 1866.

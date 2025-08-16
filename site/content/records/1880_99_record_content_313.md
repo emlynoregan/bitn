@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The completed match saw Burra defeat the True Blues by 23 runs.

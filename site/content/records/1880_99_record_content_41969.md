@@ -22,6 +22,7 @@ topics:
 - court
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes about a case at the Redruth Court on 22 July in which Messrs Brun & Wagner were ordered to pay £20 for not having cleared rabbits from land according to a notice which was served, in one case, by leaving it in a ruined hut and in the other by tying it to a tree stump.  The absurdity of the SM’s acceptance of the legality of the process is nicely set out.

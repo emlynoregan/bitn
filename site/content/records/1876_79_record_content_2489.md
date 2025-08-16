@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [THIS ENDS ISSUE 52 WHICH MIGHT BE EXPECTED TO END VOLUME ONE, BUT THAT CONTINUES TO THE END OF ISSUE 56]

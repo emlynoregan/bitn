@@ -18,6 +18,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Mine will soon wear a livelier aspect as it is proposed to begin erecting the engine house at the new [Graves’] shaft immediately.  From such a costly decision we infer that the Mine will soon restart underground operations.

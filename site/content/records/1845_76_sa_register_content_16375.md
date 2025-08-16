@@ -21,6 +21,7 @@ topics:
 - circus
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burton’s National Circus Troupe has been performing here on Monday, Tuesday and Wednesday.  On each occasion there was a full house.  They maintained their old reputation for first-rate proficiency.

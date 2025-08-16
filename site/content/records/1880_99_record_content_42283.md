@@ -20,6 +20,7 @@ topics:
 - bridge
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved that the Mayor wait on the Government about the Bon Accord Bridge and urge that it be pushed on with at once and that it be at least 40’ wide.

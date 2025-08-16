@@ -20,6 +20,7 @@ topics:
 - land sale
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Parker’s, land in Graham was sold for £5-17-6 a foot and total proceeds for the sale were over £400.  Mr Boundy was the buyer.

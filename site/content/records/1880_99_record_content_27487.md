@@ -20,6 +20,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Primitive Methodist Church Anniversary last Sunday and Monday.  The premises have been lately renovated and the anniversary collection will more than halve the small debt.

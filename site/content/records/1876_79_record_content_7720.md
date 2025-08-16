@@ -21,6 +21,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Floricultural Society 1st show at the Institute Friday 19 December.

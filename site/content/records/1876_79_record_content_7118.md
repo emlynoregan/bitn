@@ -21,6 +21,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Liston, Shakes & Co. will also sell 45 acres of growing crop at the old pound 2 miles north of Kooringa on 3 October and will offer 10,600 sheep on 3 October.

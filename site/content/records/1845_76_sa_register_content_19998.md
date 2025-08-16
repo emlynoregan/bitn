@@ -18,6 +18,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the election on Monday 26 November at the Burra Hotel only 26 persons voted and some of them only because they were there on other business.

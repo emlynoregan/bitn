@@ -21,6 +21,7 @@ topics:
 - administration
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  Mr W.H. Hardy wrote in to claim that the appointment of Mr Fordham as Inspector to replace Mr Dow (deceased) is illegal.  Tenders, or at least applications should have been called.

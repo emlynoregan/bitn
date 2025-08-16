@@ -21,6 +21,7 @@ topics:
 - court
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Baker.  Baker was taken before the Bench at Wilcannia on Monday last prior to being committed to Bourke.

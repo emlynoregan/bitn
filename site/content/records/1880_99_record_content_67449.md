@@ -20,6 +20,7 @@ topics:
 - ambulance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ambulance.  Burra has received a van from Adelaide to serve as the Burra Ambulance Van.

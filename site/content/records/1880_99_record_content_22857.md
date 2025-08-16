@@ -21,6 +21,7 @@ topics:
 - natural event
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  The wet weather seems to have caused the fall of several thousand tons of stone in Bewley’s Quarry on Sunday afternoon.  The rain has fallen since last Thursday and Burra has had at least 1.75”.  All creeks are flowing heavily.

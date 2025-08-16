@@ -18,6 +18,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Musical Union Concert will be on 6 August.

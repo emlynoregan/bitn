@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - public lighting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Presumably there were two lamps in the south and one in the north.]

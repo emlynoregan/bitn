@@ -19,6 +19,7 @@ topics:
 - sport
 - bicycle polo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Polo match last Saturday.  C. Packard’s side 8 defeated W.J. Richard’s side 5.

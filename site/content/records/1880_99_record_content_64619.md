@@ -22,6 +22,7 @@ topics:
 - presentation
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams, PCR of Court Unity will be given a presentation at the Lodge Room at the Institute on Friday.

@@ -24,6 +24,7 @@ topics:
 - accident
 - ship collision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the patriotic folly going on in Sydney over the Sudan Campaign - folly because the Imperial Government admitted it had no further ambition, but to rescue Gordon.  250,000 had gathered to see the contingent off and one of the troop ships had, in the process, collided with a small steamer, crushing two women, one of them the wife of a soldier on the Iberia, and injuring several others.

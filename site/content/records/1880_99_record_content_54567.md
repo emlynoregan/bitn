@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Howchin’s lecture on ‘The Story of the Burra Hills’ at the Institute on Wednesday drew a large and appreciative audience despite the bad weather.

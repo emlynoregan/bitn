@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The season will open on Wednesday next when a Burra Cricket Club 13 will play 22 Muffs.

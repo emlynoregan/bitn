@@ -20,6 +20,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rechabites’ half yearly council of Albert District met on 17 September and there was an entertainment in the Institute with songs, etc. and speeches on temperance. [i.e. abstinence]

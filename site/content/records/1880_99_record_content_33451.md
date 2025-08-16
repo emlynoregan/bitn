@@ -19,6 +19,7 @@ topics:
 - land
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Workingmen’s Blocks at Davieston and Hanson were gazetted last Thursday.

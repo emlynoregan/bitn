@@ -19,6 +19,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two young men called Sugars were kangarooing at Baldina last week when one was thrown from his horse and he has remained unconscious for five days.  Since Wednesday his condition has been critical.

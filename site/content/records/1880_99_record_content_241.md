@@ -21,6 +21,7 @@ topics:
 - building
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s new church will be opened next Sunday with the Bishop of Adelaide to preach.  It has seating for 350.

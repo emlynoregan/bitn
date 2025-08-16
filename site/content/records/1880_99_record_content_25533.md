@@ -20,6 +20,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has been invited to attend a Queen’s Jubilee Service in the Kooringa Wesleyan Church on 19 June.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire.  A very large fire has been raging on Booborowie Run.

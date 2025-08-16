@@ -25,6 +25,7 @@ topics:
 - community
 - clubs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With reference to reserves let in Aberdeen.  They were let to Mr Dunstan, Mr Bentley and the Lawn Tennis Club.  Cr Killicoat moved they each be charged 1/- p.a.  Cr Sampson moved an amendment that they be charged 5/-, but the original motion was carried.

@@ -19,6 +19,7 @@ topics:
 - council
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Fountain is at last being erected, having been at the Burra Station since November 1887.  Council gave permission for its erection in line with the row of trees nearest the road, but stupidly it is being erected in the middle of the avenue blocking the way.

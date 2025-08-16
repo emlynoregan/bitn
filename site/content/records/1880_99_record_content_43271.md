@@ -20,6 +20,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on last Friday was addressed by Rev. R.J. Daddow on coal and coal seams.

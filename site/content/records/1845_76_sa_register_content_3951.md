@@ -27,6 +27,7 @@ topics:
 - wages
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 T.H. Williams of the Smelting Works charged John Prosser and David Jones with refusing to work.  He produced agreements for them to work at the smelters for seven years.

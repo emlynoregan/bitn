@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - murder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Whitechapel Murders.  Another woman’s body has been found on the Thames embankment.

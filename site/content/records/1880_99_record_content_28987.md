@@ -22,6 +22,7 @@ topics:
 - shooting
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Henry Broad of Baldina has been accidentally shot in the thigh by G. Parks.  He is progressing favourably under the care of Dr Brummitt.

@@ -19,6 +19,7 @@ topics:
 - accident
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Bolt. Sara & Dunstan's spring dray horse bolted while being loaded at their premises in Aberdeen and damaged their fence.

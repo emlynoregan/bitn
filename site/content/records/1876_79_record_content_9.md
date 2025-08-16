@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1876-79_Record.md
+publication_slug: record-1876-79
 ---
 
 ---

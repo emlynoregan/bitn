@@ -19,6 +19,7 @@ topics:
 - typhoid
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are several cases of typhoid in Kooringa at present.  The disease appeared about six weeks ago and there have been two deaths.

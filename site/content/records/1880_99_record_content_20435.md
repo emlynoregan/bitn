@@ -31,6 +31,7 @@ topics:
 - suicide
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of a man found hanged in a hut in the township of Douglas on Sunday

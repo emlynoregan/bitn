@@ -21,6 +21,7 @@ topics:
 - invention
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Local Industry. Report on the operation of a new earth scoop made by Statton & Henderson of Kooringa to a design of Mr Halliday.

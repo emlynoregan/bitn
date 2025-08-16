@@ -20,6 +20,7 @@ topics:
 - sympathy
 - royalty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An address expressing sympathy to Her Majesty the Queen has been signed eagerly by all classes.

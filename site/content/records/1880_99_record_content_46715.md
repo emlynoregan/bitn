@@ -26,6 +26,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bleak House Concert.  The final in the series of six concerts arranged by Mrs McLagan in aid of St Mary’s Church was held on Tuesday in the Institute.  Mr J. Roach assisted this time with friends from Adelaide.  The first five of the series were held in Bleak House.

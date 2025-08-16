@@ -21,6 +21,7 @@ topics:
 - death
 - postmaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mr Samuel Branch, the Redruth postmaster, died on Wednesday 17 July.

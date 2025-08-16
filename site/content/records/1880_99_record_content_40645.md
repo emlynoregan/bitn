@@ -19,6 +19,7 @@ topics:
 - legal
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Over one column on the Clare Licensing Board’s decision not to grant a liquor license to the refreshment stall at the Terowie Railway station.

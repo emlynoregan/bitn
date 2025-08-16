@@ -19,6 +19,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Tramway plate laying is proceeding at 3 miles per week.

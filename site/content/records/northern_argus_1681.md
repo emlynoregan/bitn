@@ -26,6 +26,7 @@ topics:
 - planning
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Don Hele, Chairman of the Urban Conservation Committee of the National Trust, spoke last Friday night to a group of traders, Council and other members of the community about adopting the ‘Main Street Program’ for Burra.

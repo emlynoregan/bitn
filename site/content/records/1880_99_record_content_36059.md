@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church.  The social tea on Wednesday and the service of song ‘Eva’ were very successful.  Rev. S. Gray gave the connective readings.

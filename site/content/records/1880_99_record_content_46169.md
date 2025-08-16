@@ -19,6 +19,7 @@ topics:
 - gender
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The lady members, on the whole, tended to confine themselves to music, either instrumental or vocal, with the occasional recitation or reading.  Only occasionally are odd ones shown to be taking a more active part in speeches, debates, or delivering a paper.]

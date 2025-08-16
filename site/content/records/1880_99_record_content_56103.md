@@ -21,6 +21,7 @@ topics:
 - travel
 - landscape
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader extolling the virtues of Porter’s Lagoon as ‘a splendid source of recreation and a healthful resort second only in importance to the charming seaside itself.’

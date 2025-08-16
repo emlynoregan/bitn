@@ -42,6 +42,7 @@ topics:
 - transport
 - government funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The road north of Burra.  From the Guardian.

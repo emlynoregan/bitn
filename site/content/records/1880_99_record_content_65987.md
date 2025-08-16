@@ -23,6 +23,7 @@ topics:
 - politics
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Australasian National League.  The annual social of the Burra Branch will be held on Friday 7 April in the Institute.  B.A. Molden, President of the ANL for SA and the Hon. W.B. Rounsevell will be among those speaking.

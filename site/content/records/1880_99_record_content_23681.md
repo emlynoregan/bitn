@@ -21,6 +21,7 @@ topics:
 - fundraising
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. Father O’Dowling will give a lecture at the Institute, Friday 5 November on Irish History with musical selections in aid of the Burra Hospital.  8 p.m.  1/-.

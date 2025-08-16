@@ -20,6 +20,7 @@ topics:
 - event
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket Club Annual Dinner at the Commercial Hotel 8 May. Dr. Alfred Cave in the chair.

@@ -19,6 +19,7 @@ topics:
 - water
 - survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.W. Hargrave has visited the town and taken levels with a view to preparing a report and estimates on the water scheme.

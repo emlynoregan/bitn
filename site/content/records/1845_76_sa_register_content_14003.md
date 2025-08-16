@@ -23,6 +23,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The removal of the Post Office, which has occasioned such newspaper controversy, seems to be of slight importance to most people.  The argument seems to have originated among some tradesmen who might be inconvenienced.  I believe it will rest with the Government as to wether it is to be amalgamated with the telegraph office or not.

@@ -40,6 +40,7 @@ topics:
 - representation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Political Meeting was held on 14 January, chaired by the Mayor, Dr Brummitt.  It was to consider local representation in Parliament.  The existing members, Rounsevell and Ward are likely to stand again.

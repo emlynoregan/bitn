@@ -20,6 +20,7 @@ topics:
 - business
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire Bricks.  Some months ago we advocated a firebrick industry using fire clay from Chalk Cliffs to the east of Burra.  Now a syndicate of a few gentlemen have obtained a lease and intend to set up a business.  The land is close to the railway.

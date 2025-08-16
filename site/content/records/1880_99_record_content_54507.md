@@ -19,6 +19,7 @@ topics:
 - sports
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the Adelaide match Norths 3.10 defeated Souths 3.7

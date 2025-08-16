@@ -19,6 +19,7 @@ topics:
 - practice
 - shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The target is now complete and ammunition has arrived.  Practice firings will be on Wednesday and Saturday afternoons.

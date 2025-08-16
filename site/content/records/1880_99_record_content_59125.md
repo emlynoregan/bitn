@@ -18,6 +18,7 @@ topics:
 - publication
 - announcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Record 1896 Calendar is distributed with this issue.  It is printed in three colours and additional copies are available from the office for 6d.

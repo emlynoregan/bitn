@@ -17,6 +17,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rainfall.  The rainfall figure cited last issue is corrected to 10.485”.

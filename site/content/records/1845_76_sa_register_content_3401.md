@@ -20,6 +20,7 @@ topics:
 - advertising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Editorial for the New Year announces a greatly augmented list of subscribers; compared with 1847, an increase of nearly 30%.  While the Burra Directors have withdrawn their advertising, and a handful of others have followed them, advertising support remains strong and it is apparent the sympathies of the great body of public opinion is with us.

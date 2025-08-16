@@ -22,6 +22,7 @@ topics:
 - government
 - unemployment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board responds to the request from the Burra Corp. to spend money on the Eastern Road by empowering the superintending surveyor to spend up to £300.

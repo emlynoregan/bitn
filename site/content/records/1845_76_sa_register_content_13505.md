@@ -19,6 +19,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s day school has been closed for some weeks, but it is about to be reopened under the superintendence of Mr W. Miller.

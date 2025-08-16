@@ -20,6 +20,7 @@ topics:
 - sport
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen 119 defeated Burra Juniors 74 on Wednesday.

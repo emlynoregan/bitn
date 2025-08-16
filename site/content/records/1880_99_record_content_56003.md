@@ -21,6 +21,7 @@ topics:
 - compensation
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Harris moved that Mr Snell not be compensated for the wrong he believed was done to him and after some debate it was so resolved.

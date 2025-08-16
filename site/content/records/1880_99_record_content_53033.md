@@ -23,6 +23,7 @@ topics:
 - people
 - list
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Walter Bentley, Miss Isabel Webster, Mr R. Nitschke, Mr A. Duncan and Miss Mary Bancroft.

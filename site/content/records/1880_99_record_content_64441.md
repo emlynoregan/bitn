@@ -22,6 +22,7 @@ topics:
 - community
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare Chrysanthemum Show thanked M-C Carter for looking after the exhibits: “‘Never before,’ said Mr Lewcock, ‘has the exhibits been so well cared for.’ [sic]  Let us see, now, who was the previous officer at Clare?”

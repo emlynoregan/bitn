@@ -21,6 +21,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council appointed as members: W.P. Barker, John Kellock and

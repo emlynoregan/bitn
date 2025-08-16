@@ -21,6 +21,7 @@ topics:
 - road
 - SAMA
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway wants SAMA to be required to fence their property on both sides of the road from Aberdeen to Kooringa.

@@ -22,6 +22,7 @@ topics:
 - strike
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ turns to the Barrier Miner where an article comments on a NSW election, but he soon gets back to his favourite free trade v. protection issue.  He goes on to discuss an unfair strike by shearers at William Killicoat’s over food that was of good standard.

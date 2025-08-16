@@ -18,6 +18,7 @@ topics:
 - injury
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  Two boys who were screening stones near some overhanging earth where the road metal is obtained were buried when the ground fell on them.  Two men were nearby and extricated the boys before they suffocated.  Their injuries were slight.

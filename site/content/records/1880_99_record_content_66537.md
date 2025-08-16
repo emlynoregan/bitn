@@ -23,6 +23,7 @@ topics:
 - golf
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Golf.  A Golf Club has been formed.  The links have been laid out starting from Brewery Flat and extending over 1¾ miles around the old smelting works.  There are c. 14 members.  J.E.H. Winnall, Hon. Sec.; Dr J.I. Sangster jun., Captain; R.M. Harvey, Vice Captain.

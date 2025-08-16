@@ -19,6 +19,7 @@ topics:
 - appointment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Governor.  Lord Kintore has been appointed next Governor of SA.  He is only 36.

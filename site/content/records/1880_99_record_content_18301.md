@@ -18,6 +18,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Home mission services were preached last Sunday with annual meeting on Monday.  Financial proceedings were a considerable advance on last year.

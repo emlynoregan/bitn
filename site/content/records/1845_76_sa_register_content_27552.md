@@ -25,6 +25,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Butler of Mt Lofty, son of the deceased, said his father was a farmer of Canowie Belt aged 60 and an experienced driver, used to horses.  He considered the part of the road where the accident occurred to be very dangerous.

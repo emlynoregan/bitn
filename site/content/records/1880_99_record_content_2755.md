@@ -19,6 +19,7 @@ topics:
 - serial
 - short story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 24 Jun 81	Ferryman’s Secret XIII-XIV	The First Piano in a Mining Camp	The Pedestrian and the Bloodhounds	X	X		X	X	X	X	X

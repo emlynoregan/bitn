@@ -19,6 +19,7 @@ topics:
 - sport
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  20 went to Terowie on Wednesday last and found the ground in a very bad state.  They decided to play for two hours with half hour changes.

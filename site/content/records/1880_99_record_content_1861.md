@@ -20,6 +20,7 @@ topics:
 - office
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J.F. Duff, the representative of Goodchild, Austin & Co., has moved from his old office to the one next door to Mr Packard’s.

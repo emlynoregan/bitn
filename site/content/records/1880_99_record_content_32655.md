@@ -19,6 +19,7 @@ topics:
 - industry
 - arbitration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Labor and Capital, suggesting the need for some form of arbitration system.

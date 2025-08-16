@@ -24,6 +24,7 @@ topics:
 - meeting
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett racing Club.  Second Annual Meeting on Wednesday 22 November on Messrs Bowman Bros. Paddock.  The main race was the Hallett Handicap over 1½ miles for stakes of £20.  M.M. Higgins’s Sentry came 1st and won £15 with T.J. Barrett’s Doric 2nd, winning £5.  There was an entertainment in the Institute Hall afterwards.

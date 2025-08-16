@@ -21,6 +21,7 @@ topics:
 - federation
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Australian Federation looks likely to succeed this time round.  Last week’s NSW election was in favour.  The Bill has passed the Tasmanian Parliament and will be dealt with in SA soon.

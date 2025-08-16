@@ -19,6 +19,7 @@ topics:
 - shares
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra £5 shares: seller £36 with last sale at £31-10-0.

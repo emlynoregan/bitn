@@ -20,6 +20,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday had a session of impromptu question box speeches.  Some 60 questions were handed in to the secretary.

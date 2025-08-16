@@ -27,6 +27,7 @@ topics:
 - remand
 - identification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 August Herman Heinrich, farmer of Robertstown, gave evidence of buying from them a piece of solder, a soldering iron, a plane, a pair of snips and a rasp for 2/6 and later ½ lb of tobacco and a bottle of eucalyptus for 2/-. 

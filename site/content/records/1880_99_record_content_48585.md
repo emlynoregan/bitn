@@ -22,6 +22,7 @@ topics:
 - sale
 - household
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson, on instructions from Mr F.P. Jones late of the Bon Accord Hotel, will sell the whole of his household effects and furniture at Millerton on 15 February.

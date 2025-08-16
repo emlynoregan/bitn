@@ -27,6 +27,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hibernian and Australasian Catholic Benefit Soc.  A ladies’ branch was opened in Burra on Saturday at a ceremony conducted by the District President M. Mannion & Vice-President C.C. Hanton & Mr F. B. Keough.  15 candidates were initiated.

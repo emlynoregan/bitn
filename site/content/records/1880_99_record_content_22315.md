@@ -20,6 +20,7 @@ topics:
 - memorial
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s held a memorial service for the late Dean Russell of Adelaide.

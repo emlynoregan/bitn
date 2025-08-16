@@ -19,6 +19,7 @@ topics:
 - by-law
 - hawkers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy said he was in possession of information that would put them on the right track for a new by-law concerning hawkers.

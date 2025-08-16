@@ -20,6 +20,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church Anniversary services on 30 October and the tea meeting on 31 October were well attended.  The service of song was Nobody’s Darling.

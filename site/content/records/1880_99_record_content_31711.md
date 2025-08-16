@@ -22,6 +22,7 @@ topics:
 - waterworks
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes on the Baldina Creek visit.  He is in strong support of the irrigation schemes based on Baldina, Burra and Newikie Creeks.

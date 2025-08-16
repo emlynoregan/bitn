@@ -21,6 +21,7 @@ topics:
 - bridge
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. Tenders are called for the erection of the iron bridge over the Burra Creek near market Square.

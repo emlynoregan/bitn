@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church anniversary services.  On Wednesday the chapel was filled five times over and partly filled a sixth and still there was enough left for a good supper.  The meeting had to be held in the open air as not half the people could get into the church.

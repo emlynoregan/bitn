@@ -26,6 +26,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The licensing officer was instructed to issue a driver’s licence to T.P. Halls.  The request for a continuation of S. Hill’s licence was not acceded to.  (Due to the disrespectful tone of the requisition presented to the Council.

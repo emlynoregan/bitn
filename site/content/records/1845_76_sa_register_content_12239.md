@@ -33,6 +33,7 @@ topics:
 - procession
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A strong muster of Oddfellows was held at the Burra Hotel at 2 p.m. today to celebrate the anniversary of the foundation of the Lodge.  They marched in procession to the Mine and thence through Aberdeen to Kooringa and Mr Whittaker’s Chapel where that gentleman preached a fine sermon.  Dinner followed at the hotel.  The procession was the largest seen in Burra.  The unprecedented number of about 150 sat down to dinner.  The services of Pearce’s Brass Band were in requisition all day.  Though a recent band, it has improved much of late.

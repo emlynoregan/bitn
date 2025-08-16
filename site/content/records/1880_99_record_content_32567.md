@@ -25,6 +25,7 @@ topics:
 - government
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy has a one column-long article on hawkers’ licences.  He draws attention to a Supreme Court ruling of 9 April 1889 that a licence from the SA Treasury to any part of the Province of SA was sufficient for a person to hawk within any municipality irrespective of any local by-law.  This is a blow to the finances of the corporations.  The mayor of Adelaide has sought a legislative remedy.  The Treasurer said it had been thought the Act of 1863 only applied outside the corporation boundaries.  At present the police have been instructed to refer applicants who reside in a district, which has passed a by-law on hawkers’, licences to the council concerned and if there is no by-law a licence will be granted.  A licence may be granted if the applicant intends hawking outside the boundaries of the corporation.  This is a reasonable outcome for the city, but is of little use for country corporations.

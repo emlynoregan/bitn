@@ -19,6 +19,7 @@ topics:
 - council
 - decision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The amendment was carried on the casting vote of the Mayor who felt ‘it would not be advisable to do anything that would affect the business of it.’ [i.e of the town.]

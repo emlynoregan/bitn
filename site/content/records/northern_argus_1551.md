@@ -25,6 +25,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Notice.  J.M. & H.P. Hirschausen of 6 St Just Street, Burra, are applying for the conversion of an existing stone building into a licensed tavern and restaurant.  The location is Lot 78 Commercial Street.  Representations concerning this application are to be made by 3 September.

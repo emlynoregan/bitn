@@ -19,6 +19,7 @@ topics:
 - deficit
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Financially the year began with £12-13-6 and receipts brought it up to £172-4-10.  Expenditure has been £196-1-8, which included £39-3-6 on excavation for new rooms, leaving a deficit of £22-16-10.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - accidental death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Roberts died last Monday [28 January] at Burra Hospital from alcoholic poisoning.  [Aged 44.]

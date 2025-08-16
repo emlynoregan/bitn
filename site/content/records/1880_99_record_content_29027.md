@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 5 chains of road near the Goods Station are to be metalled.

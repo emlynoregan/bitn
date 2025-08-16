@@ -19,6 +19,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian, Christian Endeavour Soc. Held its first annual picnic at Johnson’s Creek on Good Friday.  A variety of games were pursued and a good afternoon tea enjoyed.

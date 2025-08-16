@@ -18,6 +18,7 @@ topics:
 - relief work
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter asking what the Government expects the single men to do for work if only the married unemployed are to get relief work.  Are they to be supported by their fathers?

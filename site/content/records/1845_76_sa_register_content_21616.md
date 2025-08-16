@@ -20,6 +20,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The ‘letting’ at the Burra Mine was better than for some time.  Several pitches were let in the lobby at reduced prices, but sufficient to permit pretty fair wages.  The creek continues to turn out the usual 400 to 500 tons per take, of 14% ore.

@@ -24,6 +24,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Aberdeen Football Club met at the Royal Exchange Hotel on 3 April and the meeting was well attended.  Elected: Patron W. Killicoat, President W. Neville, Captain T. Hirschausen, and Vice-Captain F. Sellars.  Three matches are to be arranged with Burra for 28 April, 19 May and 16 June.

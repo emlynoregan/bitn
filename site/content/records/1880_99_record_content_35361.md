@@ -19,6 +19,7 @@ topics:
 - politics
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A Meeting of the Supporters of the Hon. F.W. Holder MP will be held in the Burra Institute

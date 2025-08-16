@@ -18,6 +18,7 @@ topics:
 - gold
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  There is a report that the Government party is about to give up as no real discoveries have been made in their areas.

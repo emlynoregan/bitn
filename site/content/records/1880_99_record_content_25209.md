@@ -19,6 +19,7 @@ topics:
 - leases
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  The editor favours the development of flexible leases for farmland where development could be encouraged by low start-up costs, but the Government could get reasonable returns as prosperity of the property increased and with it the value and therefore the charge for the lease.

@@ -24,6 +24,7 @@ topics:
 - music
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra beat Medindie (Adelaide) and in the evening the Militia Band gave a grand sacred concert in the Institute.

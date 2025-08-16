@@ -24,6 +24,7 @@ topics:
 - death
 - management
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 They found that the deaths were caused by the train falling into a chasm caused by the flood and that the breach of the line had not been observed by any officials of the line because the patrol of the line was ordered discontinued by direction of the Inspector of the Permanent Way, Mr Henry Branford, without authority or cognizance of the Manager of Railways, as head of his department; and that the action of Mr Branford in that respect is highly censurable, and is the direct cause of the accident.

@@ -21,6 +21,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pastoralists Assoc. of SA & West Darling met on Friday at Burra.  They decided to continue the 1894 shearing agreement.

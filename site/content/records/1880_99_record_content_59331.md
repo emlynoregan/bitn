@@ -17,6 +17,7 @@ topics:
 - theft
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tramps are about at present appropriating goods from backyards etc.  [Or as the paper calls them: ‘Light fingered gentry.’]

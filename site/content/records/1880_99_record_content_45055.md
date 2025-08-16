@@ -20,6 +20,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A meeting at the Royal Exchange Hotel last Friday considered forming an Aberdeen Football Club.  A good attendance decided to go ahead.

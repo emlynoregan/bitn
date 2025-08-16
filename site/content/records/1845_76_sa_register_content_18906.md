@@ -19,6 +19,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Miss E. Palmerston gave an entertainment at the [Burra] hotel on 22 August to a good house.

@@ -21,6 +21,7 @@ topics:
 - show
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Cave was judge at the Broken Hill Chrysanthemum Show last week.  A collection of his blooms, not for competition, was much admired.  Mr R.M. Harvey of Burra secured two prizes for cut flowers.

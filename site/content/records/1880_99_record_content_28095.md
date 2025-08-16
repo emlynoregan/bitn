@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A public meeting is called for 22 March to consider the advisability or otherwise of renewing the lease on the Waterworks.

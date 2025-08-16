@@ -20,6 +20,7 @@ topics:
 - agriculture
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Roach Bros.  The Burra Mill has begun work after a long period of inaction as the new season’s wheat has begun to arrive.

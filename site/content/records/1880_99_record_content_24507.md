@@ -25,6 +25,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Subscribers’ Meeting.  Mr Anderson took the chair and there were 12 present.  Books now number 2830, down 52, which were worn out.  The reading room averages 40 users a day.  The year began with a credit of  £12-13-6 and there was £322-18-4 income, including the Government grant-in-aid of £54-12-0.  Expenditure was £288-0-1, leaving a credit balance of £34-18-3.

@@ -20,6 +20,7 @@ topics:
 - economy
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘New Arrival’ condemning the low wages paid by many for labour.  12/- a week plus board equal to c. £1 is common and £1 a week is ridiculous for a man to live on and keep a family.

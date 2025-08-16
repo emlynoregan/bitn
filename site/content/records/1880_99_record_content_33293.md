@@ -22,6 +22,7 @@ topics:
 - property
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called by August Bartholomæus for the purchase of section 2070, Hundred of Kooringa comprising 68 acres, and a bone mill erected thereon.

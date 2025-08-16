@@ -22,6 +22,7 @@ topics:
 - punishment
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences. Various people fined for stray animals in the town & one for depasturing stock on a stock road & not moving 1,800 sheep the required 5 miles per day. 

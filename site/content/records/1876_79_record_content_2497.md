@@ -17,6 +17,7 @@ topics:
 - defence
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: more on this in light of the Govt. estimates for 1877-8.

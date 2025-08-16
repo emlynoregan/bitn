@@ -19,6 +19,7 @@ topics:
 - finance
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Grants-in-Aid Bill reduces subsidies to 15/- in the £ this year and 10/- in the £ from next year.

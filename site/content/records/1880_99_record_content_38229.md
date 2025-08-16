@@ -24,6 +24,7 @@ topics:
 - letter
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Our Erratic Correspondent [Hardy] writes on local option.  He speaks strongly against a recent meeting in Adelaide in favour of local option without compensation.  Local ‘faddists’, he says, Mrs O. Lake, Rev. M. Wood Green were joined by the Cornish extremist R. Coad.

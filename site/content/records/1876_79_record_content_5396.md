@@ -20,6 +20,7 @@ topics:
 - exhibition
 - glass-blowing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Woodroffe’s Glass-Blowing Exhibition at the Institute. Work begins Tuesday 17 Dec. with a matinee Sat. 21 Dec.

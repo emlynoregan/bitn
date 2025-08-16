@@ -20,6 +20,7 @@ topics:
 - politics
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from William H. Hardy giving ⅔ column on European politics: especially Russia’s intentions in Heart and Afghanistan.

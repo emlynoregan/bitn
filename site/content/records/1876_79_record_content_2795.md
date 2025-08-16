@@ -18,6 +18,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Capsize. The SA Carrying Co. trolley horse shied outside the National Bank at a piece of wood and an oncoming trap, in seeking to avoid a collision, swerved up the bank and slowly toppled over. No one was hurt and there was minor damage to the trap.

@@ -26,6 +26,7 @@ topics:
 - unemployment
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the new Parliamentary Session and the need to act on the land question and on taxation policy.  The liquor laws also need reform.

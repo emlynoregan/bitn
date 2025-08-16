@@ -24,6 +24,7 @@ topics:
 - local government
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Burra Town Council wasted a great deal of time last meeting.  The meeting started at 7.30 p.m. and went till 10.25 p.m.  Work in the North Ward that was not authorised was objected to.

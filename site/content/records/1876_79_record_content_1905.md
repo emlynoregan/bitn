@@ -22,6 +22,7 @@ topics:
 - church
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. G.W. Patchell M.A. & his wife were farewelled from the Redruth Wesleyan Church.

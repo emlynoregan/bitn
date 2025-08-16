@@ -20,6 +20,7 @@ topics:
 - event
 - tour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra National Trust will have a bus tour to Bungaree on 20 September.

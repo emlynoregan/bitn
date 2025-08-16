@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A good dinner for 1/- from 12 to 2 p.m. and a splendid tea 4 to 6 p.m. for 6d.

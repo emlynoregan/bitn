@@ -20,6 +20,7 @@ topics:
 - medical
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Drs Nesbitt & Brummitt visit Hallett every Friday and may make a second visit each week shortly if it should appear necessary.

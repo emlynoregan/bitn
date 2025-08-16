@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The Quintrells played violins, cello, double bass and piano while Mr Musical Thomas & Co rendered Operatic Choruses and Jubilee Songs as well as glees, quartettes, and solos.]

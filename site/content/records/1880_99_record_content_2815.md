@@ -18,6 +18,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 and the Freebooter Ch I	by James Hingston		X	X		X		X	X

@@ -22,6 +22,7 @@ topics:
 - organization
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Major W.T. Hoskin (Salvation Army) writes about his arranging the 3rd annual meeting of the social wing in SA at the Adelaide Town Hall on 21 August.  Chief Justice Way will preside.  There is an appeal for funds on behalf of rescue.  The work covers: Prison Gate Brigade, Rescued Sisters’ Home, Maternity Home, Police Court Visitation, Samaritan & Enquiry Department and Servant’s Registry.

@@ -24,6 +24,7 @@ topics:
 - gardening
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Very frequent prize winners were T.W. Pearce, F.W. Holder, D.S. Packard, W. Escott, C. Oppermann and J.D. Cave.

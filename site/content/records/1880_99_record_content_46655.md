@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Resolved that the fireplug stones be raised so they can be found when wanted.

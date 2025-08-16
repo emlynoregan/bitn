@@ -23,6 +23,7 @@ topics:
 - tourism
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Alison Reed has passed her seniors’ exam in ballet from the Royal Academy of Dancing.

@@ -21,6 +21,7 @@ topics:
 - military
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War News.  The NSW contingent from the Sudan campaign will now return home since the threat in Afghanistan has abated.

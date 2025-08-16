@@ -23,6 +23,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This is causing problems.  In its favour it is a boon to be able to the city earlier and to the Peninsula in one day.  But the disadvantages are: -

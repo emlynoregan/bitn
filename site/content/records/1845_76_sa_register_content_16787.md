@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Aberdeen Lodge MUIOOF had their anniversary dinner last Tuesday.  PGM Pearce occupied the chair with PM Godson as Vice-Chair.

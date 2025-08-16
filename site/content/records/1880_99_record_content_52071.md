@@ -18,6 +18,7 @@ topics:
 - inquest
 - verdict
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Verdict was a purely accidental death, no blame being attached to anyone.

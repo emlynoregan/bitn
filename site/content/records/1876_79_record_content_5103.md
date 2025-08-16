@@ -19,6 +19,7 @@ topics:
 - mayoralty
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. The main debate was about mayoral elections as mentioned in the editorial.

@@ -20,6 +20,7 @@ topics:
 - railway
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The plans for the Mine failed to arrive by the last post.  This disappointed many because the railway works near here are nearing completion and many of the labourers are hoping to transfer to work of some sort at the mine, without having to wait very long.  In the meantime business in Kooringa is dull.

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital. The new wall around the Hospital is nearly completed. The contractor was Mr Jeffry Pearce.

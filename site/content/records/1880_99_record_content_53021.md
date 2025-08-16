@@ -21,6 +21,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race from Princess Royal last week saw a win to H. Tiver’s Hard Up at an average 1,028 yards per minute.

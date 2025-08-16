@@ -21,6 +21,7 @@ topics:
 - advertisement
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J.A. Watt Cash Shop - Cheap Hats, has moved from his previous shop and house in Commercial St to a shop opposite Drew & Co.

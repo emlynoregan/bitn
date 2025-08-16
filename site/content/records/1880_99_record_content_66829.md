@@ -24,6 +24,7 @@ topics:
 - sport
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club met in R.D. Pascoe’s room on Thursday with W.D. Hardy in the chair.

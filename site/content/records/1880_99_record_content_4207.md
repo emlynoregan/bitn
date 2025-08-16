@@ -19,6 +19,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The match v. Norwood, planned for 24 May, has fallen through, Norwood being unable to get sufficient players.

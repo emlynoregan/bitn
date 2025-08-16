@@ -22,6 +22,7 @@ topics:
 - advertisement
 - butchers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Butchers Advt. Lihou & Bromley of Kooringa C. Giesecke of Kooringa

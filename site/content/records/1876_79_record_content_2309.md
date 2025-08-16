@@ -20,6 +20,7 @@ topics:
 - military
 - armament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: Ed. favouring a larger defence force and allowing for cavalry outside of Adelaide too. Reports that a supply of Martini-Henri rifles has been dispatched from UK.

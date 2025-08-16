@@ -21,6 +21,7 @@ topics:
 - advertisement
 - location
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Near the Bible Christian Church in Bridge St East.  1 April.

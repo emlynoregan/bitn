@@ -19,6 +19,7 @@ topics:
 - election
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayoralty.  The Mayor convened a meeting to allow candidates to address ratepayers.  John Dunstan was the only candidate and expressed his views very clearly.  Questions relating to public baths created much merriment.

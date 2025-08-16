@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Annie B. Millar, Bleak House, April 5 1898.

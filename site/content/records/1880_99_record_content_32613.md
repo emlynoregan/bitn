@@ -22,6 +22,7 @@ topics:
 - bridge
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The School Board of Advice will place a footbridge over the creek opposite the Church of St Joseph.  Members will act in their private capacity.  [Another note in ‘Items’ suggests that subscriptions will be solicited.]

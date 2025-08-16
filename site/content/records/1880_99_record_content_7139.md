@@ -33,6 +33,7 @@ topics:
 - politics
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Election Results.  The last election for which the whole colony was one electorate from which six were to be elected.)

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Tenders are called by 27 June for the erection of a platform at Davieston station and for rooms at Hallett station.

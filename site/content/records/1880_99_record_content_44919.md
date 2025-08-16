@@ -18,6 +18,7 @@ topics:
 - advertisement
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For sale by auction at Institute 8 & 9 April

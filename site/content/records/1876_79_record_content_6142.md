@@ -21,6 +21,7 @@ topics:
 - tenders
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tenders called for an underground tank at the police station in Kooringa. Advt. Burra Races, 1 April.

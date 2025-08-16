@@ -19,6 +19,7 @@ topics:
 - reformatory
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Reformatory is now operational with a number of girls in residence and a further instalment due in the near future.

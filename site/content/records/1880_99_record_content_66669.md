@@ -20,6 +20,7 @@ topics:
 - discovery
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold is reported to have been discovered between Mt Bryan and Hallett in the ranges.

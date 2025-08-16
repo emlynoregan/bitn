@@ -20,6 +20,7 @@ topics:
 - lecture
 - botany
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Young Men’s Club.  T.W. Wilkinson’s address on Botany at the Wesleyan Lecture Hall on Wednesday drew a very fair and appreciative audience.

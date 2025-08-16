@@ -21,6 +21,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are rumours that the English & Australian Copper Company intends to curtail operations here to six months of the year.  This will do nothing to help the trade in Burra, which is very dull.

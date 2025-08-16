@@ -21,6 +21,7 @@ topics:
 - notice
 - carriers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Despite the death of Mr T.B. Terrell the firm of Treleavan & Terrell, Railway and General Carriers, will carry on as usual.

@@ -22,6 +22,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Last Monday at Burra Oval: Burra played Teachers Assoc. 399, but did not get to bat.

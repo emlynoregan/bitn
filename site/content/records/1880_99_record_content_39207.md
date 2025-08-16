@@ -20,6 +20,7 @@ topics:
 - council
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor says the responsibility is mainly with the Government who ought to have begun the work months ago, but the Council is to blame for allowing the retimbering part of the work to go ahead at this time.

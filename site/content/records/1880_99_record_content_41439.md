@@ -18,6 +18,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Band of Hope continues to meet: most recently on 7 May.

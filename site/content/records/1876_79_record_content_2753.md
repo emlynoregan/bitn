@@ -19,6 +19,7 @@ topics:
 - geography
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Emu Flat in H. of English is 3 miles by 15 miles and has clumps of mallee, gums and pine.

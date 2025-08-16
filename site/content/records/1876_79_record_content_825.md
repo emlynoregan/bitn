@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - citation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 I, 6 (7), 11 Aug. 1876, page 3 [The number of the issue is hand corrected to 7 on the microfilm.]

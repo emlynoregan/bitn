@@ -19,6 +19,7 @@ topics:
 - agriculture
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits continue to increase and now a plague of caterpillars has appeared to the northeast.

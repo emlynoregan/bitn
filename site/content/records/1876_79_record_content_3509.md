@@ -22,6 +22,7 @@ topics:
 - bridge
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. (Or Aberdeen Bridge) Report from surveyor to the Midland Road Board that some timbers are thoroughly rotten and it needs attention, `though safe enough for a time'.

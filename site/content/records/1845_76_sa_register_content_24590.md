@@ -22,6 +22,7 @@ topics:
 - mining
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  At the last meeting of the SA Mining Association Mr S. Tomkinson was elected a director in place of Mr Jaffrey, who has returned to England.

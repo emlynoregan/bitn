@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra and Terowie played a 16 a side match and Burra 9.15 defeated Terowie 0.2 before a small crowd.

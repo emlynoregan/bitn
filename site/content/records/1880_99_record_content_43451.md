@@ -21,6 +21,7 @@ topics:
 - event
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wesleyan Christmas Concert.  Wesleyan Lecture Hall Kooringa, 22 Dec.  6d.

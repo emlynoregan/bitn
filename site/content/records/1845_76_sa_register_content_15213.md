@@ -24,6 +24,7 @@ topics:
 - event
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 December 1861, page 2

@@ -24,6 +24,7 @@ topics:
 - history
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J. Pickering obituary. Arrived in colony in 1837 and went with Captain Sturt on expeditions in the south and south-east of the colony and in 1845 began business in Kooringa, being the oldest business resident in Burra. [Though this was said of Thomas Bath when he was selected to lay the school foundation stone.]

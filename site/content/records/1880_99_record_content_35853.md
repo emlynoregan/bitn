@@ -27,6 +27,7 @@ topics:
 - religion
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Anglican Church.  A letter was sent from Dean Hopcraft to St James’ Church of England, Jamestown, to the effect that the Rev. J.S. Wayland would be transferring from Burra to Jamestown-Terowie-Petersburg and would live at the last named place.  For a service every three weeks Jamestown was to provide £80 p.a.  The congregation, in view of the financial situation has declined the offer in favour of lay readers.

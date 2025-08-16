@@ -23,6 +23,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines Ed. The outlook for the town is `not very promising' There is some hope for activity from the Burra-Hallett railway, but once that is open the transfer of the railhead will actually take business away from the town. In the long run the Ed. felt this loss could be more serious than the mine closure. There would be the end of the arrival and departure of the mail coaches and of many of the bullock- and other teams that use the station.

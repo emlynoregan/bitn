@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mrs Pearce Sen. Last Tuesday night mistook the road to the ford in the dark and took the approach road to the new bridge instead. The fence across the approach has recently been removed and she fell 9-10’ off the new approach and was lucky to have escaped with severe shaking and bruising.

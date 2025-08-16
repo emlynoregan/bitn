@@ -38,6 +38,7 @@ topics:
 - assault
 - summons
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 23 May 1851, page 3

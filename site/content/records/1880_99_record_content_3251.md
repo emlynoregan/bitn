@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  James Mills Patterson [Jun.] 8 Feb. at Copperhouse, aged 33, only son of J.M. Patterson Sen.

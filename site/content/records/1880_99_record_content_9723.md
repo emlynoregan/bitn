@@ -20,6 +20,7 @@ topics:
 - court
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The SAR has lost its appeal against the £250 damages awarded Price for a broken kneecap and will have to pay costs.

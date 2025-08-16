@@ -21,6 +21,7 @@ topics:
 - editorial
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Hon. Thomas Playford’s policy announcement.  Too much of this policy has been plundered from the late Government and was, when introduced by them, opposed by those who now espouse it.  The Government intends to end the free breakfast table and to increase the tax on income, to get 2d a £ from property and 1d in the £ from trade.  All of which we believe will come direct from labour.

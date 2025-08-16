@@ -18,6 +18,7 @@ topics:
 - events
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Ploughing Match will be held soon at Burra.  Four years ago ploughing was seldom thought of here; now large numbers of implements are sold and land in all directions is being broken up for agriculture.

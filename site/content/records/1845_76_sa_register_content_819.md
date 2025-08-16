@@ -22,6 +22,7 @@ topics:
 - resources
 - coal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Alexander McGeary reports having found a carboniferous substance on crown land near the Burra Burra Mine, giving rise to a firm belief that coal will lie a short distance below.  The Burra Burra Company has called a meeting on the matter for next Tuesday.

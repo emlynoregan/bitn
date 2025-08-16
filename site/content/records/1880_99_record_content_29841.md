@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Musical Union debut musical concert last Wednesday.  The leader was Mr Wittber.  The ever-willing John Roach accompanied by Miss Rita Cater came from Adelaide to assist and their help was much appreciated.  Each item is reviewed.  The entertainment raised £10 for the Institute.

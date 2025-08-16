@@ -19,6 +19,7 @@ topics:
 - employment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mongolata Dam.  38 names were given to the Town Clerk for the work.  Workers are to leave 1 May for the site.  19 further names have now been given, but it is not known how many will be taken on.  14 drays have been engaged at 11/- a day.  The tools arrive on the train tonight and proceed with the swags etc. tomorrow.

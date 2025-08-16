@@ -20,6 +20,7 @@ topics:
 - mining
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Thomas Rosewall has been appointed Captain at the Royal Mining Co.’s mine at Karkulto.  This is a wise appointment as he has been working on the ground for a long time and knows the place better than anyone.

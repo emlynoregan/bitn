@@ -20,6 +20,7 @@ topics:
 - police
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army Meeting on Friday evening was disturbed by two drunken visitors and although the police were sent for, it has been decided not to prosecute.

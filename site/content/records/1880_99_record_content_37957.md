@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Ferdinand Gebhardt Sen. aged 55, baker, died on 2 September after a long and painful illness.

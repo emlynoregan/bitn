@@ -21,6 +21,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Rt Rev. Dr Maher, Bishop of Port Augusta, held a confirmation service at St Joseph’s last Sunday when 63 were confirmed.  Illness prevented his lordship from preaching.

@@ -20,6 +20,7 @@ topics:
 - race
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Races were held at Westbury and were well patronised on 31 December and 1 January.  One accident occurred when a horse bolted in the Ladies’ Race near the winning post and threw her rider, Ruth Llewellyn, to the ground.  She was stunned, but soon recovered.

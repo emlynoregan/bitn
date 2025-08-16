@@ -23,6 +23,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Resident of Gawler’ writes urging that the amount of mail carried north from Gawler warrants the appointment of a northern mail guard.

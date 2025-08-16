@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church celebrated its 18th Anniversary last Sunday and Wednesday.  Rev. S. Wellington preached. Tea meeting Wednesday.

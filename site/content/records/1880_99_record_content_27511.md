@@ -21,6 +21,7 @@ topics:
 - waterworks
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Simpson’s tender to be the Waterworks Engineer for £2-8-0 a week was accepted.  (J. Harvey had tendered the same amount and W.H. Hardy £2-10-0.)

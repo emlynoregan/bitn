@@ -20,6 +20,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the Editor complains of the carol singing racket on Christmas Eve, followed by a group with instruments.  ‘My husband suggested shooting them’.  The police should arrest these brawling revellers.

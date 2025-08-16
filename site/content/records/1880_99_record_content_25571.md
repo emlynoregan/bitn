@@ -18,6 +18,7 @@ topics:
 - community
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Cave has given away over 600 chrysanthemum roots.

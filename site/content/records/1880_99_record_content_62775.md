@@ -20,6 +20,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  Excellent falls of rain were recorded in August in the Eastern Country.  World’s End had over 8½”.

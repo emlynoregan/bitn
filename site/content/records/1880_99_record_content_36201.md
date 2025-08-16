@@ -19,6 +19,7 @@ topics:
 - elections
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He had to ‘point out the fact that he had to accept the worst position of the whole lot’ (laughter) ‘He would heartily thank those who so nobly voted for him, they were the only sensible men in the district (loud laughter).  He liked honest men - (cheers) - but not those who went behind doors to do things.’

@@ -26,6 +26,7 @@ topics:
 - coaches
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Mines.  On the last trip down the mail met more than 150 swagmen tramping the road to the Barrier and also dozens of horses, buggies and carts.

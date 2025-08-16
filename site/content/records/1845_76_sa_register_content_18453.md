@@ -17,6 +17,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A shower of rain on Saturday night settled the dust.

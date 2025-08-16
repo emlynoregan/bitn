@@ -19,6 +19,7 @@ topics:
 - building
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Primitive Methodist Church. Tenders are called for the substantial renewal of the building. When completed the changes will make it seem like a new building, at least from the outside.

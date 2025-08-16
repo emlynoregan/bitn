@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - editorial_note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [There is a pencilled addition on the office copy of the paper:

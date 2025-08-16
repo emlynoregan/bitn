@@ -18,6 +18,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Band of Hope Entertainment in Kooringa Wesleyan Lecture Hall, 17 June.

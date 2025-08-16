@@ -20,6 +20,7 @@ topics:
 - customs
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA had been paying a sum to NSW to make up for duties that might have been paid on materials sent into NSW from SA.  Owing to the low rivers and other causes this has been higher than the duty that would actually have been paid.  (The difference however is not sufficient to counter the disadvantage that would result from actual customs levies.)

@@ -28,6 +28,7 @@ topics:
 - administration
 - jurisdiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board.  Mr Rush, Chairman of the Mt Bryan DC waited on the board to have the Kooringa-Mt Bryan Road put on the schedule of main roads and was told he should have waited on the Commissioner of Public Works.

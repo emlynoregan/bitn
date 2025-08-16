@@ -21,6 +21,7 @@ topics:
 - charity
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Stanton staged a successful entertainment at the Burra Hotel Assembly Rooms on Tuesday.  The proceeds of £12-10-0 go to the Charity School instrumentalist.  [Performers are listed.]

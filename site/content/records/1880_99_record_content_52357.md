@@ -24,6 +24,7 @@ topics:
 - charity
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hospital Concert.  On 22 December Mr A.C. Noyes produced a concert at the Burra Hospital with Mr R.M. Harvey as chairman.  The large and appreciative audience heard the Burra Orchestra and a series of songs and instrumental items [listed].  Mr Roach will give a tea and entertainment there on 27 December.  The Burra Hospital Board has given a Christmas gift of £3-3-0 to Mr Blight, a patient who whitewashed and painted the hospital internally almost throughout.

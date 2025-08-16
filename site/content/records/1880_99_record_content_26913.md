@@ -23,6 +23,7 @@ topics:
 - animals
 - theory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  E. White of Hallett Public School writes at great length [1½ columns] on agricultural practices of the day.  He is against burning stubble, but has an incredible theory about the power of the moon in drawing particles of vapour into the air from dead sheep, cattle and horses, causing a low pressure and the consequent inflow of air causes rain.  So gases from dead animals caused the rain that broke the drought.  Once wet the land becomes richer and retains more moisture and can ‘powerfully rarify the atmosphere’. 

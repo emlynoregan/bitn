@@ -23,6 +23,7 @@ topics:
 - christmas
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas began on 24 Dec. with a distribution of food to the needy by the Mayor, P.L. Killicoat, Dr Brummitt, Mr W. Pearce Jun., Mr W. Killicoat and the Benevolent, Soc. Of the Wesleyan Church.

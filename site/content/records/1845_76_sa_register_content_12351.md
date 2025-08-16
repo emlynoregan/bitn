@@ -18,6 +18,7 @@ topics:
 - weather
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burton’s Circus made a flying visit and played one night to a tolerable house.  The next day was too stormy and the wind blew down their tent.

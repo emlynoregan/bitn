@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s, Burra.  A recent church warden was given a sum of money in recognition of his four years’ service as harmoniumist.  He has generously deposited the sum in the offertory bag to go towards the repair costs of the church.

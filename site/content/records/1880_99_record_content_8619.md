@@ -25,6 +25,7 @@ topics:
 - animals
 - stock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.G. Innes Ker, Inspector of Stock v. Ford, for cutting off with a straight cut part of the ears of certain sheep.  Adjourned from the previous week.

@@ -20,6 +20,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Even without the railway many are confident of the future prosperity of the Mine.  The new [Graves’] shaft is down to 40 fathoms where a plat is being cut.

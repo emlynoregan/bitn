@@ -21,6 +21,7 @@ topics:
 - finances
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The annual vestry meeting was held on 18 April [sic- since this is the paper of 15 April the 8 April was probably intended.]  The incumbent pointed to improved financial prospects.  There were 80 communicants and average attendances were better than last year.  Twenty confirmations had taken place.  There was a need for an arbor day and a greater need for a schoolroom.  £70 had been raised for the building fund, £32 towards the new cabinet organ and £51-5-0 for repairs to the church and parsonage.

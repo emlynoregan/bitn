@@ -21,6 +21,7 @@ topics:
 - press
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor claimed the Council had been vilified in the press.  We deny this.  The criticism has been plain and open ‘without in any way overdrawing the facts.’

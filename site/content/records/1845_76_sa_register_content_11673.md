@@ -26,6 +26,7 @@ topics:
 - event
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The SA Mining Association Directors left Burra on Friday 30 April to travel to Clare.  They intended looking at their property at the Emu Flats, the Pompurne Estate.  It is said they intend to set to work to prove it.  It a success it will cause a big stir at Clare.

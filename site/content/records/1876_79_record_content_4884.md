@@ -21,6 +21,7 @@ topics:
 - club
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Amateur Athletics Club met at the Commercial Hotel on Monday night when Mr Parker was elected chair. Mr McCulloch is to be asked for his paddock for the next meet.

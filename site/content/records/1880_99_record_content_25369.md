@@ -20,6 +20,7 @@ topics:
 - land
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson D.C. had also expressed dismay at the possible sale of the wood reserve in the Hundred of Bright.  The Crown Lands Office replied to them that it would be preserved.  Reported at the meeting of 30 April.

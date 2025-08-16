@@ -20,6 +20,7 @@ topics:
 - petition
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway.  We understand a memorial is being largely signed in North Ward urging Cr Ridgway to continue for the rest of his term and expressing confidence in him.

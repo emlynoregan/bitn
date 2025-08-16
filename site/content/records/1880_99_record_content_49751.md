@@ -21,6 +21,7 @@ topics:
 - achievement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss M. Dunstan, aged 14 and daughter of John Dunstan Jun. late of Burra, has had further success with her painting.

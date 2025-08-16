@@ -24,6 +24,7 @@ topics:
 - meeting
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  WCTU.  A meeting of the mother’s of the Union is called at the Bible Christian parsonage (Mrs Stayel’s) for 16 July at 2 p.m.  Leftover garments for remaking welcomed.  J.N. Holder, Sec.  [Should this be J.M. Holder? Julia Maria was F.W. Holder’s wife.]

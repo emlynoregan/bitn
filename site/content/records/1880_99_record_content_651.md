@@ -24,6 +24,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The first AGM of the Burra Football Club was held at the Institute on Monday with about 25 members present.  Elected were: -

@@ -22,6 +22,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A. Bartholomæus is selling by tender section 2070 of the Hundred of Kooringa, with the bone mill in good working order erected thereon with all necessary appliances.

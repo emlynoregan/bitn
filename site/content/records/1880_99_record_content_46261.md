@@ -19,6 +19,7 @@ topics:
 - football
 - score
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Manoora	1.0	1.0	1.2	1.1	(7)!

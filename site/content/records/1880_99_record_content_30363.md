@@ -25,6 +25,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Monday the amalgamation of the Burra and Young Australian Cricket Clubs resulted in the election of W. Fox as Captain and George Herbert as Vice-Captain, with W.E. Frith as secretary and treasurer.  The new club is to be known as the Burra Cricket Club.  Its first match will be against Terowie next Wednesday at Terowie.

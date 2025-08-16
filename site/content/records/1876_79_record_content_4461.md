@@ -25,6 +25,7 @@ topics:
 - health
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary & Inquest on Tuesday, into the death of Sarah Ann Fogarty, who had died the previous morning.  [Died 30 July at Redruth aged 18.]

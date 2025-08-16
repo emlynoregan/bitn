@@ -22,6 +22,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The new schoolhouse belonging to the Primitive Methodists is rapidly approaching completion under the supervision of the contractor Mr J. Pearce. It is neat and very commodious and a great improvement to that part of the town.

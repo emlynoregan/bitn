@@ -19,6 +19,7 @@ topics:
 - finance
 - borrowing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Argus about the Town Council finances, in favour of borrowing £500

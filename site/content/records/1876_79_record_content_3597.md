@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Weather. Saturday saw some rain and hail with some stones as large as hens’ eggs. There was enough in a short fall to get the creek running and fill some tanks.

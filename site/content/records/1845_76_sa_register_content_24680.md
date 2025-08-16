@@ -19,6 +19,7 @@ topics:
 - injury
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A young boy named Linkson was kicked by a horse on Saturday.  His injuries were severe and his life was despaired of, but he has since improved under medical attention.

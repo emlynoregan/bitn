@@ -28,6 +28,7 @@ topics:
 - debate
 - local_option
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on Friday at Aberdeen.  About 40 attended a debate on local option.  Speakers for were: Messrs W.T. Rabbich, C. Fuss and Moss, while those opposed were: Messrs Neville, Maggs and T. Davis.  The affirmative side won by 5 votes.

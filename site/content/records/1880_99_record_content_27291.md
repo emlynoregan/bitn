@@ -20,6 +20,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The 27 Dec. was very quiet except for some action at the bars, but at noon it was announced that Professor Hyland, the wild bullock rider and horse tamer would show off his skill at the Bon Accord Yards at 4 o’clock, but this turned out to be a tame fizzer.

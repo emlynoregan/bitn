@@ -20,6 +20,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouts.  Acting District Commissioner Bill Mugge will visit Burra on Friday.  This coincides with the AGM of the Parent group and there will be a barbecue.

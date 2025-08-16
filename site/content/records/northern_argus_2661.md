@@ -25,6 +25,7 @@ topics:
 - Year 12
 - early years
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The ‘Into the 90s’ Conference identified seven main concerns:

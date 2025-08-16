@@ -20,6 +20,7 @@ topics:
 - event
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary Services were an unqualified success last Saturday.  The afternoon service of song was Reaping Time and was rendered by the scholars.  The tea meeting is today and the picnic on 15 November.

@@ -23,6 +23,7 @@ topics:
 - transport
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burke [and Wills] Relief Expedition, under the command of Mr J. McKinlay, arrived at Gum Creek Station yesterday and should have made Booborowie last night.  Due to arrangements being incomplete it remained at Gum Creek all night and the camels etc. started north this morning.  The camels were a great novelty and many went out to see them despite their being ten miles from this place.

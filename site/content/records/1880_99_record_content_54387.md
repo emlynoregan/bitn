@@ -18,6 +18,7 @@ topics:
 - events
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The results of the first half of the Clare match on 25 July were sent back by carrier pigeon.

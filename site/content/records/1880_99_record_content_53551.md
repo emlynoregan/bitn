@@ -22,6 +22,7 @@ topics:
 - animals
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  W. Gerard, a driver for F.T. Robertson, was carting copper from the Burra Mine to the railway when the pole of the trolly broke near the old stamps.  The three horses then bolted, but the trolly swerved into a ditch and the off-side horse fell and was pinned by the wheel of the vehicle.  Though extricated, it will probably have to be destroyed.

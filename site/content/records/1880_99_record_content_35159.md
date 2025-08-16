@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Burra Corporation calls tenders for excavating, concreting etc. the foundations of the main road bridge near Henderson’s.  [The Kingston St Bridge.]

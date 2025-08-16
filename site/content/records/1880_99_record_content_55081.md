@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christian Endeavour Society of the Bible Christian Church held a social with over 100 guests in the schoolroom last Wednesday.

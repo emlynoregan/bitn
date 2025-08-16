@@ -24,6 +24,7 @@ topics:
 - mining
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Henry Ayers ‘had not seen much better times than the present’. [!!]  The usual toasts were proposed and given the range of political views present, some had a political edge.  C.C. Kingston proposed ‘The Mineral Interest’ to which T. Warnes responded.  Catering was by J. Pearce of the Burra Hotel.

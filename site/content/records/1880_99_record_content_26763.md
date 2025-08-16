@@ -23,6 +23,7 @@ topics:
 - politics
 - Europe
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial expressing concern for the consequences for Europe and the world over the discovery that the German Crown Prince had throat cancer.  He was known to have strong British sympathies, but his heir is young and said to have a bias towards Russia.  The present Emperor is over 90.

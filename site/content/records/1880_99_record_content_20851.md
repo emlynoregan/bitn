@@ -18,6 +18,7 @@ topics:
 - municipal
 - salaries
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 No. 2	Inspector of Weights & Measures	20-0-0

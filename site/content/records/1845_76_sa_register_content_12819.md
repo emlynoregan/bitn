@@ -20,6 +20,7 @@ topics:
 - church
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The new Bible Christian Chapel, which is being built to accommodate the large numbers who crowd the old chapel, is progressing rapidly under the supervision of Mr Burgoyne, the contractor.

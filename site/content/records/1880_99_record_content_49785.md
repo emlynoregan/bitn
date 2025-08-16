@@ -21,6 +21,7 @@ topics:
 - social
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Junior Foresters 2nd Anniversary Social, Court Pride of Burra No. 24 was held at the Institute.  30 adult and juvenile members attended.

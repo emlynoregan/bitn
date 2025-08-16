@@ -18,6 +18,7 @@ topics:
 - migration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The exodus to Wallaroo continues; four large wagonloads started on Monday.

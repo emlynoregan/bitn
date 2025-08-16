@@ -19,6 +19,7 @@ topics:
 - letter
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 E.B. writes a letter along similar lines to David Gall.

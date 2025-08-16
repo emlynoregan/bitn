@@ -21,6 +21,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA.  Following the death of Sir Henry Ayers Mr W. West has been appointed secretary.  He has been an officer of the mines here for twenty-four years.

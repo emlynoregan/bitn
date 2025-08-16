@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Caroline (Carrie) Clode died at Redruth 21 February aged 23 years 7 months.  She was the wife of Arthur W. Clode.  [Born Caroline Tiver, 19 July 1868.]

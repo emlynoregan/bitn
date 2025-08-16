@@ -21,6 +21,7 @@ topics:
 - politics
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ajax’ writes a critique of the term of Mayor T.W. Wilkinson in the form of an open letter to him.  It is highly critical and in places particularly personal with references to his physical appearance.  At best it condemns with faint praise and in places is insulting.

@@ -25,6 +25,7 @@ topics:
 - meat inspection
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The problem inspection of meat killed in the District Council area was discussed.  Cr Killicoat, who is also on the DC expected the DC would co-operate readily with any practical scheme.  Four butchers slaughter just outside the Corporation boundary: Messrs Austin, Rabbich, Ford, and Sampson & Carpenter.

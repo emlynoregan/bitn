@@ -21,6 +21,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Tuesday evening Mr Hunter delivered his famous lecture on the Scottish Covenanters and on Wednesday he spoke at Redruth on Gambling.  The amount raised was £73.

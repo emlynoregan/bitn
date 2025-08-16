@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Butterworth moved that the lamp in North Ward be shifted to the other side of the road.  Carried.

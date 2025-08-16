@@ -19,6 +19,7 @@ topics:
 - commerce
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 S. Drew & Co. have forwarded 11,000 bags of wheat by rail from their new corn store at Aberdeen.

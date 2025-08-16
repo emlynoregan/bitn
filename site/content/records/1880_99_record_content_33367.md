@@ -20,6 +20,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  There are still c. 20 working on tribute at the mine and we believe they are doing fairly well.  The slagheap enterprise is still underway and the lessee believes when all is in order it will pay a good %.

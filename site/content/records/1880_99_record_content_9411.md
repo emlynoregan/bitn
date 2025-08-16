@@ -19,6 +19,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A meeting is called at Midwinter’s Hotel Baldina for Saturday 24 February to consider what is to be done re the overdue payments on selections.

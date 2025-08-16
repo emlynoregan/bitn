@@ -21,6 +21,7 @@ topics:
 - religion
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British and Foreign Bible Society public meeting at the Institute on Monday 1 November with P. Lane in the chair.  There will be the annual report and addresses by the deputation from Adelaide, Rev. A. Stubbs, and others.

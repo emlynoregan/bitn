@@ -21,6 +21,7 @@ topics:
 - transport
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On Monday near Roach’s Mill the bellyband broke of a horse pulling a cart and the horse became frightened.  In plunging and kicking it did considerable damage to the cart.  The driver was a lad, W. Lane, who was thrown out, but not hurt.

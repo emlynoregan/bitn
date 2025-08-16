@@ -18,6 +18,7 @@ topics:
 - environment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  There is a plea for persons with young street trees outside their properties to give them a bucket or two of water a week through the summer.

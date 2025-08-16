@@ -19,6 +19,7 @@ topics:
 - accident
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Railway workman Monaghan got his hand crushed in a shunting accident near Daviestown on Monday.

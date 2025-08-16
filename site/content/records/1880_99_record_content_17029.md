@@ -21,6 +21,7 @@ topics:
 - travelling stock reserves
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Frank Treloar, Manager of Gum Creek, denying that any of their stock is depastured on travelling stock reserves.

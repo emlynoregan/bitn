@@ -20,6 +20,7 @@ topics:
 - sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson jun. will sell on 19 November, on account of J.B. Hocking, the whole of his stock in trade as a tobacconist and fancy goods dealer, as his shop has been re-let.

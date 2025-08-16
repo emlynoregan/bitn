@@ -18,6 +18,7 @@ topics:
 - finance
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holder replies that all he was seeking to do was to show among other things the excellence of the security we offer.

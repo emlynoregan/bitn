@@ -22,6 +22,7 @@ topics:
 - public speaking
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the Miners’ and Mechanics’ Institute on 20 August a lecture was delivered by Mr T.P. Hill of Adelaide on Public Speaking.  Mr Hill said this skill needed more attention.  It was not a gift, but could be acquired.  The lecture occupied two hours.

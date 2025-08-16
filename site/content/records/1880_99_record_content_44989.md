@@ -19,6 +19,7 @@ topics:
 - employment
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted: a good man accustomed to Concrete, Peasy or Pug Wall building.  Apply Thomas Warnes, Koomooloo.  [Assume peasy = pisé]

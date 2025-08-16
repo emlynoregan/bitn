@@ -18,6 +18,7 @@ topics:
 - labour
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader endorses the view that the Council should pay for ‘sharps’ i.e. should keep the workmen’s tools sharp.

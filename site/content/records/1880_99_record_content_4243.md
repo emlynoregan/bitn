@@ -18,6 +18,7 @@ topics:
 - event
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A comet is visible in the western skies nightly until about 9 p.m.

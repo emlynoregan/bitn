@@ -24,6 +24,7 @@ topics:
 - theft
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Woodruff & John Martin were charged with receiving bran, pollard and chaff stolen from Dempsey, Wilkinson and Sandland, auctioneers.  William Sandland gave evidence of losing the goods over eight weeks.  A boy named Thomas Highet was looking after it.  The total value of lost material was c. £7: the charge relates to a small quantity taken on March 4 and valued at 8d - taken from the stables at the Commercial Hotel.

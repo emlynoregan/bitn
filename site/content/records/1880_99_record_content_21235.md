@@ -20,6 +20,7 @@ topics:
 - labour
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  There is a move to sue the Council for unpaid wages when they dropped the wages to 5/6 after taking the men on.  [Cr Ridgway had warned them of a possible breach of contract and suggested it would likely cost them more at court than they would have saved in wages.]

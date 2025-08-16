@@ -20,6 +20,7 @@ topics:
 - depression
 - budget
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the First Session of the new Parliament which opens tomorrow.  It is not a very hopeful view of a Government in trouble with a depression and a deficit budget.

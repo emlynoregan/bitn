@@ -18,6 +18,7 @@ topics:
 - agriculture
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Splendid rains fell since Monday and green feed will soon replace that destroyed by fires.

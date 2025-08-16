@@ -19,6 +19,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’: What with the Salvation Army and the Larrikins the place is becoming a pandemonium.  Saturday evening began with a hideous shrieking and vulgar bawlings by young fellows quite big enough to know how to behave themselves.  After which the Salvation Army appeared with drum and cymbals to see who could make the most noise.  A party said to me, so bad was the noise, that ‘had the composer been present he would have committed suicide.’  People should not have to put up with this uproar.

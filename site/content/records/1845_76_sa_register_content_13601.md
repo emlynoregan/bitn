@@ -23,6 +23,7 @@ topics:
 - postal service
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 I wish to comment on the inconvenience of sending parcels per rail to Gawler.  I despatched a parcel from Adelaide Station on 17 July, intending to pass through Kooringa on my way north and call there for my parcel.  It is now 25 July, but it has not arrived and until it arrives I am compelled to remain in Kooringa.  Who will pay the expenses incurred?  Will the Railway Company or the Royal Mail Company?

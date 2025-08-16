@@ -28,6 +28,7 @@ topics:
 - telegraph
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A sad aspect of the event is that one of Wright’s children is dying and he was up the greater part of Tuesday night with it.  The bodies have been taken to Kooringa to await the inquest by J.D. Cave.

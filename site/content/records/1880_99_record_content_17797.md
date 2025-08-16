@@ -20,6 +20,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The lowest tender for the railway from Petersburg to the border was for £153,569-10-5 by J.McGuire & Co.

@@ -20,6 +20,7 @@ topics:
 - royalty
 - social commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ castigates the low tastes of the Prince of Wales, of whom he says:

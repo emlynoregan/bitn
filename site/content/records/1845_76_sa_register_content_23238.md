@@ -20,6 +20,7 @@ topics:
 - roads
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie.  Recent floods have so damaged the Devil’s Hole Creek crossing that it has to be avoided by a lengthy detour.  [Other road problems further away are listed.]

@@ -30,6 +30,7 @@ topics:
 - natural causes
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  An inquest was held yesterday at Gum Creek Station before Mr M. MacDermott SM to inquire into the sudden death of Donald Ross who had resided there.

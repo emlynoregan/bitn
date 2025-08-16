@@ -17,6 +17,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mayor’s Fund has now reached £65-6-9.

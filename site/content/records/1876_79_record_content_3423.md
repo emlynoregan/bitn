@@ -20,6 +20,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Leave Fridays for Bimbowrie and return Mondays, connecting in both cases with the train. [Bimbowrie is north of Olary on the Broken Hill road]

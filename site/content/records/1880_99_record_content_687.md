@@ -19,6 +19,7 @@ topics:
 - town
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town Streets.  The Government Gazette lists the opening and closing of certain streets in the town as advised by the Corporation about six months ago.

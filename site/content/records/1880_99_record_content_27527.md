@@ -21,6 +21,7 @@ topics:
 - mining
 - syndicate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Joker Mining Syndicate Meeting at the Commercial Hotel this evening at 7.30 p.m.

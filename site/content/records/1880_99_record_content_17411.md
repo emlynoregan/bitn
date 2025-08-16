@@ -22,6 +22,7 @@ topics:
 - rowing
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sculling.  There is over 1 column reporting on the recent Great Boat Race in Sydney by W. Pearce Jun. who was present.  There is talk of a return match for £20 a-side or even £500 a-side in Canada or America.

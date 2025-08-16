@@ -19,6 +19,7 @@ topics:
 - accident
 - public_safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences: Foolhardy youths were running in front of horses and touching the animal's head before leaving in time to escape being run over. Dangerous to both the youth and the driver of the vehicle.

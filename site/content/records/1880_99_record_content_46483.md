@@ -20,6 +20,7 @@ topics:
 - agriculture
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock & Wheat Tax Meeting, at Mt Bryan is reported in ¾ column.

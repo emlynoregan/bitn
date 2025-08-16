@@ -21,6 +21,7 @@ topics:
 - anecdote
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. On Tuesday Capt Killicoat received by rail a case of 12 tins of preserved rabbit from the Northern Rabbit Meat Preserving Co. of Kapunda. Someone purloined a tin and got the Commercial Hotel to prepare it for lunch. The Captain and a group of others were then invited to lunch and the rabbit was pronounced an `excellent item of diet'. It was soon apparent where the rabbit had come from and the Captain appreciated the joke as much as anyone.

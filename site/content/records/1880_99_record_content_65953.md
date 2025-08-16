@@ -23,6 +23,7 @@ topics:
 - cinematographe
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute 25 March: Mr Wybert Reeve, lessee and manager of the Theatre Royal, Adelaide will exhibit Lumiere’s marvellous and improved Cinematographe and the wonderful Graphophone.  30 picture will be shown.

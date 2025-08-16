@@ -20,6 +20,7 @@ topics:
 - show
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Chrysanthemum Show and Promenade Concert, Burra Institute, 4 May.

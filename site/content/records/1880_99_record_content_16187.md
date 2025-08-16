@@ -20,6 +20,7 @@ topics:
 - industry
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader.  When our Jubilee Exhibition Scheme was before the public we heard much of how it would aid our industry and develop our resources.  We hope that private gentlemen will take it up and be successful, and we also think SA has a great opportunity to display its potential at the Exhibition of Colonial Products in London next year, but if it is done at all it must be done well.  An inferior effort would do more harm than displaying nothing at all.

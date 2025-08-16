@@ -20,6 +20,7 @@ topics:
 - council
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway said they were employing 13 men in North Ward and 15 in each of the other two.  He moved that each ward be allowed to employ 15 men till New Year’s Day.  Carried.  Pay to be 6/6 a day.

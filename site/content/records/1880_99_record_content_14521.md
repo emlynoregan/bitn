@@ -23,6 +23,7 @@ topics:
 - politics
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Aberdeen water troughs, which clarifies the situation.  In the past the water consumed from the troughs has been paid for by the general taxpayers of the colony and the beneficiaries have been those with horses and cattle who would otherwise have had to pay for the water their stock consumed.  Under the new arrangements any deficiency in revenue after all have paid for water used (except those using the free troughs) must be got from the guarantors.  Is it fair that guarantors who have pledged themselves so that the town may be supplied with water should pay for more water than they use while those using the water troughs get water free?  Even if there is no deficiency in revenue the injustice of the free troughs remains apparent since their use will affect the general price of water even if the guarantors are not called upon.

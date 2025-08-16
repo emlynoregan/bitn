@@ -24,6 +24,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary & Inquest before J.D. Cave JP at the Commercial Hotel on the death of the child of Mrs McNeil.  [Donald Paul McNeill born 15 November 1873: died 14 September 1878.]

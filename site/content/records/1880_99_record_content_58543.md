@@ -20,6 +20,7 @@ topics:
 - council
 - appeal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Appeal Court.  Another aspect of the Appeal came to light when the Overseer put in a claim for 3/- pay for the afternoon he attended the Appeal Court on his own case.  Apparently he was authorised by Cr Hardy.

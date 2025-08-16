@@ -25,6 +25,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Waterworks lease expires at the end of the present year.  The Council currently pays about £403 p.a. being 5% on the capital cost of £8,072.  The Council decided to find out the Government’s terms for:

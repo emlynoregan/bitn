@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks Department notified that the capital account would be kept open till the engine was fixed.

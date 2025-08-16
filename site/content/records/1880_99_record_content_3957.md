@@ -19,6 +19,7 @@ topics:
 - production
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In Newcastle they bought 6,339 tons, up from 5,051.

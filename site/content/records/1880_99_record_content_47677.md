@@ -17,6 +17,7 @@ topics:
 - publication note
 - numbering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [See note re numbering of issues at XIV, 209, 14 Sep. 1892, page 2.]

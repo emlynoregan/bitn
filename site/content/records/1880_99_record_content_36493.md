@@ -19,6 +19,7 @@ topics:
 - land
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the Anglican Synod - Bishop Kennion cannot really understand the land question or the labour question.

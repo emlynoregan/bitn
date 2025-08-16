@@ -23,6 +23,7 @@ topics:
 - bridge
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Central Road Board & the Redruth Bridge.  The Secretary to the Commissioner of Public Works wrote drawing the attention of the Board to the provision of £750, as per the estimate of Major Freeling, for the erection of a bridge over the creek at Redruth.  He asked that this work (and that of the road to the Semaphore) be undertaken at once in order to alleviate some of the present unemployment.  The Board ordered Mr Macaulay to attend to these matters immediately.

@@ -21,6 +21,7 @@ topics:
 - injury
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Irlam, mail driver, had a nasty accident at World’s End a day or two ago and is in Burra Hospital.  The injuries are not serious.

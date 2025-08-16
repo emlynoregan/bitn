@@ -25,6 +25,7 @@ topics:
 - finance
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor from Edward Lipsett re the Burra Corporation and the Mayor. He wrote to say he believed that at the municipal elections last December he felt he was not served by ratepayers with fairness. Subsequent actions of Council had confirmed this.

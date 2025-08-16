@@ -19,6 +19,7 @@ topics:
 - local government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayoralty.  J.A. Watt has been asked to stand for Mayor by a large deputation and he has undertaken to consider the proposal.

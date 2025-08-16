@@ -19,6 +19,7 @@ topics:
 - industry
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Fire-Clay business has gone quiet.  The management needs some life put into it.

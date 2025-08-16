@@ -20,6 +20,7 @@ topics:
 - advertisement
 - farm for sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W. Develain’s farm in the Hundred of Kooringa, of 324 acres of good agricultural land, fenced with a six-roomed house and sheds, is for sale.

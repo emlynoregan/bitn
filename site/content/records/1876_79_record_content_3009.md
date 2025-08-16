@@ -20,6 +20,7 @@ topics:
 - operations
 - shareholders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mine. Many rumours, but most unfounded. The fact is that the pumps will stop within the next week and all operations will then be discontinued. All surplus property, horses etc. will then be sold, but sufficient plant will be retained to enable a restart at some point in the future. A general meeting of shareholders that had been adjourned will resume on 17 November when some more answers are expected.

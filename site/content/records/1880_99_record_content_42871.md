@@ -22,6 +22,7 @@ topics:
 - politics
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial is an attack on recent criticisms of Australia by Hon. J.W. Fortescue, late private secretary of the Governor of New Zealand and by Christie Murray, an actor and novelist who charged Australians with being: ‘politically corrupt, financially unsound, and of depraved tastes, delighting in foul language and strong liquor.’

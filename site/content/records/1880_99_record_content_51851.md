@@ -20,6 +20,7 @@ topics:
 - finance
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It praises the role of the Town Clerk and is averse to his salary being cut, though the writer questions why he was paid £10 more than he asked for.  He also questions the need for an overseer who was kept on with nothing to oversee in the latter part of the year.

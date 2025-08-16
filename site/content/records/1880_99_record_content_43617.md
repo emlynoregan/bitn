@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School anniversary was held on 20 & 25 December.  Rev. Daddow, Rev. Hopkins and Rev. Hunter took part.  The public tea on the 25th was well attended.

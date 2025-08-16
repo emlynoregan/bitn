@@ -30,6 +30,7 @@ topics:
 - neglect
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘cannot recollect a case in which a child has been more grossly neglected than was this poor little thing.’

@@ -21,6 +21,7 @@ topics:
 - military
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR.  The inspection today starts with an assembly at 2 p.m. in Market Square.  Captain Watt’s illness over the last seven months has been a disadvantage, but Lieut. Field and others have done an excellent job.

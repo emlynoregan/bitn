@@ -22,6 +22,7 @@ topics:
 - agriculture
 - export
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frank Tucker, of the Government Freezing Works at Pt Adelaide, announces he is willing to buy rabbits and hares in any quantity for export.

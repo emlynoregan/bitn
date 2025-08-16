@@ -18,6 +18,7 @@ topics:
 - entertainment
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment at Wesleyan Schoolroom Monday 9 July. (Music, songs & recitations)  1/- & 6d

@@ -23,6 +23,7 @@ topics:
 - appointment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. E.J. Kemp will preach his farewell sermons on Sunday at Kooringa and Mt Bryan.  After 12 months in the circuit he goes to Gawler, to be succeeded by Rev. T. Flood.

@@ -21,6 +21,7 @@ topics:
 - disease
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Typhoid fever has claimed Miss Priscilla Sellars, daughter of Mr Ernest Sellars Sen. of Redruth.  She died on Friday last.

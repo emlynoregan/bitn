@@ -19,6 +19,7 @@ topics:
 - industry
 - quarry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Ballast Quarry.  Work was resumed on Monday and about a dozen men were taken on with more likely to follow.

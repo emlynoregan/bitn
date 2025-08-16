@@ -21,6 +21,7 @@ topics:
 - medical
 - oddity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Richard Collins of Mt Bryan came to Burra last Friday complaining of a pricking sensation when he bent his arm or rested it on a table.  Dr Brummitt surprised him by removing a pin from his arm.

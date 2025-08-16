@@ -21,6 +21,7 @@ topics:
 - sports
 - bowling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He was also equal best bowler with Cobb & Butterworth, all on av. 5.6

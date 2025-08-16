@@ -23,6 +23,7 @@ topics:
 - community
 - AGM
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Senior Citizens’ Club AGM was held recently.  President Laurel Neill reported a busy and happy year.  Membership was 62 with an average attendance of 38.  The club had been involved in the Tidy Town’s competition with the emphasis on maintaining the club’s projects – the park opposite the Barker Homes near the Hospital and the creek bank opposite the Civic Centre.

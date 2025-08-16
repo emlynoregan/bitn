@@ -21,6 +21,7 @@ topics:
 - construction
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Railway.  Rails should be laid into Terowie by the end of this week.  The line will then be ballasted and will probably be open by the beginning of November.  The engine sheds are nearly finished and the overway bridges at the passenger station are near completion.  Sara & Dunstan will finish the two goods sheds in about three weeks.

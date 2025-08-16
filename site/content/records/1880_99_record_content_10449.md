@@ -27,6 +27,7 @@ topics:
 - church
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra YMCA is to meet in the Wesleyan Lecture Hall, Kooringa at 7.30 p.m. every Friday.

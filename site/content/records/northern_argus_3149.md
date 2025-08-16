@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Jacqui & Peter McMahon on 26 September, a daughter.

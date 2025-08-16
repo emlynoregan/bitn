@@ -25,6 +25,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Ann Pearce, relict of the late James Pearce of Kooringa, died on 9 June aged 75.  She was a resident of over 40 years.  She was the mother of Messrs W. Pearce Jun., T.W. Pearce, John Pearce, H. Pearce and sister-in-law of W. Pearce Sen. She also left three daughters and grandchildren.

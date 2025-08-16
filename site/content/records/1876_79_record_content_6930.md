@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Season. Abundant rains have continued, but growth has stopped due to the cold.

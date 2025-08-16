@@ -20,6 +20,7 @@ topics:
 - accident
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There was an attempt to wreck the Melbourne Express near Stawell.

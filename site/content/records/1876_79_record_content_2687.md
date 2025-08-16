@@ -21,6 +21,7 @@ topics:
 - competition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ploughing Match. 16 August was won by Mr S.J. Myles and the Boys' Prize by George Bailey. Afterwards the Show Society held a dinner in the Miners' Arms with 40 in attendance.

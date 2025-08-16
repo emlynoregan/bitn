@@ -20,6 +20,7 @@ topics:
 - craft
 - wood turning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Article on Gary Donaldson, proprietor of ‘Cousin Jack’s’.  It deals particularly with his wood turning and reads more like a paid advertisement.  [Photo of Donaldson at his lathe.]

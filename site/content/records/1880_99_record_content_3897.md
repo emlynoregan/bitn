@@ -18,6 +18,7 @@ topics:
 - policy
 - rural
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Education System is a great blunder.  In towns it is not as bad as private schools are common - of greater or lesser value - but in more sparsely settled areas there are fewer schools than before and the old system was bad enough.  We know one district with 198 school-age children and no Govt. school.  Only about 20 children receive some sort of education at two small places called schools.

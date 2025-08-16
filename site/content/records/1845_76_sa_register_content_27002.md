@@ -24,6 +24,7 @@ topics:
 - government
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is true he took a prominent part in bringing about what are known as Goyder’s valuations, but he was led by a very much more able man in J.H. Barrow.  It is also acknowledged that the enforcement of those valuations was disastrous.  Not only did they ruin the prospects of the most important interests of the colony, but they also produced a strong reaction, in consequence of which the squatters were allowed their runs on long leases, on improved conditions at about half their value.  In some years this meant a loss to SA of at least £40,000 – and some leases have many years to run.

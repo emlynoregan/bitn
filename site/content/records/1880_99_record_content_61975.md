@@ -20,6 +20,7 @@ topics:
 - military
 - jurisdiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There will be a transfer to the Federal Government of certain subjects, but it will all still be democratically decided and only three areas of social importance will move to federal jurisdiction:

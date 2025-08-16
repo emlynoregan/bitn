@@ -21,6 +21,7 @@ topics:
 - flood
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The new footbridge’s approaches will be sure to go in the first flood.

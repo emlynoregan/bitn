@@ -18,6 +18,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bon Accord Mine has sinking proceeding and patches of ore are occasionally encountered.

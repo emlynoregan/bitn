@@ -22,6 +22,7 @@ topics:
 - event
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Church Sunday-school Anniversary of the opening of the new schoolroom, Sunday 26 December.  Service of song ‘Christies Old Organ'.

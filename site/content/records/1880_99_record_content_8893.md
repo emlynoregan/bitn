@@ -17,6 +17,7 @@ topics:
 - short story
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 Oct.	XXXVII-XL	On the Spur of the Moment	X	X		X		X	X	X			A Speculative Spirit

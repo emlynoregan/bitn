@@ -19,6 +19,7 @@ topics:
 - road
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC received emergency arterial road funding recently.  It will enable completion of sub-base work on the last section of the Burra-Spalding Road, worked on earlier this year.

@@ -21,6 +21,7 @@ topics:
 - litigation
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Tribune’ writes condemning the waste of money by the Council in litigation in the Bartle case when there was no evidence.

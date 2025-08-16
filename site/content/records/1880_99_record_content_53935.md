@@ -20,6 +20,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church Anniversary Sunday & Monday.  The afternoon service of song was Dan’l Quorm.  The public tea was held in the German Schoolroom and was well attended and after that the service of song was repeated with fair attendance.

@@ -18,6 +18,7 @@ topics:
 - Christmas
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas falls on Tuesday so the Government holidays this year will be Tuesday, Wednesday, Thursday and Friday.

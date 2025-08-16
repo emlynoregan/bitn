@@ -20,6 +20,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Monday holiday sports at the Recreation Ground had a pretty good attendance.  In the football match Allcomers won by 1 behind.

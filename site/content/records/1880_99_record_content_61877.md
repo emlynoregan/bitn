@@ -20,6 +20,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill’s prosperity can be seen from the population figures.  Last December it had 25,117 Europeans and 60 Chinese: up from 22, 325 & 61 12 months earlier.

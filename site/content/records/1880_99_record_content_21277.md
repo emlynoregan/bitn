@@ -23,6 +23,7 @@ topics:
 - finance
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Commissioner also believes that the cost price includes the losses the government made in working the old scheme for the last seven years.  This is too absurd to argue against.  It is dishonest to charge the Council for work done and pipes laid in the railway yard and now used by them apart from the town supply.  We agree the Mayor should not let the matter rest.

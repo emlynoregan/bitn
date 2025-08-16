@@ -24,6 +24,7 @@ topics:
 - tariff
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Public Meeting was convened by the Mayor at the Institute last Friday, 7 Oct., in response to a requisition.  About 70 attended to discuss the issue of protection.

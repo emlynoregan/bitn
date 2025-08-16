@@ -22,6 +22,7 @@ topics:
 - partnership
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Pearce Jun. who has been in partnership with Mr T. Bath and trading as Bath & Pearce has purchased the general storekeeping business and will continue as the sole proprietor.  Mr Bath leaves for England shortly.

@@ -23,6 +23,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa & Redruth Wesleyan Methodist Sunday Schools’ annual picnic will be held at Princess Royal on 3 January 1887, with Brass Band, sports, refreshments, games, etc.

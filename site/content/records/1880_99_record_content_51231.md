@@ -20,6 +20,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hibernicons played to a crowded house and their performance was much appreciated.  The scenery comprised 52 magnificent scenes in Ireland, each of them a work of art, their equal has never before been seen in Burra.  £25 was taken at the door.

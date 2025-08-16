@@ -42,6 +42,7 @@ topics:
 - language
 - racism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To discharge his debt to Lock Sing, Lock Won made over his debt to Lock Sing.

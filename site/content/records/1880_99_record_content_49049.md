@@ -19,6 +19,7 @@ topics:
 - fundraising
 - clarification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Clearly not the local fund, but it is not clear whether this is the Australian total or the SA total.]

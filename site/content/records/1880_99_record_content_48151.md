@@ -23,6 +23,7 @@ topics:
 - pianos
 - sewing machines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.A. Moore	Agent for A.W. Dobbie & Co. Machinists, Founders, Electroplaters, Pianos & sewing Machines

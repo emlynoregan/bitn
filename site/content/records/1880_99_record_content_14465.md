@@ -18,6 +18,7 @@ topics:
 - economy
 - food prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Pro Bono Publico’ writes complaining that bread costs as much now as it did when flour was £6-£7 a ton dearer.

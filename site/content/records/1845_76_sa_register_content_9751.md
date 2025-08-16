@@ -29,6 +29,7 @@ topics:
 - wages
 - export
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Salaries of the four Adelaide officers	1,330

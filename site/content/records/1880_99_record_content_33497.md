@@ -20,6 +20,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Grace Everett received six months in the Redruth Gaol for the admitted theft of clothes etc. from the residence of Charles Schutz.

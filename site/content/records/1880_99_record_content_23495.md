@@ -19,6 +19,7 @@ topics:
 - communication
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Telephones will be connected with Clare, when singing &c will be given.’

@@ -23,6 +23,7 @@ topics:
 - transport
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Wheat Blockade.  ‘One Who Also Counts the Trucks’ writes in reply to those complaining about the railways pointing out:

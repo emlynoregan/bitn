@@ -19,6 +19,7 @@ topics:
 - school
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a small Class V at Burra.  Present attendance at Burra is 380.

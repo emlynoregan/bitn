@@ -20,6 +20,7 @@ topics:
 - fares
 - railways
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Charles Schutz re the fares from the station to Kooringa for the last train.  Often there is but one passenger and sometimes not any.  Often the train is late and waits of over an hour are not unknown.  The distance is also over a mile.

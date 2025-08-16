@@ -23,6 +23,7 @@ topics:
 - obituary
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Charles Foster, an old shepherd employed by W. Dare at Piltimitiappa, was paid off last Friday and said he was going to Burra.  On Saturday a station hand found him on the track lying comfortably with his hat over his face, and on coming up to him found he was dead.  J. Dunstan JP made enquiries, but seems to have learnt little more.  [Not found in registrations.]

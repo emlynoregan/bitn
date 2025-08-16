@@ -19,6 +19,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR.  Next Tuesday a female Rechabite Tent for Burra will be formed.

@@ -19,6 +19,7 @@ topics:
 - coal
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Maritime Strike.  There is only three weeks supply of coal left to run the broad gauge railway system.

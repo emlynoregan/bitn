@@ -17,6 +17,7 @@ topics:
 - spectators
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The reporter also comments that spectators on the ground were a nuisance.]

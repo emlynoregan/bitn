@@ -20,6 +20,7 @@ topics:
 - sport
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Wonder’ calling on the Cricketing Association to get active and arrange regular matches with outside clubs.

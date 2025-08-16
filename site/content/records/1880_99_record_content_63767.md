@@ -21,6 +21,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Holdfast Bay Brass Band again expect to visit Burra for Easter.

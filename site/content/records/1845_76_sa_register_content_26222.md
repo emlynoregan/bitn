@@ -21,6 +21,7 @@ topics:
 - business
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Stewart wishes to advise that he has taken the White Hart Hotel from his father, Alexander Stewart.

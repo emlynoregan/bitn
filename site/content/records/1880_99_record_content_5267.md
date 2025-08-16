@@ -21,6 +21,7 @@ topics:
 - meetings
 - conversion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Burnett gave his farewell address in the Wesleyan Church, Kooringa, last Friday.  Up to that time 411 new signatures to the pledge had come forward and 124 converts to the church.  Both numbers have since risen - the converts to 142 and those pledged to an unknown extent.

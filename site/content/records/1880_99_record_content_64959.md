@@ -24,6 +24,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. S. Wellington, President of the Primitive Methodist Conference, will conduct anniversary services at Giles’ Flat on 23 & 24 October and will visit Strathalbyn.  In his absence Rev. D.C. Harris, recently from WA will preach in Kooringa next Sunday.

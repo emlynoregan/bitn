@@ -19,6 +19,7 @@ topics:
 - entertainment
 - mind-reading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Rice gave a private séance for leading townsmen on Tuesday evening and astonished all with his mind reading.  He had only a small audience on Wednesday at the Institute due to the wet weather.

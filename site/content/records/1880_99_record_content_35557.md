@@ -18,6 +18,7 @@ topics:
 - sports
 - polo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  The club has been practising a lot, but has been slow in securing a match.

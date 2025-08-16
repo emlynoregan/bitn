@@ -34,6 +34,7 @@ topics:
 - procession
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army big ‘T Fight’ on the Queen’s Birthday last Monday drew members from various northern towns.  At about 11.30 a.m. a procession headed by the Burra Salvation Army Band marched to the railway station to meet Major & Mrs Thurman and those coming from Adelaide, Riverton, Gawler, & Saddleworth.  They then marched back to the Institute.

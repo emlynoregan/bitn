@@ -27,6 +27,7 @@ topics:
 - dinner
 - addresses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian half-yearly effort on Sunday 30 August.  Rev. C. Tresise conducted three services.  There was a dinner on Tuesday 1 September followed by a public meeting with T. Kitchen in the chair and addresses from Rev. R.J. Daddow, Rev. R.M. Hunter, Rev. R. C. Yeoman and Mr Holder.  The Treasurer, J. Snell made a statement and the Burra Brass Band attended.

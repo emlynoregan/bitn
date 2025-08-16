@@ -23,6 +23,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  N. Denmead Manufacturer of Double-block Tinwares, opposite the White Horse in Currie Street.

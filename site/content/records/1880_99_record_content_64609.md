@@ -27,6 +27,7 @@ topics:
 - prospecting
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy has recently returned after 12 months in Central Australia where he was engaged in erecting a ten head battery and cyanide plant for the Government in the MacDonnell Ranges.  He believes that in the future it will give WA a run in the mineral fields.  He intends to leave for the north again this week to travel alone from Oodnadatta to the ranges – a journey he expects to take 4 weeks and 2 or 3 days.  He has not succeeded in selling 10 £5 shares to form a prospecting syndicate, but returns anyway, convinced there is money in it.

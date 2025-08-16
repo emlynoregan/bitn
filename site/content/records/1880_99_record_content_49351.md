@@ -37,6 +37,7 @@ topics:
 - press
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Councillors say they are “full up of these corrobories [sic] and waste of time caused by one obnoxious individual.”

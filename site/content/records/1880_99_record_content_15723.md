@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The Salvation Army will hold two services at Hallett Institute on Boxing Day at 3 p.m. & 6 p.m.  Captain Prowse.

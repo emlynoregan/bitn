@@ -22,6 +22,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Burra Institute, under the auspices of the Burra Lawn Tennis Club the World Renowned Bairnsfather Family.

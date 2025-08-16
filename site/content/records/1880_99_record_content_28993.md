@@ -20,6 +20,7 @@ topics:
 - immigration
 - Chinese Question
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chinese Question.  China has ordered its subjects in the colonies to wind up their businesses and return to China within three years: preparatory to the colonies being punished for their attitudes.

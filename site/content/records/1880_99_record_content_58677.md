@@ -24,6 +24,7 @@ topics:
 - personnel
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M-C Mack, who has been in charge at Redruth Police Station for 4 years, has been moved to Wallaroo Mines and L-C Noble from Gladstone will come here.

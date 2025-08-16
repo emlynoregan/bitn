@@ -23,6 +23,7 @@ topics:
 - community
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Voice from Hallett’ writes protesting against the editor’s encouragement of Chinese migration.  The writer would [even] prefer to see more Aboriginals because the Chinese:

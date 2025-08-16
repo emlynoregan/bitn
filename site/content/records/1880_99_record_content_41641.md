@@ -25,6 +25,7 @@ topics:
 - livestock
 - saleyards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Elder, Smith & Co. Yards.  The yards were capable of handling up to 40,000 sheep and 1,200 cattle.  As the principle saleyards in SA new facilities had been needed for some time.  The tenderers for the contract had been:

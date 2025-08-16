@@ -18,6 +18,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Fisk Jubilee Singers on Friday gave a first class performance and gained much applause, though the audience was not as large as on there last visit.

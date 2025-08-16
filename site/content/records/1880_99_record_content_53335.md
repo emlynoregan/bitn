@@ -20,6 +20,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sale at Sod Hut.  There was a sale in the assigned estate of J. Fradd.  220 sheep and 9 cattle and the usual farm equipment was offered.

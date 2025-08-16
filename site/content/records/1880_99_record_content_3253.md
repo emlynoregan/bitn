@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 15 Feb. at Kooringa, William Ernest Bishop Snell, aged 6 years 8 months, youngest son of Richard and M.A. Snell.

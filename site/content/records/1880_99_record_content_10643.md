@@ -21,6 +21,7 @@ topics:
 - military
 - volunteers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. Rifle Volunteer Force.  On Friday evening 28 persons signified their intent to join when Lieut. Tolley outlined the privileges and duties.  The preliminaries towards forming the company were left to Mr Holder.

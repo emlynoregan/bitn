@@ -24,6 +24,7 @@ topics:
 - special supplement
 - christmas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [23 Dec 81	Special Christmas Supplement: - A Couple of Cups;A Conscientious Stranger by Marcus Clarke; 1882 in Australia by R.P. Whitworth; My Mate’s Locket by Carl A. Filberg; Satisfaction by Janet Carroll; The

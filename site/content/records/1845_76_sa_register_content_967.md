@@ -24,6 +24,7 @@ topics:
 - breach of trust
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Argent of Angas Park allowed William Riley to use his dray to take a load of wool to town for his employer, Mr William Roberts of Greenock Creek.  Having delivered the wool, Riley then sold the poor man’s dray and pocketed the proceeds.  Argent had been intending to go to the Burra Burra Mines immediately on the return of the dray; to earn a good and honest living carting ore to the port and this action entirely ruined his prospects.  The law viewed the action as a breach of trust and not a criminal offence.  A civil action was not only beyond Argent’s means, but Riley had absconded.  Fortunately for the honest and industrious Argent some gentlemen, knowing of his excellent character, have provided the means of purchasing a new dray.

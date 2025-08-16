@@ -26,6 +26,7 @@ topics:
 - drowning
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.   Catherine Terney drowned in a dam near her house at Firewood Creek on the morning of 25 September.  The same afternoon an inquest was held at the Court House, Redruth with W.R. Ridgway JP as coroner.

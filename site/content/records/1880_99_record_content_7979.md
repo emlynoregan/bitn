@@ -23,6 +23,7 @@ topics:
 - fundraising
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A special effort for the New Wesleyan Parsonage will be held at the Wesleyan Church Redruth on 8 October.  Rev. G.E. Rowe of Adelaide will preach three sermons at 11 a.m., 2.30 p.m., and 6.30 p.m.  He will also deliver a lecture on Monday in the Redruth Church and Tuesday in the Kooringa Church on Cornwall and Cornishmen by a Cornishman.

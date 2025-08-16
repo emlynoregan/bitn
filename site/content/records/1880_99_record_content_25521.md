@@ -21,6 +21,7 @@ topics:
 - church
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodist Union.  The Primitive Methodist, the Bible Christian and Methodist New Connexion Church have agreed upon a union to be known as The Methodist Church of SA.  A joint committee has recommended it and the union has been agreed to unanimously.  [But no timing for the actual merging is reported.]

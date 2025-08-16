@@ -19,6 +19,7 @@ topics:
 - real estate
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie.  The sale of allotments in the town adjoining the new railway station was spirited with one block going for £145.

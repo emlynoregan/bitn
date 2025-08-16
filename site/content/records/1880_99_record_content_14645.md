@@ -19,6 +19,7 @@ topics:
 - council
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A schedule of duties and the advertisement for tenders are to be ready by next meeting.

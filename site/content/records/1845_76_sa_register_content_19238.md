@@ -22,6 +22,7 @@ topics:
 - event
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Sunday and Monday the Kooringa Wesleyan Sunday School Anniversary services were held.  Two sermons were preached by Rev. Bath of Mintaro.

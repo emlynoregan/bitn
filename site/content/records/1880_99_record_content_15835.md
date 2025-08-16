@@ -19,6 +19,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Recreation Ground has debt, but no income and a scheme has to be devised by a rate in lieu of the present rate to wipe out the debt.

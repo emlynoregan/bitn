@@ -19,6 +19,7 @@ topics:
 - discovery
 - local economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold has been found within one mile of Mintaro on blue slate rock.

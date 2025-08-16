@@ -20,6 +20,7 @@ topics:
 - sports
 - town council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21665→Cr Anderson thought it was time that some use was made of the Recreation Ground and moved that tenders be called for a concrete cricket pitch, but the motion failed.

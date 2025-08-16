@@ -17,6 +17,7 @@ topics:
 - community
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Lady’ who considers ‘The City of Big-Big’ an extraordinary nonsense.

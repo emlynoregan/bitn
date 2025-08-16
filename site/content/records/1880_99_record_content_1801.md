@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church Anniversary last Sunday & Monday.  Rev. W. Jenkin and Rev. W. Richards preached.  The public tea catered for about 60 and the public meeting was well attended.

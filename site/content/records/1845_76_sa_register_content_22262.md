@@ -20,6 +20,7 @@ topics:
 - naming
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘W’ writes re the naming of new hundreds.

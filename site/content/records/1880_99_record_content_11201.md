@@ -19,6 +19,7 @@ topics:
 - review
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A review from Jamestown suggests it is a very good show in all aspects.  Little Lillie was amazing for a child of 4½.  The show at Jamestown concluded with the Negro farce: - ‘A Bad Night’s Rest’.

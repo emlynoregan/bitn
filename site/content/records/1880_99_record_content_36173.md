@@ -22,6 +22,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Calling a meeting of persons interested in establishing a Reading Room in Aberdeen and Redruth.  Royal Exchange Hotel 8 p.m.

@@ -28,6 +28,7 @@ topics:
 - prospecting
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Northern Argus reports a visit to the diggings.

@@ -21,6 +21,7 @@ topics:
 - inquest
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  On Monday an inquest was held at Lowe’s Inn on the body of a man who had been employed at McCulloch’s station, but who accidentally fell into a well and was drowned.

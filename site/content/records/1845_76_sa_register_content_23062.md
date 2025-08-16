@@ -21,6 +21,7 @@ topics:
 - New Year
 - public nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 David Gall writes condemning the custom of revellers on New Year’s Eve of writing the date or year on walls and shutters etc. in chalk; red chalk being even worse to remove than white.

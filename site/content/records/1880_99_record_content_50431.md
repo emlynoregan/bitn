@@ -18,6 +18,7 @@ topics:
 - finance
 - public policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mounted Rifles v. Militia.  There is a discussion of the relative merits of these two organisations, concluding that 20 Mounted Rifles are worth 200-300 of the Militia.  This has been shown at the annual encampments, though these have been suspended for the last two years due to the depression.  The Militia cost £23,521 last year and the Mounted Rifles cost £5,088.  Savings could be effected by encouraging the latter with judicious spending at the expense of the former.

@@ -34,6 +34,7 @@ topics:
 - offences
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council, 2 August. [sic] [Since the paper of 10 August reports a meeting on the 6 August this is probably a misprint for 20 August.]

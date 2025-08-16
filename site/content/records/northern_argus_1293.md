@@ -21,6 +21,7 @@ topics:
 - telecommunications
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 In Memorium: Farrell Flat manual telephone exchange passed into history 12 June 1985.

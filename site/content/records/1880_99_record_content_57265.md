@@ -17,6 +17,7 @@ topics:
 - economy
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bread has risen from 2d to 2½d for a 2 lb loaf.

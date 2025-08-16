@@ -17,6 +17,7 @@ topics:
 - legal
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two men were charged with carting timber without a licence and were fined the value of the load.

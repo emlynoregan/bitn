@@ -22,6 +22,7 @@ topics:
 - business
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Bank of Australasia we believe will be occupied tomorrow. Mr Lipsett's new shop is almost completed Mr Wilkinson's alterations begin on Monday. The construction of St Mary's continues.

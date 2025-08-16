@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Brummitt	25 Aug. 1880	D.J. O’Leary	12 Oct. 1892

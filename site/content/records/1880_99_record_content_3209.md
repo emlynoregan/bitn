@@ -21,6 +21,7 @@ topics:
 - finance
 - farmers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Meeting of farmers, held at Midwinter’s Baldina Hotel, 9 Feb. concerning repayments due to the Govt by farmers.  ¾ column of detail.

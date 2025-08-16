@@ -22,6 +22,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Peace’ writes re the Redruth Post Office suggesting that the post boy be provided with a horn to blow when entering the town.  This would announce the arrival of the mail and remove the present inconvenience of having to stand about in all weather without shelter waiting for its arrival, which is often delayed.

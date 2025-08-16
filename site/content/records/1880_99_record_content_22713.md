@@ -20,6 +20,7 @@ topics:
 - lectures
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s. Rev. J. Stuart Wayland has begun a series of Trinitytide lectures after the usual service on Sundays.  The first: The Miracles in Relation to Modern Scripture.

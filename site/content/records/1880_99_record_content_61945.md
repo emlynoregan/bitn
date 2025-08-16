@@ -22,6 +22,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church Anniversary was held on Sunday last when services were fairly well attended.  Rev. T.M. Flood, Rev. J.Y. Simpson and Rev. T. Theobald officiated.  The tea meeting was held on Monday

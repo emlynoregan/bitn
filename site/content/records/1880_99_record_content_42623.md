@@ -20,6 +20,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith’s salesman, Mr Crisp, got through 20,000 sheep in 15 minutes at a special sale on Thursday.

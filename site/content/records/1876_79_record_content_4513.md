@@ -20,6 +20,7 @@ topics:
 - mining
 - artifact
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute Committee has bought a most beautiful specimen of malachite out of the mine as the start of a museum.

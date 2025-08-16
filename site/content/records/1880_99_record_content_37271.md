@@ -22,6 +22,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Harmston & Sons Circus will be at Burra 23 & 24 July at the rear of the Commercial Hotel.

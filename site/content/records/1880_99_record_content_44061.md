@@ -18,6 +18,7 @@ topics:
 - membership
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Foresters met on 8 January and reported 165 financial members.  Profits for the year were £119-19-2.

@@ -31,6 +31,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Marjorie & Perce Thomas celebrated their Diamond Wedding (60th) at Resthaven, Bellevue Heights on 24 August.  The original wedding party was present for the occasion:

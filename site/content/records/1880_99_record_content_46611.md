@@ -19,6 +19,7 @@ topics:
 - meeting
 - Methodist Union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The main addresses at the tea meeting on 19 September were concerned with Methodist Union.]

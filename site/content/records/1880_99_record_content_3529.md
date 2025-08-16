@@ -20,6 +20,7 @@ topics:
 - advertisement
 - quarry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For sale in the town of Hampton, allotment 12 with 3 stone cottages, a good well, stable and stack-yard, also a quarry situated on lots 32, 33, 34, 37, 38, & 39, together with quarrying tools and a three-roomed cottage with garden. Thomas Watkins Sen.

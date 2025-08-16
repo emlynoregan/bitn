@@ -17,6 +17,7 @@ topics:
 - publication
 - missing_issue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SPECIAL EDITION APPEARED 13 SEPTEMBER 1890.  [Missing from hard copy & microfilm.]

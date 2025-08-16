@@ -34,6 +34,7 @@ topics:
 - history
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Colin went on to acknowledge the efforts of Ian and Eva Auhl, the late Ann Perry, Shirley Thamm, Margaret Henderson, Di Day, Debbie Brown, Tess Hopkins, Chris McCabe, Cynthia Burnett and Roger Henderson for his belief in, and striving for such a special room.  He also thanked the bodies who had funded it.

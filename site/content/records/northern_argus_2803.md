@@ -23,6 +23,7 @@ topics:
 - farewell
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Gary Tapscott, his wife Vicki and son Sam were farewelled at the Commercial Hotel on Sunday.  They move to Keith in early July.

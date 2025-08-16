@@ -19,6 +19,7 @@ topics:
 - licences
 - timber
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Timber Licences.  A list of 213 people who were granted timber licences is printed by order of the Colonial Secretary, Charles Sturt.

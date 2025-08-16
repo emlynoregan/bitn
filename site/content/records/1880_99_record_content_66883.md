@@ -20,6 +20,7 @@ topics:
 - concert
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Concert at World’s End on Wednesday was given by a group from Burra.  [This would appear to have been associated with the World’s End school annual sports day.]

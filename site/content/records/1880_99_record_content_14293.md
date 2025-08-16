@@ -19,6 +19,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Unearned Increment, i.e. the increased value of land due to the growing Government infrastructure and spread of settlement.

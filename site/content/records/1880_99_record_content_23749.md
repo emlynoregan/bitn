@@ -19,6 +19,7 @@ topics:
 - weather
 - storm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  The storms reported on page 2 got as close to Burra as Hallett, which had large hail and rain.

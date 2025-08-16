@@ -19,6 +19,7 @@ topics:
 - sale
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston, Shakes & Co. will offer 30,300 sheep on 3 November.

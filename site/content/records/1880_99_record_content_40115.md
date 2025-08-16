@@ -18,6 +18,7 @@ topics:
 - town inspection
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town Inspection.  The editor considers certain cowsheds, dairies and boarding houses should have been included.

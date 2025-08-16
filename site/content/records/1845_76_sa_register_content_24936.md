@@ -28,6 +28,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Aberdeen Lodge holds its meetings in Mr Orchard’s Aberdeen Hotel and on Tuesday they celebrated their anniversary with a dinner in the hotel.  About 100 members assembled for the dinner after marching with lodge flag flying to Kooringa.  In doing so they frightened a team attached to a dray of wood, so that it bolted up the hill and upset the load.  Dr Dashwood presided at first and later P.G. West. P.G. Young of Burra Lodge took the vice-chair.  [Toasts are reported, including one by J. McDonald to the health of Mr Todd and his Staff, and success to the Adelaide and London Telegraph.]

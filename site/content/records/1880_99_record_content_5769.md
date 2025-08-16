@@ -19,6 +19,7 @@ topics:
 - water
 - fees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Well.  From 1 January watermen carrying water for sale will be charged £3 p.a. and private persons for personal use will be charged £1 p.a. (Fees paid in advance.) Water in the trough, etc. is free.

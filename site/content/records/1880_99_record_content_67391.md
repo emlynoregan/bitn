@@ -20,6 +20,7 @@ topics:
 - social policy
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Girls’ Reformatory.  For some time the authorities have been considering transferring inmates to the care of the Salvation Army: it would be cheaper.  ‘The Reformatory is a failure – a misnomer, a deception.’  Girls emerge from it with less hope, more callous and more wretched.  Some are there for quite trivial offences and some sent by parents for being beyond their control.  It is inappropriate.  The Army says it could keep a girl for half the 18/4 a week the Government expends.

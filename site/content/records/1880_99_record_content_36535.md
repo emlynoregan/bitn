@@ -21,6 +21,7 @@ topics:
 - opinion
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Barry.  A scathing attack on Alfred Barry, one time Bishop of Sydney, is reprinted from the Barrier Miner.

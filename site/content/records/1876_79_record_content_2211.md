@@ -20,6 +20,7 @@ topics:
 - renovation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Springbank Primitive Methodist Chapel reopened 22 & 23 April after renovations costing £40. New iron roof & walls & ceiling repaired and whitewashed. The cost was raised in the last 6 months.

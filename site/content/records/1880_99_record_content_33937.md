@@ -19,6 +19,7 @@ topics:
 - mayoralty
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  John Watt strongly denies the answer to the deputation published last week, which gave the impression he had eagerly accepted the request to stand for Mayor and under the circumstances, will have nothing to do with the position.

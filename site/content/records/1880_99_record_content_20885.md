@@ -19,6 +19,7 @@ topics:
 - fundraising
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF will present a military concert on 5 February 1886.  The clothing and equipment for the Company has run to over £250 and this concert will aid that fund.

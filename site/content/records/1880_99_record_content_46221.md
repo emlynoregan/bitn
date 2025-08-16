@@ -21,6 +21,7 @@ topics:
 - business
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich 2nd the motion claiming that the auctioneers were the biggest transactors of business in the town and yet paid no rates.  Their business imposes wear and tear on the roads and they should pay a fair share of their upkeep.  He strongly supported the move.

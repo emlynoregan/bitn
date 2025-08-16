@@ -24,6 +24,7 @@ topics:
 - employment
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Election of Resident Director for Burra Burra Mines

@@ -21,6 +21,7 @@ topics:
 - children
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Saturday 22 November, Grand Entertainment for Children at the Institute.  Mr E. Davies, premier ventriloquist and Mr J. Roach will appear in character recitals and songs.  Chairs 6d, Forms 3d.

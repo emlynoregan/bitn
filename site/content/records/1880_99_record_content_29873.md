@@ -20,6 +20,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society meeting called for next Monday in the Institute to set a date for the annual show.

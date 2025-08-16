@@ -20,6 +20,7 @@ topics:
 - accident
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.   A small fire occurred yesterday at Mr J. Sampson’s in Kooringa.  He was smoking hams and bacon in a shed when it was consumed by fire.  Damage was estimated at £5.

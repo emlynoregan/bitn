@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. Subscriptions for the new church, which is of excellent design, are coming in. Mr McCulloch of Princess Royal promised £500 if others matched that and that condition has now been met. Promises and donations now £1,500 with costs estimated at something over £2,000. [McCulloch later denied having made any such promise.]

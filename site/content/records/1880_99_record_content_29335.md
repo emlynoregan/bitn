@@ -21,6 +21,7 @@ topics:
 - contract
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan have been awarded the contract for the Booborowie Council Chamber near the Booborowie Eating House.

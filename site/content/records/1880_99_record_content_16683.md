@@ -22,6 +22,7 @@ topics:
 - debt
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Anniversary services and tea meeting had good attendances.  The report at the meeting showed that £40 had been paid off the debt, reducing it to £400.  The total raised for the year was £409-15-0.  Several people spoke including Rev. C. Tresise, Mr Holder & Rev. W.H. Cann.

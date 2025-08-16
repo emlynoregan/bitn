@@ -24,6 +24,7 @@ topics:
 - council
 - accommodation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Oval.  The proposal for accommodation at the oval is quite different from that of Alex. Harris’s offer, which was rejected a short time ago.  Parallels should not be drawn.  This time the Show Society is offering £30 and we understand that the Friendly Societies’ Demonstration Committee would add £10.  In the interests of the town it is to be hoped Council will give it serious and impartial consideration.

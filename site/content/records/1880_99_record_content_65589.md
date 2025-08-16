@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - lime kiln
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.I. Short	Aberdeen Lime Kiln at the Chinamen’s Garden near the Polo Ground

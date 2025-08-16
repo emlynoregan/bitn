@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 27 April at Hallett, to the wife of James H. Tiver, a son.  [Clement]

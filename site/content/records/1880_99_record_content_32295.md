@@ -21,6 +21,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robbery.  A case of jewellery valued at about £30 was stolen from the Kingston Hotel at Mt Bryan on 17 April.  The property was found hidden beneath the floor of an old closet and the police have a clue to the culprit.

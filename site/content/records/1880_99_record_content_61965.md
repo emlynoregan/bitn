@@ -28,6 +28,7 @@ topics:
 - military
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Richard Chaffey Baker, writes another article on Federation: Its Disadvantages, but he finds few and instantly seeks to disarm them.

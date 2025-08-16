@@ -17,6 +17,7 @@ topics:
 - waterworks
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  A deputation is to wait on the Council re the withdrawal of the water rates concessions.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 M. & S. Marks have opened the above store in the Township of Kooringa for the sale of Drapery, Groceries, Ironmongery, etc.

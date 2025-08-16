@@ -17,6 +17,7 @@ topics:
 - event
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Prizefight.  We have since learned it was not really a prizefight, but the result of a squabble the night before.  We are still sorry that such an event should take place on Sunday.

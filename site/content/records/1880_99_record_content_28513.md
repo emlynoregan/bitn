@@ -20,6 +20,7 @@ topics:
 - rabbits
 - lease conditions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the leases of pastoral land to be auctioned.  The editor feared this was too much to be offered at one time and with the leases all being 21 years; the problem would recur in 21 years’ time.  Rabbits and other vermin will have to be destroyed as a condition of the lease, which was not in old leases and may make many areas unattractive to bidders.  The lack of any limit on the area a new lessee may hold is another mistake.

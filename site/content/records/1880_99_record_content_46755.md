@@ -23,6 +23,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  An item is printed to demonstrate the effectiveness of wire netting at dams in the battle against rabbits.  In January & February on Manunda alone fully 70,000 rabbits were destroyed in under six weeks and just three successive nights at Claypan Dam yielded 8,500, 7,000 and 6,000.  Another dam yielded 16,000 in three nights.  Similar results were obtained at Mr Riddock’s Gum Well Station.

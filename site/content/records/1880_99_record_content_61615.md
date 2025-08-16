@@ -21,6 +21,7 @@ topics:
 - advertisement
 - ironmonger
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams	Ironmonger, Tinsmith, Galvanised Iron Worker, Commercial St

@@ -25,6 +25,7 @@ topics:
 - association
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SA Mining Association.  Notice is given that the AGM of shareholders will be held at the Rundle Street office of the Company on Wednesday 19 April at 3 p.m. for the purpose of receiving the Directors’ Report and to examine the report of the auditors and the secretary.  And to elect five directors in place of Messrs Beck, Graham, Peacock, Stocks and Allen, who retire, but are eligible for re-election, and to fix the remuneration of the auditors for the past year.

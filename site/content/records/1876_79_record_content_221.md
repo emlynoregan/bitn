@@ -21,6 +21,7 @@ topics:
 - finance
 - fraud
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Banks.  An article discusses the recent failure of several Colonial banks, especially in Victoria, and the fraudulent behaviour of bank officers.

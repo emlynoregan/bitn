@@ -20,6 +20,7 @@ topics:
 - finance
 - city vs country
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The complaint arose because H. Roach, the Record’s Adelaide correspondent on finance, has been barred from sending a telegram to them at press rates except on the days previous to the publication of the paper and would have to pay 1/- for 10 words.  This was another example of pandering to the city at the country’s expense.

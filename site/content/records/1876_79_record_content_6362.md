@@ -19,6 +19,7 @@ topics:
 - church
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Primitive Methodist Church, Kooringa, special services Sunday & Monday 18 & 19 May.

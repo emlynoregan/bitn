@@ -19,6 +19,7 @@ topics:
 - development
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the improvements to the town in the past six years.  Money was borrowed last year to have the town surveyed, but it was then found that a reliable survey would cost at least £1,000 and it then became a question what to do with the money.  It is to be hoped that the ratepayers will soon be asked this question.

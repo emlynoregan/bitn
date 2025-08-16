@@ -23,6 +23,7 @@ topics:
 - election
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Court of Revision.  Mr Dashwood arrived last Friday and with Drs Bull and Chambers, held a court fixing 6 May as the day for a Court of Revision, thus annulling the date of 28 April set by Mr Lang.  Mr Dashwood left on Saturday morning for Clare.

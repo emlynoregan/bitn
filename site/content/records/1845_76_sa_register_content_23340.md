@@ -30,6 +30,7 @@ topics:
 - roads
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Northern Mail Routes.  A meeting at the Aberdeen Hotel on Monday discussed the changing of the starting point of these mail routes from Kooringa to Wetherston [Farrell Flat].  Mr A. Motley took the chair.  He said the Government had placed a number of buildings in Burra, giving the impression that it was considered the entrepot for the north and people had reacted accordingly; a belief reinforced by the placing of the rail terminus there.  The change would adversely affect the trade of the town; already in a depressed state.  Wetherston had merely 20 farmers in the area, a squatter and an eating house.

@@ -20,6 +20,7 @@ topics:
 - war
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War Preparations continue.  Russia is said to have 70,000 men east of the Caspian.  Germany suggests mediation.

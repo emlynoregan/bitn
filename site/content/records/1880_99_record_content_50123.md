@@ -19,6 +19,7 @@ topics:
 - football
 - scorekeeping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The description of play shows that at least 9 behinds were scored, six at least by Burra, but they are not indicated on the final score.]

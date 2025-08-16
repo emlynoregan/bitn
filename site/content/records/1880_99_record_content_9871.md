@@ -21,6 +21,7 @@ topics:
 - advertisement
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for ‘the removal of two steam boilers at the Bon Accord Mine and taking to rail side at Kooringa Station’ [sic]

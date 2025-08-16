@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Board of Health Inspection has found that the Local Board was running things efficiently and the scavenger to be doing a good job with the rubbish tip well located and maintained.

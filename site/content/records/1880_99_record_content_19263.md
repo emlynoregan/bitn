@@ -17,6 +17,7 @@ topics:
 - politics
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Federation Enabling Bill and the setting up of the Federal Council.

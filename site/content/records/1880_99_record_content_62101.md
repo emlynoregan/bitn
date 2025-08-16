@@ -20,6 +20,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cycling.  An enthusiastic cyclist of Baldina has laced his bike tyre with greenhide to protect it from damage and he rides the rough country while others are sidelined repairing their Dunlops.

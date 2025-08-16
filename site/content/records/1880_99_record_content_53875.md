@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Hunter has taken over the business of Martin Pederson and will retain his services while restocking the store with a grand assortment of boots.

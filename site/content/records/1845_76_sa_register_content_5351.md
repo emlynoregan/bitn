@@ -23,6 +23,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thomas Haldane was charged by Robert Henderson with breaking down his house door on 23 November and assaulting him.  Henderson said the accused came to his house at 4 a.m. and knocked for entrance.  When this was denied he forced the door open.  Henderson was greatly frightened by his demeanour and threatened to get a gun and shoot him.  Haldane then struck him and tore his shirt.  Others living near then came and got the defendant away.

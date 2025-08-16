@@ -21,6 +21,7 @@ topics:
 - dispensary
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.W. Wilkinson	Kooringa Dispensary, Christmas Cards

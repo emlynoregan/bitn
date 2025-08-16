@@ -20,6 +20,7 @@ topics:
 - community
 - tea
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 25 September at the Public Meeting following the Tea.

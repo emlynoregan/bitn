@@ -18,6 +18,7 @@ topics:
 - events
 - races
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races will now be held on Thursday 24 May (a public holiday).

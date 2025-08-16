@@ -19,6 +19,7 @@ topics:
 - agriculture
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The Terowie News says that crops north and east of there are next to hopeless, but those south and west are looking well.

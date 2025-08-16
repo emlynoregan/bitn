@@ -20,6 +20,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Saturday at Tarlee.  Alma 83 & 3 for 1 wicket defeated Burra 55 & 30 (85)

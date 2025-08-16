@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christians held a successful supper and entertainment in the schoolroom at Kooringa last Wednesday despite the bad weather.  The Burra Brass Band provided good service.

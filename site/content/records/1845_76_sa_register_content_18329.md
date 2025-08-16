@@ -25,6 +25,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Anniversary of the Bible Christian Chapel

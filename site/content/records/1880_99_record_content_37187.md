@@ -18,6 +18,7 @@ topics:
 - literature
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is reference to Mr Rabbich as a rough diamond who reminds the author of:

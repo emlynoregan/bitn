@@ -21,6 +21,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On Tuesday Robert Stark of Copperhouse was kicked in the head by an entire horse and died the following day from a fractured skull.  No inquest was deemed necessary.  [Died 7 December, aged 52.]

@@ -21,6 +21,7 @@ topics:
 - legal
 - sentencing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John King was charged by J.T. Walker with stealing two pairs of boots from his shop on 24 September.  The prisoner denied all knowledge of the affair, but was sent to gaol for three months.

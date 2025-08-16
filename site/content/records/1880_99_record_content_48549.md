@@ -20,6 +20,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  Burra Railway Station last Thursday.

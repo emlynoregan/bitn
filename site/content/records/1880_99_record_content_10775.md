@@ -20,6 +20,7 @@ topics:
 - voting
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There will be a local poll on the water supply question.  The poll will be on the basis of the value of property.

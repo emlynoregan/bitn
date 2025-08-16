@@ -40,6 +40,7 @@ topics:
 - animal deaths
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks reported that the Waterworks engineer said the works were in a satisfactory state, but the old boiler at the Waterworks is reported to be unsafe to work.

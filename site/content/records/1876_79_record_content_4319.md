@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. There is opposition to a scheme of house-to-house supply paid for by a general rate, but if it is paid for only by those who use it there is general approval.

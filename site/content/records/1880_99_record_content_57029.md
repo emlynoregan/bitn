@@ -20,6 +20,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs W. West has been appointed to the Burra School Board of Advice.

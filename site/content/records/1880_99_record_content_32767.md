@@ -17,6 +17,7 @@ topics:
 - crime
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  Several trees have been destroyed by person or persons unknown.

@@ -18,6 +18,7 @@ topics:
 - environment
 - advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  Trees for this season need to be planted now and tree guards removed from those trees that have outgrown them.

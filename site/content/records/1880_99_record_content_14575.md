@@ -20,6 +20,7 @@ topics:
 - livery
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted: a smart and steady young man.  Apply Charles Schutz,

@@ -23,6 +23,7 @@ topics:
 - literary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on 7 April, but bad weather meant a small attendance.  W.T. Rabbich, President; Messrs Morton and C. Fuss, Vice-Presidents; and M. Nevin, Secretary.

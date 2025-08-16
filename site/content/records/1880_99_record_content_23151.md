@@ -23,6 +23,7 @@ topics:
 - Permanent Force
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Defence costs for the year 1886-7:	Administration	£2,964

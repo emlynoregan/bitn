@@ -21,6 +21,7 @@ topics:
 - local government
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Gawler Bunyip says recently ‘The Burra Corporationists have more rows and pantomimes than any other half dozen municipal bodies in the colony.  The Burra Council Chamber is a veritable public laundry.’

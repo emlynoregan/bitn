@@ -24,6 +24,7 @@ topics:
 - injury
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Howard Phillips (Nephew of Rev. J.Y. Simpson) is on a visit to Burra and met with an accident during a day’s shooting when he accidentally shot himself in the foot.

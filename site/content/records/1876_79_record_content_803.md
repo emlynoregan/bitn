@@ -19,6 +19,7 @@ topics:
 - commonage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Commonage.  A Baldina settler is complaining that having paid £40 for commonage rights it is not available.

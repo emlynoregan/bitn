@@ -20,6 +20,7 @@ topics:
 - sport
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The third ‘test’ match between Quarrymen and Gentlemen was abandoned by the Gentlemen picking up their stumps and clearing at 6 p.m. instead of completing the game which would have taken but a few minutes more.  The earlier games went one to each side.

@@ -23,6 +23,7 @@ topics:
 - football
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The meeting at the Commercial Hotel on Tuesday saw 20 members elect: -

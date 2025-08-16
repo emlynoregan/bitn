@@ -21,6 +21,7 @@ topics:
 - sports
 - fees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Ratepayer’ asking whether the Recreation Ground belongs to the ratepayers or to the Cricket Club.  He objects to paying for entry to cricket matches, especially since with near 100 present and only 9/- taken at the gate, it is clear that most were admitted without charge!

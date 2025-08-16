@@ -21,6 +21,7 @@ topics:
 - public health
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Railway Station.  A meeting at the Institute next Tuesday will push for a new railway station.  On Monday last the cesspit there fell in and a foul and unsightly opening existed until it could be remedied which was quickly done by the action of the stationmaster, Mr J. Rumball.

@@ -21,6 +21,7 @@ topics:
 - dividend
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 18 April 1863, page 1

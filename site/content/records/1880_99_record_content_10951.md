@@ -22,6 +22,7 @@ topics:
 - poaching
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ writes and hints that some of the town’s JPs are shooting turkeys in the closed season - ‘it should be stopped for what is sauce for the goose is ditto for the gander.’

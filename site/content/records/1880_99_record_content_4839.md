@@ -21,6 +21,7 @@ topics:
 - birth
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  At Wesleyan Mission House, Gawler, to the wife of the Rev. R.W. Campbell, a son.  [This was corrected in the issue of 2 Sep. by the addition of the date, 24 August.]  [Ernest Ainsworth]

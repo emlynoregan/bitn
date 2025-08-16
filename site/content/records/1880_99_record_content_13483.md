@@ -19,6 +19,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The resolutions to be distributed to interested groups and sent to Parliament in a memorial.

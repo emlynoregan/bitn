@@ -20,6 +20,7 @@ topics:
 - accident
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. The up train from Hallett ran over a cow beyond the My Bryan hotel. Some carriages were lifted a foot off the rail and another engine had to be sent from Riverton.

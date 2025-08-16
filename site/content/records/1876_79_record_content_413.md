@@ -19,6 +19,7 @@ topics:
 - labor
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 We have secured nine Cornish miners from a recent arrival at Port Adelaide.

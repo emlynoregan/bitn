@@ -28,6 +28,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Collins, the wife of R. Collins of Mt Bryan, has died aged 56.  She was the youngest daughter of Mr Edward Gordon, an early resident of Burra, and her eldest sister is Mrs Statton of Terowie.  [The death notice in the issue of 24 March says her father was Edward Godden.]

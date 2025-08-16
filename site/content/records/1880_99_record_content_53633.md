@@ -28,6 +28,7 @@ topics:
 - selection
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Alfred Maggs wrote a letter in reply to ‘One of the People’ on the question of New Australia.  The letter quotes more favourable reports from Paraguay from the Register of 7 April and the Advertiser of 11 April and makes an attempt to state the movement’s principles in a more favourable light.

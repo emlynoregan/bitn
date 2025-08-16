@@ -22,6 +22,7 @@ topics:
 - prices
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Kooringa Postmaster is also the Resident Magistrate’s clerk. This sometimes means business takes him away from the town and then the post office is locked and those seeking mail are disappointed.   A flagstaff and flag, as are used in Adelaide to indicate when his Excellency is at home, would be expensive and troublesome, but some sort of gong might be devised to be sounded when the postmaster is ‘At Home’.

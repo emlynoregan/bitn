@@ -18,6 +18,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.O. Foresters opened a Court of Harmony on Friday – an hour of songs, readings and recitations, and they intend to do this once a month.

@@ -21,6 +21,7 @@ topics:
 - sport
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Parks & E.W. Crewes have just received two greyhound pups bred by J.E. Thyer from the well-known slut Una.  Coursing is recognised as the leading sport of the day and it would be advisable for sporting men to avail themselves of the breed.

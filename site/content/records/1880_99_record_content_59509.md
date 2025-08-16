@@ -32,6 +32,7 @@ topics:
 - obituary
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Elizabeth Howse died at her son-in-law’s (Mr E. Cox) residence in Aberdeen on 18 February.  She was born in Hereford, England, in 1821 and came to Australia in 1865.  She came directly to Burra and has remained here ever since.  For a considerable time she carried on business as a dressmaker and milliner, but had lived for several years a retired life in Kooringa with her daughter, Mrs G. Parks.  She leaves three sons: Messrs Henry, George & Joseph Howse (All of Broken Hill.) and two daughters: Mrs E. Cox (Aberdeen) & Mrs G. Parks (Kooringa).  She was a sister to Mr B. Preece of Aberdeen.  [Mrs Elizabeth House died 18 February 1896 aged 74.]

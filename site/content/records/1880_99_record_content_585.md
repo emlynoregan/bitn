@@ -19,6 +19,7 @@ topics:
 - hospital
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Harvest Thanksgiving raised £8 for the Burra Hospital.

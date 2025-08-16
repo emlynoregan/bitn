@@ -23,6 +23,7 @@ topics:
 - community
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 St John’s Ambulance Service awarded the National Medal to Burra members on 7 September.  Divisional Officer Ralph Oakley received one for 18 years continuous service, Pte Brian Thamm one for 25 years continuous service and John Stivan one for 17 years.

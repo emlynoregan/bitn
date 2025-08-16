@@ -21,6 +21,7 @@ topics:
 - flood
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Queensland Flood Relief Concert at the Institute on 24 March.

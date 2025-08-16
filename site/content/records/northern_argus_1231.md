@@ -24,6 +24,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Bush Picnic Race Committee met at a special dinner on Friday night to hand over two cheques as a result of their successful race meeting at Thistlebeds in April.  Chairman John Maidment presented a cheque for $750 to the RFDS represented by Robert Ryan.  The second cheque was accepted by Ray Jennison, Chairman of the Burra Aged Persons Hostel Committee.

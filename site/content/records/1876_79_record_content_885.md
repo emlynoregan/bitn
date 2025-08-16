@@ -24,6 +24,7 @@ topics:
 - neglect
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J. Rookwood of Kooringa expresses his disgust at the state of the cemetery at Kooringa.

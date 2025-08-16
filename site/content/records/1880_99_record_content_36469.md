@@ -21,6 +21,7 @@ topics:
 - agriculture
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Noxious Weeds.  There is a long report on a meeting at Mt Bryan on the problem of clearing Bathurst Burr.  The problem has been brought into public attention by the recent actions of Mr D.S. Packard in getting Mr Cockrum off on a technicality when he was charged with not ridding his property of the weed.

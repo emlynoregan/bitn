@@ -20,6 +20,7 @@ topics:
 - safety
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘South Australian’ writes regretting the lack of any football so far despite a well-attended meeting earlier in the season.  Also drawing attention to the need to change the rules which allow such tackling that recently a young man was killed through dislocation of the spine.

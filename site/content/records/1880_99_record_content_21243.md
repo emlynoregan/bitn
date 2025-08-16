@@ -23,6 +23,7 @@ topics:
 - meeting
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legal fees.  The ratepayers of North Ward call for a public meeting on the legal cost and ramifications of the caveat on the Aberdeen Reserve.  The Mayor has called a meeting in the German Schoolroom at Redruth on 16 January at 8 p.m.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - mass
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s held a solemn requiem mass last Wednesday for the Very Rev. Father Beckx [sic] 1795-1887, General of the Society of Jesus who had died in Rome.  [He gets a column of detail.]

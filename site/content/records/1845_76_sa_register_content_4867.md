@@ -29,6 +29,7 @@ topics:
 - inquest
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  On Saturday 10 August a man named Leter [sic: for Lester] left the Smelting Co. with a dray loaded with about two tons of copper bound for the Gulf.  Having imprudently decided to ride on the pole, he somehow fell off and the wheel of the dray passed over his chest, killing him instantly.  Mr Robinson of Hill River carried the news to the authorities in Burra Burra and the deceased was taken to the Burra Burra Hotel, where an inquest was held on Monday.

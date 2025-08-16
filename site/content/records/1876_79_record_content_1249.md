@@ -20,6 +20,7 @@ topics:
 - railway
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway - now employing 125 men mostly on the cutting north of the Burra Station. 20 are working on the flat beyond.

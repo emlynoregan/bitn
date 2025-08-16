@@ -20,6 +20,7 @@ topics:
 - mining
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  A little work is going on with about 34 men and boys on tribute, all of whom are securing fair quantities of ore and are making wages.

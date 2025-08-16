@@ -21,6 +21,7 @@ topics:
 - police
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism: late on Friday night some person or persons broke three panes of glass in the street lamp on Henderson’s Corner and the lamp glass.

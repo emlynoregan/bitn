@@ -19,6 +19,7 @@ topics:
 - health
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.J. Daddow is ill in Adelaide with information [sic] of the lungs following a severe cold.  He went to the city for the Primitive Methodist Conference.

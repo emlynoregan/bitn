@@ -20,6 +20,7 @@ topics:
 - culture
 - cyclorama
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cyclorama.  We recently had the opportunity to see this popular entertainment showing in the city.  It is a representation of Jerusalem and the crucifixion.  The impression on entering the circle is of a view over a mile of country and is most impressive.

@@ -19,6 +19,7 @@ topics:
 - legal
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest.  There is a good deal of further information on the Mt Bryan fire, mainly from the inquest into the same.  It runs for 1¾ columns.

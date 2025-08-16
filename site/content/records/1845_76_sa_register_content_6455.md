@@ -61,6 +61,7 @@ topics:
 - Masters & Servants Act
 - evidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Police Court, Kooringa, 26 May before W. Lang, Resident Magistrate.

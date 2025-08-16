@@ -20,6 +20,7 @@ topics:
 - trial
 - acquittal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Benjamin Watts has been acquitted for the alleged murder at Bundey.  The evidence was in no way corroborated and in the circumstances a verdict of acquittal after 10 minutes consideration was the only conceivable outcome.

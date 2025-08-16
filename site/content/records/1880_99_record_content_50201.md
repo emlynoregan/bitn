@@ -19,6 +19,7 @@ topics:
 - industry
 - quarry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Ballast Quarries are to reopen next week which will ease some unemployment in the town.

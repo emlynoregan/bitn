@@ -21,6 +21,7 @@ topics:
 - politics
 - pension
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the report of the Destitute Commission, which among other matters points to the failure of the state to raise children in its care or ‘reform’ those committed for such need.  It was also concerned with the fact that ‘It is not that there is less of wealth, for there is more, but its distribution is fast becoming more and more unequal.’

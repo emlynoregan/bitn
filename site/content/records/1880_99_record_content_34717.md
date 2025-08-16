@@ -21,6 +21,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Concert Monday 30 December in aid of the Poor of Burra by Adelaide Militia Fife and Drum Band and Davey’s Burra Band.  [Program is printed.]

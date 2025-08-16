@@ -19,6 +19,7 @@ topics:
 - cricket
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Burra Cricket Club calls its AGM on Monday next at the Commercial Hotel at 7.30 p.m.

@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  August Miller, late of W. Henderson & Co. announces he is setting up business as a shoeing and general smith in premises lately occupied by J. Hutson.

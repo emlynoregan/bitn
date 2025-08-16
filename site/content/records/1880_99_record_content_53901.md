@@ -22,6 +22,7 @@ topics:
 - animals
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C. Parks, T. Woollacott & Fred Bourmen were fined 7/6, 6/- & 6/- respectively for allowing their cows to graze in public streets.

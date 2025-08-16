@@ -19,6 +19,7 @@ topics:
 - labour
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Ruminating Biped writes:

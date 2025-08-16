@@ -20,6 +20,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tonight Mr M. Fenton will give an exhibition of an entirely new style of horse handling at the Burra Hotel, also on Thursday & Friday exhibition of riding wild horses and cattle.

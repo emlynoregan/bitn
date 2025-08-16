@@ -20,6 +20,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For one night only at the Burra Institute: Alfred Dampier supported by 20 Metropolitan Artists in Robbery Under Arms.  A Triumph of Realism.  3/- & 2/-.

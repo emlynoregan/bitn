@@ -18,6 +18,7 @@ topics:
 - competition
 - flowers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 4 phlox drummondii	1st 	6 outdoor any type	1st

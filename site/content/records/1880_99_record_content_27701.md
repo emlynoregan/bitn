@@ -31,6 +31,7 @@ topics:
 - waterworks
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Assisted by M-C Eaton put out the fire.  The principal part of the fire was in the S-E corner in cases and bottles of grog and straw.  There were also papers burning in the N-W corner.  No smell of kerosene or other cause of fire was evident.  One case burning was almost under the grating to the outside.  A fire from the grating could have run into the S-E corner.  When the floor was opened with a crowbar a case of brandy was on fire and a great blaze came up.  Lodgers and others often sit smoking and cleaning their pipes on a form directly above the cellar grating.

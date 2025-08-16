@@ -21,6 +21,7 @@ topics:
 - incident
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Edward Gilleland of the Salvation Army, condemning the cowardly act last Saturday when a large stone was thrown into their midst from the Commercial Hotel balcony, or its vicinity.  This is not the first time and it is both cowardly and dangerous.

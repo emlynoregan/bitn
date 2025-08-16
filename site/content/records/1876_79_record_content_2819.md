@@ -19,6 +19,7 @@ topics:
 - station
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mt Bryan Flat meeting to determine the best location for the railway station.

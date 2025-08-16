@@ -28,6 +28,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  After a short illness of about one week John D. Cave, aged 77, has died at his residence, Victoria Park. [sic]  He was a resident for almost 30 years and a prominent townsman.  He was interested in the Institute, was active in the early years of the first Agricultural Society [i.e. Show Society] and in the Anglican Church.  He was Secretary of the Burra Hospital from its inception and clerk of the Burra and Hanson District Councils for many years.  As a JP he was respected for impartiality and he took an interest in sports in the area.  He was auditor of the Town Council and Secretary of the National Defence League.  The funeral on Saturday was largely attended.  He leaves one son, H.F. Cave (Manager of the National Bank, North Adelaide) and four daughters: Mrs P.L. Killicoat (Abberton Park), Mrs A. Butterworth (Adelaide) and the Misses F. & E. Cave of Victoria Park. [sic]

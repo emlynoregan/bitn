@@ -22,6 +22,7 @@ topics:
 - politics
 - homestead legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Hon. G.W. Cotton, whose homestead block legislation aided so many to get onto the land and eased unemployment, died at his residence in Parkside on Friday.  [Died 15 December 1892 aged 71.]

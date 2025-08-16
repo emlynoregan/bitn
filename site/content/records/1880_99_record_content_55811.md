@@ -18,6 +18,7 @@ topics:
 - appointment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.R. Gray accepts the position of Inspector for £60 p.a.

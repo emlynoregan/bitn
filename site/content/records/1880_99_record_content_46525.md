@@ -18,6 +18,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  For the last month the rainfall has been a satisfactory 2.69” with 0.72” falling since Saturday.

@@ -19,6 +19,7 @@ topics:
 - race
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sheffield Handicap of 135 yards for £30 and five bicycle races.

@@ -17,6 +17,7 @@ topics:
 - advertising
 - medicine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advertising: some local in origin, but much not, and patent medicines are significant.

@@ -21,6 +21,7 @@ topics:
 - election
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council.  Meeting 11 July declared one auditor, J.R. Edwards duly elected.  Cr Sandland was elected chairman for the year.

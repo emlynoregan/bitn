@@ -29,6 +29,7 @@ topics:
 - cottages
 - eviction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Letter from the Burra Burra Mines, 11 November

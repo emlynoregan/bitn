@@ -21,6 +21,7 @@ topics:
 - defence
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Hoax of Bryant in Melbourne re a Russian threat to the colonies.

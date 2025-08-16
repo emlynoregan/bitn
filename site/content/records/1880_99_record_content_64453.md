@@ -23,6 +23,7 @@ topics:
 - cycling
 - record
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two cyclists passed through Burra on Monday for Broken Hill.  It is thought they intend to try to better J.A.S. Bagg’s record for the run from there to Adelaide.

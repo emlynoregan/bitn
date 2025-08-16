@@ -29,6 +29,7 @@ topics:
 - New Year
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was no larrikinism on New Year’s Eve: not even a gun or whistles.

@@ -21,6 +21,7 @@ topics:
 - community
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The argument that the new site is more central for Redruth is negated by the fact that Redruth has its own post office.  I have been informed by a tradesman that our postmaster has already concluded a contract for enlarging and fitting up the new office in every way worthy of the central position it is to occupy in our principal business street.

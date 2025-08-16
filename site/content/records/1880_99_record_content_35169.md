@@ -22,6 +22,7 @@ topics:
 - crops
 - rust
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Harvest.  Now that the harvest is in the returns are not as good as we expected.  At Baldina the crops were really good, but in Mt Bryan District the grain is miserably shrivelled and fit only for pig food.  Rust is more prevalent to the west and though a good percentage will be secured, much will be valueless.

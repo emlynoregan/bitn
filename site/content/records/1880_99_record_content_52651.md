@@ -18,6 +18,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Black Springs Sports on Christmas Day attracted c. 600 in good weather.  The following ball ran into the wee hours.

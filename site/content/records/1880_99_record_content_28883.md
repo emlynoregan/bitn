@@ -19,6 +19,7 @@ topics:
 - voting
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ballot required for Baldina Ward and will be on 2 July (Two to be elected.)

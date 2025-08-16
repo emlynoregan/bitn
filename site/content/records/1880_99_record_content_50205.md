@@ -19,6 +19,7 @@ topics:
 - animal death
 - danger
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison baits laid in the town have continued to claim dogs: four died last Wednesday and Thursday.

@@ -24,6 +24,7 @@ topics:
 - land
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 It has been discussed that the Corporation has no title to the land on which the new bridge has been erected and the Town Clerk has written to SAMA to ask them to convey the land. Applications for the position of Town Clerk have been received form Messrs J. Roach, Opie, Motley & Holder.

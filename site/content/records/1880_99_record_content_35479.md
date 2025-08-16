@@ -19,6 +19,7 @@ topics:
 - justice
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on ‘Bastard Legal Advice’ and calling for the maintenance of ‘right’ or ‘justice’ rather than legal technicality and in the light of the recent William March case more care should be taken before arresting people and casting them into prison on the basis of ‘bastard legal advice’.

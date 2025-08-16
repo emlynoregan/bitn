@@ -25,6 +25,7 @@ topics:
 - dividend
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 English & Australian Copper Co. AGM with E.A. Routh in the chair in London.  Reported in a London paper of 11 March.

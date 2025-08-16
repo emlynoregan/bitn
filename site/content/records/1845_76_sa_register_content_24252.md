@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Davieston [modern Hanson].  There are efforts to get a hotel and a chapel here.  A school is also needed as there are at least a dozen residents with large families.

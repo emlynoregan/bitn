@@ -21,6 +21,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  John Roach of Burra had a lucky escape from injury on Good Friday when one of the reins broke on a trap he was driving belonging to Mr Gray of Clare.  No one was hurt, but it was a near thing.  [Details are printed]

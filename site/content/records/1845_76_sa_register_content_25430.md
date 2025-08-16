@@ -20,6 +20,7 @@ topics:
 - locusts
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The season.  Farmers are looking for rain, but so far the crops are healthy.  Locusts are beginning to appear in the northeast.  Shearing is general and reports are of a good clip.

@@ -19,6 +19,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Conference has appointed Rev. W.F. James again to Burra.

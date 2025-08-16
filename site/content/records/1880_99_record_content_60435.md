@@ -20,6 +20,7 @@ topics:
 - recital
 - elocution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Alex Macully MA will give a recital in St Mary’s Schoolroom on Wednesday 2 September.  He is highly spoken of as an able elocutionist.

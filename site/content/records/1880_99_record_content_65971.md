@@ -21,6 +21,7 @@ topics:
 - industry
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Consols Copper Mine.  The men working at Princess Royal have returned to Pt Pirie and work has been suspended.  It is said the directors intend to call for tenders to further develop the property.

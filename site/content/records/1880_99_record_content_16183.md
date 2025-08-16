@@ -20,6 +20,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bazaar in aid of the new Bible Christian manse will be held in the Institute 28 & 29 January.  The anniversary of the church will be held on 22 & 23 January.

@@ -20,6 +20,7 @@ topics:
 - government
 - red tape
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another argument was it would be universally used for household purposes, but now four or five years later even those with it laid on use well or rainwater for preference.  All round it is an expensive luxury.  There are dozens of poor people compelled to pay for water they do not and never did want.  The chief movers have in many cases cleared out leaving those who cannot to pay the piper.  All we can do is keep control and persevere in minimising red tape and Government officialdom.

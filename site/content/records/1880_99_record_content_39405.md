@@ -19,6 +19,7 @@ topics:
 - sanitation
 - public complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes condemning the vile stuff coming out of the taps at present.

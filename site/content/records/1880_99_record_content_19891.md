@@ -23,6 +23,7 @@ topics:
 - season
 - failure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  The crops from Terowie & Spalding north to Dawson and Orroroo have largely failed and farmers can expect to get back little more than their flour and seed.

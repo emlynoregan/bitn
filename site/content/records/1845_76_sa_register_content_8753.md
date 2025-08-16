@@ -22,6 +22,7 @@ topics:
 - survey
 - public sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra Mines.  The usual public survey will be held on the 26 July at 12 o’clock when a number of tutwork bargains and tribute pitches will be offered.  The ‘take’ to expire on 28 September.

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Stanton presented another entertainment at the Burra Hotel Assembly Room on Monday evening.  The collection aided the Church Bazaar Fund.  [The program is printed.]

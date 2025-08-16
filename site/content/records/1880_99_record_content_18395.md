@@ -19,6 +19,7 @@ topics:
 - review
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Jingo’ produces a humorous review of Mr Roach’s Entertainment, which on the whole is not very complimentary.  The tone may be judged from the sentence:

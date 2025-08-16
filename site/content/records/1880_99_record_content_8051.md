@@ -19,6 +19,7 @@ topics:
 - publication
 - poetry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Gethsemane to Calvary and Other Poems by R.W. Mathews of the Commercial School, Kooringa, will shortly appear.

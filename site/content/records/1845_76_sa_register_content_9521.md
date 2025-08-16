@@ -20,6 +20,7 @@ topics:
 - court
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Barclay sued Thompson for £1-14-4 for board and lodging and won the same.

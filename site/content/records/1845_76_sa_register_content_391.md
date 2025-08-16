@@ -21,6 +21,7 @@ topics:
 - mining
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SAMA Tender called for 100-200,000 bricks at the Burra Burra Mines.

@@ -23,6 +23,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police evidence from M-C Williams adds details of the accident scene.  Williams believed the deceased to be a Swede aged c. 60, unmarried and a heavy drinker.

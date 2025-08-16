@@ -21,6 +21,7 @@ topics:
 - animal attack
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A lad named Nicholas Moon was severely injured last week by a savage dog.  He was out with the son of Samuel Hall, driving cows, Moon cracked his whip and the dog flew at his face, inflicting four severe wounds about his eye and tearing an inch of skin from his skull. Young Hall asserted that Moon had been teasing the dog, but Moon positively denied that.  Under the New Dog Act His Worship ordered the dog destroyed and inflicted the minimum fine of £2.

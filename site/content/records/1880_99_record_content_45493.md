@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Burra railway yards are presently very busy with men relaying the line and a telegraph party is carrying out repairs and carpenters and painters are overhauling and painting the station buildings.  Another party is erecting a water tank.  There is also extra activity in delivering chaff to folk not prepared to pay unwarranted prices charged by the local chaff dealers.

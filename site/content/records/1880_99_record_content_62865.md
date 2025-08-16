@@ -22,6 +22,7 @@ topics:
 - health
 - institution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John McDonald was charged on 5 October with being a pauper lunatic.  Dr Brummitt certified him as being of unsound mind and he was ordered to the Parkside Lunatic Asylum.

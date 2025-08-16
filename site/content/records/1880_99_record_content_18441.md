@@ -21,6 +21,7 @@ topics:
 - fence
 - contractors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Footway on the main road.  One of the contractors replies to speculation whether they could be compelled to restore the fence taken down.  The Clerk of Works had said at the time ‘You can take down the rails where required and the dayman will be with you to level the soil on the east side and attend to the fence.

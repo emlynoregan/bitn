@@ -42,6 +42,7 @@ topics:
 - machinery
 - flooding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mining in South Australia (From the London Mining Journal’s correspondent.  Concluded from 14 April.)

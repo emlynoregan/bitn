@@ -20,6 +20,7 @@ topics:
 - wheelwright
 - blacksmith
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harry & Burns	Wheelwrights, Blacksmiths, etc., Next to the Commercial Hotel

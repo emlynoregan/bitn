@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 23 Sep 81	Partners Ch VI-VII	Under a Midnight Lamp		X	X	X	X	X	X	X

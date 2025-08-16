@@ -18,6 +18,7 @@ topics:
 - legal
 - appeal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The totalizator case is being taken to appeal,  (A. von Doussa)

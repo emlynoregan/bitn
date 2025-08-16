@@ -18,6 +18,7 @@ topics:
 - advertisement
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Blind performers only from the Industrial School for the Blind.  2/-

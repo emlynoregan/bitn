@@ -21,6 +21,7 @@ topics:
 - roads
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board voted £2,000 for the Kooringa and North West Bend [Morgan] Road for 1879.

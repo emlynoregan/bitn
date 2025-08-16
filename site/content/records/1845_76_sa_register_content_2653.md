@@ -19,6 +19,7 @@ topics:
 - shares
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Princess Royal £50 shares paid to £37 at £42

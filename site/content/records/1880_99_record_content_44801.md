@@ -19,6 +19,7 @@ topics:
 - militia
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs J. Dawes offers £3, £2 & £1 to be shot for by members who put in 16 drills for the year.

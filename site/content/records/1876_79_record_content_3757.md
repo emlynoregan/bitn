@@ -17,6 +17,7 @@ topics:
 - events
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Races. The prize money for the race meeting is now over £200.

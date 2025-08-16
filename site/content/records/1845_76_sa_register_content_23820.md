@@ -19,6 +19,7 @@ topics:
 - harvest
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie.  Wind, rain and cool weather have reduced the harvest somewhat.  A problem is that smaller farmers have too few horses to work quickly when bad weather threatens.  Losses of 6 bushels per acre are reported – valued at 3/6 per bushel.  [The writer offers some suggestions on how to avoid such losses in the future, or at least to minimise them.]

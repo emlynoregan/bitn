@@ -18,6 +18,7 @@ topics:
 - events
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Royal English Opera Co. which has had a delayed appearance here will now play on Wednesday and Thursday next.

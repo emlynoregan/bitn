@@ -22,6 +22,7 @@ topics:
 - industrial dispute
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.J. Daddow writes on the Broken Hill strike.  While being careful not to condone acts of violence, he generally expresses admiration for the miners and their organisation and their overall restraint.  The wonder is, he says, that shareholders do not see the wisdom of a conference to resolve the issues.

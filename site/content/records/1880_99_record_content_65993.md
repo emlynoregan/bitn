@@ -24,6 +24,7 @@ topics:
 - water scheme
 - survey
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water scheme.  The surveyor will arrive in Burra from Adelaide today to survey the Mt Horrock’s scheme.  The mayor and Mr E.C. Lockyer will escort the visitor over the site.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Crime. People wandering around properties at night have decreased in number, but someone did try to get into White's in Kooringa recently.

@@ -22,6 +22,7 @@ topics:
 - social
 - ball
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Afterwards there was a social evening at the Commercial Hotel.  The accident to Captain Watt saw this somewhat curtailed with no musical items after the toasts and most left about 9.30 p.m.  The ball that followed saw only a fair attendance.

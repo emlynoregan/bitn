@@ -17,6 +17,7 @@ topics:
 - employment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This sum is the extra annual amount resulting from paying the engineer 10/- a day instead of 8/-.  This argument is pursued in the next issue.]

@@ -20,6 +20,7 @@ topics:
 - farewell
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A. Watt paid a farewell visit to the Burra School on Friday morning to wish students a good future and say goodbye.

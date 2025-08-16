@@ -19,6 +19,7 @@ topics:
 - council
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sparks’ also has the cryptic quotation: ‘Although I moved the motion and am prepared to stand by what I have said, I hope it won’t be carried. (Laughter)’

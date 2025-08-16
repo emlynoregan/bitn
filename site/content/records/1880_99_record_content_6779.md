@@ -19,6 +19,7 @@ topics:
 - hours
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Early Closing.  Some shopkeepers are gradually extending the hours of trading on Saturday to make up for the Wednesday half-holiday.  There is no excuse for this.

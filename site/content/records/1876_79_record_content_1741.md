@@ -21,6 +21,7 @@ topics:
 - public health
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Waste disposal: Council resolved that manure be deposited at the north end of the Redruth recreation reserve and that the Lights on Vehicles Act should be enforced.

@@ -39,6 +39,7 @@ topics:
 - directors
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Directors reported that the prospects of the Association have far exceeded their most sanguine expectations.

@@ -17,6 +17,7 @@ topics:
 - weather
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Weather. Very cold with some snow one night this week. Footpaths and roads in a very bad state.

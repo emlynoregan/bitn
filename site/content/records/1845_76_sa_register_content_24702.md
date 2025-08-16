@@ -23,6 +23,7 @@ topics:
 - prospecting
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Gawler Times reports the sale of gold from Ulooloo at Gawler to the value of £18-10-0 on Friday.

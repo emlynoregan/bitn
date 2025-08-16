@@ -21,6 +21,7 @@ topics:
 - court
 - town council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  For some time the Town Council has been put to considerable expense due to vandalism of the lamp on the Kingston St Bridge.  On Saturday night about 12 o’clock two well-known residents were ‘almost caught in the act’ and will appear in court.

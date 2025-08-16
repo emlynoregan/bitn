@@ -20,6 +20,7 @@ topics:
 - show
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Cave went up to judge the Chrysanthemum Show at Broken Hill on Friday.

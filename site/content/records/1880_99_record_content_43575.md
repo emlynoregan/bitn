@@ -21,6 +21,7 @@ topics:
 - roads
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Ford was damaged in the recent floods.  An inspection has been made by Mr Farrar from the Department of Main Roads who has forwarded a report to the Treasurer.

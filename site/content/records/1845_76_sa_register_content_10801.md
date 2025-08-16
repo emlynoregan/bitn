@@ -29,6 +29,7 @@ topics:
 - pump
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Since the 11th Annual Report, published in our columns of 16 April, several important discoveries have been made in the southern and south-western workings:

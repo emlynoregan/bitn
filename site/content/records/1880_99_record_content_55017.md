@@ -19,6 +19,7 @@ topics:
 - agriculture
 - lectures
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vine Growing by Professor Perkins & Farming by Professor Lowrie MA, DSc.

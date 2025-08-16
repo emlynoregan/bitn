@@ -30,6 +30,7 @@ topics:
 - cruelty
 - hotels
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Frederick C. Austin writes from York Hotel, Adelaide 6 October.

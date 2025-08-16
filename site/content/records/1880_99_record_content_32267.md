@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Last year we had 11.90” and already this year 10.42” has fallen: 8.09” this month!  The creeks are all high and the Burra Creek the highest for 12 years.  Some footbridges have been damaged.  On Tuesday night T. Halls cab was swept off the White Hart ford and he was lucky to survive.  The cab was caught by the piles of the footbridge, but the horses were swept away and drowned.  Monday night’s train was delayed till midday Tuesday when an embankment near Mintaro was damaged.

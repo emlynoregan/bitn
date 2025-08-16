@@ -26,6 +26,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Association, 23rd meeting on 9 August at Burra with representatives from Baldina, Burra, Copperhouse, Clare, Leighton, Mt Bryan, Saddleworth, Terowie and Ulooloo.

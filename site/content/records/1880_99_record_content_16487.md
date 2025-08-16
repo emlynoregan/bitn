@@ -21,6 +21,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  About 40 attended the meeting to form the Burra Co. RVF.  J. Kennedy was in the chair and he called on Mr O’Connell to outline the regulations etc.  13 signatures were taken down and the meeting adjourned.

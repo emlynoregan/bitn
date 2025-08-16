@@ -32,6 +32,7 @@ topics:
 - ploughing match
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Black Springs Ploughing Match.  This was held 21 August on Mr Pascoe’s property near Black Springs.  The day was cold with frequent showers.  This and a lack of publicity reduced attendance, but still some visitors came from Farrell’s Flat, Steelton, Waterloo and Burra.  Host Broad provided refreshments.  Only two men entered the double ploughing class.  One man did not finish and Trelling was judged worthy only of a second prize.  In the single plough contest Ward was first, Selby second and Craig third.  In the contest for boys Robinson was first and Glarson was third.  At night over 50 people had dinner at the hotel where Mr Dawson presided.

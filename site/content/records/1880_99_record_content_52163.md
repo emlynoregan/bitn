@@ -20,6 +20,7 @@ topics:
 - show
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Montgomery & Moreny’s Circus & Wild West Show will appear at the rear of Vivian’s Hotel on December 9, featuring 60 horses, 30 artists and a Grand Military Band of 9 performers.

@@ -24,6 +24,7 @@ topics:
 - family
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Their mother had died about five months since and their grandmother, Mrs Morgan, died last week.  Mr H. Morgan, who was Mrs Morgan’s second husband, had no one to look after them and refused to maintain them any longer.  [Ann Morgan, wife of Henry, died 4 March 1884 at Redruth aged 62.]

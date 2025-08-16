@@ -19,6 +19,7 @@ topics:
 - events
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Primitive Methodist Anniversary was celebrated on 2 & 3 January.  The congregation was large and profitable and with the tea meeting enabled the debt to be reduced by £20.

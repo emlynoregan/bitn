@@ -20,6 +20,7 @@ topics:
 - letter
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy in reply to Mr Cooksley and he is warned by the editor to be less personal in the future.

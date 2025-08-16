@@ -23,6 +23,7 @@ topics:
 - military
 - Sudan
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sudan Campaign. Offers from SA and Victoria to help in the campaign have apparently been declined, at least as far as going with the NSW contingent, but later service is a possibility.  [NSW despatched 750 men on 23 March and they saw action at Tamai as soon as they arrived at Suakin, but then saw mainly railway fatigue work and were repatriated 17 May 1886.  Their greatest losses were from fever on the way home, when six men died.]

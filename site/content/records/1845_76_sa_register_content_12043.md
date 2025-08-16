@@ -20,6 +20,7 @@ topics:
 - court
 - perjury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 While attempting to stop a fight in Kooringa on Saturday night a policeman was badly beaten, having several teeth broken or lost and an ugly wound on the side of his head from being kicked.  Rows also broke out from the arrests that followed and several of the offenders attended the court with many witnesses.  Unluckily for the prisoners and the witnesses the latter so far overreached themselves that two of them have been committed for trial for perjury.  There is much sympathy for the policeman, who is widely said to be the best they have had in Kooringa for a long time.

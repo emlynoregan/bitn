@@ -19,6 +19,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bremer Mine, Callington.  The successful working of a 60 inch cylinder steam engine is reported.

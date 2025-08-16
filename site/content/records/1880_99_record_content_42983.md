@@ -21,6 +21,7 @@ topics:
 - animal welfare
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Humanity’ writes complaining of the way cab drivers thrash their horses between Kooringa and Aberdeen.  ‘The fat man with red hair is the worst offender - you may know his name perhaps.’

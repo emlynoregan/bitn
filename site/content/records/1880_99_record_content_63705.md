@@ -25,6 +25,7 @@ topics:
 - races
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races organised by Mr Nankervis of the Burra Hotel went off very successfully.  The course was lent by Mrs J. Dew.  The only drawback was the absence of the totalizator.  There were some very close races on Wednesday.  Under SAJC rules prize money at such races is limited to £25; otherwise stakes would have been higher as potentially more was on offer. The biggest prize was for the 1¼ mile Handicap where A.J. Berryman’s black mare Midnight (aged), ridden by J. Kane, won £6.

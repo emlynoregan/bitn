@@ -19,6 +19,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Kellaway bowled 501 balls, 17 maidens, for 231 runs and took 27 wickets at av. 8.15

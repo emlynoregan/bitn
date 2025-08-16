@@ -18,6 +18,7 @@ topics:
 - roads
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fencing in the district is making matters worse for settlers as road are being closed.

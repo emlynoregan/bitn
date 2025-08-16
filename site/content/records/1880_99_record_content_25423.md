@@ -20,6 +20,7 @@ topics:
 - insurance
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Hotel of Mr Midwinter’s was fully insured with Colonial Mutual.

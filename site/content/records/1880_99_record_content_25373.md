@@ -19,6 +19,7 @@ topics:
 - public health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa had a serious outbreak of typhoid with 40 cases in their hospital.

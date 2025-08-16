@@ -18,6 +18,7 @@ topics:
 - rates
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The services of the dayman are to be dispensed with at once as the new rates will not bring in money till March or April.

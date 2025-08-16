@@ -20,6 +20,7 @@ topics:
 - bridge
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Ford is being washed out with every considerable flow due to the dilatory nature of Govt. action. Recently it was impassable for two days pending repairs. We hope soon to hear of the arrival of the girders from England. [i.e. for the new bridge]

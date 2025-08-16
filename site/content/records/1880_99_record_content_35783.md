@@ -19,6 +19,7 @@ topics:
 - education
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christians have sent a deputation to the Premier, Hon. Dr Cockburn, arguing against a capitation grant to private schools.

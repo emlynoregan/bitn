@@ -39,6 +39,7 @@ topics:
 - goods transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Northern Railways.  A meeting was held at the Miners’ Arms Hotel, Kooringa on 17 June to consider improvements to the train timetables.  Captain Killicoat presided and considered the railways were conducted in an unsatisfactory manner.  13 towns would be represented at a meeting at Saddleworth soon and he expected a deputation would then wait on the Commissioner of Public Works.

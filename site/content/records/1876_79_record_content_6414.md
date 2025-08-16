@@ -19,6 +19,7 @@ topics:
 - business
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Richard Dearlove, former traveller for the Unicorn Brewery has taken over Opie's Hotel.

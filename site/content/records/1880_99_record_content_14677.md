@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain has been unusually heavy in the last two to three weeks and the crops are coming on splendidly.

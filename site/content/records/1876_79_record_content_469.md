@@ -20,6 +20,7 @@ topics:
 - culture
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Minstrels. – The writer of a letter hopes the Philharmonic society spells the end of ‘Negro Minstrelsy.’

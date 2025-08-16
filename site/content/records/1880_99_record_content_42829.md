@@ -28,6 +28,7 @@ topics:
 - administration
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Land Board has met in Burra Institute last Thursday to allocate land surrendered and hear appeals, transfers etc. in the Hundreds of Anne, Ayers, Bright, Bundey, Baldina, Apoinga, Hanson, Mongolata & Tomkinson.

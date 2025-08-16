@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Concert.  There was a good audience at Mr Roach’s concert in aid of the Burra Literary Soc. on Wednesday.  Proceeds were £23.

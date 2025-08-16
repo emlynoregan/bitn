@@ -23,6 +23,7 @@ topics:
 - timetables
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from a ‘Traveller’ complains that the train timetables do not allow passengers to travel from Burra to Kadina (or do the reverse journey) in one day due to the failure of connections at Hamley Bridge.

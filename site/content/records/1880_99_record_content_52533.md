@@ -20,6 +20,7 @@ topics:
 - services
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Lasscock	Saddler & Harness Maker, Commercial St

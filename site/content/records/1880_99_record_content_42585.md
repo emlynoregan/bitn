@@ -21,6 +21,7 @@ topics:
 - pigeon shooting
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  Out-of-town reports cover football, racing, billiards, boxing, chess, cricket and a pigeon shooting match in Sydney at which L. Clark 92 defeated the world champion Dr Carver 91.  Clark shot 56 birds without a miss.

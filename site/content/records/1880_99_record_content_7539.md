@@ -20,6 +20,7 @@ topics:
 - construction
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Henderson won the tender for the Recreation Ground gates at £22-15-0.

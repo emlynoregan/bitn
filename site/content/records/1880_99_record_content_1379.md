@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Redruth, 2 July, Richard Bosence, formerly of St Ives, Cornwall, aged 76.

@@ -21,6 +21,7 @@ topics:
 - religion
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary on Sunday & Monday last.  The afternoon service of song was Adrift.

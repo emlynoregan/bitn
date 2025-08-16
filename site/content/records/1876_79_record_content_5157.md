@@ -20,6 +20,7 @@ topics:
 - selectors
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Selectors. The Commissioner has replied to the Baldina selectors who petitioned for extra time to pay their next instalment. Each application will be assessed on its merits and will be considered on the basis of crop failure, extent of land sown and produce obtained.

@@ -28,6 +28,7 @@ topics:
 - polo
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two Polo Matches will be played on Saturday at Burra, between Mt Crawford and Burra.  Burra Team 1: E. Bowman, C.W. Bowman, H. Bowman & W.A. Murray.

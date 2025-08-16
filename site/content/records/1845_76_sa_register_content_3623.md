@@ -20,6 +20,7 @@ topics:
 - transport
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Surveyor has set out from Burra with the intention of finding a route to the coast for the transport of smelted copper.  His return is awaited with interest.

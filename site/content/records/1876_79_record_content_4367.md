@@ -19,6 +19,7 @@ topics:
 - public order
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A writer asks why the youths of the town are allowed to disturb others at entertainments in the Inst. etc.

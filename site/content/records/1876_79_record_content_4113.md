@@ -40,6 +40,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Chinese Famine Relief. A famine in China has affected 70,000,000 and over 1,000,000 have already died with 1,000 a day dying. Mr Holder has consented to act as secretary to the appeal. The town will be canvassed by Father Kreissl (Kooringa, north of Commercial St.), Rev. R.W. Campbell (Kooringa, south of Commercial St), Revs Richards & Jenkins (Kooringa east of the creek), and Rev. Howitt (Redruth and Aberdeen). Mr Goss will deal with Copperhouse, Mr Goodridge with Iron Mine, World's End by Mr Duell, Robertstown by Mr Roberts, and Mongolata by Dr Stephens.

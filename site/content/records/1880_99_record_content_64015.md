@@ -25,6 +25,7 @@ topics:
 - child welfare
 - publicity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P.L. Killicoat writes in response to the amount of publicity given to the case of the boy Jacka who was sent to the reformatory for stealing fruit and then liberated.  M-C Jemison in conducting the case said fruit stealing was on the increase and asked it be dealt with under the State Children’s Act rather than the Police Act.  The control of the lad would thus be better suited to his evident needs.  There was no undue police pressure and Killicoat (who was on the bench with Mr Ridgway) felt the decision to send him to the reformatory till he was 18 was the correct decision.  Killicoat also says that the case has been used by the paper to hang various charges against the local police and that these charges are not borne out by anything that appeared in court.

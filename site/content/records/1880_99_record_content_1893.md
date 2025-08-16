@@ -20,6 +20,7 @@ topics:
 - mining
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Prudence’ complaining of open shafts and holes in the Burra Mine site.

@@ -21,6 +21,7 @@ topics:
 - event
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Century Exhibition is planned for the Jubilee Exhibition Building in Adelaide for March and April 1900.

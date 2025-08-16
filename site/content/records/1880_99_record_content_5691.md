@@ -21,6 +21,7 @@ topics:
 - estate
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  For sale in the Township of Millerton, in the estate of C. Tiver, deceased, a five-roomed house on allotment 191 and allotments 168, 170 & 190.

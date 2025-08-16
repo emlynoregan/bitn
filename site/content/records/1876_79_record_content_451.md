@@ -21,6 +21,7 @@ topics:
 - university
 - training
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 We favour the extension of better Government schools in SA and the institution of the Training School and of Model Schools in Adelaide as well as the newly founded University of Adelaide.  There is an eagerness in country areas to see new schools established under the new regulations.  There is no doubt that we shall see in the course of reasonable time schools of a far superior class than those we have been accustomed to, scattered far and wide throughout the colony.  It is probable that the Model Schools will prepare many pupil teachers for the Training School.  Teaching now-a-days is made more interesting and less of a labour, both to the teacher and the taught.  Children are taught to think; ideas are fixed in their mind, rather than mere words in their memories.

@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mrs Ann Briggs.  [Ann Briggs, wife of John Briggs died 5 May 1867 Mintaro aged 71.]

@@ -24,6 +24,7 @@ topics:
 - suicide
 - tragedy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Murder-suicide.  There was a tragedy at Fullarton Estate when Elver Greenough Fry shot his wife and three children before shooting himself.  One daughter, Marjorie (6) is likely to recover.  Fry had borrowed the revolver from M-C Benham, late of Burra, supposedly for a shooting expedition.  It had belonged to Benham’s late wife.

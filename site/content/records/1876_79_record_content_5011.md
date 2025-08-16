@@ -23,6 +23,7 @@ topics:
 - community
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Church gave W. Davey a wall barometer at a farewell tea on Monday in gratitude for his service to the institution. [Corrected in issue of 25 October p.2: A barometer went to Mr Davey Jun. and a silver inkstand to Mr Davey Sen. The former has greatly assisted with the choir.

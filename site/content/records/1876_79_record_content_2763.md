@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 There is a blacksmith and wheelwright, but as yet no hotel.

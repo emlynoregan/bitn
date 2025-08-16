@@ -25,6 +25,7 @@ topics:
 - politics
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Legislative Council Election.  The death of Mr W. Haslam has brought out four candidates: F. Pflaum, J. Lewis, J.C. Haslam & T. Jeffs.

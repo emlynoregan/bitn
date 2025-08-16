@@ -22,6 +22,7 @@ topics:
 - lectures
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. did not meet last Friday to allow members to attend Mr Grasby’s lecture and this week the meeting will be on Wednesday to allow attendance at Mr Taylor’s lecture on Friday.

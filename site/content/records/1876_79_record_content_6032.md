@@ -20,6 +20,7 @@ topics:
 - meeting
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. A meeting is called for 10 March at the Commercial Hotel to elect officers.

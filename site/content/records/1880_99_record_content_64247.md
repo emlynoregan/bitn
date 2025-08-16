@@ -20,6 +20,7 @@ topics:
 - federation
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Glynn addressed a meeting in the Institute on Friday for the ‘Yes’ case and again the Mayor chaired a fairly well attended meeting.

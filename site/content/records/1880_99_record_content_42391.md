@@ -20,6 +20,7 @@ topics:
 - livestock
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Elder, Smith will offer 26,760 sheep on 25 September.

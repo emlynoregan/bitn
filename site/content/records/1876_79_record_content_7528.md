@@ -18,6 +18,7 @@ topics:
 - local government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Would favour cutting down the bank by the Institute, but it was not urgent and could wait till more pressing needs were attended to.

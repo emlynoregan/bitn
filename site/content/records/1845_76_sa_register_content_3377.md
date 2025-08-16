@@ -26,6 +26,7 @@ topics:
 - temperance
 - social reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.W.G. Nicholls of the ‘Friend of the Million,’ ‘Temperance Hotel,’ Hindley Street announces his intention of rebuilding the same on a commodious scale.

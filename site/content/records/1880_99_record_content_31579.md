@@ -23,6 +23,7 @@ topics:
 - mining
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Pinch moved it stand over to 30 June to see what was happening with the Mine.  Cr Sampson 2nd.  He thought the Waterworks a bad bargain.  Amendment lost and motion carried.

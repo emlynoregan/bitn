@@ -20,6 +20,7 @@ topics:
 - personnel
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.H. Forder, clerk of the Redruth Court is about to take four months leave of absence.

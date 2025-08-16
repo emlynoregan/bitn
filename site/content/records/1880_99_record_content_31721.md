@@ -25,6 +25,7 @@ topics:
 - geology
 - astronomy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W.C. Grasby [Was he perhaps the Inspector of mines?] visited Burra and in the afternoon at 3 p.m. he took c. 90 children on a field naturalists’ excursion.  They left from the Institute and went over the hill to the mine.  With Mr West’s permission the working of Morphett’s Engine was explained and the ores and dressing floors discussed as well as the flora and fauna along the way.  The excursion ended at 6 p.m.  In the evening Mr Grasby lectured at the Institute on geology and astronomy.

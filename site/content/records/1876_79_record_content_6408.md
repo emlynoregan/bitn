@@ -21,6 +21,7 @@ topics:
 - anniversary
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Redruth Wesleyan Church anniversary 25 May. Capt. Paull & Rev. J. Bickford will preach.

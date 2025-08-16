@@ -17,6 +17,7 @@ topics:
 - land
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This is a verbose and rambling article which eventually gets to the point that it is land that is at the heart of things.

@@ -22,6 +22,7 @@ topics:
 - coach
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Roads are poor in the district to the north and the Hallett-Jamestown mail has experienced difficulties. The Northern Stage Co. coach suffered a broken axle approaching Hallett on Saturday, due to the flooding of Tommy’s Gap, but it limped into Hallett without breaking down.

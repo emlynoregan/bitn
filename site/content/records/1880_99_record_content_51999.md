@@ -26,6 +26,7 @@ topics:
 - frozen meat industry
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Pastoralists and Graziers Meeting on Friday 8 December at 11 a.m. in the Adelaide Town Hall Banquet Room, to discuss the question of establishing the Frozen Meat Industry in SA.  C. Wade, J.J. Reid, J. Lewis, H.W. Hughes, W.B. Sells and A. McFarlane.

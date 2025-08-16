@@ -22,6 +22,7 @@ topics:
 - retail
 - musical instruments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.T. Shortridge	Burra Branch of A.W. Dobbie & Co., Pianos, Organs, Watches, Washing Machines, Prams, Seedsowers, Knapsack Pumps

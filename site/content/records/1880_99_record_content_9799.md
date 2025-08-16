@@ -25,6 +25,7 @@ topics:
 - court
 - support
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court Cases.  Thomas Richardson [of the Burra Hotel] claimed £9-6-6 from P-C Johnson for billiards and a small quantity of refreshments.  Johnson claimed this was payback for getting Richardson’s father fined for selling liquor in smaller quantity than allowed by his storekeeper’s licence.  The Bench noted that in any case the motive would be irrelevant and the verdict was given for the amount claimed.

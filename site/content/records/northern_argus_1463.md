@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Mrs Effie Blanche Robinson of Hanson died on 6 August.  For many years she was the postmistress at Hanson.

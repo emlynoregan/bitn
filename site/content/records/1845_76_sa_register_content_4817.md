@@ -27,6 +27,7 @@ topics:
 - property
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. James Pollitt charged that John S. Maling, carpenter, had attempted to remove some shingles, the property of the complainant and also with an assault.

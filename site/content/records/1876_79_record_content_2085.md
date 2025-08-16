@@ -25,6 +25,7 @@ topics:
 - public works
 - footpaths
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: Midland Road Board refused money to rebuild the Kooringa Bridge because of its `not being on a main line of road.' The council also had more discussion on the NW Bend road. The Council decided to appeal to the Commissioner of Public Works for funds for a Kooringa Bridge.

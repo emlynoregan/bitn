@@ -24,6 +24,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. Last Sat. the Commissioner of Public Works visited the area and ruled that there would be no undercrossing at the Bon Accord, though the level crossing would be improved to make it safer. The Mt Bryan Railway Station will be located on Sec. 75, half way to Hallett from Burra, to the advantage of the settlers of Mt Bryan Flat and Mt Bryan East.

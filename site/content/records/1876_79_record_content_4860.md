@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. John Hoskin Pascoe aged 48, on 19 Sept. at Pichi Richi Pass.

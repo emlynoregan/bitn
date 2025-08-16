@@ -20,6 +20,7 @@ topics:
 - alcohol
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The second in the series of entertainments organised by the committee was held on Friday.  Dr Sangster gave an interesting lecture on ‘Alcohol’.

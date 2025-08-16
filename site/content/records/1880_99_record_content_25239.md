@@ -20,6 +20,7 @@ topics:
 - mining disaster
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes a letter in response to ‘Hypocrisy’ re the charity for the Bulli families where 83 men and boys died in a firedamp explosion.  He points out that at least here families have able-bodied men who can work when work becomes available - the Bulli families have lost their breadwinners.

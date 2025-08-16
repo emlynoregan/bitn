@@ -23,6 +23,7 @@ topics:
 - sale
 - directors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA 36th Annual Report.  J. Beck in the chair.

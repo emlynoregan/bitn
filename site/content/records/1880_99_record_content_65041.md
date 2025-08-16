@@ -21,6 +21,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Haymakers, Cantata was performed at the Institute last Wednesday evening.  They played to a crowded house.  The orchestra of a dozen or so did a good job, but a few more performers would allow a bit more dash and emphasis where the composer called for it.  All in all it was a grand performance and much praise is due to Rev. Geddes-White.

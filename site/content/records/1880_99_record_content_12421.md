@@ -31,6 +31,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Election Meeting, organised by the Burra Election Committee, at the Institute on Monday 25 February, considered the replies of gentlemen thought likely to stand for election.  The mayor presided and there was a good attendance.

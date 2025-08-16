@@ -25,6 +25,7 @@ topics:
 - legal
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Kelly, a patient at the Burra Hospital, was charged with being a pauper lunatic on 29 December and was sent to Adelaide Asylum on the certificate of Dr Brummitt.

@@ -19,6 +19,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday the Captain and several premier players were attending drill so the match was about 9 Colours versus 24 Allcomers who played a match of about 1½ hrs.  Allcomers 0.4 defeated Colours 0.2.  There is talk of a match with Sevenhills for 24 May.

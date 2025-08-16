@@ -22,6 +22,7 @@ topics:
 - obituary
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Ind of Mt Bryan died at the Burra Hospital on Sunday from inflammation of the lungs.

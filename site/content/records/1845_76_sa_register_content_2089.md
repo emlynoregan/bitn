@@ -21,6 +21,7 @@ topics:
 - tenders
 - pasturage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mining Co.  Tenders are called for hiring the pasturage of the property.  Particulars of the letting may be seen at the office.  E.A. Wright, Secretary.

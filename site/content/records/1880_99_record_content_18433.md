@@ -19,6 +19,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Bible Christian new manse memorial stone is expected to be laid by the Chief Justice on Tuesday 1 September 1885.  Lunch at 1.00 p.m., stone laying 3.00 p.m., and a tea meeting to follow at 5.00 p.m. and 7.00 p.m.

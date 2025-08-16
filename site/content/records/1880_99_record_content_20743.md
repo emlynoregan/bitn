@@ -20,6 +20,7 @@ topics:
 - education
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Carter’s lecture in the Institute on Monday was poorly attended due to extreme heat and other attractions.  ‘Clairvoyance’ he said was ‘clear seeing’ which referred to the views he exhibited using excellent lenses and an oxy-calcium light.  His slides were excellent.

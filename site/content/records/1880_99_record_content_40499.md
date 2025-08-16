@@ -21,6 +21,7 @@ topics:
 - meeting
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army is holding a special meeting as we go to press [3 Mar.] conducted by Col. McKie from England.

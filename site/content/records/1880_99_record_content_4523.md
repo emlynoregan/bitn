@@ -21,6 +21,7 @@ topics:
 - public spending
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Pro Bono Publico complaining of the money wasted on the Chapel St footbridge.

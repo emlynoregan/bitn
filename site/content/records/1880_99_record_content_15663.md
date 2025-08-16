@@ -21,6 +21,7 @@ topics:
 - mining
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  We hear again that negotiations for its sale are in progress and that Captain Roach and some Sydney capitalists have visited the mine this week.

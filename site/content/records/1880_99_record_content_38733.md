@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket seems to have died for the season in Burra. Despite much talk at the start of the season all plans for matches have fallen through.

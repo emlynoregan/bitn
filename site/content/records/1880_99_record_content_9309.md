@@ -20,6 +20,7 @@ topics:
 - relocation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Record office is temporarily in Mr Walker’s old shop during rebuilding.

@@ -17,6 +17,7 @@ topics:
 - weather
 - snow
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  ‘We experienced a beautiful fall of snow this morning which clad everything in whiteness.  Such a sight is rarely, if ever before, seen here.’ [sic]

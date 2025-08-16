@@ -19,6 +19,7 @@ topics:
 - culture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a musical and elocution meeting on 20 Sep. when over 50 members attended.

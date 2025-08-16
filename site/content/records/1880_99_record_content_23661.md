@@ -19,6 +19,7 @@ topics:
 - goldfield
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa has been shown to be an absurd rush.  Only one gully has been known to produce gold and that was fully pegged long ago.  Of the 2,000 now there, most are idle and many totally unprepared and unfit for the work.  Some are already leaving, but genuine prospectors are looking over the district and may yet find payable gold, but it is too soon for a rush such as has occurred.

@@ -19,6 +19,7 @@ topics:
 - advertisement
 - palmistry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Louella, the renowned Australian Palmist can be consulted until Saturday 27 August at Drew & Crewes.

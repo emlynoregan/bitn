@@ -19,6 +19,7 @@ topics:
 - earthquake
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Earthquake was felt in Burra last Saturday night at 10.30 p.m.  [Strangely enough other reports in the area placed it about 10 p.m. except for Black Springs which reported it as occurring at 9.25 p.m.]

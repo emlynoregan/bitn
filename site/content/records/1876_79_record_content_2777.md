@@ -20,6 +20,7 @@ topics:
 - tariff
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 There was a meeting at Riverton protesting the new tariff and a petition started there has come to Burra and been circulated for signatures.

@@ -18,6 +18,7 @@ topics:
 - local council
 - regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 District Councils.  There is a column devoted to changed regulations for district councils.

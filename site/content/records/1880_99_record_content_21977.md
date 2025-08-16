@@ -20,6 +20,7 @@ topics:
 - demonstration
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  250-300 attended the Market Square demonstration on Friday last.  P. Lane presided from a wagon and said things have never been like this before.

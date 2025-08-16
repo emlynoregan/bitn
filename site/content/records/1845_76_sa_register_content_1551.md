@@ -18,6 +18,7 @@ topics:
 - organization
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 11-15	3

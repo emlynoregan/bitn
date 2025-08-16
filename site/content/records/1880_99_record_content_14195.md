@@ -18,6 +18,7 @@ topics:
 - mining
 - assay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra & Mt Gipps Syndicate has sent down 52 bags of ore giving an assay of between 1,000 and 1,500 oz to the ton.

@@ -26,6 +26,7 @@ topics:
 - literature
 - Christmas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [24 Dec 80	Christmas Special Supplement of 4 pages: - Poem Christmas in the Splitters’ Camp by Henry Kendall; A Terrible Christmas Day by Marcus Clarke; Sam the Selector or The Dying Curse by Donald Cameron;

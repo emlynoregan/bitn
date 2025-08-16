@@ -28,6 +28,7 @@ topics:
 - music
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21677→St Patrick’s Day is usually not much noticed in Burra, but this year the Foresters’ Picnic drew attention.  The members were led by the Burra Military Band from the Institute to the grounds of R. Austin about half a mile from the Bon Accord Hotel.  The course was well prepared and it was an alcohol-free day.  Linkson Bros. of Redruth catered and over 600 attended.  The main event was the Foresters’ Handicap with £10, £4 & £2 prizes.  It was won by W.M. Mardon, 2nd F. Symons, and 3rd G. Parks.  W.J. Foote won the Handicap Hurdles and £2-10-0.

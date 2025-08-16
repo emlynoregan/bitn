@@ -22,6 +22,7 @@ topics:
 - community
 - freemasonry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Masonic Lodge.  Kooringa Lodge No. 6 [Which had gone into recess in December 1886.] Attempts are being made to reactivate the lodge in Burra.  There is a credit balance in the bank and applications have been made by six gentlemen for membership, and an early opening is hoped for.

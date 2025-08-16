@@ -19,6 +19,7 @@ topics:
 - economy
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ condemns the pastoralists for sitting on the best agricultural land so preventing its development and for taking large loans from banks - never to be repaid.

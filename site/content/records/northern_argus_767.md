@@ -20,6 +20,7 @@ topics:
 - workshop
 - drug and alcohol abuse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Caring & Sharing Group is meeting again this year and Dr R. Oswald was guest speaker at their last meeting when he spoke on high blood pressure.  On 4 March he will conduct a workshop on drug and alcohol abuse.

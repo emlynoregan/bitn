@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Re the recent match against Clare mentions among other comments that the Kooringa Club has only been in existence about four months.

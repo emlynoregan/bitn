@@ -19,6 +19,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Wanted for the Burra Burra Mines, a clerk.  Apply to Henry Ayers, Secretary.

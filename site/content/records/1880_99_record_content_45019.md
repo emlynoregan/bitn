@@ -26,6 +26,7 @@ topics:
 - dispute
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Stace Comedy Co. did not attract a large audience on Monday, but those present thoroughly enjoyed the show.  By popular demand they performed the old favourite Hans the Boatman instead of the advertised show.

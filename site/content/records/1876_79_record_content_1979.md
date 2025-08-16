@@ -18,6 +18,7 @@ topics:
 - weather
 - storm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 On March 19 there was some flooding caused by a thunderstorm & the weather failed to clear as it usually did and on each following day there was some rain until on Thursday 22 March it rained through the night becoming torrential on Friday from midday on.

@@ -20,6 +20,7 @@ topics:
 - etiquette
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wirraldah’ writes criticising the manners of some at a recent concert.  Among other points he says men should precede ladies up or down stairs, so as to be ready to assist them when needed.  Soloists should not march to the front of the stage, but help to arrange their accompanist’s music.

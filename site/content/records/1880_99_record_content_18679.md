@@ -19,6 +19,7 @@ topics:
 - football
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Sevenhills is unable to get a team together so the match with Burra tomorrow has been cancelled.

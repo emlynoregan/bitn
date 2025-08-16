@@ -19,6 +19,7 @@ topics:
 - agriculture
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Some more general rain has damaged some hay and delayed reaping, but in our area the crops will benefit and feed is very abundant, but there are complaints along the eastern lands of an invading army of rabbits.  There was spectacular lightning last Friday to the south, but too distant to hear the thunder.

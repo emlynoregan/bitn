@@ -18,6 +18,7 @@ topics:
 - fees
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Education Bill which proposes to increase fees from 4d and 6d to a uniform 6d a week and to 1/- a week if the child remains after completing the compulsory certificate.  It would be more sensible to stimulate effort by making education free after the compulsory certificate.  School fees raise less than 20% of Education Department costs and small as they are, they are a real burden to workingmen with large families.  Various communities have passed resolutions in favour of free education.  We agree.

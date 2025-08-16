@@ -19,6 +19,7 @@ topics:
 - celebration
 - tradition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guy Fawkes was burnt with enthusiasm on Thursday evening last.  Guy was first hawked around town in wheelbarrows, handcarts, trucks and even perambulators.

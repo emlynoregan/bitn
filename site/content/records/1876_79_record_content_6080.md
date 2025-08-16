@@ -22,6 +22,7 @@ topics:
 - advertisement
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. A mission at St Joseph's church will be led by Rev. Father Leo Rogalski SJ, 21-26 March, with two religious instructions each day.

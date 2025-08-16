@@ -20,6 +20,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The weather has been hot and dusty until yesterday when there was a severe thunderstorm.  A woman was struck by lightning and killed at Clare.

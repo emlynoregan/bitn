@@ -20,6 +20,7 @@ topics:
 - rail
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Mary.  A memorial is circulating in the District of Bundy seeking the provision of facilities for the loading of stock onto trains at Mt Mary.

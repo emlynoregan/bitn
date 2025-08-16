@@ -19,6 +19,7 @@ topics:
 - inquest
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of Richard Rogers runs ½ column, but it adds little to what has already been stated.

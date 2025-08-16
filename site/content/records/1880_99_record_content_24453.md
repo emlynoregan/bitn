@@ -21,6 +21,7 @@ topics:
 - community
 - resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firewood.  Fear has been expressed by Mr F. Duldig of World’s End PO that the Government is about to lease a wood reserve in the Hundred of Bright that now supplies Burra.

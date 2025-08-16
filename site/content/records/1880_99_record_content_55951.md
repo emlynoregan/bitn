@@ -21,6 +21,7 @@ topics:
 - waterworks
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  On 1 February Mr J. Littlejohn handed control to Mr Lappidge.  The injector failed just before the handover, which has caused some consternation.

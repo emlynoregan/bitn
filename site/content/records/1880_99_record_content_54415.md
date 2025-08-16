@@ -17,6 +17,7 @@ topics:
 - research note
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [There is no report of a meeting of 4 July.  The paper of 11 July reports on for 9 July and the paper of 4 July could not report a meeting of that date.]

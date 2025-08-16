@@ -19,6 +19,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School now has an average attendance of 380.  Steps are being taken to form a Burra Teachers’ Association on 13 March.

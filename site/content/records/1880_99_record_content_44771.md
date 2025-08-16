@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Wednesday a lad named Lyons fell from the sheep yards’ wall and broke his arm.

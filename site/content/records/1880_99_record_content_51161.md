@@ -18,6 +18,7 @@ topics:
 - health
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs W. West has suffered a relapse and is very seriously ill.

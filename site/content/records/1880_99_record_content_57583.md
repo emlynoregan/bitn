@@ -22,6 +22,7 @@ topics:
 - road
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kerbing near the National Bank did not meet with Cr Sampson’s approval, but Cr Harris thought it a good job.

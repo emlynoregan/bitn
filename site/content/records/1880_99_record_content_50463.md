@@ -20,6 +20,7 @@ topics:
 - pests
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Grasby, editor of Garden & Field will give a lecture on Friday 28 July at the Institute on Bugs – baneful, beneficial and beautiful.

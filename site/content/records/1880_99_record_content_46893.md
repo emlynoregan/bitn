@@ -23,6 +23,7 @@ topics:
 - asylum
 - threat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Bond has been certified a lunatic by Dr Brummitt and sent to the Asylum.  He has been a patient at Burra Hospital for some time, but had grown too unruly and threatened other patients with his fist and knife.

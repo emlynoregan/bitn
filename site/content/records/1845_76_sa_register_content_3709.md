@@ -29,6 +29,7 @@ topics:
 - temperance
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Total Abstinence Meeting was held in Kooringa on 25 June in the Wesleyan schoolroom.  Over 150 sat down to tea, after which a platform was erected and on it assembled Rev. William Lowe and Messrs Osborne, Pearce, Trehare, Cotton, Wersley, Trestrail and Jeffery.  Rev. Lowe took the chair.

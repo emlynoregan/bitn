@@ -20,6 +20,7 @@ topics:
 - fundraising
 - religious
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Art & Floral Exhibition will be held in the Institute 27 November in aid of Redruth Wesleyan Church.

@@ -21,6 +21,7 @@ topics:
 - assay
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Syndicate working the Paratoo Claim received an assay a day or two ago showing the lode carries 7 oz 11 dwts 23 gr of gold.  It is proposed to forward a bulk sample of 5 tons as soon as possible to thoroughly test the value of the mine.

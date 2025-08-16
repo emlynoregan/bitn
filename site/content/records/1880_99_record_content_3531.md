@@ -21,6 +21,7 @@ topics:
 - sale
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The sale is announced in the assigned estate of N. Lihou & Sons of the freehold of their manufactory at Terowie and the leasehold of their manufactory at Kooringa, together with vans, buggies, horses, machinery, etc.

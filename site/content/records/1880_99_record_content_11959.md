@@ -22,6 +22,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The concert on 2 January by local amateurs assisted by Mr & Mrs G.C. Smith and Mrs James from Adelaide was well patronised and appreciated.  The proceeds of £20-5-0 will aid the Kooringa Wesleyan Sunday School.

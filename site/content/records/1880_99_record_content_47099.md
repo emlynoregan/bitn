@@ -19,6 +19,7 @@ topics:
 - sports
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Comprising the usual flat and hurdle races with three-legged race, tug-of-war and tilting.]

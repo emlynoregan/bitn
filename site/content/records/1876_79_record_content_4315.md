@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Stephen Hill, a lad working in a Hampton quarry had his leg broken in a rock fall Wednesday.

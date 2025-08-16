@@ -18,6 +18,7 @@ topics:
 - building
 - residence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Considerable improvements have just begun at Dr Brummitt’s house.

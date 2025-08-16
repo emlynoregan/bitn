@@ -22,6 +22,7 @@ topics:
 - dispute
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Musicus’ writes expressing surprise at Mr Uhrlaub’s extreme reaction to his previous letter enquiring about the disposal of funds of the Mt Bryan Fife & Drum Band.  He did not consider his request in any way defamatory of Mr Uhrlaub and therefore considered Mr Uhrlaub’s reaction quite uncalled for.  He does not consider calling for a balance sheet casts any slur upon Mr Uhrlaub and hopes the same will be seen soon and the whole matter amicably settled.

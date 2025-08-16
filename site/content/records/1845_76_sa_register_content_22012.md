@@ -24,6 +24,7 @@ topics:
 - injury
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  Last week Mrs Dolman and her baby in arms were going home to Charlestown from Hampton when she missed her track and fell into an open well on the property of Mr John Snell.   She fell thirty feet perpendicularly and reached the bottom virtually unhurt.  The baby awoke at its usual time apparently also unharmed.  A young foal came to the well in the morning, perhaps attracted by her cries and the foal’s neighing attracted a young boy who was riding by on a mare.  Assistance was immediately obtained and both victims were extracted from the well.  No bones were broken.  Mrs Dolman was severely shaken and has been confined to bed ever since.  [The child would appear to have been Mary Jane Dolman born at Charlestown 20 June 1866 to John & Elizabeth Dolman nee Hoskin(g).]

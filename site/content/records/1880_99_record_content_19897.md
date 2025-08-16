@@ -23,6 +23,7 @@ topics:
 - local history
 - place names
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Blazey?  Someone asks where in the Hundred of Kooringa is the Township of St Blazes?

@@ -23,6 +23,7 @@ topics:
 - sport
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Also on Christmas Day the Australian Juniors arrived by train to play Aberdeen.  They travelled by Hall & Bromley’s large bus to the Commercial Hotel.

@@ -26,6 +26,7 @@ topics:
 - fundraising
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The first preliminary meeting held with a view to establishing an Institute took place on 7 April 1856.  Whilst all present were agreed on the value and desirability of such an institution, it was decided that the cost was too great to proceed with the project.  I then sought and obtained an interview with the H.E. Sir Richard MacDonnell who expressed his approval of such efforts and who gave me to understand the Government was likely to support such efforts to the extent that the people themselves were able and willing to assist it.

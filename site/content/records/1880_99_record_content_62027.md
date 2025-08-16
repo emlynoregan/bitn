@@ -24,6 +24,7 @@ topics:
 - visit
 - consultation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J. Lenord Van-Wyhe S.Sc. L.A., London of the Society of Science, Letters & Arts, London & of Science of the Art Depot, South Kensington, will see patients etc at the Burra Hotel, March 20 –22, Diseases of the ear, throat, nose, eye, chest, digestive organs, brain and genito-urinary apparatus.

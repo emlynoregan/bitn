@@ -23,6 +23,7 @@ topics:
 - band
 - horse taming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Professor Melville & Wheatley’s Burra Brass Band will give a Horse Taming and Musical Entertainment in the shed at the Kooringa Sale Yards on 29 March 1889.

@@ -28,6 +28,7 @@ topics:
 - robbery
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Resident Magistrate’s Court Kooringa, 13 July, before W. Lane, Police Commissioner.

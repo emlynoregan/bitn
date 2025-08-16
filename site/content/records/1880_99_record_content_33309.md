@@ -20,6 +20,7 @@ topics:
 - music
 - bands
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Quiz’ calls on a recent critic of the town’s bandsmen under the name ‘Baton’ to come forth and reveal himself and take up the task of leading the bands and amending their faults.

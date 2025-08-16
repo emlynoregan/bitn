@@ -20,6 +20,7 @@ topics:
 - history
 - proclamation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Colonist’ of 1836 writes dismissing the idea that the Old Gum Tree at Glenelg was the site of the Proclamation of the Colony.  It took place under a large spreading tree with a good canopy.  The suggestion that it was a misshapen decayed trunk is dismissed as ludicrous.

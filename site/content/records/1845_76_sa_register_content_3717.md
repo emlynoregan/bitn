@@ -31,6 +31,7 @@ topics:
 - marriage
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Court House, last Wednesday was densely packed to hear a charge of assault with intent etc. brought by a young girl of the age of 14, named Grace Dunstan against a man aged about 40 named John Williams.  The evidence is not fit to print, but the charge failed owing to the girl being contradicted in every particular of her evidence by the prisoner’s witnesses.  The Magistrate, in dismissing the case, advised the parties to get married as soon as possible.  This had not happened at the time of our latest intelligence.

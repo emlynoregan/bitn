@@ -20,6 +20,7 @@ topics:
 - animal
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Steps to remove the goats in the town will be taken.  Where owners can be identified they will be prosecuted and all other goats will be killed.  This is a necessary step to preserve the trees now planted around the town.

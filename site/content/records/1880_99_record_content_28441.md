@@ -19,6 +19,7 @@ topics:
 - church
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Catholic Church.  Burra is now part of the new Catholic Diocese of Port Augusta.

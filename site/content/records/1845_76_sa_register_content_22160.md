@@ -21,6 +21,7 @@ topics:
 - weather
 - mail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Northern Mail on Thursday arrived in Kooringa five hours late and was only brought at all with great difficulty due to extraordinary rainfall.  On the way the coach capsized and the passengers, including the Post Master General, were thrown out.  The mails were then forwarded on horseback.  The passengers proceeded in an open cart until it too had an accident and its shafts were broken.

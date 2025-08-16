@@ -19,6 +19,7 @@ topics:
 - local history
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The location was given as Thames St, but what hall was there?  Could they have been using the old Baptist Chapel?  This occupied the space, now a car park, immediately south of the Bowling Club.]

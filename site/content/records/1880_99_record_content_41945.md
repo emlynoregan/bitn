@@ -21,6 +21,7 @@ topics:
 - essay
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Essay on the Trip to the Adelaide Industrial Exhibition on 19 June, by Johanna Ross of Copperhouse School is printed.

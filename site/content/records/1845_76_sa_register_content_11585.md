@@ -21,6 +21,7 @@ topics:
 - wrestling
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Usual Easter Wrestling took place among miners at Kooringa on Saturday and Monday.  The first prize of £10-10-0 went to James White and the second, £6-6-0 to John Paull.  The whole passed off very quietly.

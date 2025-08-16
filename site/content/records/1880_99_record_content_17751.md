@@ -18,6 +18,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor is more sanguine that the public will respond and a company of 60 can be provided for with at least 30 finding their own clothes.

@@ -20,6 +20,7 @@ topics:
 - postal
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett P.O. Tenders have been called for its construction - as usual too late. By the time it is completed the building will be too large with most of the business gone further north on the Terowie railway.

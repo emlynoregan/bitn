@@ -32,6 +32,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the moonlight the streets were busy again with throngs of pedestrians.  Only one accident was reported.  A man named Cundy, who had been ‘a little on the loose’ by some means got thrown from a trap near the Temperance Hotel and landed on his head with both wheels of the trap going over him.  Dr Brummitt saw the incident and attended and the victim is progressing.

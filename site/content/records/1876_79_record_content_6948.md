@@ -20,6 +20,7 @@ topics:
 - construction
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. The girder for the bridge which fell when being loaded in the railway yard has been rebuilt. The delay is to be regretted.

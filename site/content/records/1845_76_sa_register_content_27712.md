@@ -19,6 +19,7 @@ topics:
 - pasture
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Grass is scanty and the late rain has not been sufficient to make it grow faster than the rabbits can eat it.

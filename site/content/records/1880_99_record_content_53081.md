@@ -21,6 +21,7 @@ topics:
 - obituary
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Batchelor died at Commercial St Kooringa last Saturday, aged 66.  She conducted business here for many years.  [Died 3 March: born Elizabeth Franks Miller.]

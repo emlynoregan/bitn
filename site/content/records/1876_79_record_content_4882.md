@@ -19,6 +19,7 @@ topics:
 - event
 - dance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Annual Ball of the Young Men’s Quadrille Assembly was held on Tuesday night and the Batchelor’s Ball was on Wednesday. Both were thoroughly enjoyed with dancing to an early hour.

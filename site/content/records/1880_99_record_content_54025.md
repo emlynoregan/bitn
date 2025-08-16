@@ -21,6 +21,7 @@ topics:
 - court
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Razors in the Air’ is the headline on a somewhat veiled account of rather violent altercations in Paxton Square which the writer thinks might in time appear before the court.  Aided by some alcohol the ‘principal in the 59th Act said “Come out you ____ : I will break every rib in your ____ body; you ____ ; I’ll tear ____  , I’ll smash your ____ ,” and so on.’

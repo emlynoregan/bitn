@@ -19,6 +19,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The True Blues (Kooringa) played Manoora on 24 May at Manoora. Manoora 28 & 40. True Blues 42 & 28 for 5 wickets.

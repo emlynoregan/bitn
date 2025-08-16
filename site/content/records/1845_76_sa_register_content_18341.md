@@ -20,6 +20,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Shepherd’ writes from Truro on 12 March complaining at length about taxing a man with a very low income 10/0 for his two dogs.  These, he says, must be seen as his tools of trade and therefore should be exempt from tax.

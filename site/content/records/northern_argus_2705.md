@@ -19,6 +19,7 @@ topics:
 - business
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Thomas Pickett’s Eatery has opened in Burra’s commercial centre.

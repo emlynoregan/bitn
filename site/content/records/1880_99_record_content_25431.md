@@ -19,6 +19,7 @@ topics:
 - draw
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ‘Umpire was very partial’.  A later paragraph says 19 Allcomers played 12 Colours, ending in a draw.

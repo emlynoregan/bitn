@@ -22,6 +22,7 @@ topics:
 - football
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  At Burra last Monday: Burra Assoc. 14.16 defeated Norwood Alberts 3.3.

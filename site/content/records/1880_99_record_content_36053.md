@@ -20,6 +20,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  Next Sunday there will be choral services to inaugurate the new cabinet organ.

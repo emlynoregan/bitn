@@ -24,6 +24,7 @@ topics:
 - business
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of Ray Jennison and another of the western part of the premises on the north side of Commercial Street said to be taken in 1925.  It is a little odd that no mention was made in this article of the changes to the business reported in the Review Times Record, 68, 1, 31 October 1985, page 2 where it says that the tyre part of the business had recently been sold to Ron & Geraldine Smedley and that the new business would operate as Burra Tyres.]

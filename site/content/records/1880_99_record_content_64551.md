@@ -28,6 +28,7 @@ topics:
 - youth
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army Annual Meeting at the Institute on Wednesday was presided over by Dr Sangster.  Rev. W.H. Rofe (Wesleyan), Rev. J.Y. Simpson (Wesleyan), Ensign Verity, Captain Griffiths and Sister Ward were on the platform.

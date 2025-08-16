@@ -22,6 +22,7 @@ topics:
 - event
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Last Friday a large party of farmers etc. travelled from World’s End to the boundary of Kooringa and back, shooting over 1,270 rabbits in the day.  During the time a young man, F. Schumacher, was accidentally shot, but not seriously.  Lunch was provided by T. McWaters.

@@ -21,6 +21,7 @@ topics:
 - marriage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  Last Tuesday at St Mary’s W. Ker of Burra and Miss Bock of Burra.

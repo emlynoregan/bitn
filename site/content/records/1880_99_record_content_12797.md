@@ -18,6 +18,7 @@ topics:
 - valedictory
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.C. Hill was given a valedictory tea on Monday after 12 months in the circuit.

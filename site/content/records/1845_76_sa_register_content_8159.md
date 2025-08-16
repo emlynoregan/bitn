@@ -24,6 +24,7 @@ topics:
 - personal account
 - tragedy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Hardy writes to the editor:

@@ -22,6 +22,7 @@ topics:
 - military
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lieut. Watt has been promoted to Captain of the company which was formed about two years ago.  He had previously been a Lieutenant in the Volunteer Force.  His efforts were largely responsible for the formation of the company of about 40.  M.J.J. Blott has been promoted to Lieut.  He had been a private in the Volunteer Force.  He was born in Adelaide in 1862, but came to Burra as a young boy and was schooled here.

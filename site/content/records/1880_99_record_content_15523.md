@@ -18,6 +18,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Drawing Room Entertainment at the Institute, 5 December.

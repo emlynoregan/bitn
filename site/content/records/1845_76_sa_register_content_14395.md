@@ -21,6 +21,7 @@ topics:
 - property
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  To blacksmiths, wheelwrights and others.  For sale the lease on the oldest smithy and best business situation in Kooringa.  The house and out buildings stand on two allotments with a frontage of 223 ft to Market Square and will be sold in one or two parts to suit purchasers.

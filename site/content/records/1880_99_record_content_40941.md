@@ -20,6 +20,7 @@ topics:
 - horticulture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show at Terowie on 21 May.  Why none at Burra?

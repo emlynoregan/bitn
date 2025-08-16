@@ -22,6 +22,7 @@ topics:
 - transport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henderson was returning from the Foresters’ Picnic in a trap with two other gentlemen when the whole thing collapsed in Ayers St, throwing all of them out onto the road.  All were badly shaken and the trap smashed.

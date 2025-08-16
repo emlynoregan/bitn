@@ -22,6 +22,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  The continuous rain on Monday evening prevented many from attending the Kooringa Primitive Methodist Church and caused the service of song, ‘Jessica’s First Prayer’, to be cancelled.  Instead a free entertainment was given.  Mr Thomas gave a magic lantern show with his oxy-ether light.

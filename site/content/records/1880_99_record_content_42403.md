@@ -23,6 +23,7 @@ topics:
 - mining
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial: gold has been discovered at Nackara [45 km ENE of Peterborough] and also recently about 3 miles E of Burra.  The Nackara property is owned by an old Burra resident called Lambert.

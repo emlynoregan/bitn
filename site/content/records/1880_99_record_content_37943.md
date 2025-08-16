@@ -20,6 +20,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Port Pirie smelting can continue for a while and at the end of next week the plant will stop to allow Dry Creek Smelting Co. to take over.  They have a three month lease and will process c. 200 tons of ore daily.

@@ -19,6 +19,7 @@ topics:
 - community
 - gift
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 John Roach Jnr., who was about to visit Europe was given a gold locket by the mill workmen as a mark of their esteem.

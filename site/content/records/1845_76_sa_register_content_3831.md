@@ -27,6 +27,7 @@ topics:
 - exploration
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Report of Dr Georg H. Bruhn on

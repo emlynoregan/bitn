@@ -18,6 +18,7 @@ topics:
 - entertainment
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Standard Orchestral Variety Co. presented a first class program to a very poor house in very rough weather.  It is reviewed.

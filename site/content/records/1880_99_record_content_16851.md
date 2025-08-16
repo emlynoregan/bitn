@@ -19,6 +19,7 @@ topics:
 - finance
 - interest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr West should then turn his attention to getting by some means the balance of this sum at a lower rate of interest than the banks charge.

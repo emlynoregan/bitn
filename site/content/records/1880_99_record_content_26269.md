@@ -20,6 +20,7 @@ topics:
 - community
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Exhibition.  The plan for taking the children to the Adelaide Exhibition is progressing.  The 7 October is to be the day.

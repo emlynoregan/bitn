@@ -22,6 +22,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hon. John Colton, Commissioner of Public Works had come on 29 Nov. by special train to look at the problem and seemed to have been immediately waylaid to open the Wesleyan Bazaar. After that he visited the line as far as Mt Bryan and then the Mine. He was given a memorial requesting a ‘truck’ be added to the passenger train on Tuesdays and Thursdays as it presently was on Saturdays to bring fresh fruit and vegetables because current arrangements disadvantaged out of town customers

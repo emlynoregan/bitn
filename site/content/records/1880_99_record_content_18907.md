@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Solomon Williams, an old lady, missed the road in the dark in Queen St on Saturday and fell into the creek.  A passer-by helped her out and she was taken home severely bruised and shaken.

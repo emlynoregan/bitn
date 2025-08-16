@@ -20,6 +20,7 @@ topics:
 - feast
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Joseph’s.  The annual feast in memory of the opening of the church will be celebrated on 19 November.  Rev Father Peters SJ will preach.

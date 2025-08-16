@@ -19,6 +19,7 @@ topics:
 - festival
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  I.O. Rechabites Annual Festival will be on 20 June with luncheon in the Institute at 4 p.m. and a Grand Entertainment in the evening.

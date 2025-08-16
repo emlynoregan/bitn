@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The elections passed very quietly with few taking any interest.

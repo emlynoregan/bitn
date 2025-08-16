@@ -18,6 +18,7 @@ topics:
 - drought
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Season remains dry and a drought threatens, despite a meagre fall of rain on 28 July.

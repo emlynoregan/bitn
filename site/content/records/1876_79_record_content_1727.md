@@ -20,6 +20,7 @@ topics:
 - offence
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offence: James Burns was fined 5/- for playing a bugle on the balcony of the Commercial Hotel at 3 or 4 am on New Year's Day.

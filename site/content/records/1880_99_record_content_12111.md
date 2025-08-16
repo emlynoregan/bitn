@@ -22,6 +22,7 @@ topics:
 - insurance
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the fire at Mr Edward’s shop.  Held at the Commercial Hotel, Tuesday last.  Thomas Edwards gave ⅓ column of evidence in which he said he threw a match, which he had believed extinguished, onto the floor about 9.40 p.m. on 13 January.  He was insured for £2,000 for stock and £800 for fittings.  The stock last August was £1,696 and had increased considerably since to an estimated £2,200.  Damage was estimated at £1,000.  Details outline the location or absence of flammable materials.

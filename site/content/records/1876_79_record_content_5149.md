@@ -18,6 +18,7 @@ topics:
 - religion
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Choir service of song in aid of the hospital raised £9-17-0 less printing and advertising costs for a nett £8-4-0.

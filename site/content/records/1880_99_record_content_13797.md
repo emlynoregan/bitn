@@ -23,6 +23,7 @@ topics:
 - employment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘G’ writes re the Burra Waterworks, calling on the Council to urge the Government to commence work speedily because:

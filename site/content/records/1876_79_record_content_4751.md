@@ -31,6 +31,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The first Institute in Burra was erected on the site of the present building — it was small and incomplete and had a prison-like appearance. To Mr David Wells goes much of the credit for the present arrangements. Other early supporters were Rev. D.J. Ibbetson, Messrs Oldham, A. McCulloch & Challoner and some of the present trustees like Capt. Killicoat, Messrs Gare, Bath and others. The present Institute is one of the best outside Adelaide with a large lecture hail, lodge room, reading room and three other meeting rooms, Corporation Office, etc. The cost of all to be noted as: - 

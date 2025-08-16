@@ -17,6 +17,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The elections for the Legislative Council aroused no interest here and in fact only 54 of more than 400 on the roll bothered to vote.

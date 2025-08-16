@@ -20,6 +20,7 @@ topics:
 - mayoralty
 - civic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mayoralty. A long list of people requisitioned Edward Lipsett to stand for Mayor again in 1879. He agreed.

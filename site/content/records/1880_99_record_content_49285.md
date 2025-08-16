@@ -20,6 +20,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr T. Kitchen was given a presentation at the Burra Institute Lodge Room on behalf of the Lily of the Valley Tent for services rendered, on the eve of his departure.

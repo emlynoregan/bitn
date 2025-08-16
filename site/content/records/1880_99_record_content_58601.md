@@ -18,6 +18,7 @@ topics:
 - employment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government grant this year was £217 compared with £275 the previous year.  The grant has been usefully expended very nearly all in labour at a time when work was scarce.

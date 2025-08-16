@@ -21,6 +21,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Methodist quarterly Circuit Meeting was held last Tuesday at Mr T. Kitchen’s.  Income exceeded expenditure by £12-15-5.  The Sunday school is reported to be in a good state.  The next quarterly meeting will be held at Baldina on 23 September.

@@ -18,6 +18,7 @@ topics:
 - by-laws
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 2nd leader on the revision of Corporation By-Laws. The editor suggests that regulations are needed on the storage of hay within Corporation boundaries and on hawking within the town, because hawkers paying no rates compete with businesses paying high rates.

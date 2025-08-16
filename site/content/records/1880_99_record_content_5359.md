@@ -34,6 +34,7 @@ topics:
 - footpath
 - loan
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Election Meeting, at the Institute last Tuesday.  The attendance was small and the Mayor, P. Lane, took the chair.

@@ -20,6 +20,7 @@ topics:
 - government
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mining.  SA continues to spend next to nothing on Government grants to aid mineral development, while Victoria has spent several thousand pounds.

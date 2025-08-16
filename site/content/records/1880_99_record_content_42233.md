@@ -18,6 +18,7 @@ topics:
 - women's suffrage
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ebenezer Ward has come out in favour of Women’s Suffrage.

@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Railway Station.  There is now £300 on the estimates and £240 on the Loan Bill, which will enable the necessary improvements.

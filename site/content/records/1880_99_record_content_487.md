@@ -19,6 +19,7 @@ topics:
 - agriculture
 - shopkeeping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Credit System; i.e. the habit that farmers have of living on credit with the shopkeepers etc., so that often/generally the whole profit of their crop is consumed before it is reaped.  Although sometimes due to bad seasons, it often starts because a man starts out with too little capital.  The system is a severe disadvantage to shopkeepers too, for whom the risk in a bad season is great.

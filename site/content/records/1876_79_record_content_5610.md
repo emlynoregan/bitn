@@ -23,6 +23,7 @@ topics:
 - rabbits
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Response. Mr Playford said that the money expended on the bridge would be supplemented by the Govt. except for the £25 transfer cost. He pointed out that a Govt. water supply would bring with it a water rate. The Rabbit Act would be enforced now the harvest was over.

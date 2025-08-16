@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Plus 18 other users at		27- 0- 0

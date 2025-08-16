@@ -20,6 +20,7 @@ topics:
 - smelting
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Smelting Works.  After all the enterprise entered into by Mr R. Bartle extracting copper from the slag has proved a failure.  Hardly enough copper has been gleaned to pay the carriage to Pt Adelaide.  We regret this as he entered into the project so confidently.

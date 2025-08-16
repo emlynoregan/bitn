@@ -20,6 +20,7 @@ topics:
 - club
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The 9th race was over 101 miles from Murray Bridge on 19 August in fine weather.  It was won by J.A. Pearce’s birds at 1216 yds per minute.

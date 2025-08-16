@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Emily Hutson, wife of John Hutson, on 18 September, aged 43.  [Registered as Emily Hudson died 19 September 1878.]

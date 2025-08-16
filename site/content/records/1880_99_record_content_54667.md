@@ -18,6 +18,7 @@ topics:
 - show
 - art
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 School Floral & Art Exhibition prize list is printed.

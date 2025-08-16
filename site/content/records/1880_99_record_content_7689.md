@@ -22,6 +22,7 @@ topics:
 - notice
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  1 September 1882, the partnership between F.W. Holder and Francis Pascoe, carrying on business at Terowie as Printers and Newspaper Proprietors, is dissolved by mutual consent.

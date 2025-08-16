@@ -20,6 +20,7 @@ topics:
 - fire
 - property damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Another fire in Kooringa on Monday evening broke out in a house owned by Mr J. Butler in Mt Pleasant.  About 7 p.m. smoke was seen coming from the roof.  The ceiling in one room was destroyed before the fire was extinguished.  The house will require considerable repair before being habitable.  It is believed the fire was started by some bushmen who had been camping there.

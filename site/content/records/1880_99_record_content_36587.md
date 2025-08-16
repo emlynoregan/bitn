@@ -29,6 +29,7 @@ topics:
 - association
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Association, 22nd meeting at Burra School last Saturday.  There were representatives from Baldina, Burra, Clare, Copperhouse, Friedrichswalde (Tarnma), Leighton, Riverton, Mt Bryan, Terowie, Ulooloo and Waterloo.

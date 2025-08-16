@@ -19,6 +19,7 @@ topics:
 - tax
 - auctioneers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy, on 12 September, withdrew his motion for a £10 tax on auctioneers.

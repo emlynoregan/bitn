@@ -22,6 +22,7 @@ topics:
 - welfare
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two destitute children, Walter and Edward Hand, aged 6 & 4 were sent to the Industrial School Magill till aged 16.  Their mother is in Redruth Gaol and their father is an absconded debtor of unknown whereabouts.

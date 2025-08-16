@@ -22,6 +22,7 @@ topics:
 - wine
 - spirits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bath & Pearce	General Storekeepers, Wine & Spirit Merchants, Kooringa

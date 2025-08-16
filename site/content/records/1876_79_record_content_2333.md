@@ -17,6 +17,7 @@ topics:
 - road
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: Column 6 carried a summary of the Eastern Road question.

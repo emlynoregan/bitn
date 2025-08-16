@@ -19,6 +19,7 @@ topics:
 - copper
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copper. A copper lode has been discovered during excavations for the new Anglican church, but the present state of the market makes it unlikely to attract much attention.

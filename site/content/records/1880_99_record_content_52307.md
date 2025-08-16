@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cemetery account	in credit	£16-9-10

@@ -21,6 +21,7 @@ topics:
 - performance
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The divine’ Sarah Bernhardt has just completed a week at the Theatre Royal in Adelaide, during which the crowds paid upwards of £3,000.

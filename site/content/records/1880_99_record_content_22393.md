@@ -28,6 +28,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest at Baldina into the death of Hermann Rooke who fell under the wheels of a wagon on Saturday.

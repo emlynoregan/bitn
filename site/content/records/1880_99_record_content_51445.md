@@ -23,6 +23,7 @@ topics:
 - cricket
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  In the last season the Burra Cricket Club played 8 matches, won 6 and lost 2

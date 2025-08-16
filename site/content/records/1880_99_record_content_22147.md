@@ -20,6 +20,7 @@ topics:
 - finance
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks Committee has settled the disputed account with the Government.  The Government has advanced £300 in subsidy and deducted it from the amount of debt owed to the Hydraulic Engineers Department.

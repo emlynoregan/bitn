@@ -30,6 +30,7 @@ topics:
 - bail
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James Pearce, timber-merchant, stated that Mark Allen had assisted Aldene to carry the box, subsequently seized by the police, into Joe Pickering’s house.

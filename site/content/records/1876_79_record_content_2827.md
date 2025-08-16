@@ -22,6 +22,7 @@ topics:
 - transport
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wool. On Friday 145 shearers arrived by special train to shear at Paratoo [NE of Peterborough] They boarded three of Terry & Co.'s coaches and three of the Northern Stage Co.'s coaches and a wagonette for the onward journey.

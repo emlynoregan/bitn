@@ -22,6 +22,7 @@ topics:
 - rifle club
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Rifle Club has gone into torpor over winter, but now stirring. Targets have been moved to Mr W.H. Banks paddock. Challenges have been received from other clubs. (Port Adelaide and Waterloo)

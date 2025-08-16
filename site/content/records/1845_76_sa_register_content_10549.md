@@ -22,6 +22,7 @@ topics:
 - coal
 - geology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Coal is reported to have been discovered in the Murray Scrub between Burra and the river.

@@ -21,6 +21,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. S. Knight was given a valedictory meeting in Archer St North Adelaide on Tuesday as he was preparing to leave for Kooringa.

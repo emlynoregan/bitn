@@ -20,6 +20,7 @@ topics:
 - accident
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Richard Finch Sen. aged 75 was killed when a train struck his horse and spring cart at the crossing near his home, Tuesday evening, 27 October.

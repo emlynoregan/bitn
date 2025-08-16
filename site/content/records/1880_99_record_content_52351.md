@@ -21,6 +21,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Edith Pearl Rabbich, second daughter of M.T. & Phoebe Rabbich died 21 December aged 4 years 10 months.  [Born 27 February 1889.]

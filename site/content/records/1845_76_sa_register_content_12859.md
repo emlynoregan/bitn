@@ -20,6 +20,7 @@ topics:
 - mining
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The English & Australian Copper Co.’s works are in full operation.  At present nine smelting furnaces are at work and two refineries are kept going, turning out from 70 to 80 tone of fine copper each week.

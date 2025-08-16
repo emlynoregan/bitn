@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth. To the wife of Thomas Young on 19 Jan. at Aberdeen, a son.

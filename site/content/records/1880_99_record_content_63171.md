@@ -19,6 +19,7 @@ topics:
 - education
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inspection of Schools in the district has so far found them to be satisfactory.

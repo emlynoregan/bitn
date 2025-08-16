@@ -25,6 +25,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Births. On 30 September, at the Wesleyan Parsonage, Kooringa, to the wife of Rev. R.W. Campbell, a son.  [Robert Newton Campbell]

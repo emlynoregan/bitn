@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Miss J. McBride intends to open a school for painting and fancy work at Mrs McLagan’s, Aberdeen, Monday & Friday, 3-4 o’clock.

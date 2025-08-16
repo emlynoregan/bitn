@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  The winter brought snow and frosts a-plenty along with much wind and sufficient rain to produce promising crops, especially on the new lands.  The cold had delayed growth.  The roads towards Burra are in a wretched state, ‘but apparently when someone is killed the authorities will send labourers to fill the holes’.

@@ -19,6 +19,7 @@ topics:
 - agriculture
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wild Dogs are likely to be a serious problem in the east this season.  Some legislative remedy is required.

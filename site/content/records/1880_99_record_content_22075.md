@@ -23,6 +23,7 @@ topics:
 - banking
 - promotion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Burton, teller at the National Bank at Kooringa, has been promoted to manager of the Caltowie branch, to be replaced by Mr Moore from North Adelaide.

@@ -17,6 +17,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Program: piano overture, four songs, sword dance, the farce Borrowed Plumes, Interval, piano solo, two songs, stump speech, song, clog dance, the farce The Mischievous Nigger.

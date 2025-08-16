@@ -21,6 +21,7 @@ topics:
 - roads
 - bullocks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  A country carrier reports after his first load of ore from Burra that the natural road of over 90 miles is well adapted for heavy traffic.  The short sandy patches, which would be unfavourable for horses, offer no problems for bullocks.  He was surprised at how quickly he and others were loaded and also at the vastness of the deposits apparent to the eye. He earned £12 in twelve days.

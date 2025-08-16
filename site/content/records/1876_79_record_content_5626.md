@@ -18,6 +18,7 @@ topics:
 - local government
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 2nd Leader on the Health Rate. The editor is glad to see that a health rate has been adopted, but why then call a ratepayers' meeting.

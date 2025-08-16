@@ -20,6 +20,7 @@ topics:
 - public meetings
 - social conflict
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the larrikins and the Salvation Army.  He condemns the larrikin behaviour at the Barracks, but fears that sometimes, and all too often recently at the public meetings, the Salvationists are guilty of provocation: ‘the antagonism of the crowd is distinctly challenged and opposition is courted and invited.’

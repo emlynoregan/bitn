@@ -20,6 +20,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  The annual meeting was held in the Institute last Thursday.  Captain Holder presented the report showing that the strength had dropped to 42 due to removals from Burra.  The balance in cash was £1-14-10 and £75 had been earned as a capitation grant towards new uniforms.  As the new uniforms would cost £126 the current year’s subscriptions would be 21/- of which £1 would be returned when the member became ‘an efficient’, so earning the capitation grant.

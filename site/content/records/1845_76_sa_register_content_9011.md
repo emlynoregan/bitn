@@ -27,6 +27,7 @@ topics:
 - meeting
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The AGM of the SA Mining Association will be held at the Company’s office in Rundle Street on 18 April at 11 a.m. for the purpose of receiving the Directors’ and the Secretary’s reports and to elect six Directors in place of Captain Allen, disqualified and Messrs Kingston, Waterhouse, Beck, Hall and Blyth who retire.

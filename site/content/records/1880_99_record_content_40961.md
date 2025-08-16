@@ -21,6 +21,7 @@ topics:
 - industry
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local Industry.  We have seen a very nice wagonette made by Mr J. Perry of the Aberdeen Carriage Factory, for Mr Prior of World’s End.  It is worth a look for those interested in similar vehicles.  [A description follows.]

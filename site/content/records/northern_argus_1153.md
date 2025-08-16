@@ -22,6 +22,7 @@ topics:
 - fire
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Gerry Baulderstone’s new Burra Radio & Electrical Store opened in the premises rebuilt after Jennison’s fire.

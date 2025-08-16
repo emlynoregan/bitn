@@ -20,6 +20,7 @@ topics:
 - road board
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the removal of the Government subsidy to councils and road boards.  The editor opposed subsidies to the latter in particular as the income to Government was drawn mostly from the poor while the rural road boards benefited mostly the landowning class.  Transferring roads to local bodies will transfer the cost to those who benefit most.  He does however, suggest that the withdrawal should be gradual and that newly formed districts should continue to be subsidised - say for five years, after which it might decrease.

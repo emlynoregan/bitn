@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. The Bon Accord level crossing is almost completed as is the bridge over the Burra Creek.

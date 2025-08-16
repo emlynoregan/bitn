@@ -21,6 +21,7 @@ topics:
 - agriculture
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Wildoto Boiling Down Works near Kooringa are in active operation and the undersigned Thomas Gunter, lessee and manager, will take sheep in any quantity.  Inspection invited.

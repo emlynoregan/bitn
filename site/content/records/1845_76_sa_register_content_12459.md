@@ -24,6 +24,7 @@ topics:
 - meeting
 - dissolution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mining Co.  A meeting of shareholders is called for 26 July at the office of Messrs Bagot & Labatt, Clarks’ Building, Adelaide, for the purpose of deciding whether the Princess Royal Mining Co. shall be dissolved under the provisions of the Act of 1854 for that purpose.

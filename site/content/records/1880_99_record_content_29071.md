@@ -19,6 +19,7 @@ topics:
 - library
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee accepted the offer of a free copy of The Record for use in the reading room.

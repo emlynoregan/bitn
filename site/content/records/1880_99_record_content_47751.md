@@ -27,6 +27,7 @@ topics:
 - opening
 - procession
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Bridge Opening.  The members for the district, F.W. Holder and G.H. Lake, will attend.  A banquet will follow at Dunn’s Bon Accord Hotel.

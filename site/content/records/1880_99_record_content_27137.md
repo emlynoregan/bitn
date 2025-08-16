@@ -17,6 +17,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shops will close Monday 26 Dec. to Wed. 28 Dec. and on Monday 2 Jan. 1888.

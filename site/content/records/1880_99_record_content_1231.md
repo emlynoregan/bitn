@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Henry Pinch who is seeking to defend himself against an accusation by the surveyor Mr Duffy at the Midland Road Board on 15 June, that he had been guilty of ‘stating a deliberate falsehood’. Pinch strongly denies that he did so.  He says he is prepared to substantiate anything he said in reference to the said road and affirms he has no interest in, or connection with, the contractors, nor is he motivated by any animosity.

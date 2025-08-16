@@ -22,6 +22,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Margaret Lyons, an old lady residing at Redruth, died suddenly in a neighbour’s house on Saturday.  She was visiting Mrs Allan Morrison and the latter went to attend to one of her children in bed and while there she fell asleep.  When she awoke in the morning she found her visitor had died.  Dr Brummitt certified the cause as heart disease.  [Died 4 July aged 62.]

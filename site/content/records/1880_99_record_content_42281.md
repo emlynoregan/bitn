@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - work_report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved to seek a more detailed account for the work done at the Waterworks Well.

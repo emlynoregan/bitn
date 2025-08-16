@@ -20,6 +20,7 @@ topics:
 - prospecting
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Gawler Times correspondent reports things now very quiet in the filed.  Not more than 30 persons are now present.  There is a Government party prospecting in the neighbourhood.

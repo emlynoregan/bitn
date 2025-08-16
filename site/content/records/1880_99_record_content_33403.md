@@ -21,6 +21,7 @@ topics:
 - rumour
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from H.R. Harley denying gossip that he was influenced by Mr Davey or one of his band when he wrote to suggest it would be better if the town’s two bands united.

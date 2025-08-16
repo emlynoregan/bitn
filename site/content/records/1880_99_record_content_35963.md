@@ -20,6 +20,7 @@ topics:
 - opposition
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Opposition policy as outlined by Hon. T. Playford.  Most of his speech was taken up with criticism of the past acts of the Government.  He had little to say about his own policies.  The editor then quotes the Sydney Star in support of the Government.

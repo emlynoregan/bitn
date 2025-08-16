@@ -26,6 +26,7 @@ topics:
 - sale of land
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Advt.  Burra Burra DC Sale of Land for Non Payment of Rates

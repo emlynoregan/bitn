@@ -19,6 +19,7 @@ topics:
 - lease
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Another mineral lease has been applied for in the vicinity of Bundaleer.

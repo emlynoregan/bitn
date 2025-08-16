@@ -27,6 +27,7 @@ topics:
 - infrastructure
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: Deputation to the Commissioner of Public works seeking again that the road to Baldina go over Breakneck hill as at present and not down Diprose Creek as the Board wanted. Deputation suggested a compromise in which would use the district road up close to the junction of Rocky Creek with Diprose Creek and then across Nankivell's Gully to the `saddle' (which would leave the hill out) and on to the district road again at the stock reserve.

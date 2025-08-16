@@ -20,6 +20,7 @@ topics:
 - education
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss C.H. Spence will give a lecture at the Burra Institute on 25 July on Things I have seen and people I have met in recent travel around the world.  After the lecture she will illustrate the system of ‘Effective Voting’.  [Proportional Representation.]

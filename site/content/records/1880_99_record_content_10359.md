@@ -20,6 +20,7 @@ topics:
 - music
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Christy Minstrel Concert on Monday was not a success either musically or financially.  The Burra Brass Band played selections outside previous to the concert.

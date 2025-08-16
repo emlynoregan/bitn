@@ -19,6 +19,7 @@ topics:
 - tournament
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Last year a tournament was started which is continuing yet.  Scott is believed to be in the lead.

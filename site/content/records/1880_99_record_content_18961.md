@@ -20,6 +20,7 @@ topics:
 - military
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF will be inspected by General Owen at 2 p.m. Saturday 12 September - before which date the uniforms will have come.

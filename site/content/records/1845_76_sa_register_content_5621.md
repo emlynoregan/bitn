@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 31 December 1850.  Up early to travel to Adelaide, arriving at 1.30 p.m.

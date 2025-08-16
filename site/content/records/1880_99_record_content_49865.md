@@ -20,6 +20,7 @@ topics:
 - employment
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.J. Jacka, late brewer at the Unicorn Brewery was presented with an address by those employed there on Friday afternoon.  He is leaving after 5½ years at the brewery.

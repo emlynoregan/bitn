@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Lodge Room has been added to the Institute

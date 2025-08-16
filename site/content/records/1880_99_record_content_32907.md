@@ -19,6 +19,7 @@ topics:
 - education
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from John I. Sangster on Temperance Reform.  He advocates the power of education in the long term.  While he was in favour of abstinence he realised its impracticability and so was a supporter of measures aimed at true temperance.  A more liberal view than prohibition he felt was much more likely to be effective.

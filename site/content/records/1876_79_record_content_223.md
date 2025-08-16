@@ -21,6 +21,7 @@ topics:
 - accident
 - property_damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fire.  One of Mr Lipsett’s children overturned a candle and set fire to bed curtains and other bedroom furnishings.  Mr Lipsett came in just in the nick of time and was able to extinguish the flames and so save the house.  Damage is estimated at about £15.

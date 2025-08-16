@@ -47,6 +47,7 @@ topics:
 - memorial
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway as Chairman of the Waterworks Committee felt it was his place to move the adoption of the memorial, but first corrected a mistake in his speech in Council.  The interest they were being charged was calculated correctly as they were being charged 5% on the cost of the services.

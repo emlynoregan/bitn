@@ -20,6 +20,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Young Men’s Union will hold a Grand Christy Minstrel and Variety Entertainment on Friday 20 August.  6d & 3d.

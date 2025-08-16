@@ -46,6 +46,7 @@ topics:
 - mayoralty
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ratepayers’ Meeting 15 Nov. at the Institute. Only about 30 people attended. The Mayor 

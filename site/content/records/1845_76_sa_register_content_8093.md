@@ -27,6 +27,7 @@ topics:
 - Aboriginal
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Clare Local Court, 16 April

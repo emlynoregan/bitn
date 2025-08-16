@@ -20,6 +20,7 @@ topics:
 - politics
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Parl. Club considered NT immigration - plan to bring in up to 40,000 Mennonites. The Land Bill - especially the issue of the size of sections.

@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Association - talks so far on Hydrogen Gas - its properties and uses in the great works of nature and Telegraphy: its history and progress. 20 members.

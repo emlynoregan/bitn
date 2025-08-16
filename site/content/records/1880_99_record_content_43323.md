@@ -18,6 +18,7 @@ topics:
 - transport
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Ellis	leaving a vehicle with unchained wheel	7/6

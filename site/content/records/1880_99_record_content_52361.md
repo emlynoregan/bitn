@@ -24,6 +24,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  A meeting to consider forming the above was held at the Record office on 21 December.  E.W. Crewes presided.  J.A. Pearce was elected Secretary with J. Drew as Treasurer and P.L. Killicoat as President.  The first race is scheduled for 7 April 1894.

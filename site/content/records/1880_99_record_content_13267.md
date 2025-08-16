@@ -20,6 +20,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School Entertainment on Wednesday evening drew a large audience to the Institute and school funds benefited by c. £15.

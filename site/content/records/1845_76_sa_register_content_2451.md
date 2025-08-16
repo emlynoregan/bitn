@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry Ayers, Secretary.  7 September 1848.

@@ -18,6 +18,7 @@ topics:
 - valuation
 - municipalities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This discusses the difficulty of valuing mines within municipalities.

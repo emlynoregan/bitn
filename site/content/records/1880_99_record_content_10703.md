@@ -22,6 +22,7 @@ topics:
 - local dispute
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Sojourner’ writes defending the reputation of the Burra Hotel after recent suggestions in the paper’s columns that its publican enjoyed a cosy arrangement with the Police Inspector at Clare.

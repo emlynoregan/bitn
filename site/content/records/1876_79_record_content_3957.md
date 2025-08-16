@@ -20,6 +20,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. accepted J. Davey's tender for town scavenger for £1Q a month.

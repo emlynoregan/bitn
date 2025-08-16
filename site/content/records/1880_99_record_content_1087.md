@@ -21,6 +21,7 @@ topics:
 - partnership
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Notice of the dissolution of the partnership of Josiah Statton and William Henderson, Blacksmiths & Wheelwrights, trading as Statton & Henderson - 31 May 1880.

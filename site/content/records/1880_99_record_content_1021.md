@@ -20,6 +20,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Theatre Royal Comedy Co. played on Wednesday, performing H. Byron’s ‘Our Boys’ and on the last night they presented Robertson’s ‘Caste’.  They were well attended and much appreciated.

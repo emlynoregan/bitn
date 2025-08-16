@@ -31,6 +31,7 @@ topics:
 - appointment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The 1st Annual Meeting of SAMA was held at the Auction Mart Tavern in Hindley Street, Adelaide, 15 April: Charles Beck, Chairman.

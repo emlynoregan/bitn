@@ -18,6 +18,7 @@ topics:
 - environment
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Brady Creek empties onto it and there is a lagoon which last winter extended to 200 acres and attracted ducks.

@@ -23,6 +23,7 @@ topics:
 - health
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr J.B. Taylor, for some months in charge of the Hallett School was attacked with paralysis a few days ago and died on Monday in the Burra hospital.  He was connected with the Hallett Institute and took a prominent part in town and district affairs.  He leaves a widow and family.

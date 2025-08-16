@@ -20,6 +20,7 @@ topics:
 - crime
 - sentence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Benjamin & Susan Clegg are to serve two years for incest.

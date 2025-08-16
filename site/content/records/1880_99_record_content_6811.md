@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - street lighting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kingston Tce footbridge is to be shifted & a lamp is to be erected in Market Squ.

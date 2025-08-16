@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary of Mrs Coglin, wife of Mr W.F. Coglin, the Crown Lands Ranger.

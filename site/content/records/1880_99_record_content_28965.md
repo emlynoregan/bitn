@@ -20,6 +20,7 @@ topics:
 - religion
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Redruth Band of Hope held its quarterly entertainment with the Rev. W.H. Hodge presiding.  It was very successful.

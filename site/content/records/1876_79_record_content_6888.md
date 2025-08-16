@@ -20,6 +20,7 @@ topics:
 - injury
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Quarry. [?] There was an accident last Tuesday in which Mr Jos. Williams was buried in a sudden fall of rocks and earth. He was extricated with a broken leg and several broken ribs and remains in a precarious state.

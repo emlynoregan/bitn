@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 His complaint should have been ignored.

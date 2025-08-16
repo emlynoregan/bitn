@@ -33,6 +33,7 @@ topics:
 - committee
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Proposed Copper Smelting Company (From the South Australian 28 July)

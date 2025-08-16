@@ -19,6 +19,7 @@ topics:
 - transport
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAR.  The Broken Hill express on Monday was over 6½ hours late when a ballast train dropped a number of truckloads of ballast at once.  This blocked the line and broke the plough attached to the following brake-van.

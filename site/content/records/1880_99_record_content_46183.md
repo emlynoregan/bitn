@@ -20,6 +20,7 @@ topics:
 - pest control
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council resolved on 23 July to ask the Government to proclaim the District a Sparrow District and invited the Town Council to join in the movement.

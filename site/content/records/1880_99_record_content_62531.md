@@ -20,6 +20,7 @@ topics:
 - livestock
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  Falls this week totalled 1.55”, but many cattle and horses have died around the district, though stock is now beginning to improve.

@@ -20,6 +20,7 @@ topics:
 - theatre
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Ideal Comedy and Specialty Co. at the Burra Institute, Thursday 30 June.

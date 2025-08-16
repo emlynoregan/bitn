@@ -19,6 +19,7 @@ topics:
 - policy
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Brands Act of 1878 which required among other things the registration of brands and prohibited unregistered brands with a penalty of at least £50.

@@ -21,6 +21,7 @@ topics:
 - water
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. G.E. Rowe supported both schemes [Baldina & Ulooloo] and hoped that the present troubles would not be socially divisive, setting the poor against the rich.

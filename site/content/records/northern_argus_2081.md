@@ -21,6 +21,7 @@ topics:
 - speech day
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Chris McCabe, former BCS principal, will be the guest speaker at the BCS Speech Day on Friday.

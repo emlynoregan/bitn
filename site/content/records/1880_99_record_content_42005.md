@@ -19,6 +19,7 @@ topics:
 - finance
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The secretary of the Municipal Assoc. advised extreme caution in proceeding to sell vacant allotments, considering it a risky thing to do.

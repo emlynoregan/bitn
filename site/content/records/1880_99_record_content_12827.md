@@ -19,6 +19,7 @@ topics:
 - exports
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Growth of Indian Wheat Production.

@@ -20,6 +20,7 @@ topics:
 - development
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide property values are beginning to rise again.  A block opposite Parliament House that went begging a few months ago at £4,000 was sold this week for £13,000 and a large coffee palace will be built on it by Victorian capital.

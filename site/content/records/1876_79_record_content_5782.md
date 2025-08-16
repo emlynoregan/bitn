@@ -19,6 +19,7 @@ topics:
 - council
 - thanks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Thanks were tended F.W. Holder as the late Town Clerk.

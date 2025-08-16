@@ -21,6 +21,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  A young boy called Lacy was brought to Burra Hospital on Wednesday morning a couple of weeks after being badly burnt when a group of boys were playing with phosphorus.

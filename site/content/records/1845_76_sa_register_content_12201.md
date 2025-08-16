@@ -19,6 +19,7 @@ topics:
 - fundraising
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Institute saw a preliminary gathering of people on Saturday evening to arrange a public meeting on Tuesday to consider ways of assisting those suffering the effects of the recent bush fires.

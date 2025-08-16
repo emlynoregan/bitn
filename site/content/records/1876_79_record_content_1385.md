@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's Mutual Improvement Association formed. (Wesleyan Schoolroom, Kooringa) Aim to have lectures and discussions on social, scientific and other questions. [Later referred to as Burra Young Men's United Association]

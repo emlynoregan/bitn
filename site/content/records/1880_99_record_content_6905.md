@@ -18,6 +18,7 @@ topics:
 - events
 - clarification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Which appear from the article to have been somewhere in the Police Paddock.]

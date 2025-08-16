@@ -21,6 +21,7 @@ topics:
 - wool
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Farrell’s Flat is growing.  There have been additions to Mr J.H. Bleechmore’s hotel.  Large quantities of wool are arriving at the station daily and the coming wheat harvest will sustain activity there.  Several new buildings have been erected in the last few weeks.

@@ -34,6 +34,7 @@ topics:
 - fine
 - publican
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 He was also charged with assaulting PC Rogers in the execution of his duties.  PC Rogers said the prisoner had thrown a glass at him at the Burra Hotel on Saturday night and only his police helmet had protected him from injury.  On his way to the station Porter had said he would waylay Rogers and serve him as he had served Sergeant Rose; he would fetch him down ere he was aware, and if he had a sharp axe would cleave his way through the lot of them.  For this offence he was fined £5 with 21/- costs.  He was further bound over to keep the peace towards PC Rogers and all others for the term of six months and to be imprisoned until such security was given.  Porter advised His Worship to make out the warrant as soon as possible, for he did not intend to pay the fines.

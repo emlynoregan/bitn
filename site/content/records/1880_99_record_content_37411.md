@@ -23,6 +23,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Carter was charged with stealing a horse valued at £15, saddle, bridle and crupper, valued at £5, the property of T. Halls of Aberdeen.  Committed for trial at Adelaide.

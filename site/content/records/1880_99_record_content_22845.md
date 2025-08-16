@@ -24,6 +24,7 @@ topics:
 - hypocrisy
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy attacking the hypocrisy of Cr Ridgway over the matter of the Council inspector.  He claimed Ridgway was quite willing to take on the extra role of inspector when the work being done was by way of improvements around his own property at Aberdeen, but not when it might benefit others.

@@ -26,6 +26,7 @@ topics:
 - rain
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  Since Sunday 0.88” has fallen in the best rain for the season and the Burra Creek has begun to run.

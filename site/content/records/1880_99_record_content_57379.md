@@ -21,6 +21,7 @@ topics:
 - livestock
 - poison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poisonous Weed.  At a recent sale Mr H.S. Dunn bought several hundred sheep, but lost c. 170 on the way to Wollongabba to the east of Burra.  At first phosphorised pollard was suspected, but it has now transpired that it was the poisonous weed frequently mentioned.

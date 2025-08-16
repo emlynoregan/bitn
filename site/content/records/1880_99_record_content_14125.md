@@ -21,6 +21,7 @@ topics:
 - land
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hardy [Presumably W.H.] writes calling on the Burra Vigilance Committee to espouse the cause of Land Nationalisation.  He would also like to see circulated a petition in favour of the totalizator along with one against it.

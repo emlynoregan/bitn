@@ -22,6 +22,7 @@ topics:
 - obituary
 - farm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  F.G. Schultz, aged 69, a farmer for over 20 years near Hallett, has died.  [Apparently refers to the person registered as Geo Fred Scholz who died 13 February 1890 aged 68.]

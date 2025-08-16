@@ -19,6 +19,7 @@ topics:
 - tourism
 - town improvements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Tourist Office is looking very spruce with its new paint.  It makes the Rotunda look a little sad.

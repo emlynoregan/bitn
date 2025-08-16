@@ -28,6 +28,7 @@ topics:
 - manhunt
 - murder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Floods.  ‘The floods have done serious damage in the neighbourhood of Kooringa.  Seventy-five of the habitable grottoes in and about the banks of the Burra Burra Creek were destroyed, and the tenants unceremoniously expelled, but happily without loss of life.  Thirty families were temporarily accommodated in the large building known as “Robin’s Stables”.’

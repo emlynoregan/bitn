@@ -21,6 +21,7 @@ topics:
 - industry
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder has reported that he has seen the Commissioner of Public Works and has as yet received no reply, but does not think the reopening of the Ballast Quarry is likely at present.

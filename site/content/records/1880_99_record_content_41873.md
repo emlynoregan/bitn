@@ -19,6 +19,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lily of the Valley Tent, IOR has 133 members and a satisfactory credit balance.

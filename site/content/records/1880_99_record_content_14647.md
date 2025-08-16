@@ -20,6 +20,7 @@ topics:
 - corporate
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With respect to the Aberdeen Reserve all that could be discovered of past actions was that the question had been referred to the London directors of the YPMA with no response.  Nothing was resolved.

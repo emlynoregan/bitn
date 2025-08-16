@@ -20,6 +20,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The proposed Military Entertainment for this evening has been postponed due to the absence from town of some of the vocalists.  ‘Never before has there been such a dearth of vocal talent in Burra as now.’

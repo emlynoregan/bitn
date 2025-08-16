@@ -22,6 +22,7 @@ topics:
 - shaft
 - assets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 4 February 1860, page 3

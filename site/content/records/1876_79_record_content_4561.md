@@ -20,6 +20,7 @@ topics:
 - entertainment
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Rev. Charles Clark at the Inst. for 1 night only. The great lecturer and elocutionist will deliver his famous lecture entertainment ‘Charles Dickens’, introducing the recitals: - ‘The Friendly Waiter’ 

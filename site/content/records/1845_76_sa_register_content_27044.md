@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  On 28 October 1873 W.[William]H. Challoner, late accountant of the Burra Mines, died at his brother’s resident at Newcastle-upon-Tyne, England aged 57.

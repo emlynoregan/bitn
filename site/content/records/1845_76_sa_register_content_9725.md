@@ -26,6 +26,7 @@ topics:
 - court
 - interpreter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Local Court, Kooringa 3 April, before J.W. Macdonald, Stipendiary Magistrate.

@@ -20,6 +20,7 @@ topics:
 - press
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Press representatives for the Register, Advertiser and Burra Record responded.

@@ -23,6 +23,7 @@ topics:
 - museum
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Last Friday Captain Gregor, a mining agent, found some fossil bones in a small creek about half a mile from the Burra Cemetery.  He recovered part of a lower jaw with four double teeth.  The teeth measure 2½ inches across the top surface in either direction.  From the insertion of the teeth to the bottom of the jaw was five inches.  A smaller piece of jaw without teeth and some other bones were also recovered.  I saw the bones at Captain Gregor’s cottage and went to the discovery site.  They came from a clay bed six feet under the bank.  It is highly desirable that the bones be brought to the attention of the Adelaide Museum and a skilled person be sent to extract further specimens.

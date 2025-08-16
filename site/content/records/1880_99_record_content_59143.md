@@ -20,6 +20,7 @@ topics:
 - cricket
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 18 December: St Mary’s 231, Burra 2 for 56.  [Though the score card for St Mary’s would seem to add up to 221.]

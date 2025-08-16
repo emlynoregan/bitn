@@ -19,6 +19,7 @@ topics:
 - alarm
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Henderson’s Whistle sounded at 11.30 p.m. on Wednesday night and though it was a cold and windy night several plucky residents turned out to the supposed danger call, but the only fire was in the furnace, being heated to generate steam for the following day’s blacksmith work.

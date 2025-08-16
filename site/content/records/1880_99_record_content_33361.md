@@ -18,6 +18,7 @@ topics:
 - postal service
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Post Office.  During the two years ending on 31 Dec. 1888, 43,566 letters and 2345 packets and 7707 newspapers passed through the Redruth P.O.

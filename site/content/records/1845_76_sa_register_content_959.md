@@ -19,6 +19,7 @@ topics:
 - finance
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  A call is made on shares in the Princess Royal Mining Company of £5 per share, payable by 2 December.

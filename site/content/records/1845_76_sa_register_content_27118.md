@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Hutson is building a wheelwright’s shop and other improvements are being made in Commercial Street.

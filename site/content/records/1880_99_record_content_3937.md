@@ -22,6 +22,7 @@ topics:
 - branding
 - sheep
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alexander McCulloch was fined the lowest possible amount for placing the wrong brand on 20 sheep at Yongala.  He pleaded an honest mistake.  10/- per sheep + 20/- costs (£11)

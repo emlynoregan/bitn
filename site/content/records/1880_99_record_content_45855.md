@@ -20,6 +20,7 @@ topics:
 - safety
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the Railway Commissioners again re the unsafe state of the Bon Accord railway crossing.

@@ -22,6 +22,7 @@ topics:
 - youth
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Rosie Lloyd (hurdler) attended the ANZ Youth Sports athletic clinic in Melbourne over the weekend of 23-25 May with eight other young SA athletes.  They have a chance of winning a $10,000 scholarship.

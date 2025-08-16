@@ -22,6 +22,7 @@ topics:
 - death
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Margaret Fitzgerald born 10 April 1863, Redruth: died 27 June 1866, Redruth.]

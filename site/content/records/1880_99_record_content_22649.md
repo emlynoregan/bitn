@@ -18,6 +18,7 @@ topics:
 - behaviour
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Letter complains about the larrikins at the back of the Institute Hall.

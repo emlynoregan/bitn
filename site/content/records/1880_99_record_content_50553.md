@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  W. Blott Sen. died suddenly at Baldina on Saturday morning.  He was an old Burra resident and leaves a wife and several adult children.  [William Blott died 22 July 1893 aged 69.]

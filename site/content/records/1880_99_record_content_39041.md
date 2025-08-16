@@ -19,6 +19,7 @@ topics:
 - local politics
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Linkson: young.  A great advocate of temperance.  A great debater yet courteous to his opponents.  Universally popular, very active and keen to pursue abuse of ratepayers’ money.  Like young port wine, fiery with little body, yet in a few years may prove mellow and palatable.

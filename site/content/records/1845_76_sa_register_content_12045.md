@@ -18,6 +18,7 @@ topics:
 - entertainment
 - horse-taming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We have had the Rarey of the North among us this week, giving lessons in horse-taming.  Several people were instructed by Mr Watson, who had operated on a colt belonging to a person in the neighbourhood.

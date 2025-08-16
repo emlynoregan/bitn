@@ -17,6 +17,7 @@ topics:
 - sport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Coursing is the favourite sport at present, with the next meeting due in May.

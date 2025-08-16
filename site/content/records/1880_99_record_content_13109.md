@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The Council has signed the agreement and sent it to the Government, urging the use of local labour.  The Department is preparing plans to have the work finished for next summer.

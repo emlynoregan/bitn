@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Exhibition.  A railway siding is to be laid from the Adelaide Station to the rear of the Exhibition Buildings.

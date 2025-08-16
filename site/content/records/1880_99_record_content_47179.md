@@ -21,6 +21,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. H.W. Horwill will lecture at the Bible Christian Church on 27 October.

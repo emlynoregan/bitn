@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Our Own, (the paper for the Burra School) has been received from Mr Wittber.  It recalls the laying of the school’s foundation stone and gives hints on homework etc. of value to the children.

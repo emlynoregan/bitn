@@ -20,6 +20,7 @@ topics:
 - meeting
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Sheet Metal Manufacturers’ Association of SA held its AGM in Burra.  About 30 attended, staying in Paxton Square cottages.

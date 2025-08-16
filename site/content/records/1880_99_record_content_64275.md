@@ -19,6 +19,7 @@ topics:
 - federation
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.B. Wilkinson of Kooringa writes 1½ columns on federation, but it is a windy exercise, full of generalities and references, but not well argued on specific points and adding little to the core of the debate.  He was a strong advocate for a ‘Yes’ vote.

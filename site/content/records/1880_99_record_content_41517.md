@@ -19,6 +19,7 @@ topics:
 - events
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Barnardo’s Musical Boys will play selections on a peal of 74 handbells, bugles, Highland bagpipes and other instruments with pictorial illustrations of the home and rescued children.  2/- & 1/-.

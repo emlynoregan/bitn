@@ -21,6 +21,7 @@ topics:
 - music
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute, 22 June, an entertainment of songs, readings, duets, recitations and selections by the band.  In aid of the Burra Brass Band.

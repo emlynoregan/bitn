@@ -20,6 +20,7 @@ topics:
 - business
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr T.F. Robertson has started a parcel express between Kooringa and Redruth.  The express leaves Kooringa for the railway station at 11 and 2.30 and parcels between the north and south of the town are delivered at intervals.

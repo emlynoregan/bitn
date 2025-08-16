@@ -34,6 +34,7 @@ topics:
 - development
 - land use
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Robert Palmer writes from Saddleworth 20 November on Farming in the Northern Areas derived from a trip northwards from Clare.

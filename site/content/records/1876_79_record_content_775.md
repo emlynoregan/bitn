@@ -20,6 +20,7 @@ topics:
 - hotel
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Notice.  Burra Hotel.  All the stock, furniture, billiards and bagatelle tables, horses, traps and harness will be sold by public auction in early September.

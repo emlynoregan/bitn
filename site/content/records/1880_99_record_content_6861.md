@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  At Redruth, on 24 April, John Harry, aged 73.  Husband of Ruth Harry.  Late of Llanelly, Carmarthenshire, South Wales.

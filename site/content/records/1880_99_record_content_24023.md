@@ -19,6 +19,7 @@ topics:
 - appointments
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  Applications are called for the Health Inspector at £30 p.a.

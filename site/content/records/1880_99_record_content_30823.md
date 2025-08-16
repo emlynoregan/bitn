@@ -18,6 +18,7 @@ topics:
 - meeting
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Meeting called for tomorrow night re the Mayoralty and the Waterworks question.

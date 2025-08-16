@@ -22,6 +22,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church Anniversary, 4 & 7 May.  Rev. Rowe and Rev. Tresise preached.  The tea meeting was well attended.  The trustees have decreased the debt and paid £40 for a piece of land and effected other improvements.

@@ -34,6 +34,7 @@ topics:
 - water supply
 - geology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  The Government Geologist gives a lengthy report on the diggings.

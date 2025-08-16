@@ -23,6 +23,7 @@ topics:
 - unemployment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. writes to urge the Midland Road Board to hasten expenditure on the Eastern Road in the light of the local unemployment following mine closure.

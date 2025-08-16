@@ -20,6 +20,7 @@ topics:
 - advertisement
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Three-roomed stone cottage Allotment 18 Millerton is for sale as Mr H. Simmons has removed to Farina.

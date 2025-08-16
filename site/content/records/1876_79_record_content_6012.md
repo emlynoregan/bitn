@@ -22,6 +22,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. A match will be played tomorrow at Aberdeen near Roach's Mill, between teams from Burra & Kapunda.

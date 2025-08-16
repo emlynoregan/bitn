@@ -22,6 +22,7 @@ topics:
 - bazaar
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church Bazaar at the Institute Wednesday 25 February, to be opened by the Mayor of Adelaide.  Continues Thursday and Friday.

@@ -19,6 +19,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  On Saturday Ted Wall’s mail buggy horses bolted down Flagstaff Hill, but were halted with some little trouble.  They broke out again at the north end of the town, smashing the buggy and leaving Ted on the ground.

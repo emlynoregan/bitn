@@ -26,6 +26,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 I understand tenders have actually been called for repairs to our street, though the specifications suggest the job will be only half done.  The Board intends to start the work at the Burra Hotel and go as far as just beyond the creek opposite the Catholic Chapel, where it will stop, short of some 400 yards of the worst road in the whole township.  It commences again at Parks’ store, where the natural road is firm and dry, and then goes over the side of the hill past the Telegraph Office to Redruth.  It is a pity the Government persist in bungling such matters.

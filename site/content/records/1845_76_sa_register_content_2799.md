@@ -25,6 +25,7 @@ topics:
 - wages
 - bullocks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  William Chace of Little Para takes out an advertisement reflecting the demands of teamsters taking copper from Burra Burra to Adelaide.

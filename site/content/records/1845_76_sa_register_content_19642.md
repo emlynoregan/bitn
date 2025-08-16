@@ -20,6 +20,7 @@ topics:
 - charity
 - welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Owers, we now learn has also lost his eyesight as well as both hands after the recent explosion in a well.  He has a wife and three children, the youngest only three months old.  He is utterly destitute, having been out of work for only a month after a long period of unemployment.  Rev. Lionel W. Stanton is interesting himself in the case and though Government rations have been granted, he is seeking to get together such money as would ease his days beyond the necessities of the Government rations.

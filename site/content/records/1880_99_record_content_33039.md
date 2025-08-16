@@ -23,6 +23,7 @@ topics:
 - banking
 - transfer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.R. McCleery, formerly with the Bank of Australasia in Burra, has been managing the branch at Walhalla in Victoria and has now been transferred to one in NZ.

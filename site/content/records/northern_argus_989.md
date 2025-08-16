@@ -24,6 +24,7 @@ topics:
 - finances
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Tourist Officer Jenny O’Connor reported recently to Council

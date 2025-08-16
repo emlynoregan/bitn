@@ -19,6 +19,7 @@ topics:
 - community
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  A letter from a patient complains that there are no visits there from preachers or Samaritans: even the Salvos didn’t go and play there!

@@ -20,6 +20,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute Tonight, 4 July.  Cameron & Jones New & Novel Entertainment - Minstrelsy, Comedy, Concert, Gymnastic.

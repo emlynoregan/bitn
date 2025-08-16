@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A donations of £12-15-0 has been received from Outalpa Station and one of £13-13-0 from Oulinna Station thanks to station managers and hands.

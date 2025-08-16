@@ -20,6 +20,7 @@ topics:
 - obituary
 - poem
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John A. McDougal aged 47 died 13 January 1888 and was the subject of an elegiac poem written by W.H. Hardy.

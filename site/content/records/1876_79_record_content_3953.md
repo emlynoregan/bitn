@@ -25,6 +25,7 @@ topics:
 - infrastructure
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. decided that Statton & Henderson were to be offered £ IO a foot and if they objected a valuator would be appointed to arbitrate.

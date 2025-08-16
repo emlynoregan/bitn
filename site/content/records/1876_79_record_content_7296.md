@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - board
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Midland Road Board met in Riverton on Tuesday and it was resolved to build a retaining wall near the Roman Catholic schoolroom in Kooringa.

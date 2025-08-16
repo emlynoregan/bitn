@@ -19,6 +19,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Steam Circus will provide a Grand children’s Afternoon, Tomorrow, 17 October, 2 p.m. to 5.30 p.m. at 1d a ride with proceeds going to the Burra Hospital.

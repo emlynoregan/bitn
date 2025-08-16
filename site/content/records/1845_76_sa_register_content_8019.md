@@ -29,6 +29,7 @@ topics:
 - prices
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Letter from the Diggings: Forest Creek Mount Alexander, 7 March 1852.

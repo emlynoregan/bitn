@@ -20,6 +20,7 @@ topics:
 - church
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In the Kooringa Wesleyan Chapel Mr James Pearce will soon complete the erection of a fine gallery to accommodate the increased congregation.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Last Friday was a regular brickfielder: hot with a strong wind and blinding dust.  A few showers fell over night and on Saturday.  Crops so far look all right.

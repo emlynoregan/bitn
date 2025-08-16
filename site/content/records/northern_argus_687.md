@@ -18,6 +18,7 @@ topics:
 - burial
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Buried: Burra 31 January 1986 aged 77.]

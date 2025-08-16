@@ -20,6 +20,7 @@ topics:
 - health
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Visiting Dentist: Mr Mallan will offer painless dentistry at the Burra Hotel for one week.  Set of dentures £3-10-0.  Single tooth 7/6.

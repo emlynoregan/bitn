@@ -21,6 +21,7 @@ topics:
 - school
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Model School.  Presentations were made on Friday to Miss Williams and Mr Charles Cater who are to leave the district to enter the Training College.

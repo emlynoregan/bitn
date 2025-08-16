@@ -25,6 +25,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Catherine Wade was helping her daughter, Mrs Hartnett, with the washing on Monday afternoon when her dress caught alight from a lighted stick falling from the laundry fire.  Despite medical help Mrs Wade died at 2 a.m. on Tuesday morning.  Mrs Hartnett received nasty burns to her hands and neck while trying to extinguish the flames.  There was an inquest which returned a verdict of accidental death.  [Catherine Wade, wife of Andrew Greville Wade, was born Catherine McDonald: died 13 November 1899 aged 60]

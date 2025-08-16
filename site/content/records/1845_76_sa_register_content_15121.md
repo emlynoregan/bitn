@@ -21,6 +21,7 @@ topics:
 - education
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. W. Davidson presented a lecture at the Institute yesterday evening on Hugh Miller, the Cromarty Mason.  It was announced that the Essay and Debating Society associated with the Institute would be inaugurated by Mr J. Burnell, who had undertaken to read an essay on Education.

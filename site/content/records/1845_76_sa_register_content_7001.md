@@ -49,6 +49,7 @@ topics:
 - organization
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A group of 50-60 gentlemen assembled at 6 p.m., including three Directors of the SA Mining Association as well as its Secretary and Dr Chambers, who occupied the chair.  The main guests were G.S. Kingston Esq. MLC, Montague Featherstonhaugh Esq., Captain Henry Roach, J. Waterhouse Esq., Henry Ayers Esq. and T.W. Powell Esq.  Mr Gollin was Vice-Chair at one table and Mr McWilliam at the other.  After the meal speeches and toasts were interspersed with musical items.

@@ -27,6 +27,7 @@ topics:
 - jubilee
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Jubilee Services are reported.  The visiting ministers comprised: Ven. Archdeacon Dove, Canon Field, Rev. P.R. Pyman Dodd, Rev. T. Hussey, Rev. E.R. Yeatman, Rev. F.E. Perrin.  The Thursday afternoon tea meeting was not as well patronised as hoped due to the extreme heat.  Still it was a fair gathering.  The evening meeting outside saw Rev. A.G. King outline the history of the church in Burra and its first ministry.  The annual Harvest Thanksgiving service was on Sunday.

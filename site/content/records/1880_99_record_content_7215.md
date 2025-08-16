@@ -20,6 +20,7 @@ topics:
 - discovery
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Apoinga Copper.  The discovery is about 3 miles south of Sod Hut and about 1 mile east of the main road.  It continues to look promising and 4 or 5 gentlemen interested in it paid a visit on Saturday 10 June.

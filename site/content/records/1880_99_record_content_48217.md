@@ -22,6 +22,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Watchnight Service was held in Redruth Primitive Methodist Church on 31 December conducted by Revs J. Hopkins & R.J. Daddow.  Rev. R.M. Hunter held a similar service in the Kooringa Wesleyan Church.

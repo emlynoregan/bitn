@@ -20,6 +20,7 @@ topics:
 - council
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  Cr Sampson tendered his resignation as he intends to leave the district, but he was prevailed upon to stay a while, as it is too late to replace him at the annual elections.

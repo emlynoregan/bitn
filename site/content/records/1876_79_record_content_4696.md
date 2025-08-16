@@ -29,6 +29,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary & Inquest. On Wednesday before P. Lane JP an inquest was held on the death of Thomas Beckwith who had died that morning. Dr Robert Brummitt saw the deceased Sat. evening and he was suffering from shock, internal injuries and a broken rib. He requested Mr Gonne to send him down in the morning if the opportunity arose. He was sent down Sunday afternoon. In hearsay evidence Mr Cogan, the deceased’s employer, said Beckwith was going towards Hallett with an empty wagon. He sent a person on horseback to bring him back and deceased was found on the road with the wagon about a mile away. Beckwith, though partly conscious, said nothing about the accident. 

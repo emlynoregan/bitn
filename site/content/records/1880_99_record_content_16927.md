@@ -23,6 +23,7 @@ topics:
 - church
 - mission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H. Haigh’s lecture on ‘Life and Mission Work in the Mysore’ at the Kooringa Wesleyan Church on Tuesday raised £22 for the cause.

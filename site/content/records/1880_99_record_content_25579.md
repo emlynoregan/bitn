@@ -23,6 +23,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leo Lummer, son of the deceased, said he came home and found the horse and trap at the pannels [sic?]  with reins hanging loose.  He drove back and found his father lying on his back on the road by Mr Browning’s house.  His father was aged 48.

@@ -21,6 +21,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Christmas Day at the Burra Oval: Burra 62 defeated Riverton 56.

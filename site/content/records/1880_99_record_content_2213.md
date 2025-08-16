@@ -21,6 +21,7 @@ topics:
 - community
 - organizations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope has opened a branch at Copperhouse on 16 November.  They were accompanied by the Burra Brass Band.  The banner of the old Copperhouse Band of Hope of 1865 decorated the wall of the Wesleyan Chapel.  Meetings will be held every four weeks.

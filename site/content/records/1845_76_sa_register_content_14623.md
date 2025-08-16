@@ -20,6 +20,7 @@ topics:
 - advertisement
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders will be received from undertakers for the interment of deceased destitute persons of the Burra and neighbourhood.  M. MacDermott, SM.

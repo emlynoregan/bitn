@@ -20,6 +20,7 @@ topics:
 - skating
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Skating.  Interest has waned a little, but tomorrow evening Mr Cowan, the manager, gives an exhibition of speed skating and Davey’s Brass Band attends.

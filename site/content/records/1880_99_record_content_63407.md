@@ -20,6 +20,7 @@ topics:
 - business
 - insurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Lasscock	Agent for United Insurance Co. Ltd, Commercial St

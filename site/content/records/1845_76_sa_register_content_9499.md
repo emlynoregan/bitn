@@ -20,6 +20,7 @@ topics:
 - finance
 - convicts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Expenditure on Police, Gaols and Convicts

@@ -20,6 +20,7 @@ topics:
 - safety
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Symbolic children warning signs are to be erected on Smelts Road near the ETSA Depot.

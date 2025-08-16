@@ -23,6 +23,7 @@ topics:
 - event
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public School Concert.  The wet weather would have defeated any other concert on Friday, but the Public School concert filled the Institute Hall.  The items and performers are all listed.

@@ -19,6 +19,7 @@ topics:
 - environment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Feral Pests.  The stoats, ferrets and weasels imported into New Zealand to destroy rabbits are proving a great nuisance.

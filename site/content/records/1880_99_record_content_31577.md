@@ -21,6 +21,7 @@ topics:
 - municipal
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich moved the proposal of the Commissioner [re the Waterworks] be accepted.  Cr O’Leary 2nd.

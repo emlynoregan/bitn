@@ -28,6 +28,7 @@ topics:
 - blood poisoning
 - intemperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  The adjourned inquest on George Ernest Steinert* was concluded on Tuesday.

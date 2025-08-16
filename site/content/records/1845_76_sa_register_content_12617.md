@@ -22,6 +22,7 @@ topics:
 - advertisement
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for the erection of a Bible Christian Chapel at Kooringa.  For plans and particulars apply at the residence of Rev. Mr Way at Kooringa or at the office of J.W. Cole, Architect etc.

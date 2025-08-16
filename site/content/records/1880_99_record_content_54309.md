@@ -22,6 +22,7 @@ topics:
 - employment
 - goldfields
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 43 Camels arrived at Burra on Saturday afternoon from Bourke, en route to Pt Adelaide and thence to WA for work in connection with the goldfields.  Camels at present are worth £30-£50 each.

@@ -18,6 +18,7 @@ topics:
 - wages
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wages.  80 civil servants in SA drew over £70,000 a year between them.

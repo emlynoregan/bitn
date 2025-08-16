@@ -23,6 +23,7 @@ topics:
 - social inequality
 - prostitution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Fairplay to All’ writes a letter re one law for the rich and another for the poor.  The writer’s specific complaint relates to the decision not to prosecute prostitutes at a particular high-class brothel in Adelaide because so many of the ‘Upper Ten’ were visitors, including Members of Parliament, leading lawyers, and other prominent citizens.

@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   St Joseph’s, 1 May, Rev. Father Kreissl SJ is in town to celebrate the Feast of the Patronage of St Joseph.  During the week he will give a course of instruction and establish the Guild of the Sacred Heart of Jesus.

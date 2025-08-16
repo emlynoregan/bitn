@@ -20,6 +20,7 @@ topics:
 - road
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Accident.  Two semitrailers collided about seven km east of Burra on the Morgan Road while travelling in the same direction.  The leading vehicle jack-knifed on the slippery road and the following vehicle collided with it.  The first vehicle sustained about $15,000 damage and the second $30,000 to $40,000.  The driver of the following vehicle received minor injuries.

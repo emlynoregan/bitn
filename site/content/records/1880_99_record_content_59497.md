@@ -22,6 +22,7 @@ topics:
 - performance
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the evening the comedy Written in Sand was performed at the Institute, followed by the farce Billy Doo, in which Mr Watt gave a farewell performance in the title role.  The second overture was a composition by Mr Noyes dedicated to Mr Watt.

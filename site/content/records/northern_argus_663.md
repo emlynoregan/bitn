@@ -20,6 +20,7 @@ topics:
 - photograph
 - National Trust
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo: Burra National Trust members in colonial costume.  Colin Fidock back row left and Dani Fidock front row right.]

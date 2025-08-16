@@ -19,6 +19,7 @@ topics:
 - fundraising
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Stony Gap Wesleyan. Chapel had a good anniversary congregation on 23 Dec. and raised £11 at the public meeting on the 26 Dec.

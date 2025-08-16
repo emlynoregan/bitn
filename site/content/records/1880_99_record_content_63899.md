@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mines.  The boring continues: the hole is being cased to 275’ beyond which a solid hole is being worked.  The engine working over 2 tons of rods is being driven by only 70 lb hydraulic power to the inch and though 500’ has been reached it is intended to go deeper.

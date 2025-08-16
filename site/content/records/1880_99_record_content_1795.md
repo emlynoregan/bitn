@@ -21,6 +21,7 @@ topics:
 - renovation
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan will thoroughly renovate the Iron Mine Primitive Methodist Church, inside and out, for £98.

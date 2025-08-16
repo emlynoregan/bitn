@@ -22,6 +22,7 @@ topics:
 - parliament
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the messy state of affairs in Parliament with the Government evidently convinced its tax proposal will not pass the Legislative Council.

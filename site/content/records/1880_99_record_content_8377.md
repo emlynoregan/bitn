@@ -19,6 +19,7 @@ topics:
 - gardening
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Best cottage garden within 3 miles went to W. Davey (20/-)

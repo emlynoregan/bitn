@@ -20,6 +20,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Singers.  The Original Jubilee Singers of Mr Orpheus M. McAdoo will return after seven years for a performance at the Institute on 2 November.  They have visited ‘almost every civilised country’.  They sing original songs with complex rhythms, sometimes almost seeming to be without rhythm and at others almost compelling the audience to tap their feet.  ‘The entertainment is unique, clean, and wholesome in every respect, and one to which any man would delight and take his family, and is patronised and endorsed by the clergy and Christian public throughout the world.’

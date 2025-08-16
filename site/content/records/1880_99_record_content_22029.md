@@ -17,6 +17,7 @@ topics:
 - governance
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another letter questions the appropriateness of the Council paying £8 a week to the overseer of works.  [Though this is what the paper says, the figure is absurdly high and must be an error, unless the writer is being sarcastic.]

@@ -19,6 +19,7 @@ topics:
 - review
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: review of the Burra Christie Minstrels of 11 July. 290 people attended and it was well received.

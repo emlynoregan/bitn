@@ -26,6 +26,7 @@ topics:
 - exhibition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Child Art Week is being marked in Burra with a display of student art in the State Bank in Burra with art from Mt Bryan, Hallett and Farrell Flat Schools.

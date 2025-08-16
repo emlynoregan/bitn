@@ -21,6 +21,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 John Barton will address the Caring & Sharing Group on 2 December on the subject of ‘Problems with Prescribed Medication’.

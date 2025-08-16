@@ -26,6 +26,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’: A meeting at the Royal Exchange Hotel has agreed to form the Aberdeen Cricket Club.  Captain, W.H. Morton; Vice-Captain, W. Sleeman; Secretary & Treasurer, A.W. Dow.

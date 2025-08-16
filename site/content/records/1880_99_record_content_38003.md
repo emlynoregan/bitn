@@ -21,6 +21,7 @@ topics:
 - racing club
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Meeting of the Burra Racing Club at Burra Hotel 19 September, 8 p.m. to arrange the next meeting.

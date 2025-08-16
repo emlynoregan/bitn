@@ -21,6 +21,7 @@ topics:
 - appointment
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.J. Daddow appointed to Burra for another term by the Primitive Methodist Conference.

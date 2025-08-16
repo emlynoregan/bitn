@@ -22,6 +22,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show was held yesterday at the Smelting Works and was very successful.  The buildings there afford ideal accommodation for exhibits.  The show dinner was held in Richardson’s Burra Hotel where 40 gentlemen sat down to a good spread.

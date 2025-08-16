@@ -19,6 +19,7 @@ topics:
 - advertisement
 - supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders will be received at the Burra Copper Works until the end of the month for any quantity of dry firewood – Gum, Peppermint or Sheoak – in straight lengths, not less than three feet or more than four feet six inches and not less that 6 inches in diameter or more than 12 inches.  James Hamilton, Manager.  3 May 1858.

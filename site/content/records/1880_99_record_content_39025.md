@@ -18,6 +18,7 @@ topics:
 - election
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Municipal Elections and on the stalled Municipal Corporations Bill in Parliament and calling for capability over popularity in the voting next Tuesday.

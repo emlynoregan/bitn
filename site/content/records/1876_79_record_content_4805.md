@@ -20,6 +20,7 @@ topics:
 - animals
 - farming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ostriches. Captain Wilson has arrived in SA with a pair of ostriches proposing to farm the same for their valuable feathers.

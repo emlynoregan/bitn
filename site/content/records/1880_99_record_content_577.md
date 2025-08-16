@@ -19,6 +19,7 @@ topics:
 - improvement
 - local business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Hotel has been improved by the addition of a verandah.

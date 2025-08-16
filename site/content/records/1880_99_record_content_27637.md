@@ -21,6 +21,7 @@ topics:
 - emergency
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Fire broke out in the cellar of Vivian’s Hotel in Aberdeen at about 4.40 a.m. on Wednesday.  Those fighting it sought the hose used to water the trees in Jubilee Avenue, but they couldn’t find the fireplug.  Eventually with the combination of a hose attached to a tap in the Avenue and buckets the fire was extinguished.

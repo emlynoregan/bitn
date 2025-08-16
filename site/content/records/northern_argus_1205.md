@@ -25,6 +25,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Pony Club was represented by Bronwyn Steele and Lyn Keane in the big procession through Adelaide last weekend, heralding the World Three Day Championships in Gawler.

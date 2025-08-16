@@ -24,6 +24,7 @@ topics:
 - travel
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 J.B. Graham, the largest proprietor in the Burra Burra Mines, is leaving for England by the overland route to prosecute his continental tour.  He leaves today on the Bremen ship Gellert, for Calcutta.  It was due to Mr Graham’s efforts, amongst other enterprising colonists, that such a prize as the Burra Burra Mine was procured for resident proprietors.  He has reaped a pre-eminently rich reward in proportion to the boldness of his original outlay.  In common with a large circle of friends, we wish him health to enjoy the handsome income, which the success of the Burra Mine bids fair to render permanent, or rather an increasing one.  We hope in time to welcome him back to the colony.

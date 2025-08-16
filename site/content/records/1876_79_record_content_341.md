@@ -21,6 +21,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Social was held in the Wesleyan Schoolroom Redruth on Friday.  Mr Roach chaired an evening of recitations, readings, songs, duets, etc.

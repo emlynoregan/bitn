@@ -18,6 +18,7 @@ topics:
 - library
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The Librarian reports damage to books and papers – most recently to an issue of the Graphic.

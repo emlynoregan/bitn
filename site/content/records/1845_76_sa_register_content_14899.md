@@ -28,6 +28,7 @@ topics:
 - mail
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  A mail cart carrying passengers for the Eastern Plains will leave Kooringa for Duffield’s Woolshed via Chewing’s, Panaroo [Parnaroo] Paratoo, Tetulpa [Teetulpa], Uarpa and Wininnie [Winnininnie] on Tuesday 1 October and then every alternate Tuesday at 7 a.m.  Henry Dawson, Kooringa.

@@ -19,6 +19,7 @@ topics:
 - advertisement
 - personal statement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  I wish to state that the report, which has been circulated that I am leaving for Broken Hill, is not correct.  John I. Sangster, 6 Feb. 1888.

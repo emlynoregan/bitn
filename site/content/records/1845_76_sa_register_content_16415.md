@@ -30,6 +30,7 @@ topics:
 - accident
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  At the height of the severe thunder storm James Waite, a sheep farmer at Pandappa, was drowned at Black Springs in attempting to cross a swollen creek on horseback.  He was seen riding down the Adelaide Road past the chapel, but disappeared when trying to cross the creek on a stone bridge recently erected over it.  Shortly afterwards his riderless horse was seen galloping across an adjacent section.  A young man caught the animal and rode to the Emu Hotel where he gave the alarm.  Police Trooper Kidney from the Burra was there and immediately started a search.  He found the body about 450 yards down the creek.  On taking out the gentleman’s watch he found the deceased was James Waite of the firm of Waite Brothers of Pandappa, sheep farmers.  He was also recognised by one of his hands, which had been previously injured.  The body was taken to the Emu Hotel to await an inquest.  When the waters fell it was seen that the centre of the bridge had been entirely washed away.  [This death does not appear on SA Deaths CD, but BISA information suggests that James Deas Waite of Pandappa was born c. 1829 and died 5 March 1863.]

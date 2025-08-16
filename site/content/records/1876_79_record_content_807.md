@@ -20,6 +20,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident.  Yesterday a boy standing on the road by Orchard’s Hotel Aberdeen was knocked down by the shaft of Dr Nesbitt’s buggy as it passed.  Miraculously the horse and the vehicle both passed over him without touching the boy who escaped with a shaking.

@@ -20,6 +20,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Susan Rowling Sampson, wife of John Sampson jun. died 31 July aged 48, a colonist of 34 years.  [nee Sanders]

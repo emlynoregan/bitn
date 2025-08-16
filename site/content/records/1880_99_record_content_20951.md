@@ -19,6 +19,7 @@ topics:
 - subscription
 - communications
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On April 24 the paper announced arrangements to get Reuter’s Agency telegrams sent on to them.  For £1 a year they would communicate them to subscribers as soon as they arrived.  How this was done is unclear as is how long this offer lasted and how many subscribers, if any, took up the offer.  From 1 May the telegrams appeared in the paper regularly under the heading ‘Reuter’s Telegrams’.  They usually ran to about a column.

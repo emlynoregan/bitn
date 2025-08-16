@@ -20,6 +20,7 @@ topics:
 - award
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.F. Coglin will be presented with a gold watch, chain and locket, in the Institute on 12 Jan. as an act of recognition for his services.

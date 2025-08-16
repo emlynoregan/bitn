@@ -20,6 +20,7 @@ topics:
 - debt
 - personal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Kitchen.  There is another story about his years in Burra and his borrowing money without intending to repay it, but there is nothing new on the present situation.

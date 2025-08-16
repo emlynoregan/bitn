@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hydraulic Engineer has refused to alter his terms for the hire of water meters and has referred the matter to Dr Cockburn.

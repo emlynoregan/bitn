@@ -18,6 +18,7 @@ topics:
 - community
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 I fail to see we are doing any injury whatever to the Burra Institute, which I regard as a good institution and I wish it all success.

@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders are called for the erection of the Thames St Bridge.

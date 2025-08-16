@@ -35,6 +35,7 @@ topics:
 - child abuse
 - coroner
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mother said she had left the child with Mrs Rossett at the end of January in good health and saw it Sunday night [presumably the Sunday a week before its death?].  It was in a very bad state with bad seat and feet.  Have been in charge of the child since Wednesday.

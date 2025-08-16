@@ -18,6 +18,7 @@ topics:
 - church
 - union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian District Meeting in Adelaide has resolved in favour of union with the minor Methodist Churches.

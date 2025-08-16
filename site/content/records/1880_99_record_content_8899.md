@@ -19,6 +19,7 @@ topics:
 - short story
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 20 Oct.	XLII-XLIV	A Yankee Atalanta: by	X			X		X	X	X		X

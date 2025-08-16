@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Saddleworth on Good Friday Burra 62 defeated Saddleworth 11 & 41

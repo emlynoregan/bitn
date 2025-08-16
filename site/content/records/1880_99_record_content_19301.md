@@ -32,6 +32,7 @@ topics:
 - by-law
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor reported that the surveyor had ‘found [it] impossible to accurately define the yard boundaries’ at the railway station.

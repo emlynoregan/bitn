@@ -19,6 +19,7 @@ topics:
 - road
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The making of the new road from Sod Hut towards Burra is progressing favourably.

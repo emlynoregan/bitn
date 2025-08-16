@@ -20,6 +20,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local enthusiast, Jack Richards has set himself up in the saddlery and bicycle line.

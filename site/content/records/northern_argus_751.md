@@ -21,6 +21,7 @@ topics:
 - employment
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Has sought publicity through supporting activities like the Barrow Push

@@ -23,6 +23,7 @@ topics:
 - partnership
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drew & Co.  The old business of Messrs Drew & Co. has changed hands and will now be known as Drew & Crewes.  The new partners are John Drew, eldest son of Mr Thomas Drew of the old firm, and Mr E.W. Crewes who has for some time managed the grocery department of the firm and then was manager for the firm at Eurowie (NSW).  Both are looked upon as ‘pushing business men’.

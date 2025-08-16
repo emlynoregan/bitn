@@ -22,6 +22,7 @@ topics:
 - performance
 - illusion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Mr Rose appeared at the Institute on Tuesday and his performance as a conjuror, illusionist, clairvoyant and in a séance was excellent.  It was better than either the Davenports or Professor Fay.

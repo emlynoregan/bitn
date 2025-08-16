@@ -19,6 +19,7 @@ topics:
 - business
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Francis Harris has taken over the business carried on under the style of J. Harris & Sons and is prepared to supply old and new customers with the best kinds of fruit and groceries.

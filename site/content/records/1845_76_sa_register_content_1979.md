@@ -25,6 +25,7 @@ topics:
 - land sale
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sale of Mineral Lands

@@ -23,6 +23,7 @@ topics:
 - mining association
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Fourth Dividend: the SA Mining Association advises that a dividend of 200% or £10 per share has been declared this day, 19 November, by the Directors of the Association and will be paid to the shareholders on Wednesday 1 December or on any Wednesday or Saturday thereafter.

@@ -20,6 +20,7 @@ topics:
 - Arbor Day
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Arbor Day.  The Council intends to plant 1,000 trees.  There could also, we suggest, be an entertainment in the evening.

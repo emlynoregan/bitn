@@ -21,6 +21,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The original road north was frustrated by the Mine and had to go into the hills to Cobb's Farm to reach the Mt Bryan Plain. Later the Mine built a road through sections 9 & 42 but fenced both sides to favour trade in Kooringa.

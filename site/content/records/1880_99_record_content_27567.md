@@ -18,6 +18,7 @@ topics:
 - children
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Foresters’ Sports on the 11 January were a great success with 200 to 300 children present.  In several foot races upwards of 40 started.

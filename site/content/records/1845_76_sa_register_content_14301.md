@@ -17,6 +17,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The forthcoming election promises to arouse more interest than the last one.  One of the candidates was rejected last year and the whole thing is a more local affair.

@@ -18,6 +18,7 @@ topics:
 - fire
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A small amount of damage was done to bedding at Mr Mayger’s premises on Saturday night, but we do not say more as accounts are confused and Mayger has been taken into custody to appear before the bench.

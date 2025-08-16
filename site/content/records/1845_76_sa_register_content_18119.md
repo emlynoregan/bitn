@@ -18,6 +18,7 @@ topics:
 - holiday
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tuesday was taken as a holiday by storekeepers, who preferred to have their two days at leisure at once instead of on Wednesday.

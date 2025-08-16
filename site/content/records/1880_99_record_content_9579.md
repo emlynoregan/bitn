@@ -20,6 +20,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Since the Christmas matches Burra cricket seems to have died.  Clare intends to visit this month and there are plans for Easter matches.

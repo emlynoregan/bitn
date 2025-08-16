@@ -18,6 +18,7 @@ topics:
 - school
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for the erection of a schoolroom near St Mary’s.

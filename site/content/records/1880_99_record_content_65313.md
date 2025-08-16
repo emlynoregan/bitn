@@ -22,6 +22,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church Anniversary on 27 November drew large congregations to hear Rev. S. Wellington and Mr C. Allen.  Tea meeting Wednesday.

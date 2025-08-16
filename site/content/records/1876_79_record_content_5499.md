@@ -22,6 +22,7 @@ topics:
 - court
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 John Varley SM, sitting at the Burra Local Court on 20 Dec. for the last time before a trip to England was given an illuminated address. Mr. J.D. Cave, as senior JP, presided.

@@ -21,6 +21,7 @@ topics:
 - fire
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Penn was charged with smoking in open air with a pipe insufficiently covered in a paddock containing vegetable product, viz. inflammable grass, on 5 January.  He said he went to the paddock to get his horse.  The witness Alfred Jacka went with Penns who told him not to say anything about the pipe after the fire had started.  Police evidence gave the circumstances of the fire.  Penns was fined £1 with 18/- costs.

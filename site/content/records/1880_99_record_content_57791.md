@@ -20,6 +20,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  At Manoora on Wednesday: Burra 2.7 defeated Manoora 0.4.

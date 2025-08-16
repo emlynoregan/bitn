@@ -20,6 +20,7 @@ topics:
 - theft
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Moses Ryles was sent for trial yesterday charged with stealing a letter containing a cheque for £40 entrusted to him as a mail driver, to post.

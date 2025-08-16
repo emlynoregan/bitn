@@ -21,6 +21,7 @@ topics:
 - agriculture
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on wheat statistics and their relation to the wheat trade as brought up in the Legislative Council by Mr Glyde.

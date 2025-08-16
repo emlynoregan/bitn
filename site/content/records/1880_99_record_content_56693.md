@@ -19,6 +19,7 @@ topics:
 - Easter
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Porter’s Lagoon was well patronised over Easter, with at least 120 people there on Monday.  Games, picnics, paddling and boating were all enjoyed along with refreshing dips.

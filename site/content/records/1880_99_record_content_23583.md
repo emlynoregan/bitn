@@ -21,6 +21,7 @@ topics:
 - council
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has had no response to a call for public subscriptions towards getting the town a fire reel.

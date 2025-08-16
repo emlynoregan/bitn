@@ -22,6 +22,7 @@ topics:
 - society
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Eyes’s entertainment at the Institute in aid of the B. Literary Soc. was not largely attended, but was very enjoyable.

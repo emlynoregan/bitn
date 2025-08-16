@@ -20,6 +20,7 @@ topics:
 - community
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  This week excellent rains fell with 1.660 points [sic] since Monday and it extended to the east country.  [It was, of course, 1.66”]

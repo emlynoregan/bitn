@@ -20,6 +20,7 @@ topics:
 - competition
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harvesting Machines.  The recent trial resulted in no winners for the Government bonus, but G. Marshall was given £120 and James Martin & Co. £80 for their efforts.

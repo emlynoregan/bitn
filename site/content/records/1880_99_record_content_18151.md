@@ -28,6 +28,7 @@ topics:
 - infrastructure
 - pipes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With respect to the site: the well is situated on a road which the late town Clerk said was a Corporation Road and the Corporation authorised the Department to fix the engine and machinery on it.  It is a much wider road than would be required for traffic and the Corporation agreed to lay off a strip 16’ wide by whatever length was required for the engine and boiler-house etc.  The present Council are opposed to that and want the Government to acquire land adjoining the shaft.  This is merely increasing the cost without any advantage.  However much land is acquired the shaft must remain where it is and the engine and boiler with it.  It makes no sense to place them on adjoining land where the cost of connection to the pumps would be increased. (See attached plan.)

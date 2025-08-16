@@ -19,6 +19,7 @@ topics:
 - flooding
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather in the last week has been most boisterous, especially on Friday and Saturday with damage to outbuildings and minor flooding caused by a sudden storm that struck between 5 and 6 p.m. on Sunday.  This month 3.5” of rain have been recorded.

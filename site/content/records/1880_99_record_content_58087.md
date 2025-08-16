@@ -19,6 +19,7 @@ topics:
 - community
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Kennedy resigned from the Institute Committee upon his leaving the town.

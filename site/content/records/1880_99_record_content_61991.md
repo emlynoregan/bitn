@@ -19,6 +19,7 @@ topics:
 - election
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Federal Convention election is next Saturday with 32 standing for the 10 positions.

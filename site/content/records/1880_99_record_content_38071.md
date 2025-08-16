@@ -19,6 +19,7 @@ topics:
 - municipal
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the approaching municipal elections.  The town has been transformed by the actions of the Corporation over recent years: roads, trees, footpaths, and bridges have changed the town.  There was originally considerable waste of money, but harmony has prevailed now for some years.  It is now time to consider the changes that must be made in the Council to prepare for a new Mayor and a councillor for each ward.

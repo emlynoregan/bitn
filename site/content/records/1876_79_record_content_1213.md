@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - government funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Eastern Road: Little work done - only £500 voted for the year because still argument over the last couple of miles into Kooringa - even though almost 60 miles could be upgraded!

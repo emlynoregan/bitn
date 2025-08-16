@@ -18,6 +18,7 @@ topics:
 - publication
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Record will be published twice a week on Tuesdays and Fridays, beginning from next Tuesday.

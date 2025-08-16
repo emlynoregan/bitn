@@ -17,6 +17,7 @@ topics:
 - legislation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Corporations Bill looks like passing the House of Assembly without much change.

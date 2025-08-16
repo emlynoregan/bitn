@@ -22,6 +22,7 @@ topics:
 - building
 - residence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Killicoat of the Burra Mine has had built a handsome residence at Redruth.  The builder was W. Bundey and the architect W. Beattie.

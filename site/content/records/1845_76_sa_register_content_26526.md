@@ -25,6 +25,7 @@ topics:
 - government
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
   Mt Bryan Road.  On 10 August the Register received a letter from ‘Settler’

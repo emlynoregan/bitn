@@ -18,6 +18,7 @@ topics:
 - non-fiction
 - table_of_contents
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hitch Your Wagon to a Star, 14 October.

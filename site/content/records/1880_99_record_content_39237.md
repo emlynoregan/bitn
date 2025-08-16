@@ -20,6 +20,7 @@ topics:
 - government
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He also joins in with the general reaction to Downer’s attempt to defeat the Government: the Government is not doing a great job, but Downer’s attempt was merely a cynical grab for office without anything to offer the country and so deserved to fail.

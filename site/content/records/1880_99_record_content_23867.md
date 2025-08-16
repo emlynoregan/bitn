@@ -19,6 +19,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  This will be open to Mingary from 1 December: about 16 miles from the NSW border.

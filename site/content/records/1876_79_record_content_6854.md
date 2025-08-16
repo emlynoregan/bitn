@@ -19,6 +19,7 @@ topics:
 - water
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well. The boring proceeds very slowly and has reached 20-30 feet. It has struck water. Steam power will soon be applied and then progress will be more rapid.

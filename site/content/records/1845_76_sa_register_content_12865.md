@@ -25,6 +25,7 @@ topics:
 - immigration
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Saturday week there was a meeting of the Burra Branch of the SA Political Association in the Burra Hotel.  Mr G. Vercoe took the chair.  The principal speakers were Mr W. Dale of Redruth, Mr M. Edwards and the Chairman.  Mr Dale spoke for over an hour on the immigration question and urged the necessity of getting written pledges from candidates not to vote any money for that purpose.  A motion to that effect was passed unanimously.  The other speakers spoke in support of the same matter.  The meeting was numerously attended.

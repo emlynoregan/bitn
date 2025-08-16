@@ -21,6 +21,7 @@ topics:
 - burial
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Father Kriesll has asked for a section of the cemetery to be set aside for Catholic burials.

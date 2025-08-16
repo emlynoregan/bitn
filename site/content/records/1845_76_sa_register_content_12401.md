@@ -23,6 +23,7 @@ topics:
 - accident
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James Rule was called, but was so intoxicated that he was locked up.  Other witnesses agreed that Banin and the deceased were on good terms and that Banin had not left his lodgings that night.  Rules suspicions seem to be based only on the fact that upon seeing the body Banin had said that, ‘he had not done that’. 

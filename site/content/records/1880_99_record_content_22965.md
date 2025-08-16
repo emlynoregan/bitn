@@ -19,6 +19,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The items from the Burra Young Men’s Union Concert will be repeated after the Penny Readings on Saturday night.

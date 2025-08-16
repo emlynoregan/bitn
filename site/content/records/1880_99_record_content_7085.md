@@ -20,6 +20,7 @@ topics:
 - finance
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricketing Association meeting revealed a debt of c. £13 and so far £3-10-6 has been collected towards paying it off.

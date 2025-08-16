@@ -24,6 +24,7 @@ topics:
 - theft
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Samuel Nesbitt, a coloured man, was charged with obtaining from Alexander Harris, 1 ton 19 cwt of iron valued at £4-19-5, by falsely stating he was employed by William Watkins of Adelaide.

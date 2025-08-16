@@ -20,6 +20,7 @@ topics:
 - church
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Vestry Meeting attended to the usual business last Wednesday.  On 12 May two new stained glass windows will be unveiled in memory of Mrs John Lewis and Dr Nesbitt.

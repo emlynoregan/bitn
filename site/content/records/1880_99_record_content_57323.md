@@ -17,6 +17,7 @@ topics:
 - wildlife
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A possum was captured after being chased by a cat on Friday night.  It still awaits release.

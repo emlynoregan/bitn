@@ -20,6 +20,7 @@ topics:
 - minstrelsy
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. At the Institute on 13 Jan. U.S. Minstrels, featuring 11 Star Artists: the Elite of Minstrelsy. A Quartet of vocalists, three comedians and dancers. 3/- & 2/

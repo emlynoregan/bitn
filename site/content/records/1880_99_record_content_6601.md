@@ -22,6 +22,7 @@ topics:
 - typhoid
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 18 March at Redruth, of typhoid fever, Ellen Birt, wife of Matthew M. Birt, aged 26.  [Born Ellen Rogers 16 December 1855]

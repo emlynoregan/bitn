@@ -21,6 +21,7 @@ topics:
 - injury
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Bock, daughter of Theodore Bock, slipped from the step of a railway carriage at the station on Friday and broke her leg.

@@ -21,6 +21,7 @@ topics:
 - community
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  Mr Holder, having arranged for 30 men to be employed by the Conservator of Water, railway passes to Eudunda and Morgan arrived Friday and the list was filled Saturday.  The men left Monday, but 4 failed to appear.

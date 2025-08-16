@@ -24,6 +24,7 @@ topics:
 - government
 - meetings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr D.S. Packard has been in Adelaide trying to get some Government work in the district and the Commissioner of Public Works has agreed to Barker’s Dam being cleaned out on 50% of the cost being guaranteed.  Persons interested are to meet at the Burra Hotel at 2 p.m. tomorrow.

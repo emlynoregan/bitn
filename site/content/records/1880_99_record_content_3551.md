@@ -31,6 +31,7 @@ topics:
 - politics
 - Goyder's Line
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting at Midwinter’s Baldina Hotel, Tuesday.

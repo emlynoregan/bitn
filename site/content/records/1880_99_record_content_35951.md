@@ -31,6 +31,7 @@ topics:
 - migration
 - biography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Though a long time before, this is the correct date: the article is a reprint from the Bible Christian Magazine.]

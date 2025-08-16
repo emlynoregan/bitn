@@ -21,6 +21,7 @@ topics:
 - community
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be a picnic at World’s End on Christmas Day with proceeds in aid of a fund for building a Wesleyan Chapel at World’s End.

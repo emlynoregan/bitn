@@ -20,6 +20,7 @@ topics:
 - industry
 - export
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the growing industry of fruit growing and canning for export in Victoria and the desirability of its being emulated in SA.

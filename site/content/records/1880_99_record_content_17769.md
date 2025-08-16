@@ -23,6 +23,7 @@ topics:
 - reading room
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee Meeting, 8 May.  The Chrysanthemum Show raised £7-16-9.  Burra Rifle Corps to use the hall for drill at 2/6 per drill.

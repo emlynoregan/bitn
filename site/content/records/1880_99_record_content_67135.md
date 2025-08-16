@@ -24,6 +24,7 @@ topics:
 - honour
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.H. Forder, who has for so long been associated with the Redruth Court will be presented with an address and a purse of sovereigns at 4 p.m. on Friday in the Council Chamber.  The JPs of the district have taken the initiative in the matter.

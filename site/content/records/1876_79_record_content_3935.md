@@ -21,6 +21,7 @@ topics:
 - trade
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Tweed Factory. A meeting of tradespeople on Tuesday decided to send a deputation to visit the factory at Lobethal to obtain ideas, costs and to look at machinery etc. J. Butterworth and James Miller selected.

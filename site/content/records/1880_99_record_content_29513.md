@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan have agreed to the conditions re the Booborowie Council Chamber at Leighton.

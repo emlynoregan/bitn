@@ -18,6 +18,7 @@ topics:
 - racing
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Races.  A race meeting before year’s end is mooted.

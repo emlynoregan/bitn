@@ -28,6 +28,7 @@ topics:
 - infrastructure
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 30 March 1854, page 2

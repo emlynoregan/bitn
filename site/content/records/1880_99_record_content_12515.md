@@ -20,6 +20,7 @@ topics:
 - tenders
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called for kerbing the western side of Thames St from Ford’s Corner to the creek.

@@ -24,6 +24,7 @@ topics:
 - procession
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Christmas Day Service will be conducted by Rev. R.S. Casely following a grand procession of the Friendly Societies and the Town Council from the Institute.  It will aid the Burra Hospital.

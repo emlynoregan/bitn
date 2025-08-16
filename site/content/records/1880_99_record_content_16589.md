@@ -23,6 +23,7 @@ topics:
 - politics
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy defending Gordon against the attack of Mr Cooksley and the shilly-shallying of the Home Government.  Gordon, he says, was doing his duty and the Government was following a peace-at-any-price policy.

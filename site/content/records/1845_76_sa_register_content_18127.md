@@ -20,6 +20,7 @@ topics:
 - racing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There were some races at Mt Bryan Flat Hotel that attracted a few Burra people.

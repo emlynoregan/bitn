@@ -23,6 +23,7 @@ topics:
 - obituary
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Henry Howard West, youngest son of William and the late Frances West of Burra Burra Mines, died at Jamestown on 1 July of typhoid fever.  [More details next page.]

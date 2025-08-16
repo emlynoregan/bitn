@@ -19,6 +19,7 @@ topics:
 - migration
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Postal Service.  A parcel post to England has been established with parcels not to exceed 11 lb at 6d per lb.

@@ -21,6 +21,7 @@ topics:
 - supply
 - fuel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  C. Rawlings wants 30-40 tons of firewood for the limekiln at 14/- per ton.  Kooringa.

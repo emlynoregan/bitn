@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  W. Morton won the tender for lighting the lamp at Aberdeen, at £8 p.a.  J. Harris & Sons tender for £9-7-6 was accepted for lighting the Market Square lamp.

@@ -38,6 +38,7 @@ topics:
 - crime
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Trial of John Barker at Wilcannia 18 December

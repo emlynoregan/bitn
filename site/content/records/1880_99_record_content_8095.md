@@ -19,6 +19,7 @@ topics:
 - literature
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.W. Mathews’ book of poetry Gethsemane to Calvary and Other Poems is out.  [The editor’s comments seem politely unenthusiastic: ‘No doubt among the friends of the author and of the youths attending his school, as well as among other persons, the book will be sought after.’]

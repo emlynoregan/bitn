@@ -23,6 +23,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. A complimentary banquet will be held for Thomas Bath on the eve of his departure for Europe at the Institute on Tuesday 18 Feb. Rowland Rees MP will preside.

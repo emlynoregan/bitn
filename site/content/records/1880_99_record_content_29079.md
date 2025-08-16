@@ -19,6 +19,7 @@ topics:
 - immigration
 - Chinese Bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chinese Bill.  The Legislative Council refuses to pass the Chinese Bill.

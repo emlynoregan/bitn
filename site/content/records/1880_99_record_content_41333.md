@@ -21,6 +21,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  All interested in forming a Mounted Infantry Corps in Burra are requested to meet in H. Vivian’s Commercial Hotel, 15 May 8 p.m.

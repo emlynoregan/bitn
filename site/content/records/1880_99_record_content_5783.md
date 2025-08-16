@@ -19,6 +19,7 @@ topics:
 - water
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Well.  Troughs have now been fixed and the Council have passed the pump conditional upon the supply of another handle and some extra piping.  Water from the troughs or for people drawing it by the bucket is free.

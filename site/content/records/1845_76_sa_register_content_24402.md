@@ -20,6 +20,7 @@ topics:
 - funding
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Education.  An editorial gives support to the Education Board in its attempts to get the Government to fund a model school in Adelaide.  The Government keeps on giving in principle support, but fails to deliver the money needed.  A site was purchased in the remote past, but the £2,000 needed to erect the school has not been forthcoming.

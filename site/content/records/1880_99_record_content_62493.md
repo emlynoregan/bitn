@@ -23,6 +23,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Entertainment on 21 June was excellent and the hall was crowded – local talent was augmented by visitors from Adelaide: Miss B. Pflaum and Messrs B. Maegraith and W. Howard.  Pflaum & Maegraith played a piano duet and Pflaum later followed with a song.  Mr Howard also sang later with a clear alto voice.  The local talent rose well to the occasion.

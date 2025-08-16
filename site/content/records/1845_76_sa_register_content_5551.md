@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Wednesday four races were run.  [Details are given.]

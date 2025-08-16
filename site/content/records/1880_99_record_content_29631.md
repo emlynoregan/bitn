@@ -21,6 +21,7 @@ topics:
 - government
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  The Government has decided to carry out their plan for the Waterworks for one year only, unaltered.  It is now unwilling to give up control of the Waterworks to the Council.

@@ -20,6 +20,7 @@ topics:
 - staffing
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Jobson had suggested that Council appoint a man to take charge when the works were handed over: to drive the engine, make connections as far as the meters, repair and read meters.

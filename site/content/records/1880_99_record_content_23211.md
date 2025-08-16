@@ -27,6 +27,7 @@ topics:
 - Crown Lands
 - Totalizator
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Political Meeting.  On 26 August a public meeting was called at the Institute which was a rare example of local interest in wider political issues.  It attracted 150 people.  Mr Venning spoke of the need for a State Bank.  Mr Holder spoke of the need to pay Members of Parliament, lest only the wealthy be represented.  C. Drew opposed this, as did Mr Lockyer.  There was general support and when Mr Drew moved that the meeting did not support payment of members the result is confused in the report.

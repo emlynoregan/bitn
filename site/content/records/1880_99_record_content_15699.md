@@ -18,6 +18,7 @@ topics:
 - economy
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The New Taxes, for which so far the regulations have not been published.  The editor then explains something of the Income Tax and the Land Tax, which was on unimproved land value: explained as the total value less the value of erections.

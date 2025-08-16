@@ -38,6 +38,7 @@ topics:
 - enquiry
 - drunkenness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  Assessment in 1888 was £12,132 and in 1893 was £9,578.

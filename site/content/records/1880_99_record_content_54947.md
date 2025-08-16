@@ -21,6 +21,7 @@ topics:
 - church
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church sale of gifts and dinner on 5 October at the Institute was a great success.  The weather was not good, but over £40 was raised which was over the target set.  The entire cost of the church and parsonage properties was £2,010 of which £1,260 has been paid and £750 is owed, of which £190 was from the loan fund which is repayable in instalments of £40 interest free.  Music in the evening was directed by Miss Wylie.

@@ -22,6 +22,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wanted at the Burra Burra Mines: a mining smith.  Apply to Captain Roach at the Mine or at the SA Mining Association Office, Adelaide.

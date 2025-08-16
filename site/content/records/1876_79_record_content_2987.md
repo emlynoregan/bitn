@@ -19,6 +19,7 @@ topics:
 - tenders
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp receives notice of the above tenders and also of tenders for the road north of Burra.

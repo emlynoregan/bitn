@@ -17,6 +17,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show.  The editor feels that a Chrysanthemum Show could have been managed.

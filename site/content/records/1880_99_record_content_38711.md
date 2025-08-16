@@ -19,6 +19,7 @@ topics:
 - roads
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Our Main Roads.  The writer strongly disagrees with the Assistant Inspector of Main Roads that they are in a very bad way and the system is the best possible for wasting money.

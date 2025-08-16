@@ -27,6 +27,7 @@ topics:
 - sale
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Mid North Stud Merino Field Days were a huge success.  A Collinsville ram sold for $20,000 to F.G. & R.M. Andrews of Kongal Park, Mundulla.  [Other sales are listed and there is a photo of a Collinsville ram sold for $15,000 with stud groom Peter Stewart, proprietor Neil Garrett, Bruce Cameron of Elders, Albany WA and David Jones of Collinsville.]

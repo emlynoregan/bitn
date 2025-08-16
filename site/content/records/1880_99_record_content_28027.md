@@ -19,6 +19,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Wednesday 14 March 2,30 p.m. Burra will play the Muffs in the sensational event of the season. 6d.  N.B. Egg merchants are advised to quit present stocks at once.

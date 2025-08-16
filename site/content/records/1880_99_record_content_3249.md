@@ -22,6 +22,7 @@ topics:
 - property
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston, Shakes & Co. will sell on 4 Mar. Mr E. Nolan’s wine and spirit store on allotment 62, Redruth, comprising also a house of five rooms and a cellar 20’ x 40’

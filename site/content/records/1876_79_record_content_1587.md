@@ -21,6 +21,7 @@ topics:
 - housing
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa -`The houses are mainly miserable structures - barely worth the name we have bestowed upon them in the beginning of this sentence - but, bad as they are, they are very scarce, and a decent house is not to be obtained.'

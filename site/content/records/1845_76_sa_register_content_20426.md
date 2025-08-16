@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Church of England has the usual services on Good Friday and on Easter Monday Rev. L.W. Stanton entertained the Sunday-school children at the parsonage in Redruth.

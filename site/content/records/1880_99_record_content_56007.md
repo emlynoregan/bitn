@@ -21,6 +21,7 @@ topics:
 - cemetery
 - park lands
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Financial position at the beginning and end of 1894:

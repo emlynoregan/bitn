@@ -21,6 +21,7 @@ topics:
 - injury
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.E.H. Winnall unfortunately had his nose split by a ball while wicket keeping.  The rough state of the pitch resulted in many receiving nasty blows to the body.

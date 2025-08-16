@@ -25,6 +25,7 @@ topics:
 - public health
 - schools
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the typhoid scare.  Actually in Burra each case seems to have had its origin in an outside source.  The schools have not been the source of any spread.  There has not been a single case in Redruth or Aberdeen and not more than one in the West Ward of Kooringa.  It has occurred only where conditions have favoured the spread from cases brought in from Broken Hill or elsewhere.

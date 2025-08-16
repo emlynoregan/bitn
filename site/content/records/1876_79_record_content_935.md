@@ -21,6 +21,7 @@ topics:
 - hotel closure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Notice.  Burra Hotel.  This Hotel will be closed after Saturday August 25, 1876.

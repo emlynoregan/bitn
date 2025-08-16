@@ -20,6 +20,7 @@ topics:
 - anniversary
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary services on Sunday were crowded, especially the Service of Song, The River Singers.

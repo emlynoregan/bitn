@@ -23,6 +23,7 @@ topics:
 - religion
 - mourning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Death of Gordon.  Rev. H. Howitt at St Mary’s and Rev. G.E. Rowe at Kooringa Wesleyan Church gave addresses on the death of General Gordon last Sunday and the pulpit at the latter was draped in black.  Reference to the loss was made at all the churches.

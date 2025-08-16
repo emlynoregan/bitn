@@ -21,6 +21,7 @@ topics:
 - pests
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East, 6 April.

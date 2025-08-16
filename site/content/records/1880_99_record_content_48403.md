@@ -19,6 +19,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Miss Yeoman will reopen the school lately conducted by the Misses Rabbich.

@@ -21,6 +21,7 @@ topics:
 - event
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Primitive Methodist Sunday School Anniversary, Picnic Good Friday at the Koonoona Estate, Services Sunday, Tea on Monday.

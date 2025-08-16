@@ -22,6 +22,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Concert, presided over by W.H. Rosman was held on Monday evening at the Burra Hotel, in aid of the building fund for St Joseph’s Roman Catholic Church.  [The performers and their items are then listed.]

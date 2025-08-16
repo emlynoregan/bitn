@@ -19,6 +19,7 @@ topics:
 - animal welfare
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wallett’s Great Circus was ‘a sorry affair’.  We understand the police remonstrated with the circus on account of cruelty to animals.

@@ -30,6 +30,7 @@ topics:
 - mining
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A public divine service in connection with the United Presbyterian Church was held in the Primitive Methodist Chapel at Redruth on Sunday.  The Rev. James Lyall of Adelaide gave two excellent sermons in the morning and evening, while in the afternoon Rev. M. Davidson, who intends settling in the district, preached to a crowded congregation.  It is understood that the Presbyterians have engaged the Primitive Methodist Chapel for six months for the purpose of holding weekly services therein.

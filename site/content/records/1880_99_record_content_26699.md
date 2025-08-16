@@ -19,6 +19,7 @@ topics:
 - community
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School anniversary services on 6 Nov. were very successful and so was the tea meeting.  The Service of Song was repeated last Sunday to a good congregation.

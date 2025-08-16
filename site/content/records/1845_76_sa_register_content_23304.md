@@ -19,6 +19,7 @@ topics:
 - education
 - teacher training
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA has never yet trained a teacher of its own.  All have either been imported or improvised, or like Topsy they have grown fortuitously.

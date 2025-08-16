@@ -20,6 +20,7 @@ topics:
 - policy
 - mineral rights
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mineral rights will not in future be included in the sale of Crown Lands in SA.

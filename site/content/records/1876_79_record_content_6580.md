@@ -18,6 +18,7 @@ topics:
 - accident
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. A cow was killed on the line last Friday.

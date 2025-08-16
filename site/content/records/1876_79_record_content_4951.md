@@ -19,6 +19,7 @@ topics:
 - sport
 - public holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 permission of A. McCulloch Esq., Public Holiday, Monday 11 November 1878. 

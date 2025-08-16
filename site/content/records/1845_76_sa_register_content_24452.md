@@ -22,6 +22,7 @@ topics:
 - water supply
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Northern Argus reports that two young men from near Watervale returned from the diggings with 1 oz 7 dwts of gold as the result of three weeks work.  They are convinced the field is payable, but the shortage of water for washing the dirt is a problem.  The deepest hole we have heard of there is about 20 ft.  Three Messrs Buzzacott have returned after three weeks’ work with 4 oz of gold and are favourably impressed.  The diggers complain of grog-selling, but if the miners drink to excess it is hardly fair to blame the vendor.

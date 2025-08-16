@@ -30,6 +30,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Six Queen’s Scouts from Burra went to Adelaide on the weekend of 2-4 May.  On Friday the scouts and their parents had a special dinner at the Hotel Adelaide.  On Sunday morning they were presented with their certificates from H.E. Sir Donald Dunstan at Government House.  Those receiving certificates were Ian Kleinig, Robert van Gasteren, Peter Fidock, Graham Gardner, Shaun Dollman and John Jones.  [Photo of the scouts.]

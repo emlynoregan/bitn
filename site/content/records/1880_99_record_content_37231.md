@@ -23,6 +23,7 @@ topics:
 - irrigation
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Rabbich moved a vote of no confidence, but was attacked by Sampson, Rayner and fuss who persuaded him to withdraw.  The Baldina irrigation scheme passed a second reading and went to committee.

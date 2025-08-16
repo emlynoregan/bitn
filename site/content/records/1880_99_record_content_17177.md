@@ -20,6 +20,7 @@ topics:
 - anniversary
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Primitive Methodist Sunday School Anniversary next Sunday, 5 April & tea meeting 6 April.

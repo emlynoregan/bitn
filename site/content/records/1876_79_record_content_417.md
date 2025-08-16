@@ -18,6 +18,7 @@ topics:
 - local government
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [He appears to be responding to slurs cast upon him, though the details of their nature are not clear from this letter.]

@@ -20,6 +20,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Sunday School Anniversary, 15 & 18 November, 2.30 p.m. Service of Song: The River Singers.

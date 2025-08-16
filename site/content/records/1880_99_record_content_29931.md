@@ -20,6 +20,7 @@ topics:
 - royalty
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marble Flux.  SAMA are asking the high royalty of 1/- per ton on the flux.  A trial lot is going to Broken Hill this week.

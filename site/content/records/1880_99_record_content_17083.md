@@ -21,6 +21,7 @@ topics:
 - opinion
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.R. Ridgway who writes at length. [c. ¾ column] He takes issue with ‘Bourgeois’, or at least he would except that he ‘failed to understand the strange tirade’

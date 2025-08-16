@@ -21,6 +21,7 @@ topics:
 - sale
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Charles Schutz has sold his business in licensed cabs to T.P. Halls of Aberdeen.

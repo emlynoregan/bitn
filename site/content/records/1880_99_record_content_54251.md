@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Good Rain over the last few days has boosted chances of a good harvest with 2.79” recorded.

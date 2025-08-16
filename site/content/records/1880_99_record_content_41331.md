@@ -20,6 +20,7 @@ topics:
 - health
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Mrs Bartle will take in cases for monthly nursing.  Good accommodation next to Mr R. Austin’s, Aberdeen.

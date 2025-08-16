@@ -17,6 +17,7 @@ topics:
 - letter
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter from an ‘Ex-Councillor’ makes the same point.

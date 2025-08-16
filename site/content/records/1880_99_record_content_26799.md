@@ -20,6 +20,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Avenue Fund is now closed and Mr Holder has paid over to the Town Clerk the balance of £16-12-10 that was unsubscribed plus his pledged £1-1-0 (£17-13-10 in all)

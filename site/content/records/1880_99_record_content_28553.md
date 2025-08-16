@@ -19,6 +19,7 @@ topics:
 - appointment
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder has been elected to the board of Governors of the Public Library when all 30 Institutes supported his candidacy.

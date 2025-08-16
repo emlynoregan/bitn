@@ -20,6 +20,7 @@ topics:
 - mining
 - economic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Alma & Victoria Mine at Waukaringa reported on 6 May they produced 386 oz of gold in April; March had yielded 371 oz.

@@ -21,6 +21,7 @@ topics:
 - railway
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Quale, the resident railway engineer slipped last week while examining one of the pile bridges and knocked himself out.  He was only saved from a fall of many feet by a person close at hand.

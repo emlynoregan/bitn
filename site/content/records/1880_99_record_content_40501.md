@@ -21,6 +21,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church Conference on Thursday has decided to unite the Burra and Hallett circuits under one minister who will reside in Burra.

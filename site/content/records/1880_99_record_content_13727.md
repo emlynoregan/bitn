@@ -19,6 +19,7 @@ topics:
 - service
 - fees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The night cart is to be loaned to people wishing to use it for 5/- per night.

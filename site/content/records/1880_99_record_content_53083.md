@@ -21,6 +21,7 @@ topics:
 - obituary
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Stanley Rabbich, aged 12, 2nd son of W.T. Rabbich, died as the result of a scalding received recently from the explosion of steam in an oil drum.  [Registered as born William Stanley Rabbish 11 August 1881: died William Stanley Rabbich 5 March 1894.]

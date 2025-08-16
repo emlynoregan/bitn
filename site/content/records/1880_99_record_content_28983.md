@@ -19,6 +19,7 @@ topics:
 - education
 - examination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davieston School was inspected on 22 June and 6 of the 10 children presented for examination were promoted.

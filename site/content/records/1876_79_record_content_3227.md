@@ -23,6 +23,7 @@ topics:
 - speculation
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines. Ed. An extraordinary meeting of shareholders is to be held soon to empower the directors to dispose of the whole property. It is feared that any buyer will be merely a speculator wanting to hold the property and plant until such a time as the copper price rises and enables them to sell to other speculators at a profit. This would not be very reassuring for the town as no jobs would be forthcoming in the short-term.

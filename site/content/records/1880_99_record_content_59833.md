@@ -27,6 +27,7 @@ topics:
 - accident
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Railway Accident.  Last Sunday night [19 April] at the Grand Junction [Road] crossing at Dry Creek a train ran into a trap containing four men, killing them all.  The cause is presently unknown.  The dead are: E.J. Sheridan 23, Arthur Hall 24, W. Thompson & W. McCombe 23.

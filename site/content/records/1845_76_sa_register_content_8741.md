@@ -23,6 +23,7 @@ topics:
 - cartage
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra Mines.  £4 per ton of 20 cwt will be paid for the cartage of copper from Kooringa to Port Adelaide during the winter months.

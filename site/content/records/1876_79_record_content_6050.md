@@ -22,6 +22,7 @@ topics:
 - transport
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. F.R. White's horse bolted on Monday morning as he was taking it out of the wagonette*. The gate blew open and scared it. The trap* passed over Mr White's foot and knocked against Mr Snell's verandah post where the harness gave way. The trap was considerably injured, but no people were. [*This variation in terminology within a single report in the paper was common. Trap and buggy in particular were interchangeable terms.]

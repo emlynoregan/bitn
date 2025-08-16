@@ -22,6 +22,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘One Willing to Help’ desiring an official opening of the Recreation Ground with a sports meeting followed by an evening concert.  Collection cards could raise the £15-£20 needed for the prizes for the sporting events.

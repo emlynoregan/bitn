@@ -20,6 +20,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. Burgess entertained a well-filled Wesleyan Lecture Hall on Wednesday last with a question box lecture.  Some 70 questions were posed on a wide range of subjects.

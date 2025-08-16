@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There is a complaint that no matter what the weather the ladies waiting room at the Burra station is only open while the train is at the station!

@@ -18,6 +18,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Military Concert will be held in the Institute on Friday 25 June. A good program will include the laughable farce The Vegetable King.

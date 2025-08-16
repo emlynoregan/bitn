@@ -20,6 +20,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. W.L. Stanton has given one of his excellent readings from popular authors at the Burra Hotel to aid the case of a widow recently bereaved.

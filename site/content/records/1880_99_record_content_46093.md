@@ -19,6 +19,7 @@ topics:
 - society
 - literary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met at Mrs Reed’s on Friday.  The program featured short essays.

@@ -29,6 +29,7 @@ topics:
 - deputation
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Freight Charges.   Meeting was called at the Institute for stockowners and others pushing for lower railway tariffs for sheep and cattle.  Their argument was that in NSW the cost of a trip of equivalent distance of Burra to Adelaide was 6¼d per head of sheep, while in SA it was 8d per head or £4-4-2 per truck.

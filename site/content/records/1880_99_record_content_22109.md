@@ -21,6 +21,7 @@ topics:
 - church
 - retirement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School Teachers’ annual meeting was held and W. Geake was given a presentation on his retirement after 20 years as Superintendent (with a slight interval).

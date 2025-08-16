@@ -18,6 +18,7 @@ topics:
 - publication
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Record.  The supplement will be delayed one week and will appear next issue.

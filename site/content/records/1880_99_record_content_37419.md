@@ -20,6 +20,7 @@ topics:
 - community
 - youth organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Call for members for Rose Bud Tent IOR for Juvenile Rechabites, girls 7-15 years.  Parents are invited to bring their children to obtain all information at the Lodge Room at the Institute on Wednesday 30 July.

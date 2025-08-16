@@ -20,6 +20,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Concert by Blind Performers Only, Monday 16 November at the Institute.

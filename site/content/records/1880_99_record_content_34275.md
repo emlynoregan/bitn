@@ -18,6 +18,7 @@ topics:
 - larrikinism
 - violence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  There have been of late free fights in the streets and ‘yells of drunken savages’.

@@ -19,6 +19,7 @@ topics:
 - agriculture
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on SA Farming.  The writer calls for more scientific farming practices.  He was against stubble burning.

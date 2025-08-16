@@ -17,6 +17,7 @@ topics:
 - events
 - ticketing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Seats 2/6 & 1/

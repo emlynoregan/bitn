@@ -23,6 +23,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  3 November.  Herbert James Beames, 3rd son of the late William Beames of Adelaide married Mary Lonsdale (Lonsie) Giles, 4th daughter of Robert Giles of Redruth.

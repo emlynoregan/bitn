@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The Jamestown-Yongala railway is almost complete, but has been delayed by lack of rail.

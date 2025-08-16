@@ -35,6 +35,7 @@ topics:
 - speeches
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Masonic Farewell was given to Thomas Bath who leaves soon on a trip to England. Mr Bath in responding to best wishes recalled joining the lodge in Kooringa 29 years before and in 1852 so many went to the gold rushes that there was not a quorum for meetings. Songs and recitations were given by members. E. Lipsett `rendered The Charge of the Light Brigade in a capital manner.'

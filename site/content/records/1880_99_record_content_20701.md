@@ -21,6 +21,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket match the same day: Adelaide Australian Juniors v. Aberdeen at 10 a.m. at Aberdeen.

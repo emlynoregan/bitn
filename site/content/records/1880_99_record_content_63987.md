@@ -26,6 +26,7 @@ topics:
 - inquest
 - farm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On 12 April a fire on the farm of James O’Dea at Booborowie destroyed two haystacks containing about 48 tons of hay.  An inquest was held before J. Sampson JP and a jury of six headed by T.T. Shortridge.

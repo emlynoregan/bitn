@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  At Copperhouse on 26 August, Johanna Fredericka Ross, wife of Joseph Ross and daughter of William and Johanna Dunemann, aged 28, after a long and painful illness.  [Born 29 July 1852]

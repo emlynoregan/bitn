@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Floods & the Hallett Railway: Ed. on the recent flood damage to the railway as predicted due to insufficiency of culverts & bridges.

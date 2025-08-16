@@ -25,6 +25,7 @@ topics:
 - council
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J.E.H. Winnall said he would stand for West Ward in response to a large requisition.

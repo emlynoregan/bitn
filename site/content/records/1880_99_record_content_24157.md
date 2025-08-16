@@ -19,6 +19,7 @@ topics:
 - migration
 - demography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  The tide has turned again and last week at Pt Adelaide 171 more departed than arrived.

@@ -30,6 +30,7 @@ topics:
 - institute
 - unemployment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has endorsed the Mayor’s plan as announced.  The subscription list for the Mayor’s Fund is opened.

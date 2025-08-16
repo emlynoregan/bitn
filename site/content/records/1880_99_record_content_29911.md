@@ -21,6 +21,7 @@ topics:
 - waterworks
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy decrying the Government’s refusal to hand over the Waterworks and insisting on the exorbitant rates declared.

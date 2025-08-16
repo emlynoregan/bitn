@@ -21,6 +21,7 @@ topics:
 - event
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 After the above came a £5 match between Mr Ware’s Ginger and Will o’ the Wisp in which Ginger won by a length.

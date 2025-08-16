@@ -18,6 +18,7 @@ topics:
 - rates
 - accounting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The problem was that people paid for a certain allowance of water, but in the July-December half year didn’t need as much because their tanks were full.  At present their unused portion was then lost and could not be carried forward into the following January-June half when water was most needed.

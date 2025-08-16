@@ -22,6 +22,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  W.L.H. Bruse died this week.  He contracted influenza and bronchitis a few weeks ago.  He came to Burra in 1847 and carried on business as a cabinetmaker.  When Bendigo diggings broke out he went there and was successful for 6-7 months before returning to Burra.  He was a Past Grand of the Oddfellows Lodge and an active member of the Masonic Lodge in its early days.  He did not take an active part in public affairs, but was willing to assist the town in any way and was of a benevolent disposition and a straightforward businessman.  [Wilhelm Ludwig Heinrich Bruse died 29 November 1891 aged 69.]

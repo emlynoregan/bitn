@@ -18,6 +18,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Juvenile Mission meeting on Wednesday was well attended.

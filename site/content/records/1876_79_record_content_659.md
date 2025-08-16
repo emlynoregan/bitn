@@ -24,6 +24,7 @@ topics:
 - mental health
 - asylum
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Marian Milne was charged with damaging property of W.S.L. Bruce.  Dr Nesbitt certified she was of unsound mind.  Mr Bruce withdrew the charge and she was sent to the Adelaide Lunatic Asylum.

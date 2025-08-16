@@ -20,6 +20,7 @@ topics:
 - real estate
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston, Shakes & Co. are selling by auction, on behalf of W.T. Rabbich, who is leaving the district, Hundred of Kooringa sections 39, 43, 47, 57 (668 acres) with 5 roomed house and detached kitchen & 4 roomed cottage, underground tank and spring.  £1,000 for the land.

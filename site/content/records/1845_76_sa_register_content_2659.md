@@ -24,6 +24,7 @@ topics:
 - mining
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 4 October 1848, page 3

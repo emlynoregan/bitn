@@ -19,6 +19,7 @@ topics:
 - personnel
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Several members of the Government party are on the point of leaving, as they are not being shifted from the notorious ‘Pinch Gut’.

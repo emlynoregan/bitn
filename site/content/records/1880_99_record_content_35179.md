@@ -20,6 +20,7 @@ topics:
 - vandalism
 - public property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  Last Saturday evening all the footway crossings between Kooringa and Redruth were pulled up and thrown into the watertables.

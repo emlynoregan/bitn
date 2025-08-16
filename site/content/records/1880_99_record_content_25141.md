@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Politics.  The absence of parties in the SA Parliament makes it difficult to evolve proper policies, but some party interest seems likely to emerge before another election.

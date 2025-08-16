@@ -23,6 +23,7 @@ topics:
 - township
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  The Township of Wetherston, situated at the Northern Extension Railway on Farrell’s Flat about 10 miles southwest of Kooringa.  More details soon.  [Now part of Farrell Flat Township.]

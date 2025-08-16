@@ -17,6 +17,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  1.58” has fallen recently and was much welcomed after a dry spell.  For some crops however, it is already too late.  The fall has this time extended to the east.

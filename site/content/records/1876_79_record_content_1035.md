@@ -24,6 +24,7 @@ topics:
 - transport
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Roads Board - The Kooringa-North West Bend road allocated £1,400. Board decides on the route from near Paxton's Square via the Smelting Works and Diprose's Creek. It was said to be a response to the needs of traffic rather than the needs of the town. It was seen necessary to serve the Mine and the station.

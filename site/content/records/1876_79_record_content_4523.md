@@ -17,6 +17,7 @@ topics:
 - election
 - nominations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Legislative Council election nominations close Monday 26 August.

@@ -20,6 +20,7 @@ topics:
 - hospital
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  An old man named Neaves was run over by a cab on election day and is in the Burra Hospital seriously ill.  A subscription list has been started for him.

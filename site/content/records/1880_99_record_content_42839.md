@@ -23,6 +23,7 @@ topics:
 - death
 - influenza
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt said deceased had been in the Burra Hospital from 16 Oct. to 21 Oct., but was discharged for insubordination.  He had been supposed to be suffering a slight case of influenza, but no pronounced disease was apparent and not being seriously ill he was told to go on the 21 Oct. after having been abusive to a nurse.  The autopsy showed inflammation of the lungs as the probable cause of death, though it was unusual for it to follow so rapidly.  Dr Sangster concurred in the autopsy findings.

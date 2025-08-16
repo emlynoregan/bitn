@@ -19,6 +19,7 @@ topics:
 - real estate
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Advising that the Spring Bank Estate of 4,100 acres is for sale.

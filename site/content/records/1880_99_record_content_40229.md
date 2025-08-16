@@ -22,6 +22,7 @@ topics:
 - public service
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S. Bennett writing from Aberdeen to The Register complains of the ‘men of no education, social standing, or common business tact, let alone knowledge of the law’ that are being appointed as JPs.  The Attorney General’s attention should be drawn to this fact.

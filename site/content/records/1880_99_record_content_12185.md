@@ -21,6 +21,7 @@ topics:
 - appointments
 - public notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice: Applications are called by the Burra Town Council for a Medical Officer of Health.

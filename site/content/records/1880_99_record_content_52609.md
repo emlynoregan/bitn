@@ -20,6 +20,7 @@ topics:
 - sport
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polkinghorne who ran 3rd at Burra sports has won the Glenelg Sheffield Handicap.

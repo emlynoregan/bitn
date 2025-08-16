@@ -20,6 +20,7 @@ topics:
 - employment
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr James Littlejohn left Burra for Broken Hill on Monday, having secured a good position with one of the mines.

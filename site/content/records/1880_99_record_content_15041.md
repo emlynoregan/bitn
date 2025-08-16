@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sebastian George, the mind reader, will appear at the Institute tomorrow (Saturday) night.

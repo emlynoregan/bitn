@@ -18,6 +18,7 @@ topics:
 - letter
 - social commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  A letter to the editor defends W.H. Hardy as a necessary part of society: to be preserved as the court jester.

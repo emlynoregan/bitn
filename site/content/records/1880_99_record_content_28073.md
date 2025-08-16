@@ -20,6 +20,7 @@ topics:
 - international
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the proposal of the Emperor Frederick III for a more democratic German constitution and on democratic governments generally.

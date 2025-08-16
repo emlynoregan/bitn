@@ -20,6 +20,7 @@ topics:
 - dance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Quadrille Assemblies. The closing quadrille assembly will be held on 23 September. John F. Duff. Hon. Sec.

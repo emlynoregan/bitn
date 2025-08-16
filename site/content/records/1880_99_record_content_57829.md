@@ -22,6 +22,7 @@ topics:
 - waterworks
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer then recounts the events of the Waterworks and the appeal by the Engineer to Cr Harris for wood.  Surely either the Waterworks Committee or the Council is guilty of neglect in not seeing that there was a supply of wood on hand.

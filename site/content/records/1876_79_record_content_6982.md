@@ -20,6 +20,7 @@ topics:
 - bridge
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. We understand Mr Woollacott has decided not to sign the contract for the Redruth bridge which will delay it another month.

@@ -22,6 +22,7 @@ topics:
 - football
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Broken Hill visited on Monday last, having played a series of matches in Adelaide.

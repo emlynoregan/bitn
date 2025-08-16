@@ -20,6 +20,7 @@ topics:
 - fish
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Frank Harris can supply fresh fish for summer.  Fresh Murray Cod available after the express every Thursday evening.

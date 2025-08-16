@@ -18,6 +18,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Polo match at Aberdeen on Saturday in which the Married defeated the Singles.

@@ -18,6 +18,7 @@ topics:
 - government expense
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquests.  There have been five in seven days at a cost of £23-17-6 to the Government.  Two were for fires and three on bodies of persons meeting death in unusual circumstances.

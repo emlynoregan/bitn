@@ -27,6 +27,7 @@ topics:
 - match
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Players		Bowman (Captain) scored 6	Murray (Captain)

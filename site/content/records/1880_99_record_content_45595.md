@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Sunday School Anniversary last Sunday.  Revs J. Hopkins & R.C. Yeoman preached to unusually large congregations.  The children’s treat and the tea meeting are today.

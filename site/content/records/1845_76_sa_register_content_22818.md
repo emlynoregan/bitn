@@ -21,6 +21,7 @@ topics:
 - fencing
 - sheep
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fencing Sheep Runs.  A letter from ‘Bucolicus’ printed in the Sydney Mail recently is reprinted.

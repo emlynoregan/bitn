@@ -22,6 +22,7 @@ topics:
 - notice
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  H. McKenzie, Sgt-Major of the Militia Fife & Drum Band, thanks W.J. Davey & members of the Burra Band for the assistance at the recent concert.

@@ -19,6 +19,7 @@ topics:
 - prospects
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Great expectations are raised concerning the successful opening of the Princess Royal running sett.  Beautiful specimens have been seen and further experiments will determine if it is a paying proposition.

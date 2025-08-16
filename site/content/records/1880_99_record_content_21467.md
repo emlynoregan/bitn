@@ -19,6 +19,7 @@ topics:
 - police
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  A second letter finds W.H. Hardy rather fatuous.  The police were unable to find the culprits for good reasons.

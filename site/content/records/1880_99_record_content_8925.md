@@ -18,6 +18,7 @@ topics:
 - short story
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 15 Dec.	VIII-X	The Victims of Cedar Gulch	X	X	X	X			X	X			X

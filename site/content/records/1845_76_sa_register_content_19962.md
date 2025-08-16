@@ -18,6 +18,7 @@ topics:
 - mining
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Narkara has produced some good specimens lately and the men have several tons of ore at grass.

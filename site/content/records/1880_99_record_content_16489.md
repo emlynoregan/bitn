@@ -20,6 +20,7 @@ topics:
 - sport
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycling.  A fine display of riding was given on Wednesday afternoon by a visitor, Mr Garden, of Adelaide.

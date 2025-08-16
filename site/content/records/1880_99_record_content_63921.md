@@ -26,6 +26,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. & Mrs Langsford were tendered a valedictory social at the German Schoolroom in Redruth on Monday evening.  Mr & Mrs A.H. Forder were also farewelled.  They anticipate moving from Burra.  Mr Bartholomæus presided.

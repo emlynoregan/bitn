@@ -19,6 +19,7 @@ topics:
 - employment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wallaroo Mines are to cease operation due to the depressed state of the copper market; throwing nearly 500 men out of work.

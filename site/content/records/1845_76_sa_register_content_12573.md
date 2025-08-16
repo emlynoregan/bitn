@@ -17,6 +17,7 @@ topics:
 - weather
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The weather has been extremely cold lately with sharp frosts at night.  Rain now threatens.

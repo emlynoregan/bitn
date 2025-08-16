@@ -23,6 +23,7 @@ topics:
 - public disorder
 - strange events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Strange events in Thames St.  On Tuesday at midnight in Thames St someone entered Mr T. Halls’ yard and poisoned his dog, but having decided the poison wasn’t working, he decided to shoot it.  The shot missed the dog and hit the door and window of the house.  (The poison killed the dog soon after.)  Mr Halls then awoke and got up to see what was going on.  He harnessed two horses to his buggy and was about to start when a second shot was heard.

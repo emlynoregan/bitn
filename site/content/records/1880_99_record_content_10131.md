@@ -20,6 +20,7 @@ topics:
 - road
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Road Boards.  It is proposed to transfer responsibility for main roads within Corporations from the Road Boards to the Corporations.  The Burra Corporation has written to all others in the colony agreeing that such a move would remove the source of considerable conflict, but insisting that it be accompanied by a grant of a certain amount per mile to maintain such roads.

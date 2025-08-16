@@ -22,6 +22,7 @@ topics:
 - review
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Peter’s Cathedral Choir.  There is an article of some 1⅓ columns on their visit to Burra by ‘Inkslinger’. 

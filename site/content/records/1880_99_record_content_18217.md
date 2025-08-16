@@ -20,6 +20,7 @@ topics:
 - safety
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A few panels of fencing are to be erected at the place in Blyth St where Mrs Cundy fell recently.

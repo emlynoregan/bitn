@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A Pool Disco was held at Burra Swimming Pool last Saturday.  Ian Kleinig was the DJ.

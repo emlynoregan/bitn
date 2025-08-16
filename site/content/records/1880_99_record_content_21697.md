@@ -25,6 +25,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Morton of Aberdeen recently died after a very short illness, leaving his widow unprovided for and seven children to raise.  He was a plasterer who worked often for Sara & Dunstan, but was of late unable to get much work.  Sara & Dunstan’s employees have set up a fund for the family and £30 has already come in from Terowie.  Mr J. Roach has arranged an entertainment at the Institute next Friday to aid the cause.

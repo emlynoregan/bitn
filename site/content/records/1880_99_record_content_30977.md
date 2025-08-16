@@ -21,6 +21,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The cricket match scheduled between Burra and Terowie is cancelled, as Terowie can’t come: instead Burra will meet Riverton.

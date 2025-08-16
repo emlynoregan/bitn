@@ -20,6 +20,7 @@ topics:
 - election
 - ethics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘An Elector’ writes objecting to a man who is to be a deputy returning officer, going about the country canvassing names for a requisition in support of a gentleman.

@@ -19,6 +19,7 @@ topics:
 - club
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Juvenile Foresters met at the Institute on Monday to see a beautiful collection of magic lantern slides of Bro. J.E.F. Opie-Lapidge.

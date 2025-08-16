@@ -19,6 +19,7 @@ topics:
 - voting
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Clerk is currently revising municipal rolls and points out that by law aliens are precluded from voting as is anyone in receipt of public relief or alms.

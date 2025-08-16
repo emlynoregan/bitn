@@ -23,6 +23,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Great [Maritime] Strike.  In Burra the millers are feeling the difficulty of not being able to get flour away.  Butterworth’s Mill has had to close despite having orders to fulfil for WA and Brisbane.

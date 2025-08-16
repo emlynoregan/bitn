@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Carruthers: ‘No country on the face of the earth was so over-governed as Australia was.  For four millions of people there were seven Governors, seven Agent Generals, fourteen Houses of Parliament, seven Postmasters-General, and seven Supreme Courts.’

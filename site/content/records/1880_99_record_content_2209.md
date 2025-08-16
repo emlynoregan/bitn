@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C. Frost of Baldina has sent in the 1st wheat of the season to J. Roach.

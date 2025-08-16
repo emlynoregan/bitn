@@ -20,6 +20,7 @@ topics:
 - railway
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Silverton & Mt Gambier railway lines have now been handed over to the Government and open to heavy traffic in both goods and passengers on the Silverton line.

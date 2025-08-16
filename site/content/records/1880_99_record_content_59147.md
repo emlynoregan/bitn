@@ -21,6 +21,7 @@ topics:
 - sports
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Power, who won the Burra and Terowie Sheffield Handicaps, was disqualified at Glenelg, but I have not heard why.

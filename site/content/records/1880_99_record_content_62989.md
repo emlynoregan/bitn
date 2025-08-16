@@ -19,6 +19,7 @@ topics:
 - community
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cemetery account is £21-5-6 in credit.

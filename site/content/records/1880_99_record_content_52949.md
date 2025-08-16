@@ -30,6 +30,7 @@ topics:
 - committee
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee meeting.  President J. A. Watt, Vice-President Harvey, Hon. Sec. Moore, Messrs Furniss & Williams.  Others on committees were Messrs Jennings, Lasscock, Packard, Wilkinson, Roach & Dr Brummitt.

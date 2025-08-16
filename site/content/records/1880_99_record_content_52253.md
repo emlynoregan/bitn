@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Homing Pigeon Club.  There will be a meeting at the Record Office on Thursday 21 December at 8 p.m. for the purpose of forming a Homing Pigeon Club.

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Lamrock of Booborowie School and her pupils organised a concert that raised £5-1-6 for the purchase of tools, materials etc. for practical work at the school.  A ball followed the concert.

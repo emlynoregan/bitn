@@ -19,6 +19,7 @@ topics:
 - utilities
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lamp lighting will continue at the old rate if the contractors are agreeable: if not it will go to tender.

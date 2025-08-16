@@ -29,6 +29,7 @@ topics:
 - libel
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sanitation in Kooringa: Report of libel case arising out of the debate reported earlier.

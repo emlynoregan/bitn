@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  A list of intended works for 1887 is published.  Mostly they are the metalling of various roads with some kerbing.

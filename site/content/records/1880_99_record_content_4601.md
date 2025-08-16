@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The old bridge in Chapel St is to be removed.  [Presumably a footbridge since a new one had just been constructed.]

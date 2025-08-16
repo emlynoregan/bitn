@@ -18,6 +18,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting.  About 250 new plantings have been made in the streets of Burra.  The ratepayers are asked to care for those near their premises while they are young.  Those cared for are five to six times the size of those neglected in the areas previously planted.

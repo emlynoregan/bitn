@@ -20,6 +20,7 @@ topics:
 - estate
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.   In the assigned estate of Edward Lipsett tenders are called for: -

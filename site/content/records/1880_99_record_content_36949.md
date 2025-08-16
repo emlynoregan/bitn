@@ -19,6 +19,7 @@ topics:
 - trade
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Free Trade.  Queensland has decided that the time for free trade with SA is not yet ripe.

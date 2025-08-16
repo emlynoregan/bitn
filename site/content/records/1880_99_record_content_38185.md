@@ -20,6 +20,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School Concert of 24 September is reviewed.  Rev. Father Dowling SJ was in the chair and the program was carried out entirely by the children.  Each item is listed and the concert deemed a thorough success.

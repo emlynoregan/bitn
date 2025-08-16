@@ -22,6 +22,7 @@ topics:
 - procedure
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson said before Cr Rabbich did explain he would move that the Council go into committee and all strangers leave.  Cr Watt 2nd.

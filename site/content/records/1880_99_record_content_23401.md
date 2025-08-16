@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council Inspector should stroll around Burra on Sunday mornings and see the dozens of horses and cattle, which monopolise the streets on those days.  It ‘wants putting a stop to.’

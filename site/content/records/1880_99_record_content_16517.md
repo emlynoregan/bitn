@@ -20,6 +20,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 His 3rd lecture is on Wednesday night in Redruth: ‘War in Egypt’ with dissolving views.  1/-

@@ -20,6 +20,7 @@ topics:
 - newspaper
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Paper.  We have received a copy of a new trade and labour organ from Port Adelaide The Star.  It is published by an old Burra identity, Mr F. Wigney, once a foreman in this office.

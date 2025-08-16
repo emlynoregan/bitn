@@ -21,6 +21,7 @@ topics:
 - rush
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Northern Argus reports a new find three miles from Ulooloo Creek that has caused a rush to the spot.  There are about 150 diggers at work.

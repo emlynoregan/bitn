@@ -24,6 +24,7 @@ topics:
 - bridge
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘That the South Australian Mining Association be memorialised to build the said bridge, assisted by the tradesmen of Kooringa.’

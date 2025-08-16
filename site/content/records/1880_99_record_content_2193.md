@@ -24,6 +24,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  William George Goodchild & Co. on 22 November at Mr Lipsett’s residence offer for sale the whole of his furniture and effects as he is leaving Burra for Adelaide next week.

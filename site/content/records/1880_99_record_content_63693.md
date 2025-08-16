@@ -20,6 +20,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sale of Gifts at the Burra Institute on 4 March with proceeds to aid the Circuit Funds of the Kooringa Primitive Methodist Church.  Promenade Concert in the evening.  6d.

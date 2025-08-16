@@ -20,6 +20,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Special Jubilee Service at the Bible Christian Church was a complete success.  Parents and friends as well as children turned out and filled the large building to capacity.  Special services at St Mary’s with the afternoon one devoted to children were also well attended.

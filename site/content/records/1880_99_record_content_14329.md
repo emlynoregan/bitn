@@ -21,6 +21,7 @@ topics:
 - theatre
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Catholic Young Men’s Soc. and the school students drew a good attendance to their concert with the hall comfortably filled.  The farce Under False Colours was creditably given.

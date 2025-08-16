@@ -18,6 +18,7 @@ topics:
 - agriculture
 - yield
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the west of Baldina the yield averaged 10 bushels per acre.

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert, Friday 30 September in the German School-Room.  In aid of funds for the Burra Literary Soc.  6d. W.H. Morton, Manager.

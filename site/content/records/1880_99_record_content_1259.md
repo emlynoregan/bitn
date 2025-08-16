@@ -22,6 +22,7 @@ topics:
 - public meeting
 - electoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Public Meeting at the Institute on Saturday evening last was to support the Electoral Districts Bill.  Mayor, P. Lane presided.  Mr Ridgway supported the Bill and F.W. Holder 2nd his motion.  Carried unanimously.

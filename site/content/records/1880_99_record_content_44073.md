@@ -25,6 +25,7 @@ topics:
 - editorial reply
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes complaining of the implication in the editor’s comment that now the Waterworks’ engineer will have to be paid an extra £31-4-0.  He claims that the work to be done is now specified where it wasn’t before and so that although he was previously paid 8/- a day it cost over 10/- a day to get the job done.  Now for £3 a week he will have to do the work.  The extra 2/- a day is thus well spent.

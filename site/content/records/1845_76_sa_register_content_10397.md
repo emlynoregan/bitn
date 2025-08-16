@@ -19,6 +19,7 @@ topics:
 - finance
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  The half-yearly report of the company is printed.  All the most interesting points are included in the editorial comment on page 2, but the page three notice does give the full financial details.

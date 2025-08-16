@@ -39,6 +39,7 @@ topics:
 - voting
 - deed of settlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association Second Annual Meeting of scrip holders at the Auction Mart Tavern in Hindley Street. After some dissension Mr Beck presided.

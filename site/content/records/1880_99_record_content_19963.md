@@ -29,6 +29,7 @@ topics:
 - road
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway said he might have committed an error, but he thought the work was authorised.  The improvement in Ellen Tce [sic] [Should be Helen] had been done at the instigation of the Road Board stationman.  The work done in the creek bed did not stop the waterway, but gave an enlarged waterway and cost nearly nothing as it came from a cutting opposite.  He did not care about the ratepayers’ remarks, but did expect support from Council.

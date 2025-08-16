@@ -18,6 +18,7 @@ topics:
 - community action
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The railway question is still much discussed and the memorial prepared under authority of last week’s public meeting is being extensively signed.

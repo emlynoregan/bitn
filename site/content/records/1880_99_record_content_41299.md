@@ -20,6 +20,7 @@ topics:
 - advertising
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Economist’ replies to Mr Morton, Hon. Sec. of the Literary Soc., Mr Morton accused ‘Economist’ of holding religion up to ridicule.  ‘Economist’ says rather it was the person who had the Literary Soc. concert announced from the pulpit who did that by desecrating the pulpit.  The absurdity lay in a man who went in for such free advertising also paying the paper for such a service.  ‘Economist’ wrote nothing against the Literary Soc. and didn’t even say who had the audacity to convert the pulpit to an advertising board, but if the cap fits . . .

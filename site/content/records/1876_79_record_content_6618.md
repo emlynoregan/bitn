@@ -23,6 +23,7 @@ topics:
 - obituary
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. 12 June. George, son of George and Maria Webber, aged 4 years 5 months, from diphtheria.

@@ -17,6 +17,7 @@ topics:
 - ticketing
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tickets 2/- & 1/-, Reserved chair 3/-, Ticket to Both Nights 5/-

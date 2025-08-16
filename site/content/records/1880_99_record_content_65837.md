@@ -18,6 +18,7 @@ topics:
 - local government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rates were declared at: General 9d, Health 5d and Parklands ½d in the £.

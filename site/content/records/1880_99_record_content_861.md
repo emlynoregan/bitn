@@ -20,6 +20,7 @@ topics:
 - spiritualism
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Rose Brothers, Illusionists, Seancists, Clairvoyants, Polyphonists and Exposers of Spiritualism, will appear with music at the Institute 4 April.

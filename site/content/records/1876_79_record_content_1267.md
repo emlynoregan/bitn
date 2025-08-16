@@ -20,6 +20,7 @@ topics:
 - land tenure
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Parl. Club debated the railway to Hallett & the station location and leasehold versus freehold for agricultural land.

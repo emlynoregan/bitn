@@ -20,6 +20,7 @@ topics:
 - performance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  A fair audience saw the Musgrove Operatic Co. in the Institute on Wednesday evening.  It is one of the best travelling companies and well worth patronising.

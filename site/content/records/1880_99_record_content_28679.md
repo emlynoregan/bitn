@@ -23,6 +23,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Agricultural Bureau.  Appointment of a local branch comprising Dr Brummitt JP & Messrs J. Lewis, W. Barker, T. Fairchild, A.H. Forder.

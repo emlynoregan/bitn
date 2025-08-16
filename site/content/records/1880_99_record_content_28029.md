@@ -23,6 +23,7 @@ topics:
 - syndicate
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wheal Francis Tin Mining Syndicate met in the Burra Institute on 8 March.  W. West presided.  Mr A.S. Seymour discovered the find, which adjoins the Mount Lake south Claim at Waukaroo NSW.

@@ -21,6 +21,7 @@ topics:
 - labor
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Monday a large number of men and lads, who were ore dressers at the Mine, struck for higher wages, and on account of the non-allowance of the usual ‘sist,’ which is a sort of advance given weekly for maintenance until the periodical ‘pay-days’.

@@ -19,6 +19,7 @@ topics:
 - church
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Juvenile Missionary Society meeting was held at the Kooringa Wesleyan Lecture Hall last Thursday with Rev. R.M. Hunter presiding.

@@ -25,6 +25,7 @@ topics:
 - call of whole council
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 5 April.  Cr Harris replaced Cr Kitchen who had left the district.  Cr Parks asked if the Mayor had reconsidered his position.  The Mayor said no.  Later Cr Linkson moved that the Council deems it expedient that a call of the whole Council be held on Monday April 17 with a view to the excision of the Mayor’s report.  Council soon after adjourned.

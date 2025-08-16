@@ -22,6 +22,7 @@ topics:
 - community
 - language
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Welsh People are numerous in the colony and as so many do not speak English Rev. John Roberts intends to preach in the Welsh language wheresoever he meets with his fellow countrymen in the course of his travels around SA.

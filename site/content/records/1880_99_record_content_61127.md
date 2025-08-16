@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra United Friendly Societies’ Demonstration: Boxing Day, 26 December.

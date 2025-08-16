@@ -26,6 +26,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sarah Ann Gray died on 9 September at Redruth, aged 69.  She was the wife of the Town Inspector, John Robinson Gray and a resident of 40 years.  Mrs Gray was born in England in 1828 and came to SA in 1848 – a colonist of 47 years.  [This doesn’t seem to add up.]  She was an invalid for the last 7 years.  She is survived by a husband, a son, Mr A.D. Gray of Orroroo, and a daughter, Mrs W.J. Woollacott of Redruth and 8 grandchildren.  [Born Sarah Ann Lenton in England.]

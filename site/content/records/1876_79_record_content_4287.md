@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Albert Topperwein, Boot and Shoemaker, Market Square, Kooringa, Large stock of English and Colonial Boots always on hand at lowest prices. A penny saved is a penny gained.

@@ -19,6 +19,7 @@ topics:
 - organization
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hope of Kooringa IOR. I1 members were enrolled on the foundation of this juvenile tent of the Order of Rechabites on 4 June.

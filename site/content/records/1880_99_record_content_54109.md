@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain over the last few days has been generally quite good with 2.12” for the month.

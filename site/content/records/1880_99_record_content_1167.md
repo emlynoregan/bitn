@@ -21,6 +21,7 @@ topics:
 - appointment
 - institution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  Mr Dearlove has resigned as Librarian and has been appointed to a provisional school at Black Springs.

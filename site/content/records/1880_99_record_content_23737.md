@@ -53,6 +53,7 @@ topics:
 - fundraising
 - awards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Flower Show.  The flower show at the Institute was successful and raised about £10.  The prizes were distributed among a relatively small group of residents.

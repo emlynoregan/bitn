@@ -28,6 +28,7 @@ topics:
 - mining
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association gives notice of an Extraordinary General Meeting of Shareholders at Imperial Chambers in King William Street, Adelaide on 17 October at 11.30 a.m. to authorise the sale of the following properties:

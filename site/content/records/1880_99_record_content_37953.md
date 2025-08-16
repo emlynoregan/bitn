@@ -17,6 +17,7 @@ places_mentioned:
 - Gladstone
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Much more detail is given in XI, 993, 23 Sep. 1890, p.3 in a reprint from the Gladstone paper.]

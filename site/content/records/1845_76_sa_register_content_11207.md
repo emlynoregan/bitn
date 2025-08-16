@@ -24,6 +24,7 @@ topics:
 - coach
 - fare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  On and after 2 November Haimes’s Mail Coaches will run from Adelaide to the Burra in one day.  Passengers leaving Adelaide by the 7 o’clock train will arrive at Burra the same day.  Passengers leaving Burra in the morning will be in Gawler to meet the 5.45 p.m. train to Adelaide

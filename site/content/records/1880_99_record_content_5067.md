@@ -21,6 +21,7 @@ topics:
 - examinations
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The Education System.  The editor was critical of Mr Hartley, the Inspector General, who though a man of high ideals and fairness, is also very rigid and treats his subordinates and even his equals as if they were mere schoolboys.  The editor is not so enthusiastic about maintaining the payment by results system.  He preferred written examinations to oral ones.  Schools were too often short staffed.  Examination of the private schools was a necessity.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Advt. for Webb's Royal Marionettes at the Institute for three nights, 14-16 January. With Wed. matinee for children & schools @ 6d. Seats 3/-, 2/- and 1I

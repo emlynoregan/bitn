@@ -25,6 +25,7 @@ topics:
 - obituary
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John A. Fogarty, husband of Elizabeth Fogarty of Terowie, died 10 January at Burra Hospital aged 36 after a long illness.  He was the son of Thomas and Mary Fogarty of Launcelot.

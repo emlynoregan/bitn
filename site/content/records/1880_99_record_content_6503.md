@@ -20,6 +20,7 @@ topics:
 - advertisement
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Henry Skewes apologises for being absent from the sale, which was to have taken place on 27 February of Kingston Township, Mt Bryan [?]

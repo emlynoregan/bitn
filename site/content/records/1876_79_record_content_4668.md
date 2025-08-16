@@ -23,6 +23,7 @@ topics:
 - letter
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 This is followed by a lengthy response to E. Lipsett (Mayor) from John D. Cave explaining in detail just what authority he has to admit patients and under what circumstances, essentially none except that a circular from the Destitute Board makes certain people eligible from outside districts of necessity to preserve their lives. He also explains, as Secretary of the Hospital, how the story actually unfolded. [It was basically a storm in a teacup, but once everyone had taken a stand on their dignity it was set to escalate into an ongoing public sore.]

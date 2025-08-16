@@ -20,6 +20,7 @@ topics:
 - legal
 - cheques
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan Hotel.  There is a report of a court case involving Mr J.B. Bull, landlord of this hotel and the encashment of certain cheques.

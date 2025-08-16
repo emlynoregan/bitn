@@ -19,6 +19,7 @@ topics:
 - health
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Geake Sen. (68) is dying.  He has been a resident for 42 years and formerly had a general store where the Record office now is.

@@ -22,6 +22,7 @@ topics:
 - marriage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  Miss F.E.E. West, eldest daughter of W. West, Mayor of Burra and R.A. Cilento were married on 25 Feb. at the Kooringa Wesleyan Church.

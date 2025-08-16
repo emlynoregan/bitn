@@ -31,6 +31,7 @@ topics:
 - farewell
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr F. Treloar was given a farewell social at Mr Thomas Bailey’s.  People from all over the district attended.  He has been the manager of Gum Creek Station for the last 17 years.  Mr Bailey’s woolshed became a decorated hall for the occasion.  There were songs from the Misses Gillett and Bailey, recitations and readings by Messrs E. Goodridge, C. Fuss and McDonald and songs by Messrs W. Ewins, J.E.H. Winnall and G. Bailey.  The usual speeches and toasts are reported.  Mr Treloar had been active on the [Hanson District] Council, the Burra hospital board and the Burra Show Committee.  He was presented with an illuminated address.

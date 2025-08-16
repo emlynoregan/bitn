@@ -24,6 +24,7 @@ topics:
 - community
 - handover
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Apexians held their handover dinner at the Old Jinker Restaurant last Friday.  The new President is Michael Scholz.  Vice-President is K. Hanlin with John Hood as Secretary and Neil Page as Treasurer.

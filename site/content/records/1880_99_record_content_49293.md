@@ -21,6 +21,7 @@ topics:
 - farewell
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church.  Rev. Daddow’s farewell sermon will be preached on 9 April with a public tea on Monday.

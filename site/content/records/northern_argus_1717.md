@@ -19,6 +19,7 @@ topics:
 - netball
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Netball.  BBHJ1 are premiers in their grade for 1986.  [Photo.]

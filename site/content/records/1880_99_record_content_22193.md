@@ -20,6 +20,7 @@ topics:
 - mass
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Day, May 16, a special Solemn High Mass will be preached by Rev. Father Kreissl SJ.

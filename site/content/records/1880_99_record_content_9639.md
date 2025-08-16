@@ -20,6 +20,7 @@ topics:
 - safety
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the fiasco of the opening of the railway to Aldgate which was indicative of the state of management and the failure as yet to fit automatic breaks which makes travel on the Hills line dangerous.

@@ -20,6 +20,7 @@ topics:
 - community
 - meetings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Baeyertz has moved on to Redruth for a week of meetings before returning to Kooringa for a farewell meeting.

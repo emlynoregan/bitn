@@ -21,6 +21,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Eastern Mails.  Mr Knuckey has gone out east to look into establishing a mail run.

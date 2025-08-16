@@ -20,6 +20,7 @@ topics:
 - council
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes condemning the squattocracy that runs the Burra District Council which has recently passed a motion which resulted in curtailing the men’s time to 5½ days per week by stopping their work at noon on Saturday and paying for only half a day instead of the usual practice of working till 4 p.m. for a full day’s pay.  This is mean and contemptible.

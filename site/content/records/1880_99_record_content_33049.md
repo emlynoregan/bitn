@@ -19,6 +19,7 @@ topics:
 - community
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute half-yearly meeting was held on 8 July.  Books on the shelf number 3,118, but many are in a bad condition.  Subscribers have fallen from 78 to 73.

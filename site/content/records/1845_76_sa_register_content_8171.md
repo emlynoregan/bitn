@@ -34,6 +34,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  An accident occurred to the Burra mail cart crossing the River Light on the Adelaide side of Kapunda.  The mail cart from Burra on Monday evening crossed without trouble.  Mr Opie’s coach an hour later became jammed against the bank when the horses turned round in the stream.  The passengers endured the position all night and were released in the morning without injury.  The driver, William Newman and a passenger known as Billy the Pieman managed to escape during the night and reached the Adelaide side.

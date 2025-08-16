@@ -20,6 +20,7 @@ topics:
 - media
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich said ‘he had voted to go into committee to prevent malicious falsehoods being circulated as was done by the Burra Record.’

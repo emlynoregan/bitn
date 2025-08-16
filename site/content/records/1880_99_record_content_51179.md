@@ -26,6 +26,7 @@ topics:
 - politics
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the Editor claiming that the culprits in the Council fiasco are Cr Hardy, who is seeking revenge after his humiliation in his failed libel case, and the Mayor who was likewise shamed by publication of his report with all its errors.  The writer includes a reminder from the trial of when the Mayor evoked a retort from counsel:

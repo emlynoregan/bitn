@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Primitive Methodist anniversary 4 & 5 May: Rev. W. Jenkin & S. Olley preached to fair congregations. Collections amounting to £21-12-0 were considered satisfactory considering the town's depressed state.

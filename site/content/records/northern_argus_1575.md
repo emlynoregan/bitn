@@ -30,6 +30,7 @@ topics:
 - funding
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Heritage Town Jubilee 150 Project will be opened by the Hon. R.G. Payne MP, Minister of Mines and Energy on Sunday 5 October at 1.30 p.m. at Morphett’s Engine House. After the opening guests will tour the building and then be taken to the other two sites of the project; the Bon Accord Mine Museum and the Kingston St Row of Paxton Square Cottages.  Period costume is to be encouraged for the occasion.

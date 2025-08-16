@@ -22,6 +22,7 @@ topics:
 - inquest
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 So did the jury, adding ‘their sense of the impropriety of Mr Dare’s conduct in aiding and abetting such decided intemperance.’  [I cannot find any registration of death.]

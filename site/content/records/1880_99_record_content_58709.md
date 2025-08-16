@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Wednesday Burra 2nd Eleven 186 and St Mary’s 2nd Eleven 5 for 97.

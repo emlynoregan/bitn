@@ -18,6 +18,7 @@ topics:
 - agriculture
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Business here is dull, but shearers are beginning to pass through on their way north and northeast.

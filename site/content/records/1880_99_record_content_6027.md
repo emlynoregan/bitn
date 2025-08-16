@@ -19,6 +19,7 @@ topics:
 - sports
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bands of Hope demonstration and picnic passed off very well and the sports and evening entertainment were well patronised.

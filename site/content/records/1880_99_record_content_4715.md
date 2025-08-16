@@ -18,6 +18,7 @@ topics:
 - editorial
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Aspects of the Land Laws and the demands being made that payments now regarded as interest should be considered payments of capital.  The editor did not agree.

@@ -19,6 +19,7 @@ topics:
 - building
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute Committee is to draft specifications for alterations to the roof over the stage and for the ceiling: to be submitted for approval next meeting.

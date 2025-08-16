@@ -22,6 +22,7 @@ topics:
 - sport
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Burra Coursing Club meeting at Gum Creek Estate with permission of Hon. J.J. Duncan MLC, 5 & 6 June.  Limited to 32 dogs.  1st £30, 2nd £15.

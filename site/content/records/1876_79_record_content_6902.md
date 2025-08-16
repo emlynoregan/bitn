@@ -26,6 +26,7 @@ topics:
 - council
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Messrs Pearce Sen., Ward & Bruce asked the Council to enlarge the waterway of the bridge in Queen St as the man road bridge upstream has been enlarged. Council thought the whole bridge would soon have to be replaced, but they had no money at present. The deputation offered to lower the bed at their own cost and was allowed to do so under the supervision of the surveyor.

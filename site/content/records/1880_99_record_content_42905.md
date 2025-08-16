@@ -20,6 +20,7 @@ topics:
 - community
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr West indicated his willingness to stand again if ratepayers indicated that such was their desire.

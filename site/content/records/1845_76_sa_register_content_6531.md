@@ -20,6 +20,7 @@ topics:
 - administration
 - licences
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We understand that J.R. Hardy is appointed Commissioner of the gold districts and he will have the issuing of licences to the diggers, for which it is said a fee of £1 per month is to be charged.

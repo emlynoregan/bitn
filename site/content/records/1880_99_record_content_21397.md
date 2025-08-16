@@ -18,6 +18,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Melbourne Mail will go by rail from 1 April 1886.

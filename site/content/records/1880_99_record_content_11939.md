@@ -20,6 +20,7 @@ topics:
 - community
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Snell’s report of his home mission work on the Great Northern Railway points to the need for education facilities along the route.  At least travelling teachers should be appointed to visit each place for two days a week.

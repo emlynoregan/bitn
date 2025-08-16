@@ -22,6 +22,7 @@ topics:
 - working conditions
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Miner’ writes to comment on a report that there is a contractor in Burra who would employ 20 good men:

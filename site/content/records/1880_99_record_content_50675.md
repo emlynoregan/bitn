@@ -21,6 +21,7 @@ topics:
 - agriculture
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henry Taylor’s lecture on Why we are Poor or Why Farming Doesn’t Pay was delivered at the Institute on Friday to a small group as the weather was very poor.

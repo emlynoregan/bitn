@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees are being planted by some citizens, Mr Lewis and Father Kriesll for example.

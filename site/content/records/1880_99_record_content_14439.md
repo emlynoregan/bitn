@@ -19,6 +19,7 @@ topics:
 - death
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A little daughter of Mr A.H. Forder succumbed to diphtheritic croup on Thursday.  [Alice Louisa, born 8 August 1879; died 18 September, aged 5.]

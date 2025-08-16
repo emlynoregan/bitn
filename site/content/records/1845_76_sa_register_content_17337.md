@@ -24,6 +24,7 @@ topics:
 - education
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Easter Sunday the Kooringa Wesleyan Sunday School Anniversary was held.  Rev. R.C. Flockart preached twice and in the afternoon the children were examined by Rev. H. Chester.  Mr Forder played the harmonium.  There must have been quite 250 children on the special galleries erected either side of the pulpit and on the platform in front.  On Monday some 300 of them assembled at the chapel at 11 a.m. before marching to the top of Limestone Hill, where a tent held an abundance of fruit and cake.  Games were held till 4 p.m. when they returned to the schoolroom for tea and cake.  The tent and school were both decorated with loads of green bushes to make arches and other ornamentation.  Charles Drew presided at the meeting.  There were 269 scholars on the roll compared with 208 the previous year.  Attendance was not as good due to removals and the wet winter.

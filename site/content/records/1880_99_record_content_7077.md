@@ -22,6 +22,7 @@ topics:
 - assault
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Louis Werndt was charged with stabbing Alfred Schutz in the back at the Commercial Hotel.  Remanded till 2 June. [Note in IV, 206, 9 June 1882 Werndt is called Womat.]

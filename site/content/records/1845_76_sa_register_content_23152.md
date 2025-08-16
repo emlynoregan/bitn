@@ -36,6 +36,7 @@ topics:
 - real estate
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Lot 1.	Whyte Park Farm Tothill’s Creek: sections 271 & 271 of Hd Waterloo of 325 acres.

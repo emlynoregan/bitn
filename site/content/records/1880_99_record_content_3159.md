@@ -24,6 +24,7 @@ topics:
 - injury
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On Friday evening a German farmer named Frahm, living east of Burra was returning home and was taking in his wagon a man named Spiller.  Near the end of the Nankivell’s Gully road Spiller fell out, but Frahm kept going.  When he met others further on he mentioned this and they kept a lookout for Spiller, who they found just recovering consciousness and with a severe head wound about 10” long from the wagon wheel.  With difficulty he was brought into Burra where Dr Brummitt attended him.  Frahm’s actions deserve the strongest approbation.

@@ -19,6 +19,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Worrell & Gardiner’s Circus Troupe played to full houses on Thursday, Friday and Saturday.  It was a series of performances that delighted and gratified.

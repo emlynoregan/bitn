@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Sunday School will celebrate its anniversary on 23 December in the Bible Christian Church, lent especially for the occasion.  The public meeting on 25th will also be in the Bible Christian Church.

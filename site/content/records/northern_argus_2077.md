@@ -19,6 +19,7 @@ topics:
 - cricket
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Darren James has been chosen to participate in a live-in [cricket] coaching clinic sponsored by the State Bank this month.  He has also been chosen in the Country 11 U17 Team.  This is a great achievement as he is only 14.

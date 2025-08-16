@@ -21,6 +21,7 @@ topics:
 - community
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Cave was given a presentation on Tuesday evening as thanks for her presiding at the organ at St John’s Terowie on the occasion of the visit of the bishop.

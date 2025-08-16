@@ -20,6 +20,7 @@ topics:
 - hotel
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Mr Wren, late of the Burra Burra Hotel thanks his friends for their patronage over the nearly four years past and solicits the like support for his successor.

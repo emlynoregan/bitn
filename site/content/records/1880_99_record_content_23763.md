@@ -18,6 +18,7 @@ topics:
 - goldfield
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Excitement is dying, but arrivals continue to almost equal departures.

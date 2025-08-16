@@ -20,6 +20,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A series of Music & Literary Entertainments organised by the Burra Institute Committee will begin on 18 June.  6d to all seats.

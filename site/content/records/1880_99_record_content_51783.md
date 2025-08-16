@@ -19,6 +19,7 @@ topics:
 - maintenance
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cemetery.  Work needed to maintain it has increased due to the increase in size last year.  Grass and weeds have not been kept down as much as desired because the year started with a debit balance and the curator has been put to outside work to save funds in this account.  The account is now in credit £3-7-10.

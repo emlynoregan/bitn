@@ -20,6 +20,7 @@ topics:
 - social
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mutual Improvement Soc. will hold its first social in the Wesleyan Lecture Hall tonight with a program of songs and recitations etc.

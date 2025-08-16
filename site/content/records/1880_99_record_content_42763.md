@@ -21,6 +21,7 @@ topics:
 - business
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter has been forced to abandon his efforts to extract the copper from the slagheap.  Trials from various parts of the heap have shown that it will not pay.  We hear he has had a good offer for his machinery and dressing plant.

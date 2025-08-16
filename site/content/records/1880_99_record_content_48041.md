@@ -20,6 +20,7 @@ topics:
 - club
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co MI was invited out to Princess Royal on Wednesday.  This was the second visit to the estate for the company and as Lieut. Watt said, they were treated like kings.  The company received an invitation to return with friends and visitors in a fortnight for a drill.  Several prizes have been offered to be fired for.  One lady has given £6 for those putting in 16 drills in the year.

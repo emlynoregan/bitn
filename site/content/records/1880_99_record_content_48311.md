@@ -33,6 +33,7 @@ topics:
 - arson
 - matches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest at the Kooringa Hotel 9 January into the fire at T. Warnes’ paddock on 3 January.

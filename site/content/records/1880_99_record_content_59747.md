@@ -19,6 +19,7 @@ topics:
 - serial
 - novel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Serialised Novel: Two Men and a Woman by ‘Wirrildah’, author of Picturesque Desolation and A Tragic Misunderstanding’ etc. began.

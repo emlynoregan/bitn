@@ -25,6 +25,7 @@ topics:
 - complaint
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor.

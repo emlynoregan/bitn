@@ -19,6 +19,7 @@ topics:
 - editorial
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Zeekui' contributes a ¾ column article in mock Biblical style on the Council meeting.

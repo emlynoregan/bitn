@@ -23,6 +23,7 @@ topics:
 - agriculture
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Thursday your issue reports Mr Rowland Rees MP as saying that Burra people did not want the line extended north from Burra, but rather from Farrell’s Flat.  I don’t know where he got this idea; certainly not from Burra.  He should be careful to ascertain people’s wishes before advocating the views of other people.

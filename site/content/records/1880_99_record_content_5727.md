@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Amateur Dramatic Co. presents 21 December, The Grand Sensational Drama in Two Acts, Milky White.

@@ -20,6 +20,7 @@ topics:
 - industry
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits: Proposal for rabbit processor at Kapunda - should there be one at Burra too?

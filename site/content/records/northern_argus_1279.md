@@ -30,6 +30,7 @@ topics:
 - community
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Civic Jubilee Ball on Saturday was a great success.  Roger Boehm, driving one of the National Trust’s buggies, delivered quite a few to the Town Hall.  The Hall looked fine after its spit and polish.  Cr James Hawker met the Governor and Lady Dunstan at the kerbside and accompanied them into the hall where Sir Donald Dunstan declared the ball officially open.  Mr Hawker presented the Governor with a copy of Ian Auhl’s new book, The Story of the Monster Mine.  During his speech the Governor said his great great grandfather had walked to Burra in 1847 and the family had lived for a time in dugouts in the creek.  Later, upon hearing that Florrie Scroop was Australia Day Award winner for the Jubilee Year, Lady Dunstan sent her the posy she had been given on arrival.  A troupe of dancers from Danse Victoriana performed during the evening.  A contingent of BCS students assisted on the night as did the Queen’s Scouts and their leader David Jennings.

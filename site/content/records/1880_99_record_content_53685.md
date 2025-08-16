@@ -22,6 +22,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan General Conference in Adelaide from 10 May will send two members to visit Burra: Rev. Dr Watkin next Sunday and Rev. Joseph Bowes the following week.

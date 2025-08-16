@@ -18,6 +18,7 @@ topics:
 - municipal
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The reports for 1897 have largely been reduced to a single short paragraph revealing little and generally comprising statements like ‘other sundry works were attended to’.

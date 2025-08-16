@@ -20,6 +20,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  (by ‘Quiz’)  There was a good practice match on Saturday when the selected 15 played 20 picked by Messrs Herbert & Scarborough.  The match started with only 8 Colours present and their opposition was down on numbers too, but both sides gained players as the game proceeded.  Colours 3.4 defeated Allcomers 0.5, but bad tempers marred the game.

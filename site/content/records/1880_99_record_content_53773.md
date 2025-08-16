@@ -21,6 +21,7 @@ topics:
 - convention
 - WCTU
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central District WCTU held its 3rd Annual Convention in the Wesleyan Lecture Hall at Kooringa on 8 May.  Its work is reported in some detail over ¾ column.

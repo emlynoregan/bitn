@@ -30,6 +30,7 @@ topics:
 - miners
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘From the organ of the aggrieved operatives.’  Burra Burra Mines 16 September.

@@ -22,6 +22,7 @@ topics:
 - fundraising
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt will give a lecture on his trip to New Zealand on August 26 to aid the Burra Jubilee Benevolent Society.

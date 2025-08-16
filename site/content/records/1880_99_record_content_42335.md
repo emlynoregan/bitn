@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Salvation Army went to Hallett on Thursday morning last with a brass band.  This was not a financial success, but that was attributed to the lack of notice given.

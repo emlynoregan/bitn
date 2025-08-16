@@ -19,6 +19,7 @@ topics:
 - event
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Many Burra people will go to the Northern Agricultural Show at Mintaro tomorrow.

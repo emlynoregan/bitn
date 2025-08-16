@@ -19,6 +19,7 @@ topics:
 - building
 - architecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. Views of the plans for the new Anglican church show a convenient building that will be an ornament to the town.

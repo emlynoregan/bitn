@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  At Moonta Mines on 22 February to the wife of W.G. Torr, a son.  [Victor Chewings]

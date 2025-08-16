@@ -26,6 +26,7 @@ topics:
 - death
 - journalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary.  Mr W. Harcus JP, the editor of the Advertiser, Express & Chronicle died on 10 August.  He was an acknowledged leader of the free press in SA, fearlessly exposing falsehood, cant and hypocrisy, while seldom being bitter.  He wrote boldly and impartially.  In the past fourteen years he has raised the tone of colonial journalism.  He first joined the Register and in 1867became associated with the late Mr J.H. Barrow in the Advertiser.  He wrote as ‘Onkaparinga’ in the English Field newspaper in answer to Mr Kingsley’s misrepresentations of the colony under the name ‘Post and Rail’.  He prepared the last two handbooks on SA.

@@ -20,6 +20,7 @@ topics:
 - business
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine continues to be worked by tributers on a small scale and they are said to be making fair wages.

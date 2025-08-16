@@ -21,6 +21,7 @@ topics:
 - sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Linkson Bros are about to dissolve their partnership and are determined to sell their entire stock of drapery, grocery, crockery, tinware etc. at less than cost.  Near the Court House Hotel, Redruth.

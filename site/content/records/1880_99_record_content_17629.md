@@ -18,6 +18,7 @@ topics:
 - exhibition
 - glassblowing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The glassblowers who open tonight will show two operating steam engines made entirely of glass.

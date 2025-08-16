@@ -18,6 +18,7 @@ topics:
 - legislation
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on The Land Bill, in which the Government have finally accepted the line we advocated - 10% on selection and 5% per annum thereafter with the right to buy at any time after 10 years on payment of the balance owing - no interest to be charged in any of the above.

@@ -18,6 +18,7 @@ topics:
 - public safety
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Magpies have become a danger to people now that street trees have provided nesting places.  Some are saying that magpies should be limited to farms and not towns.

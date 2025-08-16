@@ -22,6 +22,7 @@ topics:
 - politics
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ also comes in with a sarcastic evaluation of loafers suggesting that a definition of such would send us looking to absentee landowners, modern gentlemen, and various other of like types.

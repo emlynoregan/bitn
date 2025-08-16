@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D. Roger’s tender for some kerbing at £1-13-0 per chain was accepted.

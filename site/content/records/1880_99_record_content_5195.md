@@ -19,6 +19,7 @@ topics:
 - revival
 - meetings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Burnett’s Crusade is under way and from last Sunday he is holding daily prayer meetings at 6.30 a.m. and at 12 noon, with an outdoor service at 7 p.m. followed by an indoor one at 7.30 p.m.  Rain prevented the outdoor services on Monday and Wednesday.

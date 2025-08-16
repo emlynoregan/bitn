@@ -21,6 +21,7 @@ topics:
 - shares
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mining Co.  Notice is hereby given that at a meeting of the Directors of the PRMC held today at the office of the company for the purpose, the Directors then present made a call of £4 on each share in the capital of the company, such a call to be paid on Thursday 12 October.

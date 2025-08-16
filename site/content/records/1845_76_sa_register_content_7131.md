@@ -26,6 +26,7 @@ topics:
 - demography
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Statistics for 1850 are published for land sales, population and immigration and emigration.

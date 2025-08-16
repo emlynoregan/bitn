@@ -22,6 +22,7 @@ topics:
 - farewell
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  On 26 October [sic, it was really 25th] Rev. J. Stuart Wayland preached his farewell sermon after six years incumbency.  In the afternoon on behalf of the Sunday school Dr Sangster presented Mr Wayland with a silver mounted emu egg inkstand.  He was also given a beautifully bound church service book.

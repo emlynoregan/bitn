@@ -22,6 +22,7 @@ topics:
 - legal
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The partnership of Halls & Bromley of Kooringa, Cabdrivers, (F.E. Bromley and Thomas P. Halls) has been dissolved and T.P. Halls will continue alone.

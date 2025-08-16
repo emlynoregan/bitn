@@ -23,6 +23,7 @@ topics:
 - cricket
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Saturday, The newly formed Burra Cricketing Association had a match of its first 12 v. its second 18.  By 12.30 10 of the 12 and 13 of the 18 were present and the game started.  The ‘Twelve’, 87 defeated the ‘Eighteen’, 81.

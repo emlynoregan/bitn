@@ -19,6 +19,7 @@ topics:
 - railway
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The special train notice showed that the train was running nearly two hours late.  The accident occurred in fog which limited visibility to c. 100 yards.

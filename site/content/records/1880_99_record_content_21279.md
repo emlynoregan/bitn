@@ -18,6 +18,7 @@ topics:
 - rates
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Also the Council should consider reducing the rates to encourage higher consumption.  The editor suggests a sliding scale with the 1st 1,000 gallons at 6/-, the 2nd at 5/-, the 3rd at 4/-, the 4th at 3/- with subsequent 1,000-gallon increments at 2/6 each.

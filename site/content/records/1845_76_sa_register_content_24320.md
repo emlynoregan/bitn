@@ -19,6 +19,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cobar Copper Mine.  There is a report on this NSW mine.

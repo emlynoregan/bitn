@@ -18,6 +18,7 @@ topics:
 - celebration
 - AO Foresters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 AO Foresters meeting of the finance committee of Court Unity No. 3015.  The 40th birthday of the court is to be held on 11 August 1899.  There are 187 members – 5 on the suspended list.

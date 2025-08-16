@@ -19,6 +19,7 @@ topics:
 - education
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Post & Telegraph Office.  A deputation to the Minister of Education was told that if the savings they said were there to be made could be proved it would be done.

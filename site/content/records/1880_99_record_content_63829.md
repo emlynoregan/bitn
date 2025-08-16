@@ -20,6 +20,7 @@ topics:
 - fine
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster was fined 5/- for driving around the corner of Best’s Place too fast.

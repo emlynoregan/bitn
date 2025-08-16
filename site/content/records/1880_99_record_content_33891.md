@@ -19,6 +19,7 @@ topics:
 - animal
 - cruelty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Horse Admirer’ against the cruelty in tying a horse up outside the Burra Hotel from 10 a.m. to 8 or 9 p.m. on the 13th instant.

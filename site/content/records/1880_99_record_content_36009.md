@@ -19,6 +19,7 @@ topics:
 - economics
 - distribution of money
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Article from the Barrier Miner by J.P. on ‘The Distribution of Money’.

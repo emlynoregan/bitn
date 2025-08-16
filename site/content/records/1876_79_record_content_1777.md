@@ -19,6 +19,7 @@ topics:
 - politics
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Elections: Petitions asking various people to stand for election to the Legislative Council.

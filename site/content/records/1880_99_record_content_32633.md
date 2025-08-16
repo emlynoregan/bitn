@@ -19,6 +19,7 @@ topics:
 - environment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E. White writes a 1-column letter on Meteorology.  His theory was that stubble burning would impoverish the soil, cause hot summers and cold frosty winters with less rain.  This was part of a wider argument supporting his view of more extended cycles of weather.

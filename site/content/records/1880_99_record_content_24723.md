@@ -20,6 +20,7 @@ topics:
 - water conservation
 - public policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes praising the public meeting on Government policy and calling for no new railways to new areas, but rather the completion of infrastructure in areas now available for occupation, including the 1888 leases which will need water conservation work.

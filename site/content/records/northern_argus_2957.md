@@ -24,6 +24,7 @@ topics:
 - rates
 - roadworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC has achieved a surplus of $11,718 for the financial year ending 30 June 1987.  The major expenditure was $467,541 on roadworks.  For 1987-88 the minimum rates will be $275 in Burra, $190 in Farrell Flat, Booborowie and Mt Bryan and $120 in rural areas.  The estimated rate income is $622,239 – an increase of 11.6%.  They anticipated Government grants would fall by 18.2%.

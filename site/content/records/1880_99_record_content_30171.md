@@ -21,6 +21,7 @@ topics:
 - animal
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  On Saturday James Henderson harnessed a strange horse to a gig and as it was unaccustomed to that it bolted.  It dashed out of their yard and across the road, scattered a couple of tree guards and collided with the corner post of the Kooringa Hotel where James was thrown out, sustaining facial lacerations that required stitches.  The horse continued on to the creek scattering about a dozen tree guards and finally losing a wheel of the gig in the creek.  The horse sustained only a few scratches.

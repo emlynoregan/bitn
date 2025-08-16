@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - floods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Floods.  The year ended with a fall of over 6” in Silverton and heavy falls extended across the North-East, with floods from Silverton to Terowie.

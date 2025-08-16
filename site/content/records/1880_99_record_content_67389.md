@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Catherine Wade, died 14 November, aged 60, wife of the late Andrew Greville Wade.

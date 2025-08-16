@@ -19,6 +19,7 @@ topics:
 - labor
 - hardship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  The men who went to Morgan last week had to walk 10 miles in the rain and dark to reach their destination, arriving with their blankets soaked.

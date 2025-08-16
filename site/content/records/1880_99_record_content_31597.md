@@ -18,6 +18,7 @@ topics:
 - picnic
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oddfellows.  The three local lodges are planning a united picnic on 17 April.

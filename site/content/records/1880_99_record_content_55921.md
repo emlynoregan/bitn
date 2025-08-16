@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Political Meeting.  Following representations from ratepayers, Mr Holder will address a meeting at Kooringa in about two weeks.

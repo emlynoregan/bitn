@@ -22,6 +22,7 @@ topics:
 - employment
 - technical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Elphick was a younger employee and had lived for about nineteen years among the inhabitants of Kooringa.  In all those years his assays had rarely been challenged and on those rare occasions had been resolved in his favour.  In assays between the Mine and the Copper Company the latter sometimes complained his results were too high, but again when referred to Me Walters, the highest authority in England, the result favoured Mr Elphick.

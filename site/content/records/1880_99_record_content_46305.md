@@ -20,6 +20,7 @@ topics:
 - sports
 - scores
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Saturday at Mt Bryan for Mt Bryan’s first appearance as a team.

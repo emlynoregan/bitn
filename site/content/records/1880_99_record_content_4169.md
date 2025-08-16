@@ -20,6 +20,7 @@ topics:
 - sports
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A Burra 13 played a Riverton 15 at Riverton 7 May

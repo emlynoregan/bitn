@@ -27,6 +27,7 @@ topics:
 - event
 - challenge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Football Club.  The general meeting last Monday night at the Commercial Hotel was chaired by W. Batchelor.  The colours will change from red & black to all blues with red caps.  The first match will be on 10 April on the Recreation Ground when a picked team of 20 will play a combines team of 25.  The club patron id Dr J.A. Cockburn [Local MP] and the President is D.S. Packard.  A list of others involved is provided.

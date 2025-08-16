@@ -19,6 +19,7 @@ topics:
 - recreation
 - facility use
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra United Friendly Societies were granted the use of the oval on 26 December.

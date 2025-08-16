@@ -22,6 +22,7 @@ topics:
 - legal
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Assault.  On Saturday night Mr T.P. Halls, believing W.H. Hardy had besmirched his name to the Railway Commissioners, resulting in his losing his licence and being barred from the station yard with his cab, confronted hardy in the street outside Geake’s shop.  Hardy took refuge in the nearest shop, followed by Halls.  Both fell and medical aid had to be called in.

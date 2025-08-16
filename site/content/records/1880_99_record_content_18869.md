@@ -21,6 +21,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr G.J. Stewart will deliver an address on The Second Coming of Christ, in the German Schoolroom, Redruth, on 14 August, 7.30 p.m.  Bring your Bibles.

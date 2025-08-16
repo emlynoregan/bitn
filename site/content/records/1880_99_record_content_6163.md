@@ -19,6 +19,7 @@ topics:
 - religion
 - oration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Peter Campbell, the well-known bush missionary will give his celebrated extempore oration on Queen Alcohol: Empress of Death.

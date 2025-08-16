@@ -31,6 +31,7 @@ topics:
 - honour
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Banquet for W.B. Rounsevell at the Institute, 9 December, in recognition of his 12 years Parliamentary service.  About 70 sat down to dine.  The Mayor, W.F. Holder presided assisted by J. Coles MP, Sir Henry Ayers KCMG (President of the Legislative Council), Hon. Dr Cockburn, Minister of Education.  J.C. Bleechmore of Terowie was Vice-Chairman, supported by Mr E. Ward MP, and the Hon. H.E. Bright MLC.  There were many apologies including R. Rees MP.

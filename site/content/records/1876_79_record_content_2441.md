@@ -21,6 +21,7 @@ topics:
 - accident
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways: On 14 June the evening passenger to Adelaide ran over a horse between Tarlee and Stockport, shredding the animal and breaking a spring, but it failed to stop! Surely it should have as the obstacle could have been a person or the damage could have made the locomotive dangerous to drive.

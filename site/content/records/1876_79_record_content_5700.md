@@ -19,6 +19,7 @@ topics:
 - crime
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Larrikinism. While Rev. H. Howitt was away last week an attempt was made to break into the parsonage at Redruth and when it failed stones were thrown on the roof and part of a stone bottle thrown into the courtyard struck a servant on the head and stunned her. A reward of £5 is offered for the discovery of the perpetrators.

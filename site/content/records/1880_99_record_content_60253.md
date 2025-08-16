@@ -21,6 +21,7 @@ topics:
 - farewell
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich received two beautifully illuminated addresses from the Town Council and the Citizens of Burra at the Institute last night.  He is leaving for the Golden West.

@@ -20,6 +20,7 @@ topics:
 - wheat
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Wheat at Baldina and Mongolata is looking very good with many crops over 4’ high.

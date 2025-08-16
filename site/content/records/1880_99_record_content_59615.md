@@ -20,6 +20,7 @@ topics:
 - industrial
 - strike
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Strike at Martin’s at Gawler has been temporarily called off and negotiations resumed.

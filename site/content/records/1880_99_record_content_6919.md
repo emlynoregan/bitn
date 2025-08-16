@@ -22,6 +22,7 @@ topics:
 - reopening
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  After renovations the Mt Bryan Flat Bible Christian Church will re-open on 21 May when Rev. J. Pearce and Mrs Pearce will preach.

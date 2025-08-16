@@ -22,6 +22,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Show will be opened on 12 October by John Olsen, Leader of the Opposition.

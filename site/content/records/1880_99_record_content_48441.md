@@ -22,6 +22,7 @@ topics:
 - council
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two letters to the editor congratulate the paper for exposing the ludicrous goings on in Council in the previous issue.  The motion proposed by Cr Hardy and 2nd by Cr Kitchen about the Engineer of the Waterworks appears to be spiteful persecution.

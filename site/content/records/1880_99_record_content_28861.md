@@ -19,6 +19,7 @@ topics:
 - military
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The company will be inspected by Gen. Downes on Tuesday 26 June at 3 p.m.  Attendance is necessary to qualify for efficiency for the year.

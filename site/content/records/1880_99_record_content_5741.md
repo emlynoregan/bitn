@@ -19,6 +19,7 @@ topics:
 - meeting
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Matthew Burnett’s Temperance Demonstration was largely attended and about 50 names were added to the temperance roll.

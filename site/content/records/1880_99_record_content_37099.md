@@ -24,6 +24,7 @@ topics:
 - editorial
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Government’s move to replace licence fee payments to Corporations with direct Government grants.  This would advantage some places like Adelaide and Port Adelaide, but disadvantage others like Burra, Kapunda and Clare.  (Burra would lose c. £100)  It is robbing Peter to pay Paul again.

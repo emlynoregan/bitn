@@ -21,6 +21,7 @@ topics:
 - uniforms
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volunteer Uniforms were discussed in Adelaide.  Gen. Owen at the last meeting of the RVF Council had indicated a change to scarlet as desirable.  Eventually it was decided on a scarlet tunic with blue facings, relieved with white cord and braid.  Blue trousers with scarlet piping.  Capt. Drysdale suggested an inexpensive khaki tunic might also be adopted for general wear.  It has been now referred to a meeting of delegates from companies.

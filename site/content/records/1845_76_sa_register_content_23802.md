@@ -18,6 +18,7 @@ topics:
 - mining
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The water at the Mine is nearly forked to the required depth for the dressing machinery to be tested.

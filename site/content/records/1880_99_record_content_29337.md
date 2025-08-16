@@ -21,6 +21,7 @@ topics:
 - agriculture
 - pest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are in plague proportions near Terowie.  In the Hundred of Wonna they are threatening to destroy all the crops.  [i.e. east of Terowie around Mallett and to its north.]

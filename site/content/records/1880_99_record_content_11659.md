@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - short story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 8 Jun.	II	What Might have been Expected	X	X		X	X	X	X				In the Death Station

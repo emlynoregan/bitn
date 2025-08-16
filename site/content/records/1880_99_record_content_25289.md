@@ -23,6 +23,7 @@ topics:
 - cricket
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club report on the 1886-7 season.

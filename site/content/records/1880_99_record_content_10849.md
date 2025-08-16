@@ -21,6 +21,7 @@ topics:
 - social purity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Ward presented a petition signed by 445 inhabitants of Kooringa and Redruth in favour of social purity.

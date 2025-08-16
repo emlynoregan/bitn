@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.S.R.  Some time ago the Booborowie Travelling Stock Route was gazetted as open for sale.  A deputation to the Commissioner of Crown Lands saw it temporarily withdrawn, but now we need all interested parties to continue to pressure to have it permanently withdrawn before it is again gazetted for sale.

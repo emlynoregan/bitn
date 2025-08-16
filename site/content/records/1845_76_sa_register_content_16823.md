@@ -19,6 +19,7 @@ topics:
 - shearing
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It has been cold with more rain.  This has put a stop to shearing for the moment and the roads are again very bad.

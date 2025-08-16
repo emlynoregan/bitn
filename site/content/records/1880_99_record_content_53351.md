@@ -19,6 +19,7 @@ topics:
 - petition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A large adverse petition is being prepared.  The editor favours the arguments against cutting up the roads.

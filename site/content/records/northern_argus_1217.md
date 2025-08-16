@@ -25,6 +25,7 @@ topics:
 - celebration
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Civic Jubilee Ball will be attended by the Governor Sir Donald Dunstan and Lady Dunstan on 7 June.  There will be a five piece dance orchestra and a troupe of dancers from Danse Victoriana who will demonstrate two brackets of old style dances during the evening.  A lavish supper in the style of 150 years ago has been planned.  The hall has been specially prepared and the beautiful turned wood balcony and balustrades have been exposed after being hidden for many years.  Decorations will be in Victorian style and Burra’s Queen’s Scouts will assist, dressed in the uniforms of the state’s colonial soldiers.

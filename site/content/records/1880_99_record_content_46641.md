@@ -24,6 +24,7 @@ topics:
 - meeting
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Juvenile Missionary Meeting in the Wesleyan Lecture Hall on Tuesday was well attended despite the rain.  Rev. R.M. Hunter exhibited a collection of curios from Fiji, the Solomon Islands, Point Macleay and India.

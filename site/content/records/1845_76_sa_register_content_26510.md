@@ -19,6 +19,7 @@ topics:
 - transport
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Trade.  The district’s townships are looking busy on account of the number of teamsters taking loading to the north and northeast for the shearing season.

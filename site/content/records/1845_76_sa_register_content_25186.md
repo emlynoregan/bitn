@@ -19,6 +19,7 @@ topics:
 - crime
 - burglary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burglary at Burra.  Mr W.R. Ridgway was robbed on 25 May when someone removed a pane of glass and entered his bedroom and then the shop.  The robber obtained a few coppers from the shop and half a sovereign from a cash box.

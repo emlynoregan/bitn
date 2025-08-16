@@ -20,6 +20,7 @@ topics:
 - maintenance
 - footbridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pig and Whistle footbridge. The Corp. dayman has been repairing it.

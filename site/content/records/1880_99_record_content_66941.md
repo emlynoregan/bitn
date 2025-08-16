@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a successful concert in the evening at the Institute which took c. £18.

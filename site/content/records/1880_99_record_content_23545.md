@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The last Penny Reading was very popular and featured a rapier demonstration that was much admired.  The series of 12 shows earned about £30 towards the Institute building fund.

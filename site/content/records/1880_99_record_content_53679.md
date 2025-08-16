@@ -21,6 +21,7 @@ topics:
 - obituary
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Clark died suddenly at her Thames St home, aged 70.  [Registered as Eliza Clarke died 4 May aged 72.]

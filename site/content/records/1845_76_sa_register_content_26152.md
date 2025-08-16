@@ -33,6 +33,7 @@ topics:
 - alcohol
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Timothy O’Loghlin, brother of the deceased, said he had been working with his brother for about a week.  His brother had then been away at Mt Bryan Hotel for four days and returned with a bottle of gin.  The witness gave his evidence in an incoherent manner and at this point fainted or had a fit.

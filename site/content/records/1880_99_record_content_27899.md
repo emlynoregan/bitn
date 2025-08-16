@@ -19,6 +19,7 @@ topics:
 - death
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kapunda Marble Quarry.  A bad accident has killed two men.

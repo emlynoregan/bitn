@@ -22,6 +22,7 @@ topics:
 - fundraising
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Men had been quite busy making the main road.  The new road is only 18 feet wide, but it is better than nothing.  The men are still digging the foundations for the bridge, which will be in a rather awkward position as things look at present owing to the creek crossing the road in an oblique direction.

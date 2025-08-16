@@ -19,6 +19,7 @@ topics:
 - suffrage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Women’s Franchise.  We understand c. 2,000 names have so far been received in this district.  The word ‘occupation’ seems to be causing the most trouble.

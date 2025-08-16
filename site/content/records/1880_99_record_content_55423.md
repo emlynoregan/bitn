@@ -18,6 +18,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cemetery.  Why do so many young people prefer taking a walk to the cemetery rather than any other place on Sunday afternoon?

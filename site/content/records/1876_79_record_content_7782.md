@@ -31,6 +31,7 @@ topics:
 - court fees
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Inspector was offered £80 instead of £75, but with all court fees to go to the Corporation.

@@ -22,6 +22,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Announcing the first in a series of Popular Evening Entertainments:

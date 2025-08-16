@@ -18,6 +18,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. West has suffered a severe bout of influenza and had to be sworn in as Mayor at his residence.  He is slowly recovering.

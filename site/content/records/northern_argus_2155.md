@@ -18,6 +18,7 @@ topics:
 - animal cruelty
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  One of the school lambs was deliberately mutilated during the holidays, being found with its ears cut off and being badly flyblown.

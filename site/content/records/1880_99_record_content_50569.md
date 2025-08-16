@@ -19,6 +19,7 @@ topics:
 - donation
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ministering Children’s League has presented three Dexter platform rocking armchairs and one Austrian bentwood armchair to the Burra Hospital for patient use.  15 volumes of the Pansy Series were also given.

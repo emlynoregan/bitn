@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Wesleyan Sunday School Anniversary was held on 20 March with the annual meeting the following Wednesday.  There are 30 scholars.

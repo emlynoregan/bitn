@@ -20,6 +20,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Elliott’s living statuary performance drew a much bigger attendance when it was repeated on Friday at the Institute.  The constant applause proving that the exhibition was greatly appreciated.

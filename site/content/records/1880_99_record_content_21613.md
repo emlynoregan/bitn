@@ -18,6 +18,7 @@ topics:
 - banking
 - closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bank of Australasia.  The Aberdeen branch will close on 12 April 1886.

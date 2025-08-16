@@ -19,6 +19,7 @@ topics:
 - entertainment
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Stacey, who was here with Hans the Boatman Co., will return with a new combination to present Struck Oil.

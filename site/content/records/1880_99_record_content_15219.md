@@ -21,6 +21,7 @@ topics:
 - community
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sympathy’ writes wondering at the lack of Christian spirit that prevented the churches allowing the Salvation Army the use of a church building on Monday night.

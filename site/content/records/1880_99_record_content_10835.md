@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 9 October at Kooringa, to the wife of Hugh Bell, a daughter.  [Isabella]

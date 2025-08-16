@@ -20,6 +20,7 @@ topics:
 - industry
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Leyshon Jones has been experimenting with a new process for extracting copper from the sand in the Burra Creek.  Results have been favourable.  A load of sand is placed in a furnace and kept at a certain heat until converted into metal.  Then by means of water the sand and metal are partially separated and the resultant metal is then smelted in the usual way.  It is hoped by this method to recover copper from the low grade sands and the same process may be applied to low grade ores in the mine.  If it is feasible on a large scale every ton of sand in the creek could be worth 10/- to the company.

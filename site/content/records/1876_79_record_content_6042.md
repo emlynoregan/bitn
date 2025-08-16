@@ -23,6 +23,7 @@ topics:
 - bushrangers
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bushrangers. In NSW the Hay gang have been caught, but in Victoria the Kelly gang remains at large.

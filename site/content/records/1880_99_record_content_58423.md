@@ -19,6 +19,7 @@ topics:
 - advertisement
 - domestic service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted: A Good General Servant.  Must be able to Milk.  Apply Mrs Brummitt.

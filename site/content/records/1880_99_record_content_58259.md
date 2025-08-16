@@ -25,6 +25,7 @@ topics:
 - meeting
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Soc. Annual Meeting was held at the Kooringa Primitive Methodist Church on 3 October.  The President, Dr Brummitt, presided.  There was an address by the deputation, Rev. W. Gray.  Election: President, Dr R. Brummitt; Vice President, T.W. Wilkinson; Hon. Sec. W. Davey.

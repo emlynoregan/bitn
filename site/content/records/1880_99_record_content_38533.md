@@ -18,6 +18,7 @@ topics:
 - municipal
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ajax’ writes calling for ‘new blood’ in the municipal elections.

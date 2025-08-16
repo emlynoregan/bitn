@@ -18,6 +18,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kangaroo Hunt. Meeting to organise same called at Miners' Arm on 10 Aug. but the men watched the billiards so nothing was resolved.

@@ -38,6 +38,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. A public meeting at the Institute was held on 9 Jan. to decide on the ceremonies for the opening of the school. Chaired by the Mayor, E. Lipsett. A committee was formed of Revs. R.W. Campbell & T. McNeil, Messrs T. Bath,' A. Bartholomaeus, W.H. Batchelor, J: Cater, F.W. Holder, J. Roberts, J: Dunstan, W.F. Coglin, W. Parker, H. Pettier, W. Geake, & - Sara (Sen.)

@@ -21,6 +21,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Girls’ School, run by Mr & Mrs Mathews, held an afternoon tea and entertainment in the evening to bring the midwinter session to a close.  The work of the children reflects well on the teaching and Mr & Mrs Mathews merit the success, which has so far attended their efforts.

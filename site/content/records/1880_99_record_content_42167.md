@@ -20,6 +20,7 @@ topics:
 - industry
 - brewery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Brewery has improved its bottling department and should be able to keep up with the demand for their celebrated ales and stout.

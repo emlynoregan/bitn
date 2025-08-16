@@ -20,6 +20,7 @@ topics:
 - fundraising
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 £34 was sent to the Mayor of Bourke for the Bourke Relief Fund.

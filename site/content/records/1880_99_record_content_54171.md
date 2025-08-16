@@ -23,6 +23,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At Burra Institute for one night only on 13 July, Smith & Kennedy Comedy Co. presents the return of the favourite Mr E.A. Stacey in the latest London success: Gold Dust.

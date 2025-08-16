@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: On 29 January, to the wife of W.J. Davey, a daughter.  [Lilian May Davey]

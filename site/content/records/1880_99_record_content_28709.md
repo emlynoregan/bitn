@@ -19,6 +19,7 @@ topics:
 - politics
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese.  An anti-Chinese meeting in Adelaide last Saturday called for a £100 poll tax and a £25 p.a. special tax.

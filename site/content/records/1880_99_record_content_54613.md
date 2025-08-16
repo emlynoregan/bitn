@@ -18,6 +18,7 @@ topics:
 - event
 - hunting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On the Monday Holiday over 500 rabbits were shot in the Burra district with one party getting 300 and another 100.

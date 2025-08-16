@@ -21,6 +21,7 @@ topics:
 - advertisement
 - store
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Aberdeen Cash Store.  W.L. Evans, General Storekeeper.  Next to Mr Austin’s.

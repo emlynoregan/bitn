@@ -19,6 +19,7 @@ topics:
 - property
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rates.  Though the value of property in Burra had gone down steadily for the last three years people had been paying ever more in rates.

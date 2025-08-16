@@ -18,6 +18,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The footballers failed to meet as called upon last Tuesday and another attempt is called for tonight.

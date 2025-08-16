@@ -20,6 +20,7 @@ topics:
 - wages
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A certain class of employers, who have benefited from fortuitous prosperity are now availing themselves of their unlimited power and influence to presume upon the preponderance of supply in the labour market to dictate terms to those who have taken themselves to a distant part of the colony on the promise of liberal treatment.

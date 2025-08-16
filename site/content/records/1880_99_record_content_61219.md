@@ -36,6 +36,7 @@ topics:
 - election
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After the Mayor had read his report Alexander Harris wanted to know if there had been any difficulty in procuring wood for the Waterworks.

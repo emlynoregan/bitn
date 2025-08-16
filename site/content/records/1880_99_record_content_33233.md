@@ -20,6 +20,7 @@ topics:
 - finance
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson DC ratepayers have agreed to a 1/- in the £ rate at a public meeting at Davieston on 27 July.  The Council began the year £100 in debt and intended to wipe it out, but flood damage has meant they will end £60 in debt.

@@ -20,6 +20,7 @@ topics:
 - police
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Accident.  An 18-year-old apprentice carpenter from Moonta had an amazing escape when the car he was driving was ripped in half at an accident at 7.40 p.m. on 13 April.  The Sigma sedan collided with a stobie pole on Smelts Road and the two sections of it ended up 48 metres apart.  The driver walked away from the wreckage and has been reported by police for driving without due care and for exceeding the prescribed concentration of alcohol.

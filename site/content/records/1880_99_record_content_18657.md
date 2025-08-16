@@ -19,6 +19,7 @@ topics:
 - football
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  [Last Saturday?]  Scratch match, Lott’s team 1 defeated Blott’s team Nil.

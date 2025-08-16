@@ -19,6 +19,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Dinner and entertainment at the Institute last Monday went well, though proceeds were not as great as hoped for.  (£11-£12)

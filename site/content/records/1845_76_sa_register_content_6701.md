@@ -41,6 +41,7 @@ topics:
 - mining
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Police Court, Kooringa, W. Lang Resident Magistrate, 11 June.

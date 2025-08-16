@@ -25,6 +25,7 @@ topics:
 - typhoid
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary - Typhoid.  There have been a large number of typhoid cases in the Burra Hospital this year, though all have come from the Barrier.  Another death last Monday is added to the list.  It was J.R. Edwards, formerly of Burra in the employ of Drew & Co. and latterly of Broken Hill for the same firm.  He leaves a wife and five children.  [John Rowland Edwards died 11 June, aged 34.]

@@ -19,6 +19,7 @@ topics:
 - employment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. A sexton and gardener is required at the Kooringa cemetery. F.W. Holder, Town Clerk.

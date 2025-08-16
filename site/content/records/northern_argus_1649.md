@@ -21,6 +21,7 @@ topics:
 - youth
 - outdoors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ten Burra Venturers spent a week recently climbing and hiking around Wilpena Pound.

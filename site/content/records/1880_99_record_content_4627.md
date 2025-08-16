@@ -25,6 +25,7 @@ topics:
 - construction
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Circuit.  A second minister has been obtained for the circuit: Rev. Bainger from Strathalbyn.  He will commence work in August.  A tender has been accepted for the four additional classrooms at the Kooringa Wesleyan Schoolroom.  Sara & Dunstan will do the work for £208 less an £8 donation.

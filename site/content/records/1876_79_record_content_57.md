@@ -21,6 +21,7 @@ topics:
 - manufacturing
 - agriculture
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 Statton & Henderson	Makers of Wagons, Drays, Spring Carts, Buggies, Ploughs, Scarifiers, Harrows & Horse Scoops, Market Square

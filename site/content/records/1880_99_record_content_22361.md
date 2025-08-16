@@ -20,6 +20,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Mine: the pumping engine and pumps are to be moved from the Bon Accord to the Bird in Hand Mine.

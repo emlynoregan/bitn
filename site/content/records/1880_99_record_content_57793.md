@@ -21,6 +21,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army’s limelight service was very impressive and Capt. Coombes is to be congratulated on his systematic and thorough work since arriving in the town.

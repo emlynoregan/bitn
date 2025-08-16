@@ -20,6 +20,7 @@ topics:
 - fine
 - driving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Patrick Hughes was charged with negligent and furious driving. Fined £1 +£1 costs.

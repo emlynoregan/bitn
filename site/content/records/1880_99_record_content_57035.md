@@ -19,6 +19,7 @@ topics:
 - accident
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  The cab bringing the Aberdeen footballers back from Kooringa on Saturday narrowly escaped an upset when one of the leaders managed to get slightly mixed up in the tackling and the front wheels mounted the footpath.  Various occupants made hasty escapes as the vehicle teetered, but finally all was set to rights.

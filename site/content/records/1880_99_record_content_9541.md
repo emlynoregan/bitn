@@ -22,6 +22,7 @@ topics:
 - relief fund
 - thanks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mrs Lawler thanks all those who contributed to the Lawler relief fund in her late loss.  [A half column list is printed]  £89-8-3 was raised of which £20 came from Mrs R.C. Baker of Adelaide and £14-14-0 from a concert.

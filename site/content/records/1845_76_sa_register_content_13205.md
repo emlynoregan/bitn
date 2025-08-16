@@ -20,6 +20,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Wesleyan Sunday School held its anniversary services on 8 April.  The new minister, Mr Lloyd, preached two excellent sermons.  On the next day 240 students assembled and marched in procession through the town, with banners flying and preceded by a band.  After which they enjoyed tea and cake.  The adults had a tea-meeting following the children’s feast.

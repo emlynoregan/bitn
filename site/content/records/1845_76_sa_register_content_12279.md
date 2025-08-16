@@ -22,6 +22,7 @@ topics:
 - farewell
 - dinner
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday the 8 April a dinner was given Mr Samuel Drew at the Burra Hotel at which 40-50 sat down.  It was rather hurriedly arranged before Mr Drew’s departure on a visit to England by the mail.  Festivities continued till about 2 a.m.

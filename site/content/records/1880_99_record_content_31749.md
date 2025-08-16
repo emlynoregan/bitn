@@ -20,6 +20,7 @@ topics:
 - finance
 - AGM
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  Captain Holder presided at the AGM on Tuesday.  The company is in credit £15-5-6.  Members who were non-financial are to be required to pay their fees and become efficient, or return their uniform.  Subscriptions sets at £1-1-0 for new recruits and £1 for present members.

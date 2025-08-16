@@ -41,6 +41,7 @@ topics:
 - assault
 - straying cows
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offences.  James Nelson was charged with interrupting a congregation at religious worship by making unnecessary noise within the place on 13 April.  Captain Robert Prowse of the Salvation Army gave evidence of the disturbance at a meeting at Redruth.  The prisoner was drunk at the time.  Fined £1.

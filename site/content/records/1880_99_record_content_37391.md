@@ -19,6 +19,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harmston’s Circus was really good and none better has been seen since the days of Cooper & Bailey.  Each item on the bill was worth the price of admission.  Almost every seat was filled on the first night despite the bad weather.

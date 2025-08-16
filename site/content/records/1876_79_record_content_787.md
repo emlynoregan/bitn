@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Marriage.  At the residence of the bride’s parents on 5 August.

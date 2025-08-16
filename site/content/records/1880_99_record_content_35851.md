@@ -19,6 +19,7 @@ topics:
 - politics
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism has appeared again with almost half of F.W. Holder’s election posters in the town torn down.

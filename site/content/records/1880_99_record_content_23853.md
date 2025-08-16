@@ -18,6 +18,7 @@ topics:
 - land
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Land Bill.  The Crown Lands Consolidation Bill of 1886 has passed both houses.

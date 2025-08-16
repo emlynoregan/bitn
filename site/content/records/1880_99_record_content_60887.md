@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aenach Mor Gaedilge.  The Great Irish Fair to be opened tomorrow aims to reduce the heavy church, school and convent debt, which is over £1,000.

@@ -19,6 +19,7 @@ topics:
 - council
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor, John Sampson jun., announced his decision to make himself available for the position in 1899.

@@ -22,6 +22,7 @@ topics:
 - appointment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.A. Bainger, the Redruth Wesleyan minister for the last two years has been appointed to Ardrossan and he was given a farewell last Thursday at a tea followed by a public meeting.  Various addresses were read and speeches made. (Including one by F.W. Holder)

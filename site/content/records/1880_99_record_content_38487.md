@@ -24,6 +24,7 @@ topics:
 - prices
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra History.  An extract from a letter to England from Burra in 1851 by James Jenkin.

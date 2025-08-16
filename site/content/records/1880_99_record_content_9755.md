@@ -22,6 +22,7 @@ topics:
 - mission
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Joseph’s Church, Kooringa, a mission will be given in the church by Rev. Fr Leo Rocalski SJ.  12 -18 April

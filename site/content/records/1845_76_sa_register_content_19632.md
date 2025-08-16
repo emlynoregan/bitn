@@ -19,6 +19,7 @@ topics:
 - health
 - professional
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is hoped that our much respected friend Dr Mayne will resume his practice next week.  All his patients and acquaintances congratulate him on his recovery during his recent trip to England.

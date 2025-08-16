@@ -22,6 +22,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The Burra Juvenile Oxidentals are credited with a good performance in aid of the picnic fund on Friday.  They were apparently a juvenile Christy Minstrel Troupe since ‘Bones’ and ‘Tambo’ are mentioned and ‘Shoo Fly’.

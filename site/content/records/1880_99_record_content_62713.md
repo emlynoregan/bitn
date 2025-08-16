@@ -19,6 +19,7 @@ topics:
 - society
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Pro Bono Publico’ writes asserting that the modern tendency of women to enter into pursuits previously the preserve of men is causing the physical degeneration of the sex – pale faces and dull expressionless eyes due to diseased constitutions, the result of ‘artificial modes of living and unhealthy foods of the day’.  Climate too is a great strain in this country.

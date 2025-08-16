@@ -19,6 +19,7 @@ topics:
 - lecture
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Edward T. Smith (The second Gough) [Page 3 adds ‘the great temperance lecturer’] will deliver Gough’s Famous Oration: ‘For the Sake of Others’.

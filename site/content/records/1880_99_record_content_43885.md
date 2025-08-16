@@ -20,6 +20,7 @@ topics:
 - health
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt will take a short holiday in Tasmania after the hectic weeks of the influenza epidemic.  Dr Sangster will take over his patients and then the roles will be reversed on Dr Brummitt’s return.

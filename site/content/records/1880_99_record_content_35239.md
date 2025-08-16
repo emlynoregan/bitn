@@ -19,6 +19,7 @@ topics:
 - community
 - food distribution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Charity.  During the Xmas holidays five old Burra residents distributed as a Christmas present about 1,100 lb of beef to residents of the town, at a cost of about £13-14-0.

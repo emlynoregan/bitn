@@ -20,6 +20,7 @@ topics:
 - swimming
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Robin Baker has been named in the State Team to swim in Alice Springs in January.

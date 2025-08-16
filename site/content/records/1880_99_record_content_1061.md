@@ -20,6 +20,7 @@ topics:
 - railway
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on How Government Money is Wasted.  Men are still being paid on the Hallett-Terowie railway although work is finished but for the rail laying which awaits the delivery of the rails.

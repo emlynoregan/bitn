@@ -20,6 +20,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A match was begun on 20 November and at present the scores are:

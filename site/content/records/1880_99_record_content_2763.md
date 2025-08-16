@@ -20,6 +20,7 @@ topics:
 - serial
 - economics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 15 Jul 81	Ferryman’s Secret XVIII-XIX	Echoes of the Past (Part II)	The Australian Economic Bank Ltd.	X	X	X	X		X	X

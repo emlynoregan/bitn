@@ -17,6 +17,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Bazaar. The total sum raised at the bazaar was £151.

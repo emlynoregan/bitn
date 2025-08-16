@@ -27,6 +27,7 @@ topics:
 - development
 - objection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Mayor had met with the Town Clerk and Captain Killicoat and Mr Richardson at Llwchwr and arranged for the new road and plans had been prepared, but now it seems Mr Cooke MP will object on behalf of the E & A Copper Co. so it will have to be given up. [Presumably this refers to the Smelts Road.]

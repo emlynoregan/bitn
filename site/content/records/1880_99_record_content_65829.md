@@ -20,6 +20,7 @@ topics:
 - appointment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Bartholomæus, a resident of 42 years, has been appointed Town Clerk.

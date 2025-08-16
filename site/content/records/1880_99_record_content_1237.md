@@ -19,6 +19,7 @@ topics:
 - agriculture
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The Dog Act - there are moves by Hon. H. Scott to strengthen it against dogs worrying sheep.

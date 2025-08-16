@@ -21,6 +21,7 @@ topics:
 - mining
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Dot’, the Adelaide correspondent for the Record says that gold fever has people selling their furniture and taking out mortgages to get to an unproven field.

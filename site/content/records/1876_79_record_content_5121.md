@@ -25,6 +25,7 @@ topics:
 - club
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Amateur Athletic Club; Patron, W.B. Rounsevell MP; President, E. Lipsett JP (Mayor) and Vice-President, W.F. Coglin. 

@@ -19,6 +19,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Anti-Larrikinism’ complaining of the costs of prosecuting larrikins who break into one’s premises.  One should not have to pay to prosecute larrikins when one already pays taxes.

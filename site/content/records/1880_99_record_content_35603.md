@@ -17,6 +17,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Excess water is to be charged at 3/- per 1,000 gallons.

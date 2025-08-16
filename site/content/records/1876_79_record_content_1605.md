@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Dr Sylvester the celebrated Fakir of Oolu will appear on 5 Jan.

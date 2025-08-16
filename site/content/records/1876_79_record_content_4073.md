@@ -23,6 +23,7 @@ topics:
 - schoolroom
 - renovation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Church. The anniversary services continued over the Queen's Birthday with a tea meeting. Rev. R.W. Campbell spoke on `American Backwoods Preachers.' Cash & promises amount to over £IOQ, reducing the debt on the chapel to about £490.

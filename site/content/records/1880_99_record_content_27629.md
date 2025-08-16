@@ -19,6 +19,7 @@ topics:
 - finance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc. (Burra & N-E Ag. Soc.) met last Tuesday to wind itself up, but as only three attended they lacked the authority to do so.  Authority was given to sell so much of the assets as would pay off the society’s debt of c. £5.

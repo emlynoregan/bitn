@@ -18,6 +18,7 @@ topics:
 - police
 - warning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vagabonds.  There are some beggars around who are most demanding.  If such appear send for the police.

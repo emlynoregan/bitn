@@ -21,6 +21,7 @@ topics:
 - postal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Snell has won the contract for the conveyance of mails to the Burra Railway Station.

@@ -19,6 +19,7 @@ topics:
 - crime
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dogs are again killing sheep.  Mr W. Killicoat offers a reward for the discovery of the dogs and their owners.

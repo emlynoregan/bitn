@@ -20,6 +20,7 @@ topics:
 - injury
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr O’Connor received a nasty kick from a horse he was watering at the Market Square trough on Christmas morning.

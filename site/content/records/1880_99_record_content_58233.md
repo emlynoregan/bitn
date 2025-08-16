@@ -21,6 +21,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary was held last Sunday and Monday. Rev. A.H. Carn officiated.  The congregations were good.  The usual tea meeting was held on Monday.

@@ -19,6 +19,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Review of the Carandinis’ concert of 24 & 26 Nov. It was a performance of grand opera and ballads which was very good. The Saturday audience was 'wretchedly small' and the Monday, while better, was not good.

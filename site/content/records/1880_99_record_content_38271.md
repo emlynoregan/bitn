@@ -19,6 +19,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vocal & Instrumental Concert in the German Chapel, Redruth, tonight.  6d.

@@ -19,6 +19,7 @@ topics:
 - council
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 McLaren, White & Co offer to sell the Council the Aberdeen Reserve [on behalf of the owners].  Council to advise them that it did not acknowledge that their clients had the right to sell it.

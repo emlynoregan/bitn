@@ -23,6 +23,7 @@ topics:
 - natural history
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boys’ Field Naturalist Soc. went to Iron Mine on Saturday afternoon.  The secretary, Mr Opie, arranged for a bus and Rev. R.J. Daddow pointed out the dip and strike of shale on Flagstaff Hill and the continuous spring on the roadside at the top of the hill.  At Iron Mine samples of manganese and iron were collected from the excavation and surroundings.

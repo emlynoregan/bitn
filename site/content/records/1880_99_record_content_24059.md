@@ -21,6 +21,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Pasty Dinner and Entertainment 15 December at the Bible Christian Schoolroom.  5 p.m. for dinner, then at the Institute at 7.30 p.m.  The Burra Band will play outside the hall.  Dinner and entertainment 1/6.

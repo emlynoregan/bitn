@@ -22,6 +22,7 @@ topics:
 - letter
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich in response to W.H. Hardy’s letter and taking issue with the example cited by Hardy in support of his cause: the hanging of the murderer Louisa Collins in NSW.  Rabbich thinks she deserved what she got.  He thinks that voting by ballot gives the best possible lawmakers and thus the best laws.

@@ -20,6 +20,7 @@ topics:
 - farewell
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 L-C Thomas, who has been in charge of Kooringa Police Station, was presented with an illuminated address today, prior to his departure from the town.

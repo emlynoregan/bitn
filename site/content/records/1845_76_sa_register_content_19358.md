@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Primitive Methodist church held their Anniversary Services at Redruth early this week.  Rev. J.G. Wright officiated.

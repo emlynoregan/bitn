@@ -22,6 +22,7 @@ topics:
 - court
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Straying animals continue to cause trouble and the following all paid 5/- + 10/- costs.

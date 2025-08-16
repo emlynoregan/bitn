@@ -28,6 +28,7 @@ topics:
 - business
 - corporate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Joker S[ilver] M[ine] Syndicate was wound up voluntarily a few weeks ago.  A meeting of those desirous of carrying on was held at the Commercial Hotel on Friday.  The directors appointed were: Messrs Sandland, Watt, O’Leary, Williams, Kitchen, Bagg and Vivian with G. Parks as secretary.

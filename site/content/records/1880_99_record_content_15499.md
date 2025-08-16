@@ -22,6 +22,7 @@ topics:
 - local government
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John D. Cave writes to clarify his view of the new assessment.  He goes into complicated detail, but at least is clear when he says the 1884 assessment was £15,944-2-0 and for 1885 is £15,907-4-0 after appeals were heard.

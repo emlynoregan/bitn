@@ -21,6 +21,7 @@ topics:
 - review
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 `W.F.O' writes condemning the rather severe criticism made by `Memo' of the Amateur Dramatic Society's recent production.

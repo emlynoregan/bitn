@@ -19,6 +19,7 @@ topics:
 - circus
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Burton & Taylor's Circus on Sat. & Monday well merited the good attendance.

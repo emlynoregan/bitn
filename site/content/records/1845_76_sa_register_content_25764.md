@@ -20,6 +20,7 @@ topics:
 - mine
 - layoffs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The Clare paper reports that the Burra Mines have recently discharged upwards of 100 men.  60 received their notice last week.  Some have been taken on again at piece-work.

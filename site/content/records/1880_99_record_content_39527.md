@@ -19,6 +19,7 @@ topics:
 - poetry
 - non-fiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From then onwards the last page generally carried a main article either of non-fiction or a short story.  Sometimes a collection of shorter items took its place.  Most issues included a poem.  The titles often reveal either the sensational or sentmental nature of the stories.

@@ -20,6 +20,7 @@ topics:
 - society
 - sensationalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sensationalism.  There is an article arguing against the current appetite for sensationalism.  Instances cited include the young woman who ascended to 3,000 metres suspended by her teeth from a trapeze under the car of a balloon at the crystal Palace, London.  Other instances are people going over Niagara Falls in casks, jumping from various bridges, placing hands and/or head in a lion’s mouth and tightrope walking across vast elevations. (Article from Sydney Morning Herald.)

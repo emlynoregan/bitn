@@ -23,6 +23,7 @@ topics:
 - missions
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Ackermann’s Friday meeting for women only resulted in the formation of a local branch of the WCTU.  [Women’s Christian Temperance Union]

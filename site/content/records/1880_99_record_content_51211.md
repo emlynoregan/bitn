@@ -29,6 +29,7 @@ topics:
 - investigation
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the result of the Committee appointed to investigate the feud between The Record and the Council.  This comprised five former Mayors (Dr Brummitt and Messrs E.C. Lockyer, P.L. Killicoat, T.W. Wilkinson and P. Lane.)  They were to compare the Council minutes with the reports in the paper.  The papers from January 1893 to the present were examined and the results appear on page three.  The Committee has found the papers reports to be substantially correct.  In particular that of the meeting of 17 July published on 19 July which seems to have been the origin of the present troubles ‘does not contain anything which need have been seriously noticed by the Council.’

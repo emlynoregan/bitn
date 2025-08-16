@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's Church. A meeting of seat-holders learnt that there was a deficiency of about £200 re the new church, but subscriptions already promised and the proceeds of a harvest festival in February are expected to overcome this. It is now proposed to open the new church in the middle of January.

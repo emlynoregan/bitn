@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  It remains dry locally, but the crops are not yet suffering, but to the N and NE things are bad.  There is every sign that the coming season will be bad again.

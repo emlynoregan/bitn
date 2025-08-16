@@ -21,6 +21,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  Allan Dwyer has resigned to take up a position as Deputy Town Clerk at Broken Hill in November.  He took up his duties as District Clerk at Burra in November 1984.

@@ -22,6 +22,7 @@ topics:
 - transport
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J.G. Terry & Co.'s line of coaches now leave Hallett every Friday and depart from Bimbowrie Monday morning to connect with the Tuesday afternoon train for Adelaide.

@@ -19,6 +19,7 @@ topics:
 - performance
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Report on the great Levy. Opera extracts with some lighter pieces. Performance was very good. The first night had only a few vacant seats, but the second night had a relatively small audience.

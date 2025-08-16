@@ -18,6 +18,7 @@ topics:
 - probate
 - estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Probate was granted on the will of Thomas Warnes for an estate sworn as under £9,235.

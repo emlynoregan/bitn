@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Camp Meeting.  ‘A well attended camp meeting’, the first of a planned series, was held last Sunday afternoon on the Brewery Flat.

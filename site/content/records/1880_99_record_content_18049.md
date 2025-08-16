@@ -21,6 +21,7 @@ topics:
 - institution
 - juvenile
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Lavan (11) was sent to the Magill Industrial School for two years for being an uncontrollable child, on the application of his mother, Ann Lavaun, widow. [The inconsistent spelling of the surname is as printed.]

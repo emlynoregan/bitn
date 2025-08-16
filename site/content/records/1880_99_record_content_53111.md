@@ -20,6 +20,7 @@ topics:
 - community
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  School Art Musical & Cooking Exhibition on Wednesday 21 March to be opened by P.L. Killicoat.

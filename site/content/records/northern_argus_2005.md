@@ -20,6 +20,7 @@ topics:
 - development
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Mine.  Roadworks have been done in the past few weeks and car park areas formed using part of the $45,000 grant for this purpose.  Further roadwork will be done later in the financial year.

@@ -19,6 +19,7 @@ topics:
 - pest
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  The invasion of rabbits from the north-eastern fringe country is very serious.

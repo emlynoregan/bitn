@@ -20,6 +20,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Mrs Chamber's Ladies' School on Church Hill, Kooringa. The next quarter commences 1 January.

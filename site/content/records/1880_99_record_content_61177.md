@@ -20,6 +20,7 @@ topics:
 - injury
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A son of Mr A. Fitzpatrick is recovering from head and other injuries incurred on Monday when working in a quarry at Leighton when a considerable amount of debris fell on him.

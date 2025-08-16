@@ -24,6 +24,7 @@ topics:
 - fire
 - burns
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs William Baker [on 6 January] was trying to fill a kerosene lamp on the hob of a fire from a three-gallon tin of kerosene.  The tin exploded engulfing her in flames and she died soon after.  Her daughter Nelly, aged 3, was in a bath nearby and was severely burnt above the waist.  She died at 5 a.m. the following day.  The residence was near the Mintaro Railway Station.  [Eliza Baker nee Johnson born 15 May 1852.  Ellen Baker born 19 September 1877.]

@@ -23,6 +23,7 @@ topics:
 - education
 - prizegiving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs McLagan’s School (Kindergarten) held its prize giving and Christmas Entertainment on 17 December.  The latter included a recitation of ‘The Little Orator’ by Essie Lewis. [Essington Lewis]  The prize in the first class for Arithmetic went to Essington Lewis and Robbie Brummitt.  Essington Lewis also got a prize for recitation.

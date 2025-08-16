@@ -19,6 +19,7 @@ topics:
 - public_health
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mortality Statistics of 1857

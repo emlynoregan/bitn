@@ -21,6 +21,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Watkins replies to the rather full account of his trial published in the paper of

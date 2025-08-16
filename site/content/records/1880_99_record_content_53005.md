@@ -20,6 +20,7 @@ topics:
 - concert
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Jubilee Fisk Singers will return to the Institute after a long absence for Thursday and Friday next.  Their tour has been an unprecedented success.  The program is of old favourites, Negro plantation songs, Jubilee choruses, first-class secular and comic songs.  Also hear Miss Mattie Allan, the world’s only lady tenor.  3/-, 2/-, 1/-.

@@ -20,6 +20,7 @@ topics:
 - licensing
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ again takes issue with ‘Teetotaller’.  He defends the use of the terms like ‘faddist’, ‘extremist’, and ‘bigot’ as being no more than the utmost truth.  He says he seeks compensation for the owner, not the licensee.

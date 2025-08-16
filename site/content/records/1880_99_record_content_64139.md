@@ -24,6 +24,7 @@ topics:
 - local politics
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Town Council has been having meetings reminiscent of the worst days of the Burra Town Council not so long ago with two Aldermen almost coming to blows.  One of them was Alderman John Dunstan, an old Burraite.

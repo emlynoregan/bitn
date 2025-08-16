@@ -23,6 +23,7 @@ topics:
 - police
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. is to complain to the Commissioner about the removal of Constable Wilson from Kooringa to Redruth.  As they paid half his salary, they felt they should have some say in the move of such a popular officer.  They were supported by a deputation led by Rev. Howitt aided by Thomas Drew.

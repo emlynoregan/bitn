@@ -20,6 +20,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Flower Queen Cantata given by Mr Forder and His Co. was very successful.  Singers were principally from Redruth Wesleyan Sunday School.

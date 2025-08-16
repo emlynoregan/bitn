@@ -21,6 +21,7 @@ topics:
 - property
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  H. Dawson’s house is advertised for sale.  Nine rooms at Aberdeen with furniture and effects as he is going to live in Adelaide.

@@ -19,6 +19,7 @@ topics:
 - floriculture
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A meeting will be held in the Institute on Saturday afternoon at 2.00 p.m. to consider establishing a Floricultural Society.

@@ -22,6 +22,7 @@ topics:
 - council
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway pointed out that the police constable in Redruth had been away for six months and yet they were being charged the police moiety for his services.  He moved the Government be written to on the subject.

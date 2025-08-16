@@ -20,6 +20,7 @@ topics:
 - development
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Baldina’ writes enclosing a petition from 20 owners of land in the Baldina area, urging the adoption of the Baldina Irrigation Scheme.

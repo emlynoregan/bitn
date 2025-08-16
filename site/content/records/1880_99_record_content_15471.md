@@ -21,6 +21,7 @@ topics:
 - obituary
 - heart disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Walter Kellock, aged 15, son of Mr & Mrs John Kellock of Thistlebeds, died on Tuesday last of heart disease.  [25 November.]

@@ -23,6 +23,7 @@ topics:
 - organization
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Jubilee Benevolent Society was formed at a meeting last Thursday with Dr Brummitt as President, Miss Coglin as Secretary and J.F. Moore as Treasurer.

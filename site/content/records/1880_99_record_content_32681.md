@@ -22,6 +22,7 @@ topics:
 - fees
 - reserve
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Ridgway declined to pay for the water, which had been used on the reserve under his care in Aberdeen.  The 5/- will be paid by Council and the water cut off.

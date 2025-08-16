@@ -20,6 +20,7 @@ topics:
 - legislation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Seed Wheat.  The Treasurer has introduced a Bill to allow for further advances of seed wheat to distressed farmers in 1898.

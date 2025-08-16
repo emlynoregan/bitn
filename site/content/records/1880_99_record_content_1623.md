@@ -23,6 +23,7 @@ topics:
 - fares
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Traveller’ complaining of the high cost of the busses from the last train to Kooringa.  In Adelaide up to midnight it costs 6d from Adelaide to Kensington and back, a distance of about 6 miles.  In Burra the charge for one mile is 1/-.

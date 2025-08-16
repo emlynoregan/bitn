@@ -22,6 +22,7 @@ topics:
 - horse races
 - sculling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports reports from out-of-town were dominated by cycling, football, horse races and still some sculling that was being contested for large sums.

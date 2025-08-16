@@ -21,6 +21,7 @@ topics:
 - entertainment
 - salvation army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The shops were well stocked and busy and bright with extra lamps, candles and Chinese lanterns.  Christmas tunes could be heard from Mr Wheatley’s able musicians and the can-can ‘Fire Away’ of the Salvation Army grated in the ears of all visitors to Market Square.  Crowds began to disperse about 10 p.m.

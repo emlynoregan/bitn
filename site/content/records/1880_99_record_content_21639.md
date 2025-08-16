@@ -20,6 +20,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21639→Intercolonial Railway.  The SA part of the line to Melbourne will open in April.

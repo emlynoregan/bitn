@@ -19,6 +19,7 @@ topics:
 - goldfields
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields continue to attract workers, but while some independent diggers are making some finds, the Government men are getting very little gold.

@@ -24,6 +24,7 @@ topics:
 - water
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  As originally provided for they are almost complete and water should be flowing in about one week.  All applicants at Kooringa have been connected and service laying begins in Aberdeen on Saturday or Monday.  Extensions in Kangaroo, Queen and Chapel Streets are progressing with connections expected in about a fortnight.

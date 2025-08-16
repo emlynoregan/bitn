@@ -21,6 +21,7 @@ topics:
 - labor
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  William Chace, Little Para, 16 October 1848.

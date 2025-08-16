@@ -20,6 +20,7 @@ topics:
 - taxation
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 YMCA tonight is the Parliamentary night and the Treasurer brings in a taxation policy.

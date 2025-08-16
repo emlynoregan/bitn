@@ -19,6 +19,7 @@ topics:
 - mining
 - exploration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A meeting of shareholders in a mining sett on the southwest boundary of the Burra Survey is to take place tonight.  Parties have been sinking there for some time, in soft ground, but so far there are no signs of ore.

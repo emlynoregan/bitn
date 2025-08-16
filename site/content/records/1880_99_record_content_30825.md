@@ -18,6 +18,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Institute Committee has received a letter from the Masonic Lodge advising they will not require the Lodge Room from now until further notice.

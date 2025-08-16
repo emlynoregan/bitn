@@ -18,6 +18,7 @@ topics:
 - death
 - capital punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Capital Punishment.  There is an article on the various forms of the death penalty and where they are practised.

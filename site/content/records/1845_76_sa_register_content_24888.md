@@ -19,6 +19,7 @@ topics:
 - finance
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Share list.  Burra Burra Mine £5 shares were quotes at £14.

@@ -18,6 +18,7 @@ topics:
 - services
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W.H. Hardy: Chimneys swept on the shortest notice.

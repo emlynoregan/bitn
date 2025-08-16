@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Reed sustained a broken leg on Tuesday last when he was kicked by a horse he was mounting at Pine Ck in the Hundred of Ketchowla.

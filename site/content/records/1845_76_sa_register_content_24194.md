@@ -19,6 +19,7 @@ topics:
 - disease
 - pleuro-pneumonia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  This season [in the northern area] more land has been placed under cultivation and so total production may increase, but the average yield will doubtless be less due to the drier conditions.  No rust has yet been reported.  Pleuro-pneumonia has not spread to a serious extent.

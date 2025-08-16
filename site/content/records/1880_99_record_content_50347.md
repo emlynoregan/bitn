@@ -22,6 +22,7 @@ topics:
 - football
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare 7.16 defeated Burra 0.1 and Manoora 3.7 defeated Aberdeen 1.6.

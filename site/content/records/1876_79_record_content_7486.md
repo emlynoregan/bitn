@@ -19,6 +19,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Weather. Last Tuesday not less than 1.75" fell in 24 hours at Burra and 1.25" at Mongolata and it was almost equally heavy in all directions. Some damage to hay is sure to follow, but the advantage to wheat will outweigh that.

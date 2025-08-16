@@ -21,6 +21,7 @@ topics:
 - mine
 - commission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Witnesses are being examined in Adelaide under the commission issued in the action pending against the purchasers of the mine in England.

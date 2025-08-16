@@ -20,6 +20,7 @@ topics:
 - school
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board.  An inspection of the school showed that some rooms were in a bad state.  The infants’ room particularly needs attention and the Education Dept. has been so advised.

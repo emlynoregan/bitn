@@ -18,6 +18,7 @@ topics:
 - public health
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Material from the hospital is most offensive and should be buried.

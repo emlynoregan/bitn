@@ -21,6 +21,7 @@ topics:
 - fine
 - gaol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Samuel Mason was fined £5 with £5-6-0 costs for crossing North-West Run with a flock of sheep without giving due notice.  In default of payment he was sent to gaol for 2 months.

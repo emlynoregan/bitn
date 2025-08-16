@@ -22,6 +22,7 @@ topics:
 - livestock
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Front Street’ complaining of the great number of stray cattle breaking down fences and doing other damage on Sundays and calling for the practice to end.  ‘The Kooringa end of town is literally swarming during Saturday night and Sundays every week.’

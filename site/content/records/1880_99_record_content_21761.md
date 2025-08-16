@@ -22,6 +22,7 @@ topics:
 - thanks
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bath & Pearce offer thanks for the help in extinguishing a fire in the harness room at their stables last Friday night.  (Dated by mistake 29 March 1884.)

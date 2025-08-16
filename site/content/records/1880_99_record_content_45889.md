@@ -21,6 +21,7 @@ topics:
 - event
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI went to the residence of Mr Field about six miles from Burra on Wednesday.  Drills were practised and a first class spread provided.

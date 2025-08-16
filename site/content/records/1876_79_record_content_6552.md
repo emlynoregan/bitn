@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 150' 	£75- 0-0	200' 	£125- 0-0

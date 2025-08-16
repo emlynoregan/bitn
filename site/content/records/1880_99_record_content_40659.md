@@ -30,6 +30,7 @@ topics:
 - education
 - natural history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The efforts of the visiting Colonel McKie and his A.D.C., Staff Capt. Plank, from London, were rewarded with large attendances at the Salvation Army barracks last Tuesday.  They are touring the colonies to hold Salvation Revival Services.

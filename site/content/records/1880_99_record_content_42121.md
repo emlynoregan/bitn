@@ -20,6 +20,7 @@ topics:
 - military
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF, under Captain G. Butterworth is to be disbanded at the suggestion of Maj.-Gen. Downes, as so many members have transferred to the Mounted Co. that it is hard to secure a drill.

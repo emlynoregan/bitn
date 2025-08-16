@@ -19,6 +19,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Packard is not to be retained as Town Council solicitor for the coming year.

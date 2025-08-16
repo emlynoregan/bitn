@@ -23,6 +23,7 @@ topics:
 - music
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute 1 April, Grand Entertainment by Quintrell Family, Vocalists, Instrumentalists and Bellringers.  Special appearance of the SA Contralto Miss Jennie Opie.

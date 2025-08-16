@@ -19,6 +19,7 @@ topics:
 - public_health
 - company_policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The sanitary aspect was always poor and SAMA took little interest in it till the temporary closure of the mine. As lease rent could not then be paid at the Mine Office a rent collector was appointed and it was he who began to see that improvements were made.

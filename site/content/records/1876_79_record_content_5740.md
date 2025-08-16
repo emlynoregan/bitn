@@ -19,6 +19,7 @@ topics:
 - event
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Jockey Club Races will be held 1 Apr. to feature: - Handicap over 2 miles - £100 Handicap Steeplechase over 2 miles and 7 jumps -£75

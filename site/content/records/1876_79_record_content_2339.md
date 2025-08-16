@@ -18,6 +18,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Ed. - an `I told you so' piece on the House of Assembly report of the need for more culverts etc.

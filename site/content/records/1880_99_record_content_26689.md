@@ -19,6 +19,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Institute Annual Sports were held on 9 Nov.  Only about 250 attended this year.  The running track was good; the bicycle track wretched and full of ruts, but the bicycle race was the most exciting of the day.  The race over three miles was won by P. Gleeson from scratch.  (£2-10-0)

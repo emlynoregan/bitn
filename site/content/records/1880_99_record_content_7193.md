@@ -19,6 +19,7 @@ topics:
 - lecture
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Text of C. Proud’s Talk: America and What I Saw there in 1882, is printed.

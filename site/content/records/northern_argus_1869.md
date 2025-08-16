@@ -20,6 +20,7 @@ topics:
 - cricket
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Darren James, 14-year-old Junior Sports Person of the Year, has started this season well with 126 retired  in the junior team and then in the ‘A’ Grade match against Spalding he made 98.

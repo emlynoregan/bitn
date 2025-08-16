@@ -20,6 +20,7 @@ topics:
 - trade
 - tariffs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder has returned from Queensland.  The Register says he is hopeful of good outcomes on the question of reciprocal reduction of tariffs.  It also says ‘it is incredible that the [Queensland] Government or any member of it can have given Mr Holder any grounds for believing that his preposterous proposals can be seriously entertained.’

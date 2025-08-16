@@ -19,6 +19,7 @@ topics:
 - crime
 - execution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ned Kelly, having been found guilty, has been sentenced to death and will be executed next Thursday.

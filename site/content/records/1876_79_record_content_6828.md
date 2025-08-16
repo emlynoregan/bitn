@@ -19,6 +19,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 SA Farmers' Mutual Assoc. The formation of a branch at Terowie on 19 July is reported in 1¼ columns.

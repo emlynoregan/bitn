@@ -19,6 +19,7 @@ topics:
 - publication
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  There is a ½ column article of quite favourable comment on the ‘Hallelujah Lasses’, which is reprinted from the Pall Mall Gazette.

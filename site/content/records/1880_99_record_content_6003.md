@@ -22,6 +22,7 @@ topics:
 - trade
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Editor is amazed that such huge areas of land are devoted to TSRs in SA to encourage stock from Queensland and NSW to compete with SA producers and yet no import duty is charged (unlike NSW & Victoria).

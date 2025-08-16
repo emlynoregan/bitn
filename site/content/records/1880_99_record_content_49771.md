@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Last Wednesday Burra lost.  [Reported elsewhere that the Burra 11 played Hallett-Mt Bryan combined 15 and Hallett-Mt Bryan 69 defeated Burra 53.

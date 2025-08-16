@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Sandland	23 Aug. 1882	C.H. Bartholomæus	7 June 1893

@@ -17,6 +17,7 @@ topics:
 - advertisement
 - explanation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [In this context ‘livery’ probably suggests the availability of horses for hire and ‘bait’ the care and feeding of horses.]

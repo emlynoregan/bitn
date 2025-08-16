@@ -19,6 +19,7 @@ topics:
 - council
 - engineering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Engineer received £107-10-0.

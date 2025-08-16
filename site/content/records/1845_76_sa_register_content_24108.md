@@ -21,6 +21,7 @@ topics:
 - demography
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Census of 2 April 1871

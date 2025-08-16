@@ -21,6 +21,7 @@ topics:
 - mining
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  To Tallow-chandlers, ironmongers, saddlers and others.  Tenders are called by the SA Mining Association for the following items:

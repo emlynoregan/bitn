@@ -20,6 +20,7 @@ topics:
 - advertisement
 - solicitor
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 D. Spencer Packard	Solicitor, Market Square

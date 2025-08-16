@@ -20,6 +20,7 @@ topics:
 - agriculture
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bagot, Shakes & Lewis sold 14,876 sheep, 116 rams, 212 cattle and 70 horses at last Friday’s sale.

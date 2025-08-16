@@ -21,6 +21,7 @@ topics:
 - labour
 - report correction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Miner’ of Silver City writes to contradict parts of the article that was reprinted from the Melbourne Age of 14 April.  Shafts do not extend 150’: their maximum is 85-90’.  And far from there being a shortage of labour, there are many men seeking work.

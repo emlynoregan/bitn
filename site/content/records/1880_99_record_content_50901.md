@@ -22,6 +22,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.S. Casely’s lecture at the Institute on Tuesday evening on Tennyson was largely attended.  The lecture for September is to be by Professor Lowrie on Soils and their Cultivation.

@@ -22,6 +22,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bible Christian Sunday School Anniversary Services were preached on Whit-Sunday by Rev. J.A. Burns and Mr R. Dale.  The congregations exceeded the capacity of the chapel.  Monday was a holiday and the children marched around the town, headed by the band and then had tea and cake.  The public meeting was well attended and the effort raised £50-11-8.

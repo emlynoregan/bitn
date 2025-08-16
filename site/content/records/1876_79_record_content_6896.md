@@ -18,6 +18,7 @@ topics:
 - fundraising
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Primitive Methodist dinner and concert passed off very well last Wednesday. About 80 stayed on for the supper afterwards and the proceeds were £21.

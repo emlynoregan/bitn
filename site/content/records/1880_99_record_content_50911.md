@@ -24,6 +24,7 @@ topics:
 - local government
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Fairplay’ writes concerning the going into committee by Council.  He contrasts Cr Hardy’s move on 21 August 1893 with Mr Hardy’s report on 4 April 1891, when he was the reporter for the paper.  Hardy had then reported the move into committee as an idiotic farce and the evening as being ‘wasted over most ridiculous child’s play and claptrap’.  ‘If Councillor ________ was not afraid of the press, why did he move to go into committee?’  The writer also quotes from W.H. Hardy writing as Ajax and writing about W.H. Hardy!  This is an article in which Hardy managed to praise himself rather highly and in somewhat purple prose.  The writer is also sorry to see Cr Parks so easily led astray in supporting such a childish motion.

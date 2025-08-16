@@ -20,6 +20,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Roads.  A large deputation waited on the Government on Wednesday to protest the wholesale closing of stock routes and asking that at the least all trunk routes be kept open for their original purpose.

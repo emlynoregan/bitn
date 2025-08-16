@@ -20,6 +20,7 @@ topics:
 - relief
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cornwall Relief Committee in Adelaide has forwarded £450 and the Wesleyans have sent £275.

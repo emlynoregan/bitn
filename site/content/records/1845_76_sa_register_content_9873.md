@@ -26,6 +26,7 @@ topics:
 - woodcutting
 - procurement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Bullock drivers and woodcutters are advised that wood, dry or green, will be purchased by the English & Australian Copper Co. during the next five months in any quantity that can be delivered to the Burra Copper Works, Kooringa.  The Company’s Run, called Baldino [sic] of 50 square miles, through which the road to the Murray scrub runs, will be placed at the service of the drivers.  Woodcutters will be furnished with licences.

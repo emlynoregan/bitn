@@ -20,6 +20,7 @@ topics:
 - sport
 - swimming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The Senior School swimming carnival last Friday resulted in Jennison House being the victor.

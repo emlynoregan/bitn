@@ -29,6 +29,7 @@ topics:
 - finance
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The ninth siting examined Mr McNeil, who was received as a candidate for the ministry.

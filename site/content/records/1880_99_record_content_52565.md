@@ -24,6 +24,7 @@ topics:
 - surgery
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  Last Saturday Dr Hill of Terowie & Dr Sangster Jnr assisted Drs Brummitt & Dr Sangster Sen. In three operations for hydatids, hernia and removal of a portion of bone from a leg.

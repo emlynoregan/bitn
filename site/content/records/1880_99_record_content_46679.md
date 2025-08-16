@@ -17,6 +17,7 @@ topics:
 - event
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 They will be concluded today, Wednesday 7 September.  [The report extends just over 1 column.]

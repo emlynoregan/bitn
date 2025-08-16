@@ -27,6 +27,7 @@ topics:
 - government
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Old Burra Road

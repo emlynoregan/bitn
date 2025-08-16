@@ -18,6 +18,7 @@ topics:
 - policy
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on Our Education System. The editor somewhat reluctantly endorses the idea of free education and is in favour of abandoning the system of payment by results with its consequent emphasis on cramming.

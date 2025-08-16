@@ -20,6 +20,7 @@ topics:
 - meeting
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Post and Telegraph Office.  A meeting is advertised for Wednesday next to advocate the erection of a Post Office in Redruth or Aberdeen.

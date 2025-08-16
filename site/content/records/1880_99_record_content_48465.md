@@ -22,6 +22,7 @@ topics:
 - fundraising
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Institute Committee Meeting on Thursday agreed to accept the offer from Miss Spence to give a lecture on Effective Voting.  Mr J.A. Watt offered to get up four 6d concerts to aid the Institute funds.

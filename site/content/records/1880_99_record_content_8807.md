@@ -18,6 +18,7 @@ topics:
 - literature
 - essays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 10 Mar.	XVII	An Iron Welcome	X	X		X		X	X	X		Epistolary Curiosities

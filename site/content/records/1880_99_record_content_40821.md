@@ -21,6 +21,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs Sampson were thrown from their trap on the way home from the races on Wednesday: apparently from the trap being turned around too short.

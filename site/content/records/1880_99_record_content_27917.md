@@ -20,6 +20,7 @@ topics:
 - rifle matches
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Matches.  SA came second to NSW at the Centennial Rifle Matches.

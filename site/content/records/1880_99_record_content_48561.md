@@ -19,6 +19,7 @@ topics:
 - damage
 - rural
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Last Friday there was a very destructive fire on the Booborowie estate.  1,000 acres of grass was destroyed.  It started near the shepherd’s hut.

@@ -22,6 +22,7 @@ topics:
 - charity
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Chinese Famine Fund Concert in the Institute 29 May concluding with the drama Sang Froid.

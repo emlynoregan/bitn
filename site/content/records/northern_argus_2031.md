@@ -24,6 +24,7 @@ topics:
 - grant
 - planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra National Trust.  President Maureen Wright reported on the year in a Christmas letter to members.

@@ -20,6 +20,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Drew moved that the Government’s offer of 26 July 1883 be accepted, using the Council shaft and not providing for the Locomotive Department.  Cr Duff 2nd.

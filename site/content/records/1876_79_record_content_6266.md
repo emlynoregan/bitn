@@ -20,6 +20,7 @@ topics:
 - cricket
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from `Not a cricketer' condemning the bad way the Burra cricket team members are received when they lose. He asks for some sympathy and understanding.

@@ -19,6 +19,7 @@ topics:
 - crime
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison.  There has been an apparent case of someone poisoning five pigs in a sty at Hampton.

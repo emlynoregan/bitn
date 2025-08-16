@@ -18,6 +18,7 @@ topics:
 - social issue
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Bad Mother’ earns a ⅓ column report devoted to the activities of this alcoholic resident of Kooringa and her long-suffering industrious husband.

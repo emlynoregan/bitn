@@ -20,6 +20,7 @@ topics:
 - finance
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SA Mining Association hereby gives notice that a dividend of 200% or £10 per share is declared today by the Directors of the Association and will be paid to shareholders on Wednesday 1 March or any Wednesday or Saturday afterwards.  Certificates of shares must be left at the office two days before payment of the dividend.

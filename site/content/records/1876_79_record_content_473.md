@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Bible Christian Church is raising funds for a new roof.  An appeal at a meeting on Monday raised £26, leaving about £14 to be collected.

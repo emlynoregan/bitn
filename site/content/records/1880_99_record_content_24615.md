@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - unemployment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment is again being felt both in Burra and Adelaide.

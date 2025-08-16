@@ -23,6 +23,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo.  [There is a report from Mr Peterswald, the Warden of the Gold-fields, confirming that some gold has been found at Ulooloo.  The ground looks promising and Mr Wescott has marked out a prospecting block 200 yards square.  A reef is reported from Banbury Scrub and Mr Brayley, a farmer near Wescott’s, reports that his son found some gold in 1870.  Despite the indications the Warden warns that gold has not yet been found in payable amounts.]

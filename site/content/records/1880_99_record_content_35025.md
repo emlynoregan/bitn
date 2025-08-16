@@ -20,6 +20,7 @@ topics:
 - celebration
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Year was greeted without mischief, though there were crowds about on New Year’s Eve and into the early morning.  The two local bands played in the evening and shortly before midnight the usual services were held in the Wesleyan and Anglican Churches.  Music, guns and laughter saw the New Year in.

@@ -19,6 +19,7 @@ topics:
 - pest control
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  There is an article on the use of phosphorised wheat for killing rabbits: patented by Felton, Grimwade & Co.

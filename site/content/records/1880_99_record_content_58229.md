@@ -21,6 +21,7 @@ topics:
 - presentation
 - illustration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. W. Haslam MLC delivered an interesting lecture on the Northern Territory at the Burra Institute on Friday night.  It was illustrated with the aid of a powerful lantern.

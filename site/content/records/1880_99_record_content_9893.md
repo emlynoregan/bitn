@@ -20,6 +20,7 @@ topics:
 - business
 - move
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Watt has moved to Mr Batchelor’s old shop. [See advt. page 3.]

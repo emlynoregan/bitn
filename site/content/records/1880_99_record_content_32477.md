@@ -20,6 +20,7 @@ topics:
 - court
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Principle complains that the JP did not uphold the law in the recent case where T.P. Halls was accused of carrying a person in his cab who had behaved in an insulting manner.

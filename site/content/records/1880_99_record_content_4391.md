@@ -21,6 +21,7 @@ topics:
 - construction
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School calls tenders for the erection of two or four additional classrooms.  Tenders to state the price they will allow for the materials in the old schoolroom, the purchaser is to remove the whole of the building when the new work is complete.

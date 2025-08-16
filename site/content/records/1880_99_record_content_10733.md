@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School annual picnic was held at Princess Royal on Tuesday.  Father Kreisll and the Sisters and others did very well in preparing the day.

@@ -20,6 +20,7 @@ topics:
 - elections
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the coming elections.  Mr Holder will assuredly stand again, though he has not officially said so yet, but another member is needed as W.B. Rounsevell is standing for Port Adelaide.

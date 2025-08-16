@@ -20,6 +20,7 @@ topics:
 - survey
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Projected Special Survey.  Yesterday those interested in the proposed Special Survey proceeded in a body to view Mr Finke’s recent discoveries in the North, the announcement of which seems to have paralysed all other mining operations.  If the area proves as valuable as expected and the mines be developed, they must benefit the colony at large, let them belong to whom they may.

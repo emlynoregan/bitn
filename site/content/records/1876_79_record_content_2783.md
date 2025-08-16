@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 William Donovan fell into the Gumbowie quarry on 31 August severely lacerating his thigh.

@@ -22,6 +22,7 @@ topics:
 - dispute
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Employees.  Railway repairers employed between Farrell’s Flat and Terowie met at the Bon Accord Hotel on 13 September to consider the action of the Government in charging them rent from 1 October.  They resolved that since 6/- a day barely affords a living for themselves and their families they cannot sign the agreement and respectfully request the matter be reconsidered by the Commissioner.

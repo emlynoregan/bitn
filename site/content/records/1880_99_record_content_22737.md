@@ -22,6 +22,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Young Men’s Union.  There will be a concert on 10 July at the rear of the Commercial Hotel.  Collection to aid the Burra Band.

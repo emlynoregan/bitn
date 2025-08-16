@@ -23,6 +23,7 @@ topics:
 - editorial
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Copperhouse school question. When the question about it came up in Parliament the Minister of Education replied that the local Board of Advice advised it was unnecessary and so the Govt. would take no action. The second petition to the Board seems to have been ignored. The editor is amazed and distressed at the decision of the Board and at their lack of sympathy. A provisional school could be established as there are buildings available and this would test the numbers available.

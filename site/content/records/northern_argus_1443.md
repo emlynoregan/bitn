@@ -22,6 +22,7 @@ topics:
 - sport
 - cross country
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  32 athletes from Burra attended the SA Country Secondary Schools cross country competition at Carisbrook Park near Salisbury.

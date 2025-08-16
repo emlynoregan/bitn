@@ -26,6 +26,7 @@ topics:
 - postal
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 February 1847, page 2

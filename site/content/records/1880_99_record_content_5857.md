@@ -17,6 +17,7 @@ topics:
 - local_news
 - advertising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Continuation of local and other news with a column or two of smaller advertisements.

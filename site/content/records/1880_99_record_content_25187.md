@@ -19,6 +19,7 @@ topics:
 - business
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa.  A company has been formed to erect a £3,000 battery.

@@ -21,6 +21,7 @@ topics:
 - festival
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Flinders University Drama Students are spending two weeks in Burra in preparation for their production of She’ll  be Riot at the Redruth Gaol as part of the 1986 Coppertown Festival.

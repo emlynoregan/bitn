@@ -21,6 +21,7 @@ topics:
 - mining
 - coal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Joseph Weir has just arrived with the large engine for the Burra Mine.  This enormous engine for the SA Mining Association is virtually the sole cargo for the vessel, except for 100 tons of coal for the Patent Copper Company.

@@ -18,6 +18,7 @@ topics:
 - gold
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gold in SA.  The population of the tiny town of Macclesfield turned out en masse on Friday because of the alleged discovery of gold in the neighbourhood.  Some small particles of the metal were detected in the banks of a creek, but nothing of any significance was discovered.

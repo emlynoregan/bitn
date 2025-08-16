@@ -18,6 +18,7 @@ topics:
 - church
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's vestry meeting on 22 April found the financial position strong.

@@ -21,6 +21,7 @@ topics:
 - picnic
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The united Friendly Societies' Picnic in Austin's Paddock, Aberdeen

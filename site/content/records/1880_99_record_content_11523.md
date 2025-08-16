@@ -22,6 +22,7 @@ topics:
 - religion
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr R. Snell, recently sent to labour as a missionary to the railway men between Quorn and Farina gave an interesting report of his work in the Kooringa Wesleyan Lecture Hall last Wednesday.  He visits each camp for a week, teaching the children four hours a day and Bible reading each evening for the elders.  On Sundays he visits Farina and distributes tracts house-to-house, holds Sunday school twice and has in prospect an evening service too.  He has been very well received.

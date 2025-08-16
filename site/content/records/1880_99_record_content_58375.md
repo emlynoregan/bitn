@@ -20,6 +20,7 @@ topics:
 - fire
 - disaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Fire.  A fire in Block 10 that started yesterday is believed under control.  The fire that started in Block 11 on 21 July is not yet entirely extinguished.

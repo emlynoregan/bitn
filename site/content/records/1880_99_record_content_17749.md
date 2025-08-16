@@ -19,6 +19,7 @@ topics:
 - fundraising
 - patriotic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Rifle’ supporting the Patriotic Fund, but ashamed that it looks as if only 10 uniforms will be provided by patriotic Burraites - so different from other places.

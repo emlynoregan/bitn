@@ -22,6 +22,7 @@ topics:
 - hospital
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Newman of near Yongala had his leg amputated at Burra hospital on Wednesday after it had been crushed between a dray wheel and a fence.  He is progressing favourably.

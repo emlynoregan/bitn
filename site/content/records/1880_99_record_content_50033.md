@@ -18,6 +18,7 @@ topics:
 - population
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Population on 1 March was 332,998 which was 11,345 up on March last year.

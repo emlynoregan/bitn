@@ -20,6 +20,7 @@ topics:
 - organization
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association’s office is in Rundle Street in Waterhouse’s Buildings.  Open from 10 to 3.  The Board of Directors meets every Thursday at 2 p.m.

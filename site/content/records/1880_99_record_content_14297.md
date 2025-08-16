@@ -21,6 +21,7 @@ topics:
 - anniversary
 - tea meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary last Sunday.  Rev. S.F. Prior of Port Augusta preached.  Tea meeting tomorrow.

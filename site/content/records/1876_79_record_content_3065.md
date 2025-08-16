@@ -21,6 +21,7 @@ topics:
 - civic
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ed. on need for Justices of the Peace in areas like Hallett, Baldina and Mongolata.

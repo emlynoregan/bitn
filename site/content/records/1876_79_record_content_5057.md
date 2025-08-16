@@ -19,6 +19,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Yongala Show was held on Thursday 17 October and was fairly patronised.

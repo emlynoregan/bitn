@@ -20,6 +20,7 @@ topics:
 - advertisement
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mrs McLagan & assistant Miss Builder will reopen their school/kindergarten on 18 January 1886.

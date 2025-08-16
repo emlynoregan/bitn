@@ -20,6 +20,7 @@ topics:
 - business
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Raising the Wind’ noting that several persons have taken a lease on some small hills of fireclay at Chalk Cliffs east of Burra and have a prospectus for 1,000 shares of £1 each to form a firebrick company.

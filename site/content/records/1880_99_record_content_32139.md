@@ -19,6 +19,7 @@ topics:
 - business
 - livery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Charles Schutz, having given up business as a cab proprietor continues his letting and livery stables.

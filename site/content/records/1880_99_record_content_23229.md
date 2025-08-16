@@ -21,6 +21,7 @@ topics:
 - employment
 - economic impact
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Intercolonial Railway.  The advent of rail traffic to Melbourne has seen the laying up of three steamers by the Adelaide Steamship Co. and 83 men have been put out of work.

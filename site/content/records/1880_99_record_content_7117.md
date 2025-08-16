@@ -21,6 +21,7 @@ topics:
 - banquet
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Burra Cricketing Association 1st annual banquet at Burra Hotel 13 June.

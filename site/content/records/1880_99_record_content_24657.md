@@ -18,6 +18,7 @@ topics:
 - poverty
 - fees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘not be sat on by the almighty dollar, nor got at by these scheming humbugs the lawyers.  Why should a poor man be got at because he cannot afford to pay the fees demanded.’

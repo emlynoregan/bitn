@@ -22,6 +22,7 @@ topics:
 - election
 - House of Assembly
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There were also petitions for the return of Messrs W.B. Rounsevell, W.R. Ridgway and Rowland Rees to the House of Assembly.

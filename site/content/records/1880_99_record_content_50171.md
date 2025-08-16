@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Turner, formerly a farmer of Davieston [Hanson], moved to Broken Hill about 9 months ago and died there suddenly last Thursday.

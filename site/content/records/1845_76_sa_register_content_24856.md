@@ -20,6 +20,7 @@ topics:
 - philanthropy
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr W.W. Hughes has donated a large sum - £20,000 to £30,000 is mentioned – towards the establishment of the University of Adelaide.  [Most of the article is devoted to pointing out how rare such philanthropy is and how most rich men stick to most of their money with the ‘tenacity of a horse leech’ and deem themselves generous if they part with a £5 note and if they subscribe £100 consider they have done something worthy of the admiration of the world at large.]

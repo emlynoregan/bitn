@@ -19,6 +19,7 @@ topics:
 - community
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘One of them’ charging the town Council with the responsibility of creating work for the unemployed.  [Though he thought they had more money than they actually possessed.]

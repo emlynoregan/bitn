@@ -20,6 +20,7 @@ topics:
 - events
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Spanish-American War reports continue from the Philippines and Cuba.

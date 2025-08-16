@@ -23,6 +23,7 @@ topics:
 - federal convention
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federal Convention.  SA will be represented in Melbourne by R. C. Baker MLC, Dr Cockburn and the Hon. T. Playford.

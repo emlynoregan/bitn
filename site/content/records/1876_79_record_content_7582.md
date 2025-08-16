@@ -20,6 +20,7 @@ topics:
 - bushrangers
 - capture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bushrangers. There are c. l¼ columns on the exploits and capture in NSW of 'Moonlite'.

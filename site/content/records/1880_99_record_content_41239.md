@@ -22,6 +22,7 @@ topics:
 - federation
 - labour relations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Haslam: though the tax system needed revision.  He was a moderate protectionist.  Customs duties fell too heavily on the poor.  A family paid £15 p.a. for the privilege of living and a man on £2-2-0 a week paid as much for that as one on £1,000.  Yes - the latter paid more, but only on luxuries and he paid income tax, but that raised only £36,635 against customs of £600,000.  He favoured progressive tax.  He was for shorter L. Council terms: six years was enough and the property qualifications should be £10-£12 p.a.  He would support federation on a fair basis and was for C.C. Kingston’s Bill for the settlement of disputes between Capital and Labour.

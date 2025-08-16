@@ -20,6 +20,7 @@ topics:
 - building fund
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's will hold a bazaar 14 June in the Institute, followed by a concert in aid of St Mary's building fund. 3/-, 2/-, l/MOONLIGHT

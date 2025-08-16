@@ -27,6 +27,7 @@ topics:
 - epidemic
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Influenza.  The epidemic is weakening.  Several fatalities have occurred in the hospital, mainly among shearers and other distant workers who only come in when already very ill.  Local fatalities have been few with Mount Bryan the worst hit area.  Mr Ullmann, his wife and eldest daughter died of inflammation of the lungs connected with influenza, all within a week.  Five other family members recovered: some after a severe battle.

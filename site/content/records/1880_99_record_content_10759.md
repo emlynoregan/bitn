@@ -18,6 +18,7 @@ topics:
 - local government
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson gave notice of his intention to move for a change in ward boundaries as outline above.

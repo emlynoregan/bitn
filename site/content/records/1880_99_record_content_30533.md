@@ -37,6 +37,7 @@ topics:
 - satire
 - mayors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mayors.  There is a ¾ column article in the form of a humorous mock Biblical text outlining the ‘reigns’ and times of the Mayors of Burra to date, by ‘Aquarius’.  The following summary can only give a bit of a taste of the original.  The article is headed ‘Copperopolis’.

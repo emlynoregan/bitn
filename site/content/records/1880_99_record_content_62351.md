@@ -21,6 +21,7 @@ topics:
 - charity
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The London Dental Institute, of 111 King William St, Adelaide, is to celebrate the Queen’s Diamond Jubilee by providing free of charge sixty sets of artificial teeth (valued at £5-5-0 a set) to as many poor women of the age of 60 years and over.  A condition being that ‘the beneficiaries shall be deserving’.

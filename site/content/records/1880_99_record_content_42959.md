@@ -22,6 +22,7 @@ topics:
 - school
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hardwicke College girls had a picnic at Princess Royal on Monday last, led by Misses Bond and Dellow and conveyed there in Mr C. Grow’s four-in-hand drag.

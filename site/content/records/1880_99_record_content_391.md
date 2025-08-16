@@ -20,6 +20,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Institute, 18 & 19 February, The New Princess Uncle Tom’s Cabin Co. will present Uncle Tom’s Cabin.

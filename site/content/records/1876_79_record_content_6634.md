@@ -20,6 +20,7 @@ topics:
 - community
 - tin-kettling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Authorities should act to bring an end to the annoyances to which newly married couples are subjected in Burra.

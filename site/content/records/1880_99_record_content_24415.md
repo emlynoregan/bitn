@@ -20,6 +20,7 @@ topics:
 - community
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ rails against the hypocrisy of the town where society is to be kept up by compromise and the suggestion of free speech.  Be what you like, but keep up appearances and pay respect to Mrs Grundy.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Davieston’ writes re the bad state of the Burra-Farrell’s Flat road.

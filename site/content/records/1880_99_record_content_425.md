@@ -19,6 +19,7 @@ topics:
 - international
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charity.  There is now a call to aid distress in Silesia.

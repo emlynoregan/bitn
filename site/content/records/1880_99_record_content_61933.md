@@ -22,6 +22,7 @@ topics:
 - cinema
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cinematographe.  Mr Wybert Reeve will present Leimiere’s Wonderful Cinematographe at the Burra Institute on Friday 26 February for one night only.

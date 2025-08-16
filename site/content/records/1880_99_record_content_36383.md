@@ -20,6 +20,7 @@ topics:
 - boxing
 - sculling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  Boxing and sculling continue to be the main out-of-town sports reported upon.

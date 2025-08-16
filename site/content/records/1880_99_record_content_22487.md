@@ -18,6 +18,7 @@ topics:
 - funeral
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Dow’s Funeral.  There were 20 vehicles and most of the leading townspeople at the funeral on Tuesday afternoon.

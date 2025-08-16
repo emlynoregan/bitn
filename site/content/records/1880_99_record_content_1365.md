@@ -20,6 +20,7 @@ topics:
 - sport
 - behaviour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The paper’s reporter complains of bad language by the players and unnecessary rough play.  [And that was only at practice!]

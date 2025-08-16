@@ -22,6 +22,7 @@ topics:
 - auction
 - household
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co. will sell the household furniture and effects of Mrs D.S. Packard, who is leaving the district, at the residence at the Smelting Works on 29 April.

@@ -19,6 +19,7 @@ topics:
 - legislation
 - suffrage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The House of Assembly has rejected the Adult Suffrage Bill.

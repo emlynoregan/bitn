@@ -22,6 +22,7 @@ topics:
 - drainage
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Messrs J. Sampson jnr, J. Williams & J. Snell formed a deputation to Council seeking a remedy for the bad state of Market Square. About 30 loads of stone would be needed and drainage would be easy.

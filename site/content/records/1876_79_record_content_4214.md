@@ -19,6 +19,7 @@ topics:
 - ownership
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editor. The business part of the paper will be conducted by F.W. Holder as managing editor. Eight gentlemen are the proprietors & form a Managing Committee. The paper is not to be a party organ or a vehicle for personalities.

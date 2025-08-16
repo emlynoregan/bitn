@@ -17,6 +17,7 @@ topics:
 - public_meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He calls for another public meeting on the matter.

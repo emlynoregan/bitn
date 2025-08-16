@@ -22,6 +22,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra School Needs.  Captain Killicoat, as Chairman of the District Council, has requested that Mr Hartley visit Kooringa with respect to assessing school needs, while on his present visit to the Areas.  Mr Hartley has agreed to do so.

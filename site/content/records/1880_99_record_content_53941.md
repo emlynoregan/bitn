@@ -22,6 +22,7 @@ topics:
 - pests
 - pastoralism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Peter Waite, the well-known SA pastoralist says that in 1892, 1,256 wild dogs were killed for £314 and in 1893, 1,420 were killed for £356-18-0.  Northeast of Burra much of the land is not leased and large areas are leased by ruined leaseholders.  Here dogs are so numerous on hundreds of square miles of Mutooroo Run that we have been unable for years to keep sheep there.  The dogs and rabbits he estimates reduce production in the 100-120 northeast of Burra by £50,000 p.a.

@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor reported that the Government tender for the Bon Accord Bridge had gone to Broadwood and Wise for £1,542 and work was in progress.

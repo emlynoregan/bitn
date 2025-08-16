@@ -18,6 +18,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Black Hills Prop. Silver Mining Syndicate have carried out costeening and decided to sink a 150’ shaft at the most likely place.

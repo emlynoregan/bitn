@@ -42,6 +42,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Harvest Festival was celebrated on Sunday 29 February.

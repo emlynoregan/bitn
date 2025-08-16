@@ -21,6 +21,7 @@ topics:
 - economy
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.W. Wilkinson said they had assembled to protest the proposed tariff.  The inconsistencies and unfairnesses were much discussed and the fact that it was not really protection to tax items that could never be made in SA - merely a way of extracting money - often, or generally, from those least able to afford it.

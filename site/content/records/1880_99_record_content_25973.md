@@ -18,6 +18,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Relief.  The work at Morgan seems to have been bungled and several workmen are back, disgusted.

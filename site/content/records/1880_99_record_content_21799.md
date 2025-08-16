@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  Cr W.R. Ridgway moved there be no reduction in water rates this year, as a whole year’s operations were needed to ascertain the true position before making such a decision.  This was eventually carried 4-2.

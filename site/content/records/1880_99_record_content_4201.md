@@ -19,6 +19,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Pearse has agreed to level off the embankment on the new piece of road, but has refused to do anymore to the road itself.  Council will inspect it and issue definite instructions.  No payment will be made until the work is completed.

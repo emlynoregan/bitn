@@ -21,6 +21,7 @@ topics:
 - organization
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The rifle volunteers have now received their rifles and been measured for their uniforms.

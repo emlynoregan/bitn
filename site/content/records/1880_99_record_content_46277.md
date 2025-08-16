@@ -26,6 +26,7 @@ topics:
 - community
 - parks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the past few days the Council has secured 500 trees.  50 to East Ward and 50 to West Ward will fill up gaps where trees have died.  Crs Rabbich and Linkson will take 350 trees to replant No. 2 Reserve which was planted two years ago, but from which effort few trees survive.  This is at their own expense.  A large central square will be planted with couch grass as a picnic area.  The reserve being on a rise gives good views of Redruth and Aberdeen.  Other trees go to ratepayers on application.

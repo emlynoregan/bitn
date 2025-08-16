@@ -23,6 +23,7 @@ topics:
 - expenditure
 - income
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Estimated income and expenditure on operations to the end of 1885 (as far as can be determined)

@@ -19,6 +19,7 @@ topics:
 - opinion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Peel Nesbit MB, MRCPE, writes an article on The People’s Problem.  This was, he said, to obtain a Government which, in obedience to the sense of justice of the majority of mankind, provides for everyone within its jurisdiction as great a measure of liberty as possible: liberty in thought, in speech, in action.

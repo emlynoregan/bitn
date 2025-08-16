@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A man was found dead on Paratoo Run last week.  It has been ascertained his name was William Hiscock, but the particulars of his death are not yet known.

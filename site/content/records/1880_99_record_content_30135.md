@@ -18,6 +18,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to Mrs W.H. Hardy on 19 October, a daughter.  [Johnara [sic] (perhaps Johanna?) Hardy]

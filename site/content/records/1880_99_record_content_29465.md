@@ -24,6 +24,7 @@ topics:
 - history
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Captain Barry, a pioneer of 59 years, will lecture on Port Phillip in 1835 and Adelaide in 1839, on or about 3 November.

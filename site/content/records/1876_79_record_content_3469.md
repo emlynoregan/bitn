@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Cemetery. This is now overgrown with weeds and grass and what used to be `a pleasant resort' is now a comparative wilderness.

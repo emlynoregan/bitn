@@ -19,6 +19,7 @@ topics:
 - football
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday Allcomers 3.7 defeated Colours 2.6

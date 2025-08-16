@@ -19,6 +19,7 @@ topics:
 - parliament
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson’s motion in reference to hawking was passed and now goes to Parliament.

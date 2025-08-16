@@ -19,6 +19,7 @@ topics:
 - fire
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire destroyed the haystack of Mr Jeffrey Pearce near Kooringa last Thursday, but the cause has not been discovered.

@@ -21,6 +21,7 @@ topics:
 - smelting
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter’s machinery at the Smelting Works is now ready to treat the old slag.

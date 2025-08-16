@@ -20,6 +20,7 @@ topics:
 - defence
 - meetings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club meets Thursday April 27 to elect officers.  Rifles will be provided free once the club is gazetted.  A.B. Hiddle, Hon. Sec. pro tem.

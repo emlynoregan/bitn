@@ -22,6 +22,7 @@ topics:
 - court
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gustav Gebhardt v. Drew & Oliver. This case is reported at some length. Drew was sued as executor in the estate of W. Oliver, deceased, for £72-12-4 being the balance due on sheep sold in 1876. As contracts etc. were not written it took a lot of discussion and eventually the verdict was for Gebhardt in the sum of £35.

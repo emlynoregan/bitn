@@ -20,6 +20,7 @@ topics:
 - food
 - weights_and_measures
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.H. Nobes similarly charged with selling a loaf 2¼ oz light also had it dismissed.

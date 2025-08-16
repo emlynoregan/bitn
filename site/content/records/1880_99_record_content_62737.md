@@ -25,6 +25,7 @@ topics:
 - auction
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Booborowie Estate.  Under the will of the late W.J. Browne, half of Booborowie Estate and half of the stock were offered at auction last week.  The area offered was 33,485 acres and 37,784 sheep.  Bidding reached only £60,000, but the property later was sold for £96,330 cash to Messrs Henry Dutton of Anlaby and John Melrose of Ulooloo.  The sale included half the stud sheep.

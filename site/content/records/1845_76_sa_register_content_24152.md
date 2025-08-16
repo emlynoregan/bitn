@@ -27,6 +27,7 @@ topics:
 - farming
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Cave said losses frequently arose because farmers were too niggardly, refusing to pay the labouring man 3 or 4 shillings a day more wages and this in the hope they would be able to gather the corn in all right in time.  Another complaint against the agriculturalist was they did not winnow sufficiently.  Burra farmers should grow an acre or two of holcus or lucerne.  Likewise he could not see why a man should not improve his farm by planting a few trees around the homestead.  He had become interested in the imported grasses cultivated at the Botanic Garden – particularly one called ‘Buffalo’. 

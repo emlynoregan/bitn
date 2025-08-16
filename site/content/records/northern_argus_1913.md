@@ -20,6 +20,7 @@ topics:
 - event
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The National Trust’s trip to Princess Royal on Sunday was made in perfect weather.

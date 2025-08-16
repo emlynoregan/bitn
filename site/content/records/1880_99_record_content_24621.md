@@ -20,6 +20,7 @@ topics:
 - animal
 - quarantine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Disease.  There has been an outbreak of contagious equine typhoid fever in the north beyond the agricultural districts and sick horses are banned from entering the agricultural districts.

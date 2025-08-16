@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advertisements fill the page.  They tend to be larger and mostly not local, but they cover a good range of things.

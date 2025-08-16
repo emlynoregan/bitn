@@ -19,6 +19,7 @@ topics:
 - sheep
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sales.  Good prices are expected at Elder, Smith & Co.’s on Friday when they will offer some 20,000 sheep.

@@ -20,6 +20,7 @@ topics:
 - hoax
 - security
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence - Adelaide had hoax news of a Russian invasion of Melbourne. Perpetrators said it was a warning of what was possible and a stimulus for defence.

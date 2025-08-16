@@ -25,6 +25,7 @@ topics:
 - administrative costs
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 R.M. Gebhardt of Mt Bryan writes re electors’ meetings.  He writes a one-column attack on them as a waste of time and a farce.  Councillors are willing to accept praise for minor works done, but will not seriously discus the levels of rates, which are high.  He says there is no way they can afford to spend $650,000 on the Market Square project.  Also the administrative costs are excessive at 52% of income, when Hallett DC has only 26%.

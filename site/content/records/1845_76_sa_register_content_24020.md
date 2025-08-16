@@ -19,6 +19,7 @@ topics:
 - fundraising
 - repair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Bridge.  £25 has now been collected towards the repair of the bridge.

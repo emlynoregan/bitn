@@ -23,6 +23,7 @@ topics:
 - auction
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Edward Lipsett & Co. are instructed to sell by auction at Burra in January a choice assortment of new and fashionable drapery.  Sales will also be held at Terowie, Jamestown and Port Augusta.  Full particulars will be issued in due course.

@@ -27,6 +27,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayers’ Meeting for Middle Ward in the Institute, 23 November.

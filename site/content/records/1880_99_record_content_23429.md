@@ -23,6 +23,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Meeting.  Only a few attended the public meeting chaired by the Mayor on 16 September in the Institute re the Local Government Bill.  F.W. Holder spoke up for the Bill and moved it be supported albeit with some boundary changes and other minor variations.  J. Hoskings 2nd.  Others opposed the move because the main roads would fall to the Town Council under the Bill.  The motion was passed.

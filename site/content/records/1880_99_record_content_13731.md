@@ -21,6 +21,7 @@ topics:
 - public order
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council decided to ask the Captain to discontinue the practice of parading the streets on Sunday with a brass band.

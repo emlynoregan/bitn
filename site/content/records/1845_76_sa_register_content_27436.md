@@ -21,6 +21,7 @@ topics:
 - building
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Institute.  A general meeting of the Institute has empowered the Committee to erect two rooms for the Librarian and to enclose the buildings with a stone wall.  This will further improve the appearance of the premises.

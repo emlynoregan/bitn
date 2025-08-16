@@ -20,6 +20,7 @@ topics:
 - theatre
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Mr R. D’Orsay Ogden’s Zip Combination played in Burra on Wednesday last.  The baby - only 6 years old - played Little Eva in Uncle Tom’s Cabin and was most affective in the death scene.  They ended with a scene from Tempted.  The house was only moderate.

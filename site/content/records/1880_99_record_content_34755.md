@@ -19,6 +19,7 @@ topics:
 - technology
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On a lower level the liquor was cooled by an ingeniously arranged refrigerator - a series of copper pipes with a flow of water from the well.  From there to the fermenting tubs and thence to the cellar where some 500 hogsheads are kept.  There are seven cellars built of stone and brick and well ventilated.  Except for the tower all buildings are on the ground floor.  Beside the engine room there are storerooms and a cooper’s shop, also a boiler house, cart sheds etc.

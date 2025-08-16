@@ -20,6 +20,7 @@ topics:
 - wreck
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Star of Greece was wrecked at Port Willunga last Friday morning.  It was carrying 16,000 bags of wheat.  The captain and 16 others drowned, while 10 managed somehow to get ashore.  Effective help was delayed which has provoked much adverse comment.

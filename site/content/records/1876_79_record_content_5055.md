@@ -20,6 +20,7 @@ topics:
 - opening
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railway. The North-West Bend railway was opened last Thursday and was attended by the Governor and a large party.

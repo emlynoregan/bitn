@@ -19,6 +19,7 @@ topics:
 - religion
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H. Wilkinson, late of Burra has been accepted as a candidate for the Wesleyan ministry.

@@ -19,6 +19,7 @@ topics:
 - auction
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson Jun. will auction John Boundy’s Blacksmith’s Shop with stone buildings etc. on a block with 30’ frontage to the main road and a depth of 276’.

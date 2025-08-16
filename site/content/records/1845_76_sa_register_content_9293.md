@@ -18,6 +18,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 J.W. Macdonald Esq. JP has been appointed returning officer for the coming election.

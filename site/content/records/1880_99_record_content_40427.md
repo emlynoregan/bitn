@@ -20,6 +20,7 @@ topics:
 - roads
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader querying why the Council called tenders for road metal and then awarded the contracts to those tendering at 2/3 per yard rather than those tendering at 2/1 per yard.

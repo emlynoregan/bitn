@@ -22,6 +22,7 @@ topics:
 - performance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cantata, An Hour in Fairyland, will be given by Miss Wylie and her juvenile friends at the Institute on 19 April and in the second half they will repeat the popular Mildred & Patty.

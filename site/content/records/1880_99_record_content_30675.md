@@ -20,6 +20,7 @@ topics:
 - tender
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson Council Chambers.  Messrs Fuss’s tender for work on the building has been accepted, leaving out the painting of the walls.

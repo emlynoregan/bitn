@@ -18,6 +18,7 @@ topics:
 - meeting
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Foresters’ Lodge half-yearly financial meeting was held on 3 October.  There were 157 financial members.

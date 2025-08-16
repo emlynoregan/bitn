@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Institute.  The alterations and extensions have begun.  Mr Rowland Rees MP drew  up the plans and the contract has been won by Messrs Pearce.

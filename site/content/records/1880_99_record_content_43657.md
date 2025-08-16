@@ -24,6 +24,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra United Friendly Societies’ Sports were held at the Recreation Ground on Boxing Day.  These were the second such and some good prize money was on offer.  The Sheffield Handicap over 135 yards offered prizes of £20, £6, £3, & £1, while the Sheffield Bicycle Handicap over one mile offered £7-7-0, £2-2-0, & £1-1-0.

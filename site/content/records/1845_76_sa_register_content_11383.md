@@ -20,6 +20,7 @@ topics:
 - accident
 - smelting works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Capitas, or chief of the mule-drivers for the Smelting Works, went into the Murray Scrubs some 8-10 days ago to find some lost horses or mules.  His own horse returned without him after three or four days.  A search party has failed to find him.  Although he is a first rate bushman, it is feared he suffered sunstroke and has perished.

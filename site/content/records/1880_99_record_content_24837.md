@@ -19,6 +19,7 @@ topics:
 - works
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The tender from T. & W. Harris for kerbing was accepted for 18/- per chain.

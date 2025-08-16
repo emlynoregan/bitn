@@ -19,6 +19,7 @@ topics:
 - volunteer forces
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  Neither of the daily papers has given credit to the Burra Co. VF at the review.  We understand it was the largest country company present and contributed their quota to the several movements very creditably.

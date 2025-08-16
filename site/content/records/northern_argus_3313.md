@@ -19,6 +19,7 @@ topics:
 - award
 - museum
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Malowen Lowarth has received a Certificate of Merit at the recent Museum of the Year Awards.

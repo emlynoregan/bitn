@@ -22,6 +22,7 @@ topics:
 - partnership
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Notice of the dissolution of the partnership of Benjamin Arthur Preece and James Couch, trading as Couch & Preece at Aberdeen as blacksmiths, wheelwrights etc.  James Couch will carry on solely.  20 April 1883.

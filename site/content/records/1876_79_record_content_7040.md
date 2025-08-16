@@ -19,6 +19,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The Lynch Family Bellringers appeared before a good audience with songs, dances and duets, ending in a farce.

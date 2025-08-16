@@ -48,6 +48,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Jane Parks, wife of Thomas Parks died 26 December 1897, aged 72, leaving a husband, three sons, five daughters, 40 grandchildren and 3 great-grandchildren.  She had been a resident for 47 years.  She was born in Maidstone, Kent.  Kent papers please copy.

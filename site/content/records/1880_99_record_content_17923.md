@@ -22,6 +22,7 @@ topics:
 - sports
 - season results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Aberdeen Cricket Club ended its season on Wednesday last.  It was a most satisfactory year.  Out of 16 matches 11 were won and 5 lost.  The highest average scorer was Linkson with 13.1 from 16 matches, from Jobson with 12.2 from 5.

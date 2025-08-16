@@ -20,6 +20,7 @@ topics:
 - sport
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Rifle Club.  Only two members have been practising and the meeting with the Port Adelaide & Suburban Club is now set for 1 December.

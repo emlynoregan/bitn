@@ -19,6 +19,7 @@ topics:
 - meeting
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. There is a report of another rabbit meeting: this time at Terowie.

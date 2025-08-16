@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Football.  The opening match of the Burra Club for the season will be played on Saturday 3 May 1884.  Colours v. Allcomers on the Recreation Ground at 4 p.m.

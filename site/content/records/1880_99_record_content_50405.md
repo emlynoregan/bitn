@@ -20,6 +20,7 @@ topics:
 - election
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Kellock was the only nomination for the extraordinary vacancy in King Ward and was declared elected unopposed.

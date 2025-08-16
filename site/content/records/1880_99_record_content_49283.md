@@ -21,6 +21,7 @@ topics:
 - match
 - score
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra 68 & 45 (113) Mt Bryan-Hallett 101 & 2 for 13. (114) [How is this a win by 3?]

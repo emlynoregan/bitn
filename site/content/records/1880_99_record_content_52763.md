@@ -18,6 +18,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Banjos, Whistles, Auto-harp, Bones, Popgun, etc. also a Hallelujah Wedding.  6d.

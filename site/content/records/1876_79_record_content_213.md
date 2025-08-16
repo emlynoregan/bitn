@@ -22,6 +22,7 @@ topics:
 - railway
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Government’s Parliamentary activity in the past week, especially concerning the Railway Bills:  North-West bend [Morgan] Bill passed its second reading and the Jamestown & Gladstone Bill passed.  The latter will provide a much needed service to an area already with substantial settlement.

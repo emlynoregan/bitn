@@ -23,6 +23,7 @@ topics:
 - smelting
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Smelting has been successfully carried out by Messrs Penny & Owen at their new works near Tothill’s Scrub.  Three bars of all but pure copper have been brought to Adelaide by Mr Penny.  They were produced in a four-hour process.  One was made from black Burra ore, of which the yield is only 18%.  The blue carbonate yields 30%, the red oxide 33% and the malachite 40% according to some recent assays by Messrs Penny & Owen.

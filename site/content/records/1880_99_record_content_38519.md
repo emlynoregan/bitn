@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Art Union was drawn last Saturday afternoon.  Mr W.H. Hardy of this office acted as scrutineer by invitation.

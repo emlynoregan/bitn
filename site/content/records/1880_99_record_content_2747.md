@@ -23,6 +23,7 @@ topics:
 - poetry
 - misc
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 27 May 81	Ferryman’s Secret VII-VIII	Aunt Cinda’s Ranch	Some Strangely Fulfilled Dreams Part III	X		X	X		X	X

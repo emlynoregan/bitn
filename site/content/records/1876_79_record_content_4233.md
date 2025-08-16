@@ -18,6 +18,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett is growing in size and importance. The telegraph line is now being strung and should open for use soon.

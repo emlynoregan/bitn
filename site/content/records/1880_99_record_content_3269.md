@@ -19,6 +19,7 @@ topics:
 - local government
 - leave
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 One month’s leave of absence was granted Cr Dunstan to visit neighbouring colonies.

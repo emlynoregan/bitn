@@ -20,6 +20,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church quarterly meeting revealed there were 108 members.  There had been 18 removals in the quarter.  Rev. R.M. Hunter was invited to stay another year.

@@ -18,6 +18,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Monday there was a tea meeting held to celebrate the opening of a place of worship in connection with the Wesleyan Church on the outskirts of the township.  It and the following public meeting were well attended.

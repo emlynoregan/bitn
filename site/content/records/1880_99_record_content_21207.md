@@ -22,6 +22,7 @@ topics:
 - offence
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offences.  Richard Owens was fined 10/- for driving around the corner of Market Square ‘at more than a walking pace’ and so was H.T.H. Morris for a similar offence.

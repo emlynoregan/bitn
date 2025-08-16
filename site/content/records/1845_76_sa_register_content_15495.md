@@ -18,6 +18,7 @@ topics:
 - politics
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The resignation from Parliament of Mr Dale has so far sparked no interest here about his replacement.

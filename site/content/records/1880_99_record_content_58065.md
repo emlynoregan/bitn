@@ -21,6 +21,7 @@ topics:
 - poultry
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Nathan’s lecture on raising poultry for export is reported in c. 1½ columns.  Mr A.H. Forder, Secretary of the local branch of the Agricultural Bureau presided.

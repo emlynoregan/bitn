@@ -21,6 +21,7 @@ topics:
 - finance
 - speculation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The writer then expresses his fear of the consequences of withdrawing such a large amount of capital from other uses, where it would double its value in seven years.  The mining venture is a project that is unlikely, he believes, to produce a yield within that time frame and from which it could not be withdrawn without great loss.  This dangerous leap into the unknown will, he says, only confirm to others that the colony has not abandoned speculation.  Such an investment must only be carried out through the use of surplus capital and not by diverting capital indispensable to ordinary pursuits.

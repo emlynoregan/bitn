@@ -24,6 +24,7 @@ topics:
 - accident
 - intemperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.R, Carmichael, medical practitioner said he believed the deceased died of apoplexy.  Being predisposed to apoplexy, the fall hastened his death.  Apoplexy can be brought on by excessive drinking.

@@ -18,6 +18,7 @@ topics:
 - recreation
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Skating.  The Rink has reduced its operations from 3 to two days a week: Wednesday and Saturday.  [Days given page 3.]

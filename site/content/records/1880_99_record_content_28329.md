@@ -19,6 +19,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved to see how many trees were needed to replace the dead ones.

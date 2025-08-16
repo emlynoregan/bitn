@@ -36,6 +36,7 @@ topics:
 - child death
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wagon Accident at Kooringa

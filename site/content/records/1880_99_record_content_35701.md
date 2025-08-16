@@ -20,6 +20,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Mayor, Mr T.W. Wilkinson, has called a public meeting in the Institute on 11 March at 7 p.m. to consider the election.  The candidates are invited to address the meeting.

@@ -23,6 +23,7 @@ topics:
 - hospitality
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. McClusky of the Burra Hotel is to leave after three years, to be replaced by Mr Fletcher from Waterloo.

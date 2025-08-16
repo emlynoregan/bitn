@@ -22,6 +22,7 @@ topics:
 - celebration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton Wesleyan Church celebrated its anniversary last Sunday when Rev. J.H. Hadley officiated.  Congregations far exceeded the capacity, as they did also at the tea meeting on the following Wednesday.  The Redruth Wesleyan Choir gave a service of song in the evening.

@@ -19,6 +19,7 @@ topics:
 - council
 - interest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 They had been charged £94 interest for six months too, instead of £88-10-0, which was another blunder.  Cr Sampson 2nd.  Carried

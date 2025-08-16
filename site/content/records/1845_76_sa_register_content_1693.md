@@ -19,6 +19,7 @@ topics:
 - religion
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A poor maniac has been travelling about warning the colony of a visitation of famine and pestilence as a judgement from God as revealed in a vision.  He began in March and has travelled north to the Burra Burra Mine and is now travelling south again, going from house to house.  He claims to have covered 60,000 miles.

@@ -18,6 +18,7 @@ topics:
 - rates
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In 1893 it would yield £478-18-0

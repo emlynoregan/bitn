@@ -19,6 +19,7 @@ topics:
 - local_government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Apoinga Council not paying rabbit bounty as it has exhausted funds.

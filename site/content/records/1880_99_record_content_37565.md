@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie will send a team to Burra next Wednesday.

@@ -22,6 +22,7 @@ topics:
 - transport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Nairne Railway was opened as far as Aldgate on Wednesday by the Governor.  It was embarrassing with the engine failing at Blackwood and c.200 guests and the official party having to wait about three hours for a replacement.

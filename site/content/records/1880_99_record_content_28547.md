@@ -22,6 +22,7 @@ topics:
 - science
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Rabbit Congress in Sydney.  There was a proposal to use chicken cholera.  Experiments were to be on an island and an isolated inland area.  The editor believes ‘there is so much risk involved that the utmost care should be taken in the whole matter.’  Results to date suggest that M. Pasteur’s microbes do not seem to have survived.

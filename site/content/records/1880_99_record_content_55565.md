@@ -18,6 +18,7 @@ topics:
 - event
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Christmas Tree for the children of the unemployed is being held on the tennis court behind the mill today.

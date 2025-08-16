@@ -34,6 +34,7 @@ topics:
 - record attempt
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A.S. Bagg, aged 20, will start from Broken Hill on Tuesday morning 10 May at 5 a.m. and will be paced across the border by NSW riders.  He is attempting to break the Broken Hill to Adelaide cycle record of 66 hours.  The route is Broken Hill – Cockburn – Gum Well – Claypans – Faraway Hill – Braemar – King’s Well – Burra – Kapunda – Gawler – Adelaide.  Bagg was born at Springbank where his parents now live and expects to reach Kooringa about midnight on Tuesday.  He is riding a Beeston Humber 24 lb.

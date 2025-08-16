@@ -21,6 +21,7 @@ topics:
 - local government
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The District Council of Burra has nominated Mr P. Lane for the Midland Road Board, if he will consent.

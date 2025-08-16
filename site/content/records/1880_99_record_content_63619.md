@@ -23,6 +23,7 @@ topics:
 - event
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Races, organised by H. Nankervis of the Burra Hotel, are completely separate from the Burra Racing Club and profits will go to charitable objects in the town.

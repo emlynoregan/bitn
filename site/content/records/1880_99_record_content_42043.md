@@ -20,6 +20,7 @@ topics:
 - debate
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The meeting finally voted 26 to 9 in favour of Mr Holder’s action.

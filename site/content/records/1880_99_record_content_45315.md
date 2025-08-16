@@ -19,6 +19,7 @@ topics:
 - sports
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The best bowling figures were those of George Parks who took 33 wickets for 179 runs.

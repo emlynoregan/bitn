@@ -23,6 +23,7 @@ topics:
 - business
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The retiring directors, Kingston, Jaffrey, Beck, Peacock and Graves, were all re-elected.

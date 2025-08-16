@@ -27,6 +27,7 @@ topics:
 - prosecution
 - notices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notices are printed warning that persons travelling sheep across various runs without prior notice as required by law will be prosecuted.

@@ -26,6 +26,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In flowers Messrs Fuss and Packard showed ‘what may be done even in Burra’. 

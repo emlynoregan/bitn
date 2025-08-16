@@ -23,6 +23,7 @@ topics:
 - pests
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.H. Pearse writes from The Gums Station complaining about an article in a German language newspaper in Adelaide from ‘Tormented Farmer’.  Apparently in a failed attempt at a witty article the farmer accused The Gums proprietors of not killing rabbits.  T.H. Pearse says to the contrary, since October 3 1891 seven men have been destroying rabbits at 10/- per week + rations + 1/- for each dozen skins.  Three have been employed in the Hundred of King and to the end of April they had taken 7,000 skins and cleared the paddock.  They poison in summer and trap in winter.  Other allegations reflecting on the character of the district ranger are also dismissed.

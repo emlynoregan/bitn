@@ -17,6 +17,7 @@ topics:
 - land
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the need to change the nature of land tenure from absolute right to right of use.

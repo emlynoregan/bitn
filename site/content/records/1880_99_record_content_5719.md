@@ -23,6 +23,7 @@ topics:
 - sports
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Last week the Association match Muffs v. True Blues was forfeited by the True Blues, who had arranged to play the Terowie Young Australians.

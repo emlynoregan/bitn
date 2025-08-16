@@ -22,6 +22,7 @@ topics:
 - mail
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 I see from your advertising columns that Opie Brothers intend again to run between here and Kapunda. In view of the performance of Mr Rounsevell’s employees recently in conducting the mail contract, this development will be hailed with pleasure.

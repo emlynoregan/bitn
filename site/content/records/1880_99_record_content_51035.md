@@ -21,6 +21,7 @@ topics:
 - advertisement
 - ownership change
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  F. Gebhardt, baker of Kooringa is ceasing business which is being taken over by his brother, William Gebhardt.

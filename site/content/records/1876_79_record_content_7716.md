@@ -18,6 +18,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Sports on Boxing Day at the rear of the Commercial Hotel.

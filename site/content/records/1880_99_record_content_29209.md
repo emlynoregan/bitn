@@ -21,6 +21,7 @@ topics:
 - environment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from an ‘Ex-councillor’ condemning the purchase of trees when Burra could either grow its own or get them free from the Bundaleer forest plantation.

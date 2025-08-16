@@ -20,6 +20,7 @@ topics:
 - Monster Mine
 - prosperity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Smelting at Burra Burra has already commenced and we trust that this new career of prosperity will obliterate remembrances of past reverses in the affairs of the Monster Mine.

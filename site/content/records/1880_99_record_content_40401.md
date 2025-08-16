@@ -29,6 +29,7 @@ topics:
 - obstruction
 - contractors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson moved to have information laid against Sara & Dunstan for destroying kerbing in front of the new Elder, Smith & Co. offices and for having verandah posts obstructing the footpath.  Not 2nd.

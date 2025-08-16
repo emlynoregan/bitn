@@ -18,6 +18,7 @@ topics:
 - court
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The defendant said he never signed a voucher for sick pay in his life.  He was ill at the time and his office was ransacked and things taken away he knew not of.

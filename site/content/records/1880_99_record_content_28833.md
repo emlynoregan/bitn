@@ -18,6 +18,7 @@ topics:
 - events
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volunteers attending the review tomorrow must obtain passes and go down either tonight or tomorrow morning.  Parade at Staff Office at 1.30.  Return the same day will be possible.

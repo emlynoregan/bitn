@@ -19,6 +19,7 @@ topics:
 - labour
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Why it only cost 12s to replant No. 2 reserve this year?’

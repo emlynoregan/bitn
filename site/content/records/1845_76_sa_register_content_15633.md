@@ -19,6 +19,7 @@ topics:
 - election
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 10 May 1862, page 2

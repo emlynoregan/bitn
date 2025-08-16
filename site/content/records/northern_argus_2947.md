@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To David & Robyn Nourse on 29 July, a son, Richard Angus.

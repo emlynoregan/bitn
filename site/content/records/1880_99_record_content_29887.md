@@ -21,6 +21,7 @@ topics:
 - organization
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.R. Ridgway re the Burra Mine.  SAMA’s apathy is unaccountable.  If the tributers are making wages it must be viable: at the very least setting the stamps to work would allow the tributers to dress their ore.

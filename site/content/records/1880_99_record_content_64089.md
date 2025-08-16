@@ -23,6 +23,7 @@ topics:
 - politics
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A ‘No’ vote would be fatal to the colony.  Union was a co-operation of people of the same blood, religion and sentiment.  State individualism would still survive.  It had been discussed for fifty years.  It was proposed in 1849, went to a select committee in Victoria in 1857, to a conference in 1890 attended by Mr Playford, which led to a Bill which resulted in the Enabling Act of 1895.  SA should be well prepared for it.  Discard all petty and frivolous objections.  Now is the time.  We must not expect to get all we want.  The Bill is one we can be proud of.  The Governor General will be harmless and the Government will be in two houses of Parliament, and in the Senate the small colonies will be equally represented as the large ones.  It is vital we are in if NSW, Victoria and Tasmania unite.  He did not believe the cost would be too great.

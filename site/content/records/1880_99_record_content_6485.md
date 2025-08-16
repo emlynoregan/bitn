@@ -27,6 +27,7 @@ topics:
 - fine
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Court, For driving around the Bank of Australasia Corner in Aberdeen at over 5 m.p.h. fines of 5/- with 5/- costs were imposed on each of:

@@ -33,6 +33,7 @@ topics:
 - membership
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In Burra the society was established on 14 March 1849 as the Burra Burra Lodge Independent Order of Oddfellows Manchester Unity.  It met first at the original Burra Hotel.  The first meeting was conducted by Prov. Grand Master Wicksteed, Prov. Deputy Grand Master Dyke & Prov. Corresponding Secretary Hillier.  Founder members in Burra were:

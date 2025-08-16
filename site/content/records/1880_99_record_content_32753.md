@@ -21,6 +21,7 @@ topics:
 - politics
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the Irish National League, and the visit to Australia of Messrs Dillon, Deasy and Esmonde.

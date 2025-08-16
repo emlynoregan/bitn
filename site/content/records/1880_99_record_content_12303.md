@@ -20,6 +20,7 @@ topics:
 - dispute
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Lewis charged that Nelson, a drover, refused to do his work.  Nelson charged that John Lewis owed him £5-13-7 in wages.  Nelson was fined 5/- + 5/- damages and £1 costs.  Lewis was ordered to pay £4-13-1 less damages and costs.

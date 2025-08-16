@@ -20,6 +20,7 @@ topics:
 - service
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Challoner had been employed by the company for twenty years, arriving but a year after Captain Roach.  Large sums has passed through his hands  in wages and for the purchase of timber and other supplies and all without exciting ill feeling or dispute  and with the strictest integrity.

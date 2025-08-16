@@ -18,6 +18,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial deploring the lack of policy in the SA Government and Opposition alike and the need for more local political organisations.

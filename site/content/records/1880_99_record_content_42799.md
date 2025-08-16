@@ -22,6 +22,7 @@ topics:
 - medical
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Influenza outbreak.  Doctors Bird & McInerney, leading Melbourne physicians are treating the influenza outbreak with small doses of per-chloride of mercury.  Bird is using 1/80 gr with ½ gr of quinine half-hourly and McInerney 1/16 to 1/20 gr in distilled water two-hourly till the temperature falls to normal.  To be done only under medical supervision.

@@ -20,6 +20,7 @@ topics:
 - fire
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Wednesday was exceedingly hot and disagreeable.  Numbers of geese, turkeys and fowls died from the heat and wild birds sought shelter in buildings.  A fire started on the Adelaide road, but was checked by a side drain.  The thermometer reached 110°F in the shade.

@@ -23,6 +23,7 @@ topics:
 - fundraising
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Wesleyan Chapel held its Anniversary last Sunday.  Rev. Greer of Auburn officiated.  The collection reduced the debt to £100.  On Tuesday Mr Greer addressed the Wesleyan Mutual Improvement Association.

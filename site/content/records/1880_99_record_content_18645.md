@@ -20,6 +20,7 @@ topics:
 - employment
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town & Country Bank manager in Kooringa, G.H. Sims, has been transferred to the Northern Territory.

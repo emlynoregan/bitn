@@ -19,6 +19,7 @@ topics:
 - business
 - accommodation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Richard B. Hannaford has opened ‘Dicks Eating House, Hallett’ and also single and double bedrooms. Covered trap meets trains.

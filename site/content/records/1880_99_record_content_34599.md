@@ -22,6 +22,7 @@ topics:
 - investment
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Not to be got at with Clay’ also responding to the release of a firebrick company prospectus.  The writer considers the venture silly.  They are leasing the chalk bed for £2 p.a. and some land near the railway station for £14 p.a.  They are sending the clay to Adelaide.  Had the directors called for 100 shares at £2 each and built a brick-kiln it would look more like the genuine article.

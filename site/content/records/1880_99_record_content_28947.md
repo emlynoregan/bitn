@@ -21,6 +21,7 @@ topics:
 - railways
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA’s Revenue.  The colony’s customs revenue is £127,871 up on last year.  Railway revenue is £280,000 more than last year, clearing 4% on their cost for the year.

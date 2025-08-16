@@ -18,6 +18,7 @@ topics:
 - offences
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences: Straying animals a problem

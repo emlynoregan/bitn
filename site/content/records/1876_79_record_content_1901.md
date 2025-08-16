@@ -19,6 +19,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits now relatively scarce around Mt Bryan - probably due to the weather

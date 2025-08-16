@@ -18,6 +18,7 @@ topics:
 - environment
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The lagoon east of Terowie has been filled for the first time in 12 years and is c. 7 miles in circumference.

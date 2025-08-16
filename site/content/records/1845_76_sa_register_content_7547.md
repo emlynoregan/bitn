@@ -26,6 +26,7 @@ topics:
 - discipline
 - justice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Law & Police at Kooringa [Editorial]

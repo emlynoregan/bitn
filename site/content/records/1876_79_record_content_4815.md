@@ -20,6 +20,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyans at Baldina have for some time used a small chapel of corrugated iron which was very hot in summer. Last week Mr J.M. McBride had it painted inside and out at his expense and the new white roof will make it more comfortable in summer.

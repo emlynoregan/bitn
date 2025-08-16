@@ -32,6 +32,7 @@ topics:
 - social
 - female franchise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J.J. Duncan’s Social on his retirement was held at the Institute and was a great success.  After his 18 years in the legislature members of the Australian National League arranged the social to farewell their friend.  People with different political views assembled on this occasion.  Mr Duncan fought hard against the female franchise.  Mr J. Lewis, as President of the local branch of the League, took the chair and others on the platform included Mr Haslam MLC, Mr Warren MLC, W.G. Hawkes, R. Hogarth, M. Burgess, Dr Brummitt and J.J. Duncan himself.  He was elected in 1871 for the District of Wallaroo and re-elected in 1875.  From 1884-1890 he represented the District of Wooroora.  It was 25 years since he entered Parliament and though he lived elsewhere his well-kept station of ‘Gum Creek’ was in the district.  Mr Duncan was an independent member who voted on issues as he saw them and spurned ministerial office.  Mr Duncan spoke of his House of Assembly seat of 12 years and his Legislative Council seat of 6 years. (He did not seek election in the intervening years.)

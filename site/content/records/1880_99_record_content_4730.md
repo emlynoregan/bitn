@@ -15,6 +15,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1880-99_Record.md
+publication_slug: record-1880-99
 ---
 
 Saddleworth to Clare and Crystal Brook to Orroroo.

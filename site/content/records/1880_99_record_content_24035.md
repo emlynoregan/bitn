@@ -20,6 +20,7 @@ topics:
 - safety
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Good kerosine to be used and the lamps well trimmed and cleaned, so as to throw a brilliant light, approved by the Inspector.’

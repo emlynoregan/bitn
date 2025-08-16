@@ -20,6 +20,7 @@ topics:
 - tariff
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SAR.  A table is printed of the goods tariff and classification of classes of goods for the North Line or Extension and for the Adelaide-Port Adelaide line.

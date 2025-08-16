@@ -20,6 +20,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  (by ‘Quiz’)  The return match against Terowie was played on Wednesday 8 September at Terowie before a crowd of c. 200.  Players went by the midday train and play started at 3.15 p.m.  Burra 2.13 defeated Terowie 1.5

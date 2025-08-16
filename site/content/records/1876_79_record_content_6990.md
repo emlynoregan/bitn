@@ -19,6 +19,7 @@ topics:
 - business
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tenders are called by D. Garlick, architect, for building a new shop and making alterations to the premises of Messrs S. Drew & Co.

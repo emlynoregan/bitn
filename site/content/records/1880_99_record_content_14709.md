@@ -19,6 +19,7 @@ topics:
 - sale
 - leases
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Five allotments in Kooringa have been sold, amounting to rather more than an acre, for £295 and some lease renewals have been granted for fair rentals.

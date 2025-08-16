@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  By special licence on 28 March, Charles Bradshaw & Susan Annie Webster, both of World’s End.

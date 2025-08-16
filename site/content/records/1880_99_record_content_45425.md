@@ -21,6 +21,7 @@ topics:
 - land
 - lease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has resumed control of the Aberdeen Reserve on the expiry of the seven-year lease granted to W.R. Ridgway.

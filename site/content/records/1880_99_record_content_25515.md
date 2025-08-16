@@ -19,6 +19,7 @@ topics:
 - community
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Cave distributes his chrysanthemum slips this afternoon from the Institute and those seeking roots will be able to get them from his garden this morning.

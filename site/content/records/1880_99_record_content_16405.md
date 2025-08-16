@@ -27,6 +27,7 @@ topics:
 - government
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Deputation of the Mayor and Cr W.R. Ridgway to the Attorney General (C.C. Kingston) as Acting Commissioner of Public Works was introduced on Friday by W.B. Rounsevell (Treasurer).  The first matter was the road leading to the station.  Before the railway station was built a good road existed, but subsequently the road was altered and a new road was never made so in winter it becomes a quagmire.  Council asks for a grant to get a road built to carry stock to the station.  The Corporation has no funds and the Road Board could not make the road.  The cost is c. £150.  The Corporation would do the work.

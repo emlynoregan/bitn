@@ -21,6 +21,7 @@ topics:
 - business
 - goldfields
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  G. & W. Shierlaw of 11 & 13 Hindley St Adelaide have a nice advertisement for clothes etc. for the goldfields.

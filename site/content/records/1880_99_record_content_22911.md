@@ -18,6 +18,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Walhalla’s Royal Circus will visit on Wednesday 4 August.  ‘Everything new, nothing old.’

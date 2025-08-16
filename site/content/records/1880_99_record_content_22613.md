@@ -21,6 +21,7 @@ topics:
 - lecture
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  On 28 June at the Institute Mr C.E. Robins BA of Adelaide gave an excellent lecture to a select audience, on Shakespeare’s Wit and Humorists.  It was illustrated by numerous quotations and several ladies and gentlemen contributed music and recitations.

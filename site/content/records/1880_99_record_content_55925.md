@@ -19,6 +19,7 @@ topics:
 - legal
 - reference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [See later charges relating to Thomas Jones in XV, 326, 6 Feb. 1895, page 3]

@@ -19,6 +19,7 @@ topics:
 - performance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stacey’s Co., that produced Struck Oil and Hans the Boatman, retained their good name on this visit.  The plays were well staged especially considering the stage accommodation is about as bad as possible.

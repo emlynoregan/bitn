@@ -20,6 +20,7 @@ topics:
 - community
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian anniversary services last Sunday were well attended, as was the tea meeting on Monday and the proceeds were very good.  Rev. J. Pearce has been re-appointed for another year.

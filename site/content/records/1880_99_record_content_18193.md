@@ -31,6 +31,7 @@ topics:
 - infrastructure
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Tiver said they needed the larger engine, which would require more space.  He thought the suggestion they buy the works was an insult.

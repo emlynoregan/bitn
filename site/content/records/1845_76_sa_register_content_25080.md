@@ -19,6 +19,7 @@ topics:
 - temperance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Temperance Meeting was held in the Wesleyan Schoolroom on Tuesday last.

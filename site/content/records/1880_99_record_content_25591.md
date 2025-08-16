@@ -21,6 +21,7 @@ topics:
 - celebration
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Queen’s Jubilee will be celebrated with three public teas on 24 May at:

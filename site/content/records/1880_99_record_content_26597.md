@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School anniversary services will be held next Sunday and the tea meeting is on Wednesday 9 Nov. (The Prince of Wales’ Birthday)

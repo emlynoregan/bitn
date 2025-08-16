@@ -18,6 +18,7 @@ topics:
 - military
 - nomenclature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Increasingly referred to as the Mounted Rifles rather than Mounted Infantry]

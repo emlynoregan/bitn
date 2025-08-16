@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Lake Bonney Scheme.  Lecture by Mr T. Hack at the Institute on 8 March at 7.30 p.m.

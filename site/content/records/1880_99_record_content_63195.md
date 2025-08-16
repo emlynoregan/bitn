@@ -19,6 +19,7 @@ topics:
 - season
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Turkey Season is open and on Wednesday we hear a party bagged 25.  The birds are numerous this year, but remember that permission to enter private property for this purpose is required.

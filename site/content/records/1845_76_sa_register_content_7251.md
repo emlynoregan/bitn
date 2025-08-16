@@ -24,6 +24,7 @@ topics:
 - diggings
 - Ballarat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are far richer diggings here than in California or Sydney.  Every man is doing well and our party in four days took 80 pounds weight of gold out of our hole.  Goodness knows how much more there might be left there.

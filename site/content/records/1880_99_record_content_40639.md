@@ -21,6 +21,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Alex Harris has disposed of his wood and chaff business in Kooringa to Messrs J. Bodiner and John J. Chapman on 2 March.

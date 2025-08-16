@@ -21,6 +21,7 @@ topics:
 - health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  Henry Steinert died at the Burra Hospital on Wednesday.  He had an arm in an advanced state of mortification.  He was aged c. 40.  The inquest was adjourned.  [See next issue.]

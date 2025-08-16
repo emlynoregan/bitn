@@ -19,6 +19,7 @@ topics:
 - agriculture
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 XXI	This would prevent a farmer from selling a little extra produce without a licence and even for real hawkers it is an unnecessary restriction of trade.

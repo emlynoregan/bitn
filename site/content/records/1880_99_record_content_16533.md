@@ -20,6 +20,7 @@ topics:
 - fundraising
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  Mr Kennedy, on behalf of the Glee and Dramatic Co. offered to give three concerts in aid of the Institute funds.

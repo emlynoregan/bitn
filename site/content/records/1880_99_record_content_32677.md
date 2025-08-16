@@ -20,6 +20,7 @@ topics:
 - school board
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The School Board of Advice, which is about to erect a footbridge over the Burra Creek, seeks an opening in the Avenue opposite it.

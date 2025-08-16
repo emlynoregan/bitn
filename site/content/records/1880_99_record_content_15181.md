@@ -20,6 +20,7 @@ topics:
 - utilities
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Cockburn has now advised that meters will be included in the capital account and charged for at 5% p.a., instead of being rented at 12/- p.a.

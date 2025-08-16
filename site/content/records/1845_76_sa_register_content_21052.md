@@ -25,6 +25,7 @@ topics:
 - disturbance
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The new mine found by Mr Patrick Murphy is also looking promising.

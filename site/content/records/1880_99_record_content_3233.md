@@ -21,6 +21,7 @@ topics:
 - road
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Veritas’ urging the South Ward councillors to stop bickering and see that Kangaroo St is made passable even if there is not money enough for a bridge, much as that is needed.

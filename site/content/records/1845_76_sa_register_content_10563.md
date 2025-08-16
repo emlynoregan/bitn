@@ -19,6 +19,7 @@ topics:
 - institute
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Miners’ & Mechanics’ Institute is progressing and when finished will be a handsome building.  All materials used are of the first quality.  It is to be hoped that when it is opened, all who can, will avail themselves of the many benefits to be derived.

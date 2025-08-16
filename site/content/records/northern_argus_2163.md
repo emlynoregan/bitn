@@ -18,6 +18,7 @@ topics:
 - local government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A tender for painting the Tourist Information Centre has been accepted.

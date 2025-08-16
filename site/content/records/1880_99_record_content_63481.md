@@ -19,6 +19,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Annual Picnic at Sod Hut on New Year’s Day was a merry affair.

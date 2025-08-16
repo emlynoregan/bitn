@@ -25,6 +25,7 @@ topics:
 - hospital
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Children’s Ministering League met on Tuesday 7 May to elect officers.  President, Mrs J.C. Sandland; Secretary, Miss A. Barnett.  Since its foundation 3-4 years ago over £50 has been spent on valuable articles for the comfort of the Burra Hospital and the balance on the poor of the town.  Mrs J.H. Kennedy was thanked for her services as President.  The League started with 8 members, but since then over 100 have appeared on the roll.

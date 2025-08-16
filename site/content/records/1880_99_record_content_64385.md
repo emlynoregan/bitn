@@ -19,6 +19,7 @@ topics:
 - photography
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Record Studio offering 12 Beautiful Cabinets for 7/-, or 12 larger size for 10/6.

@@ -22,6 +22,7 @@ topics:
 - court
 - arson
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Bennett was charged with setting fire to Mr Melrose’s paddock at Ulooloo on 18 Jan. and was committed for trial at Gladstone.  [But see XV, 234, 8 Mar. 1893 where it is reported the charge was withdrawn.]

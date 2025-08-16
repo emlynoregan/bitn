@@ -27,6 +27,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Court, Kooringa, 9 January, before T.H. Mayne JP

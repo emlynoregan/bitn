@@ -22,6 +22,7 @@ topics:
 - sports
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. Burra v. Seven Hills at Burra on 9 Nov. ended in a draw, though Burra was much 

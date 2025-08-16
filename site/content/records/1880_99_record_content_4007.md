@@ -20,6 +20,7 @@ topics:
 - religion
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Anniversary of the Title Feast of St Joseph’s, 8 May, Rev. J.J. Huggard will preach.

@@ -20,6 +20,7 @@ topics:
 - meeting
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Athlete’ wondering when the AGM of the Burra Athletic club is to be held.  It would be a pity for it to die a natural death.

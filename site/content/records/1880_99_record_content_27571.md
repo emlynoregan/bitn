@@ -17,6 +17,7 @@ topics:
 - meeting
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note that the 28 December was the adult meeting with a day for children on 11 January.]

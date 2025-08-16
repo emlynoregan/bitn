@@ -19,6 +19,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S.G. Kingston has been convicted of grievously wounding Patrick Guerin, the cabman.  Sentence has been deferred.

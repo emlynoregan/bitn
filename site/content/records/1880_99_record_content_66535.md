@@ -20,6 +20,7 @@ topics:
 - sport
 - shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club has received a host of trophies and prizes to be shot for.  Currently there are 85 members.

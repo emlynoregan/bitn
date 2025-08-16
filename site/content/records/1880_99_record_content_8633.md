@@ -22,6 +22,7 @@ topics:
 - examinations
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Mathew’s School half-yearly examinations and prize giving is reported with speeches, items, etc. and the prize list is printed.

@@ -19,6 +19,7 @@ topics:
 - fire
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Tuesday morning one of the rooms of the Burra Hotel caught fire and but for a timely discovery the whole might again have been reduced to ashes.

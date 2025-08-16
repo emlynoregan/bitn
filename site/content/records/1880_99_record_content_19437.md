@@ -19,6 +19,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The quarter’s Waterworks operations will leave the Council £2 in debit, but it was the slackest quarter.

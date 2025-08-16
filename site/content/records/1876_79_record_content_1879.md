@@ -21,6 +21,7 @@ topics:
 - rescue
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident: N. Opie, A.E. Jaffrey, C. Preece were thrown from a buggy when the horse was frightened by a lady's umbrella, but they escaped serious hurt.

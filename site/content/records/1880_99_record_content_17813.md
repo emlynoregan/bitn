@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  J. McGuire & Co. have withdrawn their tender for the railway to the Barrier on account of making an error.  Messrs Millar Bros have now the tender for £179,000.

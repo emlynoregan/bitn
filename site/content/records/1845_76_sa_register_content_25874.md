@@ -20,6 +20,7 @@ topics:
 - education
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Board of Education.  21 September

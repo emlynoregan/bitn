@@ -19,6 +19,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A large number of men are employed at the ballast quarry making it safe to work before Government people take the work in hand.

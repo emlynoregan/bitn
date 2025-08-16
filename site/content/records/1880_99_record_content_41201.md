@@ -30,6 +30,7 @@ topics:
 - bridge
 - lighting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said he had no doubt the water had been deviated by the fencing of the Recreation Ground.  He thought a committee should be appointed to visit and deal.

@@ -21,6 +21,7 @@ topics:
 - assault
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ralph Bartle was charged by Mrs Knevitt for assaulting her son aged 9-10.  Case dismissed.

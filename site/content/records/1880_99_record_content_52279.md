@@ -24,6 +24,7 @@ topics:
 - education
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arbor Day.  Mr West promised two prizes for essays on Arbor Day and on 12 December he went to the Copperhouse School to award the 1st prize to Maggie Forsyth and 2nd to Herbert Cockrum.  Ettie Porter received a special prize through the generosity of the late Mrs West.

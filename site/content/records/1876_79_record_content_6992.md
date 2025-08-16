@@ -20,6 +20,7 @@ topics:
 - waterworks
 - utilities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Waterworks. The Waterworks Department has made an assessment of all frontages to Morehead St and other places in Aberdeen along the water main as a preliminary to deciding on a water rate.

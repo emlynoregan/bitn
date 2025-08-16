@@ -20,6 +20,7 @@ topics:
 - sport
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Rifle Match is to be fired today for a £6 prize presented by Mrs Dawes.  (Men must be in uniform.)

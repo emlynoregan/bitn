@@ -19,6 +19,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday the Lancashire Bellringers gave the first of their entertainments assisted by Miss Chalker, to a good house.  On Saturday they also performed to a good house.

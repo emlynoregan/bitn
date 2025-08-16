@@ -25,6 +25,7 @@ topics:
 - bonds
 - overdraft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Town Council loan, which was approved without the need for a poll.  They have got a purchaser for the bonds at par and a rate of 6%.  Mr Lane produced figures to show that the estimates indicated that 37% of the sum on work would go in salaries and other management costs and though this seems high when compared with the proposed expenditure - £250 out of £675 - it is not so if compared with other years when expenditure was £1,200 or more, nor with what will be possible now that the loan is approved.

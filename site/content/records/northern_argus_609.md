@@ -18,6 +18,7 @@ topics:
 - accident
 - farm machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Geoff Dare has managed the unusual feat of rolling a header and living to tell the tale.

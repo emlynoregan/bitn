@@ -26,6 +26,7 @@ topics:
 - dividend
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association held its half-yearly meeting at the office in Adelaide yesterday.  The Directors report a gratifying increase in activity. For some time they have been making preparations to resume deep level operations in the hope that sufficient miners would present themselves.  The total number of persons employed at present is 279 including 12 officers.  This is a considerable increase since last March, but remains very low.  We do not doubt that the numbers will increase greatly in the next few months from the returning miners from the partially depleted goldfields of Victoria and from arrangement with the Emigration Commissioners who have relaxed some regulations in favour of copper-miners coming to SA.

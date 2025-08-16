@@ -19,6 +19,7 @@ topics:
 - accident
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Floods.  The recent rains had so swollen Gum Creek that four shearers in a spring cart were swept away in the flood.  Fortunately they all landed on a small island from which they were rescued with the aid of ropes.  The horse and cart were not recovered until below the station where the horse seemed little worse for its experience, but the cart was destroyed.

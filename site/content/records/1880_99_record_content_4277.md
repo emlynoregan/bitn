@@ -18,6 +18,7 @@ topics:
 - safety
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘it retards good football and will be the cause of some serious accident.’

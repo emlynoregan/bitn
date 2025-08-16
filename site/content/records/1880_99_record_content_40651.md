@@ -18,6 +18,7 @@ topics:
 - fire
 - arson
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Another fire broke out in the brewery paddock last Monday afternoon.  Foul play is again suspected.  This fire was soon extinguished.

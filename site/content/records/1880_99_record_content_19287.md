@@ -21,6 +21,7 @@ topics:
 - vaccination
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Smallpox.  A notice urges the immediate vaccination of all children not yet done, due to an outbreak of the disease in NSW and Victoria.

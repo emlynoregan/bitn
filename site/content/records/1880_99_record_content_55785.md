@@ -20,6 +20,7 @@ topics:
 - sports
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Friendly Societies’ Sports held their third annual meeting successfully on 1 January.

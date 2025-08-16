@@ -21,6 +21,7 @@ topics:
 - community
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 H.E. the Governor Sir Donald Dunstan & Lady Dunstan will attend the Burra Civic Jubilee 150 Ball.

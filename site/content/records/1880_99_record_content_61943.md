@@ -20,6 +20,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 V.L. Solomon will address electors on Federation at the Institute on Wednesday evening: he is a candidate for the Federal Convention.

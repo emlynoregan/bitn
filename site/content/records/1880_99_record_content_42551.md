@@ -20,6 +20,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 15 September Mr Edwards received spinal injuries at Elder, Smith’s saleyards when driving under a plank.

@@ -22,6 +22,7 @@ topics:
 - event
 - prize money
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Coursing Club met at the Burra Hotel on Wednesday to arrange for the meet in May.  The Hon. J.J. Duncan will lend Gum Creek Estate for the meet and the all aged stake will be run for the value of £75.

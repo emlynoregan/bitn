@@ -19,6 +19,7 @@ topics:
 - letters
 - jokes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Overflow from page 2.  Some small advertisements. Mostly the news here is not local and sometimes the items are non-news articles of more general interest and jokes.  Some longer local items and letters including lengthy effusions from favoured contributors.

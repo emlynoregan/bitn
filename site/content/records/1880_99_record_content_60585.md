@@ -25,6 +25,7 @@ topics:
 - charity
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Uncle Harry’ visited members of the Kooringa Sunbeam Soc. on Wednesday afternoon.  He broke his journey on the way to Broken Hill.  [He was the organiser of the Sunbeam Soc. for SA.]  He said there were 5,400 members on the roll.  He spoke of the need to raise £900 for the Adelaide crèche, of which £600 had been raised by the Sunbeam Soc.  He also spoke of ‘Our Boys’ Institute’, which is to cost £4,000 and urged the society to work towards providing books for it and also toward supporting Dr Barnado’s Homes in London and the Ragged School Union in London.

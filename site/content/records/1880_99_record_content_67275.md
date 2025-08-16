@@ -21,6 +21,7 @@ topics:
 - award
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Muriel Pearce in Adelaide has gained 1st honours in the recent piano competition for girls over 14, playing ‘The Coronation March’.  Miss F. Queale gained 1st prize for the piano selection for girls under 14.

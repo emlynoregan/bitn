@@ -23,6 +23,7 @@ topics:
 - sale
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co.: Genuine Clearing Sale for W.E. Pearse, Coachbuilder of Commercial St, who has sold his business to Mr T. Harris (late of J. Perry, Adelaide)

@@ -19,6 +19,7 @@ topics:
 - school
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School; western wing roofed & rest of western half all ready for roof.

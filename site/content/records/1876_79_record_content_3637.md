@@ -20,6 +20,7 @@ topics:
 - water
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra Corp. resolved not to recognise the resolutions passed at the meeting at the Aberdeen Hotel re the water supply question. [See report on page 347]

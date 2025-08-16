@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: on 19 April to the wife of John Riggs at Mullaby, a daughter.  [Adelaide May Riggs]

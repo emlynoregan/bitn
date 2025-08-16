@@ -19,6 +19,7 @@ topics:
 - environment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The four poisoned ash trees in Market Square have been replaced.

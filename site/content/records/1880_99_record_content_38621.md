@@ -19,6 +19,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ironmine Primitive Methodist Church was the site of a successful entertainment last Thursday.  The Ironmine Brass Band played selections before the concert.

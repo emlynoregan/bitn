@@ -22,6 +22,7 @@ topics:
 - offer
 - travel costs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter objecting to Mr Ridgway’s claim for expenses.  The writer volunteers to go to Adelaide three times a week at 30/- a trip and promising to make money out of the deal.

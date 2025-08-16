@@ -32,6 +32,7 @@ topics:
 - finance
 - reorganisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It was, he said, understood that in adopting the report, they approved the suggested scheme.

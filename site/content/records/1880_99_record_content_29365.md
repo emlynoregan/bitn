@@ -40,6 +40,7 @@ topics:
 - exposure
 - brain disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  The body of John Shepherdson aged 65 was found dead in a paddock at Hillside c. 2½ miles north of Burra by Messrs Charles and August Fuss while on a sporting excursion on 9 August.  The inquest was held at the Redruth Court House 10 August with W.R. Ridgway JP as coroner.

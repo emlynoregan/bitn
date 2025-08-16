@@ -21,6 +21,7 @@ topics:
 - accommodation
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Edward Wall of the Old Bushman’s Inn at Gawler announces a thorough renovation and extension of accommodation.  There is a long room 50 ft x 20 ft suitable for private parties and meetings.  The stables have been commodiously rebuilt after the recent fire and the stockyard will meet every requirement.

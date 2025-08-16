@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 District Plate 2 miles	£8	Hacks 1 mile		£6

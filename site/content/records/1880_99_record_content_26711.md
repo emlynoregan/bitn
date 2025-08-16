@@ -19,6 +19,7 @@ topics:
 - municipal finances
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another white elephant is the Recreation Ground, which can never pay for itself and serves the interests of only a few.

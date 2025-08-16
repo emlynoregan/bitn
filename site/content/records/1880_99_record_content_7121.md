@@ -20,6 +20,7 @@ topics:
 - meeting
 - missions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Missionary Meeting: Copperhouse Monday 7 p.m. and Kooringa Tuesday 7 p.m.

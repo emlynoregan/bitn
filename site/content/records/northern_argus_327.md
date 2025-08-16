@@ -20,6 +20,7 @@ topics:
 - education
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  Andrew Burns gained the best results for BCS students in the Westpac Maths Competition.

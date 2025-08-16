@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway; work on the two bridges at Burra starts. (Over the Burra Creek and the road near the White Hart.)

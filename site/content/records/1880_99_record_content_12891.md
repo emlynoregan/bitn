@@ -21,6 +21,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Accommodation for Boarders etc and for Ladies during confinement at Thames St, Kooringa.  Mrs Goldsworthy.

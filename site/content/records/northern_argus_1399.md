@@ -18,6 +18,7 @@ topics:
 - event
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Church of England’s Dinner Dance was a pleasant night out and quite a few dressed in period costume.

@@ -20,6 +20,7 @@ topics:
 - police
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burglary.  Mr T. Edwards’ drapery shop was robbed on the night of last Saturday-Sunday, 6-7 March.  About £150 of drapery was stolen.  Police so far have been unable to trace the goods.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - commission agent
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.T. Shortridge	General Press & Commission Agent, Commercial St

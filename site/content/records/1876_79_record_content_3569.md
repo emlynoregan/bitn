@@ -19,6 +19,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment There will be an entertainment in aid of the piano fund at the Institute on 20 Feb.

@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Sunday School, Good Friday with children’s tea at 2.30 p.m., public tea 4.30 p.m. and public meeting at 7.30 p.m.

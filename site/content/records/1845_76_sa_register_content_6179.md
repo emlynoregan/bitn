@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Elections.  It is generally reported that Mr Stocks is about to visit Kooringa as a candidate for the district.  Whether he is likely to succeed in his political objective or not, there is every reason to believe he would receive a hearty welcome.

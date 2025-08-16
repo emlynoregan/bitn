@@ -28,6 +28,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Purdy gave evidence of seeing the deceased in Riverton about 8 p.m. and that he was then under the influence of liquor.

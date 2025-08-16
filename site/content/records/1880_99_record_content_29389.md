@@ -19,6 +19,7 @@ topics:
 - mining
 - closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Black George Mining Syndicate has been wound up.

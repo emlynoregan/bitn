@@ -19,6 +19,7 @@ topics:
 - election
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Linkson will stand for North Ward.

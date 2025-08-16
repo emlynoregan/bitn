@@ -26,6 +26,7 @@ topics:
 - chess
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chess.  A telegraphic chess game was played between Burra & Terowie on 8 June.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  The last six days have been very windy with much damage to roofs and outbuildings.  Monday however, was frosty.  So far this month at Kooringa 3.79” has been recorded to bring the year’s total to 10.73”.

@@ -20,6 +20,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The legal advice re the rubbish depot is that the Local Board of Health has not the power to acquire, but that the Corporation has under the Municipal Corporations Act 1890.

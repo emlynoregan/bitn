@@ -20,6 +20,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Years Sports at Hanson [i.e. Farrell’s Flat] drew over 300 to the ground.

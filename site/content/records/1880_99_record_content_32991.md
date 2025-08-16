@@ -22,6 +22,7 @@ topics:
 - state
 - social regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the way the SA press had greeted the no confidence motion in Parliament that had seen the defeat of the Playford Government.  In long and convoluted sentences the writer considers the press has become profoundly partisan and degenerate.

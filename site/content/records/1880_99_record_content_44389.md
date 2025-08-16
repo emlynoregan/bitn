@@ -27,6 +27,7 @@ topics:
 - youth
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  Two boys have been charged with breaking the windows of the Burra Public School.  Nearly every window at the side of the building had been perforated.  Several boys were implicated, but only three were captured.  One turned Queen’s evidence and so got off.  They were dealt with very lightly considering the way the group has annoyed several residents of late by throwing stones rather freely.

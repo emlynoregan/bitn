@@ -19,6 +19,7 @@ topics:
 - election
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Electoral Roll.  We understand that 4,628 persons have sent their names for the electoral roll for the Burra District.  1,809 women and 2,819 men for the House of Assembly.  173 women and 1,305 men for the Legislative Council.  (To 31 May 1895.)

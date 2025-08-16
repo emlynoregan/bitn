@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Buildings. The restored Miners' Arms Hotel is almost complete and a new shop in Commercial St for Mr John Jenkin is in hand. The new church is making rapid progress.

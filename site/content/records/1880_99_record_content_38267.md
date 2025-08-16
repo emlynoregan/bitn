@@ -17,6 +17,7 @@ topics:
 - taxation
 - economic policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Direct and Indirect Taxation.  The editor is strongly in support of a single property tax.

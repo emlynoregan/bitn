@@ -17,6 +17,7 @@ topics:
 - infrastructure
 - street lighting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders called for the lighting of street lamps as in 1898.

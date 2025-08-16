@@ -22,6 +22,7 @@ topics:
 - sport
 - rules
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football. (by ‘Quiz’)  The colour change for Burra was a good move as red and black were also used by Mintaro and Sevenhills to the great confusion of all.  The new 5-yard rule before a mark can be awarded is good as it ends scrimmage marks.

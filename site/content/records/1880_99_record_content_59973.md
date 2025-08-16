@@ -19,6 +19,7 @@ topics:
 - council
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was decided after all not to lease the Best Place Reserve.  [Page 3 reveals the reason was that the young trees were not yet beyond the reach of stock.]

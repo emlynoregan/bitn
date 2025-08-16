@@ -18,6 +18,7 @@ topics:
 - agriculture
 - weeds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Star Thistle is not being eradicated as diligently as it should be by the landowners of the district.

@@ -20,6 +20,7 @@ topics:
 - time
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Time.  The time difference between Adelaide and Melbourne is 25’ 33.84” and between Adelaide and Sydney is 49’ 89.24”

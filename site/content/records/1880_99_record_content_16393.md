@@ -21,6 +21,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Burra Comedy Co. will present Charles Matthews’ popular amusing comic drama in two acts, ‘Aggravating Sam’, at the Institute 9 February.

@@ -42,6 +42,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was some dissention about the Mayor’s wish to nominate the five, but eventually his nomination of Dr Brummitt, and Messrs E.C. Lockyer, P.L. Killicoat, T.W. Wilkinson and P. Lane was agreed to and they accepted.  Cr Parks 2nd.

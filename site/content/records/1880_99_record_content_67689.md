@@ -18,6 +18,7 @@ topics:
 - serials
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Old Carl’s Rug by U.X.L. began on 25 Jan. and ran till 22 Feb.

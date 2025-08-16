@@ -19,6 +19,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Sunday School Anniversary will be held on Sunday 23 December and Christmas Day with the public tea 5.30 p.m. Christmas Day.

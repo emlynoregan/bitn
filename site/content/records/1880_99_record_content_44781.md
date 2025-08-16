@@ -19,6 +19,7 @@ topics:
 - militia
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI will assemble on 30 March for final instructions for the camp and it is expected over 25 will go from Burra - more than from anywhere else in the north.

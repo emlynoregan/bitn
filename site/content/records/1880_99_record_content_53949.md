@@ -19,6 +19,7 @@ topics:
 - economy
 - advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Ulooloo Letter warns against going there for gold.  Several months of work having yielded nothing: ‘not even earned my tucker’.

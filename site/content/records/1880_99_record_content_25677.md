@@ -19,6 +19,7 @@ topics:
 - rifle match
 - government grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  There was a rifle match for the Government grant last Wednesday.

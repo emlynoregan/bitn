@@ -20,6 +20,7 @@ topics:
 - local government
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 D. Rayfield writes to the editor re the Burra rates.

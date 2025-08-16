@@ -19,6 +19,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Friendly Societies’ Demonstration on Boxing Day, 26 December with a grand concert and distribution of prizes in the evening.

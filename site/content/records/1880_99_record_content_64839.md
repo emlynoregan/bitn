@@ -38,6 +38,7 @@ topics:
 - visit
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show was a financial success.  The previous show was held in 1896: the poor season in 1897 having caused the cancellation of that show.  The show last Wednesday was good in some classes, but there was a lack of interest in others.  The committee fought hard to overcome some stubborn problems to make this show a success and they are to be congratulated. Agricultural produce this time was far better.  Dairy produce was conspicuous by its absence, but the last 12 months have been most adverse and lost stock will take two or three years to replace.  Poultry entries, though down on last show in numbers were of a high standard.  Draught stock was not up to previous standards, again due to a bad 1897 season.  Blood and roadster stock was not well represented.  Cattle were moderately represented, but dogs were to the fore.  Large owners of sheep were not represented.  (Koonoona was absent, though previously it had scooped the pool.)  But the Gebhardt Bros did well.  This time there were six entries from the saltbush country for the first time.  Vegetables, fruit and flowers were similar to 1896.  Cookery, arts and industries were up to expectations.  W.J. Richards displayed a variety of bicycles.

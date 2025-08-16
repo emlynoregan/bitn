@@ -25,6 +25,7 @@ topics:
 - war
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 NSW troops head for the front in Sudan while England buys cruisers and bids for a Turkish alliance and Russia masses troops in the Caucasus.

@@ -24,6 +24,7 @@ topics:
 - sports
 - tea
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Sunday School anniversary was held last Sunday & Monday with smaller attendance than usual due to bad weather and the very poor state of the paths about the town. There were sports in the afternoon on the hill to the east of the town, which were enlivened by the presence of the Brass Band. These were curtailed somewhat by the weather and followed by cake and tea. The public tea was well patronised.

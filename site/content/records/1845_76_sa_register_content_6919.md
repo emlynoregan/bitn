@@ -18,6 +18,7 @@ topics:
 - gold
 - diggings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 News from the Bathurst Gold Diggings

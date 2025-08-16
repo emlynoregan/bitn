@@ -21,6 +21,7 @@ topics:
 - health
 - premises
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Dr Brummitt has removed to the premises lately occupied by the Bank of Australasia, next door to the Burra Institute.

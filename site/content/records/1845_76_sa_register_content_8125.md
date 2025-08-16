@@ -38,6 +38,7 @@ topics:
 - crowd
 - Bullion Act
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Arrival of the Gold Escort

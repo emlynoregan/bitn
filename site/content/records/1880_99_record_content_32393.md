@@ -18,6 +18,7 @@ topics:
 - community
 - literary society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. Met last Friday.  28 attended the program of readings at sight.

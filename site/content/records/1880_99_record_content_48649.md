@@ -22,6 +22,7 @@ topics:
 - letter
 - community debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.J. Daddow, Primitive Methodist Minister, writes concerning a lecture by R. Hogarth calling for wine to be the most economic production for the Barossa Valley and for people to be compelled to grow wine grapes.

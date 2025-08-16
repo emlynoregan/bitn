@@ -19,6 +19,7 @@ topics:
 - council
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thanks were extended to the Mayor and Town Clerk for postponing the fortnightly Council meeting to attend.

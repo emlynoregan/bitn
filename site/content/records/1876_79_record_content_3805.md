@@ -18,6 +18,7 @@ topics:
 - industry
 - tweed factory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Tweed Factory. John Dunstan Jnr. writes in support of the idea.

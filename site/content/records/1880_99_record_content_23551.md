@@ -21,6 +21,7 @@ topics:
 - advertisement
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Cake Fair will be held at the Institute 13 October.  Promenade Concert.  FULL MOON.  E. McBride, Hon. Sec.

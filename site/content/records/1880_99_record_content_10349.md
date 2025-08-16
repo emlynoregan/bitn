@@ -21,6 +21,7 @@ topics:
 - obituary
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Matilda Rodda, wife of William Rodda, died at Kooringa on 1 August, aged 38, after a long and painful illness.  [Born Mary Matilda Webster.]

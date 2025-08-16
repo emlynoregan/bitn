@@ -21,6 +21,7 @@ topics:
 - sanitation
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To the obstructed watercourse through the saleyards and brewery.

@@ -21,6 +21,7 @@ topics:
 - flood
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain fell heavily to the north of Burra on Tuesday and produced a flood at Mt Bryan Flat.  Hundreds of pounds of damage was done to roads and at Terowie all the buildings in the main street were flooded.

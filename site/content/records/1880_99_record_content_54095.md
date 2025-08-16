@@ -21,6 +21,7 @@ topics:
 - events
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Jubilee Singers will appear at the Institute Friday 6 July for one night only.  This will be their last performance in Burra before leaving the colonies.

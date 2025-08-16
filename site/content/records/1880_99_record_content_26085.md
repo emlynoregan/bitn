@@ -21,6 +21,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Penny Bank began operation at the Burra Public School today.  Interest to be ¼d p.a. for every complete shilling.  [c. 2.1%]  When the balance reaches £1 the depositor will be assisted to open an account in his or her own name at the Savings Bank.

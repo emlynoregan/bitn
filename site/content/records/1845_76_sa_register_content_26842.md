@@ -21,6 +21,7 @@ topics:
 - community
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Institute.  A meeting of subscribers was held on 15 November.  Rev. H. Howitt presided.  Secretary D. Wells said the object was to appoint a sub-committee to revise the rules and regulations.

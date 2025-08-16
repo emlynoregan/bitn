@@ -19,6 +19,7 @@ topics:
 - harbour
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The editorial was on the need for an ‘Outer Harbour' for Adelaide.

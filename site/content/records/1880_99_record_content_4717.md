@@ -20,6 +20,7 @@ topics:
 - civil disturbance
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader opposing the police action in Adelaide where leaders of a Salvation Army procession were charged instead of the larrikins who disturbed it.

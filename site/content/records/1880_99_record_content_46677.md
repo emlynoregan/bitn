@@ -18,6 +18,7 @@ topics:
 - dates
 - correction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The report says Wednesday, but 1 September was a Thursday and the advertisement. said Thursday 1 September.]

@@ -20,6 +20,7 @@ topics:
 - railway
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ballast quarry is active at Gumbowie and embankments are well progressed. Firewood Creek Bridge will soon be started.

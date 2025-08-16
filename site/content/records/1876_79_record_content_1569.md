@@ -20,6 +20,7 @@ topics:
 - sports
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Need to move the Rifle Club from Aberdeen to Kooringa for safety sake.

@@ -20,6 +20,7 @@ topics:
 - response
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor considered much of this to be nonsense.  He explains the different names used in the two courts, says the question of the Aberdeen Reserve is a matter of scores of pounds not 6d, while the remarks about the water supply are simply infantile.

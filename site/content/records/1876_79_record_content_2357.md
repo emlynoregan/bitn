@@ -19,6 +19,7 @@ topics:
 - transport
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 31 May, two traction Engines sent out to Parneroo.

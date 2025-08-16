@@ -22,6 +22,7 @@ topics:
 - town
 - government gazette
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Lapford. Last week's Govt. Gazette announced the sale of allotments in this new town at World's End, H. of Bright, on 19 Sept.

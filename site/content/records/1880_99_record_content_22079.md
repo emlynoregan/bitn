@@ -20,6 +20,7 @@ topics:
 - organization
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Political Association committee are making arrangements for the preparation of a ticket [i.e. a political platform] and a plan for the working of the association.

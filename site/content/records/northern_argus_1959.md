@@ -22,6 +22,7 @@ topics:
 - athletics
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  Petrea Piggott and Justin Hall have been named in the State team to compete in the All Schools National Athletics Championships in Sydney 12-14 December.

@@ -17,6 +17,7 @@ topics:
 - serial
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 14 Dec.	(Continued)	VI-VII								X		Horticulture

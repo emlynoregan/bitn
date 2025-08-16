@@ -22,6 +22,7 @@ topics:
 - horse
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt fined 10/- for riding round the Bank of Australasia corner in Aberdeen at more than walking pace.

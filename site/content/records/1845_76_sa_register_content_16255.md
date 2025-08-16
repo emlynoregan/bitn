@@ -22,6 +22,7 @@ topics:
 - employment
 - passage-tickets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The undersigned are requested by Mr Merewether, manager of the Australian Agricultural Company, to inform those interested that NO MORE MINERS can be taken at present by the Company at Newcastle, and that no more Passage-Tickets will in consequence be issued till further orders.

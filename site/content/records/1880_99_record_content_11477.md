@@ -20,6 +20,7 @@ topics:
 - real estate
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale, allotment 7 Roach Town and allotments 92, 93, 96, 98, & 103, Millerton.

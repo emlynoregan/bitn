@@ -22,6 +22,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.  F.R. White will recommence his school on Monday 14 August at the Baptist Chapel, Kooringa.

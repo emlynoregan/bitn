@@ -18,6 +18,7 @@ topics:
 - lecture
 - mining information
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr J.B. Austin has just returned from two months of collecting mining information from the far north.  He will bring this before the public in a lecture as soon as he is able to prepare some illustrations from sketches that he has taken.

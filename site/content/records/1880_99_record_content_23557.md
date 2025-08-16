@@ -19,6 +19,7 @@ topics:
 - beekeeping
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bees.  Mr C. Drew, some 8 months ago, secured a hive of pure Ligurian bees.  It has yielded 70 lb of honey and in the last 20 days, 4 swarms.

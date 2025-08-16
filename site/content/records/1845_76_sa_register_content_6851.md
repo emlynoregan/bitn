@@ -18,6 +18,7 @@ topics:
 - diggings
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are more than 2,000 diggers.

@@ -34,6 +34,7 @@ topics:
 - alcohol
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest at Hanson [i.e. Farrell’s Flat] on Tuesday 3 August.  J.D. Cave JP, coroner, on the body of Thomas Horrigan. [Also said his name was Thomas Horrigan Mulcahy, but the death is registered under Horrigan, aged 50.] James V. O’Loghlin, foreman of the jury.  The deceased was found in a paddock and died in a dray on the way into the Hanson Hotel.

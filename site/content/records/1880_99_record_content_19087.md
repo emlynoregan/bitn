@@ -21,6 +21,7 @@ topics:
 - lecture
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  9 September 1885, Wesleyan Lecture Hall, 7.30 p.m., Music, Recitations and Lecture by Mr J. Roach, in aid of the Lecture Room. Topic The Inspiration of the Bible.  1/-

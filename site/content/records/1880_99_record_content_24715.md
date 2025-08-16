@@ -20,6 +20,7 @@ topics:
 - public works
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There were reports of dirty water in the mains.  The Waterworks Engineer said there were 23 dead end mains.

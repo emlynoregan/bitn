@@ -20,6 +20,7 @@ topics:
 - concert
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cantata, Mildred & Patty is reviewed in over 1 column and highly praised.  The Institute hall was crowded.

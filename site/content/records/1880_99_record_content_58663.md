@@ -22,6 +22,7 @@ topics:
 - race
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The Champion Squeaker Race was run from Roseworthy on 31 October.  First home were J. Drew’s birds, covering the 59 miles 171 yds in 91¾ mins at 1,150 yds per minute.

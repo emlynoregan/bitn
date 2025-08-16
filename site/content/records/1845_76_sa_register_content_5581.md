@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 23 December 1850.  Started in the barge Lady Young for Port Wakefield.

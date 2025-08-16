@@ -18,6 +18,7 @@ topics:
 - politics
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the resumption of the SA Parliament, but without the confidence of the electors.

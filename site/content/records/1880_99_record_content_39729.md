@@ -19,6 +19,7 @@ topics:
 - community
 - rural
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Most readers are farmers who as a rule get their mail once or twice a week and so often receive both issues of the paper together.

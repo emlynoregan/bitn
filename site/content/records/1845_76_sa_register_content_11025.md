@@ -38,6 +38,7 @@ topics:
 - fines
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Local Court, Redruth, 2 September, before Mr A. Motley.

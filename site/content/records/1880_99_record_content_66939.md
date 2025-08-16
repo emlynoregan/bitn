@@ -20,6 +20,7 @@ topics:
 - exhibition
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show was a great success.  In general it was held to be the best since 1894.  There was the problem of three other shows the same day.  A full report of exhibits and prize winners takes three columns.

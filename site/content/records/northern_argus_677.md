@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - power
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Undergrounding of power lines in Market Street has commenced and this will continue into Market Square.

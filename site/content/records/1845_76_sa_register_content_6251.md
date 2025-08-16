@@ -26,6 +26,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [He went on at some length and some of his points were:

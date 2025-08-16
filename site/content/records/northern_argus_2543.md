@@ -22,6 +22,7 @@ topics:
 - closure
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Jennison’s will cease trading on 15 May due to us leasing our premises to Elders Pastoral.  Neil Webster & Andrew Nourse of our staff will commence trading on 18 May as Burra Auto Repairs, from our current repair building – entrance off Kangaroo Street.  They will operate an authorised Ford Parts, Service and Warranty outlet, acting as agents for Vanstone Ford of Clare.

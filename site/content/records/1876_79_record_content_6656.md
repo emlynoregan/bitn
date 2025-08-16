@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Benefit Concert in aid of the Burra Institute by the Burra Amateur Dramatic Co., 7 June, ending with the farce `D'ye Know me Now?'. MOONLIGHT

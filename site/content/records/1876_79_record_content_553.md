@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mt Bryan.  Rev. Howitt held divine service at Mt Bryan Head Station last Sunday afternoon.  The large kitchen was pretty well filled.

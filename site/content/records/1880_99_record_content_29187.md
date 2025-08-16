@@ -19,6 +19,7 @@ topics:
 - communication
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on defence problems in light of broken undersea cables, though it is now believed that enemy action was not involved.  Such a break may well be our first intimation that war has broken out.

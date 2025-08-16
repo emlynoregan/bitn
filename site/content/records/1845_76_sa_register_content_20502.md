@@ -26,6 +26,7 @@ topics:
 - ore
 - smelting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Shareholders resolved on Friday to issue shares and bring the concern under the Company’s Act.

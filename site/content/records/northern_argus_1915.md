@@ -20,6 +20,7 @@ topics:
 - community
 - club formation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Little Athletics.  About 50 children and adults met at the school oval on Sunday and decided to form a Little Athletics Club in Burra.

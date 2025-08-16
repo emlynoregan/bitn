@@ -21,6 +21,7 @@ topics:
 - hospitality
 - services
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 Thomas Richardson	Miners’ Arms Hotel, Kooringa.  Commercial Travellers’ Room, Large & Central Saleyards, Stabling, Horses & Traps always on hand

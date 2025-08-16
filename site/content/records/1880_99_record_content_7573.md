@@ -22,6 +22,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Monday night by St Mary’s a vehicle of Mr Young’s of Aberdeen collided with a cab and in trying to get past, the boy with the mail cart ran into the others.  The boy was thrown out, but not hurt, while Miss Short, who was in Mr Young’s vehicle, sustained a broken arm.

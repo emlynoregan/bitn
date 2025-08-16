@@ -20,6 +20,7 @@ topics:
 - finance
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The English & Australian Copper Co. held its half-yearly meeting on 8 August; R.A. Routh presiding.

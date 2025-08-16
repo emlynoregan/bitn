@@ -19,6 +19,7 @@ topics:
 - sport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Coursing Club, Puppy Stakes, 1 September at Gum Creek. 1st Prize £10, 2nd Prize £5 and two dogs £1-10-0 each.

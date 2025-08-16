@@ -21,6 +21,7 @@ topics:
 - obituary
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sylvia Barnett, 4th daughter of C. Barnett died at Kooringa on 20 May, aged 15, of rheumatic fever.  [Slightly more information on page 3.]  [Born 30 October 1877.]

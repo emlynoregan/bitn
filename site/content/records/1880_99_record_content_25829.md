@@ -17,6 +17,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mayor’s Fund was boosted £8 from the Jubilee Service collection and with other donations now stands at £64-14-3.

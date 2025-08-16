@@ -21,6 +21,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The National Defence League held a meeting in Mr Lewis’s schoolroom on Friday.

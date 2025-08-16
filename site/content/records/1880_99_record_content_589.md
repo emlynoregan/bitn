@@ -20,6 +20,7 @@ topics:
 - licensing
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hotels.  Last Thursday the Licensing Bench changed the name of the Miners’ Arms to the Burra Hotel.

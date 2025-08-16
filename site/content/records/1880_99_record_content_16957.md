@@ -18,6 +18,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Last Saturday a Combined 15 scored 85 to defeat a Combined 11 on 26 & 58.  A win by an innings and a run.

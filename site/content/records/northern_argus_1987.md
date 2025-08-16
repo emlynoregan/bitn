@@ -20,6 +20,7 @@ topics:
 - community
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Council received a Sampson Family Book, which will be housed in the Community Library.

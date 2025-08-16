@@ -21,6 +21,7 @@ topics:
 - pigeon_racing
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race from Yunta on 4 September was won by J. Edward’s birds, which covered the 85 miles 130 yds in 176¼ minutes with a strong head wind.

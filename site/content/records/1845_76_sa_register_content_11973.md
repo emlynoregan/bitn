@@ -20,6 +20,7 @@ topics:
 - lecture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Thursday night there was a lecture in the chapel by Rev. Colwell on The Intellectual Progress of Our Race.  About 400 attended.  The lecture lasted for about three hours.

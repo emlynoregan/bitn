@@ -18,6 +18,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Laurel Bush: An Old-Fashioned Love Story by Dinah Maria Craik, 7 February to 9 March.

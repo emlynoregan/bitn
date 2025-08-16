@@ -23,6 +23,7 @@ topics:
 - renovation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 McBride’s Cottages.  Work is progressing on renovating the row of McBride’s Cottages in Chapel Street.  $160,000 is being spent on this joint venture between the Burra Burra DC and the Housing Trust of SA.  The cottages were handed to the Burra Burra DC by the McBride’s Cottages Trustees to enable the project.  They are expected to be ready for occupancy in mid August.  [Photo.]

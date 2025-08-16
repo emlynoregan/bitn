@@ -23,6 +23,7 @@ topics:
 - science
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School.  On Monday evening Mr Wittber, head teacher of the school and assistant teachers and children from the 4th and 5th classes spent an evening with Rev. R.J. Daddow who gave a great number of illustrations and experiments in physics and chemistry.

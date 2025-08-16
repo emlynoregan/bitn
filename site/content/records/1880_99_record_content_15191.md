@@ -20,6 +20,7 @@ topics:
 - review
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Melbourne Dramatic Co. opened on Tuesday to a very fair house and did better on Wednesday.  Both performances receive good reviews.

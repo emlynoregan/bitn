@@ -29,6 +29,7 @@ topics:
 - strike
 - emigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Shareholder’s Friend’ writes a letter addressed to the Shareholders of the Burra Burra Mine.

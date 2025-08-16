@@ -20,6 +20,7 @@ topics:
 - complaint
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pollution. Letter from "Fresh Breezes", complaining of the `offensive filth that is allowed to remain at the rear of premises occupied by several of the most influential men of our Corporation ... beastly filth to accumulate over two feet in depth.'

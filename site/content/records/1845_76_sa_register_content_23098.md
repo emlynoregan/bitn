@@ -20,6 +20,7 @@ topics:
 - finance
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The Directors of the New Burra Copper Mining Co. Ltd  make a call of two shillings per share payable by 31 January 1870.  Dated 23 December 1869 G.H.E. Gee.

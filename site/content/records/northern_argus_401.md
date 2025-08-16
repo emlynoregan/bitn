@@ -20,6 +20,7 @@ topics:
 - church
 - historical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The late Rev. Edwin Smith officiated at Kooringa Methodist Church 27 August 1925.

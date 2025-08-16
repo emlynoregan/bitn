@@ -34,6 +34,7 @@ topics:
 - wool
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Municipal Corporations Bill and the Legislative Council’s rejection of rate assessments on unimproved land values.  It seems that this clause is preventing the passage of 411 other clauses, most of which are advantageous.  If the Council remains implacable we believe the Bill should pass without this clause rather than see the whole thing shelved yet again.

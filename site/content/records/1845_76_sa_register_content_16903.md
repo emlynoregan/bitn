@@ -18,6 +18,7 @@ topics:
 - shearing
 - labour movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In some places shearing is finished and some shearers are passing through, spending a day or two here on their way to town.

@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra v. Clare match was played at Clare on 1 September on a very poor ground with the left wing a mud hole and with piles of dirt in the centre.  Play was fast and rough and ended in a draw.  Burra 0.9 and Clare 0.5

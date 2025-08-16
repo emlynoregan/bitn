@@ -18,6 +18,7 @@ topics:
 - celebration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The principal residents went to Adelaide for the celebrations.  Those who remained lit bonfires, fired guns and let off fireworks.

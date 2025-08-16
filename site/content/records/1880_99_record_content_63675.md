@@ -20,6 +20,7 @@ topics:
 - races
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Races today will be held in Mrs J. Dew’s paddock, starting at 1 o’clock.

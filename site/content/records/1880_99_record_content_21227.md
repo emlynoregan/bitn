@@ -28,6 +28,7 @@ topics:
 - youth
 - endurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Ride.  The 14-year-old son of Mr Eyes, a locomotive engine driver of Terowie, who is a student at Prince Alfred’s College, rode his bicycle home last Friday.  He left Adelaide at 5 a.m., got to Gawler at 7.05 a.m., Tarlee at 10.40 a.m., Riverton at 1.00 p.m. and reached Burra at 8.30 p.m., having taken about 12 hours actual riding time.  He completed the ride to Terowie the following morning.

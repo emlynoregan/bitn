@@ -18,6 +18,7 @@ topics:
 - agriculture
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  Ploughing is nearly over.  Sowing is underway or finished on some farms.  The bad road discussed recently at a meeting is not the main road, but branches from that towards Mt Bryan East country.

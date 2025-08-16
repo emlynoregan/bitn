@@ -21,6 +21,7 @@ topics:
 - water
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The discussion generally approved this scheme since the Govt. plan would cost £800 plus the cost of maintaining the pumping engine etc. The bore would be cheaper and would belong to the town. SAMA has since promised £25.

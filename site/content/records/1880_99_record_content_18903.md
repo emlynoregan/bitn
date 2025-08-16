@@ -20,6 +20,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Browne has donated £60 towards reducing the debt on St Mary’s.  We understand this virtually extinguishes the building debt.  [Corrected next issue, V11, 467, 18 August 1885]

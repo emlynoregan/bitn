@@ -25,6 +25,7 @@ topics:
 - industry
 - materials
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Persons wishing to supply the Patent Copper Co. with roofing slates, delivered to their yard at Kooringa, are invited to submit tenders addressed to the company at Waterhouse Buildings, Adelaide, or to Wren’s Hotel, Kooringa.

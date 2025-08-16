@@ -22,6 +22,7 @@ topics:
 - notice
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  J. M. Hunt has removed to Mr Carey’s Chaff store near Messrs S. Drew  & Co.’s large store in Aberdeen.

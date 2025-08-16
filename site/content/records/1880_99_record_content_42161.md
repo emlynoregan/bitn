@@ -18,6 +18,7 @@ topics:
 - agriculture
 - seasons
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Seasons.  The country outside of Goyder’s Line has been scoring wins in the last few seasons.

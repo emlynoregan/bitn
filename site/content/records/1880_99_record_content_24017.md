@@ -18,6 +18,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Last Saturday Burra 31 & 3 for 40 defeated the Young Australians 29.  A win for Burra on the first innings.

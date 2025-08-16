@@ -19,6 +19,7 @@ topics:
 - entertainment
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Rev. S. Knight’s lecture on New Zealand and its accompanying entertainment passed off well on Monday.

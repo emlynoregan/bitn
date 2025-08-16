@@ -20,6 +20,7 @@ topics:
 - road
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Making approaches etc in Welsh Place and Kingston St	£25

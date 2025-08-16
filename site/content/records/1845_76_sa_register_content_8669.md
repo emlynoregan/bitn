@@ -20,6 +20,7 @@ topics:
 - labour
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 27 March 1854, page 3

@@ -34,6 +34,7 @@ topics:
 - resignation
 - civic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.H. Forder was presented with an illuminated address and a purse of sovereigns at the Council chamber on Friday last.  The Mayor, J. Sampson jun. presided.  Mr Forder was Clerk of the Local Court at Redruth for many years.  The Mayor said he had been associated with him for 24 years and found him a gentleman of the highest order, always obliging and kind.  Mr Forder has resigned and intends to leave the district.

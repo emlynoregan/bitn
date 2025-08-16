@@ -20,6 +20,7 @@ topics:
 - sport
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Easter Monday. Aberdeen 80 & 29 without loss, defeated Hallett 39 & 60 (99)

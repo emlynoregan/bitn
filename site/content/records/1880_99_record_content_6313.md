@@ -20,6 +20,7 @@ topics:
 - local government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square.  Midway between the public troughs and the kerbing opposite The Record office.  First horse head in line with end of trough, facing north.

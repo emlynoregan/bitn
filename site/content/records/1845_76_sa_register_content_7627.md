@@ -21,6 +21,7 @@ topics:
 - transport
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Victorian Gold.  Yesterday the escort from Mount Alexander brought down 11,424 oz or nearly half a ton of gold.  We learn also that a further 6,000 oz were brought to the Commissioner’s tent for transport, but were refused for fear of overloading the vehicle.  As it was it broke down twice and was detained several hours in consequence.

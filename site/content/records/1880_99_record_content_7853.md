@@ -28,6 +28,7 @@ topics:
 - medical
 - aneurism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  George [Wilson] Roberts died 7 September [aged 34] at Wildotta.  P. Lane JP, coroner and Arthur Motley, foreman of the jury.

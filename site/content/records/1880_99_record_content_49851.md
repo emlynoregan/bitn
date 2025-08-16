@@ -20,6 +20,7 @@ topics:
 - court
 - slander
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Harris was then sworn and corroborated McLeod’s testimony.  He denied the second statement of the alleged slander.

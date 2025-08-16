@@ -19,6 +19,7 @@ topics:
 - farming
 - seeding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The season.  Farmers are busy fallowing and seeding at present and where early crops have been planted the seed is showing.  Everywhere else farmers who can afford to do so are purchasing seed drills which deposit grain and an amount of fertilizer at the same time.

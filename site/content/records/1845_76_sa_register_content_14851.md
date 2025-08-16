@@ -23,6 +23,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The new German Lutheran Church at Redruth was opened last Sunday.  At about 10.30 a.m. a procession was formed at the home of Mr F. Vollmer and proceeded from there to the church.  First came a party of men forming the choir, then 12 young girls dressed in white and bearing the Bible, the key to the church, two wax tapers, a miniature crucifix and the communion service.  These were followed by the Prediger [Preacher] who was to officiate; Rev. Fiedler of Hahndorf.  A number of Germans brought up the rear.  At the church the choir ranged on either side of the door and sang a hymn.  A solemn benediction and extempore form of consecration followed, pronounced by the Pastor, who then opened the door and everyone entered to entirely fill the building.

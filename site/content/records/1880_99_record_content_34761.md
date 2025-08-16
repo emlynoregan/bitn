@@ -18,6 +18,7 @@ topics:
 - religion
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Christmas: extolling the importance of Christ’s teachings regardless of one’s belief in his divinity, but deploring the way in which the life of Christ is being used to cloak all sorts of wrong.

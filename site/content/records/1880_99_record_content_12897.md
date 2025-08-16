@@ -20,6 +20,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sale Yards.  Cr Coglin has given notice that he will move that the consent of ratepayers be sought to enable the Council to take out a loan to erect sale yards for Burra.

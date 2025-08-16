@@ -30,6 +30,7 @@ topics:
 - legal
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire Inquest.  There was an investigation Thursday into the fire that destroyed the house occupied by Mrs Treweek at Kooringa.

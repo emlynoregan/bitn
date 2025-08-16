@@ -18,6 +18,7 @@ topics:
 - business
 - hours
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Early Closing.  Why can’t the drapers close their shops at 9.00 p.m. on Saturdays?

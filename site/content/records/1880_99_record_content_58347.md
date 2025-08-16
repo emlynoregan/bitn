@@ -22,6 +22,7 @@ topics:
 - public order
 - rowdyism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Kingston St, Paxton Square’ writes complaining of Rowdyism on Sunday nights about the time the Army goes to the Barracks.  ‘We seldom see him [“our worthy trooper”] up this way, especially when wanted.’

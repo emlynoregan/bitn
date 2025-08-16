@@ -29,6 +29,7 @@ topics:
 - social
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI.  Major-General Downes inspected the Burra Mounted Rifles last Wednesday, with Lieut. McCullum from Gawler.  After Brigadier-Major Stuart had inspected arms and accoutrements there were drills and a mock attack.  The General complimented the Company on its performance.

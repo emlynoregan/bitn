@@ -25,6 +25,7 @@ topics:
 - editorial
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Burra Cemetery. This needs to be enlarged. Repairs are needed. Money is a problem as although the cemetery is in theory £250 in credit, the Council has borrowed this for other purposes. Not only is money short, but the Govt. has retained over £70 of the expected subsidy to pay for the police. The ratepayers have authorised the borrowing of £400 and it should be done, to be repaid at say £100 in 1881 and £100 in each of the next three years.

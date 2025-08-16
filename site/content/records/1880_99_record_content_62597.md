@@ -20,6 +20,7 @@ topics:
 - entertainment
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Annual Effort Fund Entertainment at the Redruth Wesleyan Schoolroom on Wednesday was well attended.  It comprised songs, musical selections, choruses, recitations, readings and tableaux.

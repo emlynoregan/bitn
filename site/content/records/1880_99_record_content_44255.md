@@ -21,6 +21,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Musicus’ writes that he is concerned that last year a Fife & Drum Band was formed at Mt Bryan.  Two concerts raised not less than £10.  From this a single kettle drum appears to have been bought.  The schoolmaster intends to promote another concert for the cause, but first ‘Musicus’ would like a full accounting of the previous sum raised.

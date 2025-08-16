@@ -24,6 +24,7 @@ topics:
 - picnic
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School picnic at Princess Royal last Friday left Burra between 9 and 10 for the woolshed.  All sorts of games were enjoyed.  Messrs L. Grow & E.C. Lockyer provided vehicles free of charge and several private vehicles also took passengers.  Sausage rolls, cakes, buns, fritz sausage, sandwiches, fried fish and grapes were in abundance.

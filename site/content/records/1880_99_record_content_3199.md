@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo railway station has been useless this season for wheat because no siding was constructed for goods and the railways refused to allow the passenger siding to be used for that purpose.

@@ -21,6 +21,7 @@ topics:
 - appointment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christians met on Wednesday to farewell Rev. J.H. Ashton who is to visit Great Britain and welcomed Rev. J. Hancock who will take his place during his absence.

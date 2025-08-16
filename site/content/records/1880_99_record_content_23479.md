@@ -20,6 +20,7 @@ topics:
 - church
 - art
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Burra Wesleyan Conversazione and Art Exhibition will be held in the Wesleyan Lecture Hall from 29 September to 1 October.

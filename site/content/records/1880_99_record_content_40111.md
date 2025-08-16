@@ -19,6 +19,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Primitive Methodist Harvest Thanksgiving: Redruth 8 Feb. & Kooringa 15 Feb.

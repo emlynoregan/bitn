@@ -20,6 +20,7 @@ topics:
 - football
 - juvenile
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Monday on the flat near the smelting works two juvenile Burra teams met and the Jokers 1 defeated Rovers Nil.

@@ -21,6 +21,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  24 May at Burra.  Burra 2.11 defeated Riverton 0.5.  [W.H. Hardy umpired.]

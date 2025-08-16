@@ -22,6 +22,7 @@ topics:
 - retail
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from a shop assistant who complains that the long-standing rule that shops in Burra close at 9 p.m. on Saturday is being eroded with drapers shops staying open until after 10 p.m.  It is hard on assistants if this rule is interfered with, as it will be unless all storekeepers recognise the hour as hitherto.

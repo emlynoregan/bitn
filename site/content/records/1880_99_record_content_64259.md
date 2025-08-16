@@ -31,6 +31,7 @@ topics:
 - church
 - Oddfellows
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  W. Geake Sen. died at Queen St on Sunday morning aged 68.  He was born in Tavistock on 1 January 1830 and arrived in SA in The Nile in 1854 after a voyage of 99 days.  He became a carpenter for David Wells and then started a greengrocery business at his late residence before leasing a shop in Commercial St and later moving to larger premises in the building recently demolished to make room for the Record office.  Before the railway W. Geake and Mr Trenbath used to convey passengers to Kapunda.  He was a Town Councillor for over 9 years and an active member of the church, serving as a local preacher and for over 20 years was superintendent of the Wesleyan Sunday school.  For over 30 years he was a member of the Aberdeen Oddfellows Lodge.  His wife died 17 years ago.  About two years ago paralysis of the nerves caused his retirement.  He bore a long and painful illness with patience.  He leaves one son and four daughters, and two grandchildren.  Rev. J.Y. Simpson officiated at the funeral on Monday.  The Oddfellows formed a procession to the cemetery.

@@ -18,6 +18,7 @@ topics:
 - theft
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Crime: A horse was stolen from the Miners' Arms; the thief also breaking into the stables to get the blanket, saddle etc.

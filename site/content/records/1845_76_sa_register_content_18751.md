@@ -24,6 +24,7 @@ topics:
 - meeting
 - decision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr S. Dawson for the middle road:

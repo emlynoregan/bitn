@@ -19,6 +19,7 @@ topics:
 - community
 - revival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A United Christian Convention was held in Burra last Wednesday and Thursday in which the three Methodist Connections and the Salvation Army joined forces for a revival of Christian life.

@@ -20,6 +20,7 @@ topics:
 - larrikinism
 - editorial practice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes saying he was confused by the letter of ‘Justice’ re larrikinism and thinks it a pity that its meaning was spoiled by ‘jargon’.

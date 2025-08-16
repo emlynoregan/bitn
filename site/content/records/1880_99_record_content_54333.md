@@ -30,6 +30,7 @@ topics:
 - quarry
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment Meeting at the Institute last Saturday.  The weather was very rough, but a good number attended.  Cr W.H. Linkson took the chair.

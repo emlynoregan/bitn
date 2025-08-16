@@ -19,6 +19,7 @@ topics:
 - athletics
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Whyte-Yarcowie Annual Athletic Sports January 2nd 1887.  [Error for 1888]

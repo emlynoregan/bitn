@@ -23,6 +23,7 @@ topics:
 - real estate
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  To let for a term of years: the Bow & Arrow Inn, lately known as Forrester’s.  It stands on section 210.  Also for sale is ‘Water Paddock’ section 202.  Address tenders to D.B. Forrester ‘Ellabeck’ Mintaro by 3 February.

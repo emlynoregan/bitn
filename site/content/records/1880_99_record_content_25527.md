@@ -18,6 +18,7 @@ topics:
 - fundraising
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Women’s Queen Victoria Jubilee Fund seeks signatures from women on an address, which will be presented to the Queen.  Also they will be raising money, the object of which funds is yet to be decided.

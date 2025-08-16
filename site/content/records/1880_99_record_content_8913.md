@@ -19,6 +19,7 @@ topics:
 - literature
 - etiquette
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 17 Nov.	LII-LIII (End)	Mr Bixby’s Bathing Suit	X	X	X	X		X	X	X			Etiquette of Watering Places

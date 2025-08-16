@@ -18,6 +18,7 @@ topics:
 - community
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lapford.  There is a report from the local correspondent.

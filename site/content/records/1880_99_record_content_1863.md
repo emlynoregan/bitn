@@ -18,6 +18,7 @@ topics:
 - immigration
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese.  800 Chinese arrived in the NT in the last few days with 700 more on the way.

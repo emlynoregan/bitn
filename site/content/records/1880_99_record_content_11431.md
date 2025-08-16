@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sarah Moyle, relict of the late William Moyle, died on 9 December at Riverton, aged 73.

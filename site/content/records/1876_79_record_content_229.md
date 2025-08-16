@@ -25,6 +25,7 @@ topics:
 - contract
 - architecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital.  We have had left at our office drawings showing the proposed alterations and additions to the Burra Hospital.  We understand the contract was signed on Wednesday 5 July 1876, with work to be completed in six months.  The architect is William Beattie of Port Adelaide and the contractors are Messrs G. & W. Sara.  When completed it should be a great improvement on the present building.

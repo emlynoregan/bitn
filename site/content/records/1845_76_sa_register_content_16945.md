@@ -18,6 +18,7 @@ topics:
 - shares
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra £5 shares; last price £90.

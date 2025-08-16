@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War News.  War is now generally considered inevitable between Russia and England - negotiations have ceased.

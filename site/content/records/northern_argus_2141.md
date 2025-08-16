@@ -21,6 +21,7 @@ topics:
 - event
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Tim Letcher has been in Ballarat at the National Christian Youth Convention of the Uniting Church.  Archbishop Desmond Tu Tu was the guest speaker.

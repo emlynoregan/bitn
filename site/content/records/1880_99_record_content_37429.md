@@ -19,6 +19,7 @@ topics:
 - finance
 - IOR
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lily of the Valley (Female) Tent IOR continues to make progress with 122 members at the end of June 1890 and capital of £89-19-9.

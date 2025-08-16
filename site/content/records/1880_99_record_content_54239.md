@@ -18,6 +18,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Record Office has a large assortment of Double Memoriam Cards.

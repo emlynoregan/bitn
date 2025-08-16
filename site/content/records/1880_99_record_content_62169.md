@@ -18,6 +18,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Drought continues and farmers are at their wits end to keep stock alive.  There have been clouds and a few drops, but no real rain and the outlook is for more cloud with some hope of rain.

@@ -28,6 +28,7 @@ topics:
 - fraud
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Resident Magistrate’s Court, Kooringa, 17 October.

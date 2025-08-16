@@ -20,6 +20,7 @@ topics:
 - club
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The club’s champion race was flown from Roseworthy on 3 October.  First was Mr Josling’s b. c. h. Blair Athol & b. c. h. Atholine.  Flew 60 miles 360 yards in 95½ minutes at 1109 yards/min.

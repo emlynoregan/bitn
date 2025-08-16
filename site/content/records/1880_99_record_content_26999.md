@@ -18,6 +18,7 @@ topics:
 - legislation
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the anti-Chinese legislation passed in the Assembly last week.  The editor believes the whole issue needs much more and much deeper investigation than it has been accustomed to receive.

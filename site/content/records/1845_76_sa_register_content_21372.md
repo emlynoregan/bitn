@@ -19,6 +19,7 @@ topics:
 - bush fire
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A man in a half drunken state was seen driving his cart along the Mt Bryant Road [sic] on Saturday 23 November and was seen to light his pipe and throw the match away, causing a fire that was quickly extinguished by nearby workers.  When questioned by them he denied smoking and abused them roundly, but then forgot his statement, pulled out his pipe and repeated the process.  This action is not covered by the Bush Fires Act and the only remedy is civil action.

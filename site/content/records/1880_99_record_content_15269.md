@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oddfellows & Foresters’ Picnic Sports ended up with a balance in hand of between £5 and £6.

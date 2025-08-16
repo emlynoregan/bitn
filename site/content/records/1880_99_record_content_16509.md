@@ -20,6 +20,7 @@ topics:
 - Salvation Army
 - expansion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Major Thurman then replaced him on the stone and expressed his pleasure in seeing the foundation stone laid of their 12th barracks in SA.  There were now 42 stations and over 60 officers in SA and only 12 months ago there had been only 14 stations and 26 officers.

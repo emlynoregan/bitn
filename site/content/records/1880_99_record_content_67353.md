@@ -21,6 +21,7 @@ topics:
 - council
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council has now appointed W. Davey as District Clerk, replacing the late J.D. Cave and John Morgan has been appointed Overseer etc.

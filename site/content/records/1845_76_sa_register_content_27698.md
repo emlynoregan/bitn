@@ -22,6 +22,7 @@ topics:
 - banquet
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 20 June 1876, page 6

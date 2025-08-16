@@ -19,6 +19,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Paull is making a recovery under Dr Dashwood’s attention.

@@ -26,6 +26,7 @@ topics:
 - church
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Wanted at the Burra Burra Mine; Blacksmith.  Apply to Captain Roach at the Mine or at the office of the SA Mining Association in Rundle Street, Adelaide.

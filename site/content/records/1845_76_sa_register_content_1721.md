@@ -22,6 +22,7 @@ topics:
 - art
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Gill the artist has made seven interesting views at the Burra Burra Mines.  There are two surface views of the chief mining locality, one view of the Association’s Township of Cooringa [sic] and four views of the subterranean excavations and the mining operations therein.

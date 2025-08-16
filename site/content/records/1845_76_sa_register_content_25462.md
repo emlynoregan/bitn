@@ -19,6 +19,7 @@ topics:
 - health
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr A. Perkins, a teamster, having had a stroke, has been conveyed to Adelaide.

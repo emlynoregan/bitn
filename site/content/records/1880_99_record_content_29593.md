@@ -21,6 +21,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. Burgess’s lecture on The Future Position of Australia Among Nations was well attended and much appreciated last Thursday.  The Redruth Choir provided musical interludes.

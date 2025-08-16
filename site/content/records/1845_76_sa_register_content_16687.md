@@ -32,6 +32,7 @@ topics:
 - mining
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Townsend, Botting & Kay on orders from the SA Mining Association will offer for sale at their King William Street Mart on 4 August the following freehold allotments in the northern districts.

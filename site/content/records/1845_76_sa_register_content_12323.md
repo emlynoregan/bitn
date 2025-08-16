@@ -23,6 +23,7 @@ topics:
 - animals
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday there was also a hunt when C. Ware and a party of friends went out in a spring cart (tandem) on a turkey hunt on the Gum Creek Run.  A flock of seven emus were surrounded and one shot and picked up.  The party then got into the cart and pursued them helter-skelter over rocks, wombat holes and stones for several miles.  One eventually dropped, tired.  This was shot and picked up.  This was repeated till five had been captured, the last one alive.  Not wishing to tire the horses further, they them went to the Cross Roads Inn.  Here two horsemen went off to capture the last two; one of which was taken alive.  The two live ones are now at the Burra Hotel, where Mr Ware is attempting to tame them.

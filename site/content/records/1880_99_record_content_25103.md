@@ -26,6 +26,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fraud.  John Newcomb, a.k.a. Charles Hope, (35) has been found guilty of obtaining by false pretences jewellery to the value of £10 from Mr J.M. Wendt at Adelaide on 13 Jan.

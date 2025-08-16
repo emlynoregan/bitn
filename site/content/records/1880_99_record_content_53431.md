@@ -24,6 +24,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  The horse in J. Carey’s mail cart bolted just as he finished harnessing it for delivery of the midday mails to the north on Friday.  Mr Carey just managed to snatch his young grandson from the cart as the horse took off up Thames St.  It ended up at the house of Mr Bartholomæus in Redruth where it was caught by George March.  There was virtually no damage done and the mails were subsequently delivered on time.

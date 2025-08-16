@@ -22,6 +22,7 @@ topics:
 - employment
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry Ayers as Secretary for the South Australian Mining Association has four advertisements for the Burra Burra Mines

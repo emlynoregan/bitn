@@ -20,6 +20,7 @@ topics:
 - person
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Stewart, the noted water diviner is still in Burra and can be consulted at the Temperance Hotel.

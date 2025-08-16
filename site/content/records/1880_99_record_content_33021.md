@@ -19,6 +19,7 @@ topics:
 - place-name
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Since 1918 Friedrichswalde has been Tarnma.]

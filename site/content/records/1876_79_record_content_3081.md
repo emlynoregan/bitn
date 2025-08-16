@@ -19,6 +19,7 @@ topics:
 - railway
 - station location
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 40 people attended a meeting at Mt Bryan to discuss the location of the station. It was moved that its location revert to the original decision; i.e. Sec. 75. An amendment moved that it be at the travelling stock road. After discussion the amendment was lost 12 to 24 and the motion passed 22 to 12. A memorial reflecting this has been sent to the government.

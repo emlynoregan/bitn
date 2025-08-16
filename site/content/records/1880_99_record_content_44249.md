@@ -18,6 +18,7 @@ topics:
 - business
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Royal Exchange Hotel is being made comfortable and the stockyards made secure with water available for horses.

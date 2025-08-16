@@ -21,6 +21,7 @@ topics:
 - public disorder
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Looker On’ laments the rising tide of larrikinism in Burra with two-pound loaves of bread being broken up and thrown around at the Salvation Army meeting last Wednesday.

@@ -19,6 +19,7 @@ topics:
 - finance
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes seeking clarification of the figures in Mr Jones letter re the assessment in the last issue as to Hardy [as to me] they were ‘entirely Greek’.

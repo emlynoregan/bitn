@@ -22,6 +22,7 @@ topics:
 - services
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J. Homann will conduct two services in the old German Chapel in Redruth on Sunday 5 November.  In the morning in German and in the evening in English.

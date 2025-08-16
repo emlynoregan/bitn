@@ -17,6 +17,7 @@ topics:
 - entertainment
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The English Opera & Pinafore Co. was very favourably reviewed and played to a good house, though there was no mention of Maritana.

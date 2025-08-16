@@ -21,6 +21,7 @@ topics:
 - gambling
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A. von Doussa is to appear in the Police Court, Woodside on Wednesday next on a charge of breaching the Gaming Act by investing money in a totalizator at Onkaparinga Races.  Maximum fine £100 or up to 6 months.

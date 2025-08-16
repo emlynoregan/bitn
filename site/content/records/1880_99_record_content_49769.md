@@ -26,6 +26,7 @@ topics:
 - football
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Aberdeen Football club met last Wednesday evening to reform the club at the Exchange Hotel and elected: Patron, W. Killicoat; President, W. Neville; a whole group of Vice-Presidents; Captain, H. Preece; Vice-Captain, A.S. Clayer.  Colour to be blue and white.  They also gathered on the flat near Reed’s Temperance Hotel on Saturday.  [For a practice?]

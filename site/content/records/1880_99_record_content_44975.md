@@ -20,6 +20,7 @@ topics:
 - lighting
 - municipal services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arrangements have been made for lighting the Aberdeen lamp.  (Mr Tiver at £2 a quarter.)

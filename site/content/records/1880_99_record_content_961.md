@@ -17,6 +17,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The ‘Reds’ were defeated by Allcomers, but scores are not mentioned.

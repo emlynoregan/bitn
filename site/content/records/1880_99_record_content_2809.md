@@ -18,6 +18,7 @@ topics:
 - serial
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 18 Nov 81	Partners Ch XXV-XXVI	Who Was Traitoress?	Odd Offences	X	X	X	X	X	X	X

@@ -19,6 +19,7 @@ topics:
 - sanitation
 - public office
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inspectorship.  Mr Gray has resigned as inspector under The Board of Health and of Weights & Measures etc. and in that we lose a good servant, who gave many years to a most difficult task, acting without fear or favour and without officiousness.  We rely on such vigilance in a town where the water supply is from wells and the only receptacles for drainage in many places are blind creeks in the midst of houses.

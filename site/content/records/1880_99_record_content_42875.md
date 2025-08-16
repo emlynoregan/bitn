@@ -21,6 +21,7 @@ topics:
 - government
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Land Board which would seem to have made decisions that promoted the accumulation of large estates and though this will be addressed by Government it is now too late for the local area to benefit from any instructions aimed to counter this.

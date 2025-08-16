@@ -20,6 +20,7 @@ topics:
 - sale
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  G. Eaton announces a four-week sale of drapery and clothing etc. from an assigned estate in Adelaide.

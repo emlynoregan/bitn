@@ -22,6 +22,7 @@ topics:
 - education
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Knight, the daughter of Rev. S. Knight of Burra, has recently passed the matriculation exam of London University and goes to England by the Lusitania on Monday.

@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Aberdeen Hotel attracted few people to its New Year sports, but still seven events were contested with spirit.

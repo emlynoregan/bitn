@@ -18,6 +18,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dr Sangster vaccinates at his surgery on Fridays 2.30 to 3.30 p.m.

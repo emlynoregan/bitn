@@ -21,6 +21,7 @@ topics:
 - railway
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Burra Corp. takes up question of the railway underpass near the White Hart. Formation of Deputation to the Commissioner of Public Works.

@@ -24,6 +24,7 @@ topics:
 - society
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Literary Soc.  On Friday 4 September at Mrs Reed’s Rooms F.W. Holder will lecture on: Six Weeks on Camelback in the Interior of SA.

@@ -21,6 +21,7 @@ topics:
 - community
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Prince of Wales’s Birthday Holiday on Monday passed without organised amusement except for the Redruth Wesleyan Sunday School picnic at Sod Hut.

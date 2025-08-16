@@ -20,6 +20,7 @@ topics:
 - editorial
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a public meeting on 26 August to consider the establishment of a State Bank, the Payment of Members Bill, and the motion of Hon. J. Bosworth re the sale of Crown Lands for Cash, and other matters.

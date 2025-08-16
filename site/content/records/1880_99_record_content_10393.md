@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan.  A public meeting on 4 August is reported in an article extending for over 1 column.  The main demands are for a goods shed at the station and a school & teacher’s residence - attendance being sufficient to justify the same.  The meeting approved the purchase of the old Wesleyan Chapel for use as a Council Chamber.

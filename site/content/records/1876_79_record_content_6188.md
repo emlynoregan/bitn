@@ -20,6 +20,7 @@ topics:
 - finance
 - repair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian anniversary last Sunday & Monday. Rev. J. Thorne of Gladstone preached. The income for the year of £244 enabled considerable outlay for repairs and improvements to the minister's residence and allowed a£100 reduction in church debt to c1500.

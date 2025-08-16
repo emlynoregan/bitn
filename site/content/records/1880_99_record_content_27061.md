@@ -20,6 +20,7 @@ topics:
 - weed
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti-noxious Weed’ writes to urge destruction of the star thistle before it seeds.

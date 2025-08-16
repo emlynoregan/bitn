@@ -25,6 +25,7 @@ topics:
 - women's suffrage
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a meeting on 14 November when it debated Women’s Suffrage.  For were Mr Bradley, Miss Reed & Mr Whittick.

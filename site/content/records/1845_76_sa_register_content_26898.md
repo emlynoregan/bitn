@@ -24,6 +24,7 @@ topics:
 - coaches
 - mail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Terry’s Royal Line of Coaches

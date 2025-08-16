@@ -17,6 +17,7 @@ topics:
 - politics
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Federation.  The writer is very much for the proposal, believing that in unity is strength, but of course urging that care be taken.

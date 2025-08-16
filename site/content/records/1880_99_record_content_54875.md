@@ -23,6 +23,7 @@ topics:
 - sport
 - pavilion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Oval.  There is a movement for some permanent cover at the oval.  Now that the Show Soc. and the Friendly Societies’ Picnic Fund both have a credit balance the Corporation might see their way clear to erecting a pavilion for the use of sports and exhibits at show time.  The hire of tents by users of the oval would erect such a building.

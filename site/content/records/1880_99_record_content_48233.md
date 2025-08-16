@@ -21,6 +21,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Sunday School held a special service on 1 January and a picnic on Monday at Mr Fradd’s paddock at Sod Hut.  Games and races were held.

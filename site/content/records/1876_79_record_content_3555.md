@@ -30,6 +30,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School was opened last Friday. The town shops closed at noon and the midday train brought the Hon. Neville Blyth, Minister of Education; Mr J.A. Hartley, President of the Council of Education; Mr Inspector Witham and Mr Inspector Stanton, who were entertained by the Mayor at lunch in the Institute, which involved the usual speeches and toasts. The lunch was catered for by Mr T. Richardson of the Miners' Arms Hotel. A deputation of the Mayor and the Corporation asked that the school be made a model school. With the enrolment now 420 there are insufficient teachers and it is expected numbers will rise to about 600.

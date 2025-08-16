@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Mary Hosking, aged 74 and a resident of about 35 years has died.  [Died 12 November 1893.]

@@ -19,6 +19,7 @@ topics:
 - sport
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  There was a rifle match between officers and privates in which the privates 304 defeated the officers 262.

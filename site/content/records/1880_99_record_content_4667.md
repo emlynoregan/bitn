@@ -22,6 +22,7 @@ topics:
 - appointments
 - preaching
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.A. Bainger, newly appointed to the Wesleyan circuit, will preach at Kooringa next Sunday morning and at Baldry in the afternoon and Copperhouse in the evening.

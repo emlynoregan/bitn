@@ -21,6 +21,7 @@ topics:
 - meeting
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  SA Mining Association calls an Extraordinary General Meeting of shareholders for 10 January at the Association’s Office, Rundle Street.  The purpose is to elect a Director to replace Mr William Peacock who is disqualified for being absent from the province for upwards of six months.

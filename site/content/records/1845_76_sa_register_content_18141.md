@@ -20,6 +20,7 @@ topics:
 - fire
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At the Full Court on 29 December 1864 James and Thomas Tucker were each fined £3 plus costs for lighting a fire on crown land without taking the necessary precautions.

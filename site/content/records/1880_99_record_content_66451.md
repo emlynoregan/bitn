@@ -19,6 +19,7 @@ topics:
 - football
 - rules
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Manoora	0.5	0.7	0.8	1.9	(15)

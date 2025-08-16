@@ -28,6 +28,7 @@ topics:
 - parliament
 - courts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The amount of land sold suggested much more should have been spent in the district.

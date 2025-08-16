@@ -19,6 +19,7 @@ topics:
 - election
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Election. Rowland Rees and William B. Rounsevell are returned to parliament unopposed.

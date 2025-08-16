@@ -21,6 +21,7 @@ topics:
 - advertisement
 - purchase
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W.H. Turner, boot & Shoe Maker has purchased the business of J. Roberts, opposite the Burra Hotel.

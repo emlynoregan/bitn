@@ -22,6 +22,7 @@ topics:
 - public works
 - lamp
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The unfortunate lamp at Henderson’s Corner was ordered to be removed and fixed at the southern corner of the troughs.’

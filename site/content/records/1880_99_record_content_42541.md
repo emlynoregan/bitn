@@ -18,6 +18,7 @@ topics:
 - shearing
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearing is in full swing.

@@ -21,6 +21,7 @@ topics:
 - appointment
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Freemasons Lodge 585 C.E. installed Bro. G. Hill as Master for 1880 and F.R. White was presented with a Past Master’s jewel of solid gold.

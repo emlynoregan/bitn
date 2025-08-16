@@ -19,6 +19,7 @@ topics:
 - weather
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton, 28 May.  People continue to flock to the area.  Rain down the track caused the coach to be 30 hours late.

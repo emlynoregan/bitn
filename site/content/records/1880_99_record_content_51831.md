@@ -18,6 +18,7 @@ topics:
 - church
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s.  Special services last Sunday and through this week.

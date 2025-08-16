@@ -18,6 +18,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Reformer stage-cart will leave for Burra Monday next or earlier if sufficient inducement should offer.  It returned yesterday.

@@ -20,6 +20,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Thanksgiving Service on Sunday 14 February.  Mrs J.E. Whellum and Mr J. Scott preached.

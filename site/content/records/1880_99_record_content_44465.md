@@ -24,6 +24,7 @@ topics:
 - community
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church held its Harvest Thanksgiving on 14 February.  Services were taken by Rev. R.J. Daddow & Mrs J.E. Whellum.  There was a public meeting on Monday addressed by Messrs Scott & Daddow.

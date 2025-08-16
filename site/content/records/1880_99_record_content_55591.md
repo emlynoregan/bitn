@@ -21,6 +21,7 @@ topics:
 - event
 - limelight_service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Captain Joe Perry held a limelight service in the Barracks on 18 December which was not as well attended as it might have been.  Some of the views were very beautiful.  Two recitations Little Jim and In the Signal Box were accompanied by their pictures.  There were views of Tasmania, various Salvation Army Rescue and Prison Gate Brigade Homes, showing inmates making mats, knitting garments, gardening etc.  Most striking was one of an old English Mill in moonlight with snow falling most naturally.

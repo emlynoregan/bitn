@@ -23,6 +23,7 @@ topics:
 - award
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Adelaide & Wallaroo Fertilizer employees at Burra were told last Thursday they had won the Directors’ Safety Pennant & Award for the seventh consecutive year with over 800 days of injury free activity now.  A cheque for $500 was given, to be donated to a chosen charity.  For 1987 the staff chose the Burra SES and Andrew McInnes accepted the cheque on their behalf.  The money will help to set up the new radio room at the goods shed area, part of which is being refurbished as SES quarters.

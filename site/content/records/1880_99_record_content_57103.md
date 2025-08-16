@@ -20,6 +20,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  3rd race of the season took place from Jamestown on 22 May.

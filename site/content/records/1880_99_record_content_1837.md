@@ -21,6 +21,7 @@ topics:
 - hotel
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.    Mrs J.M. Rundle has taken the Exchange Hotel, Aberdeen.  There are 20 bedrooms, including sitting rooms etc.

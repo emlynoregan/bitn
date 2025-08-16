@@ -25,6 +25,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice visited Booborowie and Leighton schools on 29 July.  At Booborowie Miss Murphy had 26 out of 32 present and they acquitted themselves well.  Mr Otto Junge at Leighton has been transferred to Nuriootpa after three years.  20 out of 32 were present.  Miss Fuller is soon to take over.

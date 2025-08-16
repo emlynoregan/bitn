@@ -22,6 +22,7 @@ topics:
 - obituary
 - cancer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Elizabeth Rumball [nee Martin], on the 9 Feb. of cancer, aged 53.  The wife of John Rumball.  At the Burra Railway Station.

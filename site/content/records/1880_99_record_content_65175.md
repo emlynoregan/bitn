@@ -23,6 +23,7 @@ topics:
 - donation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital has received a donation of £7-9-6 from the shearers at Outalpa Station.

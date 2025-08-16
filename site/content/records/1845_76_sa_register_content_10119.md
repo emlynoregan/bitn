@@ -30,6 +30,7 @@ topics:
 - agriculture
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 29 August, 1856, page 3

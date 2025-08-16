@@ -35,6 +35,7 @@ topics:
 - finance
 - meetings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Royal Mining Co. held its AGM at the Gresham Hotel in Adelaide on Wednesday 13 November.  Unusually, Mr H. Ayers attended to exercise power of attorney for Mr Bryden.  After some discussion about the acceptability of this, he was admitted.  Directors Mildred, Abrahams, Mildred and Poole were retiring by rotation and Mr Wright by ballot.  At the last half-yearly meeting a motion was passed requiring the Directors to take the steps necessary for winding up the company.  This required a meeting to be called by a requisition of shareholders controlling three fifths of the shares.  Despite efforts to collect the necessary signatures on the requisition, this was not achieved.  The Directors had an agreement with Rough and Francis to work their lease at Karkulto.  Rough & Francis have abandoned their lease because of lack of sufficient capital.  They have sold the ore raised to the English & Australian Copper Co. and this is sufficient to cover costs, but as it has not been convenient to remove the ore as yet, the matter has not been finalised.  The grass is let for £30 per annum.

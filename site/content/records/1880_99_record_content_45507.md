@@ -21,6 +21,7 @@ topics:
 - Chinese Restriction Act
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese Migration.  Hon. T. Playford says the Chinese Restriction Act must be amended.  At present a ship is restricted to one Chinese passenger for each 500 tons register, but captains are signing on Chinese as crew and discharging them on arrival, which circumvents the law, even if they still pay the poll tax.

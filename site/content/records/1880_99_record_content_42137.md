@@ -20,6 +20,7 @@ topics:
 - politics
 - social roles
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes an article of c. ¾ column on Women’s Suffrage, which he opposed.

@@ -22,6 +22,7 @@ topics:
 - camp
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 No. 1 Parafield Squadron of Air Youth of SA has just had 40 members at a week long camp at the Redruth Camping Centre in Burra.

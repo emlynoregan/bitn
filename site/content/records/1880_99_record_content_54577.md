@@ -20,6 +20,7 @@ topics:
 - church
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Church Anniversary will be held on Sunday & Monday 16 & 17 September.

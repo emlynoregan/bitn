@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter saying it is time the provision of gutters and spouts was enforced for roofs overhanging footpaths.

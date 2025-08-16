@@ -23,6 +23,7 @@ topics:
 - road
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Certain repairs were ordered to Boundy’s Bridge in Ayer’s St.

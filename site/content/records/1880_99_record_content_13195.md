@@ -22,6 +22,7 @@ topics:
 - hospital
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr McGovern, [who had suffered spinal injuries, see V, 336, p.2] died at Burra Hospital on Friday.  W.F. Coglin JP ruled that an inquest was unnecessary.  [James, aged 50, died 9 May.]

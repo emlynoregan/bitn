@@ -19,6 +19,7 @@ topics:
 - family
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The late H.J. Walker married a sister of Cr John Sampson.  She died 24 years ago.

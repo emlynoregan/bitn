@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The anniversary services were held on Sunday 6 October and Rev. H. Wilkinson of Terowie officiated.  The afternoon service of song was The Christian Voyage.  The public tea on Monday was only moderately patronised.

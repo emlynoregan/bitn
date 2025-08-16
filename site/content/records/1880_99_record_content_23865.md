@@ -23,6 +23,7 @@ topics:
 - banking
 - goldfield
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Messrs Pascoe, A. Sampson and Mayger are all Burra men reporting to be doing well on the field.  A bank has opened.

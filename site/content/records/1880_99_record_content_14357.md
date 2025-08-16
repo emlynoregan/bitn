@@ -23,6 +23,7 @@ topics:
 - correspondence
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Clare Correspondent replies to S. Mortimer disputing the disclaimer by the latter of rough and unfair play.  He cites instances and alleges bias by Mortimer.

@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A ‘Correspondent in the North’ writes with the idea of canalising the River Broughton as a means of transport to the coast from the Booborowie area.  There are, he says, a dozen springs in the Booborowie area and a good source of water at Gum Creek and more from the Hutt River, which would supply the water for a waterway, but urgent action in needed before all the land along the route is alienated in the present rush to bring agriculture to the area.

@@ -18,6 +18,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor’s Fund has reached £32, largely as a consequence of £20 from SAMA.

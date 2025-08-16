@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 John & Mavis Reed, formerly of Burra, celebrate their 50th wedding anniversary on 11 December.  They were married at Redruth Methodist Church in 1937.

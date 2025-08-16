@@ -19,6 +19,7 @@ topics:
 - charity
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Recipient of proceeds of concert given by Mr Eliis [sic] Newton on Tuesday to communicate with W c/o this office and if case is genuine 2 gns will be added.

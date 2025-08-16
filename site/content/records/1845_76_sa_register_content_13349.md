@@ -38,6 +38,7 @@ topics:
 - investigation
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Resumed Inquest at Burra Burra Mine

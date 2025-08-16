@@ -19,6 +19,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The assessment for rates for the Mine has been reduced by £50-1Q-0 as it is no longer working.

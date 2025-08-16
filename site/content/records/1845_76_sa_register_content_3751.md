@@ -27,6 +27,7 @@ topics:
 - intoxication
 - robbery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thomas Tapley, landlord of the ‘Emu Springs’ gave evidence essentially confirming the above and said he and another man had gone out and collected Ryan after Bridget Lynch had reported him lying insensible.  Ryan had been ‘rather intoxicated’ when he left the hotel.

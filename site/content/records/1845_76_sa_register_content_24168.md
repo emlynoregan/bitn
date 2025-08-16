@@ -27,6 +27,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ironmine Primitive Methodist Chapel saw its opening sermons preached by Rev. H.J. Pope, the circuit minister, on Sunday 1 October.  On Monday a public tea was well patronised.  Mr T. Hutchins presided and Mr Pope spoke of the lessons of the late war [presumably meaning the Franco-Prussian War of 1870-71].

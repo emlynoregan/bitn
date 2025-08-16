@@ -21,6 +21,7 @@ topics:
 - disaster
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The most disastrous fore in Burra’s history broke out on the morning of 6 January when the continuous note of steam whistles roused the town.  A fire was destroying four of the newest shops in Kooringa and threatening many others.

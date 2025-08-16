@@ -21,6 +21,7 @@ topics:
 - notice
 - reputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Harriet Highet cautions those casting aspersions injurious to he daughter’s character, Harriett (Cissie) Highett by publishing & circulating slanderous reports concerning her chastity – the same being untrue and without the slightest foundation, that they risk legal proceedings.

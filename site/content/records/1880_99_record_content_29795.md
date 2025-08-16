@@ -18,6 +18,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Musical Union Concert, 26 September.  The program is printed.  2/- & 1/-

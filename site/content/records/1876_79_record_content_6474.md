@@ -20,6 +20,7 @@ topics:
 - community
 - economic distress
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cornish Relief Fund. The President of the SA Conference has recommended support for the fund as great distress has been caused to innumerable families by the collapse of the mining industry in Cornwall.

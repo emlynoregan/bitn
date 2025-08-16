@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Monsieur Oriel's trained dogs on 27 & 28 July in Institute were very well trained and worthwhile, but the performance was not very well attended.

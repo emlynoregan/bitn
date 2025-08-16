@@ -37,6 +37,7 @@ topics:
 - agriculture
 - livestock_losses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bushfires have swept through many runs in the past week.

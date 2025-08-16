@@ -18,6 +18,7 @@ topics:
 - numbering
 - volume
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume XV continued from its start on 7 December 1892 and ran for the whole of 1899.

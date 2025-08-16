@@ -20,6 +20,7 @@ topics:
 - entertainment
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The talented Musgrove Concert & Operatic Co. that visited Burra some weeks ago will reappear at the Institute tomorrow.  The performers are of more than usual merit.

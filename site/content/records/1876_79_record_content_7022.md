@@ -18,6 +18,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Entertainment at the Sunday-schoolroom on Wednesday was a great success. The program was good and well rendered.

@@ -21,6 +21,7 @@ topics:
 - municipal
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry Ayers Secretary of the SA Mining Association writes to the Editor in response to the suggestion that the Directors should induce residents to improve the appearance of Kooringa:

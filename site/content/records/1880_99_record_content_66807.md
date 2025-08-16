@@ -24,6 +24,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The AGM of the Burra Cricket Club was held in Mr Pascoe’s rooms on Friday and it was decided to reform the old club.  J. Bentley was elected Secretary, W. Edwards, Treasurer and J.M. McBride, President.  The Captain & committee to be chosen on 31 August.

@@ -21,6 +21,7 @@ topics:
 - accommodation
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 23 April 1874, page 5

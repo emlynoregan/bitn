@@ -20,6 +20,7 @@ topics:
 - rabbits
 - crop yields
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. In the H. of Hallett rabbits have severely reduced many farmers’ crop yields. One farmer got only half a bushel per acre and others only 3 bushels. Some have however got as much as 20 bushels per acre, with the average being a little over 7 bushels per acre.

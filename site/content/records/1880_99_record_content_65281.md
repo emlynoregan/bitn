@@ -22,6 +22,7 @@ topics:
 - weather
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A.S. Bagg had to abandon an attempt to lower the Broken Hill-Adelaide record at Nackara due to bad weather on Monday morning.

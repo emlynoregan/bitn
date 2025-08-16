@@ -23,6 +23,7 @@ topics:
 - arson
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fearful bushfires have done great damage of late to neighbouring runs.  Mr Benjamin Preece was entirely burnt out.  Booborowie has suffered badly and Mr McBride’s Burra Creek Run is greatly injured and other places are as bad.  Many believe the fires to be the work of incendiaries.

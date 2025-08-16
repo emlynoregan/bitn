@@ -19,6 +19,7 @@ topics:
 - community
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Model School Bazaar and Concert, 12 April.  In aid of Burra Hospital [Location not stated.]

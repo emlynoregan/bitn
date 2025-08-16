@@ -27,6 +27,7 @@ topics:
 - commerce
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Spectator’ writes in a highly critical tone of the way bidding was run up to exorbitant figures in the recent auction of blocks of land north and south of the Burra Special Survey.

@@ -24,6 +24,7 @@ topics:
 - picnic
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Monday Holiday passed quietly in Burra with picnics to Princess Royal and the Lagoon the main activity.  Redruth Wesleyan Sunday School picnic was held in one of the Koonoona paddocks.  Burra cricketers were successful at Clare.

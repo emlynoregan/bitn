@@ -18,6 +18,7 @@ topics:
 - mining
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield is reported to be as busy as ever- with barefaced grog selling.

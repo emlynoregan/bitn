@@ -18,6 +18,7 @@ topics:
 - mineral leases
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Leases – Kapunda Meeting of 28 October

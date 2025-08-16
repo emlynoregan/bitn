@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grand Tea in the Recreation Ground on Wednesday for the laying of the foundation stone of the Salvation Army Barracks.

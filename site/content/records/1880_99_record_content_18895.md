@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church Anniversary Services, 16 & 19 August.  Dinner 19th at 4 p.m. and a Grand Concert at the Institute at 7.30 p.m. followed by supper in the church.  Dinner 1/6, Concert 2/- & 1/-

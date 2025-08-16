@@ -21,6 +21,7 @@ topics:
 - electricity
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Electric Light. Holders of gas shares in England are in a panic over the invention in the USA of electric lighting.

@@ -21,6 +21,7 @@ topics:
 - community
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henry George who was to have lectured on the topic ‘The Land for the People’ has been unable to come.  Copies of his lecture in pamphlet form may be had free from Mr W.H. Hardy through this office.

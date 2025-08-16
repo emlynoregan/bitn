@@ -19,6 +19,7 @@ topics:
 - handicap
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.J. Worrell won the handicap.

@@ -20,6 +20,7 @@ topics:
 - injury
 - footbridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Theodore Bock fell on one of the footbridges near Paxton Square while going home from work at the brewery and broke his leg.

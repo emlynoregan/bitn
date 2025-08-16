@@ -23,6 +23,7 @@ topics:
 - legislation
 - overloading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 'A Looker-on' writes on 'How to destroy roads'.

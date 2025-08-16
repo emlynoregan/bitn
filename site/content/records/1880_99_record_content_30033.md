@@ -19,6 +19,7 @@ topics:
 - politics
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved that the district members be asked to move in Parliament for a return in detail of the cost of the Burra Waterworks to be laid on the table in the event of the deputation being unsuccessful.

@@ -18,6 +18,7 @@ topics:
 - meeting
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 BYMMIA is to throw its meeting open on the last Friday in May with readings, recitations, etc.

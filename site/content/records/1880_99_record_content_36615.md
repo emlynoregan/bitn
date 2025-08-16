@@ -20,6 +20,7 @@ topics:
 - dairies
 - public hygiene
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘A Dreemer’ suggesting that the cleanliness of Burra dairies needs attention.

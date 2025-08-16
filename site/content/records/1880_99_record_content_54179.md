@@ -21,6 +21,7 @@ topics:
 - village settlements
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Village Settlements.   After the address on Village Settlements at the Institute on Monday a committee was set up to collect subscriptions to assist those on the settlements.

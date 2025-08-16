@@ -22,6 +22,7 @@ topics:
 - tax
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He favoured the abolition of land auctions.  The Chinese who had been here for 40 years were quiet and useful ‘if they were kept in their place’, but he would not like to see the land overrun.  They were needed to develop the NT

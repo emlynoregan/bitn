@@ -26,6 +26,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. With respect to the water supply the Govt. has been awaiting the report of the Hydraulic Engineer. Cr Bartholomæus thought the trough in Market Square could be supplied from Statton & Henderson's Well if an agreement were made. Cr Geake thought if the Govt. carried out the scheme asked for, so many people would use it that the expense would be met and that the Govt. should not charge the whole expense of a scheme for Kooringa to the town after what they had done at Aberdeen. It could easily be shown that the expense would be repaid.

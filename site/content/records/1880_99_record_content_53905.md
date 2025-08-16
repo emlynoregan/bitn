@@ -21,6 +21,7 @@ topics:
 - fine
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Three cabbies did the same and George March & J. Drew were each fined 6/- while Charlie Grow was fined 11/-.

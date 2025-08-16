@@ -19,6 +19,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute monthly meeting of the committee took place and agreed to grant Mr Wittber the use of a room so he can offer a night class once a week gratis.  Starting 1st Friday in June 8-9.30 p.m.

@@ -23,6 +23,7 @@ topics:
 - business
 - auctioneering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Another new auctioneering company is being launched: Dempsey, Wilkinson & Sandland.  This will take over the business of Messrs Morris, Sandland & Barritt.

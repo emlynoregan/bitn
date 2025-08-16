@@ -18,6 +18,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ministers of Religion will now be allowed to become Councillors under changes just passed by the House of Assembly.  We hope that ministers will not avail themselves of this as it would have the potential to be very divisive and to arouse much unfortunate jealousy in towns.

@@ -25,6 +25,7 @@ topics:
 - mining
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Joseph Pascoe and his son, Thomas, were lucky to survive a blasting accident at Block 11 Mine Broken Hill last week.  A young man named Williams, who was soon to marry a young lady well-known in Burra, was killed instantly.

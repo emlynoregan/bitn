@@ -22,6 +22,7 @@ topics:
 - operations
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The clearing of Roach’s Shaft below the 60 continues, but because we have to haul water, mud and stuff 80 fathoms with a windlass and wheel, to Peacock’s, we are not making the progress we could wish.

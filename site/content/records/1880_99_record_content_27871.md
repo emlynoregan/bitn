@@ -26,6 +26,7 @@ topics:
 - local government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Councillors: Austin, Bagg, Baker, Kellick [sic], Killicoat, Klaebe, Sandland.  Mr Sandland was elected Chairman.

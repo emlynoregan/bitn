@@ -18,6 +18,7 @@ topics:
 - education
 - prize-giving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School prize-giving night was on 5 April.  The list of winners is published.

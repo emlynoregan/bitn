@@ -33,6 +33,7 @@ topics:
 - petition
 - timber
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Woodcarters’ Meeting was held on Saturday 12 May to petition the Government to repeal the obnoxious clauses of the mew timber-licence regulations.

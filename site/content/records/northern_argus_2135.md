@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Weather.  In 1986 Burra recorded 468.3 mm – a little above average.

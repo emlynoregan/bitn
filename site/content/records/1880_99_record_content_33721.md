@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Turnstile to be erected at the oval gate.  Moved by Cr Watt, but held over on Cr Sampson’s amendment.

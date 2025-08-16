@@ -19,6 +19,7 @@ topics:
 - community
 - festival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Festival of Carols drew a full house at the Civic Centre last Sunday night.

@@ -28,6 +28,7 @@ topics:
 - rent
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Eastern Selectors.  The local MPs Holder and Rounsevell presented a petition to the Commissioner of Crown Lands on Wednesday from 37 selectors in the Hundreds of Baldina, King and Rees, setting out their difficulties.  When they selected their holdings it was expected they could be successfully cultivated, but this has proved impossible and in the whole district more seed wheat has been sown than wheat has been harvested.  The majority of selectors have now expended all their capital and cannot even migrate to other parts of the colony.  The proposed District Council Act will bring further costs they cannot meet.  They ask for a reduction of rent to 2d an acre.  The Commissioner has refused the request because such a move will fall within the powers of the new Lands Boards which are due to be initiated ‘at an early date’. 

@@ -19,6 +19,7 @@ topics:
 - court
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Court 30 Sept. Fines for straying animals.

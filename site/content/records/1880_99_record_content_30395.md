@@ -19,6 +19,7 @@ topics:
 - events
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A meeting is called for 23 November at the Kooringa Hotel to organise a race meeting for 1 January 1889.

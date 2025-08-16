@@ -23,6 +23,7 @@ topics:
 - finance
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s vestry meeting on 22 April was chaired by Rev. H. Howitt.  The balance sheet was £1-2-5 in credit.  The minister’s stipend was fixed at £300 p.a.  Thanks were extended to Mr & Mrs Whitington for donating vases, to Mrs Warburton for a chalice and to Mr Couch for a screen.

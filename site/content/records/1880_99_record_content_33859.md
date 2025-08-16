@@ -19,6 +19,7 @@ topics:
 - survey
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas.  Land north of Douglas is to be surveyed and leased.

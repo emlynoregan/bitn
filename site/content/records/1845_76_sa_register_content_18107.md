@@ -23,6 +23,7 @@ topics:
 - agriculture
 - epidemic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The ford over the creek at Redruth was finished last Saturday and it presents a most creditable appearance for the contractors, who have been much delayed by the prevailing epidemic amongst working bullocks.  The first contractor for supplying the necessary timber lost 29 bullocks and the second lost 8.

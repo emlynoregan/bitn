@@ -22,6 +22,7 @@ topics:
 - mining
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  Captain Hancock has sent 16 varieties of copper ore from Moonta Mines for the Institute Museum.  A collection of silver-lead and silver ores from the Barrier Ranges has also been received recently.

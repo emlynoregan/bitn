@@ -19,6 +19,7 @@ topics:
 - demographics
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There is a detailed breakdown of occupational types of which the most pertinent figures are:

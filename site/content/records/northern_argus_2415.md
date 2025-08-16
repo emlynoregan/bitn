@@ -20,6 +20,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 ‘Come Out Week’ saw BCS students enjoy a variety of events including story telling by Kel Watkins, a parade through Market Square and the ‘Death Defying Theatre’.

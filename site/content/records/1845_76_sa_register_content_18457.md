@@ -21,6 +21,7 @@ topics:
 - school
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Church Sunday-school children had their abundance of fruit in the Burra Grammar School, which was filled to overflowing with children till dark.

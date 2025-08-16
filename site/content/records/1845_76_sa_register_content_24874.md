@@ -25,6 +25,7 @@ topics:
 - naming
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Naming of Townships and Hundreds

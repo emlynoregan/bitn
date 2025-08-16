@@ -19,6 +19,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Primitive Methodist Tea was well patronised and their Sunday school anniversary also went well.

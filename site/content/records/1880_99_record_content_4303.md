@@ -20,6 +20,7 @@ topics:
 - rates
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Freight Charges.  The editor argues for lower rates for the carriage of goods on railways on the grounds that much of the cost in the loading and unloading and the distance travelled is relatively less important.

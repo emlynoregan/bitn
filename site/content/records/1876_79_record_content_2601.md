@@ -17,6 +17,7 @@ topics:
 - event
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Double ploughs, 7/6 entrance with 1st prize £6, 2nd £3 and 3rd £l/10/-.

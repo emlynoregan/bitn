@@ -22,6 +22,7 @@ topics:
 - fire
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr L. Casely, son of Rev. R.S. Casely of Burra, lost his draper’s shop and contents in a fire at Petersburg on Monday.  Several other buildings were also destroyed.

@@ -18,6 +18,7 @@ topics:
 - community
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Parks: tall, slight, young, with a very dark complexion, surrounded by greyhounds, emblems of friendly societies and publications on the evils of drink.  Restless energy.  Modesty is not his most conspicuous characteristic.  Fluent of speech and not over courteous to his opponents.  Performs a little on the violin.  Supported by legal and other prominent men.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Blow for Blow was very creditably repeated on Wednesday night in aid of the Burra Oval Improvement Fund.  There was a good attendance.

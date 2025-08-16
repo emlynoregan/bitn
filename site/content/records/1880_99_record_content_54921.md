@@ -19,6 +19,7 @@ topics:
 - concert
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Albert Fairbairn Concert Co. played at the Institute on Wednesday night to a poor house.  It was a first class show which deserved a bumper house.

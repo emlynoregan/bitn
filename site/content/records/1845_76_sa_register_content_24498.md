@@ -19,6 +19,7 @@ topics:
 - gold
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  Reports say there are now not much more than 100 persons at the diggings, but that those are earning wages.  The public house is much quieter than when it was first started; the presence of police being a wholesome check.

@@ -20,6 +20,7 @@ topics:
 - sport
 - facility
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has granted the Burra Football Club free use of the oval for 25 June.

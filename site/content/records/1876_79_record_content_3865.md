@@ -22,6 +22,7 @@ topics:
 - anniversary
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Westbury Wesleyan Church celebrates its anniversary on 14 April when Rev. Thomas from Jamestown will officiate & on Good Friday evening Rev. R.W. Campbell will deliver a lecture on "Peter the Great, the Typical Russian."

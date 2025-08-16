@@ -21,6 +21,7 @@ topics:
 - smelting
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Smelting Works.  It is reported on good authority that the old Burra Smelting Co. [The English & Australian Copper Co.?] are about to erect a small furnace on their property for smelting purposes.  The object is to first treat the slag on their premises and then contract to smelt ore that may become available.  About 60 tons of slag is to be sent to Adelaide for testing.

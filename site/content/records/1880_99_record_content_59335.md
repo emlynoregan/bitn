@@ -19,6 +19,7 @@ topics:
 - theatre
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Seymour Forde Opera Co. put on The Bohemian Girl on Monday and drew an enthusiastic and larger crowd than on their last visit.  They repeated the show on Tuesday night.

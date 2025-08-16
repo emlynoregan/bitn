@@ -44,6 +44,7 @@ topics:
 - migration
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs William Henry Richards died at her residence near Hallett on Thursday aged 58, from influenza and inflammation of the lungs.  She had lived in Burra for about 15 years before moving to Hallett, where she had resided for the last 25 years.  She was a daughter of the late Mr Edward Godden and sister to Mrs Richard Collins of Mt Bryan and to Mrs J. Statton of Terowie.  She leaves 9 children and 19 grandchildren: Henry Richards (Chairman of DC of Coglin), T.E. Richard (Hallett), Horace Richards (Hallett), Mrs W. Summers (Terowie), Mrs W.H. Mill (Broken Hill), Mrs F. Rittberger (Broken Hill), Mrs Holmes (Adelaide), Mrs R. Simmons (Ulooloo) & Miss Edith Richards (Hallett).  The deceased arrived in SA in the Prince Regent in 1849 and was a colonist of 45 years.

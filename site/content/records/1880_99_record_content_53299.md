@@ -18,6 +18,7 @@ topics:
 - baking
 - cookery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 Scotch scones & 6 fancy scones	Mrs W.C.L. West

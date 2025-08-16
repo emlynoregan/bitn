@@ -19,6 +19,7 @@ topics:
 - defence
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government has intimated it cannot sanction the formation of further rifle clubs in the country as it is unable to supply rifles: its limited stock being needed for the active forces in case of accident.

@@ -18,6 +18,7 @@ topics:
 - horticulture
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr [H.C.] W. Fuss has grown some large pears.  We were shown 3 last Saturday that weighed 4½ lb and were delicious.

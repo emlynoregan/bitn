@@ -19,6 +19,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF met on Friday and adjourned till 28 Feb. for the election of officers, since when several recruits have joined.

@@ -18,6 +18,7 @@ topics:
 - earthquake
 - natural event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Black Springs News, 16 December

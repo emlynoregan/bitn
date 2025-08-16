@@ -20,6 +20,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Sunday School treats for children on Christmas Day at 3 p.m. with public tea at 4.30 p.m. and a meeting at 7.30 p.m.

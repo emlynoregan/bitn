@@ -32,6 +32,7 @@ topics:
 - local council
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial supporting a Constitutional Amendment to have half of the Legislative Council retire every three years.  (At the time 8 of the 24 retired every three years.)  This, said the writer, might remove such fossils as Messrs Tomkinson, Warren, Bosworth, Bright and Baker. It also provides for a Minister of Agriculture and Labour.

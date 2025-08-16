@@ -21,6 +21,7 @@ topics:
 - entertainment
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Christy Minstrels held a charity concert on Monday for Mrs Smith and family - only 2/3 full.

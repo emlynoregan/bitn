@@ -21,6 +21,7 @@ topics:
 - road
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The road through the Sod Hut Ranges is nearly finished.  As many men are out of work, it is a pity the valuator has yet to value the land in Broad’s section, through which the road has to pass, thus enabling all the work to be finished at the one time – especially as the money was voted for it in 1865.

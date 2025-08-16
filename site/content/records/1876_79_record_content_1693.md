@@ -19,6 +19,7 @@ topics:
 - race
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Races held at Hallett on Monday with foot races also.

@@ -19,6 +19,7 @@ topics:
 - community
 - Christmas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy on the idea that Christmas festivity is really the preserve of the poor.  The rich cannot eat more or better than they always do so it is the poor who really appreciate Christmas.

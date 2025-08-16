@@ -19,6 +19,7 @@ topics:
 - postal
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davieston now has a railway station, but the authorities still refuse a post office, though it was more required than the station.

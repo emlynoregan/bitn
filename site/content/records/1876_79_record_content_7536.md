@@ -19,6 +19,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor from `Jim' who explains that Mr I. Killicoat's advertisement to the effect that he intends to sell a cow and calf that has long been in his paddock is contrary to law which requires him to take the animals to the pound etc.

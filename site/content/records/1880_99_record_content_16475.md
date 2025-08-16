@@ -20,6 +20,7 @@ topics:
 - commerce
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Cash’ urging the daily publication of The Record and lamenting the lack of local business vitality that would, he says, provide prices comparable with Adelaide and so prevent the tendency of people to shop in the city.

@@ -21,6 +21,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital Board met on 21 September.  Bowen’s tender for removing the large ward was accepted for £3-17-6 plus 15/- for extra work.  All has been completed successfully.

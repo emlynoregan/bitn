@@ -24,6 +24,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elected for 1889: President, T. Edwards; Vice-President, Mr Furniss; Treasurer, Dr Brummitt; Hon. Sec. Mr Wilkinson.  [Committee included F.W. Holder.]

@@ -21,6 +21,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Opie has announced that he intends to carry passengers between Burra and Kapunda.

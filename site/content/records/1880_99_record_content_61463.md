@@ -19,6 +19,7 @@ topics:
 - legal
 - evidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Luke Day identified the brand, but had no personal marks on the items.

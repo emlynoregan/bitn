@@ -22,6 +22,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton entertained with his readings on Tuesday evening and Mr Ullman sang some songs, while the Messrs Moody also sang and Miss Stanton played some music.  £6 was collected for the piano fund.

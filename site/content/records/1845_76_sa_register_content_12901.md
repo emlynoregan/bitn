@@ -19,6 +19,7 @@ topics:
 - rail
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gawler to Kapunda is being constructed with completion expected in a few months.

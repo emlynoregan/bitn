@@ -22,6 +22,7 @@ topics:
 - animals
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘The Old Billy of All’ who again thanks the good people of the town for the general immunity the goats have enjoyed from the Inspector’s gun, and from O’Leary’s Pound (with few exceptions) and from ‘ecclesiastical anathemas’.

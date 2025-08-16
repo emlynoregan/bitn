@@ -26,6 +26,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr West moved the formation of a footway to Aberdeen, which was carried after much opposition from Cr Sampson.

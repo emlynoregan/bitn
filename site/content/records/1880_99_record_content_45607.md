@@ -25,6 +25,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 National Defence League.  A meeting was held on Wednesday evening in J. Lewis’s schoolroom to form a branch in Burra of the league.  Mr Hogarth spoke claiming they were not antagonistic to labour, but wanted to restore public confidence and encourage investment of capital.  A committee was formed comprising W. West (Mayor), A. McCulloch, T. Sandland, J. Lewis with R.M. Harvey as secretary pro tem.

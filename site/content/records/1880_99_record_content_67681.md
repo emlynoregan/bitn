@@ -17,6 +17,7 @@ topics:
 - advertisement
 - media_history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advertisements were more clearly differentiated from news than in earlier years of the 1890s.

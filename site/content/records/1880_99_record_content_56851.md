@@ -20,6 +20,7 @@ topics:
 - stray
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E. Wilcox	stray goat in Kooringa	2/6 + 5/-

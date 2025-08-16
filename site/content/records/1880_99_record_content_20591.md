@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway agreed with the seriousness of the situation.  Never had the number been greater.  They could not do enough for all.  He suggested a subscription list be launched which the Council could then subsidise and use for creating relief work.  A labour list should be opened at the office.  He thought they should be able to compel men to go to other work if it should be found for them.  He thought the Government should be putting embankments across Baldina Creek to provide work.

@@ -17,6 +17,7 @@ topics:
 - literature
 - ghost story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 18 Aug.	VI-XII		X			X		X	X	X			The Transferred Ghost

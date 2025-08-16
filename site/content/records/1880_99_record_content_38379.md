@@ -21,6 +21,7 @@ topics:
 - community
 - facilities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ discusses one of Burra’s several white elephants: the Recreation Ground or the Burra Oval as it is now usually called.

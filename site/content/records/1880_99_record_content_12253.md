@@ -19,6 +19,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Banquet tendered to Mr Burnett on Wednesday was very successful with many speeches.  [Mr Burnett was a great temperance campaigner.]

@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 8 February, at Redruth, Daisy Isabella McDonald, daughter of Robert and Agnes McDonald, aged 1 year 7 months.  [Born 27 June 1880]

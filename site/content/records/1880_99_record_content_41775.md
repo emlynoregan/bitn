@@ -18,6 +18,7 @@ topics:
 - education
 - examination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse School annual examination was on 12 June and resulted in an 89.62% average.

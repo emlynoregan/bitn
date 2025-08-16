@@ -21,6 +21,7 @@ topics:
 - presentation
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Robert’s valedictory and presentation meeting at the Kooringa Bible Christian Church is reported in more detail in ¾ column. He had been in Kooringa over 28 years.

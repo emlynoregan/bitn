@@ -18,6 +18,7 @@ topics:
 - council
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The scavenger arrangements do not need changing.  Money cannot be saved further at the cemetery.

@@ -19,6 +19,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The picnic turned out to be such a success that the committee is left with a considerable surplus when they has anticipated a deficit.  Mr Rounsevell has been thanked by the committee for the use of his mail cart on the day.

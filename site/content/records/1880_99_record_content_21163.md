@@ -19,6 +19,7 @@ topics:
 - New Year
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year.  Watchnight services were held in several churches: ‘that in the Barracks being prolonged for some time after midnight.’

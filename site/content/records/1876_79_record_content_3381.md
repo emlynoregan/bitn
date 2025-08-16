@@ -21,6 +21,7 @@ topics:
 - employment
 - management
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. (An ongoing advertisement for months to come) Notice to Mining Companies

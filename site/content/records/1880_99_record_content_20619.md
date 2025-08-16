@@ -17,6 +17,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Christmas Cheer Entertainment has so far sold c. £30 worth of tickets.

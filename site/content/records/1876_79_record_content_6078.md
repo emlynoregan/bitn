@@ -19,6 +19,7 @@ topics:
 - football
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Football Club Meeting at the Commercial Hotel 18 March, 8 p.m.

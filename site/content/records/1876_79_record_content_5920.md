@@ -19,6 +19,7 @@ topics:
 - employment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. William Dare of Piltimetiappa [various spellings are found of this] wants `An experienced wild dog catcher'. Pay £1 per head and ammunition and poison [next word is illegible: possibly `issued']

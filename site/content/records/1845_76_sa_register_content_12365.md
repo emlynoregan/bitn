@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - mail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The mails have been late recently.  The trouble appears to lie between Gawler and Kapunda.

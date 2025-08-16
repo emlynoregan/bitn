@@ -22,6 +22,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R. Daddow writes suggesting that the claims of candidates Pascoe and Duncan to be independent are doubtful: each of them having admitted to Daddow that he would withdraw in favour of the other if desired to do so by the National Defence League.

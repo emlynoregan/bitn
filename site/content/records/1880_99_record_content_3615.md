@@ -19,6 +19,7 @@ topics:
 - tender
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Readvertised tender for the painting and repair of the Burra Post & Telegraph Office.

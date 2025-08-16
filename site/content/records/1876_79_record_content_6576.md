@@ -18,6 +18,7 @@ topics:
 - municipal
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 2nd Leader on Municipal Reforms. It was seen as desirable to consolidate the half dozen Acts solely on Corporations plus a score of others partly on them.

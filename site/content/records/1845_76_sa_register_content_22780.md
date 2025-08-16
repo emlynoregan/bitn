@@ -22,6 +22,7 @@ topics:
 - leases
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Meeting.  After the meeting held on Wednesday to consider the project of erecting a flour mill, another was formed to consider the action of the SA Mining Association with respect to renewing leases.  As a result the Chairman of the meeting Mr T. Moody and Mr W. West will write to the company asking whether they would sell the freeholds and upon what conditions new tenancies would be created.

@@ -23,6 +23,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Beta – a subscriber of £25 altogether’ writes re the Redruth Church

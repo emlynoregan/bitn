@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Westbury Church anniversary was held on 10 April.  The annual service was in aid of the trust funds and the tea meeting was on 15 April.  Over £18 was raised.

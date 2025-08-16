@@ -20,6 +20,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Primitive Methodist Church Anniversary, 10 & 11 May.

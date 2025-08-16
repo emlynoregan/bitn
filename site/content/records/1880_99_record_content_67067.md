@@ -22,6 +22,7 @@ topics:
 - court
 - stock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Harris was charged by J. O’Connell ranger for Mt Bryan DC with rescuing impounded cattle.  After a regular set-to in court the SM dismissed the charge.

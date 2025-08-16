@@ -19,6 +19,7 @@ topics:
 - inspection
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Country Public Houses.  A letter to the editor says that while there are many good country hotels, far too many are terrible and an efficient system of inspection is badly needed.  Relying on the police is not a good system because circumstances often mean the police have to eat at hotels and the nature of their business also means they frequently need to develop a relationship with licensees in order to obtain information etc.  This compromises their ability to also be inspectors of the premises.

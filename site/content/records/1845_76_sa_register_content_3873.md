@@ -33,6 +33,7 @@ topics:
 - wages
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Edward Barnes, ore-dresser, was charged on suspicion of having altered an order drawn by Thomas H. Williams, Superintendent of the Patent Copper Co. works, on the Manager of the same company.  Joseph Wood, clerk at the Patent Copper Co., said he had compared the order with its counterpart and said it had been clumsily changed from £2 to £2-15-0.  The order was drawn in favour of C. Jacques.  Charles Jacques said he recalled receiving the £2 order, but could not recall to whom he paid the order.

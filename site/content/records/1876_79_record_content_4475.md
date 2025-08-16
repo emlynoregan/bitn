@@ -18,6 +18,7 @@ topics:
 - law
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The poll on the loan. There has been some comment in town on the use of an open poll rather than a secret ballot, but this is so provided for in the Act of 1861.

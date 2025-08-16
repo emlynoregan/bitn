@@ -27,6 +27,7 @@ topics:
 - animals
 - road damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences. As usual a number of cases were concerned with animals that were in the wrong place. This session most were illegally depastured on Crown lands. Most sessions had several cases of straying animals within the town.

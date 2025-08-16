@@ -22,6 +22,7 @@ topics:
 - real estate
 - farm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W.T. Rabbich is selling ‘Wattle Grove’ near Aberdeen comprising sections 47, 43, 39, & 57 = 668 acres.  [i.e. the farm at Cobb & Co.’s Corner.]

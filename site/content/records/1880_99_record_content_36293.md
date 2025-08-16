@@ -21,6 +21,7 @@ topics:
 - meeting
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Amalgamated Shearers’ Union of Australasia will meet at Opie’s Hotel, Aberdeen on Monday 28 April at 7 p.m.

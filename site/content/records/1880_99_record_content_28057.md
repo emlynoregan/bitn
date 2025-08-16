@@ -20,6 +20,7 @@ topics:
 - mining
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The monthly meeting approved the rental of a room to the directors of the Black Hills Proprietary Silver Mining Syndicate for use as an office.

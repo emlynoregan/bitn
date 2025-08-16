@@ -20,6 +20,7 @@ topics:
 - wheat
 - crop failure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Around Burra wheat prospects are very poor in some cases failing to germinate after two sowings.

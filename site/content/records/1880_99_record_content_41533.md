@@ -19,6 +19,7 @@ topics:
 - election
 - retirement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thanks to Hon. H.E. Bright, who has just been defeated at the Legislative Council elections.  He has served the colony well as a Member of Parliament for twenty-four years and retires at 72, though no doubt he will continue to be heard from.

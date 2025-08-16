@@ -19,6 +19,7 @@ topics:
 - law
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Saturday a seaman from the Storm Cloud was brought to Kooringa charged with having deserted his wife three years ago, but upon arrival the woman found he was not her husband.

@@ -20,6 +20,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At last a match has been arranged for 1 January against Saddleworth on the Burra Oval.

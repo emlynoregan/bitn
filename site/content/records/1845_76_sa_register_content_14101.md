@@ -22,6 +22,7 @@ topics:
 - government
 - volunteer corps
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We now have among us a police-trooper who was lately employed as a drill instructor, so one of the Government’s objections to having a volunteer corps here is removed.

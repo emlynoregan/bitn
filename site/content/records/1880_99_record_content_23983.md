@@ -30,6 +30,7 @@ topics:
 - local government
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The new Council met.  Mr Holder, Mayor, and Mr Cave, Town Clerk.  Details are given of the wages of employees for the coming year which resulted in a savings overall of £115 compared with 1886.  The new members, Messrs Holder, Killicoat, Harris and W. Pearce were welcomed.  Committees were appointed.

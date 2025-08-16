@@ -21,6 +21,7 @@ topics:
 - tenders
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The SA Mining Association calls tenders for the purchase of from 1,000 to 50,000 (28 x 18½ inch ore bags of first rate quality, deliverable either at the Burra Burra Mine or in Adelaide.  Tenders close 11 a.m. 15 December 1863.  Sample bags may be seen at the office.

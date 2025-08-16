@@ -18,6 +18,7 @@ topics:
 - legislation
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbit Bill has passed through the Houses of Parliament and the Lower House has only to agree to two or three minor changes.

@@ -20,6 +20,7 @@ topics:
 - politics
 - rumours
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government.  The rumours that Sir John Bray might join the cabinet and T. Playford take the Speakership have been denied.

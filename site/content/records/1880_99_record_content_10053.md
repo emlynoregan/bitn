@@ -18,6 +18,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the vote of no confidence in the Government moved by Mr Coles.  It is not expected to succeed.

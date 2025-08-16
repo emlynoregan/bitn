@@ -18,6 +18,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The evening performance in the Institute found the hall ⅔ full.  It was a good program, if a little uneven.

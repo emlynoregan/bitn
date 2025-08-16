@@ -17,6 +17,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [A number of those present are listed.]

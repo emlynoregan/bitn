@@ -20,6 +20,7 @@ topics:
 - politics
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the rising power of the Labor Movement in SA and in Parliament - approving the change and commenting on the efforts of the very conservative National Defence League.

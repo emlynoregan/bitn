@@ -18,6 +18,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Town Rate.  The writer approves of its staying at 1/- in the £, especially as it maximises the Government subsidy which is soon to end.

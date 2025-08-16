@@ -21,6 +21,7 @@ topics:
 - labor
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 H. Nicholas of Spring Hill Farm, Salt Creek, writes re stationmen on 30 April.

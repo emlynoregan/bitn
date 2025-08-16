@@ -22,6 +22,7 @@ topics:
 - farewell
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Alison Kerr & Allan Dwyer will be farewelled this week.  Allan goes to take a position in Broken Hill as Deputy Town Clerk and Alison has a position with the Thebarton City Council.

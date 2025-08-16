@@ -31,6 +31,7 @@ topics:
 - newspaper
 - discipline
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter from F.J. Carey complained of harsh treatment by the Inspector.  Mr Carey implied in his complaint that various infringements relating to a stray cow were insignificant and the cow was within 100 yards of its destination when they occurred.  The Inspector’s book showed that Carey had been summoned 7 times in 10 years and that far from being near home the cow was apprehended in various parts of the town.  The letter to lie on the table till next meeting.

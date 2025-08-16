@@ -21,6 +21,7 @@ topics:
 - police
 - larrikinism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Any Other Man’ challenges the validity of W.H. Hardy’s attack on the police and larrikinism.

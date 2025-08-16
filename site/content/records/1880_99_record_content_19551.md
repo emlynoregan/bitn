@@ -25,6 +25,7 @@ topics:
 - land
 - pricing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The works were in a ragged state and at present they could not undertake any definite supply.  Things would be thrown out of gear in a couple of months by the installation of the new engine.

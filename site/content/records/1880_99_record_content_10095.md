@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Primitive Methodist Chapel Springbank, anniversary 17 June.  (Mr Holder to preach in the evening)  Tea meeting on 20 June.

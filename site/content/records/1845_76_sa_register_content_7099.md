@@ -25,6 +25,7 @@ topics:
 - legal
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 NSW Gold from the Sydney Morning Herald of 1 August.

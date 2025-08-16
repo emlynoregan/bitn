@@ -20,6 +20,7 @@ topics:
 - education
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 F.W. Holder writes to assure all that the instruction in his school over the previous two years was exactly similar to that which will be obtained in the new public school, though the room will allow the instruction there to be more `convenient, useful, easy and effective.'

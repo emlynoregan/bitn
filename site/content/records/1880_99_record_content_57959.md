@@ -19,6 +19,7 @@ topics:
 - business
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr A.C. Noyes, because of the generous support accorded over the last five years will not return to England as anticipated, but will continue his musical profession in Burra.

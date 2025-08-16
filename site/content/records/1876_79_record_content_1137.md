@@ -19,6 +19,7 @@ topics:
 - legal
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Henry Burgess charged with `furious riding at Redruth' and fined £2 or 14 days.

@@ -20,6 +20,7 @@ topics:
 - administration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Following the dismissal of our telegraph and postmaster the management of the post office is in rather an unsatisfactory state at present, but I understand that Mr Belcher from the Clare office will soon take command here.

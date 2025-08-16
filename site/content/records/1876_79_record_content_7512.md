@@ -23,6 +23,7 @@ topics:
 - cemetery
 - misconduct
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The cemetery has been enlarged by a strip 100' wide which has now been walled. The debt to the cemetery has been repaid and part spent on the alterations with the rest invested in Corporation bonds. The cemetery lost £12 by Mr Fogg's misdemeanour. The Midland road board has undertaken to deal fairly with the question of road approaches, but are not committed until they view them in a week or two. Dr Nesbitt then presented figures suggesting that in 1880 there should be c. £800 for public works which compares with £827-4-6 this year if we exclude the bridge expenditure. Mr Roberts wanted to know how the cemetery lost £ 12. At the time it was not clear how much was missing as there were no vouchers. [Apparently it was not clear whether it was simply vouchers that were missing, or whether money had been misappropriated. It then became clear that a £12 cheque had been misappropriated.] Mr Fogg was not worth as many shillings as there were pounds in the missing cheque so it was not worth the expense of prosecuting him. He has promised to repay it when able.

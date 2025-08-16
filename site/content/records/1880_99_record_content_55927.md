@@ -20,6 +20,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On 23 January at Victoria Park: St Mary’s 50 v. 7 for 71 & Burra 120.

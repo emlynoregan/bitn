@@ -35,6 +35,7 @@ topics:
 - railway
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of Mrs Foy held at the Burra Hospital 25 November. [Though stated in the paper as December 25] at 12 o’clock.

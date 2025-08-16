@@ -21,6 +21,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. There will be a match played tomorrow on the ground near the German Church. The conclusion of the Burra v. True Blues saw a victory to the boys. True Blues 100 & 103 (203) defeated

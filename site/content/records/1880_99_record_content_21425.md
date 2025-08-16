@@ -19,6 +19,7 @@ topics:
 - community
 - nomenclature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Burra’.  An article from the Northern Argus reports on the use of the term ‘The Burra’ and says that the local people are giving up the use of the definite article.

@@ -21,6 +21,7 @@ topics:
 - library
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Elected to the Board: Chairman, Sue Warnes; Vice-Chairman, Helen Stockman; Secretary, Betty Thamm and Treasurer, Tess Hopkins.

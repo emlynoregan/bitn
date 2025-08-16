@@ -21,6 +21,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: on 14 February at Kooringa to the wife of C.J. Pearce two premature daughters.  [Annie Coles Pearce and Leah Donaldson Pearce]

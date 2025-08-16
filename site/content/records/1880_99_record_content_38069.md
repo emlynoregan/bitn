@@ -20,6 +20,7 @@ topics:
 - strike
 - customs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the budget brought down by Mr Playford on Thursday.  The writer found the income expected was rather optimistic, especially given the unresolved strikes at present.  Customs receipts will be down.

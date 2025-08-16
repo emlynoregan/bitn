@@ -23,6 +23,7 @@ topics:
 - picnic
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year’s Day saw many picnics at Sod Hut, Princess Royal and, most popular of all, at the Lagoon.  The day was beautifully fine.  No sports were played here, but St Mary’s Cricket Club went to Manoora and returned victorious.  New Year was welcomed with very little activity from the larrikins.  No special constables were appointed.  Some guns were fired and 1896 was ushered in with the usual congratulations.

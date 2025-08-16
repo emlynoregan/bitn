@@ -30,6 +30,7 @@ topics:
 - corporate governance
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 23 January 1847, page 3

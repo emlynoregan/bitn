@@ -18,6 +18,7 @@ topics:
 - taxation
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Land Question: land grabbers, monopolists and Land Boards.  The writer believes the single tax idea would force the large landholders to disgorge and enable people to settles on the land.

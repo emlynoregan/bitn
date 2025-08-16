@@ -21,6 +21,7 @@ topics:
 - safety
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Another kerosene lamp has exploded on a train - this time on the Melbourne Express last Wednesday - the train was stopped and the fire extinguished, but how long before another person dies?

@@ -34,6 +34,7 @@ topics:
 - police
 - hotels
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bench of Magistrates, Monday 21 March

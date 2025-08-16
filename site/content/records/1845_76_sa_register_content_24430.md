@@ -20,6 +20,7 @@ topics:
 - mining
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  There are reports of some good finds, with one group said to have obtained a pound weight of gold in three weeks.  Some are making fair wages, but many are getting next to nothing.  People are constantly arriving, but others are leaving.  There are objections to the opening of a public house, but a sly grog joint was likely to have appeared all to soon if this had not been allowed and a licensed in is surely preferable.  Residents are hoping police will soon be sent to the field.

@@ -21,6 +21,7 @@ topics:
 - cricket
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Not Cricket? Manoora responds to O’Brien’s outburst.  The Club protests that it was a ‘false and ungentlemanly attack on members of the Manoora Cricket Club’.  O’Brien is a ‘Captain [who] by his own men’s confession held or usurped the position they did not know how or why.’  The allegation that the wicketkeeper kicked down the stumps is dismissed as false.  No starting time was fixed and the luncheon problem lay with the publican not the Manoora Cricket Club.  As for having to pay for it: ‘it was only what we did when visiting Aberdeen’.  As for the language issue: -  ‘Those who live in glass houses should never throw stones.’  The reason he took his men from the field was simply ‘they funked on the game, and were glad of any excuse to bring it to a conclusion.’

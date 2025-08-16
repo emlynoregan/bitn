@@ -30,6 +30,7 @@ topics:
 - rape
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Supreme Court Adelaide before the Acting Chief Justice, 19 February.

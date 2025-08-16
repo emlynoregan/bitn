@@ -19,6 +19,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Bazaar on Friday 15 December at the Institute and in the evening there will be Music and Tableaux.

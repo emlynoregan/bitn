@@ -17,6 +17,7 @@ topics:
 - weather
 - holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Monday Holiday passed quietly.  The weather was annoying with high wind, raised dust and flying gravel.

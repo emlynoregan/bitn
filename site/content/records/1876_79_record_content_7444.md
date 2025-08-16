@@ -26,6 +26,7 @@ topics:
 - officers
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Corporation of the Town of Burra Retiring Municipal Officers 1 December 1879.

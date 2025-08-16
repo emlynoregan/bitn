@@ -20,6 +20,7 @@ topics:
 - public_health
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison baits are again being laid in Redruth where 20 were picked up on Monday and in Kooringa too several dogs have been destroyed.

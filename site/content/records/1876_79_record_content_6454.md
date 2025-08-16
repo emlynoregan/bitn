@@ -19,6 +19,7 @@ topics:
 - community
 - Cornish Distress
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. A meeting is called at the Institute on Friday evening to arrange means of raising money for the Cornish Distress Relief Fund.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  At Port Adelaide last week 388 departed and 225 arrived.

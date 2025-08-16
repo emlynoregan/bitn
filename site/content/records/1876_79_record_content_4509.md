@@ -20,6 +20,7 @@ topics:
 - business
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Stock Sale. Last Friday’s sale was the biggest ever in Burra, realising about £7,000 and bringing much business into the town.

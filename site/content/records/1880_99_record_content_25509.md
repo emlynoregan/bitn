@@ -21,6 +21,7 @@ topics:
 - concert
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Church is holding a Jubilee Tea and Concert in the Institute on 24 May.  Tea 4.30 p.m. and Concert 7.30 for 8.00 p.m.

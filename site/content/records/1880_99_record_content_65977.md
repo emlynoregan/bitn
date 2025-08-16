@@ -18,6 +18,7 @@ topics:
 - weather
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cinematographe received a very fair audience considering the very poor weather on Saturday: rain and strong wind.

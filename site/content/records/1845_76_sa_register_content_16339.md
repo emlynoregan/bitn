@@ -24,6 +24,7 @@ topics:
 - construction
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for additions and alterations to the Redruth Gaol and for alterations and repairs to the Police Station at Redruth.  Drawings and specifications can be seen at the Redruth Police Station or at this office: The Engineer and Architect’s Office, Adelaide.  W. Hanson, Engineer and Architect, 14 January.

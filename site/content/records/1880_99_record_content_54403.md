@@ -18,6 +18,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Work is to be found in North Ward for two very needy cases of unemployed men.

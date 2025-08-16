@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra High School Grand Variety Concert with proceeds to provide Christmas Cheer for children of the unemployed.  6d.

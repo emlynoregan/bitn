@@ -28,6 +28,7 @@ topics:
 - funeral
 - lodge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  On Friday last, at the Smelting Works, a scaffolding thirty feet high collapsed and took with it an unfortunate mason, named John Fox.  He fell amid a pile of stones and timber and was badly mutilated.  Drs Bull and Bryden attended, but he was beyond human aid.  He died on Sunday.  An inquest on Monday by Mr Lang found he had met his death by pure accident.  His funeral on Tuesday was accompanied by a very large crowd including the Burra Burra Lodge of Oddfellows in deep mourning regalia.  At the head of that group were Rev. J. Lowe, the Wesleyan Minister and Dr Bull, the lodge surgeon.  A large collection of the lodge Brothers followed and then the workmen of the Patent Copper Co., with a large number of townsfolk after that.  We understand that the Oddfellows’ Lodge is bearing the full cost of the funeral even though the deceased had not been a member long enough to qualify for funeral benefits.

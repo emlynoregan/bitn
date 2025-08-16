@@ -19,6 +19,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Railway.  The rails are now laid across the border and the plate laying to Silverton should take only about 6 weeks once the rails arrive.

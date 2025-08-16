@@ -20,6 +20,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church Anniversary, 20 May with a flower service in the afternoon.  The tea meeting is on 24 May.

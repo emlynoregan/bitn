@@ -21,6 +21,7 @@ topics:
 - brewery
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.H. Catchlove & Co.	The Unicorn Brewery, Kooringa

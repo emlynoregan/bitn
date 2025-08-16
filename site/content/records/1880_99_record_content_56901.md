@@ -27,6 +27,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Coursing Club met on Monday at the Royal Exchange Hotel and elected: President, F. Treloar; Chairman, G. Parks; Sec. & Treasurer, D.A. Crosby; Patrons, Messrs J.J. Duncan, G.H. Lake, W.B. Rounsevell & W. Waite.

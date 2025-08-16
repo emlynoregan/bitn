@@ -17,6 +17,7 @@ topics:
 - finance
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Receipts for the last six months: £862-13-9

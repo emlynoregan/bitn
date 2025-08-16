@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Avenue is a failure as far as the planted sugar gums are concerned.

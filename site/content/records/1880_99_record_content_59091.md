@@ -23,6 +23,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Bible Christian Church held its Anniversary 22 & 25 December, when Rev. T.M. Flood.  The tea meeting was on Christmas Day and financial results were satisfactory.

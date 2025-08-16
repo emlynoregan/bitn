@@ -26,6 +26,7 @@ topics:
 - construction
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The original idea was to use the old Mine Hospital near Aberdeen [Bleak House] and SAMA directors donated the land and building for that purpose. On 1st meeting of the committee 4 Oct 1875, John Drew (Chair), J.D. Cave (Sec.), Drs Gosse, Peel and Jackson - local practitioners were invited to advise on the adaptations needed. Designs were drawn up and a contract let to G & W Sara for £1,791/14/- and the property was valued at £467/16/- and its land at £100. A Public subscription of £612 in addition to the Govt. subsidy was needed.

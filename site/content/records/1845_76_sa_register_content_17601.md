@@ -18,6 +18,7 @@ topics:
 - politics
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Our worthy Member Mr Cole has placed his resignation in the hands of his supporters.

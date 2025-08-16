@@ -23,6 +23,7 @@ topics:
 - weights_and_measures
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inspector Gray charged Charles Parks with selling a 2 lb loaf that was 1½ oz light.  Mr Winnall, for Parks, tried to show that:

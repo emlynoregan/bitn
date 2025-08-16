@@ -21,6 +21,7 @@ topics:
 - criticism
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson returned and explained that he repeated what he had said above and denounced the action of the Mayor in strong terms and said the breakage at the Waterworks was one that should have received immediate attention.

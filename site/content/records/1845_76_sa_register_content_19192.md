@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Subscriber’ writes from Kooringa 9 February:

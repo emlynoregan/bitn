@@ -26,6 +26,7 @@ topics:
 - finance
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Guarantor’ writes asking for more extended accounts of Council meetings.  The discussion with regards to the trees was too mean and ridiculous to require further comment.

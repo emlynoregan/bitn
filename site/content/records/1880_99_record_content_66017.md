@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Karitorama.  Kooringa Wesleyan Sunday school teachers and scholars met on 16 January and decided on a Karitorama or Fancy Fair for 29 March, with the aim of cancelling out the circuit debt before the arrival of a new minister.  On Wednesday last the stalls were well stocked and the Karitorama ran from 3 to 10 Wednesday and 7 to 10 Thursday and in all raised £26.  [The debt was £35.]  Details of who did what are printed.

@@ -20,6 +20,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Tomorrow Davey’s Brass Band will attend the opening of the season when 11 of the Burra Club will play 18 of the Muffs Club.

@@ -24,6 +24,7 @@ topics:
 - yacht
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 12 noon.  Senior Yacht Race for those 15 and under.

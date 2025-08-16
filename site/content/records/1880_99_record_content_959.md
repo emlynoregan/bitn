@@ -20,6 +20,7 @@ topics:
 - relief
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Irish Relief Fund reports receiving £62,735 from Australasia, of which Adelaide sent £4,500.  The entire fund then stood at £100,649, of which about half has been distributed.  Adelaide has since sent a further £300.

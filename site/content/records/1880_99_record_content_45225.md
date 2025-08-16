@@ -20,6 +20,7 @@ topics:
 - theft
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fraud.  A number of townsfolk and businessmen have been cheated by a woman purposing to be a London dressmaker who set up business and obtained materials from individuals and shops on approval before leaving quietly with them for Adelaide and thence to Melbourne.

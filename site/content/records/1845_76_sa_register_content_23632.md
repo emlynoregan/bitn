@@ -26,6 +26,7 @@ topics:
 - missing_person
 - search
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  On 17 August William Lillywhite, a carpenter lately of Boolcoomatta in the Northeast was travelling to Kooringa in a dray with his wife and seven children.  At Parnaroo while he was gathering his bullocks six of the children went looking for wild peaches in the scrub.  They returned without their sister aged 5, whom they had thought was at the tent.  It immediately set in bitterly cold and raining and continued thus two days and nights.  Despite much local help in searching as well as their own endeavours no trace of the girl was found.  Police and Aboriginal trackers were called in and the search continued without result for 14 days.  The child had been born in the bush and never saw a town.  She had been excited at the prospect of seeing Burra.

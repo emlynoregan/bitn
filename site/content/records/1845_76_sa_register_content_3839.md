@@ -22,6 +22,7 @@ topics:
 - mining
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Thomas Burr of Exchange Buildings, Adelaide, will undertake surveys and plans of mines, estates, townships or runs.  Lands containing, or supposed to contain metalliferous minerals examined and reported upon.  Analyses or assays of metalliferous minerals undertaken.

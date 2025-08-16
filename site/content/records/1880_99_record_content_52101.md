@@ -27,6 +27,7 @@ topics:
 - religion
 - animal accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army.  Captain Berry and Lieut. McGill who have been in charge here for some months are now removed to greener pastures to be succeeded by Captain Southcott from Willunga and Lieut. Barrett from Clare.

@@ -20,6 +20,7 @@ topics:
 - sports
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The program of events was well run.  (The pig with a greasy tail event was won by T. Hall. [Halls?])  Kicking the football was won by A. Lott.

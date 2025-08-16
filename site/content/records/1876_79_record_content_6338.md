@@ -20,6 +20,7 @@ topics:
 - corporation
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 SAMA is to be asked to reserve to the Corporation 10' on either side of the new bridge, or 50' width in all.

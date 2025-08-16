@@ -22,6 +22,7 @@ topics:
 - pedestrianism
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pedestrianism.  A match for £15 has been arranged between W.H. Watson of Burra & W.E. Mugg of Kapunda - to be contested over 150, 220, and 440 yards.

@@ -24,6 +24,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James Tiver has written to the Central Road Board complaining that some person wilfully damaged the foundations of the bridge he was building over the Burra Mine Creek occasioning him a loss of £20.  He seeks reimbursement.  The Board will consider this claim upon completion of the contract.

@@ -23,6 +23,7 @@ topics:
 - death
 - missing person
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Flood.  Lance-Corporal Smith has returned without a body.  The stream is deep in many places and a strict search is not presently possible.  Immense quantities of sand have been washed from the creek near the mine and the body might well be covered, perhaps never to be seen again.  The missing man’s name is either Patrick or John Coy.  He has left a small sum in the hands of the landlord at the Miners’ Arms.

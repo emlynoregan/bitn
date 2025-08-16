@@ -24,6 +24,7 @@ topics:
 - hotel
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 30 May 1862, page 1

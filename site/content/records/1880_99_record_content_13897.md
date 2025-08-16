@@ -22,6 +22,7 @@ topics:
 - meeting
 - unemployed
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  W. Chynoweth [Chenoweth] & W.H. Hardy, Convenors, call a Mass Meeting of Unemployed Working Men in Burra at Harry & Burns shed on Friday [25 July] at 8 p.m.

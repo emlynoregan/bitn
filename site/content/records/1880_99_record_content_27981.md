@@ -20,6 +20,7 @@ topics:
 - mining
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Gold & Silver Find.  This find of Mr Collins’s is right opposite the Bible Christian Chapel where road metal has been taken for years.

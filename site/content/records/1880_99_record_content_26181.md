@@ -20,6 +20,7 @@ topics:
 - water
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Thow still objects to using Corporation water at the railways, claiming that firstly it was unsuitable for the engines and secondly they already employed an engine cleaner who attended to the pumping without extra cost.

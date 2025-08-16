@@ -20,6 +20,7 @@ topics:
 - sport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra 11 v. True Blues 15 at Brewery Flat.  Burra 115 defeated True Blues 59

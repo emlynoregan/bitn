@@ -24,6 +24,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Father Aloysius Kreissl was farewelled on Saturday evening last after 14 years at the catholic Mission here.  He was given an illuminated address.  The weather prevented many from attending and so did the hour of 6 p.m.  When he came in 1870 they were using a small and unpretentious building, but now a beautiful church and schoolhouse.  He thanked SAMA for donating the land and their agent, Mr West, for his courtesy at all times.  He will be followed by Father O’Dowling.

@@ -19,6 +19,7 @@ topics:
 - finance
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra £5 scrip was yesterday quoted at £80, making their half of the Special Survey worth £200,000.  It is confidently expected that the price will soon be £100 for a £5 share.

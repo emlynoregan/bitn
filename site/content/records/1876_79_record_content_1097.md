@@ -17,6 +17,7 @@ topics:
 - hospitality
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 "An ordinary daily at one" (i.e. a meal at a fixed price)

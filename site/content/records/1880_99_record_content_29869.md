@@ -19,6 +19,7 @@ topics:
 - crime
 - murder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Whitechapel Murders.  There have been two more horrible murders in London.

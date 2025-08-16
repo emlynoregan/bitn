@@ -20,6 +20,7 @@ topics:
 - community event
 - amateur performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.  There will be an Amateur Entertainment at the Burra Institute on 1 August: songs recitations and music.

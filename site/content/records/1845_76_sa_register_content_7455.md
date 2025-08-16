@@ -19,6 +19,7 @@ topics:
 - organization
 - advocacy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Leases.  A Committee and Secretary have been appointed to communicate with other mineral districts and to agitate for the achievement of the desired objectives.

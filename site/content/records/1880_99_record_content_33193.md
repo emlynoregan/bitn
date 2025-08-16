@@ -21,6 +21,7 @@ topics:
 - health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.R. Harley writes recommending his treatment for a heart condition at the Burra Hospital under Dr Sangster and encouraging others not to fear the hospital as a place of death, by those who have a great antipathy to enter the same.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The River Broughton Mining Co. also has men at work and some nice specimens from the bottom of their shaft have been sent in.

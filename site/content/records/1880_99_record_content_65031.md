@@ -20,6 +20,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cabs run from Redruth to Kooringa hourly.  All trains met.  Horses and traps on hire.

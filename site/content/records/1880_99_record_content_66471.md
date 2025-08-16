@@ -20,6 +20,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Lantern Service at the Kooringa Wesleyan Church last Sunday evening was successful.  Among the hymns illustrated was Work for the Night is Coming.

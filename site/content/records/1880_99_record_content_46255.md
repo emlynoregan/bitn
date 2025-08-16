@@ -19,6 +19,7 @@ topics:
 - column
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [These two cases are the subject of a supposedly humorous half column as well as the court report in which it is stated that Senerson (though not named in the column) was a bottle collector.]

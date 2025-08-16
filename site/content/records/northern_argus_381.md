@@ -21,6 +21,7 @@ topics:
 - community
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ash Thomas, the new doctor, his wife Katthy and daughter Bonnie are welcomed to Burra.

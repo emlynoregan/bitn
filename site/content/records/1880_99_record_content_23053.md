@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Petersburg people are urging that the break of gauge be at their town.  Those in Terowie are obviously opposed.

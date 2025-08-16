@@ -21,6 +21,7 @@ topics:
 - inquest
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Other evidence came from J. Harvey, M-C Sydney Benham, L-C Daniel Thomas & H. Vivian.

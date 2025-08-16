@@ -18,6 +18,7 @@ topics:
 - accident
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A lamp exploded in the Miners' Arms billiard room and scattered itself and fuel over a table, but it was after the lights were out at night and no fire resulted.

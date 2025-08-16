@@ -21,6 +21,7 @@ topics:
 - legal
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 David Edwards, James Symons and Edward Stevens were fined 5/-, 20/- and 10/- respectively with costs for illegally depasturing cattle on crown lands.

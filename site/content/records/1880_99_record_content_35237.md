@@ -20,6 +20,7 @@ topics:
 - railway
 - kerosene
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hon. J. G. Ramsay was fatally burned in his railway carriage last Friday when a lamp burst and kerosene poured over him.  Two years ago Colza oil was abandoned in favour of kerosene, though kerosene gives little better light and Colza oil was 100 to 1 safer.  [Colza or colsa oil is made from the rape plant, once known as cole, from which cole-seed. (Canola)]

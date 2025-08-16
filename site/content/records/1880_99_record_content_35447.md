@@ -21,6 +21,7 @@ topics:
 - injury
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stephen Crossman, late of Burra and an engine driver for the SAR, slipped when uncoupling some trucks at Gladstone last Friday and hurt a foot, necessitating its amputation.

@@ -19,6 +19,7 @@ topics:
 - land
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Lot 8: Section 2009 of 70 acres in County Stanley at the source of the Wakefield.

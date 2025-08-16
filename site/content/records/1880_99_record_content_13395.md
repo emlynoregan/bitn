@@ -19,6 +19,7 @@ topics:
 - politics
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Queensland Government’s decision to substitute Crown Lease for fee simple to prevent further alienation of Crown Lands.

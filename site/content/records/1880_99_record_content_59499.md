@@ -33,6 +33,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J.A. Watt was given a grand send-off at the Town Council Chamber on Thursday afternoon with a large gathering representing all classes in the town.  The Mayor gave a speech regretting the loss of such a prominent citizen after 18 years.  Mr Watt had taken a keen interest in military affairs and he believed the very existence of the Burra Mounted Rifles was due to Mr Watt’s enthusiasm.  Mr Watt had also contributed greatly to many a charitable effort.  He handed to Mr Watt a purse of sovereigns.  Other speakers to endorse and extend the Mayor’s remarks were: Cr Sampson, Mr W. West (As Chairman of the Burra School Board of Advice), Mr T.T. Shortridge (For the Foresters), Mr W. Davey (Town Clerk), Mr P.L. Killicoat, Rev. R.S. Casely, Mr H. Roach & Mr R.M. Harvey (Manager of the Bank of Australasia).

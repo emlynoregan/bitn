@@ -20,6 +20,7 @@ topics:
 - parliament
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Governor’s speech at the opening of the 2nd session of the 11th Parliament of SA is printed.

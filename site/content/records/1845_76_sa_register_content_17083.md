@@ -18,6 +18,7 @@ topics:
 - flood
 - mail delay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Extensive floods in the far north have delayed the northern mail, which did not arrive last night.  Ragless’s Plains are said to be one sheet of water.

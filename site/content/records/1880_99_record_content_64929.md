@@ -19,6 +19,7 @@ topics:
 - agriculture
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  South of Burra crops are doing quite well, but east the wheat crops are again poor.

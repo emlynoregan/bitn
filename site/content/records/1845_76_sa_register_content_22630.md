@@ -26,6 +26,7 @@ topics:
 - infant_death
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Body Found at Burra.  Two sons of Mrs Nichols Opie of the Smelters’ Home Hotel, Aberdeen, were searching for some rabbits when they looked into the closet of the vacant Mine Hospital.  They found a bundle under the floor made up of blue blanket and gunnybag.  Police Trooper Dix was informed and he discovered the badly decomposed remains of a new-born child.  W.H. Challoner held an inquest at the Smelters’ Home on 3 February, but the jury found it was impossible to determine if it had been born dead or alive.  It has not been possible to ascertain who might have placed the body there.  It appeared to have been there two or three months.

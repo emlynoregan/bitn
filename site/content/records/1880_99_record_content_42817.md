@@ -22,6 +22,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles W. Gray, of Manoora, writes suggesting that the visiting English cricketers should play a country 22 at Burra.

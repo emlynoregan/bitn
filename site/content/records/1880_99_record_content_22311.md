@@ -22,6 +22,7 @@ topics:
 - mission
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Lecture.  Rev. C.P. Hard will lecture tonight in the Kooringa Wesleyan Lecture Hall on ‘Women in India’.  The collection will aid the building fund of the Mission to India.

@@ -19,6 +19,7 @@ topics:
 - timber
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  George Sara Jun. has commenced business on his own account in timber, paints, oils and builders’ ironmongery, in the same premises.  [Presumably this means in the former premises of Sara & Dunstan.]

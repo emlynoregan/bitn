@@ -23,6 +23,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mine. Capt. Hancock of the Moonta Mines and Mr Higgs, late of the Wallaroo Mine having inspected the Burra Mine have circulated their reports to shareholders. Both were rather noncommittal. Hancock did not think the lodes able to be inspected would pay, but deeper exploration might be worthwhile. Higgs thought there might be some prospects, but recommended a search for new methods of ore separation which should also be tried on the debris from earlier operations.

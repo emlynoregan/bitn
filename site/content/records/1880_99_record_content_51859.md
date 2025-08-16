@@ -21,6 +21,7 @@ topics:
 - animal health
 - inoculation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pleuropneumonia has broken out some 50 miles east of Burra and on the northeast track 100 miles from Burra.  Losses so far are slight and an inoculation program is under way.

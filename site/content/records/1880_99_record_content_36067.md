@@ -21,6 +21,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Richardson has decided after going around the electorate that he is now in favour of a progressive land tax and for mining development and the Transcontinental Railway.

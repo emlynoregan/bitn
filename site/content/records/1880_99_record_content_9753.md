@@ -20,6 +20,7 @@ topics:
 - theatre
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Grand Musical & Dramatic Entertainment at the Institute 17 April to raise money for the Institute Funds.  Concludes with the farce ‘The Limerick Boy’. 2/- & 1/-

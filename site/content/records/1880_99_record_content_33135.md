@@ -19,6 +19,7 @@ topics:
 - public order
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Prize Fight apparently took place in the hills to the east of the town last Sunday, which attracted 30-40 young fellows to witness proceedings.  We hope such amusement will be curtailed, especially on Sundays.

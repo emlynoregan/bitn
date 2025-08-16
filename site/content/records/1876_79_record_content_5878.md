@@ -18,6 +18,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Musical Union will practise for their sacred Easter concert on Wednesday instead of Tuesday. [See previous item.]

@@ -21,6 +21,7 @@ topics:
 - crime
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Gilbert’s lecture was given last Tuesday at the Institute on The Physiognomy of Intemperance and Crime.  His view was that ‘no use of alcohol was anything but abuse.’

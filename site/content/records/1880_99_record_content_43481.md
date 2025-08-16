@@ -19,6 +19,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Benjamin Watt’s case is to be dealt with in the House of Assembly.

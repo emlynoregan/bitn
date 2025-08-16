@@ -19,6 +19,7 @@ topics:
 - community
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from a Committeeman defending the charges made by the Institute for the use of its hall etc.

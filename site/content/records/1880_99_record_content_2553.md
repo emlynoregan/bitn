@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - footpath
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a better entrance to the town from the north with the formation of footpaths in Aberdeen.

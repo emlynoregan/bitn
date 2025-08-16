@@ -20,6 +20,7 @@ topics:
 - sport
 - banquet
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The banquet on Tuesday at the Burra Hotel saw W. West in the chair.  Attendance was smaller than it should have been.

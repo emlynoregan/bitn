@@ -23,6 +23,7 @@ topics:
 - correspondence
 - defamation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Be Careful ____ Bad intentions vide so called Leader to Day’s Record But I have written before the Copy was ever intended for publication in your (?) paper and it bore strong Internal evidence INALTO RELIEVO to that effect ____ It was simply meant as EMETI ____ CARTHARTIC ____ The IMPRINATUS of the Record states that it Is printed and PUBLISHED by W.J. DAVEY I shall make the said W.J. Davey responsible For everything Slander – our – or of a U B BLODE type in the Record hence it will pay you to keep your EYE OPEN I am watching to see when BAIT is used this time on Your hook Remember Firm and fearless &c is a lie take it out or don’t Pander

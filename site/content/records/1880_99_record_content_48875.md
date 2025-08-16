@@ -21,6 +21,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Pearce Jun. will today take Mr Wittber’s presentation clock to him at Rose Park.

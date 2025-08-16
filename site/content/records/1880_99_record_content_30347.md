@@ -20,6 +20,7 @@ topics:
 - show
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Professor Baldwin and his Butterfly Company will give ‘an astounding exhibition of spirit exposure, clairvoyancy, and sensational sketches, including musical selections.’

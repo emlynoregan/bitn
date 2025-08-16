@@ -21,6 +21,7 @@ topics:
 - water
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The writer then outlines a possible reticulation scheme with metered water supplies.]  P.S. Messrs McLean, Rigg & Co. say their 12’ windmill will pump water from 150’ to 200’ and so could easily lift it the elevation required.

@@ -25,6 +25,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Recent Obituaries: J. Hutson at 84, Thomas Rosewall (Senior) at 86 and now A.W. Lott has died at 84 and on 26 May Mrs C. Kiekebusche, mother of Mr E. Kiekebusche died at Baldina.

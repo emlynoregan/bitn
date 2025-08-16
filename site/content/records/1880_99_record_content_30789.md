@@ -19,6 +19,7 @@ topics:
 - death
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The pair were employed as packers and the report says their deaths were brought about by ignoring working rules, specifically that they had not enquired about the running of a special train and did not show a red light in either direction on their tricycle, despite being pressed to do so by Edward Gardiner in charge of No. 12 gang.

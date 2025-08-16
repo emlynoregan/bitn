@@ -28,6 +28,7 @@ topics:
 - immigration
 - local business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs J.M. Hunt celebrated their Golden Wedding on 20 August.  Both were born in or near Woolwich, Kent, in 1824 and 1825 respectively.  They married in 1848 and came to SA in the Gloucester in 1852.  Mr Hunt went to the Victorian goldfields in 1853 and subsequently returned to work for Messrs Peacock & Sons of Grenfell St in Adelaide, in the wool business.  They came to Burra in 1862 where Mr Hunt has since run a wool and sheepskin business.

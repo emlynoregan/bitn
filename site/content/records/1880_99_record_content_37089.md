@@ -20,6 +20,7 @@ topics:
 - business
 - resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Ford has found copper on his Aberdeen property and intends to work it.

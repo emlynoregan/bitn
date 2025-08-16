@@ -19,6 +19,7 @@ topics:
 - tender
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 And dismayed at the release of the value of the tender for the school when it was readvertised.

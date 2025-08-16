@@ -18,6 +18,7 @@ topics:
 - event
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Next meeting to be held at Gum Creek Estate on 25 & 26 June.

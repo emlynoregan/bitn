@@ -18,6 +18,7 @@ topics:
 - measurement
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hd Bundey	8.50 to 1.38

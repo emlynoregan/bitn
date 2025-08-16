@@ -22,6 +22,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ makes an appeal for the Burra Racing Club to get together and organise a race meeting.  [Having failed to do so for 1892.]

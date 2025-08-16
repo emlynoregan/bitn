@@ -20,6 +20,7 @@ topics:
 - association
 - storekeepers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Working conditions. Ed. on the need for a half day off for shop assistants. Urging a Storekeepers' Assistants' Association. There has been a half day holiday each week in Mt Gambier for three years and it works well. Also surely earlier closing on Saturday nights is warranted.

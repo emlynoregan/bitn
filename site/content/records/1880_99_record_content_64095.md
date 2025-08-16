@@ -21,6 +21,7 @@ topics:
 - federation
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation was essential.  He enlarged upon the financial advantages.  Free trade would be a good thing.  SA would have a market of 4 million instead of one of 360,000.

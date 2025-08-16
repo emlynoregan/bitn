@@ -20,6 +20,7 @@ topics:
 - transport
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Jamestown Railway. The railway from Port Pine to Jamestown was opened on Monday without fanfare.

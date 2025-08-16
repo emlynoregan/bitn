@@ -20,6 +20,7 @@ topics:
 - business
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The stage-cart Reformer leaves for Burra Burra Mines tomorrow (Thursday) at 10 o’clock and will leave Burra on Saturday 19 January, having its back load engaged.

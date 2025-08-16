@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. Large additions are being made to the engine sheds at the Burra Railway Station, probably in view of the transfer of repair shops from the Riverton station to Burra.

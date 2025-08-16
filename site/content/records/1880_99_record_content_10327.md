@@ -19,6 +19,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A meeting is called for Thursday at the Commercial Hotel with the aim of starting a new club - just the one for the town as there is insufficient support for more.

@@ -19,6 +19,7 @@ topics:
 - construction
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School: Work continues with foundations down and tanks excavated - walls to begin Monday

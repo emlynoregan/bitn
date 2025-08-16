@@ -19,6 +19,7 @@ topics:
 - nuisance
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The stench from the boiling down works in Aberdeen was offensive and must be stopped.  The Inspector is to take action: it was quite ‘atrocious on Christmas Day.’

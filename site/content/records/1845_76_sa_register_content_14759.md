@@ -22,6 +22,7 @@ topics:
 - timber
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Chewings writes from Woorkoongoree 11 July querying the right of bullock drivers to turn out their stock where they think fit and to remain as long as they like.  He says he had had 50 to 60 bullocks turned out near his head station in the last three weeks.  The drivers claim the right to turn them out where they please.  He says sheep farmers customarily like to preserve some feed near their head station for their horses.

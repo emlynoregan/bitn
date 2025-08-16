@@ -19,6 +19,7 @@ topics:
 - football
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football on Tuesday saw Burra 1st 15, 4.8 defeat Burra 2nd 25, 1.6

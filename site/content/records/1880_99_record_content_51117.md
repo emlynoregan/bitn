@@ -27,6 +27,7 @@ topics:
 - tea
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Church, Friday 22 September, 3.30 p.m. in Mr John Lewis’s schoolroom: an address by Sister Lucy on the work of the Church Extension Society.

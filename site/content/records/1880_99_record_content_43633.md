@@ -27,6 +27,7 @@ topics:
 - hospital
 - christmas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s also had a service to a large congregation and in the afternoon a Salvation Army meeting in Market Square was addressed by Captain Morris and Lieut. Wemyss.  The Wesleyan Choir visited the Hospital.

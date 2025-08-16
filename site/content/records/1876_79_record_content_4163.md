@@ -22,6 +22,7 @@ topics:
 - editorial
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on Railways. The editor favoured the use of very light railways with cheap and light rails and minimum earthworks with little if any ballast. Such as would be capable of trains with speeds of about 15 m.p.h. He felt the Burra-Hallett line should be extended to Yarcowie and then towards the Barrier Ranges. He also favoured the 4'8t/2" gauge.

@@ -22,6 +22,7 @@ topics:
 - watchmaker
 - jeweller
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 L.L. Wicklein	Watchmaker & Jeweller, has moved next to R.D. Pascoe, Hairdresser

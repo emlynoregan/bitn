@@ -23,6 +23,7 @@ topics:
 - rifle club
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Rifle Club. Only about 6 members at practice. Challenge by Pt Adelaide & Suburban Club accepted for 9 Nov. and one from Waterloo for before Christmas. W. Pearce continues as Treasurer and W.H. Babbage as Sec.

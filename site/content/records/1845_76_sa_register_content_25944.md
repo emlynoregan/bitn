@@ -20,6 +20,7 @@ topics:
 - hay
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Season.  This year has been excellent, but we wonder that more farmers do not produce hay.  Much of it is required and last season it had to be imported into the district, even from Kapunda and at prices as high as in Adelaide.

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  Clare had 2 1/14 inches [fraction unclear] of rain on Monday, which damaged wheat in the fields.  At Redruth floods destroyed the ford, which had been greatly damaged by a flood a few weeks earlier.

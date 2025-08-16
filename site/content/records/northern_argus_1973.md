@@ -22,6 +22,7 @@ topics:
 - restoration
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Civic Trust awarded a commendation for the restoration of the Bible Christian Chapel in Paxton Square.  It is now the booking office for Paxton Cottages and has a collection of old church furniture in keeping with its history as a Bible Christian Chapel.  It was originally built in 1850 as the first Bible Christian Chapel in Australia.

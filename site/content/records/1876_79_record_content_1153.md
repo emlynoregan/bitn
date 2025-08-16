@@ -18,6 +18,7 @@ topics:
 - wages
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Drought & Wages: Editorial mainly on the continuing drought. Govt. offer to navvies of 6/6 day while private employers pay up to 7/- for `really good men'

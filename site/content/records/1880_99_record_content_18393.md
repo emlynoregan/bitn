@@ -22,6 +22,7 @@ topics:
 - appointment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Howitt officiated for the last time at St Mary’s last Sunday before his departure.  He will be given a public tea next Wednesday and a purse will be presented.  We hear it is likely he will be succeeded by Rev. J.S. Wayland from All Saints, Moonta.

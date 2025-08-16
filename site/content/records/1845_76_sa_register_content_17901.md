@@ -20,6 +20,7 @@ topics:
 - migration
 - exodus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Miners and others continue to leave for Wallaroo and Moonta.

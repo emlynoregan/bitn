@@ -18,6 +18,7 @@ topics:
 - statistics
 - communication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Details of the numbers of letters and newspapers posted are given for 1844-50.

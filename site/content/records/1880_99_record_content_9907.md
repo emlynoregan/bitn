@@ -25,6 +25,7 @@ topics:
 - entertainment
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra & Aberdeen MUIOOF Lodges Picnic and Athletic Sports Gathering.  24 May at the grounds of Messrs Duffield and Makin on the Adelaide Rd

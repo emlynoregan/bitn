@@ -19,6 +19,7 @@ topics:
 - concert
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Musical Union Concert. This was held last Tuesday and saw a good sale of the front seats, but a thin audience elsewhere. The review suggests a rather patchy performance; though the choruses which are the core of the Union’s scope of work were a success. More of this rather than the solos should be their aim. The larrikin element is again complained of.

@@ -19,6 +19,7 @@ topics:
 - railway
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  A man was run over by the engine of the Broken Hill express on 20 June at Hamley Bridge.

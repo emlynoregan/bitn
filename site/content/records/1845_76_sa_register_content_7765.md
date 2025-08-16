@@ -18,6 +18,7 @@ topics:
 - gold
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Gold.  [There is a further report of gold being discovered by a German prospector near Lobethal.]

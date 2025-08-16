@@ -21,6 +21,7 @@ topics:
 - sports
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra Cricket Club met at R.D. Pascoe’s on 11 December.  They will play the Mongalata’s [sic] on 16 December at Victoria Park at 2.30 p.m.

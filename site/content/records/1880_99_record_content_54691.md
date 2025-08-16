@@ -35,6 +35,7 @@ topics:
 - discipline
 - minutes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor tendered legal advice that he was a member of Council and was entitled to vote as he did to rule that standing orders be suspended.

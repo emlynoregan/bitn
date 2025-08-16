@@ -31,6 +31,7 @@ topics:
 - church
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie people are reported as satisfied with the new postal arrangements from Daveyston [Hanson], though Kooringa is complaining of the loss of business.  The Hundred of Ayers, with the arrival of small farmers, expects to produce 40,000 bushels of wheat next season, even at the low rate of 10 bushels per acre.  The northern portion of the Hundred of Hanson will probably produce much more.  The Hundred of Andrews is partly under crop and by the end of the second year of the mail contract 100,000 bushels could be looked for.

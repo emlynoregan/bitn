@@ -25,6 +25,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 William Jenkin writes re the Copperhouse school needs. The community there very much wants a school and in the absence of a Govt. one will turn to something else. A good-meaning young man has opened a school in the township and in less than a week has secured 32 students. Only 2 of these had been attending Burra school. The Board of Education virtually acknowledges the claims of Copperhouse by not calling on parents there to show cause why their children are not at school. The matter demands attention. The local Board, I am told, was asked just one or two questions and not to evaluate the whole case. Distances involved are a poor excuse. Wallaroo Mines has a school one mile from Kadina and Moonta Mines on a similar distance from Moonta. The new school near Iron Mine is 8-9 miles from Copperhouse and so is irrelevant.

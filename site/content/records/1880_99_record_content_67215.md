@@ -20,6 +20,7 @@ topics:
 - politics
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mutual Improvement Soc. staged a mock Parliament to discuss household suffrage and the desirability of the SA Contingent to South Africa.  Ultimately both were favoured by those assembled.

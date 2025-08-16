@@ -19,6 +19,7 @@ topics:
 - concert
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. concert in the German Chapel on 15 April drew a fairly good attendance - it concluded with musical tablaeuxs [sic].

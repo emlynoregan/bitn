@@ -19,6 +19,7 @@ topics:
 - society
 - reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Co-operative Reform.  [i.e. the forming of co-operative societies.]

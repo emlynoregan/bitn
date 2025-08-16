@@ -20,6 +20,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Des & Lesley Menz and family were farewelled by Councillors and Council staff on Friday.  They are moving to Cobrum [sic: for Cobram] in Victoria.

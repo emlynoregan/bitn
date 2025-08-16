@@ -22,6 +22,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Primitive Methodist Bazaar of useful and fancy articles in the P. M. Schoolroom, Kooringa, 12 & 13 June from 11 a.m. refreshments and music in the evening. 6d, to be reclaimed in goods.

@@ -19,6 +19,7 @@ topics:
 - hospital
 - staffing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Report by H. Howitt on the staffing of the hospital - defending the arrangements in place.

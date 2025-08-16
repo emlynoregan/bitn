@@ -21,6 +21,7 @@ topics:
 - copper
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copper.  Mr Grenfell and party have made a rich discovery of copper about 11 miles south of the Burra Mine.  It is a north-south running lode some two feet wide of grey ore mixed with gossan.  Sinking has begun.  [Wheal Grenfell.]

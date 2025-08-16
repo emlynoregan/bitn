@@ -21,6 +21,7 @@ topics:
 - waterworks
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council is seeking legal advice as to whether the vote on the Waterworks should have been confined to water consumers only.

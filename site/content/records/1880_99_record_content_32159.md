@@ -27,6 +27,7 @@ topics:
 - population
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Caldwell MP’s Visit to Burra, as reported in the Mt Barker Courier.

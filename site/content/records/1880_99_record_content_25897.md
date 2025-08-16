@@ -18,6 +18,7 @@ topics:
 - railways
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The extra express train on the Northern Line ceased as from 30 June.

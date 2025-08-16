@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Foresters Annual Demonstration will be held on Boxing Day, 26 December 1888 at Princess Royal.

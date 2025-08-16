@@ -20,6 +20,7 @@ topics:
 - obituary
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The late Carl August Müller was formerly an employee of the mine, known as Watchman Müller.  He migrated from Germany in 1854.

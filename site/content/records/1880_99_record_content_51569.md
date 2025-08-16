@@ -24,6 +24,7 @@ topics:
 - hospital
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Magnet Surprise Party Troupe will give a concert in the Institute on 27 October to benefit an inmate of the Burra Hospital who has met with a serious accident and is in very distressed circumstances.  T.W. Rabbich will preside.

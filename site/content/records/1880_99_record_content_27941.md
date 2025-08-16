@@ -22,6 +22,7 @@ topics:
 - business
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  The Advertiser reports a cable from London that says a rumour there says that the Copper Syndicate has bought the Burra Mine.

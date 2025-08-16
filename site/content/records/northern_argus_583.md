@@ -19,6 +19,7 @@ topics:
 - attack
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Dogs have been attacking sheep just west of Burra recently.  One has been destroyed, but the other escaped.

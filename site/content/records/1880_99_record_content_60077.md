@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Robert Lane’s death is reported in Wednesday’s Register.  He was a collar-maker, for some time employed by J.F. Rosenfeldt of Laura and died at Morchard, having gone there a fortnight ago for a change of air.  He was brother to P. Lane JP of Burra.  [Died 31 May aged 63.]

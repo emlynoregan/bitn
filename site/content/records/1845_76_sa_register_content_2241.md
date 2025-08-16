@@ -19,6 +19,7 @@ topics:
 - dividend
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SA Mining Association announces a dividend of 200% to be paid to the shareholders on the 1 June.  Henry Ayers, Secretary.

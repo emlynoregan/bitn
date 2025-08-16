@@ -20,6 +20,7 @@ topics:
 - unemployment
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. R.J. Daddow writes from the Primitive Methodist Manse, Kooringa, about the great social evil of the day: unemployment and the social forces that allow or promote it.

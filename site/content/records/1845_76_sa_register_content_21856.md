@@ -21,6 +21,7 @@ topics:
 - church
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Roach writes from Penwortham Mill on 21 April.

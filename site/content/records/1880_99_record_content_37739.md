@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder will address the public meeting called for tonight at the Burra Institute.

@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss E. Eichler was interred in the Kooringa Cemetery on Sunday last.  [Registrations show she was born Emily Beatrice Eisler 9 March 1870 and died Emily Beatrice Eichler 18 December 1891 aged 21.]

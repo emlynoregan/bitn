@@ -22,6 +22,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Strawberry Fete and Sale of Useful and Fancy Goods at the Burra Institute 26 November, in aid of the Building Fund.

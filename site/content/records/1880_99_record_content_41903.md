@@ -19,6 +19,7 @@ topics:
 - society
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday discussed the federal Bill.  38 attended and they were 21 for and 16 against the adoption of the Bill.

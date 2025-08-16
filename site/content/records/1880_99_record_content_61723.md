@@ -19,6 +19,7 @@ topics:
 - circus
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fitzgerald’s Circus on Thursday was a first class show which drew large crowds despite a dusty, windy day.

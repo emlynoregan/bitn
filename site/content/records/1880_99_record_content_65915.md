@@ -23,6 +23,7 @@ topics:
 - capitation grant
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 North-East District Candidates for the elections on 29 April will be:

@@ -22,6 +22,7 @@ topics:
 - rain
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Rain has been general in SA on Monday and by 6 p.m. we had received 40 points.  Sunday had been a day of prayer for rain in the Wesleyan Churches and the special Monday services held in the Wesleyan Church by the united ministry of the three Methodist groups turned instead into a thanksgiving service held in the rain.

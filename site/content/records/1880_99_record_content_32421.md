@@ -21,6 +21,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  On 30 April at the residence of the bride’s father, James Linkson, eldest son of the late George Linkson, married Mary A. O’Dea, 3rd daughter of M. O’Dea, farmer of Baroota.

@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [From a comment in ‘Sparks’ column it would seem this was under instructions from Mr W. Killicoat.]

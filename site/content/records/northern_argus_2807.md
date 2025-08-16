@@ -27,6 +27,7 @@ topics:
 - appointment
 - relocation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 R.A. Huxtable, ANZ Bank manager has been moved to Crystal Brook.  His replacement is Mr D.G. White who has been manager at Karoonda and most recently at Jamestown, where he was appointed in 1983.  He will be accompanied by his wife Colleen and children Troy, Samantha and Randall.  He expects to take up the position in early August.  [Photo of Mr White.]

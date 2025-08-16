@@ -28,6 +28,7 @@ topics:
 - misrepresentation
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks rather reluctantly went along with it.

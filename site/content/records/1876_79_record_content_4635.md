@@ -22,6 +22,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. On 27 Aug., Herbert Newton Williams, son of J. Williams of Kooringa. Aged 4 months — of bronchitis.  [Born 5 May 1878: father John Williams.]

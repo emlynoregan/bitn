@@ -23,6 +23,7 @@ topics:
 - shop opening
 - drapery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  N.J. Tiddy, late of Drew & Crewes, is to open a shop of drapery at lowest prices in Aberdeen, adjacent to Austin’s Butchers, about 5 September 1893.

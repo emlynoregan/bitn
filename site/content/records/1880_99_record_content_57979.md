@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Alfred Stewart, 2nd son of Alexander Stewart of Mannahill, died at the Burra Hospital on 26 August aged 36.  [Born 28 February 1859.]

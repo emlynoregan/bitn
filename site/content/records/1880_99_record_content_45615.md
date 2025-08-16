@@ -22,6 +22,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T. Rabbich writes re the proposed stock tax and cites a report by the Chief Inspector in the Government Gazette that shows that the imports of cattle in 1891 are not half that of 1882 and only in 1890 have imported sheep been larger than in 1885.  Rabbich disapproves the tax, as SA cannot produce the fat cattle and fat sheep it requires.

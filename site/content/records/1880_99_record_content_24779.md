@@ -20,6 +20,7 @@ topics:
 - leases
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mineral Leases.  Almost all mineral leases in the hundreds of Baldina and Bright have been forfeited - the year for which they have been paid having expired.

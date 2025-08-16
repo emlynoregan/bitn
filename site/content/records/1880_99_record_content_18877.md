@@ -20,6 +20,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Manse.  John Pearce & Launder have the lowest tender for the new manse, for which £223 has so far been raised.

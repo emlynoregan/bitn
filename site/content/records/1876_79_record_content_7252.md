@@ -21,6 +21,7 @@ topics:
 - accident
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Aberdeen Hotel. On 15 October Broad's Aberdeen Hotel was destroyed by fire. A number of railway workmen under Mr Mather prevented the fire spreading elsewhere.

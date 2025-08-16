@@ -21,6 +21,7 @@ topics:
 - Real Property Act
 - government notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Reserve.  A notice in the Government Gazette states that all lands lately held by the Yorke’s Peninsula Mining Association, including the reserve claimed by the Burra Town Council, is about to be brought under the Real Property Act.

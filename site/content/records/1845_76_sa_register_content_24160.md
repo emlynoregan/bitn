@@ -19,6 +19,7 @@ topics:
 - mining
 - diggings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Gold-field.  The diggings are looking very well and although there were fewer men than before there is more gold being got.

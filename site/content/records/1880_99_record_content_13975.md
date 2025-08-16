@@ -21,6 +21,7 @@ topics:
 - public amenities
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Comfort’ writes complaining that ladies’ waiting rooms at railway stations are not heated in the depths of winter.

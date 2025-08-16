@@ -26,6 +26,7 @@ topics:
 - obituary
 - pastoralist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  C. Dunemann of Terowie died aged 41, at Terowie.  He was born in Burra and spent most of his life here.  He went to Terowie and started a butcher’s business there with his brother.  About 8 years ago they stopped that and the deceased became a pastoralist and diligent member of the Terowie District Council.  His parents survive him at Copperhouse.

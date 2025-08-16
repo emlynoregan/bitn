@@ -32,6 +32,7 @@ topics:
 - recreation ground
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council has resolved to ask the government for £500 to assist in cutting down the bank near the Institute and widening and raising the road into Kooringa to make access to the town easier and suitable for more traffic.

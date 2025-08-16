@@ -20,6 +20,7 @@ topics:
 - business
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Burra Mine Syndicate with a capital of £50,000 has been registered in London.

@@ -22,6 +22,7 @@ topics:
 - legal
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Everett claimed support from her father John Calloway of the Pig and Whistle Hotel as she had a child to support and her husband had deserted her four months since.  An order was made for 5/- a week.

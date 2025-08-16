@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Robert Brummitt, father of Dr Robert Brummitt, died on 24 November at Banbury, England, aged 64.

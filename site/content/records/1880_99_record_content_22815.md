@@ -19,6 +19,7 @@ topics:
 - culture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cornish Pasty.  There is a considerable debate over what truly constitutes a Cornish pasty.  [Which shows the long history of this dispute, which is still being debated.]

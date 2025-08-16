@@ -20,6 +20,7 @@ topics:
 - livestock
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  The English & Australian Copper Co. will sell at Kapunda on 14 December Horses, Mules, Wagons, Harness, Stock and Materials.  About 110 draught horses.

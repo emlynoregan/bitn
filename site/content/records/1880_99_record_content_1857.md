@@ -18,6 +18,7 @@ topics:
 - police
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police Moiety.  A Bill has been introduced to abolish the payment of the police moiety by Corporations.

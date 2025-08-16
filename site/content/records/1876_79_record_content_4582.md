@@ -20,6 +20,7 @@ topics:
 - legislation
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. There is a 1½ column report a rabbit meeting at Mt Bryan on Sat. 10 August and almost another 2 columns on another at Hallett. Both strongly condemn the failure of the Legislative Council to pass a strong rabbit eradication Bill.

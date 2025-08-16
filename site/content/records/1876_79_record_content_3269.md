@@ -20,6 +20,7 @@ topics:
 - tea
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Stony Gap Wesleyan Chapel anniversary service 23 Dec. and Public Tea 4 PM Dec. 26 with meeting and supper.

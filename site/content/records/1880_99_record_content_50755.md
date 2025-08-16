@@ -22,6 +22,7 @@ topics:
 - trees
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘No. 2 Reserve at Redruth is now planted with trees, Councillors Linkson and Walsh paying expenses, which amounted to £1-18-0 less than last year/  This should be looked into, and no doubt it will.

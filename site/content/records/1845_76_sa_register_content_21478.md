@@ -24,6 +24,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A sheep farmer less that 50 miles away, hearing about the amount of distress in the area, generously offered 25 fat sheep to be distributed as a New Year’s treat.  In response a committee was formed and about £20 collected.  As a result this morning about 55 families were furnished with a good supply of mutton and groceries.  The general ration per family was:

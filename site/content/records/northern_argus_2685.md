@@ -21,6 +21,7 @@ topics:
 - local government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC met on 11 May for the first time after elections.  Cr Jack McMahon was elected Chairman with Graham Kellock as Deputy Chairman.  [The membership of various council committees is printed.]

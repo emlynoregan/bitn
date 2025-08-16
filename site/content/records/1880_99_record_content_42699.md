@@ -19,6 +19,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine: ‘In four years the water in the mine pool has rose [sic] twelve feet.’

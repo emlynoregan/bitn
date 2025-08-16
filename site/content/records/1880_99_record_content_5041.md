@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - testing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Well was tested on Wednesday using a pump lifting 500 gallons an hour and the level of the water fell from 16’ to 18’, but no further, and recovered in a few minutes to 16’ when pumping stopped.  This should be sufficient proof to enable a pump and troughs to be erected in time for the summer.

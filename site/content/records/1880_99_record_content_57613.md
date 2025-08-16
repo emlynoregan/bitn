@@ -23,6 +23,7 @@ topics:
 - accident
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  A young man named Symes from Broken Hill was admitted to Burra Hospital on Tuesday suffering from serious spinal injuries after an accident at Broken Hill.  He is a brother to Mrs W.G. Neville of Aberdeen.

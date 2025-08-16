@@ -24,6 +24,7 @@ topics:
 - property
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Lewis stated they admitted blocking up the watercourse if indeed it was considered one, but it had been to protect their own property.  The corporation had commenced the obstruction by raising the creek and had not seen the creek was kept clear.

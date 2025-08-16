@@ -18,6 +18,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 China Famine Relief Fund so far stands at £20-2-3.

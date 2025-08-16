@@ -20,6 +20,7 @@ topics:
 - concert
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Musical Union Grand Sacred Concert, 8 April 1879, including portions of Mozart's Twelfth Mass.

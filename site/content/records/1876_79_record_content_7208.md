@@ -21,6 +21,7 @@ topics:
 - food
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor complaining of the high meat prices in Burra. He includes advertisements from Adelaide with their prices to prove his point. Prices here, he says, are 4d, 6d, & 7d [per lb] that in Adelaide would be 2d to 3/2d.

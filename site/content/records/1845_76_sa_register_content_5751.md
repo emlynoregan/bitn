@@ -22,6 +22,7 @@ topics:
 - demographics
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Colonists or Residents of Foreign Birth in SA.  Translated from the Sudaustralische Zeitung of yesterday.

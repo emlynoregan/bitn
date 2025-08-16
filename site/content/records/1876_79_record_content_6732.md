@@ -20,6 +20,7 @@ topics:
 - reserves
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cr Ridgway asked if the town had ever had the various reserves in the town formally handed over to its control. The Mayor did not think so.

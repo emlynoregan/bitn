@@ -23,6 +23,7 @@ topics:
 - housing
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Moral Responsibility of Employers.  [Editorial]

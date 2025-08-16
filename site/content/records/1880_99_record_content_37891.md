@@ -19,6 +19,7 @@ topics:
 - coal
 - shortage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The price of coal id affecting blacksmiths and wheelwrights and some are running short of supplies.

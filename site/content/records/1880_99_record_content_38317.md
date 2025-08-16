@@ -18,6 +18,7 @@ topics:
 - local option
 - compensation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ‘Erratic Correspondent’ writes again on local option in response to the two recent letters, especially enlarging on the justice of compensation.

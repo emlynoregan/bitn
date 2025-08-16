@@ -26,6 +26,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hallett Races were held on Wednesday 25 March at this rising town formerly known by the name of Uindy or Willigoleche.  The course was in Messrs Ferrier & Low’s large stubble paddock near the hotel.  Though the weather was favourable, the attendance was not large.  Host Ferrier had a well stocked booth and did a brisk trade.  ‘There were several drunken blacks, but no inebriated whites.  By some disreputable means the former got drink and they were a great nuisance, especially one fellow known in the vicinity as Barney.  He, proud of his prowess as a pugilist, could not be kept quiet until a plucky young Irishman, with equal skill and good humour, in two or three rounds gave him his quietus.  The aborigines frightened one or two families in the town during the following night.  Mr Ferrier had applied in Kooringa for the presence of a trooper, but, unfortunately, one could not be spared.’

@@ -20,6 +20,7 @@ topics:
 - community
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Cake & Fancy Fair was a great success on Wednesday and Thursday at the Institute. [Fancy items listed included cushions, smoking caps, coseys, (sic) & wool work mats.]  The fair, concert and ball raised c. £80.  There is a ½ column review of the concert.

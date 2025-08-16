@@ -20,6 +20,7 @@ topics:
 - pastoral
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearing.  Pastoralists and shearers seem to have come to a satisfactory arrangement for the coming season.

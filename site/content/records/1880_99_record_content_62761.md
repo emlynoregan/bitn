@@ -20,6 +20,7 @@ topics:
 - food
 - weights_and_measures
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick Gebhardt was similarly charged with selling a loaf ¾ oz light, but with only one loaf weighed this was also dismissed.

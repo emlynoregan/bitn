@@ -33,6 +33,7 @@ topics:
 - community
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder resigned as Town Clerk at the end of September after c. 6 years and was replaced by J.D. Cave.

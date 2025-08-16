@@ -21,6 +21,7 @@ topics:
 - football
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. The match scheduled for 6 August in Austin's paddock will be the first played in Burra and while Burra was badly defeated by Clare at Clare in the last match we expect a closer contest this time after practice. Burra will play in scarlet and black.

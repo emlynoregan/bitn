@@ -21,6 +21,7 @@ topics:
 - community
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Graves 2433 to 2540 are to be set aside for pauper funerals and are to be dug 10’ deep for three burials.

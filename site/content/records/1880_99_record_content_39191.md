@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School fence has been smashed: cannot some clue to the cause be ascertained?

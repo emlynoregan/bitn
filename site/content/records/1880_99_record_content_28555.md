@@ -21,6 +21,7 @@ topics:
 - theft
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grace Everett was charged on 22 April at Kooringa with feloniously breaking and entering the shop of Martin Pederson to steal and take away nineteen pairs of boots to the value of £6-11-0 of the goods and chattels of the said Martin Pederson.   On the reading of the charge the accused was seized with a fit and remained in that state for the rest of the hearing.

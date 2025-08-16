@@ -19,6 +19,7 @@ topics:
 - school
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the annual inspection of the Burra School at which 18 Compulsory Certificates were granted.

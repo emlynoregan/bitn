@@ -20,6 +20,7 @@ topics:
 - inquest
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Corpses.  There was an appeal to the Government to make provision for the reception of bodies, often in a state of decomposition, which have to be kept pending an inquest.  The present arrangements are dangerous to town health.  [This follows from the case of Dugald McNiel.]

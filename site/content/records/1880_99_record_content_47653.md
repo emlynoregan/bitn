@@ -20,6 +20,7 @@ topics:
 - speeches
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday was well attended for prepared speeches on The Future of Australia.

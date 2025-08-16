@@ -20,6 +20,7 @@ topics:
 - fire
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Well Wisher’ writes to warn against the danger of fire if seats are placed in aisles at Rev. Mark Guy Pearse’s lecture.

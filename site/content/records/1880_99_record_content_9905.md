@@ -19,6 +19,7 @@ topics:
 - obituary
 - registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Obituary.  Registration shows John Callaway died 13 April 1883 aged 52.]

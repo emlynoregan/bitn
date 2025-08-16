@@ -27,6 +27,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council.  First meeting of the new Council.  Crs Barker, Bowman, Killicoat, Lockyer, McWaters, Rogers & Sandland.  C. Tiver, auditor.  Cr Lockyer was elected Chairman for the year.

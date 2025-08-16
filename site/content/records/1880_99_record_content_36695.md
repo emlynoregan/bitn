@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Hannah Flower, wife of James Flower died on 17 May at her residence at Stony Gap, aged 77.

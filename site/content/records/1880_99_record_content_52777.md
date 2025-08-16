@@ -21,6 +21,7 @@ topics:
 - cemetery
 - monuments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cemetery.  Several mural statues have been added to the cemetery lately. Mrs William West’s grave is very nicely finished.  Other fine examples are on the graves of G.L. Hiles and Harry Edwards.

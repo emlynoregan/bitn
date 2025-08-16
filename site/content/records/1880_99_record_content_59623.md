@@ -21,6 +21,7 @@ topics:
 - obituary
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Edward Edwards committed suicide on 10 March aged 54.  He leaves a wife and eight children.

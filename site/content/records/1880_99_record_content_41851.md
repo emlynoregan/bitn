@@ -19,6 +19,7 @@ topics:
 - police
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Complaints that constable Thomas in Kooringa was lax in his duty and unless he did more as required the Council would complain to headquarters.

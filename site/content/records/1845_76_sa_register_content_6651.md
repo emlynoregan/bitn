@@ -21,6 +21,7 @@ topics:
 - economy
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Immediate measures are needed to stop any further immigration ships.  So long as the mania persists we would merely be spending our land fund to benefit the labour market in NSW.

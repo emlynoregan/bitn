@@ -20,6 +20,7 @@ topics:
 - fire
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A fire on C. Radford’s bedroom at Spring Bank on Friday morning destroyed the room, but the house was saved.

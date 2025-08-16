@@ -20,6 +20,7 @@ topics:
 - politics
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. last Friday held a debate on the abolition of payment for members [of Parliament] and the negative side won 27 to 17.

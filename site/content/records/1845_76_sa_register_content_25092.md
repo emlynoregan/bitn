@@ -23,6 +23,7 @@ topics:
 - migration
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.C. Sanders writes re labourers’ wages.

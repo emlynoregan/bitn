@@ -21,6 +21,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Uhrlaub, Head Teacher of Mt Bryan Public School will open classes in French and German and shorthand at Kooringa at an early date.

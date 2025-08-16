@@ -19,6 +19,7 @@ topics:
 - publication
 - calendar
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1893.  Look out for our four-colour calendar for 1893.

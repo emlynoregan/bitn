@@ -25,6 +25,7 @@ topics:
 - education
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board Election.  W.H. Hardy 47 defeated W.H. Linkson 43, but Linkson is seeking a fresh election as the box at Hanson was closed at 3 p.m. when it was advertised to be open till 7 p.m.  The paper discusses the desirability of the ‘outer schools’ being able to nominate a member of the board as it is felt they can never be represented at an election where they have to compete against a candidate from the Burra School.  The Governor is to be asked to nominate a candidate from the outer schools.

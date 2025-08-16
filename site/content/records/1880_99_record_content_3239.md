@@ -28,6 +28,7 @@ topics:
 - inquest
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.  Mr James Mills Patterson Jun. drowned in a well at Copperhouse on 8 Feb.  J.D. Cave JP conducted the inquest on 9 Feb.  W. Rabbich was foreman of the jury.  James Mills Patterson Sen. Said his son had been drinking heavily the night before, but they went to bed at c. 9.30 p.m.  About 10 p.m. he was awoken by Mrs Sanders, his daughter, who said the well was open and she believed her brother was in it.  The body was caught by grappling irons by Mr Smith and Mr McCubbin.  This took some time and it was about 12 o’clock when the body was found.  Mr Patterson believed his son was having the horrors.  He did not believe he was suicidal, though he had previously made remarks to his sister about destroying himself.

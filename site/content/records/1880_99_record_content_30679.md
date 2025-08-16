@@ -19,6 +19,7 @@ topics:
 - finance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Melbourne Exhibition is acknowledged to have been a failure and a loss of £20,000 is expected.

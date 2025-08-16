@@ -21,6 +21,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt, President of the Institute writes thanking all who contributed to the success of the Conversazione and revealing that the nett proceeds amounted to £58.

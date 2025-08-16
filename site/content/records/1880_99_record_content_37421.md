@@ -20,6 +20,7 @@ topics:
 - organization
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Co. VF, Social at the Burra Hotel, Wednesday 30 July.  Members in uniform.  Brass Band in attendance.

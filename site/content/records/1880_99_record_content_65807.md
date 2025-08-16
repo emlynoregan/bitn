@@ -22,6 +22,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The visit of Brigadier Glover, (Commanding SA) & Staff Capt. Dennis on Monday night saw a special meeting at the Barracks which was well attended.

@@ -20,6 +20,7 @@ topics:
 - sports
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Entertainment in Aid of the Aberdeen Cricket Club at the German Schoolroom, Redruth on 15 August.  Music, Songs & Recitations, concluding with the farce ‘Handy Andy’.

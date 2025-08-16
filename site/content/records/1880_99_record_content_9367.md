@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 31 January at Kooringa, Sarah Ann Hardy, daughter of William H. & Mary Hardy, aged 9 months.  [Born 22 April 1880]

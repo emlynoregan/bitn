@@ -19,6 +19,7 @@ topics:
 - event
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s 50 & 8 for 110.  The game was declared a draw.

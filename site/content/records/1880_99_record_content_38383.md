@@ -18,6 +18,7 @@ topics:
 - municipal
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The argument advanced was that without the bonds the rates would be absorbed by the debt and the Council would lose £950 of Government subsidy.  Mr Bartholomæus reckoned the loss to the town in interest etc. on this loan would be £3,000 and so he opposed it.  Well we got the bonds/debt and the Recreation Ground.

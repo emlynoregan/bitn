@@ -22,6 +22,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Bishop of Adelaide, Dr Kennion, will preach tonight, 23 August, at a confirmation service at St Mary’s.

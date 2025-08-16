@@ -21,6 +21,7 @@ topics:
 - government
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Homestead Leases.  The Hon. G.W. Cotton intends to move for the inclusion of Homestead leases for blocks of not over 20 acres to be lived on, in the Agricultural Crown Lands Bill.

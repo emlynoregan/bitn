@@ -19,6 +19,7 @@ topics:
 - accident
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 At the new bridge over the road at Aberdeen a tip dray was being backed over it to fill in the approach when it went over and took the horse with it. Both dray and horse escaped with a severe shaking.

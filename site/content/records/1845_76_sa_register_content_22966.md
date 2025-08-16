@@ -19,6 +19,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Sections 3035 & 3036 near Mintaro of 150 acres.

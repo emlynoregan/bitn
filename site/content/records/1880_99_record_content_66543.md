@@ -31,6 +31,7 @@ topics:
 - club
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Bicycle Club.  First annual meeting of the club, which came into existence on 6 July 1898, was held on 5 July at the Kooringa Hotel and drew a moderate attendance.  The club is registered with the SA League of Wheelmen.  President is W.P. Barker of Baldina.  The Vice Presidents were the late John Bagg of Spring Bank and A. McCulloch of Princess Royal.  John Reed is Patron.  Two successful meetings were held: one in September 1898 and the other in April 1899.  £1-2-5 was donated to the Burra Jubilee Benevolent Fund.  There are 26 full members, 6 lady associate members and 2 honorary members.  Credit in the bank is £1-14-3.  The first Captain was W.J. Richards and T.T. Shortridge was the Hon. Sec.  For the coming year the Captain is W.E. Jordan and Vice Captain is Alf Walker.

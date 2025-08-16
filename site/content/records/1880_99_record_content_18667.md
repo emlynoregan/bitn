@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Eliza Ann Williams, aged 19, of Kooringa, at her father’s residence.  [Born 26 November 1865; died 29 July 1885]

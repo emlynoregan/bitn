@@ -21,6 +21,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra Football Club met on Monday night at the Commercial Hotel to review the season and had won all this year’s matches.  They score 33.50 to their opponents’ 7.11.  Their income was £14-15-9½ and expenditure £13-2-4 leaving them in credit £1-13-5½.

@@ -19,6 +19,7 @@ topics:
 - post office
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Pro Bono Publico’ writes to the editor also on the Kooringa Post Office question:

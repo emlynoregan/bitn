@@ -23,6 +23,7 @@ topics:
 - inspection
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Oddly no mention is made of any of the three Kooringa Hotels, Paxton Square, or the rear of the Commercial St businesses which would all be obvious places for potential trouble.  Other obvious omissions are covered in an inspection by the Local Board of Health reported in XI, 1025, 4 Feb. 1891, page 3.]

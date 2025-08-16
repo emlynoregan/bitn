@@ -17,6 +17,7 @@ topics:
 - literature
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2 Jun.	XIV-XVI	Babsie	X	X	X	X		X	X	X			The Aethete [sic] on His Travels

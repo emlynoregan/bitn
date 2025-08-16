@@ -23,6 +23,7 @@ topics:
 - event
 - Midland Road Board
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge will be opened at 4.00 p.m. tomorrow* by Captain Killicoat in the presence of the Midland Road Board who will then be entertained by the Mayor at a banquet at Richardson's Hotel at 6.00 p.m. [*This was written on the 11th]

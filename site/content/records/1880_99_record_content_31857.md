@@ -20,6 +20,7 @@ topics:
 - water
 - lease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  The Commissioner of Public Works has agreed to the terms laid down by the Corporation and the lease will date from 1 January 1889.

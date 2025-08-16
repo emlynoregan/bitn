@@ -21,6 +21,7 @@ topics:
 - military
 - colonies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer was against the small contingents sent from the Australian colonies individually.  If aid were needed then the colonies should have combined and if Britain asked for help they should have sent 15,000 to 20,000.

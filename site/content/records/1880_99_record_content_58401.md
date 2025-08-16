@@ -19,6 +19,7 @@ topics:
 - fees
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He moved that the charge for the oval and shed be £3 per day where gate money is taken and £2 for the shed alone.  Sunday schools to have use of the oval for free and of the shed for 10/-.  Carried.

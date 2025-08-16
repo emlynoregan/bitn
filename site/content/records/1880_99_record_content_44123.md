@@ -20,6 +20,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Anniversary was held last Sunday.  Rev. C. Tresise preached three times.  The tea meeting was on Tuesday.

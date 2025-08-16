@@ -37,6 +37,7 @@ topics:
 - lease
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Pearce considered that Mr Bartle had placed himself in a very suspicious position by going away and by offering to pay back £2 when he must have known he had a large sum in his possession.

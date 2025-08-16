@@ -19,6 +19,7 @@ topics:
 - science
 - x-rays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 X-Rays.  There is an article on a new method of using X-Rays that was invented by Thomas Edison: the fluoroscope.

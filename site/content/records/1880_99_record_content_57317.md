@@ -20,6 +20,7 @@ topics:
 - anniversary
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Sunday School Anniversary continued with sports on the oval on Wednesday afternoon and a public tea meeting followed.

@@ -20,6 +20,7 @@ topics:
 - commerce
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide and Pt Adelaide merchants should support the direct line from Burra.

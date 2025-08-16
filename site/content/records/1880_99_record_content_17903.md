@@ -24,6 +24,7 @@ topics:
 - council
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Disgusted Ratepayer’ condemning the new footway that he considers largely benefits North Ward - but of course ‘one of the councillors has to travel this way.’

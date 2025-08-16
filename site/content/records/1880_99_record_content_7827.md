@@ -18,6 +18,7 @@ topics:
 - shares
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shares: 50,000 at 10/- each, of which 40,000 have been subscribed for.

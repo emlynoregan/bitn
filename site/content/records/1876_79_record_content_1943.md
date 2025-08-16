@@ -23,6 +23,7 @@ topics:
 - land
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Recreation ground: SAMA wrote advising that the desired ground for a recreation area at Kooringa was available at £500. The council decided to look elsewhere.

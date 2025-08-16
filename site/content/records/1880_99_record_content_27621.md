@@ -17,6 +17,7 @@ topics:
 - sports
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The cricket club asks for the asphalt pitch to be put in order.  The club was authorised to do the job at their own expense and to retain the gate money until they are recompensed.

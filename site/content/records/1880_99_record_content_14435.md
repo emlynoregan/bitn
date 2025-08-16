@@ -18,6 +18,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Parsonage Bazaar raised c. £130.  In the last 18 months there have been three bazaars, which have raised £720 for this fund.

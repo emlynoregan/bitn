@@ -20,6 +20,7 @@ topics:
 - fines
 - driving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Walter Pearce & John Wise were each fined 2/6 + 5/- costs for driving around a corner at more than walking pace.

@@ -19,6 +19,7 @@ topics:
 - lecture
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Yesterday evening Professor Bushell entertained with his lecture on electricity and electro-biology.  His exposition was most interesting and intelligible and his experiments eminently successful.

@@ -23,6 +23,7 @@ topics:
 - footpaths
 - public complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter complaining of the state of the footpaths ‘in and to the Paddock’ especially the footpath from Ullmann’s bakery to the old schoolhouse.  [This would seem likely to be from the corner of Bridge Terrace and Kingston St to the corner of the Kooringa Hotel.]

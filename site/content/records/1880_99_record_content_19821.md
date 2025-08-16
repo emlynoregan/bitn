@@ -23,6 +23,7 @@ topics:
 - racing
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races passed off very well yesterday. [In Austin’s paddock]  The Town Plate was won by J.W. Foy’s Sceptre from Kapunda.  The jockey, Moyle, had a nasty fall in the hurdles.

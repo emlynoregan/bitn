@@ -21,6 +21,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Evangelistic Services were held on Sunday last in the Wesleyan Church by two lady evangelists appointed by the Methodist Conference: Miss Green and Miss Nesbitt.  Meeting continue each night this week except for Saturday.  They will move on to World’s End next week.

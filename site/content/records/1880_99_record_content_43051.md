@@ -48,6 +48,7 @@ topics:
 - sanitary
 - municipal law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The rates were £456-10-6 and the Government subsidy was £140-7-7 which yielded a total income for the year of £764-6-7.  (The only other large source of income was from dog registrations at £72-16-6.)

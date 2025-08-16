@@ -22,6 +22,7 @@ topics:
 - fundraising
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday School Building Fund Services will be held on 30 December and there will be a New Year’s Day Picnic at Princess Royal and a Grand Concert on 2 January in the Institute.

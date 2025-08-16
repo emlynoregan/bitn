@@ -18,6 +18,7 @@ topics:
 - business
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There is little business doing at Kooringa at present.  As this is not an agricultural district, it has not partaken of the general prosperity felt this season by farmers.

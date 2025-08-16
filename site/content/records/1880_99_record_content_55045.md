@@ -23,6 +23,7 @@ topics:
 - drowning
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Thomas Jones, aged 18, disappeared on 13 October and was found last Sunday drowned in Palace Creek near Booborowie.  He recently came from Melbourne and had been employed for three weeks by Mr Skews.

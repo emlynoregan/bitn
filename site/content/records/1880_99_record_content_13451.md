@@ -20,6 +20,7 @@ topics:
 - local production
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr G. Mayger is growing vegetables in his garden near the Recreation Ground.  While such are available we need not be dependent on outside supplies.

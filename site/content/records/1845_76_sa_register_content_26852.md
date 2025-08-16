@@ -34,6 +34,7 @@ topics:
 - heart disease
 - pleurisy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 When Dr Nesbitt came he said the man was dead.

@@ -47,6 +47,7 @@ topics:
 - economy
 - firewood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The road need not go over Breakneck Hill, but by an easier route up Nankivell’s Gully and thence southeast over the saddle in the hills, with no severe gradients and the distance about the same.

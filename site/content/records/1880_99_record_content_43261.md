@@ -18,6 +18,7 @@ topics:
 - events
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Is well and favourably known and this ‘promises to be a warm contest’.

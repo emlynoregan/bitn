@@ -19,6 +19,7 @@ topics:
 - local government
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A District Council.  There is some talk of petitioning for a District Council for Burra.

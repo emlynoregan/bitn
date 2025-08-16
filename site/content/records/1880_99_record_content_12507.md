@@ -21,6 +21,7 @@ topics:
 - community
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes making the same point and saying there are ‘so many prejudiced minds against the Salvation Army here’.

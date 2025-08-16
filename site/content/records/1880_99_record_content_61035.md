@@ -22,6 +22,7 @@ topics:
 - advertisement
 - land sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Elder, Smith & Co. will sell on account of G.G. Klemm, the whole of his Eastern Country known as Old Koomooloo.

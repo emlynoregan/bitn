@@ -21,6 +21,7 @@ topics:
 - photography
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W.J. Davey Photographer: stereoscopic views a speciality.  Views of Burra from the Record office.  Inspection invited.

@@ -19,6 +19,7 @@ topics:
 - show
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Floricultural Society.  Fourth Annual Show, Wednesday 29 October.

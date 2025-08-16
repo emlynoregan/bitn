@@ -18,6 +18,7 @@ topics:
 - tax
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The next £60 attracted 5% and values over £100 attracted 2½%

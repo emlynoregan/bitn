@@ -21,6 +21,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Items by the children were followed by prize giving by the Mayor, Mr W. West, who also gave an address on Education.  The prize list is printed.

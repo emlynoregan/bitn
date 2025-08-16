@@ -27,6 +27,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The wife of the late John Warwick of Canowie and Holowiliena died at Hallett on 5 December.  A colonist of 52 years.

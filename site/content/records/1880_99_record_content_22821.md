@@ -19,6 +19,7 @@ topics:
 - press
 - socialism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Paper, Our Commonwealth, is still raving at anyone who will buy it.  The editor is a believer in free thought and socialism and aims, it appears, to set class against class.  For a man to call another a loafer because he has been saving and accumulated a little wealth is mean.  I do not approve of land speculators, but a man who has been careful and made money from the proceeds of land is not to be called a loafer.

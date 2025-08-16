@@ -29,6 +29,7 @@ topics:
 - quarry
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  This afternoon Mr MacDermott SM held an inquest on the body of George Pascoe who had been killed by falling into a quarry at Hampton the previous evening.  A. Motley was elected foreman.

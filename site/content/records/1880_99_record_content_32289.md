@@ -22,6 +22,7 @@ topics:
 - marriage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  17 April at the residence of the bride’s father.  Alexander Harris of Broken Hill, only son of Alexander Harris of Burra and Jane Jessie Henderson, 2nd daughter of William Henderson of Burra.

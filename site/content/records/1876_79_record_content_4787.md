@@ -18,6 +18,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Church, Kooringa, anniversary 29 & 30 September.

@@ -22,6 +22,7 @@ topics:
 - theft
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Local Court of Full Jurisdiction (Criminal) 29 January.

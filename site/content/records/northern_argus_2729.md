@@ -24,6 +24,7 @@ topics:
 - community
 - National Trust
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Bob Lewis is President of the National Trust SA and a grandson of the late Hon. John Lewis MLC, formerly of Burra.  In March he presented a framed portrait of his grandfather to the Lewis Board of Management.  It now hangs in the restored Bible Christian Chapel, which serves as the booking office for Paxton Square cottages.  The Hon. John Lewis bought the Square in 1913 from SA Mining Association.

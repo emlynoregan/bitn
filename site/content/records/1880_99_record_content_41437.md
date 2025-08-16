@@ -18,6 +18,7 @@ topics:
 - crime
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Scoundrelism: Someone broke down fences and knocked on doors last Sunday night.  Among those affected was W.J. Davey who offers a £2 reward.

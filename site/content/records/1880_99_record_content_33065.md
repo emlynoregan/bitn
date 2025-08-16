@@ -18,6 +18,7 @@ topics:
 - law
 - suicide
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Sale of Poisons: concerned with the number of suicides (and murders?) through the ready availability of ‘rough on rats’ and of flypapers.

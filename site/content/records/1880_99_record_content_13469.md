@@ -23,6 +23,7 @@ topics:
 - regulation
 - aboriginal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dog Nuisance.  A meeting of stockowners was held at the Institute on Friday with Captain Killicoat in the chair.  The meeting considered means of suppressing the dog nuisance.  Eight resolutions passed recently at a Clare meeting were read.

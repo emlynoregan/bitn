@@ -21,6 +21,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The new officers in charge in SA, Major Lindsay and Adjutant Burnell, visited Kooringa last Wednesday and large meetings were held out of doors and at the barracks.

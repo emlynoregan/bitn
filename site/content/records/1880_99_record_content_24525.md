@@ -18,6 +18,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Intercolonial Railway.  The line to Melbourne is in full working order, but so far has few passengers.

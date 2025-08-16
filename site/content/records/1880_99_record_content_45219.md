@@ -19,6 +19,7 @@ topics:
 - tennis
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  On 16 April on the courts opposite the hospital Burra 83 games defeated Clare 74 games.

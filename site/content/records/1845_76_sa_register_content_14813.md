@@ -18,6 +18,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The German Lutheran Church here is now completed and will shortly be opened as a place of worship.

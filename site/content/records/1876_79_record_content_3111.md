@@ -20,6 +20,7 @@ topics:
 - municipal
 - mapping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 W. Brooks waited on the Corp. asking that East St Hampton be placed on Corp. maps.

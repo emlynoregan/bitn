@@ -28,6 +28,7 @@ topics:
 - advertisement
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  For Swansea and London the fine fast-sailing first-class barque BARBARA GORDON

@@ -25,6 +25,7 @@ topics:
 - show
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Growers.  There is a report on the gardens of the champion chrysanthemum growers in the district: Messrs Cave, Lewis and Harvey.  There was a wonderful display of flowers for the Adelaide Show which will leave Burra by the afternoon express.  Mr Cave is to exhibit c. 120 and Mr Lewis c. 80.

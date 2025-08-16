@@ -22,6 +22,7 @@ topics:
 - assault
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offence. George Davis was charged with indecently assaulting Alice McCabe at the Mine Bridge on 12 March and was committed for trial.

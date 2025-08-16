@@ -20,6 +20,7 @@ topics:
 - solicitor
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arthur K. Akhurst	Solicitor & Notary Public & Commissioner for taking Acknowledgements of Deeds executed by Married Women

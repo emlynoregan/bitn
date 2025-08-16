@@ -26,6 +26,7 @@ topics:
 - obituary
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs J.B. Stephenson, the wife of the Rev. J.B. Stephenson, previously of Burra, died of heart disease on the Orient on the voyage back to SA after a two-year visit to England.  Mr Stephenson takes up a post in Moonta.

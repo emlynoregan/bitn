@@ -20,6 +20,7 @@ topics:
 - education
 - language
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr C.A. Uhrlaub’s German classes resume 7 April at the High School Redruth.

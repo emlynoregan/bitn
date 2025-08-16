@@ -21,6 +21,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Burra Co VF will hold its annual meeting to consider the position of the company, to adopt the balance sheet, arrange for new uniforms and fix subscriptions for 1888.

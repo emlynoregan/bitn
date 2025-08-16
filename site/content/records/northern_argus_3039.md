@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Roger Boehm, art teacher at BCS will be giving an art exhibition at the Bible Christian Chapel in Paxton Square over the coming weekend.

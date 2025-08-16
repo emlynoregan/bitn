@@ -20,6 +20,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Wednesday at Burra Oval: St Mary’s 104 defeated Burra 28.

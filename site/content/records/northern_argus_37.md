@@ -23,6 +23,7 @@ topics:
 - arts
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Wesley College, Glen Waverley, Victoria, 23 Year 9 & 10 students presented the play Our Town in Burra Town Hall last week.

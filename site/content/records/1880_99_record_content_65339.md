@@ -19,6 +19,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army will show a limelight kinematographe and gramophone exhibition at the Barracks on 22 December.

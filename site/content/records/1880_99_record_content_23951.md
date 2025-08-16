@@ -20,6 +20,7 @@ topics:
 - school
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Public School Pupils’ Concert will be held at the Institute 10 December at 7.30 p.m., featuring Songs, Recitations, Dialogues and Music.

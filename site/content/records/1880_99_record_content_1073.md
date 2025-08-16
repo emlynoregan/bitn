@@ -19,6 +19,7 @@ topics:
 - events
 - races
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Races on the Queen’s Birthday Holiday were successfully held in a paddock adjoining Mr Midwinter’s Hotel.  A large crowd attended.

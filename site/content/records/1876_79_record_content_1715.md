@@ -20,6 +20,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital: Jan 10 the Burra Hospital Committee reported that part of the building was ready for use.

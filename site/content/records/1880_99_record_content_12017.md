@@ -20,6 +20,7 @@ topics:
 - assessment
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Pinch appealed against his assessment.  The premises were assessed at £22 and he thought they were not worth more than £12.  They had previously been a wine and spirit store assessed at £25, but were now a private dwelling.  The assessment was upheld with £1-1-0 costs against Mr Pinch.

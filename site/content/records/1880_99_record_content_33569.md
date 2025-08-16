@@ -19,6 +19,7 @@ topics:
 - show
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc.  The editor calls on men of progress to resuscitate the Burra Show Society.

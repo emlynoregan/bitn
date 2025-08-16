@@ -19,6 +19,7 @@ topics:
 - advertisement
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  H. Pinch and W. West both have full length two column wide advertisements for the Mayoralty.

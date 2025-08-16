@@ -20,6 +20,7 @@ topics:
 - cancer
 - chloroform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Dr Mayne yesterday operated on a patient for the removal of cancer of the breast.  The patient was put completely under the influence of chloroform and the operation was performed successfully.

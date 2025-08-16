@@ -17,6 +17,7 @@ topics:
 - sports
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [2nd prize was £5, 3rd £2 and 4th £1.]

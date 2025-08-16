@@ -20,6 +20,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy however, writes in support of the reduction, under the circumstances.

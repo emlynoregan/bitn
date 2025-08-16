@@ -25,6 +25,7 @@ topics:
 - family
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Rosey & Rob Zacher in Queensland recently, a son, Ori Llewellyn.  Rosey is the daughter of Ian & Margaret Allen and Rob was a former drama teacher in Burra.

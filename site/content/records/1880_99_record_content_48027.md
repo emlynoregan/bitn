@@ -29,6 +29,7 @@ topics:
 - awards
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra High School speech day on Wednesday last was held in the Institute with a smaller attendance than the quality of the program deserved.  Students presented Mrs McLagan with a clock and Miss Sprod with a silver table napkin ring.  The list of prize-winners is printed.

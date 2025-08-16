@@ -19,6 +19,7 @@ topics:
 - health
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School prize giving this year was without the usual concert, there being no time to prepare for it.  Early in the year measles broke out and for a month or two attendance was almost nil.  Then influenza struck and caused the annual inspection to be postponed.  The concert was foregone to allow for preparation for the postponed examination.  The list of prize-winners is printed.

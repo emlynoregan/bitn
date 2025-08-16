@@ -21,6 +21,7 @@ topics:
 - council
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial condemning the vote of censure passed on the two Councillors who, whatever their faults, have spent a great deal of time and trouble in carrying out their duties and who we believe have honestly acted according to their convictions.  There is criticism that too much work has been done in one area - the area where the two Councillors come from and yet we all see the problems most constantly before us as largest, so it is not surprising if Councillors do so too.  Also no effort has been made to get men from elsewhere to stand.

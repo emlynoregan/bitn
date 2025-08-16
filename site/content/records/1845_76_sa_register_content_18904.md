@@ -20,6 +20,7 @@ topics:
 - economy
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In mining, the Burra Creek party have begun work in earnest.  A second dray load of goods and tools have left for the Nackara Mine with two additional miners.  I have heard of £34 paid for half a share and know that £40 was offered for the same.  [In the paper of 31 August this was corrected to £34 for a full share.]

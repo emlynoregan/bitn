@@ -28,6 +28,7 @@ topics:
 - finance
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He felt that if subsidies went then the Council needed to retain locally raised fees (Licences etc.)  Some Councillors dissented on the grounds that subsidies favoured the city over country areas.

@@ -18,6 +18,7 @@ topics:
 - youth
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Allcomers also had about the same number of small fry swarming onto the ground ‘scarcely in their teens’

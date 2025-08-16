@@ -30,6 +30,7 @@ topics:
 - land policy
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting at the Institute on 12 April with the Mayor in the chair.

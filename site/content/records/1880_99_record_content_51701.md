@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  David Brown, a very old Hallett resident, died in the Burra Hospital last week.  [Died 3 November 1893 aged 70.]

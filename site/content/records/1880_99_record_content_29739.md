@@ -23,6 +23,7 @@ topics:
 - performance
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Fisk Jubilee Singers lived up to their rave reviews.  It was standing room only at the Institute and the takings were over £50 which are the best one night takings ever known here.  Having heard them before we think this performance was not up to their earlier style due to the loss of Miss M. Lawrence, their leading lady, and Mr Loudon, their leading bass voice was suffering from a very bad cold.  Nevertheless there were many encores and the night’s performance was very good.  If possible they may give a return performance on the way back from Broken Hill.

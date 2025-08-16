@@ -20,6 +20,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra will play Terowie on Christmas Day at the Recreation Ground beginning at 10 a.m.

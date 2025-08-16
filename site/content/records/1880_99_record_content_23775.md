@@ -19,6 +19,7 @@ topics:
 - lecture
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  A report on Father O’Dowling’s address on Irish history spreads across 4⅓ columns.

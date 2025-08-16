@@ -18,6 +18,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Good rains have fallen of late and the Burra Creek is flowing strongly.

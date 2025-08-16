@@ -23,6 +23,7 @@ topics:
 - recreation
 - holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Holiday Monday this week saw many parties go to Princess Royal or the Lagoon for picnics.  The Redruth Wesleyan Sunday School went to Sod Hut for their picnic.

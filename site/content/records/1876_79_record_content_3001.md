@@ -20,6 +20,7 @@ topics:
 - advertisement
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. W. Thwaites, Photographer will visit Kooringa early in November and set up his studio for a limited period. 12/6 for a doz. 7/6 per half doz.

@@ -25,6 +25,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary/Inquest at Kooringa on 18 Feb. on Samuel Baker who died in an accident at a well near Mr White's schoolroom. J.D. Cave, coroner.

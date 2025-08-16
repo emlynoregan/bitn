@@ -29,6 +29,7 @@ topics:
 - inquest
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest/Obituary.  An inquest was held at the Miners’ Arms on 28 July before Mr McDermott SM on the body of Hugh Parker.  Mr Hutson was elected foreman of the jury.

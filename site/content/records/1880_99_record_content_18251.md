@@ -19,6 +19,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘One of the Disgusted’ who was outraged at the prices charged for the Waterworks and the Government’s evident extortion of money from the Council.

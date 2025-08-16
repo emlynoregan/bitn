@@ -20,6 +20,7 @@ topics:
 - emergency
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fire broke out in Mrs Green’s boarding house at Kooringa this morning at 2 a.m.  When help arrived Mrs Green was alight and the door leading to a bedroom was burnt half-way through and some articles were damaged.  The cause is not known.

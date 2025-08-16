@@ -24,6 +24,7 @@ topics:
 - wheelwright
 - smith
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Harris	Coach Builder, Wheelwright, Shoeing & General Smith, Commercial St

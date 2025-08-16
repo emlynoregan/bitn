@@ -19,6 +19,7 @@ topics:
 - tennis
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis is popular and the new court opposite the hospital is used every afternoon.  An asphalt court would however be an improvement.

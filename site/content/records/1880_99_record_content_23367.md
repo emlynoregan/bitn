@@ -24,6 +24,7 @@ topics:
 - school board
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board met with P. Lane in the chair and Messrs Dunstan, Bartholomæus, Packard and Holder.

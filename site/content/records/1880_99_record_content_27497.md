@@ -19,6 +19,7 @@ topics:
 - vandalism
 - property damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘An old verandah in front of Messrs Shakes & Lewis’ Office was pulled down, and a good deal of smaller mischief done.’

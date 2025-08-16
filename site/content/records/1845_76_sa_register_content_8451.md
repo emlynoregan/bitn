@@ -26,6 +26,7 @@ topics:
 - police
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Parker applied on behalf of Mr Robert Martin for a licence that had been refused by the Bench the previous week.  He said:

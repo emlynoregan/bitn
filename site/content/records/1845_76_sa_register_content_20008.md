@@ -22,6 +22,7 @@ topics:
 - transport
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William T. Bleechmore of Auburn writes on 10 December to complain of the very poor service provided by the mail conveyances in the north.  He recently had but a very precarious seat on top of mail bags when travelling to Auburn.  He says he has often heard that southern coaches are far superior with a mail guard in charge.

@@ -19,6 +19,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Sunday Closing and Local Option Associations.  There was a meeting at the Burra Institute last Monday that debated the selection of candidates for Parliament who would support the cause.

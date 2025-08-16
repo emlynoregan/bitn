@@ -21,6 +21,7 @@ topics:
 - slums
 - urban
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on slums in Adelaide inspected by the Adelaide Board of Health and noticing that: ‘even in Burra there are astounding human rookeries, of which people rolling by in their buggies have not the slightest conception’.

@@ -23,6 +23,7 @@ topics:
 - gold
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 James Trestrail writes to the editor from Trenale, Barossa, 16 January.

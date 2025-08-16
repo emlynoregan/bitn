@@ -21,6 +21,7 @@ topics:
 - building
 - residence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr G. Gebhardt has had a residence built near Kooringa by Mr Bundey; architect W. Beattie.

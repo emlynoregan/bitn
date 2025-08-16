@@ -20,6 +20,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mayor asked the Council to consider raising money from the saleyards within the Corporation area either by licensing private yards or by buying them or erecting them for themselves.  This move was driven by the Council’s indebtedness.

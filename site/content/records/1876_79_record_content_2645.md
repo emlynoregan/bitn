@@ -18,6 +18,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Letter from the Commissioner of Public Works to the effect that £500 for the Kooringa road is enough.

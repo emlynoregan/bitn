@@ -20,6 +20,7 @@ topics:
 - death
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  9 October at Redruth, Frederick Vollmer, baker, aged 58, a colonist of 32 years.

@@ -20,6 +20,7 @@ topics:
 - investment
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  There are rumours that the Government might sink some capital into the opening up of the fields.

@@ -17,6 +17,7 @@ topics:
 - community
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was another letter along the same lines and two others were received, but not published.

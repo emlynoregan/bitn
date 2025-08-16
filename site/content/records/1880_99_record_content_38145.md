@@ -18,6 +18,7 @@ topics:
 - sports
 - boat race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A boat race on Parramatta River for £200 aside took place on Monday and another for the same stake is planned for 17 November.

@@ -20,6 +20,7 @@ topics:
 - event
 - record
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pedestrianism. A local person ran recently from Burra to Hallett in 3½ hours at an average of 6 m.p.h.

@@ -20,6 +20,7 @@ topics:
 - hunting
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club’s next race will be from Farrell’s Flat to Burra on 11 April.  A program for future events has been arranged.

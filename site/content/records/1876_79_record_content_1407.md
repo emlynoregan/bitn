@@ -20,6 +20,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 500-600 attended the Redruth Wesleyan Sunday School Picnic and Sports, but it was rather windy.

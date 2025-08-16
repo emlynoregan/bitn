@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Saturday 31 December a monster open-air meeting was held in Kooringa in aid of the Broken Hill poor.  The Band played on the Commercial Hotel balcony.

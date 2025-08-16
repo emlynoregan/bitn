@@ -21,6 +21,7 @@ topics:
 - property tax
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Discusses speculation that the Government will soon need to impose further taxation on SA as falling land values have decreased income from Land Tax. The debate was on a Land Tax and a General Property Tax.

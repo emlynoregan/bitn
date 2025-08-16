@@ -21,6 +21,7 @@ topics:
 - meeting
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Douglas Primitive Methodist Church, 27 & 30 October.  The Bible Christian Rev. T.M. Flood will preach. Tea at 4.30 and public meeting at 7.30 on Wednesday.

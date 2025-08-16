@@ -20,6 +20,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  The search for gold has been renewed, this time at Ulooloo and we hope for some success.

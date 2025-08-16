@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. J.S. Wright [sic] will preach at Kooringa Primitive Methodist Church on Sunday 4 August.  There will be a public dinner on Wednesday 7 August at 4.30 p.m. and at 7 .30 p.m. Rev. J.G. Wright will deliver his popular lecture 50 Years of My Ministry.

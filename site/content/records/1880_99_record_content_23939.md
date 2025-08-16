@@ -20,6 +20,7 @@ topics:
 - water
 - resource
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Buyers are offering only £3-15-0 for an ounce of Teetulpa gold and many miners are refusing to sell at such a price.

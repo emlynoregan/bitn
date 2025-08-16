@@ -19,6 +19,7 @@ topics:
 - copper
 - smelters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copper. The Wallaroo Smelters are working only 10 of the 32 furnaces.

@@ -17,6 +17,7 @@ topics:
 - agriculture
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Harvesting Machine Competition has attracted 22 competitors to try for the £4,000 prize.

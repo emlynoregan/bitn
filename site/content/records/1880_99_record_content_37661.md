@@ -19,6 +19,7 @@ topics:
 - parliament
 - no confidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Parliament was still debating the no confidence motion as we went to press at 10 p.m. Thursday night.

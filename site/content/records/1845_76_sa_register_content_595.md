@@ -22,6 +22,7 @@ topics:
 - mining
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr John Roberts, engineer, has invented a means of creating  by mechanical means an enlargement at the end of a hole bored for blasting.  This allows for an extra charge of powder with increased effects.  It was first tried at Kapunda, but Mr Roberts has now transferred his services to the SA Mining Association.

@@ -23,6 +23,7 @@ topics:
 - politics
 - public response
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Re the Kooringa Election – Mr Mildred’s Committee responds to Kingston’s address.

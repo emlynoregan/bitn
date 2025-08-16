@@ -20,6 +20,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather has been very hot, dusty and dry with little feed about and people have had to dispose of stock.

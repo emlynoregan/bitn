@@ -18,6 +18,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Member of the Hospital Sewing Circle since 1931 and currently its convenor.

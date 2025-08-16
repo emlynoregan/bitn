@@ -20,6 +20,7 @@ places_mentioned: []
 topics:
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The boy referred to in the report was accompanied by one of Mr Williams’s sons who suggested (after the other boy’s father had refused them matches) that they apply to his mother. (i.e. Mrs Williams)

@@ -21,6 +21,7 @@ topics:
 - military
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI (Also often referred to as Mounted Rifles) has continued to receive contributions among which were sums from Sir Henry Ayers MLC & Mr W.J. Barker.

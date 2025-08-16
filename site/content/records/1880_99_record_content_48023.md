@@ -24,6 +24,7 @@ topics:
 - events
 - awards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School broke up on Thursday 22 December with a public entertainment in the Institute to a full house.  The entertainment was a great success.  Prizes and certificates were distributed.  At the annual examinations 271 were examined with85% result.

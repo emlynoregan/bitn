@@ -20,6 +20,7 @@ topics:
 - safety
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Lights on vehicles. We remind readers that lights are not required on vehicles on the nights from the 4-8 March on account of the full moon. The Act does not require them on the full moon or the 4 night previous.

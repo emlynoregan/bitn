@@ -19,6 +19,7 @@ topics:
 - economy
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Savings Bank of SA.  The run did not have a very dramatic effect overall.  For April deposits were £84,030-11-5 and withdrawals were £101,066-0-1.  The decrease in deposits being thus £17,035-8-8.

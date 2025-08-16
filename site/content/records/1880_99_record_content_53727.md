@@ -21,6 +21,7 @@ topics:
 - music
 - poetry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.A. Uhrlaub contributes an original poem: The Mount Bryan March, which has been set to music by Inspector Clark.

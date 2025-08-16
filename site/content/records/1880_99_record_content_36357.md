@@ -20,6 +20,7 @@ topics:
 - social
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Cricket Club annual social will be held at the Commercial Hotel on Friday 9 May at 7.30 p.m.

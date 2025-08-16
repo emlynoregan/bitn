@@ -21,6 +21,7 @@ topics:
 - event
 - public disorder
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Clare Salvation Army held a great meeting in the Clare Skating Rink on Easter Saturday, where seating was provided for 400.  Larrikins rained stones on the roof.  Services continued Sunday and Monday and so did the rain of stones.  500 sat down for the tea fight on Monday.

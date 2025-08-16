@@ -22,6 +22,7 @@ topics:
 - law
 - slaughterhouse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cattle Stealing.  Instances of cattle stealing have already occurred in the neighbourhood.  The police are on the alert and cases will be prosecuted rigorously.  We should be glad to hear that a competent Inspector of Brands had been appointed to the new Slaughter-house, which is now nearly completed and will shortly be opened.

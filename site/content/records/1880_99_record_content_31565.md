@@ -22,6 +22,7 @@ topics:
 - military
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 General Downes as a retired officer has been denied the right to command the SA forces by British authorities.  The SA Government is trying to induce the authorities to change their minds.  He has in the mean time tendered his resignation.

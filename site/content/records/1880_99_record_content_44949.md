@@ -26,6 +26,7 @@ topics:
 - agriculture
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  A meeting was held at the German schoolhouse about four miles south of Lapford on 2 April to consider wire netting the scrubby lands of south Baldina Hundred and north Bright Hundred from the agricultural lands to the west.  Burra & Apoinga District Councils were represented.  A major problem is the untenanted Block A.

@@ -19,6 +19,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The fourth match for the Cr Sampson Cup was fired on Wednesday last and was won by Private Parks.

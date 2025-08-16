@@ -20,6 +20,7 @@ topics:
 - events
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Football.  Clare v. Burra at the Recreation Ground, Burra, 1.30 p.m. Queen’s Birthday, 24 May, 6d.

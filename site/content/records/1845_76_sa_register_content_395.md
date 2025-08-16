@@ -22,6 +22,7 @@ topics:
 - employment
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A considerable supply of doors and window frames and building materials has been seen heading to the Burra Burra Mines.

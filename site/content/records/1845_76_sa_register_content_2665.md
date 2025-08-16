@@ -33,6 +33,7 @@ topics:
 - mining
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Another Strike at the Burra Burra Mine

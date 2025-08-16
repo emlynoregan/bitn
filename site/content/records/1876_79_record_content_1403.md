@@ -19,6 +19,7 @@ topics:
 - performance
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Lynch's Bell Ringers were favourably reviewed and though poorly attended the 1st night were crowded the 2nd.

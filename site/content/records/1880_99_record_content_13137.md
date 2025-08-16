@@ -19,6 +19,7 @@ topics:
 - faith healer
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Adelaide Correspondent has much to say of the faith healer who is active there: Mr Wood.

@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘His style is quite inconventional [sic] and once on Friday general applause broke out and was with difficulty repressed.’

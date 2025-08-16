@@ -19,6 +19,7 @@ topics:
 - religion
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘…the most remarkable feature whereof was the absurd and vitiated taste displayed in the recitations of the juveniles.  Seven pert damsels, decked in aprons of “all the colours of the rainbow,” recited a piece called “The Rainbow” – and this was on a Sabbath-day!’

@@ -20,6 +20,7 @@ topics:
 - weather
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The streets here have been busy with the number of drays engaged in carting firewood to the Smelting Works and those conveying stocks of stores to the sheep stations.  Roads are in a passable state due to the recent fine weather.

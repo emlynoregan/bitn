@@ -19,6 +19,7 @@ topics:
 - show
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Show: Ed. support for a Burra Show, perhaps in August.

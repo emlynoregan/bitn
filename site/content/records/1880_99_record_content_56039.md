@@ -20,6 +20,7 @@ topics:
 - pest control
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Simultaneous destruction within the Burra DC area began on 1 February and has seen a satisfactory result with phosphorized pollard as the chief bait.  The Hundred of Apoinga program will begin on Friday.

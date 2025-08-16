@@ -21,6 +21,7 @@ topics:
 - publication
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  F.W. Holder announces the issue on 1 January 1881 of The North Eastern Times and Terowie News.

@@ -18,6 +18,7 @@ topics:
 - brands
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Brands Act.

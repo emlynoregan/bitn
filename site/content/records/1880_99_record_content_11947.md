@@ -19,6 +19,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This was probably organised by John Roach as he performed the major recitation in the second half.]

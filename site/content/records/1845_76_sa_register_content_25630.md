@@ -19,6 +19,7 @@ topics:
 - travel
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Bimba’ writes re travel in the northeast.

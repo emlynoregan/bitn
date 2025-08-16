@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sir Henry Ayers has written granting the land requested for the new bridge.

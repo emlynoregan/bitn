@@ -19,6 +19,7 @@ topics:
 - bazaar
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Bazaar on Wednesday and Thursday last was opened by Rev. J. Bickford. The room was splendidly decked out and a good trade was done. The first day produced £81-6-4 and the second about £50. The remaining items will be sold at reduced prices tonight.

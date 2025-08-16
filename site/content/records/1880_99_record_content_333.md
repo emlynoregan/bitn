@@ -21,6 +21,7 @@ topics:
 - labor
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Economist’ condemning the Council’s attempt to make their workmen pay for keeping their tools sharp and in order.  (The editor agrees that it is usual for Corporations, District Councils, Road Boards and large contractors to pay for the sharps of their employees.)

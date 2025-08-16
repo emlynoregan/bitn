@@ -22,6 +22,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Cricket Club met at Commercial Hotel on Friday 6 September. E. Lipsett was elected President and W. Parker, Vice-President. 

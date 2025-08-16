@@ -17,6 +17,7 @@ topics:
 - legislation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Payment of Members Bill has seen the provision for £200 p.a. deleted and £2-2-0 per sitting day, to a maximum of 80 days p.a. put in its place.  [It still faced the Legislative Council]

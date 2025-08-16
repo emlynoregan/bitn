@@ -21,6 +21,7 @@ topics:
 - development
 - cyanide treatment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hallett & Ulooloo Goldmining Syndicate held a meeting at Hallett on 27 February to hear a report on five tons of ore sent to Petersburg for cyanide treatment.  The report encourages further development.

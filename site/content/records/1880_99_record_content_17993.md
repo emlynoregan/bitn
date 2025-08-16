@@ -21,6 +21,7 @@ topics:
 - livestock
 - sheep
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advts. Liston, Shakes & Co. will offer 13,440 sheep on 5 June.

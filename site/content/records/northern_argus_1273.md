@@ -20,6 +20,7 @@ topics:
 - council
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 C.R. Irlam writes to the editor complaining of the secrecy in the our of court settlement the Burra Burra DC has made as a result of the Industrial Court’s finding that it had unfairly dismissed an employee.

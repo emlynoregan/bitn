@@ -20,6 +20,7 @@ topics:
 - fundraising
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Roach’s Entertainment presented last Friday in aid of the Burra Institute was well attended.  The little nigger boys enjoyed their performances as much as the audience did.  Nett proceeds were £14, which attracts a subsidy, and means a £28 gain for the funds.

@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The anniversary of the Kooringa Primitive Methodist Church will be held 3 & 4 October.

@@ -35,6 +35,7 @@ topics:
 - subscriptions
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  J.R. Austin advises he proposes to research and print a pamphlet on all the mines in the colony after visiting each.  The proposal depends upon his prior gaining subscriptions for 1,000 copies of the pamphlet, to be paid for at 3/6 a copy for not less than six copies.  No subscribers would be charged 4/6.  Among those who have already subscribed are: Thomas Elder (60 copies), Henry Martin (50), Wallaroo Mining Co. (50),  Moonta Mining Co. (50), Karkarilla Mining Co. (50), The Hon. The Chief Secretary (20), SA Banking Co. (7), H.C. Gleeson (12), F.H. Faulding (10), T.J. Bagot (6), E.M. Bagot (6), John Hodgkiss (6), His Excellency Sir Dominick Daly (25).

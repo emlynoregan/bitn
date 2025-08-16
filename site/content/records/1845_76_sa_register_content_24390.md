@@ -24,6 +24,7 @@ topics:
 - death
 - genealogy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Theresa Day was born 28 October 1871 Lindsay Creek, River Murray to Jacob Day and Catherine Ryan, and died 22 January 1872 at Redruth.]

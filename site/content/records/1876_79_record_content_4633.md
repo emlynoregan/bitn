@@ -22,6 +22,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Razorback Wesleyan Church. A lecture will be given by the Rev. R.W. Campbell on Monday 2 Sept. at 7.00 pm on Peter Cartwright, the backwoods preacher. Collection to the trust fund.

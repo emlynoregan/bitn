@@ -21,6 +21,7 @@ topics:
 - wool
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from A. Graham, Mayor of Goolwa, complaining of the very low rates charged by the railways to transport wool compared with anything else.

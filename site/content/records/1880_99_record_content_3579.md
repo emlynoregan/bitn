@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr F.R. White informs his pupils the new quarter begins 28 March.

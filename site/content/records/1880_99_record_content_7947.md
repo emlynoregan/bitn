@@ -33,6 +33,7 @@ topics:
 - horticulture
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show was held on 22 September at the English and Australian Copper Co. grounds at Redruth.  It was an unqualified success despite the unseasonable weather.  The attendance was c. 2,000.  Sheep and poultry were the chief exhibits.  Cattle were slightly improved and horses were good.  Implements were better represented and two stump-jump ploughs were shown.  Mt T.H. Pearse of Hallett showed two traps.

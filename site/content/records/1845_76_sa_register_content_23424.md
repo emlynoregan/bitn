@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 'T.B.' of Mt Bryan writes:

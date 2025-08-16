@@ -20,6 +20,7 @@ topics:
 - premises
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Record, having been in existence for 17 years without its own premises, is about to acquire a well-appointed printing office.  The old shop known as Geake’s has been demolished and premises for the paper will be built there.

@@ -21,6 +21,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Observer’ on the same, saying that not only is this desecration seen in Aberdeen, but also at the Unicorn Brewery and in the yard ‘of a respectable boarding establishment.’

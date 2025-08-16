@@ -19,6 +19,7 @@ topics:
 - heritage
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The Senior SRC has pledged $100 towards the cost of restoring two old photographs at Burra Town Hall.  The Town Hall Committee is interested in restoring a number of photographs in readiness for setting up the old meeting room as it was years ago.

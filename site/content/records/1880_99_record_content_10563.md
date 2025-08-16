@@ -22,6 +22,7 @@ topics:
 - natural disaster
 - tsunami
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ‘Cracatia’ Eruption is further reported.  There is total destruction in the port of Anjer with early reports placing the loss of life at 30,000 and others saying 75,000.  A tidal wave was felt along the WA coast.  At Geraldton, on 26 August, the sea receded 100 yds and then returned, rising 8 feet.  The effect was also felt at Fremantle.

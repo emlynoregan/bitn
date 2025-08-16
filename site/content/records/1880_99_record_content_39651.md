@@ -20,6 +20,7 @@ topics:
 - non-fiction
 - table_of_contents
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Uncle Sam’s Old Bones, 21 November.

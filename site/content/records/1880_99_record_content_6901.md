@@ -19,6 +19,7 @@ topics:
 - vestry
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s vestry meeting empowered the churchwardens to dispose of the fittings of the old church.

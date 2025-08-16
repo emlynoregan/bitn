@@ -19,6 +19,7 @@ topics:
 - population
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Population loss.  578 persons have left SA by sea since 1 January.  Mostly to go to Melbourne.

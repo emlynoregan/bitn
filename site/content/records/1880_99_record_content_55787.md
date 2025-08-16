@@ -25,6 +25,7 @@ topics:
 - religious service
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year’s Eve was quiet except for the tearing up of a few footbridges and generally the rowdy element was conspicuously absent.  Midnight services were held in the Wesleyan Church and the Burra Brass band played on the balcony of the Commercial Hotel.  Kooringa Wesleyan Sunday School held a picnic at Sod Hut on 1 January in good weather.

@@ -20,6 +20,7 @@ topics:
 - community
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Cynic’ considers a good flood down the creek would be a good thing if it:

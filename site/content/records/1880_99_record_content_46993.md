@@ -22,6 +22,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Whip' reports the first meeting of the United Friendly Societies’ Demonstration Committee was held in the Burra Institute last night.

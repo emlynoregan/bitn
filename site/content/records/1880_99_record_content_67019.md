@@ -19,6 +19,7 @@ topics:
 - events
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robert Giles, a former Burra boy, reports his trip around the world.

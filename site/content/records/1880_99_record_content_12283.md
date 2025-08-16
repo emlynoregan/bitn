@@ -21,6 +21,7 @@ topics:
 - religion
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Lecture by the Venerable Archdeacon Dove at the Institute on 19 February on Impressions of India.

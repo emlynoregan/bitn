@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  A locomotive has used the line to Melbourne as far as Dimboola and on the Silverton line operations should reach Manna Hill by the end of July.

@@ -21,6 +21,7 @@ topics:
 - politics
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. F.W. Holder’s speech on Federation at the Institute on 2 February gets a two column report.

@@ -19,6 +19,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 National Trust 22nd AGM was held at the Burra Civic Centre on 3 March.

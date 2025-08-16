@@ -23,6 +23,7 @@ topics:
 - crop
 - farming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat to the west of Burra (In the Leighton, Ironmine & Shafton areas.) is splendid, especially where artificial manures were applied.

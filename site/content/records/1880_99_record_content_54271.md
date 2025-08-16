@@ -19,6 +19,7 @@ topics:
 - event
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The match versus Clare was cancelled due to bad weather, but should take place next Wednesday.

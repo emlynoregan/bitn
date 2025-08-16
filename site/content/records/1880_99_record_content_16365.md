@@ -21,6 +21,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Sara & Dunstan have started work on the new barracks in Burra.

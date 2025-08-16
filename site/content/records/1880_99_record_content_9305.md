@@ -17,6 +17,7 @@ topics:
 - literature
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Some of the material normally in the Literary Supplement appears here, notably chapters XX-XXI of Saved by a Ring.

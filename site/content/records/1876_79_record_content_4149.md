@@ -19,6 +19,7 @@ topics:
 - roads
 - board
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board. Plans for a new iron bridge for Redruth were presented and approved.

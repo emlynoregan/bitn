@@ -20,6 +20,7 @@ topics:
 - economy
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Many of the oldest miners are leaving here at present for Kapunda and Wallaroo, being unable to earn enough to keep them, which owing to the high price of flour is a difficult matter, as there has been no corresponding rise in wages.

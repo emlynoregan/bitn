@@ -19,6 +19,7 @@ topics:
 - racing
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Racing.  [R. Austin’s] Happy Eliza beat W. Henderson’s Converted Jane last Saturday.

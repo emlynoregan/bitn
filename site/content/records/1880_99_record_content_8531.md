@@ -20,6 +20,7 @@ topics:
 - concert
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Cricket Club Grand Concert 13 December at the Institute.

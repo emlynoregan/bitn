@@ -20,6 +20,7 @@ topics:
 - complaint
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Smith’ writes complaining of the Waterworks fiasco and saying it is reported the pipes may be dry till after Christmas.  Such a long cut is an unnecessary bungle.  A pump might be used at night even if retimbering was going on during the day.

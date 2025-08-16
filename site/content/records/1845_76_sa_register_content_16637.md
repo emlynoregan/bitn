@@ -21,6 +21,7 @@ topics:
 - public opinion
 - magistrate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  To James William MacDonald Esq. SM, Commissioner of Insolvency.

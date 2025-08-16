@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas.  The town was very lively on Saturday evening and brisk trading was done until closing time.  Shops were bright with lights.  On Monday all was very quiet with many leaving for a change of air and even the cricket drew only a small crowd.  The Primitive Methodist tea meeting was well attended.  Tuesday and Wednesday were also holidays though a few businesses opened on Wednesday.  The weather was good until Wednesday when heat and a dust storm was experienced until a change arrived.

@@ -29,6 +29,7 @@ topics:
 - obituary
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rev. G.W. Patchell, who was stationed in the Kooringa circuit six years ago, had an apoplectic seizure at the Conference last Friday and died.  He was aged 50 and leaves a wife and 5 children.  He had been at Goolwa for the last 3 years.

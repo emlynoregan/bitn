@@ -20,6 +20,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Creamery.  F. Duldig’s Creamery is being built.  Tenders for milk collection are called.

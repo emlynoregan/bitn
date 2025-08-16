@@ -22,6 +22,7 @@ topics:
 - editorial
 - local news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  [Benjamin Franklin Langford inserts a rather strange notice, but one which seems to fit his character.  He intimates that he is soon to leave Burra and he thanks those who welcomed him and have been courteous and kind.  He then takes a very round about way to sarcastically ‘thank’ a young woman who apparently conveyed abroad most offensively her opinion of him.  In the process he compares her with a costermonger’s donkey cart.]

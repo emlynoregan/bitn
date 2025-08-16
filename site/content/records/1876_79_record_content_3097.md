@@ -23,6 +23,7 @@ topics:
 - finance
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines. At the shareholders' meeting on 12 November chaired by G. S. Kingston it was revealed that losses in the last five years were £82.000 and since 1875, when Arthur Blyth proposed winding up the company, they had been £23,730. It was expected the sale of surplus equipment etc. would virtually liquidate all outstanding liabilities and any small balance outstanding could be met from income from property. Mr Tomkinson complained of the incompetence implicit in the continued operations over the last few years and Sir Henry Ayers defended the actions of the directors in that period. The meeting then adjourned for a month to allow directors to visit the mine and report back.

@@ -20,6 +20,7 @@ topics:
 - campaigning
 - ethics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Elector’ writes protesting an attempt by election candidates to get free travel while campaigning.

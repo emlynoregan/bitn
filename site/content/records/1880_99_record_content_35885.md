@@ -19,6 +19,7 @@ topics:
 - food_prices
 - flour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Bread Winner’ thinks it is time the price of bread went down as flour has dropped 7/- to 8/- a bag and the price had previously risen on the basis of the rising flour price.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.   Burra 26 December.  The harvest is proving to be one of the best seen in this neighbourhood.

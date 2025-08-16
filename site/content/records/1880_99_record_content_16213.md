@@ -18,6 +18,7 @@ topics:
 - offence
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stephen Hill - driving a cab from the stand before time on Christmas Day - 10/-.

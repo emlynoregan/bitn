@@ -27,6 +27,7 @@ topics:
 - agriculture
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Baldina creeks and dams overflowed and saltbush was stripped to twigs, destroying essential summer feed.

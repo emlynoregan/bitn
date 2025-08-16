@@ -25,6 +25,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo.  The first Sunday School Anniversary was preached at Ulooloo by Rev. Wilson.  On Monday the students were conveyed by wagons to a site near Messrs Stephens and Brayley’s station for sports and a luncheon.  About 200 children attended.  Tea followed the sports and Mr Wilson gave a talk reminiscing about missionary life.  Other recitations, addresses and songs followed and £12-11-0 was raised.  The school has been established for ten months only.

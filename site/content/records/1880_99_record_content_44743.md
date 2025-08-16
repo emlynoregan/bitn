@@ -19,6 +19,7 @@ topics:
 - lost_property
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 If the person who took the striped blind from the Commercial Hotel will call again he will get its mate.

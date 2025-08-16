@@ -19,6 +19,7 @@ topics:
 - sport
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lawn Tennis is getting popular.  There is no club at Aberdeen, but M-C Benham has a private court and allows its use.

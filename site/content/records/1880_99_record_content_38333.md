@@ -19,6 +19,7 @@ topics:
 - politics
 - mayoralty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Kooringa’ writes saying the Mayor should come from the south end where ‘all the business is done’ and ‘most of the rates are collected’.

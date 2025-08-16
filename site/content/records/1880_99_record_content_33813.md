@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davey’s Burra Band concert at Redruth on 21 Sep. was well attended and much appreciated.

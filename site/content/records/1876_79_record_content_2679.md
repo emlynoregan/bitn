@@ -19,6 +19,7 @@ topics:
 - church
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. McCulloch denies promising £500.

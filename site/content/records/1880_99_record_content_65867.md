@@ -20,6 +20,7 @@ topics:
 - polo
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  The match at Broken Hill was won by Burra 8 goals to Broken Hill’s 1 behind.

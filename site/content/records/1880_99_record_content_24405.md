@@ -20,6 +20,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  With nothing else offering, Mr J. Roach got up a program for last Monday to finish off the holiday season at the Institute: in aid of Institute funds.

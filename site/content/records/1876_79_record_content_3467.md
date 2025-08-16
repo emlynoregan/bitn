@@ -22,6 +22,7 @@ topics:
 - community
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Commissioner of Police indicates that P.C. Wilson has been shifted for a sufficient reason and he will not intervene. The Council decided to continue to press for his return to Kooringa through the efforts of the local M.P.s (Rees and Rounsevell)

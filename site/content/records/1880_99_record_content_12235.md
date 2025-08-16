@@ -20,6 +20,7 @@ topics:
 - breach of the peace
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Thomas was fined 20/- for using words intended to provoke a breach of the peace in Chapel St on 1 February.

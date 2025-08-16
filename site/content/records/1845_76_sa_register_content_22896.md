@@ -23,6 +23,7 @@ topics:
 - employment
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  Mr Darlington, who recently inspected the Mine, returned to England and it is reported has engaged Mr Swansborough to superintend the new workings of the Mine.  The necessary new machinery is presently being manufactured under Mr Darlington’s direction.  Mr Challoner will retain general superintendence, but Mr Swansborough will superintend the new system of working.  It is not known yet when Mr Swansborough will arrive in the colony, but the Directors expect to recommence working by April 1870.

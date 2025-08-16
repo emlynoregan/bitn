@@ -22,6 +22,7 @@ topics:
 - public information
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Though the railways are about to take over the line to Silverton, the branch line to Mt Gambier and to make special arrangements for trains to the Jubilee Exhibition, no information has been made available to the public about any of this.  The Government has announced only that the excursion fares to the Adelaide Exhibition will be for 6 weeks only.

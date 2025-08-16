@@ -26,6 +26,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Letcher Family was farewelled at a barbecue at the Scout Hall in Burra Showgrounds last Friday, attended by Scouts, Venturers, Guides, Brownies, parents and friends.  The family is moving to Adelaide after nine years in Burra.  [Photo.]

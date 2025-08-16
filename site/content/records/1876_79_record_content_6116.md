@@ -26,6 +26,7 @@ topics:
 - committee
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gymnasium Club. A fair attendance was obtained to form this club on Wednesday evening. W.C. Grasby took the chair. A committee of Messrs Cater, Grasby, Richards, Urwin and G. Dawson will ascertain costs of equipment and of a room.

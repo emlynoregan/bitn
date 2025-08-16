@@ -20,6 +20,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Youths' Athletic Sports gained a fair attendance at their meeting in Austin's paddock. Winners are published.

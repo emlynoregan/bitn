@@ -22,6 +22,7 @@ topics:
 - obituary
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Reredon* at Burra Hospital, 26 November, of gangrene of the right arm.  The injury was sustained at Petersburg.  (Not a local to Burra)

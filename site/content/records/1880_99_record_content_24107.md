@@ -21,6 +21,7 @@ topics:
 - fundraising
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Grand Entertainment in aid of the Burra Cricket Club will be held at the Institute 27 December.  The Original Court Minstrels (From Adelaide) will perform at 8 p.m.  2/- and 1/-.  After which there will be a Grand Ball.  Double Tickets 2/6, Single Gentlemen 2/-, Single Ladies 1/-.

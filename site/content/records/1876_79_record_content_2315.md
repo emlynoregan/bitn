@@ -19,6 +19,7 @@ topics:
 - music
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Successful social musical evening of song and recitation at the Redruth Wesleyan Schoolroom.

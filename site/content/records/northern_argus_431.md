@@ -22,6 +22,7 @@ topics:
 - show
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Pony Club’s 10th Anniversary Horse Show drew a crowd of c. 300.  Club President Bill Keane was pleased with the response.  Ray Wardle, the club’s inaugural President, opened the show.  [Two photos.]

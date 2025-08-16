@@ -19,6 +19,7 @@ topics:
 - housing
 - redevelopment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ruins of the old Aberdeen Hotel have been converted to a good row of neat cottages.

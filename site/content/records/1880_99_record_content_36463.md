@@ -21,6 +21,7 @@ topics:
 - government
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti-Monopoly’ writes complaining of the operation of the Land Boards in allotting blocks of land to applicants.  Recently with 70 applicants for 8 blocks in the Hundred of King, two of which, consisting of 43,072 acres, went to Messrs T.W. Warnes and J.F. Warnes, sons of a member of the board.

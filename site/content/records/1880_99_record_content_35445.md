@@ -19,6 +19,7 @@ topics:
 - meeting
 - postponement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF was to have met on Friday evening last, but Captain Holder was unable to attend due to unforseen circumstances and it is postponed to 21 Feb.

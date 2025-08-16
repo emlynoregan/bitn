@@ -21,6 +21,7 @@ topics:
 - railway
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The mayor reported that a gong would be fixed at the Aberdeen railway crossing.

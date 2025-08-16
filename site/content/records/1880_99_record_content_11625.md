@@ -19,6 +19,7 @@ topics:
 - serial
 - journal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 23 Mar.	XIV-XVI	Passages from the Journal	X	X		X	X	X	X	X		X	How I Met Frank Weston

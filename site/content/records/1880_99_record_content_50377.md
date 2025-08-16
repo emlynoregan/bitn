@@ -18,6 +18,7 @@ topics:
 - event
 - admission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Admission free, reserved chairs 6d.

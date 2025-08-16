@@ -20,6 +20,7 @@ topics:
 - foreign missions
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church special sermon to young men on 11 November: ‘Joseph in Egypt’ and on Sunday 18 and Monday 19 November in aid of Foreign Missions.

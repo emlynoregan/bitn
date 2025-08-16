@@ -29,6 +29,7 @@ topics:
 - redevelopment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Sunday Mail (Adelaide) 2 March 1986 Magazine Section, page 43

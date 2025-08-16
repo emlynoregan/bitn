@@ -26,6 +26,7 @@ topics:
 - conversion
 - backsliding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 My fifth son, aged 15, claimed to be converted at Mr Burnett’s meeting at Maitland in September 1882.  I was glad of this change, but soon disappointed.

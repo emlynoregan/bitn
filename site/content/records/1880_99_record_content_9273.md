@@ -21,6 +21,7 @@ topics:
 - government
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the question of some much-needed Government aid for the drought-stricken Northern Area farmers.

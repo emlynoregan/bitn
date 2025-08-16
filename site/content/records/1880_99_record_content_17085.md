@@ -21,6 +21,7 @@ topics:
 - opinion
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Although Ridgway takes an inordinate number of words to say so, I agree with him that ‘Bourgeois’ (or Boar-jaw, as Ridgway calls him) is rather obscure.  Most of Ridgway’s letter is however, a lot of words about very little.]

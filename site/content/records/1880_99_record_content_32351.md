@@ -25,6 +25,7 @@ topics:
 - Irish Home Rule
 - community event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Thomas Gratton Esmonde Bt. MP visited Burra last Wednesday and was met at the station by the Mayor, Mr Holder, Councillors etc.  He went to the oval where the Oddfellows’ Sports were being held.  They ceded the Institute Hall to him in the evening, in place of their concert.  He gave a speech in favour of Irish Home Rule, which is reported in c. 1½ columns.

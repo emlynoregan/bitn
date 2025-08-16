@@ -18,6 +18,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting is being prepared for.  The small reserves are being fenced and over 300 tree guards are being made and placed in holes prepared for trees.  800 trees have been ordered.

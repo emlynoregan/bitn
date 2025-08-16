@@ -19,6 +19,7 @@ topics:
 - technology
 - glass-blowing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Glassblowers that are coming include in their exhibition two steam engines constructed entirely from glass.

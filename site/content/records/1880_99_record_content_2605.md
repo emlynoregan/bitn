@@ -18,6 +18,7 @@ topics:
 - letters
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Page 3.  Continuation of news items, especially the reports of correspondents from out of town.  Letters to the editor and sports reports.  There were a few larger advertisements.

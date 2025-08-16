@@ -20,6 +20,7 @@ topics:
 - temperance
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Coad, the popular Cornish orator, will lecture tonight on Temperance, in the Bible Christian Church.

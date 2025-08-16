@@ -23,6 +23,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Amy Wylie presented an entertainment entitled The Grand Night with the Children at the Institute last Friday.  It was very well conducted and is reviewed item by item.

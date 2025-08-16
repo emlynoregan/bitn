@@ -20,6 +20,7 @@ topics:
 - agriculture
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wool. The season saw over 14,000 bales pass through Burra station.

@@ -20,6 +20,7 @@ topics:
 - temperance
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Alliance meeting in the Institute on Wednesday attracted 200 people.  Their plan is to organise for political purposes.  The aims are:

@@ -19,6 +19,7 @@ topics:
 - literature
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 24 Feb.	XIV-XVI	The Dutch Captain’s Device	X	X		X			X	X		Anecdotes of the American Stage

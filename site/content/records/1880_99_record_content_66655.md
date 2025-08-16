@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mutual Improvement Soc. met last Friday.  Over 60 members and visitors attended the program of impromptu speeches and recitations.

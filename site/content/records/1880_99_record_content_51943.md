@@ -21,6 +21,7 @@ topics:
 - council
 - confusion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson moved that the Council adjourn as the Mayor refuses to go on with business.  2nd Cr Parks.  The Mayor would not put the motion, but the councillors left their seats, ending business for the night amid confusion.

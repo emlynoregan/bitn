@@ -19,6 +19,7 @@ topics:
 - population
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  The alluvial gold seems largely worked out and men are leaving, though there are occasional good finds notwithstanding.

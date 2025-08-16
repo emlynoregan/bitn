@@ -23,6 +23,7 @@ topics:
 - auction
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will sell on 23 July the valuable allotment 359 of ¼ acre at the corner of Kingston & East Sts with well-built premises thereon and a well - a shop, dwelling, stables, buggy and out-houses.  Also a butchering plant.

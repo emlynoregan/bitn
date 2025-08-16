@@ -20,6 +20,7 @@ topics:
 - contracts
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy called for the agreement with the engineer to be read.  It was.

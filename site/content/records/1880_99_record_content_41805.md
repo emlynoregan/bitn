@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There is a half column of vague waffle which clearly suggests dissatisfaction with the railway station, but it fails to get down to specifics.

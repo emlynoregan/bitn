@@ -28,6 +28,7 @@ topics:
 - funeral
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss Symons, daughter of M. Symons, died on Tuesday morning from typhoid.  Her funeral was largely attended by many of the public school students under Mr Wittber and also by teachers and scholars of the Wesleyan Sunday School.  She had been a teacher of great ability at Port Pirie and for the last two years at Burra.  Mr Hartley, Inspector General of Schools sent condolences.

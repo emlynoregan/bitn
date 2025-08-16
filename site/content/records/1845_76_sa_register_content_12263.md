@@ -20,6 +20,7 @@ topics:
 - employment
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The River Broughton Company has engaged four more miners making eight now at work and Mr John Snell has been appointed Captain.

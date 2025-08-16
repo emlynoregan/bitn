@@ -20,6 +20,7 @@ topics:
 - weather
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The 6d show at the Institute on Friday was not as well attended due to dirty streets and rain showers.  The next one is in a week to avoid clashing with the Redruth Band of Hope.

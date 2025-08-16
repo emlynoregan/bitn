@@ -20,6 +20,7 @@ topics:
 - donation
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital has received a donation of 14/- from the Baldina Wesleyan Chapel.

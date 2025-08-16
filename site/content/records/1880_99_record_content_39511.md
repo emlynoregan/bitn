@@ -18,6 +18,7 @@ topics:
 - local
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ‘Sparks’ column reappears with its very brief comments on the local scene.  These comments are often frustratingly cryptic with references to apparently interesting events that are not elsewhere reported, but in too brief or oblique a way to now be interpreted.

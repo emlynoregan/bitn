@@ -23,6 +23,7 @@ topics:
 - entertainment
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An Entertainment, presided over by Mr Rees MP, was held at the Burra Hotel Assembly Rooms 24 November in aid of the Burra Institute Building Fund.  Mr Rees said the cost of alterations and additions to the Institute would cost about £1,300 of which about £1,000 had been raised by subscription and the Government grant, leaving £300 still to be got.  He felt sure the committee would be pleased by the night’s contribution.  About 300 people attended.  After the items dancing was conducted for nearly two hours.

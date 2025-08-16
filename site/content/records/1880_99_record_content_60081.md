@@ -20,6 +20,7 @@ topics:
 - event
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lecture.  On 17 June Rev. J.Y. Simpson will deliver his humorous Scottish lecture on Scottish Characteristics at the Wesleyan Lecture Hall.

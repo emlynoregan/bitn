@@ -19,6 +19,7 @@ topics:
 - employment
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 August 1867

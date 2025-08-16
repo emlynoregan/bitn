@@ -22,6 +22,7 @@ topics:
 - women's franchise
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Ladies Political Meeting in John Lewis’s schoolroom on Tuesday drew a good attendance.  Miss Nesbitt spoke on the importance of women’s franchise.

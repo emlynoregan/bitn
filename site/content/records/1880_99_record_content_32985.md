@@ -19,6 +19,7 @@ topics:
 - advertisement
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Literary Soc.  Grand Entertainment 12 July concluding with the screaming farce Done Brown.

@@ -18,6 +18,7 @@ topics:
 - youth
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Boys class (under 16), 51- entrance with 1st prize £3, 2nd £2 with a 3rd prize of £1 if 4 or more enter.

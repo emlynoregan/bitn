@@ -18,6 +18,7 @@ topics:
 - education
 - student council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 President Cheree Thamm reported on the Junior SRC.

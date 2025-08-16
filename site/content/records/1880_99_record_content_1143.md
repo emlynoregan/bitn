@@ -31,6 +31,7 @@ topics:
 - policy
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W. Jenkin asking why there is no Government day school at Copperhouse and discounting the claim that the place is too close to the Burra School.

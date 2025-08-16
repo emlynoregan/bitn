@@ -19,6 +19,7 @@ topics:
 - business
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Record calls tenders for an additional room at the new offices.

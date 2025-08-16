@@ -21,6 +21,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Mechanics’ Institute has begun another series of lectures.  On Monday the first in the series was delivered by Mr J. Burnell on James Ferguson; the shepherd boy and the philosopher.

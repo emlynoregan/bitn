@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A new school costing nearly £7,000 is under construction.

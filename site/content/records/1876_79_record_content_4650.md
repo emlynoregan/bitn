@@ -20,6 +20,7 @@ topics:
 - school
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. J.H.H. Vocking, Superintendent of Visitors, arrived in Burra on Wed. last to make arrangements for the enforcing of the compulsory clause in the Education Act.  An evening school is to be commenced next Tues. at the Burra School for those working during the day.

@@ -19,6 +19,7 @@ topics:
 - circus
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ashton’s Circus performed to good houses on Monday & Tuesday. This was one of the best circuses to have visited Burra.

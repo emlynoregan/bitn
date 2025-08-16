@@ -18,6 +18,7 @@ topics:
 - public lighting
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders were called for lighting the lamps for 12 months:

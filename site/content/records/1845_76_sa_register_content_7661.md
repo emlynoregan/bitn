@@ -19,6 +19,7 @@ topics:
 - gold
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 George M. Stephen writes 16 December that he expects within 24 hours to be able to produce specimens of gold (one of which is as large as the top of a man’s thumb), dug from SA goldfields.

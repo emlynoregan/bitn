@@ -28,6 +28,7 @@ topics:
 - tourism
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A new building where Morphett’s Pumphouse boiler house stood.

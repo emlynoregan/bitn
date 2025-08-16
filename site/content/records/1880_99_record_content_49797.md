@@ -19,6 +19,7 @@ topics:
 - community
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Mr Fuss: Characteristics of the Frog, being just one of a number of papers given.]

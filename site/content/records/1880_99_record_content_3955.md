@@ -19,6 +19,7 @@ topics:
 - production
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ore bought in Pt Adelaide in 1879-80 was 2,481 tons, down from 4,072 in 1878-79.

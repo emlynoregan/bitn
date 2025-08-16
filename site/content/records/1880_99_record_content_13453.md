@@ -19,6 +19,7 @@ topics:
 - community
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton.  An effort is being made to get a coach service to Silverton twice a week.  The town’s importance is daily increasing.

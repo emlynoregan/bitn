@@ -21,6 +21,7 @@ topics:
 - mail
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mail.  In future a trap will run 3 times a week from Burra to Spalding for the mail and the convenience of passengers.  Run by E. F. Opie.

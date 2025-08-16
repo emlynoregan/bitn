@@ -20,6 +20,7 @@ topics:
 - injury
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A man named Pascoe apparently fell off the wagon while driving one of the Copper Company’s teams.  The load passed over him from the knee upwards, crushing him so severely that he is not expected to live.  [No corresponding death appears in SA Deaths Registrations.]

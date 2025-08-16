@@ -23,6 +23,7 @@ topics:
 - exploration
 - boom
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mining Boom.  Mining continues to excite interest all over SA with exploration near Burra in the Mt Bryan Ranges and even in the town the Black George Mining Syndicate is cleaning out the well known as Black George’s at Redruth.

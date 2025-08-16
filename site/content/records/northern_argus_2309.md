@@ -23,6 +23,7 @@ topics:
 - cycling
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Doug Holly, brother to Shirley Thamm, is about to ride his bike in the Apple & Pear Veterans Tour (50-71-year-olds) 3,800 km from Brisbane to Adelaide over 31 days.  He is one of four veteran riders in the SA team and is aged 53.

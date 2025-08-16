@@ -20,6 +20,7 @@ topics:
 - press
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy asked him who supplied the local paper with the news of it and particulars of the wires sent to Martin & Co.

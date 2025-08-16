@@ -21,6 +21,7 @@ topics:
 - agriculture
 - dairy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Creamery.  The plant arrived at Burra on Friday and Mr Duldig expects to be able to receive milk in 2-3 weeks’ time.

@@ -23,6 +23,7 @@ topics:
 - mining
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Anderson moved that the meeting approve the agreement between the Government and the Chaffey Bros.

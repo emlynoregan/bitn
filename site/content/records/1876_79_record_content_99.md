@@ -22,6 +22,7 @@ topics:
 - hotel
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.  The Miners’ Arms Hotel proclaims extensive additions with new bedrooms to make a total of 17.  Commercial Room, Dining Room, Private Parlours have all been added.  Large & central saleyards, cattle yards, sheds & first class stabling. Horses and traps on hand - ales, spirits, wines & cigars.  New Hawke’s weighbridge.  Free lunch at 11 o’clock & table d’hote at 1 o'clock.

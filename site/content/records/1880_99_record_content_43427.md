@@ -23,6 +23,7 @@ topics:
 - military
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI accepted Mr W.P. Barker’s invitation to visit his Baldina property on Wednesday.  36 men went out to try some manoeuvres there.  No less than 100 people were present to do justice to the good things provided under a large marquee procured from Adelaide.  A sumptuous meal was provided.

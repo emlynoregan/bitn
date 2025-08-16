@@ -21,6 +21,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra residents are anxious to participate in the celebrations surrounding the royal visit.  A large pile of firewood has been collected on the highest hill near the Mine and ten gallons of kerosene and some empty tar barrels have been added in readiness for a bonfire.

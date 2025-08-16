@@ -19,6 +19,7 @@ topics:
 - disease
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Typhoid is prevalent at Broken Hill and there are fears it will spread from there.

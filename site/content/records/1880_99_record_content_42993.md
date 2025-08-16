@@ -17,6 +17,7 @@ topics:
 - event
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Guy Fawkes Night] The cryptic ‘Plenty bon-fires’ is the only reference.

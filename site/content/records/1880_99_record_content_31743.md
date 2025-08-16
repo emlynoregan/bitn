@@ -24,6 +24,7 @@ topics:
 - accident
 - lightning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On Tuesday last near Eudunda a son aged 17 and a daughter aged 13 of William Brook were killed by lightning.  In severe weather the son went to assist his sister home from school.  The lightning strike killed both the children and their two horses.  [Registrations give the details as Elen [sic] aged 11 born Ellen 22 Oct. 1876 and William born 4 Sep. 1871, date of death as 27 February at Brookside.]

@@ -18,6 +18,7 @@ topics:
 - public order
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikins are proving a nuisance when the Burra Co. RVF is drilling.

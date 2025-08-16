@@ -23,6 +23,7 @@ topics:
 - gossip
 - dissension
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Quiz (Adelaide) says that the choir at a ‘certain high-toned Burra Church’ has dissolved because a certain gossip in it has created such dissension that now ‘none but the tattler’ and a young man known as the ‘shadow’ are left in the choir.

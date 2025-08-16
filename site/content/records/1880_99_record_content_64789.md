@@ -24,6 +24,7 @@ topics:
 - death
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rev. J.Y. Simpson died suddenly at his residence in Kooringa on Saturday morning.  Though ailing for some time, no serious consequences were feared and he had seemed to be recovering.  He was about to take a drive around the town when he asked for a drink of water and subsequently fell back and expired.  On Monday morning the corpse was taken to the Burra railway station and conveyed to Adelaide.  On Sunday the church had been draped in black and Rev. S. Wellington preached a fine sermon with reference to the departed and Rev. W.H. Rofe did similarly in the evening.  [James Young Simpson died 10 September aged 55]

@@ -20,6 +20,7 @@ topics:
 - children
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth and Copperhouse Bands of Hope had a tea and cake treat for their children, who, led by a drum and fife band paraded the town with banners flying.  About 200 children took tea at Redruth.

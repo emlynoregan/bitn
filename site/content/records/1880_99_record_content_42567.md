@@ -20,6 +20,7 @@ topics:
 - lecture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Society.  At the last meeting T. Nevin spoke on The Nervous System.

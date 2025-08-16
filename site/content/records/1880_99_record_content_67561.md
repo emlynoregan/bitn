@@ -18,6 +18,7 @@ topics:
 - reformatory
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor replies by sticking to the charges and saying that the article does not condemn those in charge, but was rather against the system.

@@ -22,6 +22,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mine requires a few able miners on tut-work or tribute.  Apply to the Company’s office in Rundle Street, Adelaide, or to Captain Bath at the mine.

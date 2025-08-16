@@ -18,6 +18,7 @@ topics:
 - animals
 - offence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Court. Continuing problems of straying animals; pony, cow, cow with a steer, goat.

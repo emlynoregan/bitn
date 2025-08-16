@@ -26,6 +26,7 @@ topics:
 - lecture
 - teetotalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Primitive Methodist Chapel held its Anniversary services on Sunday.  Preacher was Rev. T. Jarrett.  The total collections for the services, Sunday school and tea meeting were c. £33.

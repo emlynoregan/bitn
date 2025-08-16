@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Church, Kooringa on Wednesday, Mr Philip Whyman exhibited his model of the Mosaic Tabernacle at a well-attended and interesting meeting.

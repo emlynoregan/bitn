@@ -19,6 +19,7 @@ topics:
 - prison
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At Redruth Gaol on 11 November an extra allowance of rations was given out in honour of the royal visit.  A visitor could not help noticing the extreme cleanliness and good order prevailing there and that much of the credit is due to the gaoler Mr Perry, who is an old colonist, having arrived on the second ship.

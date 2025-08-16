@@ -18,6 +18,7 @@ topics:
 - community
 - public finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial against the imposition of the fee charged to informants in bringing charges when the charge is laid by the Council or the like, where the fine may be as little as 2/6, but the fee is 10/-.  It is, he argues, all right in the case of private individuals bringing cases as it deters frivolous matters, but in the case of Council fines it is something that should be left to the discretion of the presiding Justices.

@@ -21,6 +21,7 @@ topics:
 - art
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Drew announces his intention of presenting the picture ‘The Pinch of Poverty’, which has been on view at the Royal Academy, to the Adelaide Art Gallery.

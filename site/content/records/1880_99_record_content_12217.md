@@ -26,6 +26,7 @@ topics:
 - ward boundaries
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Cr Sampson’s proposal for a change in Ward boundaries.  As now constituted Middle Ward would always have a large income, but little expenditure needed while the reverse is true of South Ward.  An east-west division would remedy this.  The line Cr Sampson proposed would run from the North Ward in front of Opie’s Hotel down the centre of the road to the National Bank corner Kooringa then west up Mount Pleasant and south down the right of way [Drew Lane] and then down the middle of Chapel St to the southern boundary.  The rateable value of East Ward would then be £5,383 and of West Ward £5,601.  We cannot see any objection to so evident an improvement unless in minor details.

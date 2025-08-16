@@ -21,6 +21,7 @@ topics:
 - cricket
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Petersburg-Terowie 40 & 23 for the loss of 3 wickets defeated Aberdeen 39 & 23.

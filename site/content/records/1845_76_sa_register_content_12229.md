@@ -24,6 +24,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Colwell delivered a lecture in the Wesleyan Chapel on Monday night on the Celtic Race.  After the lecture a series of phantasmagorical views were exhibited by the same gentleman in the adjoining schoolroom, for the benefit of the Mission-house at Mintaro.

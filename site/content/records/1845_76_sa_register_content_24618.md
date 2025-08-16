@@ -24,6 +24,7 @@ topics:
 - performance
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Draeger Family gave a concert at Banks’s new assembly room on 19 & 20 June.  Due to poor publicity the audiences were small, but the quality of the singing and instrumental performances should ensure capacity audiences if the family returns with proper notice.

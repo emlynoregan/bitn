@@ -24,6 +24,7 @@ topics:
 - editorial
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the disgraceful actions of M-C Jemison in the Alfred Jacka case.  The prosecutor was not desirous of a harsh penalty, but Jemison conducted the matter and distorted the facts.  Jacka is hard of hearing and was unable to hear the case as presented to the bench.  Whether through malice or not Jemison led the bench to believe that the lad was an unmitigated thief and said he was ‘neglected and running about the streets’.  In fact the lad had been employed by Dr Sangster and was engaged to work in another place and the incident occurred in the short space of time between jobs.  We do not wish to shield the boy from the wrong he did, but why prejudice the bench and prevent it from dealing with the case on its merits?  He was certainly not a neglected child.  An enquiry into Jemison’s conduct should be made.  (‘this officious officer’)

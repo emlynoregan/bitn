@@ -22,6 +22,7 @@ topics:
 - debate
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Timothy Ward attacking the scientific errors in Mr White’s long letter on meteorology while saying that where he departs from science in his theories the opinions are puerile.  (Especially the idea that dead animals produce gas that then causes rain.)  The refutation runs for almost a column.

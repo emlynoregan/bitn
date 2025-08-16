@@ -22,6 +22,7 @@ topics:
 - petition
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘NEMO’ writes re the petition to stop the Salvation Army’s band parades.  The writer opposes the petition.  In England at towns where soldiers are stationed you would hear a band playing on going to church, passing by churches and houses of more importance than those in Kooringa.  Let those who complain, if any, that live near the pump rather than those who live a mile away.

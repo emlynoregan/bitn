@@ -20,6 +20,7 @@ topics:
 - weather
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather remains hot and dusty.  Smoke from a large fire between Renmark and Morgan enveloped the town on Monday evening.

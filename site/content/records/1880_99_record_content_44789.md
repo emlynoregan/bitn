@@ -21,6 +21,7 @@ topics:
 - court
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Fallow writes re a recent court case of Fallow v. Kneese to correct the impression he had lost and had to pay costs.  The case, he says, was dismissed with each side paying their own costs.  He goes on to say he had brought a case because Kneese had refused him accommodation at a hotel.  [Apparently not in Burra as there was no such licensee in the town.]

@@ -19,6 +19,7 @@ topics:
 - economics
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Taxation Reform.  A progressive land tax disadvantages those who develop their land and favours the non-developing absentee owner.  An all round property tax would be a fine against all workers.  We believe in a tax upon unimproved land values.

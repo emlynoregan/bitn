@@ -22,6 +22,7 @@ topics:
 - event
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute Popular Lectures, 2 November.

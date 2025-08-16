@@ -19,6 +19,7 @@ topics:
 - court
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two cabbies fined £1 each at the Redruth Court last Wednesday.

@@ -19,6 +19,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Shearers’ Union has decided to open a branch in Burra for the season to supply sheds with competent men.

@@ -25,6 +25,7 @@ topics:
 - prices
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Abberton under Capt. Pain arrived last Sunday, having left Plymouth on 1 September.  It carried 8 passengers in the cabin and 185 steerage emigrants.  (63 men + 63 women + 59 children)

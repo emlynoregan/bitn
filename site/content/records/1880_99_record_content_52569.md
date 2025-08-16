@@ -20,6 +20,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Yeoman’s School held a concert in the German Chapel on 22 December.  [The performers and their acts are listed.]

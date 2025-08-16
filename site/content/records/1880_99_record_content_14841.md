@@ -21,6 +21,7 @@ topics:
 - church
 - conference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Triennial Conference of the Australasian Wesleyan Church will be held in Christchurch NZ from 12 November.  Among SA representatives are Rev. S. Knight and Mr F.W. Holder of Burra.

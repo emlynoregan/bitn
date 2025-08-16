@@ -24,6 +24,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Day was hot and unpleasant.  Rev. H.T. Burgess preached at Kooringa Wesleyan Church, which was attended by members of the Friendly Societies and the Hospital Board.  The collection in aid of the hospital raised £5-15-6.

@@ -20,6 +20,7 @@ topics:
 - dust storm
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In the north many stations are quite bare of stock.  Those in this neighbourhood grumble much, but can be thankful conditions are no much worse.  Nevertheless, dust storms are prevalent on the Baldina Plain.

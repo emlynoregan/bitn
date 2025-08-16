@@ -18,6 +18,7 @@ topics:
 - labour
 - strike
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Newcastle.  The coal strike is finally over.

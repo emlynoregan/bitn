@@ -20,6 +20,7 @@ topics:
 - masonic
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Kooringa Lodge no. 6 held its earliest known meeting on 14 November 1849 and held meetings till December 1888.  After a recess of 11 years the Warrant was returned in August 1899.]

@@ -21,6 +21,7 @@ topics:
 - community
 - praise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W.H. Hardy rose with much pleasure to express his respect and said Rabbich had always been ‘a real live councillor’ who had accomplished good work in his term as Mayor.  He wished him well and hoped one day to see him again.

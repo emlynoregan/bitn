@@ -19,6 +19,7 @@ topics:
 - politics
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hon. G.G. Hawker has resigned his seat in the District of Victoria and several local gentlemen are in the field to replace him.

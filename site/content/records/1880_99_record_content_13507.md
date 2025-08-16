@@ -21,6 +21,7 @@ topics:
 - social commentary
 - dog nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M.H. Leworthy of Middleton writes suggesting that the policies desired by the pastoralists re the dog nuisance would be more suitable if the animal concerned were a lion or a tiger.  No wonder no Aboriginal woman or child is to be trusted with one!  Registration cost is to rise from 5/- to £1-1-0 and the dog to be chained, muzzled or confined from sunrise to sunset.  The whole thing is absurd.

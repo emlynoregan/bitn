@@ -23,6 +23,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Next Saturday the season opens with Baldina playing Farrell’s Flat at Victoria Park.  [But see the report in the paper of 27 September where it seems to have been World’s End v. Farrell’s Flat on the Brewery Flat!]

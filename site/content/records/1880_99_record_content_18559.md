@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The tone of the Engineer shows him to be highly defensive and clearly annoyed by the Council.]

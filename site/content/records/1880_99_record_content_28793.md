@@ -21,6 +21,7 @@ topics:
 - vaccination
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Drs Brummitt and Sangster will give free vaccinations for the next few weeks on Friday afternoons.

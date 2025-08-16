@@ -25,6 +25,7 @@ topics:
 - religion
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary.  The preacher was Rev. H.T. Burgess.  Mr Holder read the financial report, which showed that £150 had been paid off the debt, which now stood at £800 (less the £100 now raised).  This included the new Sunday school and classrooms, lately erected at a cost of c. £800.  A new organ had also been bought in the year.  The congregation had raised in the year £641-2-0.

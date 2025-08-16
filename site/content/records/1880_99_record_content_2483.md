@@ -18,6 +18,7 @@ topics:
 - holiday
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Christmas Tide.  It contains the usual expressions for a time of peace on Earth, goodwill and family.

@@ -22,6 +22,7 @@ topics:
 - industry
 - resource
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Mine.  [Reprint of an article from The Advertiser.]

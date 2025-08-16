@@ -19,6 +19,7 @@ topics:
 - flood
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Floods are severe along the Darling: Bourke is under water.

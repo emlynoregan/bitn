@@ -20,6 +20,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Aberdeen will play Burra Co. RVF tomorrow on the ground near Drew & Co.’s store at Aberdeen.

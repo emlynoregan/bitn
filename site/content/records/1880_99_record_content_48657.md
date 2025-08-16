@@ -20,6 +20,7 @@ topics:
 - address
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 National Defence League.  Mr Hogarth gave an address on behalf of the League at the Burra Institute last Friday.  It is reported in just over 1 column.

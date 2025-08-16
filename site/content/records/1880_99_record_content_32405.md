@@ -19,6 +19,7 @@ topics:
 - chrysanthemum show
 - apology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter From J.D. Cave apologising for not being aware that rules had been changed and so inadvertently submitting more exhibits at the Chrysanthemum Show than was allowed.

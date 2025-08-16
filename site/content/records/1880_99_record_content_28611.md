@@ -23,6 +23,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Jeffery Pearse [aged 53] died in Adelaide on Sunday.  She and her late husband were old Burra residents.  She will be buried today in Kooringa.  [Born Mary Jane Coombs.]

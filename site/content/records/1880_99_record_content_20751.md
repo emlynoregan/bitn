@@ -21,6 +21,7 @@ topics:
 - event
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday-school Annual Picnic at Hallett, New Year’s Day.  Special train will leave 9 a.m. and return 6 p.m.  Excursion tickets 2/6

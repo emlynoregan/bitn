@@ -22,6 +22,7 @@ topics:
 - business
 - dissolution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The partnership of Carl Gebhardt and Ernst Gebhardt, trading at Aberdeen and elsewhere as C. & E. Gebhardt, butchers, farmers, graziers etc. has been dissolved from 1 December 1885.

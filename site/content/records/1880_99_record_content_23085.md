@@ -20,6 +20,7 @@ topics:
 - inspectorship
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Wanderer’ questions whether the Mayor has the right to speak for the Council in declaring that it will ignore whatever the public meeting resolves on the Inspectorship.

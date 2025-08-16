@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water Supply.  The Mayor and Council will wait on the Commissioner of Public Works this morning about the extension of the water supply at Aberdeen and Redruth.

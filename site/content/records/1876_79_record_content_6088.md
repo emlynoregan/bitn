@@ -29,6 +29,7 @@ topics:
 - officers
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. The club met on Monday at the commercial Hotel. Dr Nesbitt consented to become President. Vice-Presidents: Messrs Lipsett, Lane, Duff, Margetts, Coglin, Bruse, H. Dawson & Dr Sangster. There will be a meeting on Tuesday to choose a Captain and Vice-Captain.

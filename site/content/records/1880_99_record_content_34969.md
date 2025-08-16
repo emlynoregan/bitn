@@ -21,6 +21,7 @@ topics:
 - wheelwright
 - coachbuilding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Pearse	General Wheelwright has commenced business in the shop occupied by Messrs Harry & Burns, Buggies made to order, Commercial St

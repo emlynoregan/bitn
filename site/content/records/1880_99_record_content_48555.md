@@ -20,6 +20,7 @@ topics:
 - local government
 - nomenclature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson District Council is still referring to Hanson as Davies.

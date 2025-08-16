@@ -21,6 +21,7 @@ topics:
 - honour
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Premier is Knighted.  Sir J.W. Downer will wear his honour well, but he got there almost by default.  By Accident of Mr Bray’s absence he became Premier and retained office due to a disunited opposition.  He was self-appointed to the London Conference after only two years of leadership and a short and perfunctory service as a private member of the Assembly.

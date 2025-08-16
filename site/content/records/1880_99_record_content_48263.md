@@ -20,6 +20,7 @@ topics:
 - charity
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Concert in aid of the Wesleyan Sunday school was held at the Lecture Hall on 27 December.  Among a host of performers Mr J. Roach entertained the audience with a sermon on the text ‘Old Mother Hubbard’, which was a satire on preachers who make a text of scripture mean anything they fancy. (It was the performance of a piece written by a Presbyterian minister.)

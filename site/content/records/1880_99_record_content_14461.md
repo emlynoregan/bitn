@@ -20,6 +20,7 @@ topics:
 - education
 - scholarship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S.E. Holder BA, holder of the SA Scholarship has just passed his intermediate examination for MB degree at London University 18 months after matriculation - usually allowed only after two years.

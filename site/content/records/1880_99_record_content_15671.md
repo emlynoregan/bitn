@@ -21,6 +21,7 @@ topics:
 - speech
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. James gave his address on President Garfield at the Redruth Primitive Methodist Church on Tuesday to a good audience.

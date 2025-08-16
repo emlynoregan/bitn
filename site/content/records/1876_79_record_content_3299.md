@@ -21,6 +21,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. More detail of the visit of the Commissioner of Public Works. Land will be acquired to ease the turns at the level crossing. The mayor entertained the visitors at the Bon Accord Hotel for lunch.

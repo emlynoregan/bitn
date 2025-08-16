@@ -18,6 +18,7 @@ topics:
 - mining
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Capital of £150 in 3,000 shares of one shilling each.  2d on application, 2d on allotment and the remainder in calls of not less than 2d.

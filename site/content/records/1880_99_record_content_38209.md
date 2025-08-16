@@ -20,6 +20,7 @@ topics:
 - public health
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sanitation.  In 1881 the death rate per 1,000 in Adelaide was 23.55 and in Melbourne was 19.32.  Subsequently Adelaide established a sewerage system and seven years later the death rate in Adelaide was 17.28, while Melbourne’s was 20.51.

@@ -20,6 +20,7 @@ topics:
 - pests
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits are in huge numbers at Mt Bryan.  They have been killed by the thousands.  The destruction is being carried out by pouring coal tar on shavings in the mouth of burrows and igniting it to suffocate the vermin.

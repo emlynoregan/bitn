@@ -19,6 +19,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Some thousands of ounces have now been won and the Teetulpa Bank alone bought 3,605 oz in the 28 days to Christmas.

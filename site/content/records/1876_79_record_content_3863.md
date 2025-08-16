@@ -19,6 +19,7 @@ topics:
 - circus
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment Hayes & Benhamo's circus on Monday & Tuesday 1& 2 April, was well patronised both nights. The acts were good and the performance of Benhamo the clown "kept the audience in a continual state of risibility."

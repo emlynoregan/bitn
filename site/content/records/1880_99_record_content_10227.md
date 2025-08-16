@@ -19,6 +19,7 @@ topics:
 - Land Bill
 - Education Bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Parliament.  Neither the Land Bill nor the Education Bill are likely to pass except perhaps in a much amended form.

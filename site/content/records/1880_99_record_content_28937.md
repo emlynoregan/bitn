@@ -19,6 +19,7 @@ topics:
 - policy
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the 1888 land leases which the editor regrets has largely gone into the same hands as before, much of it in large areas.  The average price of £1-18-0 per mile per annum is too high under present circumstances and represents a degree of speculation.  [A list of the largest purchases appears on page 3.]

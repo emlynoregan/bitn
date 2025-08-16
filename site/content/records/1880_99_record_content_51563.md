@@ -21,6 +21,7 @@ topics:
 - injury
 - horses
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr James Gully’s fourth son met with an accident at Redruth on Monday when Messrs Linkson Bros.’ horse kicked him in the mouth, knocking out several teeth and badly cutting his top lip.  He had been trying to get on the horse’s back at the time: the horse not being used to such.

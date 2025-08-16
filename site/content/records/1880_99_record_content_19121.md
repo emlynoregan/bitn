@@ -22,6 +22,7 @@ topics:
 - military
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF, Drill tonight in the Institute & inspection tomorrow by General Owen at 2.30 p.m.

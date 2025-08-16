@@ -20,6 +20,7 @@ topics:
 - public meeting
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. A requisition from various persons asking W.P. Nesbitt, Mayor, to call a public meeting on the expediency of adopting a system of artesian wells or tube wells in portions of the colony. The meeting was called for 2 May at the Institute.

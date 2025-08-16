@@ -36,6 +36,7 @@ topics:
 - engine
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor suggested they should add to the memorial at the beginning a clause asking the Government to insist on the promise to charge only net cost be carried out.

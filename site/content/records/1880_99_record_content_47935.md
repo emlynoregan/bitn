@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill.  On Friday night a public meeting was called in the Council Chamber to consider the best means to assist the distressed in Broken Hill.

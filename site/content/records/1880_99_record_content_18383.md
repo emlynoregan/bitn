@@ -21,6 +21,7 @@ topics:
 - reward
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  £3 Reward for information leading to the conviction of the person who stole 4 lb of sugar and 6d worth of Jalap* out of A. Williamson’s Box lying in front of our Aberdeen Store between Saturday night and Monday morning.  Bath & Pearce.

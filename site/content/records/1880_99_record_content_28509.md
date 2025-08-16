@@ -21,6 +21,7 @@ topics:
 - mining
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Prospectus for Ulooloo Gold Mining and Crushing Co. Ltd.  The lease is held by H. Collins and F. Simpson at present and this represents the first attempt in the area to develop reef mining rather than merely alluvial deposits.  Aim to raise £5,500 in 220 x £25 shares.

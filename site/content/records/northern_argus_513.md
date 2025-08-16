@@ -20,6 +20,7 @@ topics:
 - apprenticeship
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Robert van Gasteren is an apprentice with the local butcher John Maidment.

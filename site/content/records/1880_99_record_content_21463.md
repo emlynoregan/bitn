@@ -18,6 +18,7 @@ topics:
 - unemployment
 - riots
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  There have been unemployment riots in London.

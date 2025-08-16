@@ -18,6 +18,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School: this year 23 of the 4th Class students obtained the Compulsory Certificate.

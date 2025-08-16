@@ -22,6 +22,7 @@ topics:
 - injury
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Last Saturday Mrs Cundy, while going along Blyth St towards Ayers St in the dark, fell over the bank 16’ deep into the remains of one of the old creek-bank dwellings.  She was taken to hospital and we are amazed she was not more hurt.

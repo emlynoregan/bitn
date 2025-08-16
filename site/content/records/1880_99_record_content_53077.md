@@ -20,6 +20,7 @@ topics:
 - school
 - sale of goods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Schoolroom funds were increased by £19-4-0 from a sale of goods last Friday.

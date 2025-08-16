@@ -21,6 +21,7 @@ topics:
 - religion
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Sunday School Anniversary 2 March.  Tea meeting Wednesday 5 March and the service of song selections from Eva rendered by the Douglas Choir.

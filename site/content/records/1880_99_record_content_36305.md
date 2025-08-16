@@ -22,6 +22,7 @@ topics:
 - theft
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Margaret Mitchell was charged with the theft of a gold chain (£2-10-0), a gold locket (£1), a neck scarf, three handkerchiefs, a cake of scented soap, and a handbag, the property of Mr David Rogers of Roach Town.  Sentenced to three months in Redruth Gaol.

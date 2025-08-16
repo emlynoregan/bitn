@@ -23,6 +23,7 @@ topics:
 - community
 - auxiliary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Mrs Florrie Scroop was presented with a sheaf of flowers at the Burra Hospital Ladies’ Auxiliary Gala Day at Burra Town Hall last Friday.  In honour of her 50 years service to the auxiliary a brass plaque will be mounted in the foyer of the hospital.

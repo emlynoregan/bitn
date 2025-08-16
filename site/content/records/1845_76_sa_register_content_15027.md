@@ -19,6 +19,7 @@ topics:
 - dividend
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mining Co.  A dividend of £5 per share on the shares of this company will be payable on 1 November next.

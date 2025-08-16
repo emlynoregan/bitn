@@ -18,6 +18,7 @@ topics:
 - heritage
 - restoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [*Reports on CXVI, 8052, 7 May 1986, page 19 and CXVI, 8061, 9 July 1986 indicate these timbers were actually to support the new floors in the building.]

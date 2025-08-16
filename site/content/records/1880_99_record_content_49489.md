@@ -22,6 +22,7 @@ topics:
 - appointment
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr T. Kitchen is moving to Adelaide and he received hearty thanks at the Kooringa Circuit quarterly meeting for over 16 years of very active service.  He has been a local preacher, class teacher, Sunday school superintendent, teacher and visitor, trustee and circuit steward.  He has also been a leader in the cause of temperance.

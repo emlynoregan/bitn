@@ -19,6 +19,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wednesday 28 December: the cricket match continued and there were many picnic parties.

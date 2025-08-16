@@ -18,6 +18,7 @@ topics:
 - club
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had a somewhat smaller attendance on Friday due to the unavoidable absence of several regular members.  The evening featured prepared speeches.

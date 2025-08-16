@@ -20,6 +20,7 @@ topics:
 - politics
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Election at Burra was orderly and about a quarter of the enrolled electors voted.

@@ -30,6 +30,7 @@ topics:
 - employment
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  There was some debate whether kerbing was done better by tender or the daymen.  Cr Sampson said the daymen had done 3ch 2ft in 8 days, which made them cheaper than the tender.  After discussion no tender was accepted and the work in Welsh Place was left to the daymen.

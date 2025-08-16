@@ -18,6 +18,7 @@ topics:
 - fundraising
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The public having donated £3111/b, it was resolved to call tenders for the footbridge at the White Hart Ford.

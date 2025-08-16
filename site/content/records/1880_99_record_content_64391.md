@@ -20,6 +20,7 @@ topics:
 - government
 - rents
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Graziers Deputation to the Commissioner of Crown Lands was received on Tuesday.  He could not undertake a general reduction in rents, but would deal with each particular piece of land according to its merits.

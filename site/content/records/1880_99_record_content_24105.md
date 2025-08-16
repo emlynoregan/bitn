@@ -21,6 +21,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Cricket match.  Burra v. Hackney at the Recreation Ground 27 December 1886.

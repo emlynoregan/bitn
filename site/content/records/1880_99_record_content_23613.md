@@ -23,6 +23,7 @@ topics:
 - goldfield
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A report from there on 15 October (18-20 miles or c. 30 km NW of Manna Hill) says that some 150 men are now on the fields and the prospects of gold there are said to be promising.  [Note that Manning in Place Names of SA appears to have confused the station property and the mine, placing the latter near Yunta.]

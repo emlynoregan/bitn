@@ -45,6 +45,7 @@ topics:
 - economy
 - water management
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Mines and Smelting Works

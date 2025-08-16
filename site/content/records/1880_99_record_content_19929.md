@@ -23,6 +23,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Mr & Mrs Bagg and a child were driving home towards Baldina on the Baldina road last Saturday.  A horseman galloping past from behind caused their horse to shy and the cart was upset.  Mr Baggs was cut about the face and broke his left arm.  The other two were bruised and shaken and the cart and harness were much damaged.

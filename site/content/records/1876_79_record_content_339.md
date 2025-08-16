@@ -20,6 +20,7 @@ topics:
 - local government
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council has appointed Mr Charles Lowe as Town Clerk and as Council Solicitor with a combined salary of £120 per annum.

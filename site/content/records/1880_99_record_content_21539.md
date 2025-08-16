@@ -19,6 +19,7 @@ topics:
 - local
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lapford. Another long report from the World’s End area, but saying little of consequence.

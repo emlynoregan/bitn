@@ -22,6 +22,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church Anniversary last Sunday.  Rev. C. H. Schafer of Quorn preached.  The tea meeting was on Monday.  The Treasurer, John Snell, reported that £75 had been paid off the debt, leaving at present a church debt of £150.

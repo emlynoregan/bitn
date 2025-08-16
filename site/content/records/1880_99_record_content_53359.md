@@ -21,6 +21,7 @@ topics:
 - meeting
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  The first committee meeting last Friday was at the Commercial Hotel.  The show will be held on a date to be named in September.  The site will be chosen from two or three possible.  The next meeting is 13 April.

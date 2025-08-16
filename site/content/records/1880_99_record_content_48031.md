@@ -22,6 +22,7 @@ topics:
 - sports
 - cycling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra United Friendly Societies’ Sports were held on the Burra Oval and pronounced the most successful ever.  Large fields and close contests marked every event.  Early in the morning the weather was unpromising, but about 9 a.m. the sun appeared and the day was fine.  The prizes induced many contestants to come from Adelaide and indeed the best cyclists in Australia.

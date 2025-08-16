@@ -19,6 +19,7 @@ topics:
 - employment
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 And the Curator of the Cemetery and Sexton at £80 p.a., either together or separately.

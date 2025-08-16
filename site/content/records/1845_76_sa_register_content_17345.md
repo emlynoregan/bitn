@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [At Westbury; because the chapel at Copperhouse was Primitive Methodist.  Since Westbury completely failed to develop as a settlement and its chapel and a house or two were adjacent to Copperhouse, the Westbury Chapel was often referred to as the Copperhouse Chapel.]

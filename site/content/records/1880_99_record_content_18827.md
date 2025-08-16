@@ -20,6 +20,7 @@ topics:
 - sport
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday 15 Allcomers 4.10 defeated 8 Reds 2.4

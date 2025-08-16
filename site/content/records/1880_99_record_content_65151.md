@@ -19,6 +19,7 @@ topics:
 - event
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6. ½ mile egg and spoon race (1st 10/-)

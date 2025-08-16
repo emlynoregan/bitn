@@ -42,6 +42,7 @@ topics:
 - social event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 8 May 1855, page 3

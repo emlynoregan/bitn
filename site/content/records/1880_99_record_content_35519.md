@@ -21,6 +21,7 @@ topics:
 - local affairs
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the paper of 11 Feb. 1890 the column reflects the fear that with the removals to Broken Hill and the general decline in population Burra will become ‘one of the most one-horse towns in the colony’.  It says of the town: ‘Our cricket, tennis, chess, our dogs, cats and other things I could mention have gone’.

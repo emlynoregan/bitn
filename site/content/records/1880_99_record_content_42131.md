@@ -20,6 +20,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Band of Hope met on 11 August when the Iron Mine Brass Band gave good service.

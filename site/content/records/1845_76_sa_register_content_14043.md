@@ -21,6 +21,7 @@ topics:
 - community
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bible Christian Bazaar was tolerably successful and was followed on Monday evening by a tea meeting, which was well attended and was followed by a public meeting.  In all receipts totalled about £200.

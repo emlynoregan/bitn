@@ -17,6 +17,7 @@ topics:
 - charity
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ministering Children’s League Bazaar has been changed into a social and promenade concert on 31 August instead of a bazaar on 3 September.

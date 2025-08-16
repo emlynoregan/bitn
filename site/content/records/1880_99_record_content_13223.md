@@ -20,6 +20,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 21 May, Grand Entertainment in aid of the Catholic School, Burra.  The program of songs etc. is printed.

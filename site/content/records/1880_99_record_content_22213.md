@@ -23,6 +23,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Aberdeen Club annual meeting was held at the Royal Exchange Hotel 10 May with G. Parks (Capt.) in the chair.  Secretary H.E. West said the books showed a credit balance of £1-4-5.  [The following week this was corrected as it overstated the balance by 10/- to leave a credit of 14/5.]  Of the 8 matches last season there were 6 wins and 2 losses.  The best batting for the year was by A.E. Preece who has since left the district.  Best all-round player was G. Parks.

@@ -24,6 +24,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary/Inquest at the Bon Accord Hotel on 10 March on John Nethery, a contractor of Redruth who died aged 41 on 9 March. Died when he fell from a spring cart and the wheel or wheels passed over him.

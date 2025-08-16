@@ -18,6 +18,7 @@ topics:
 - regulation
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He also draws attention to the pack-hawkers who are so prevalent in town and yet who do not pay the due licence fees.

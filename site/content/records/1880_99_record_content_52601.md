@@ -20,6 +20,7 @@ topics:
 - sport
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [F. Williams won the 100 yards maiden race (10/-) and the Booborowie Handicap over 130 yds (£1).]

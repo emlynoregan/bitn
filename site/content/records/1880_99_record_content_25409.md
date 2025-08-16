@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Helen Cave, wife of J.D. Cave, aged 52, died at Victoria Place, Redruth.  [nee Helen James]

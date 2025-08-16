@@ -19,6 +19,7 @@ topics:
 - livestock
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis on 4 September will offer 16,811 sheep and 105 cattle.

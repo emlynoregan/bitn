@@ -17,6 +17,7 @@ topics:
 - humour
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Humour. There is a short story told in German-English clearly poking fun at the German settlers, although the German in the story is the victor in the incident.

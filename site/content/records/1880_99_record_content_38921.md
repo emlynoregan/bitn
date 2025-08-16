@@ -21,6 +21,7 @@ topics:
 - music
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  On Sunday St Mary’s morning and evening services were enhanced by the St Peter’s cathedral Choir and the church was crowded on both occasions.

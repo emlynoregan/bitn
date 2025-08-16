@@ -22,6 +22,7 @@ topics:
 - lecture
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. More detailed report of the visit of Dr Short, Bishop of Adelaide. Also an account of Rev. Morse's lecture on a Trip to England - of some interest in that it describes the first underground railway in London which had opened in 1863.

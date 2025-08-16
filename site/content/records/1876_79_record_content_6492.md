@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan anniversary was a decided success on Sunday & Monday last. Despite wet weather the tea was well attended and the chapel was well filled for the public meeting. The debt was £500 and £60 was raised. The trustees expect to pay off £50 while meeting interest and current expenses.

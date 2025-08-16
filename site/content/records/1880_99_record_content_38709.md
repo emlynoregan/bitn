@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Con Kelleher, aged 55, late of Robborough, Co. Kerry, Ireland, and husband of Mary Kelleher, died on 8 November at Kooringa.

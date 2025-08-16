@@ -19,6 +19,7 @@ topics:
 - genealogy
 - check
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Check: Syd Brown may have been the bride’s brother Sydney Edward Bown.]

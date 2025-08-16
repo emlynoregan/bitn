@@ -20,6 +20,7 @@ topics:
 - safety
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council will visit the bridge near the smelting works which Mr Packard reports as unsafe.

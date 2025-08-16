@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Roach called attention to the need for improving the approach to their mill and weighbridge.  This was referred to the Works Committee, as was the approach to the White Hart Hotel.

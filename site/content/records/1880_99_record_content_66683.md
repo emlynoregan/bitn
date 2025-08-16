@@ -22,6 +22,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday the Burra footballers went to Manoora.  Burra could field only 16 players and their Captain was unable to get away.  J. Lally took his place.  In the 2nd quarter Burra was reduced to 15 men as J. Hogan sprained his ankle.

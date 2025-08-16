@@ -20,6 +20,7 @@ topics:
 - service
 - christmas
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Special services at St Joseph’s by Rev. Father O’Dowling were well attended.

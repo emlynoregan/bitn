@@ -20,6 +20,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School Anniversary was celebrated on Easter Sunday and Monday with the children’s treat on Monday followed by the tea meeting.  Altogether it was a success with a teachers’ tea on Tuesday.

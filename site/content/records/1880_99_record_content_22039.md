@@ -18,6 +18,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Association met last Saturday.  15 members attended.

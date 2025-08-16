@@ -30,6 +30,7 @@ topics:
 - obituary
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Thomas Bowsance, an old Burraite, died at Burra Hospital on 18 April aged 63.  He arrived in SA in 1847 in the Crisse from St Ives Cornwall and soon came to Burra where he was employed in the Mine and later with his father who owned a team of bullocks.  Afterwards he bought a farm at Spring Bank and then one at Gumbowie.  His brothers (William & Matthew) still live in that area.  Mrs W. Irlam of Bright is a sister as was the late Mrs John Bown.  As a young man he was well-known in the art of self defence.  He leaves a wife and large family.

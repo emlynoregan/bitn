@@ -34,6 +34,7 @@ topics:
 - election
 - events
 source_document: 1845-76 SA Register.doc
+publication_slug: sa-register
 ---
 
 SA Mining Association will elect its directors tonight.  Those nominated are:

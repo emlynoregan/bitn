@@ -18,6 +18,7 @@ topics:
 - serials
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Christmas Mask by U.X.L. ran from 23 August to 27 September.

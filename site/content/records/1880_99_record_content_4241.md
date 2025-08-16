@@ -22,6 +22,7 @@ topics:
 - compensation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  We are amazed that the council has decided to repurchase by payment of £10 compensation, in addition to the £3 value of the land, a portion of street sold only about a year ago, as being useless for traffic.  All that was needed was for the making of the street past the courthouse and up into the houses of Redruth.

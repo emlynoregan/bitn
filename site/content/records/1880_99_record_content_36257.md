@@ -18,6 +18,7 @@ topics:
 - agriculture
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show.  The Institute Committee resolved on 14 April to cancel this year’s show as grasshoppers have eaten most of the plants this year.

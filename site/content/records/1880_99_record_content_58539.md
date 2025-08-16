@@ -22,6 +22,7 @@ topics:
 - crime
 - arrest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Rickards was arrested in Adelaide the same day he was acquitted here.  He was charged with false pretence on Thomas James Barrett, licensed victualler of Petersburg.  He has been committed for trial, but has been allowed bail.

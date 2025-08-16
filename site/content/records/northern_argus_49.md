@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Creek has been flowing for several weeks after nothing for some three years.

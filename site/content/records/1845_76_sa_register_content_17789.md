@@ -20,6 +20,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Stanton will give a miscellaneous reading on Thursday night in aid of fencing the Grammar School playground.

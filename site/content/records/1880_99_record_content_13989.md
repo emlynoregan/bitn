@@ -23,6 +23,7 @@ topics:
 - deputation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  A strong deputation for a Terowie-Silverton line has failed to move the Government from the Petersburg line.

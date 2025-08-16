@@ -19,6 +19,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.H. Derrington, General Secretary of the alliance, was to have spoken, but he felt it had all been said and he called for members to submit their names.  72 did so.  A local committee was formed to carry on the work.

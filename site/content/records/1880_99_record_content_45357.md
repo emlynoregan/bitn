@@ -24,6 +24,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Daulby Fund.  Mr Hutchins of Aberdeen and Mr Watt of Kooringa have been collecting aid for Mrs Daulby and a good sum has been raised.  It is said Mr James M. McBride has purchased a nice cottage for the widow.

@@ -35,6 +35,7 @@ topics:
 - tourism
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Gulf Road Re-enactment began on Monday.  Marquees were filled with food while bullocky Jim Kelly and his off-siders yoked the bullocks.  They then went to the Smelts area where the teams were hitched to their wagons and loaded with ore for their three week trek to Port Wakefield.  When they got back to the creek Jim Lowe was ready with his teams of mules and donkeys.  The Chilean Cultural Attaché attended and a Scottish band played.  The travellers then set off to Hanson for their first overnight camp.

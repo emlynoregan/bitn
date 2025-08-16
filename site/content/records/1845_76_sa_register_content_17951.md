@@ -25,6 +25,7 @@ topics:
 - business
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The squatters had protested loudly over the revaluation of their runs by Mr Goyder and the fact that they would have to pay their licence fees in advance.  They demanded and got a select committee to look into the matter.]

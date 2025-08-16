@@ -22,6 +22,7 @@ topics:
 - community
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Apex Club, St John Ambulance Service & Hallett Red Cross have together donated funds to enable a baby capsule rental scheme to be operated in Burra.  [Photo.]

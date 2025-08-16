@@ -20,6 +20,7 @@ topics:
 - public works
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Council let a contract to Messrs Francis Clark & Sons for the artesian well in Market Square. If the public subscribe half the cost the Govt. will fund the rest. Owing to misadventure the first well has had to be abandoned and the second is now being bored.

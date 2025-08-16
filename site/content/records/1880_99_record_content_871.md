@@ -20,6 +20,7 @@ topics:
 - funding
 - tubing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Well.  It has been found impossible to proceed unless the well is tubed and as 4½” tubes will cost 5/- a foot, either more money will have to be found or the well must stop at 260’ instead of the planned 300’.

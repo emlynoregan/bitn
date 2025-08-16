@@ -24,6 +24,7 @@ topics:
 - club
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket_ The True Blue Cricket Club met on 23 Dec. at J. Snell's, Kooringa to thank W.F. Coglin for his work and gave him a gold pencil case which was presented by W. Parker with a short speech. Mr Coglin has accepted the position of President of the club.

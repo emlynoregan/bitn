@@ -21,6 +21,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Mayor reports that 23 fathers have so far earned 30/- each on Jubilee Avenue and 12 of the most needy have another two weeks work.

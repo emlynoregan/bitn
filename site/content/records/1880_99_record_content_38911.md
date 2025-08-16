@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  The want of proper stage accommodation has been a concern for some time.  The committee has had plans prepared for extensive alterations and expects to call tenders shortly.

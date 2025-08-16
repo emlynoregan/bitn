@@ -19,6 +19,7 @@ topics:
 - health
 - recovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. West has also returned after a month on the Peninsula to recover his health, which has much improved.

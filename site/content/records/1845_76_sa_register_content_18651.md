@@ -21,6 +21,7 @@ topics:
 - education
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The anniversary of the Bible Christian Sunday School was celebrated and was extensively patronised.

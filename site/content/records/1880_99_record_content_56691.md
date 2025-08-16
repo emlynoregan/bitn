@@ -21,6 +21,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School Anniversary services were held on Easter Sunday & Monday.  Revs E.J. Kemp & R.S. Casely officiated.  The children’s tea and the public tea were well attended.  The income was £14-£15.

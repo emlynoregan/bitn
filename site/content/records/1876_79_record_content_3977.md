@@ -22,6 +22,7 @@ topics:
 - music
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Musical Union. A notice to form this union called for a meeting on 7 May, to be convened by Thomas Drew, James Cater, and W. Peel Nesbitt.

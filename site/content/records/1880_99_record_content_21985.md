@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  In the last quarter at Port Adelaide 7,261 departed and 3.396 arrived, but many also departed by overland routes.

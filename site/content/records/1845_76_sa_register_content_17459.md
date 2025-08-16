@@ -20,6 +20,7 @@ topics:
 - accident
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire is reported to have destroyed a number of huts and stockyards on Mr McCulloch’s run at Gottlieb’s Wells.

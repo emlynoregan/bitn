@@ -20,6 +20,7 @@ topics:
 - publication
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  Rev. A.G. King has instituted a Parish Magazine – printed by the Record office.

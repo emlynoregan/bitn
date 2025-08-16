@@ -19,6 +19,7 @@ topics:
 - religion
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  An article from the Cornubian, in Cornwall exposes the wealth and arrogance of General Booth of the Salvation Army and predicts it will cause the collapse of the same.

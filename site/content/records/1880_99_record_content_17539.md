@@ -20,6 +20,7 @@ topics:
 - volunteer
 - forts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War Preparations.  A few years ago the Russian scare saw the start of the SA Volunteer Force and the erection of our forts.  Volunteers were called out last Friday night in a practice.

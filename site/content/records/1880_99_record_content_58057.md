@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Oval Improvement Concert in the Institute on Friday night was creditably presented to a moderate audience.

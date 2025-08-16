@@ -21,6 +21,7 @@ topics:
 - land
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Green & Wadham will auction on 14 January 22 allotments of land in Millerton near Kooringa.  Allotments 13 to 17, 24 to 26, 53 to 57, 76 to 78, 94 and 150 to 155.

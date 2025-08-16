@@ -20,6 +20,7 @@ topics:
 - dentistry
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Painless Dentistry.  Mr Mallan RS, MD at Burra Hotel December 9 to 15.

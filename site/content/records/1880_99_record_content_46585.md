@@ -19,6 +19,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sport’ writes expressing thanks for the amount of work and doubtless expense too, undertaken by W.H. Linkson in organising the visit by the Broken Hill footballers.

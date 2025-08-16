@@ -22,6 +22,7 @@ topics:
 - advertisement
 - boarding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs George Lock	Boarding House, Taylor St, Aberdeen, for Respectable Young Men

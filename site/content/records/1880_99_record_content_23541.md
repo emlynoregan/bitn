@@ -21,6 +21,7 @@ topics:
 - community
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The competition for Cr Sampson’s Cup is to be monthly rather than quarterly.

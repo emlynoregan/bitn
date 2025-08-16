@@ -19,6 +19,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute library has just received 223 new books in 371 volumes at a cost of £54-5-0, or about 2/11 a volume.  147 are works of fiction.

@@ -26,6 +26,7 @@ topics:
 - railway
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Proposed SA Railway Company with Capital of £50,000 in 5,000 shares: deposit £1 per share.

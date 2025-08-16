@@ -19,6 +19,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Christmas Sports at the Miners' Arms reported. Only one aspirant for the greasy pole and he took 3 attempts before victory.

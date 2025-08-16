@@ -17,6 +17,7 @@ topics:
 - cycling
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cycling from out-of-town is reported in ½ column.

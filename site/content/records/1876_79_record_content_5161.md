@@ -20,6 +20,7 @@ topics:
 - transport
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rail Tariffs. The higher rail tariffs are causing wool to be sent to Adelaide by road.

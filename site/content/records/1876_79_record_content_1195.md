@@ -22,6 +22,7 @@ topics:
 - event
 - reception
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ernest Giles: A meeting was held to plan a public reception for the explorer expected back by coach from Beltana Wed. 20 Sep., but a telegram said he was detained till the 27th.

@@ -19,6 +19,7 @@ topics:
 - complaint
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Get Up & Bar Th’ Door’ writes complaining of the freezing gale coming in the side door of the Institute during Mr Kennedy’s performance.

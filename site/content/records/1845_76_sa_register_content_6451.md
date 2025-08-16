@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mintaro is prospering.  Dr Brown has accepted the contract for the erection of a schoolhouse at his own expense and has also contracted for the erection of a pound.  The Magpie & Stump public house is receiving praise from travellers.

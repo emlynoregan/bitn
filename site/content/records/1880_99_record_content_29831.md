@@ -25,6 +25,7 @@ topics:
 - injury
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Between 4 & 5 o’clock yesterday local colt breaker Mr James Nelson was riding a spirited horse down Morehead St to the Royal Exchange Hotel and came into collision with a pony and trap driven by a lad named Murphy.  He was thrown and broke a right kneecap and sustained other injuries.

@@ -29,6 +29,7 @@ topics:
 - community
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holdfast Bay Band of 17 members paid their second visit to Burra at Easter, playing at the hospital and in Market Square on Friday.  On Saturday they played at the polo ground, around the town and from the balcony of the Commercial Hotel.  On Sunday they played in the Wesleyan Church and at an open-air concert in Market Square and on Monday in the Institute.  T.T. Shortridge acted as local manager for the band.  [The program for the Institute Concert is printed in column 5.]

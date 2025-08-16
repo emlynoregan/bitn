@@ -19,6 +19,7 @@ topics:
 - community
 - welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Jubilee Benevolent Soc. has been doing good work and has recently spent over £50 in providing the necessities of life for those too old or sick to work.  August alone saw 21 loads of wood delivered and 12 cases have also received provisions.  The town is divided into four districts with two lady visitors for each, who visit the poor and provide help.

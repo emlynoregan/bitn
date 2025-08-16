@@ -25,6 +25,7 @@ topics:
 - miners
 - effigies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Death on Bad Ink-Slingers’ writes in response to the Burra correspondent to the Southern Cross [Hardy] who complains that larrikins led on the event in Burra and they were led by one who is not a Burraite.  The writer says he has been coming to the district for four years as a shearer.  He bought the clothes on his back in Burra and always makes Burra his home, though shearing in Australia, New Zealand and Tasmania.

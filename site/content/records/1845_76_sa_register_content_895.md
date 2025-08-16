@@ -19,6 +19,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Another advertisement for Nicholl’s stage cart to the Burra Burra Mines.

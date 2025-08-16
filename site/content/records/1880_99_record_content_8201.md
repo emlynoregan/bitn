@@ -19,6 +19,7 @@ topics:
 - alcohol
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Application for Fred. Camp to be declared addicted to alcohol so as to be injurious to himself.  The certificate was granted making the supplying of liquor to him for the next 12 months illegal.

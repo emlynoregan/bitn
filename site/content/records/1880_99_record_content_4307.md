@@ -21,6 +21,7 @@ topics:
 - survey
 - proposal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pt Germein-Orroroo Railway.  The editor is against this proposal as unnecessary, the survey and plans for which had just been completed.  [Ultimately it was not built.]

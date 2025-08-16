@@ -19,6 +19,7 @@ topics:
 - agriculture
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie suffered heavy rain on 3 January and flooding is widespread.  Farmers with wheat not yet under cover suffered losses.

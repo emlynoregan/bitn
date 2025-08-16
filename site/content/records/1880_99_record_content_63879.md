@@ -21,6 +21,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation.  Delegates representing the five colonies have returned to their homes and an election must now decide whether or not the colonies will federate.  We have received a copy of the Commonwealth Bill.

@@ -23,6 +23,7 @@ topics:
 - business
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mule Teams.  Some local businessmen in Kooringa are proposing to buy mules from the English & Australian Copper Co. to establish a system of carriage by mule teams between Burra and the Barrier Ranges.  Whether anything will come of the idea is as yet uncertain.

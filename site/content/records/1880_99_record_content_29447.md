@@ -23,6 +23,7 @@ topics:
 - finance
 - public utilities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.R. Ridgway re the Waterworks.  He recommends that the Council take over the works again, under certain conditions.  He makes the following points:

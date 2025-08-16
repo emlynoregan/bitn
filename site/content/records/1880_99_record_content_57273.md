@@ -19,6 +19,7 @@ topics:
 - crime
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chinese.  Someone dug up a Chinaman’s coffin in Dimboola cemetery recently, evidently expecting to find money.  ‘We don’t think anyone will trouble about our Chings’ remains with a view to getting money.’

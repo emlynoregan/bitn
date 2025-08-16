@@ -22,6 +22,7 @@ topics:
 - council
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor apologises for the report of the Council, but the readers deserve to know what happened.  At the previous meeting Cr Hardy moved the room be cleared.  This time Cr Parks moved the motion to reject ‘that awful recorder’.

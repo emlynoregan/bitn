@@ -21,6 +21,7 @@ topics:
 - events
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At World’s End Mr Duldig is preparing a day’s sport of rabbit killing for 9 April when a start will be made from Klaebe’s house at 8 a.m. with return about 6 p.m.  Provisions will be provided at intervals.  Prizes will be distributed in the evening.

@@ -18,6 +18,7 @@ topics:
 - events
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Lynch Family Bellringers had a splendid house on Saturday last and were well received. They will perform again on their way south in four weeks.

@@ -24,6 +24,7 @@ topics:
 - international news
 - response
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Volunteer Force.  Surely the latest news of England’s ultimatum to Russia following the latter’s incursion into Afghanistan will get the Burra co. RVF up and running.

@@ -21,6 +21,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  On Saturday the Catholic Priest had a fall when mounting his horse near the chapel in Kooringa and, though not badly hurt, had to be taken home to Clare in a cart.

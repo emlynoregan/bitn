@@ -20,6 +20,7 @@ topics:
 - economy
 - distribution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the great wealth of employers like Andrew Carnegie who pays the lowest possible wages and the need to see a more equitable distribution of wealth.

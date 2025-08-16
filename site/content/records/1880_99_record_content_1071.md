@@ -19,6 +19,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church Anniversary achieved good congregations and some 250 attended the public tea on the 24 May.  The financial results were c. £75.

@@ -22,6 +22,7 @@ topics:
 - concert
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  On 20 November in the Institute Rev Father J. Peters SJ will lecture on Temperance, and the children of St Joseph’s School will give their first Juvenile Concert.

@@ -21,6 +21,7 @@ topics:
 - cricket
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra versus Riverton cricket match at the Recreation Ground today.  6d.

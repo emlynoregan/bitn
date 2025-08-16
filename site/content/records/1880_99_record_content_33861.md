@@ -19,6 +19,7 @@ topics:
 - court
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Believer in Justice’ complaining of the expenses and inconvenience in a recent case that went to appeal when it was plain to all the original judgement was flawed.  He wondered at the probity of some JP’s or at least the etiquette of men with sheep to shear sitting on cases involving shearing contracts.

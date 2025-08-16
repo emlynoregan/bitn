@@ -18,6 +18,7 @@ topics:
 - community
 - militia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The attempt to for a rifle corps here has been led by Mr Goodfellow.  It has been so far successful that a list of 28 signatures has been applied to the requisition to the Government and a response from them is awaited.

@@ -18,6 +18,7 @@ topics:
 - bicycle
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale, a 52” ordinary ball-bearing (all over) bicycle with laced spokes, in thorough good order for £6-10-0.  (Cost £23)  Been running 18 months.

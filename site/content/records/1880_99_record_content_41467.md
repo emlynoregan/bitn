@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The lamp at Henderson’s Bridge is in the course of construction.

@@ -21,6 +21,7 @@ topics:
 - pests
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Branch of the Agricultural Bureau met on Friday for its monthly meeting.  Grubs are eating much of the wheat sown early in the season in the paddock to the rear of J.D. Cave’s house.  Samples have been sent to Adelaide for identification.

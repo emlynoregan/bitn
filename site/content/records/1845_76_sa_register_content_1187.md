@@ -21,6 +21,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice to Carters.  Cartage of ore will not be suspended during the Christmas Holidays.

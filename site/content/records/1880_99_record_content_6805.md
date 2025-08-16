@@ -23,6 +23,7 @@ topics:
 - nuisance
 - waste
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster wrote asking for a notice at the corner of the road near his back gate re driving around it at walking pace to protect his children and also asked to be allowed to deposit horse manure in the creek at the back of his yard if it is removed regularly - this would not be a nuisance to anybody he says.  He says his own premises are too small to permit the manure to be stored on site.  Both requests were refused.

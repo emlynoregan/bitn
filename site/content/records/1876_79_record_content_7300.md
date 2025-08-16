@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Further details of decisions already noted are given in columns 6 & 7.

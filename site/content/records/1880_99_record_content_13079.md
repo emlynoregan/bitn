@@ -20,6 +20,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  United Evangelical Services of the three Methodist Churches in Kooringa.  There will be services every day:

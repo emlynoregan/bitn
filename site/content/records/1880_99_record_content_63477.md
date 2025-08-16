@@ -19,6 +19,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Booborowie Sports on Christmas Day in hot weather were nevertheless very successful.

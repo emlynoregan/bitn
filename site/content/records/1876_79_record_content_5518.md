@@ -21,6 +21,7 @@ topics:
 - controversy
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor from Rev. R.W. Campbell defending himself against the charges brought against him by Mr Lipsett — he admits a few days ago to bringing Mr Lipsett before the church on a charge that was fully sustained. The church court then asked the defendant to resign and on his doing so the charge was withdrawn.

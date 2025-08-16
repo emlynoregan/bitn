@@ -18,6 +18,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Miss Thorne has been preaching to good congregations through the week.

@@ -27,6 +27,7 @@ topics:
 - legal
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The richness of the Turon diggings is confirmed.  A large proportion of the entire population is earning high wages and there are very few not doing well.  [The report then details parcels of gold being despatched by individuals.]

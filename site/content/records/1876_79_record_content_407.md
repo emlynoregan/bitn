@@ -19,6 +19,7 @@ topics:
 - mining
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ayer’s is being cleaned from the 50 upwards.  We have been down from the surface to the 20, where it is full of stuff, which fell in from the surface when the top of the shaft was removed.  Eventually we hope for some tribute pitches here.

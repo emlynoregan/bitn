@@ -20,6 +20,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Spartan arrived at Gravesend 20 May carrying a large quantity of Burra ore.

@@ -19,6 +19,7 @@ topics:
 - youth
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Band of Hope met last Thursday and a large number of young people enjoyed an interesting program of addresses, songs, readings, and recitations.

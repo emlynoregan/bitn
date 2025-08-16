@@ -25,6 +25,7 @@ topics:
 - sale
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  A notice in the Government Gazette lists lands for sale under the Sale of Waste Lands Act.

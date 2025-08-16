@@ -25,6 +25,7 @@ topics:
 - sketch
 - misc
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 15 Apr 81	Serpent Ch XXXI	“Endymion”	A Little Ireland in America	X			X	X	X	X	X

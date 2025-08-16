@@ -20,6 +20,7 @@ topics:
 - advertisement
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Football Club Sports on the Oval, Monday 26 May.  There will be a program of contests ending with a football match between Colours and Allcomers.

@@ -21,6 +21,7 @@ topics:
 - draper
 - clothier
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Edwards & Co.	Drapers & Clothiers, near Bank of Australasia

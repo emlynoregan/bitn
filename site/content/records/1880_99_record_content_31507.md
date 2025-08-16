@@ -18,6 +18,7 @@ topics:
 - letters
 - editorial response
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Dungey responds to the editorial of the 18 Jan.

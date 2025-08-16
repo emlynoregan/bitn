@@ -21,6 +21,7 @@ topics:
 - business
 - move
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Batchelor has moved from the old shop to that previously occupied by Mr Walker. [See also advt. page 1.]

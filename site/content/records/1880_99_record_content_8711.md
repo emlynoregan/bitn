@@ -18,6 +18,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Day was cool and passed quietly.  A band of carol singers could be heard in the streets.

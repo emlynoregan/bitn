@@ -20,6 +20,7 @@ topics:
 - fundraising
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 I write to try to arouse then to stir themselves to supply the funds necessary for the establishment of a permanent Church of England clergyman in Kooringa and to petition the Bishop to this end.

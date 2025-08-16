@@ -22,6 +22,7 @@ topics:
 - employment
 - quarry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ballast Quarry.  The SAR are to construct a siding from the main line at a point north of the large cutting in J. Ford’s (Quarry) paddock to run along the existing reef of stone for a further quantity of ballast.  We hope it will be in action soon for the sake of the many locally unemployed.

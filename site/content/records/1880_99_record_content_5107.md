@@ -20,6 +20,7 @@ topics:
 - community
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment by the Redruth Band of Hope last Friday was a great success and is reported in ½ column.

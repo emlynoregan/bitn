@@ -31,6 +31,7 @@ topics:
 - court
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thieves Caught.  The Kapunda Herald reminds us that in December last Mr Ohleman, a traveller for Messrs Wills & Co. left his vehicle at Mr Gurner’s in Riverton while he went to Adelaide.  When he returned on Monday he found it had been taken down to the Gilbert and there ransacked.  Three men were apprehended last week on suspicion of being the perpetrators of this offence.  They are John Thomas, John Haren and Mr Owie.  Haren was found to be in possession of a portion of the stolen goods.  At Riverton Court on Wednesday they were committed for trial at the Supreme Court and in the meantime were sent to Redruth Gaol.

@@ -23,6 +23,7 @@ topics:
 - lobbying
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Proposals.  Rival committees for the lines to Orroroo area are lobbying the Govt.

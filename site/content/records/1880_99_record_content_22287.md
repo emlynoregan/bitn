@@ -20,6 +20,7 @@ topics:
 - fundraising
 - RVF
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  Mr A. McCulloch has contributed £22-1-0 to meet the cost of seven uniforms for the RVF Co. [i.e. 21 guineas.]

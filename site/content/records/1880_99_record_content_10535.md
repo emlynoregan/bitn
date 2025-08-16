@@ -20,6 +20,7 @@ topics:
 - volcano
 - natural disaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volcano.  The eruption of “Cracatia” [Krakatoa] in the Sunda Strait is reported.  The eruption is said to be visible nightly from Batavia.  [Djakarta].

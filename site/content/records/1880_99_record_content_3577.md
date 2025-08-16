@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mrs J.H. Rowe [sic, elsewhere Roe] of Chapel St Kooringa.  New school quarter begins 1 April.

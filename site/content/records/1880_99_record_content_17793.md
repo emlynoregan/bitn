@@ -17,6 +17,7 @@ topics:
 - education
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Bible reading in State Schools, which the editor held to be quite futile.  A reading without comment or explanation of antecedent and subsequent events would not only be boring, but absurd.

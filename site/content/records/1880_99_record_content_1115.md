@@ -22,6 +22,7 @@ topics:
 - lease
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor reported he had seen Mr O’Leary, who had taken the lease of the slaughterhouse and yards, and he desired that the place continue to be used for the same purpose and subject to the same inspection and was willing the pound should continue to be used by the Council.

@@ -20,6 +20,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Jubilee Fountain Fund.  Mr Derrington will give a lecture with illustrations on Mesmerism, Clairvoyance and the use of the Divining Rod at the Institute, 19 Feb.

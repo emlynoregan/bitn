@@ -20,6 +20,7 @@ topics:
 - religion
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. John Reginald Harmer is the Anglican Bishop-designate of Adelaide to replace Dr Kennion.

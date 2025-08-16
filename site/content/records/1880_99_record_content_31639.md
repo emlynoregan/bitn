@@ -22,6 +22,7 @@ topics:
 - earth tremor
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Earth Tremor was felt in Burra on Tuesday evening last at 4.33 p.m.  In some places in the town and at Mr Dew’s at Springbank, plaster fell from ceilings.  It was widely felt in SA.

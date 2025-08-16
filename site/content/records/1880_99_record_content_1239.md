@@ -24,6 +24,7 @@ topics:
 - electoral
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on the Electoral Districts Bill.  Burra District at present runs from Saddleworth to Black Rock and includes Burra, Jamestown and Terowie etc.  The bill proposes to cut it in half with each half to have two members.

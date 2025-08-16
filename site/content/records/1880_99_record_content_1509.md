@@ -19,6 +19,7 @@ topics:
 - lecture
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster’s recent lecture on alcohol is printed.  This first part runs almost to 3 columns.

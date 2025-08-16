@@ -20,6 +20,7 @@ topics:
 - transport
 - passenger
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The editor adds that the 8 passengers on the passenger list do not include Mr & Mrs Booth and two children or Mr Cook who boarded as the vessel was sailing.

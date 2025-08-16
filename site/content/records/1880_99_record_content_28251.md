@@ -22,6 +22,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School held its anniversary last Sunday.  Rev. W.H. Hodge preached in the morning and evening with a service of song in the afternoon for which Rev. H.T. Burgess did the connective readings.  At the public meeting on Monday Captain Paull, who is in town on a visit, took the chair.  He is a former superintendent of the Sunday school.  There has been a decrease in numbers through removals.  Rev. Hodge was welcomed to the circuit and Rev. Burgess gave an address on the ‘Relation of Children to the Church’.

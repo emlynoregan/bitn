@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has moved to cut the price of water. A sliding scale was proposed, but after discussion it was decided to charge 5/- per 1,000 gallons.

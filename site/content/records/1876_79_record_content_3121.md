@@ -20,6 +20,7 @@ topics:
 - business
 - aerated waters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.  Lihou & Son, Aerated Waters and Cordial Manufacturers of Queen St Kooringa.

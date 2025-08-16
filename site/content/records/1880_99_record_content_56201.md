@@ -20,6 +20,7 @@ topics:
 - services
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr J. Littlejohn, Aberdeen, is prepared to execute all work in connection with pumps, windmills, laying on of services, etc.  Tinsmith work done at lowest rates.

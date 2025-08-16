@@ -20,6 +20,7 @@ topics:
 - season
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Agricultural prospects in the Burra area seem better than for much of SA, but to the east of the town the sight is of ‘Egyptian deserts’.

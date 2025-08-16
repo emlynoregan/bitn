@@ -18,6 +18,7 @@ topics:
 - society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 General Temperance Society.  The controversial third clause [Allowing membership to those who only drank when thirsty] has been abandoned.  A meeting is called for next Wednesday.

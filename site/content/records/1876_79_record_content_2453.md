@@ -17,6 +17,7 @@ topics:
 - history
 - bushrangers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bushrangers: story of activities from earlier in the colony's history.

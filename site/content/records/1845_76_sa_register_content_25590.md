@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Mine.  SAMA has published its annual report and balance sheet.  In the half-year just closed the production reached 1,500 tons of 18% ore.  The ore produced did not meet expenses by about £2,800, but rental income reduced this deficiency to less than £1,300.  The costs included significant permanent work.

@@ -19,6 +19,7 @@ topics:
 - death
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Many sheep are travelling up the Murray Plains to the lately deserted runs in the north, but many are dying on the way.

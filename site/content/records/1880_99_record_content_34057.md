@@ -23,6 +23,7 @@ topics:
 - injury
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accidents.  A child of Charles Rawling of Aberdeen is recovering from drinking carbolic acid and a child of Mr Hammer of Bridge St East was rescued unharmed after falling 30’ down a well on premises of Mr Grow.

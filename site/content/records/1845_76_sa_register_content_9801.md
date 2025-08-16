@@ -27,6 +27,7 @@ topics:
 - export
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The seven year contract with the Patent Copper Company (now the English & Australian Copper Company) for the sale of ores raised at the mine, expired this month, but it expected that a new contract will be made with the company.  There are upwards of 4,000 tons of ore on hand yet to be delivered under the terms of the contract.

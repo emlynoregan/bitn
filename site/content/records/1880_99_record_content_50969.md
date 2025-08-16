@@ -26,6 +26,7 @@ topics:
 - inspection
 - ball
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  A friendly shoot on Wednesday morning saw Pt Pirie MR 438 defeat Burra MR 381.

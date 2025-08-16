@@ -26,6 +26,7 @@ topics:
 - entertainment
 - catering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rechabite Sports Demonstration, Boxing Day, 26 December.

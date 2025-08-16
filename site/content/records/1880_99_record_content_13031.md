@@ -33,6 +33,7 @@ topics:
 - economy
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Dr Cockburn contended that Burra had not been disenfranchised by the election of himself and W.B. Rounsevell, but we believe that Mr Ridgway’s comment to the contrary is correct.  ‘Dr Cockburn is in all his leanings decidedly a radical.  Mr Rounsevell is as decidedly a Conservative.’  If they both stick to their principles they might as well pair off on all-important decisions and both be out of the house.  We rejoice in the return of a man like Dr Cockburn because of the policies he supports, but regret the return of Mr Rounsevell who will neutralise the influence of Dr Cockburn.  The return of Dr Stephens or Mr Ridgway would have delivered two votes on every subject.

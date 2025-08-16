@@ -20,6 +20,7 @@ topics:
 - tampering
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Chamberlain pleaded not guilty in Adelaide to the charge of opening and tampering with a letter on December 19, and the jury eventually found him not guilty.

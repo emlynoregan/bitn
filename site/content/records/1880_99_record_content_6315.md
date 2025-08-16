@@ -20,6 +20,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen.  West side of Young St midway between the footpath and the corner of road.  First horse head in line with the side of Morehead St, facing south.

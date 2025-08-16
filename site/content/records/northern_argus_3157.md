@@ -20,6 +20,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Trevor Rogers has arrived in Burra with his wife Anne to become the new Uniting Church minister in Burra.

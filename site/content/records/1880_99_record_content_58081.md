@@ -24,6 +24,7 @@ topics:
 - agriculture
 - fencing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Vermin.  A meeting in the Institute on Friday considered the advisability of bringing the Burra District under the Fencing Act of 1892.  Under this Act the Government assisted landowners to protect themselves from rabbits at the cost of £14 per mile for fencing with the Government picking up half the initial cost, repayable at the rate of 6%.  Though this may seem expensive the losses and expenses of coping with rabbits is greater.  It is hoped the Government will acceded to the Council’s request.

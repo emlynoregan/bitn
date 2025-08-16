@@ -22,6 +22,7 @@ topics:
 - renovation
 - hotels
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Royal Exchange Hotel has just been renovated by Sara & Dunstan and their men are now moving on to the Bon Accord Hotel where c. £120 will be spent.

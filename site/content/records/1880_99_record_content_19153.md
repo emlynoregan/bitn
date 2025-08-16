@@ -24,6 +24,7 @@ topics:
 - inspection
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inspection of Burra Co. RVF.  It is only four months since the company was established, several earlier attempts having failed for want of someone willing to be captain.  60 men were enrolled and since then removals etc. have seen the resignation of 8.  On Saturday 50 appeared on parade and the General said that of the 18 companies already inspected only two or three had turned out so well, and none better.  When the General arrived with Major Jervois they were taken to the firing range where SAMA have allowed the company to shoot over their land.  The General was satisfied and said targets would be sent soon to replace the canvas ones now in use.  The company was put through some simple evolutions on the Recreation Ground.  The General was well satisfied given their short time in existence.  He was glad to hear a band would be formed in connection with the company.  The capitation grant was earned by all efficients for the company to be spent in providing uniforms and other equipment expenses.  Drill and accurate shooting were both important.  The company under Lieutenant O’Connell marched to the railway station and acted as a guard of honour for the General on his departure.  The band could be formed, but it is a question of expense - the uniforms alone costing £3-5-0 each.

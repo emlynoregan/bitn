@@ -21,6 +21,7 @@ topics:
 - drowning
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Kyran Linkson, youngest son of Catherine Linkson, aged 13, drowned while bathing on 5 January at Redruth.

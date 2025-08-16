@@ -25,6 +25,7 @@ topics:
 - vote
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 When the motion for its adoption was put Crs Ridgway, Tiver and West supported and Cr Coglin and Sampson opposed with Cr Symons abstaining.  The mayor’s casting vote went against the amendment of Cr Sampson.  Cr Sampson assures his scheme was laid before the committee and considered.  Cr Ridgway had a scheme too.  Finally one prepared by the Mayor, John Dunstan jnr, was adopted.

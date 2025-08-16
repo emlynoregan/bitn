@@ -22,6 +22,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Primitive Methodist Anniversary, 11 December.  Matthew Burnett will preach with Rev. J. Pearce and Mrs Pearce.  Tea Meeting Monday.

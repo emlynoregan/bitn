@@ -36,6 +36,7 @@ topics:
 - education
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Rev. D.J.H. Ibbetson aged 48 has died after being ill for some time.  About eight or nine months ago a change of place was recommended and he took a voyage to New Zealand for two or three months.  He returned apparently much improved, but the illness unfortunately returned and took a serious form about ten weeks ago.  From then he has been confined to bed and in extreme pain from ulceration of the bowels.  He was conscious to the end, which occurred at 10 p.m. on Thursday 10 August.  Society has lost a good citizen and a man of considerable scientific attainment.  Religion has lost a faithful and earnest teacher.

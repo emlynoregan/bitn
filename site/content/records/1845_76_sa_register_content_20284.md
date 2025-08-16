@@ -39,6 +39,7 @@ topics:
 - religion
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bible Christian Church District Meeting was held on Thursday 28 February.

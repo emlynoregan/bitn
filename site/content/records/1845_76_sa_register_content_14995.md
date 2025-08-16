@@ -19,6 +19,7 @@ topics:
 - strike
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The striking ore-dressers at Burra Mine have mostly returned to their work.

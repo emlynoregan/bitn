@@ -21,6 +21,7 @@ topics:
 - obituary
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Robert Chester Sandland, second son of Mr J.C. Sandland, died at Kooringa after a short illness, aged 5.  [Robert Chesters Sandland born 17 February 1888 and died 19 June 1893.]

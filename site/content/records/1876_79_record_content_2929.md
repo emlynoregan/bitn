@@ -20,6 +20,7 @@ topics:
 - bridge
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 White Hart Ford footbridge. Tenders received. I.W. Goss's was much the lowest and accepted (£39/19/-)

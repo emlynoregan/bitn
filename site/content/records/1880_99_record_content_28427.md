@@ -19,6 +19,7 @@ topics:
 - mining
 - town council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the coming Legislative Council election and the mining boom, which some believe to have passed its peak now, and its implications for the Burra Mine, the rumoured purchase of which has still not been confirmed.

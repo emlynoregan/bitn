@@ -23,6 +23,7 @@ topics:
 - theft
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  Esther Laity, aged 10, was charged with stealing 2 parasols from the cart of Mr Elliott Camp in the Primitive Methodist Chapel yard and was sentences to the industrial school till aged 18.  (Before W.R. Ridgway & F.W. Holder JPs.)

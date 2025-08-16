@@ -18,6 +18,7 @@ topics:
 - education
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders called for a school and teacher’s residence at Mt Bryan.

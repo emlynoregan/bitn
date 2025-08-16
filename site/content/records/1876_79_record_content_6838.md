@@ -22,6 +22,7 @@ topics:
 - community
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Foundation stone of the Hallett Institute will be laid on 6 August at 2.30 p.m. by Rowland Rees MP, followed by a Public Tea-meeting and Entertainment in Tiver's Store - Music, Songs & Recitations, ending in the Screaming Farce `Furnished Apartments' by the Hallett Amateur Dramatic Club. Tea: 1/6. Entertainment: 2/- & 1/-. Excursion fares available by train (return for single fare). MOONLIGHT.

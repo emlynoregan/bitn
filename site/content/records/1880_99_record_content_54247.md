@@ -21,6 +21,7 @@ topics:
 - recovery
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A. Watt has returned to Burra after spending some weeks at Glenelg recovering from his accident.  He is walking with the aid of a stick and is recovering.

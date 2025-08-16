@@ -19,6 +19,7 @@ topics:
 - short story
 - poetry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 10 Jun 81	Ferryman’s Secret Ch X-XI	A Midwinter Romance	Taminga Snake	X	X		X	X		X	X

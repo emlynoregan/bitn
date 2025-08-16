@@ -20,6 +20,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The Government intends to continue relaying the line and all labour in Burra will be absorbed.  At present there are a number of unemployed, but about 80 will be required.

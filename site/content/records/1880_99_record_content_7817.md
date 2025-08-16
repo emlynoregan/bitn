@@ -21,6 +21,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Muff club practice match, Saturday, near Drew & Co. Aberdeen.  Mr M’Cleary’s Side 100 defeated Mr Warburton’s Side 33 & 35 (68)

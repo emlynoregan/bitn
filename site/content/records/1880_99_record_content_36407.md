@@ -21,6 +21,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tonight, 2 May, Wallett’s Great Circus, at the ground at the rear of the Commercial Hotel.  Free Exhibition at 2.30 p.m. Baby Blondin will walk a rope stretched from the ground to the top of the tent pole: a height of 50’.

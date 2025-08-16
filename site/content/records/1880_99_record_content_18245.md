@@ -21,6 +21,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.   A committee has been established to confer with the Bishop in selecting a successor to Rev. Howitt, who officiates at St Mary’s for the last time on next Sunday week.  He has been here for eleven years.

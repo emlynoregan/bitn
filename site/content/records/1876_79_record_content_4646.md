@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. Last Thursday week Mr George Lock slipped off his van, the wheels of which passed over his left ankle, fortunately resulting in only severe bruising.

@@ -20,6 +20,7 @@ topics:
 - purchase
 - wildlife
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Creswell of Waymouth St Adelaide will buy in any quantity: Full grown hares 5/- each and Leverets for 1/- each.

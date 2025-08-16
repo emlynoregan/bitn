@@ -23,6 +23,7 @@ topics:
 - trees
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arbor Day.  It is expected that c. 500 children will plant 400 trees, the holes for which are being prepared in Redruth reserve.  They will meet on Brewery Flat and march four deep to the reserve.  The signal for planting will be a gunshot.  Afterwards each child will receive a bag of sweets etc.  The children will be addressed by the Mayor etc.  Mr Wittber is preparing a concert to aid the funds.

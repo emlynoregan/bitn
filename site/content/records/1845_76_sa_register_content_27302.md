@@ -41,6 +41,7 @@ topics:
 - search
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Charley – Mrs Gordon is not here; I fear she is lost; help me if you can.’

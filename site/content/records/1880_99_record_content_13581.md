@@ -21,6 +21,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  The horse in a trap containing Mr & Mrs J.A. Watt and two children bolted near Kooringa, when loose horses approaching from behind frightened it.  Mr Watt was thrown out and dragged into a fence, but then the reins got caught in the wheel and pulled the horse up.  No one was much hurt and the damage to the trap was slight.

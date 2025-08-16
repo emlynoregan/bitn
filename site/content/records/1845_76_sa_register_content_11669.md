@@ -22,6 +22,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  News came in last week that the remains of a man were found on Mr Young’s station of Caroona.  Mr Macdonald went out to investigate.  He has every reason to believe that the remains are those of Mr Jack Whittingham, known as Jack the Baker who has been missing for some time and who was in a state of delirium when he left the hut.  A search at the time failed to find any trace.  The body had been dismembered by wild dogs, but a jumper found on it has been identified as Whittingham’s.

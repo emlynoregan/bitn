@@ -18,6 +18,7 @@ topics:
 - schools
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial expressing surprise at finding that the funds raised by the Public School concert were not entirely going towards prizes for students, but were in fact used for furnishing the school and some went for prizes.  The public has been misled about this.  The necessary appliances and furnishings are not provided by the Government, but from the concert proceeds.  ‘Free education seems to have entirely lost the object for which it was passed by Parliament, and it has drifted on to a very peculiar condition.’

@@ -19,6 +19,7 @@ topics:
 - statistics
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Adelaide Exhibition attracted 378,558 cash admissions, 372,818 season tickets, 12,034 school visits, and 3,470 free tickets for a total of 766,880.

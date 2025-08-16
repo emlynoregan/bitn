@@ -21,6 +21,7 @@ topics:
 - dispute
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 North Ward Election.  It is rumoured that Mr Pearce’s committee intend to take steps to test the validity of the election on account of some people voting who were not on the roll.

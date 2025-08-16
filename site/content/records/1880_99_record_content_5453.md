@@ -22,6 +22,7 @@ topics:
 - slander
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The advertisement that was in the paper last week about my wife stopping her credit was wrongfully inserted by Mrs Blott, of Kooringa, for which slander my wife will take law proceedings.  Frederick Kemp, Hampton.

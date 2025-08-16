@@ -19,6 +19,7 @@ topics:
 - birth
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 23 March at Kooringa to the wife of C.J. Pearce, a daughter.  [Evelyn Morton]

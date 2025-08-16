@@ -19,6 +19,7 @@ topics:
 - coaches
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. J.G. Terry & Co., North East Line of Coaches Advt.

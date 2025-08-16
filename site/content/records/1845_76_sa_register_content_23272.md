@@ -18,6 +18,7 @@ topics:
 - mining
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  A fine piece of ore said to contain about 60% copper has been discovered.  It is hoped that a lode of it may be uncovered.

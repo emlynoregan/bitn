@@ -21,6 +21,7 @@ topics:
 - school
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra High School broke up on 18 December.  Prizes were distributed by Mrs Sangster.  Miss Sprod will remain for 1896 to take the 5th and 6th classes.  There were 33 pupils this year.  The prize list is printed.

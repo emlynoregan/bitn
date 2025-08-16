@@ -23,6 +23,7 @@ topics:
 - elections
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Officers retiring due to effluxion of time:

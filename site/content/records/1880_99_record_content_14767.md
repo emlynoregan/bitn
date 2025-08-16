@@ -24,6 +24,7 @@ topics:
 - announcements
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E. Wilfred Robinson, Secretary of the British & Foreign Bible Society writes to explain why arrangements announced for the society’s special services have had to be changed.  The Church of England does not allow by law their ministers to officiate at Divine Service outside their own communion.  He will therefore preach at St Mary’s on Sunday evening at 6.30 p.m. and will attend the annual meeting on Monday.

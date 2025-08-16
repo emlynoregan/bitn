@@ -20,6 +20,7 @@ topics:
 - publication
 - photo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Telephone Directory 1986 for Yorke Peninsula and the Mid North features a cover photo of Paxton Square.  [Photo.]

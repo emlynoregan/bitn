@@ -19,6 +19,7 @@ topics:
 - finance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cake Fair ended up producing £12.  The mayor’s Fund has reached £147-12-0 and about £180 has been expended, leaving £32-8-0 to be raised.

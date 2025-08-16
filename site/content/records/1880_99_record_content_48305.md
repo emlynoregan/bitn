@@ -25,6 +25,7 @@ topics:
 - engineer
 - works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAR.  Mr Moncrieff, the Resident Engineer, arrived in Burra on Monday and was met by the Mayor, the Town Clerk and Councillors.  The creek was inspected in which the obstruction had been placed.  This will be removed and the line [to the quarry] will be carried on trussells [sic] a length of about 90 feet.

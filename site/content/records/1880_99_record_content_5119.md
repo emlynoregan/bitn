@@ -21,6 +21,7 @@ topics:
 - appointment
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyanism.  It is believed the Rev. R.S. Casely will succeed Rev. J. Bickford at Kooringa.

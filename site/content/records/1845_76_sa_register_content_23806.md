@@ -38,6 +38,7 @@ topics:
 - agriculture
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Christmas.  There were no public amusements on Christmas Day.  Shops were open on the 28 December, but closed for a holiday on 2 January when picnics were commonly indulged in.

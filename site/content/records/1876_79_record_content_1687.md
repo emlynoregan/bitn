@@ -19,6 +19,7 @@ topics:
 - entertainment
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 C. Schutz & the Northern Stage Co. ran all day to the site.

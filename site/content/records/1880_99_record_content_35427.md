@@ -37,6 +37,7 @@ topics:
 - committee
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Political Meeting.  The meeting of Holder supporters in the Institute last Tuesday saw P. Lane take the chair.  It was necessary to appoint a committee to work up their interests.  The following were appointed: P. Lane (Chair), W. Geake Sen. (Vice Chair), Messrs G. Parks, W.H. Linkson, T.W. Wilkinson, W. Anderson, H. Stephens, H. Bruse, D.J. O’Leary, F. Casey, T. Young, J. Jenkins, M. Symons, J. Morgan, W.T. Rabbich, J. Jordan, J.D. Cave.

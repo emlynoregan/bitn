@@ -19,6 +19,7 @@ topics:
 - work
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Last Thursday was observed as a public holiday among the tradespeople, but work at the Mine continued as usual.

@@ -19,6 +19,7 @@ topics:
 - election
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the Editor from W.H. Hardy: half a column of invective along the lines of:

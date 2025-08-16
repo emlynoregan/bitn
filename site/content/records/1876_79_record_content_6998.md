@@ -19,6 +19,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railway. Why is there no proper refreshment facility or waiting room at the Burra Railway Station?

@@ -20,6 +20,7 @@ topics:
 - business
 - goods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Harris, Wood and Chaff Works.  Kingston St.  Half ton lots at 13/- & 14/- a ton.

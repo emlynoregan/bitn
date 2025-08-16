@@ -22,6 +22,7 @@ topics:
 - dissolution
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Dissolution of partnership announced on 10 November of William Gardner and Robert Strike, Pork Butchers of Kooringa.

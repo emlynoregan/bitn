@@ -20,6 +20,7 @@ topics:
 - community
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A. McCulloch has returned to Burra after 12 months holiday.  He contributed articles to us while away under the pen-name of A Traveller.

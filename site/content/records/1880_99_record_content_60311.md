@@ -18,6 +18,7 @@ topics:
 - community
 - praise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Words of his would fail to express the good qualities of Cr. Rabbich.’

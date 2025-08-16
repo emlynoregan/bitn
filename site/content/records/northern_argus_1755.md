@@ -25,6 +25,7 @@ topics:
 - exchange
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Rev. Marvin Bond from Kerrville Texas and his son Michael are in Burra for two months, having exchanged roles with Fr Morris of St Mary’s, who is in Texas with his wife Mary and daughter Joan.  [Photo of Rev. Bond.]

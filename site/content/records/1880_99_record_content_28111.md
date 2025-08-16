@@ -19,6 +19,7 @@ topics:
 - land tax
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Progress’ answering in some detail ‘Wanderer’s’ advocacy of a high land tax.

@@ -19,6 +19,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [James Hobcroft died 20 August 1861 at Cachowla [sic] aged 28.  The paper of 30 August reported that an inquest was deemed unnecessary.]

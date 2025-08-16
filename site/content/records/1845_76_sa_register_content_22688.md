@@ -25,6 +25,7 @@ topics:
 - meeting
 - land_sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The SA Mining Association calls an extraordinary general meeting of shareholders for 12 May to authorise the Board or any future Board of Directors to sell all or any part of the Burra Special Survey No. 1 that has been laid out as the Township of Kooringa.  [While retaining the mineral rights.]

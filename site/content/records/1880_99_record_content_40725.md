@@ -25,6 +25,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A meeting of North Ward ratepayers was held in the German Chapel, Redruth on Friday 13 March with Cr Butterworth in the chair.

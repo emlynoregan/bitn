@@ -20,6 +20,7 @@ topics:
 - road board
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The minister agreed that their arguments were persuasive, but it was unusual for the minister to interfere with decisions of the road board.

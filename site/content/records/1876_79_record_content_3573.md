@@ -21,6 +21,7 @@ topics:
 - inquest
 - childbirth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest at the Miners' Arms into the death of Margaret Roberts who died as a result of haemorrhage after childbirth.

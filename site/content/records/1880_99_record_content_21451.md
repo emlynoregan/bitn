@@ -22,6 +22,7 @@ topics:
 - water
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina.  A party is to investigate further the possibility of irrigation at Baldina Creek with a view to getting Government sponsorship as has been done at Morgan.

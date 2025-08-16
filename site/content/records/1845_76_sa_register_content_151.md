@@ -30,6 +30,7 @@ topics:
 - speculation
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Identical letters were sent to the Manager of the SA Company and to Messrs S. Stocks Esq. and other competing gentlemen.

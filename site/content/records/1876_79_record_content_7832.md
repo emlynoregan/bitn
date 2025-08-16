@@ -35,6 +35,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Midland Road Board inspected the Eastern Plains, Robertstown, Government Wells, and the Baldina Creek Road before arriving at the bridge on Friday for the opening at 4.00 p.m. Captain Killicoat made a speech and broke a bottle of wine over it: naming it the Redruth Bridge, and declaring it open.

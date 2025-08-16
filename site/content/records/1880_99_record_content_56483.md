@@ -19,6 +19,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Quintrell Family of Bellringers etc. played to a fair audience on Monday.  Miss Jennie Opie (contralto) was strongly applauded.

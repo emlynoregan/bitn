@@ -22,6 +22,7 @@ topics:
 - auction
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  H. Bright.  At Küchenmeister’s near Lapford, for sale 9 February by warrant of the Redruth Court: one buggy and harness, 400 gallon galvanised iron tank, 200 gallon ditto, 3 furrow stump-jumper plough, winnower, ladder, cask, hay forks, blacksmith’s vice, and tools, lot of milk pans, shovels, old riding saddle, 20 fowls and 6 ton stack of hay.

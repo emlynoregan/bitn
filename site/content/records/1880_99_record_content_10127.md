@@ -19,6 +19,7 @@ topics:
 - anniversary
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Church anniversary was well attended and the public meeting heard that the debt had been reduced during the year.

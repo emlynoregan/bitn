@@ -21,6 +21,7 @@ topics:
 - art
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Artist Ken Field will have an exhibition of paintings in Polly’s Tea Room on 4 April.

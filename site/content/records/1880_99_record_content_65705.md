@@ -20,6 +20,7 @@ topics:
 - building
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The bridge at the rear of the Burra Hotel is to be attended to.

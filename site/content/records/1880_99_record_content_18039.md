@@ -19,6 +19,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Since then Burra has grown to	1	56	57	(+ Hallett sub group)

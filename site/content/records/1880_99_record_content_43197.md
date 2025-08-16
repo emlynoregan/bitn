@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayer’s meeting.  This got rather heated at time, especially over the drain at the brewery and the Cr Rabbich issue.  We wish to make it clear that Messrs Bagot, Shakes and Lewis paid for all the drain work and a few shillings is in hand.  The legal expenses over Cr Rabbich did not cost a penny as advice was free from the Municipal Association as part of the service from the usual subscription.

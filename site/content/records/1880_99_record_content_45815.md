@@ -21,6 +21,7 @@ topics:
 - community
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Here’s some names: - Ching Bah, Yow Chung, Sang Fang and Gon Bung.

@@ -20,6 +20,7 @@ topics:
 - court
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tiver sued Midwinter for £37-2-6.  The plaintiff had done work of additions and improvements and extra work had been found necessary which was done with the defendant’s approval, but was then disputed.  Judgement was for the defendant.

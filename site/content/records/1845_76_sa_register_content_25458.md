@@ -18,6 +18,7 @@ topics:
 - shearing
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie.  Shearing has commenced with the promise of an abundant clip.

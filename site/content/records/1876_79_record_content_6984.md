@@ -24,6 +24,7 @@ topics:
 - community
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse School. Apparently the local Board of Advice has not met to consider the petition from the Copperhouse parents, but will do so today. At least two members seem to favour a school for Copperhouse so a change is possible. Further detail of the Parliamentary question of Mr Rees is printed in which he says the surrounding district had only just been opened up to agriculture as far as Baldry and Irontown [sic] [Presumably Iron Mine] and at present only one child from Copperhouse attended school in Burra. There was, he said, considerable difficulty in getting into Burra in the wet season. The place was within a six mile radius, but that was a discretionary matter as other examples showed: Yarcowie for example was within six miles of two other schools.

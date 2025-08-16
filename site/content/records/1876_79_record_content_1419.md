@@ -20,6 +20,7 @@ topics:
 - traffic
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences: Letter against furious driving in town with buggies rounding corners at 10 or 11 mph.

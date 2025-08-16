@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 £800 for rebuilding Redruth Police Station £1,000 grant in aid for Burra Hospital

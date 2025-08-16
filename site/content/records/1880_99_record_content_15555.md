@@ -19,6 +19,7 @@ topics:
 - livestock
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Goodridge & Duff will sell on Friday the heaviest bullock ever yarded here which weighed in yesterday at 2,100 lb or 18¾ cwt.

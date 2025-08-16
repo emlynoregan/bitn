@@ -21,6 +21,7 @@ topics:
 - development
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In view of the possibility of putting up a new cottage for the porter it was decided to ask SAMA through Mr West for an allotment at the west side of the present premises.

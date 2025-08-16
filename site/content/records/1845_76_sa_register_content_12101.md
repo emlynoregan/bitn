@@ -24,6 +24,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Late in the afternoon of 21 December an extraordinary wain passed through Gawler on its way to the Burra Mine.  It was drawn by 36 oxen and carried part of an enormous cast-iron cylinder, the weight of which is 15 tons.  The wagon itself weighs 9 tons and fears were held for the timber bridge at Willaston.  Estimating the weight of the bullocks at 500 lb each, the total load was 32 tons.  After it came another heavy load of 170 ft of cable weighing 5½ tons and this was followed by a casting similar to the first one.  The bridge was not perceptibly deflected, to the relief of all parties.  It is understood that the contract for fetching the enormous appliances from the ship to the Mine was £1,000.  The wagons had passed the correspondent at Saddleworth on their downward journey on 9 December.

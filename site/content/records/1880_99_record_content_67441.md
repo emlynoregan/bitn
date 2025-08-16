@@ -18,6 +18,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  Boring has been stopped and the derrick taken down.  Action at the mine has virtually ceased.

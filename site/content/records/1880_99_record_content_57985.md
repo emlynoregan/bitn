@@ -19,6 +19,7 @@ topics:
 - council
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council has about £10 to cover the rest of the year.  An overdraft is therefore inevitable.  For the year North Ward had £71-7-9 to spend and has already exceeded that by £11.

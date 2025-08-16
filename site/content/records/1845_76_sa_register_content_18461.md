@@ -19,6 +19,7 @@ topics:
 - meeting
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Tuesday a vestry meeting was held at St Mary’s Church to elect church officers for the coming year.

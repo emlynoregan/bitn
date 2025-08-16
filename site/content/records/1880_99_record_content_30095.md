@@ -17,6 +17,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Leon’s Grand IXL Circus, One Night Only, 23 October.

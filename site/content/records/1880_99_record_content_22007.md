@@ -19,6 +19,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket on Good Friday at the Recreation Ground: Aberdeen v. Northern Areas, and tomorrow Aberdeen v. 15 Allcomers.

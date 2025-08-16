@@ -19,6 +19,7 @@ topics:
 - correspondence
 - local dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D.J. O’Leary writes to say life is too short to waste time replying to W.T. Rabbich and wishes him a Merry Christmas and a Happy New Year.

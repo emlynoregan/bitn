@@ -21,6 +21,7 @@ topics:
 - lecture
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church had a visit from Rev. J. Nairn on Friday.  He preached in the afternoon and in the evening delivered his popular lecture on Tam o’ Jack’s Lad, the Lancashire miner.  He will return at Christmas time for a week.

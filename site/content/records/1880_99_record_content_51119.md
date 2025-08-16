@@ -24,6 +24,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Sunday 24 September the New Schoolroom will be opened with a dedicatory service by Rev. A.G. King.  On Wednesday 27 September there will be a public tea in the schoolroom.  Adults 1/-, children 6d.  Public meeting at 7.30 p.m. with Ven. Archdeacon Dove.

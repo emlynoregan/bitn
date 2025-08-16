@@ -21,6 +21,7 @@ topics:
 - roads
 - bridges
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The new footbridge near the Bible Christian Church has been completed and so has the culvert across the main road near Mr Hunt’s.

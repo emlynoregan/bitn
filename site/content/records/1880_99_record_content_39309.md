@@ -19,6 +19,7 @@ topics:
 - politics
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ produces a remarkable defence of former Cr Hardy which could only have been written by Hardy himself!

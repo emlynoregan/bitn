@@ -22,6 +22,7 @@ topics:
 - boxing
 - sculling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports.  The out-of-town sports reports cover cricket, horse racing at Hallett on Christmas Day, boxing, and sculling in which McLean won the world championship.

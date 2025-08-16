@@ -19,6 +19,7 @@ topics:
 - government
 - salary cuts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Depression.  The financial position in Victoria is bad.  All Government salaries over £50 have been cut by 2½%.

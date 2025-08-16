@@ -22,6 +22,7 @@ topics:
 - social issues
 - protection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on protection in Victoria which it says has led to sweating - some women being paid as little as 2/6 a week plus tea and bread twice a day.

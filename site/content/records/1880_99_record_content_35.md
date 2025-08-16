@@ -21,6 +21,7 @@ topics:
 - watchmaker
 - jeweller
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 Thomas Nicholls	Watch & Clockmaker, Jeweller, nearly opposite the Commercial Hotel

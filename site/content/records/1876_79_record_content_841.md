@@ -47,6 +47,7 @@ topics:
 - costs
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board at Riverton Court House 9 August: a special meeting to consider the route of the road from Kooringa to North West Bend via Baldina.

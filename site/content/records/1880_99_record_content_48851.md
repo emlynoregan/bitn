@@ -22,6 +22,7 @@ topics:
 - harvest
 - religious services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Harvest Thanksgiving services 12 & 13 February.  Rev. R.J. Daddow and Mr George Hoult of Adelaide preached to large congregations.

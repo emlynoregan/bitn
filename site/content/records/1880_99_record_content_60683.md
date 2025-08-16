@@ -21,6 +21,7 @@ topics:
 - fraud
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Local Grower’ writes complaining that as in the past, locals will have to compete with fruit from outside the district, even though the rule is that it must be grown within 20 miles for entry at the Burra Show.  The Editor urges anyone detecting fraud to report it to the committee.

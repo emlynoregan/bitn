@@ -21,6 +21,7 @@ topics:
 - club
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  6th race of the season was from Dry Creek on 8 July and was won by J. Drew’s birds at 1,606 yds per min.

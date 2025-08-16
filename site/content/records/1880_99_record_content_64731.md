@@ -20,6 +20,7 @@ topics:
 - organization
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court Unity AOF.  District Officers visited on Saturday and were satisfied with the books etc.  They attended a special Juvenile Court at 7 p.m. and the Senior Court at 7.30 p.m., after which a smoke social was held at Vivian’s Commercial Hotel.

@@ -20,6 +20,7 @@ topics:
 - lost property
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Lost between the Hospital & Thames St, a purse containing one new £1 note, 1/- and 2d.  Reward for return.

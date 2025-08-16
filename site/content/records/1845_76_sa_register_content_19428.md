@@ -19,6 +19,7 @@ topics:
 - agriculture
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kangaroo dogs kept in Burra are becoming a nuisance to local farmers.  On Monday Captain Killicoat lost six ewes and fifteen lambs, all worried by dogs.  Another sheep farmer lost even more last week.

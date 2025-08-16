@@ -22,6 +22,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Joseph Fogg died in Adelaide on 14 August aged 75.  He was a colonist of 50 years.

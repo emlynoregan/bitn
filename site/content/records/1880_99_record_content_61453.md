@@ -21,6 +21,7 @@ topics:
 - evidence
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick Allen, labourer of Redruth in the employ of H. Roach, recognised the plane, expansion bit and soldering iron, but could not swear to the rasp or piece of solder.

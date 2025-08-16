@@ -21,6 +21,7 @@ topics:
 - event
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church.  There was a cake fair on Wednesday evening in the Lecture Hall with 90 exhibits competing for prizes.  There was much debate over what constituted a ‘true’ Cornish pasty.  The prize list is printed and perhaps most significant is the value, given that a labourer’s wage was 5/- to 6/6 a day.  Here one first prize was a pair of ladies boots, valued at 10/6, and another was a hat for the same amount.

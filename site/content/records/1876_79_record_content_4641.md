@@ -24,6 +24,7 @@ topics:
 - cricket
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. A meeting was held at the Commercial Hotel on Saturday to establish a Kooringa 

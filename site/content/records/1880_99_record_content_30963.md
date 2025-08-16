@@ -17,6 +17,7 @@ topics:
 - editorial
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘As time passes, the world is becoming smaller, and places that were many weeks’ distance from each other are now only days apart.  Races too are blending, and the great human family is steadily establishing its claims to be considered but one.’

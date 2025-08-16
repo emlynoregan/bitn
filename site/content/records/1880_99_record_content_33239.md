@@ -17,6 +17,7 @@ topics:
 - politics
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the change in attitudes, which is, directing more attention to the needs of the masses, but there is no agreement about such matters.  What one party sees as humane and effective, the other condemns as inefficient and illusory and an outrage to respectable feelings.

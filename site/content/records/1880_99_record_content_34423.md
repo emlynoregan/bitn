@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr L. Urwin of Commercial St died on Sunday 24 November.  He was a member of the AOF and had lived in Burra about 12 years.  For part of that time he had his own drapery business.  [Leonard Urwin, aged 35.]

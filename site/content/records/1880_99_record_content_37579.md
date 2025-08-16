@@ -17,6 +17,7 @@ topics:
 - editorial
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Those who amass millions do not do so from their own labours.

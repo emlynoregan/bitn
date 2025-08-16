@@ -23,6 +23,7 @@ topics:
 - services
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Matthew Bryant, late second Captain of the Burra Burra Mine, will examine and report upon any mineral discovery situated within 50 miles of Warcowie.  Address Captain Bryant, Warcowie.

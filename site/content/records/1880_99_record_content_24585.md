@@ -21,6 +21,7 @@ topics:
 - disease
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo is still giving a bit of gold and some believe that the Teetulpa reefs are promising.  Typhoid fever is occurring on the fields.

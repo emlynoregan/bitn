@@ -20,6 +20,7 @@ topics:
 - renovation
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The Kooringa building is receiving a facelift to the value of $90,000 from the Department of Housing and Construction.  Walls and window frames will be renovated.  The building will also be re-painted, including the roof.  A stone mason is currently at work.  In the longer term it is planned to re-roof the building in about 1991.

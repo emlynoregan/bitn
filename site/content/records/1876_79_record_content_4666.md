@@ -21,6 +21,7 @@ topics:
 - letter
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from Dr Brummitt re the recent to do about the admission of a patient to the hospital on the Mayor’s orders. He refutes the Mayor’s position.

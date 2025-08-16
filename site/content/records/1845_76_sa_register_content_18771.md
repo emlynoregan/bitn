@@ -22,6 +22,7 @@ topics:
 - mining
 - reprint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [An article is reprinted from the Wallaroo Times of 5 July giving an account of the Yelta Mine, Karkarilla Mine, Moonta Mine and Moonta Township.]

@@ -23,6 +23,7 @@ topics:
 - shooting
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pigeon Shooting.  A match was held on Wednesday on the Polo Ground.  J. Wilkinson of Jamestown came 1st and a shoot-off gave second place to C. W. Bowman from Mr B. Besley.  Details are not completely clear, but from this and the ‘Items’ column they would appear to have shot 80 birds though: ‘A good many pigeons got away with their lives.’

@@ -18,6 +18,7 @@ topics:
 - education
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible.  460 copies of the New Testament have arrived for children at the Burra Public School and other State Schools in the district.

@@ -20,6 +20,7 @@ topics:
 - racing
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The Totalizator.  This ceased to be a legal betting machine on 1 June.  In two race meetings in Adelaide in May no less than £70,600 passed through the totalizator.  It had been introduced to cut out the fraudulent behaviour of bookmakers and to reduce problem gambling by eliminating betting on credit.  But in fact while the totalizator has been very successful for its promoters, bookmakers have also prospered and the machine has introduced many to gambling who would have been shy of approaching bookmakers.  The repeal of the Totalizator Act was difficult and there is already a push to repeal the Repealing Act.  The writer was strongly against any reintroduction of the totalizator.

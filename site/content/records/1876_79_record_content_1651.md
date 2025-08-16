@@ -19,6 +19,7 @@ topics:
 - development
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The South Burra Burra Mine has work temporarily suspended as it needs further capital for development, but also looks promising.

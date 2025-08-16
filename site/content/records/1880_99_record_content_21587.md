@@ -21,6 +21,7 @@ topics:
 - taxation
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the depression.  This world-wide phenomenon is made worse in SA by a miserably bad harvest in the summer of 1885-6, the failure of the Commercial Bank and emigration from the colony of, not the poorest, but those with something to take with them.  He feels that only a doubling of the land tax can bring in more money, and it would fall on those most able to pay.  City land had actually fallen in value.  [It had been inflated before the depression by speculation.]

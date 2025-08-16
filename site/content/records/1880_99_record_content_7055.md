@@ -17,6 +17,7 @@ topics:
 - advertisement
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advertisements for the Legislative Council elections run for 4½ columns.

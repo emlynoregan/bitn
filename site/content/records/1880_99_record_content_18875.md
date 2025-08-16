@@ -20,6 +20,7 @@ topics:
 - crops
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Crops are very backward for 25 miles around Burra.  They are barely out of the ground, but healthy and thick.  It is too soon to speak of a general failure except for the eastern plains.

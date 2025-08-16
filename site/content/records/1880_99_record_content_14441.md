@@ -27,6 +27,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie-Silverton Track.  Dr Cockburn said he was arranging for water supplies along the northeast track from Terowie:

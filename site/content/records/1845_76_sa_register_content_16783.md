@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Last Sunday Rev. J.G. Wright of Mt Barker preached three excellent sermons at the Primitive Methodist Chapel in celebration of its anniversary.  The chapel was crowded to excess.  Over 300 attended the tea on Monday and the following public meeting was largely attended.

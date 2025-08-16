@@ -18,6 +18,7 @@ topics:
 - wreck
 - news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The news of the wreck of the Admella has created great interest here.

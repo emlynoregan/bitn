@@ -18,6 +18,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charity.  The Foresters’ Demonstration money has now been distributed and was divided among 15 deserving cases.

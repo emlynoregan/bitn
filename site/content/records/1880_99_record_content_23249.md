@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - trees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  Cr Sampson moved the suspension of Standing orders with a view to appointing a permanent inspector at £50 p.a.  Carried.

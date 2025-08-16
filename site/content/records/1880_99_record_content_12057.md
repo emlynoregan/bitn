@@ -23,6 +23,7 @@ topics:
 - emergency
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Sunday morning Mr William Anderson was awakened by the smell of smoke in his house.  He ascertained the fire was not in his house, or shop, but came from the roof of the adjoining shop of T. Edwards.  He gave the alarm and with PC Radford broke into the smaller shop and thence to the other.  The whole of the office was burning and the shop was smouldering all along the western side.  Lack of ventilation seems to have limited the flame.  Taking care to limit the air they began putting water on the fire as soon as possible and in half an hour it was extinguished.  Keeping the front doors closed and saturating the smouldering mass saved the shop.  Water came from Mr Bruse’s and Mr Barnett’s wells.  Damage amounted to c. £1,000.  It is thought the fire started from a match Mr Edwards struck to collect some papers as he was leaving and that it had smouldered for over three hours before being discovered.

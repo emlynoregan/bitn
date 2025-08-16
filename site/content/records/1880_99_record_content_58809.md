@@ -21,6 +21,7 @@ topics:
 - snakebite
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Pratt, a porter at the Burra Railway Station was bitten on the thumb by a brown snake 3½’ long on Monday.  He is getting on satisfactorily.

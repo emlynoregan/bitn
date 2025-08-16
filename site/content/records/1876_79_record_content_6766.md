@@ -20,6 +20,7 @@ topics:
 - transport
 - passenger service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Passengers from Hallett who want to join the morning train from Burra have to start at 6.30 a.m. and ride in the guard's van to Burra. Often this means standing all the way for 18 miles and sometimes standing on the external platform of the van. Surely a small passenger carriage is in order here.

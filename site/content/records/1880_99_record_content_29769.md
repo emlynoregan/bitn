@@ -17,6 +17,7 @@ topics:
 - state socialism
 - letter to the editor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter of ⅔ column on State Socialism.

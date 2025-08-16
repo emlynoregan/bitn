@@ -18,6 +18,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Special Efforts to raise funds to re-light the church raised £20 and were judged very successful.

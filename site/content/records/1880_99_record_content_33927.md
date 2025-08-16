@@ -22,6 +22,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary last Sunday & Monday.  Rev. A.W. Wellington preached to good congregations.  Tea meeting presided over by Dr J.R. Stephens.

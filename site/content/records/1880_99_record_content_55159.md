@@ -21,6 +21,7 @@ topics:
 - polo
 - practice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  The team is practising for matches against Adelaide and Mt Crawford to be played at Burra.

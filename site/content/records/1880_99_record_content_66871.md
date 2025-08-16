@@ -20,6 +20,7 @@ topics:
 - competition
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club held a firing match for Allcomers on Wednesday.  G. Dow top scored with 59 and won the porker.

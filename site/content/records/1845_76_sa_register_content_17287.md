@@ -29,6 +29,7 @@ topics:
 - disease
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mintaro News, 29 February

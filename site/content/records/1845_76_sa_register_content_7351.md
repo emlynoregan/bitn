@@ -21,6 +21,7 @@ topics:
 - shipping
 - returnees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 NSW Diggings.  The Cantaro from Sydney arrived at Port Adelaide with 30 passengers who were returning to SA from the diggings there.

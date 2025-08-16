@@ -20,6 +20,7 @@ topics:
 - cricket
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Gawler on Easter Monday Gawler 125 defeated Burra 116.

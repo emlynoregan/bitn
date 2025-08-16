@@ -19,6 +19,7 @@ topics:
 - education
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Gully was summonsed for not sending two of his children to school the required number of days in the quarter to 30 June 1891.  5/- + 15/- costs in each case.

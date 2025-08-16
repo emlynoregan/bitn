@@ -19,6 +19,7 @@ topics:
 - finance
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Moonta Mine.  There is a report of the state of the Moonta Mine along with a table of its dividends over the past ten years.

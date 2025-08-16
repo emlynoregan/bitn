@@ -19,6 +19,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  Boring at the Burra Mine continues systematically with encouraging results and the second bore is well down.

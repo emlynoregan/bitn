@@ -20,6 +20,7 @@ topics:
 - community
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hardy: a little fat man with a bald head and a hardy nature.  Fond of expounding the rights of labour and Henry George in a newspaper.  A volunteer and successful shot.  A Yorkshireman of dogged opinion.  There is no ‘french polish’ in appearance or manness [sic, manners?] nor is he at all conciliatory towards opponents.  A diligent attender to Council meetings.  Always on the lookout to prevent a waste of public money.  The plainness of his speech makes sure he is not popular with all, but he is pretty sure to keep his seat.  [There is a strong likelihood that Hardy was the author of these sketches.]

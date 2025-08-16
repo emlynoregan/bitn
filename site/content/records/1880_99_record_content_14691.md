@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  At Kooringa on 9 Oct. to the wife of Samuel Burns, a son.  [Norman George Merrick]

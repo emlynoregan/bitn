@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Lamb, an old Burra resident and early colonist has died.  [James Gilbert Lamb died 13 May aged 67.]

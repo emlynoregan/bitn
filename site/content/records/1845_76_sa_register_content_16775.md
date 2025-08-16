@@ -20,6 +20,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Next Monday evening at the Institute Mr E.L. Grundy will deliver a lecture on Duties of the Present Age and of Posterity.

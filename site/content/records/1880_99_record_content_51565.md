@@ -20,6 +20,7 @@ topics:
 - excursion
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Show today.  Excursion fares apply on the railway. A special will leave Terowie at 5.50 p.m. and should reach Burra about 7.30 p.m.

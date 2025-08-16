@@ -20,6 +20,7 @@ topics:
 - match
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The match last Saturday was fired over 200, 500 & 800 yds and Clare 560 defeated Burra 502.

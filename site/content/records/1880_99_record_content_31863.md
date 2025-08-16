@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  W. Williams, an old resident, has died.  [William Henry Williams, died 9 March, aged 50.]

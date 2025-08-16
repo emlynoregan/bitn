@@ -23,6 +23,7 @@ topics:
 - hospital
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Methodist Church will hold a special hospital service on 20 December instead of on Christmas morning.  The Hospital Board, Council and Friendly Societies have been invited to attend.

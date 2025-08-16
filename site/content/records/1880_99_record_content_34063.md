@@ -21,6 +21,7 @@ topics:
 - mission
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Foreign Mission special services on Sunday and Monday last.  Rev. Isaac Rooney and Daniel To Makait, a New Britain native, attended.

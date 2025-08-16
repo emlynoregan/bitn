@@ -21,6 +21,7 @@ topics:
 - renovation
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Two Unicorn Brewery bottles complete with labels have been found during renovations on a row of cottages in Taylor Street, belonging to Mt Matt Reilly.  [Photo of worker Bill Corbett with the two bottles.]

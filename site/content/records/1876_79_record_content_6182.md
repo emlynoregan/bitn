@@ -19,6 +19,7 @@ topics:
 - tender
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tenders called for the erection of a commodious hotel on the site of the late fire at the Miners' Arms.

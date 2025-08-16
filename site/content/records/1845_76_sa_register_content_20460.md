@@ -18,6 +18,7 @@ topics:
 - mine
 - future
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Challoner stated that the present was not the proudest moment of his life.  He felt sure that when they were all dead the mine would again be worked and be more prosperous then than ever.

@@ -22,6 +22,7 @@ topics:
 - horse racing
 - boxing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  There are reports on sculling, bicycle racing, horse racing, and boxing etc. from the other colonies and overseas.

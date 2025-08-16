@@ -36,6 +36,7 @@ topics:
 - industrial exhibition
 - literary society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment. Tonight at the Burra Institute the Burra Dramatic Society presents: More Sinned Against than Sinning, accompanied by the Burra Orchestra in their first appearance.

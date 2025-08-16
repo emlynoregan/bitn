@@ -20,6 +20,7 @@ topics:
 - land
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Finance Committee has prepared a list of vacant allotments on which rates are unpaid.  The matter will be held over for the present.  The Town Clerk will attempt to find the names of owners.

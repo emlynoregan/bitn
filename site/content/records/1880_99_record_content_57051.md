@@ -30,6 +30,7 @@ topics:
 - wall
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich charged that Inspector J.R. Gray had ‘told a ratepayer that Cr Hardy and himself [Cr Rabbich] supported the acceptance of the lowest tender for carting gravel and he was surprised at the ratepayers supporting such men.’*

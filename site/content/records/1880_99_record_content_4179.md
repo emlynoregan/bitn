@@ -23,6 +23,7 @@ topics:
 - cemetery
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for a footbridge in Chapel St and for a curator and sexton of the cemetery at a salary of £110 p.a. + 2/6 per interment.

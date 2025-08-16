@@ -23,6 +23,7 @@ topics:
 - religion
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Limelight Exhibition on 10 November at the Salvation Army Barracks

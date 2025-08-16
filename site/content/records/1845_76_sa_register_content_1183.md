@@ -20,6 +20,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Four Advertisements were inserted by Henry Ayers for SA Mining Association.

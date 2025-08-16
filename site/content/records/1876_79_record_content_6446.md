@@ -19,6 +19,7 @@ topics:
 - postal service
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Postal Service. W.H. Rosman writes complaining of the quality of service at the post office with respect to telegrams and the mail sorting times.

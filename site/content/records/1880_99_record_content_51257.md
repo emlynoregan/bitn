@@ -28,6 +28,7 @@ topics:
 - dispute
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ex-Councillor Sampson presented the requisition for the meeting which took place on 20 September in the Institute when Dr Brummitt presided as a very effective chairman.

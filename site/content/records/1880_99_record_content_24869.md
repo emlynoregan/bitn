@@ -23,6 +23,7 @@ topics:
 - business
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Jonathon Hosking has left Burra to establish a branch of his business at Broken Hill.  He will be missed as a tireless worker of the Wesleyan Church and Sunday School and other community activities.  Church members presented him with a three volume Life of Gladstone.  He was a supporter of the Institute and for two years the secretary and this year was President.  He was also secretary of the British & Foreign Bible Society.

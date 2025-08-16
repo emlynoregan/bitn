@@ -22,6 +22,7 @@ topics:
 - Arbor Day
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  A Volunteer social will be held at the Burra hotel in the evening of Arbor Day.

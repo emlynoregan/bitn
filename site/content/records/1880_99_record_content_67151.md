@@ -19,6 +19,7 @@ topics:
 - machinery
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘In treating the slag considerable care will be necessary . . . on account of the savings been [being?] in a matalic [sic: metallic?] state’.  But as work proceeds if necessary other appliances will be added consisting chiefly of an elaborate new vanner [sic] being patented by Mr May, in which material will be reduced with little if any loss of water.

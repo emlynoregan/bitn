@@ -23,6 +23,7 @@ topics:
 - community
 - ball
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The roads around the Burra district are impassable.

@@ -19,6 +19,7 @@ topics:
 - public health
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stench.  A letter complains that the town’s butchers operate boiling down works in the town creating a great stench.

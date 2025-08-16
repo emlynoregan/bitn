@@ -18,6 +18,7 @@ topics:
 - sport
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton & Iron Mine Athletic Club Sports were held on Wednesday last.  A warm day saw good running and close finishes.  The one cycle mile handicap and the two mile event were both won by a promising young rider named Abbott.

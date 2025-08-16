@@ -24,6 +24,7 @@ topics:
 - fundraising
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Tea Meeting was presided over by Dr Brummitt.  F.W. Holder read the financial report showing the debt increased by £100 due to nearly £200 spent on improvements.  The usual reduction in the debt had not occurred due to heavy increased circuit expenditure and the erecting of the new parsonage.  Rev. J.G. Wright, Rev. S.F. Prior, and Rev. C. Tresise all gave addresses and the financial result of cash and promises amounted to £100.

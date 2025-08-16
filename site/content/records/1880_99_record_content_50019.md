@@ -21,6 +21,7 @@ topics:
 - crime
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He was shot in the hip by Mr Belcher at Georgetown, in the act of robbing the latter’s shop, and has subsequently died in the Port Pirie Hospital.

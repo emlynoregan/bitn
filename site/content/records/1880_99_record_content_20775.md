@@ -21,6 +21,7 @@ topics:
 - employment
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Anti-humbug’ to say the Council resolved recently to employ 15 men in each ward till 1 January 1886.  In West Ward 9 or 10 of them were put off on Saturday last.  Either the Council should see their resolutions carried out or they should leave things entirely to the Overseer of Works.

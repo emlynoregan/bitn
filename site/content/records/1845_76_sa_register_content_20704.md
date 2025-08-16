@@ -30,6 +30,7 @@ topics:
 - technology
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 June 1867, page 3

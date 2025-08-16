@@ -26,6 +26,7 @@ topics:
 - vote
 - mayor's report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor: ‘I admit Cr Linkson had a right to speak.’

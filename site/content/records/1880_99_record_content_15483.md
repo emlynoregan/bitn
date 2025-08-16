@@ -23,6 +23,7 @@ topics:
 - accident
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire broke out on Thursday morning on the railway line north of Firewood Creek after the passing of the luggage train.  It consumed the grass in Mr Thomas’s paddock and then entered Messrs Scott’s and C. & E. Gebhardt’s paddock.  After a struggle it was extinguished.

@@ -23,6 +23,7 @@ topics:
 - legal
 - ratepayers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Warnes writes wondering why the Burra DC might contemplate assisting the Hanson DC in appealing a decision of the local SM in the Redruth court, relating to a travelling stock reserve case against him.  He further wonders if they have the power to spend ratepayers’ funds in such a matter.

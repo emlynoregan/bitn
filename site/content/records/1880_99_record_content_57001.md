@@ -22,6 +22,7 @@ topics:
 - council
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Earlier Cr Rabbich had objected to being called a gentleman and now when Cr Sampson referred to Cr Rabbich and Mr Hardy, it was Cr Hardy that objected to the ‘Mr’.

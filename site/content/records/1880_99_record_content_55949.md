@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - standardisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Standard Time was introduced last Friday and clocks were set back 14 minutes to correspond to ‘zone’ time.

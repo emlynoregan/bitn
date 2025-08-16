@@ -23,6 +23,7 @@ topics:
 - flood
 - economic loss
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Queensland Floods.  On 8 February floods affected Brisbane.  The river is estimated to have swept away 500 houses.  100 horses were counted in the space of one hour.  In Stanley St water was 30’ deep.  Gympie was badly hit too.  At least a dozen Brisbane firms have lost over £10,000 each and Scott, Dawson & Stewart £20-25,000.

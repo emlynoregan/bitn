@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Mr T. Bentley lost the top of his thumb in an accident with a saw at Roach’s Mill on Tuesday.

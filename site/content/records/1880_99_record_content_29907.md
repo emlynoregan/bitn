@@ -23,6 +23,7 @@ topics:
 - religion
 - memorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Month’s Mind for Father Kreissl was kept at Jamestown: Rt Rev. O’Reilly, Bishop of Pt Augusta presiding.

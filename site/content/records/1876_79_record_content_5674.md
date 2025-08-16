@@ -22,6 +22,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the great use of timber fuel in SA and while believing it regrows rapidly enough in the Adelaide area, it is not doing so in the north.

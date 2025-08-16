@@ -25,6 +25,7 @@ topics:
 - races
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rechabite Picnic.  On 28 December the Rose of Sharon Tent had its third annual picnic at A. McCulloch’s grounds [Princess Royal], 5 miles from Kooringa.  200 people attended by the time the races started.  Hall & Bromley’s swings were popular.  William Geake Sen. catered.   The usual foot races and jumping events were held and a bicycle race was the most attractive event of the day.  It was won by E. Mutton.  In the evening there was an entertainment at the Institute.

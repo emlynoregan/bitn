@@ -23,6 +23,7 @@ topics:
 - demonstration
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 United Friendly Societies’ Demonstration is written of by ‘Whip’ who lauds sport as the great pastime: calling it a recreation, a pleasure and a blessing.  He urges all to go to the day and enjoy it and repay the hours of work given freely by the organisers.  A new and good track has been laid down on the Polo Ground.  All indications are for a great financial success as well as a good meeting on Boxing Day.

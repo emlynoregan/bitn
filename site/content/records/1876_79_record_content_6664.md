@@ -19,6 +19,7 @@ topics:
 - mail
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mail. An extra mail run has been instituted between Kooringa and Redruth

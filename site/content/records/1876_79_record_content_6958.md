@@ -23,6 +23,7 @@ topics:
 - geography
 - administrative
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 County Burra, Hundred 280 lies to the east of H. of Mongolata and north of the H. of King. It comprises grassed open saltbush and bluebush with some sandalwood and mallee.

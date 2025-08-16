@@ -19,6 +19,7 @@ topics:
 - pneumonia
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  The Central Board of Health have decided the recent outbreak of illness was not typhoid and it is also not likely to have resulted from the consumption of cattle with pleuro-pneumonia.  They can only suggest a form of pneumonia, but as there is some argument even against that it seems destined to remain a mystery.

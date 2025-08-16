@@ -20,6 +20,7 @@ topics:
 - telegraph
 - communication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Telegraph.  The telegraph link with Silverton, NSW, has been opened.

@@ -24,6 +24,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The AGM was held at the Commercial Hotel Friday last.  The club has a credit balance of £3-16-0.  Elected were: F.W. Holder MP, Patron; P.L. Killicoat JP, President; E. Lockyer, Captain; G. Herbert, Vice-Captain; J. Blott, Secretary.

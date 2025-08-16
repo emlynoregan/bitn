@@ -31,6 +31,7 @@ topics:
 - National Trust
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra’s October Long Weekend

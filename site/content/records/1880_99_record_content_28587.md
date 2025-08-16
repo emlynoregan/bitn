@@ -20,6 +20,7 @@ topics:
 - procurement
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Waterworks calls tenders for 20 tons of short firewood and 20 tons of chopped mallee roots.

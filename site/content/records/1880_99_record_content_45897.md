@@ -20,6 +20,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday Aberdeen played Allcomers on the new piece of ground at Redruth and were beaten by one goal.  The ground is far too small.

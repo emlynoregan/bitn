@@ -25,6 +25,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School Anniversary on 9 & 10 June when Rev. T.M. Rowe, Rev. H.T. Burgess & Rev. J.H. Ashton officiated.  Mr J. Davey’s Band led the children to the Burra Oval on Monday for sports after which tea was provided in the schoolroom.  The usual tea meeting followed.

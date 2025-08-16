@@ -29,6 +29,7 @@ topics:
 - local government
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kingston St Bridge.  A deputation comprising the Mayor (T.W. Wilkinson) and Crs Sampson, Hardy, Watt, Rabbich & Pinch waited on the Treasurer, Hon. F.W. Holder MP yesterday urging a special grant of £50 to repair flood damage to the town’s main bridge.  The central piers had been undermined by heavy flooding in the last few months.  Cr Pinch urged that it be a special grant and not taken from next year’s maintenance fund.  Mr Holder said he had seen the damage and would let the Council have the money as soon as possible.  He made no promise about deductions from next year’s grant, but promised to do his best.

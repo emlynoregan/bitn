@@ -22,6 +22,7 @@ topics:
 - public house
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Looker On’ writes in comment on a recent Clare-Mintaro football game, which Clare complained about, and among other matters the writer considers ‘had the Clare team (or at least some of them) keep [sic] out of the public house they might have done better in the match’.

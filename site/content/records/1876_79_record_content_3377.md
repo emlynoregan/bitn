@@ -23,6 +23,7 @@ topics:
 - coach building
 - wheelwright
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Wanted: a stout LAD as APPRENTICE in the Coach Building and Wheelwright line.

@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Church celebrated its anniversary on 19 & 20 April with Rev. R.J. Daddow.  Attendance on Sunday was only fair due to rain, but the tea meeting was well attended.

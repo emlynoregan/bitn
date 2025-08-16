@@ -20,6 +20,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Miners' Arms has been sold by Mt T. Richardson to Messrs Catchlove & Co. and he intends moving northwards. [This was incorrect and was corrected next issue.]

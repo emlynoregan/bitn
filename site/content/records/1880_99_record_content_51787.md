@@ -22,6 +22,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town Distress.  During the year with the aid of many of the townspeople donations to relieve distress have been forwarded:

@@ -26,6 +26,7 @@ topics:
 - rates
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There has so far been no further reply on the Aberdeen crossing.

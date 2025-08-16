@@ -25,6 +25,7 @@ topics:
 - Sparrow Act
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sunday Closing.  Legal opinion is that a fresh poll is needed if the ratepayers of East & West Wards desire Sunday Closing.  Six years ago the poll in favour was taken when the Middle and South Wards were the arrangement.

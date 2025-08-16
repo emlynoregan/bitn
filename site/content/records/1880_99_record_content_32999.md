@@ -21,6 +21,7 @@ topics:
 - skating
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Skating.  Harry Cowan gave Messrs Pontifex and Britton 5 laps in 30 and in the end won with Cowan 31 laps to Pontifex & Britton 26.

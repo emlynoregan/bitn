@@ -19,6 +19,7 @@ topics:
 - law
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stamp Duties.  New stamp duties apply from Monday 6 December 1886.  [They are listed as proposed to Parliament in the issue of 1 October 1886 and appear as implemented on page 3 of the issue of 23 November 1886.]

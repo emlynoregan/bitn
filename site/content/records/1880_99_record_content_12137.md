@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA has been ordered to fix guttering to roofs, which overhang footpaths.

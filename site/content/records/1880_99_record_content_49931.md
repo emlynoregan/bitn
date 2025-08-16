@@ -28,6 +28,7 @@ topics:
 - horticulture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chrysanthemum Show was the best ever.  Mr Cave did not compete as he had sent his best to the Adelaide Show and was reserving the best of his others for the Wentworth Show, but he sent an excellent collection not for competition.

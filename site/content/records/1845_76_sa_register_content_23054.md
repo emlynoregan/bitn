@@ -23,6 +23,7 @@ topics:
 - coroner
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A man named Fritz Martin, a journeyman tinsmith working at Messrs Jones & Boulder’s  at Kooringa, was suddenly taken ill with vomiting and died within half an hour.  He was noted for drunken habits and is supposed to have died from heart disease.  A jury found a verdict in accordance with the above facts and that death had been accelerated by drink.

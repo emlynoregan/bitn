@@ -17,6 +17,7 @@ topics:
 - literature
 - table
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 Jan.	Bella’s Hero or the Maquis	An Old Hand’s Yarn	X	X	X	X	X	X	X	X

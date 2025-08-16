@@ -25,6 +25,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 George Hiles was charged by Joseph Barrett with assaulting him.  Complainant was employed by Hiles as a shepherd about 15 miles from Kooringa.  He had gone to the head station to enquire about a dog and Hiles had knocked him down and kicked him severely.

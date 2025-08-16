@@ -20,6 +20,7 @@ topics:
 - labor
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter urges the Council to ask the Midland Road Board to use local labour when spreading road metal in the district.

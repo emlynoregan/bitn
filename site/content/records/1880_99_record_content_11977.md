@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial favouring taking the railway line direct to the Barrier from Burra, rather than via either Terowie (as surveyed), or from Orroroo as in one other proposal.  The line would foster trade with NSW and Queensland.

@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The Hallelujah Wedding tonight at the Barracks has all people guessing the names of the couple, but there are no answers yet.

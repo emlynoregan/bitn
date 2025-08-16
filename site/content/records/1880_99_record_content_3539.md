@@ -20,6 +20,7 @@ topics:
 - water
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Well.  The Corporation has despaired of getting better results by continuing, at least for any reasonable cost.  Work has therefore stopped at 220’.  Water was found from the 20’ level and the well will be tested to determine its capacity with a view to fixing a pump and troughs for public convenience.

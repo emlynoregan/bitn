@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church Anniversary, 23 May, Rev, J. Bickford will preach.  The service of song will be ‘Creation’   George Sara will preside at the tea-meeting 24 May.

@@ -23,6 +23,7 @@ topics:
 - parks
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Observer’ seeks to know who is in charge of Ridgway Park as the open gate allows cattle and horses to enter and break down trees.  If Mr Ridgway has no interest the Council should resume control.

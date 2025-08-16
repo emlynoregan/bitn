@@ -20,6 +20,7 @@ topics:
 - employment
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Rumball.  There has been no reply so far to Mr Rumball’s request for leave of absence, though being compelled to do so following the Commissioners’ retrenchment policy, not to the deputation asking for his retention as Stationmaster.

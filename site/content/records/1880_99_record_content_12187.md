@@ -21,6 +21,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Complimentary Banquet will be tendered Mr Matthew Burnett at the Institute on Wednesday 6 February at 5 p.m. before he leaves for Tasmania.

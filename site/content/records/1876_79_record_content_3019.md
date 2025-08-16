@@ -20,6 +20,7 @@ topics:
 - shearing
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wool. Shearing almost over for season & much wool is currently being despatched from Burra Railway Station with some still arriving.

@@ -21,6 +21,7 @@ topics:
 - tree planting
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting.  We regret none has been done in the town this year, but the Recreation Ground has been planted and when finished there will be c. 220 trees there; about 100 sugar gums, 50 cork elms and white cedar and pepper trees.

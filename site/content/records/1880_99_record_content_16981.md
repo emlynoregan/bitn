@@ -20,6 +20,7 @@ topics:
 - bounty
 - salary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dingo pups under 3 months	10/-

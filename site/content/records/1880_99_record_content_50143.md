@@ -20,6 +20,7 @@ topics:
 - visit
 - manoeuvres
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR.  Major Stuart visited the company on Wednesday and a fair muster turned out to go through a few manoeuvres for him.

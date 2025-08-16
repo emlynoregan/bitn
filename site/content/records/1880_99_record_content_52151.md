@@ -22,6 +22,7 @@ topics:
 - council
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks after some discussion drew attention to the Record’s naming the Town Clerk as the keystone of the Council.  He felt that the inference that the Overseer was on smoke-oh from 10-11 was libellous.

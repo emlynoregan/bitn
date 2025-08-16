@@ -22,6 +22,7 @@ topics:
 - blood poisoning
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Charles Drew died 3 October.  [Aged 60.]

@@ -20,6 +20,7 @@ topics:
 - company
 - succession
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs M.H. Bruse & Son have taken over from the late W.L.H. Bruse and will carry on the business.

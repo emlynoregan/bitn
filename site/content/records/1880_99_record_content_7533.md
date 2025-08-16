@@ -19,6 +19,7 @@ topics:
 - finance
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on New Taxes and Government Subsidies, especially a 1d duty on all cheques and land tax on areas beyond District Councils.

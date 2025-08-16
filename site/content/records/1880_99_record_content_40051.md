@@ -17,6 +17,7 @@ topics:
 - organizations
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lily of the Valley Tent shows a healthy situation with increasing numbers of member: 131 on the roll on 31 December 1890.

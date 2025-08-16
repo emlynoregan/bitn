@@ -20,6 +20,7 @@ topics:
 - meeting
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Meeting of the Burra Racing Club at the Commercial Hotel Tonight to consider the date of the next meeting.

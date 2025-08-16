@@ -22,6 +22,7 @@ topics:
 - legal action
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The news from Burra by yesterday’s mail is calculated to remove any grounds for alarm.  There has been no serious breach of the peace and no destruction of property, much less any resort to arms or other tragic occurrences.  The men have returned to work with assurances that the matters in dispute will be amicably arranged and the Directors have intimated that the carriage of ore has resumed.

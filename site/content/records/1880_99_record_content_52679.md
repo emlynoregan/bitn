@@ -22,6 +22,7 @@ topics:
 - business
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan.  Last Friday Messrs Sandland & Co. commenced the sale of the assigned estate of Messrs Sara & Dunstan of Aberdeen.  They sold the working plant of the firm and other miscellaneous articles.  Though bidding continued to 6 p.m. they had to begin again on Saturday morning to clear the lot and the Saturday sale ran from 10 a.m. to 5.30 p.m.

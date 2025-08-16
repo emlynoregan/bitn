@@ -28,6 +28,7 @@ topics:
 - petition
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie-Silverton Track.  Contrary to recent assertions about the nature of this route 470 teamsters have now sent a petition to Parliament complaining of the northeast track and asking for the dams and wells to be reserved for travellers as they were being drained by the squatters’ stock at Paratoo, Winnininnie, Manna Hill, Copperlinkie, O’Leary (Olary), Lower Mingary and the boundary dams and wells.

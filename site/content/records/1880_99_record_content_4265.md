@@ -19,6 +19,7 @@ topics:
 - society
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Dr Sangster supporting the formation of a true temperance society as distinct from one pledged to abstinence.  Members would pledge to limit their drinking to moderate consumption with meals and to abstain from the pernicious habit of ‘shouting’.

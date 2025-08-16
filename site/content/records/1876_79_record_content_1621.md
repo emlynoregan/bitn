@@ -20,6 +20,7 @@ topics:
 - weather
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Picnic at Sod Hut was spoiled by the biting cold wind and rain, though it was better in the afternoon. Wagons took children to the ground and the weather caused sports like archery and croquet to be cancelled, but flat races were run.

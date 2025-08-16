@@ -21,6 +21,7 @@ topics:
 - club
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Chess Club has lost one of its best players as H.G. Gibson is moving to Broken Hill.

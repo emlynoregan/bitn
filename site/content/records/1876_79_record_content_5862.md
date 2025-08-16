@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Bazaar at the Institute last Friday, Saturday & Monday raised £100 over three evenings.

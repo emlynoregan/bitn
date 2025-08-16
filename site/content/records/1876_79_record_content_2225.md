@@ -22,6 +22,7 @@ topics:
 - typhoid
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital: Lipsett again writes re inadequate staff at hospital (sparked by the `escape' of a typhoid sufferer who took himself to the Miners' Arms and had to be returned - more details in paper)

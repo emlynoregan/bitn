@@ -24,6 +24,7 @@ topics:
 - event
 - toasts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder’s complimentary social on Wednesday was well attended and passed off very well.  About 65 attended including a few ladies.  An excellent spread was provided by Mr Geake.  After the usual eatables the usual toasts were proposed with Mr Geake in the chair with Mr Holder to his right and Rev. S. Gray to his left.  Vice-Chair was Dr Brummitt JP.  The toasts were to:

@@ -21,6 +21,7 @@ topics:
 - pest control
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The District Council of Mt Bryan has an advertisement offering to pay 1/- per 100 for sparrow eggs and 1/6 per 100 for sparrow heads.

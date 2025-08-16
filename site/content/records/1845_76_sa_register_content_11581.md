@@ -26,6 +26,7 @@ topics:
 - celebration
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Wesleyan Sunday School Children and their teachers walked in procession though the town on Easter Monday before partaking of tea, cake and fruit at the chapel.  Addresses on the benefits of attending Sunday school were delivered by Rev Messrs Flockart, Colwell, J.G Wright and others.  A meeting in the evening celebrated the anniversary of the founding of the chapel.  A collection for the Sunday School amounted to £66.

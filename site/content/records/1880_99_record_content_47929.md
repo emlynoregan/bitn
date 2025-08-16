@@ -21,6 +21,7 @@ topics:
 - horticulture
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Pearce Jun. brought in a large peach grown at Mongolata in J. Weston’s garden.

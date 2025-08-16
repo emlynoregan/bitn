@@ -19,6 +19,7 @@ topics:
 - dance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Joe’s Girl’ writes, in view of the town having 1198 females and 974 males, it is unfair how married women attend the weekly quadrilles and monopolise the young men.

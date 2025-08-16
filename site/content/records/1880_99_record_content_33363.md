@@ -21,6 +21,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met at the Temperance Hotel on Friday and the evening took the form of a ‘Question Box Lecture’.

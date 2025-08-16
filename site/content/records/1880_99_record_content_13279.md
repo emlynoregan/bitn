@@ -20,6 +20,7 @@ topics:
 - opinion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Est Modus in Rebus’ writes a letter querying the style of the Salvation Army.  They use, he says, a style that is terse and prone to pugnacious piety.  Paradoxically, by converting everyday events to a ‘declaration of war’, ‘storming of the forts of hell’, ‘attacks on the devil’s quarters’, and so forth, makes issues less clear.  They confuse the moral and the material.  It is not surprising if some of the rougher portion of the population respond in an unfortunate manner.  The dangers of spasmodic conversions and fanatical piety are illustrated in every chapter of history.  Fanaticism is fatal to true and solid progress in any field as it takes captive not only the mind, but also the imagination.

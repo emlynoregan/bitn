@@ -20,6 +20,7 @@ topics:
 - inspection
 - slaughterhouse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Board of Health.  The Chief Inspector has severely condemned the state of one of the slaughterhouses in the District Council area.

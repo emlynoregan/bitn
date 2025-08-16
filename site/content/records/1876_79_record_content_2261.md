@@ -19,6 +19,7 @@ topics:
 - meeting
 - volunteer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: Meeting called for 15 May at Institute to discuss forming a volunteer corps.

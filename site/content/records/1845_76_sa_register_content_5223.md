@@ -24,6 +24,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 15 November 1850, pages 2 & 3

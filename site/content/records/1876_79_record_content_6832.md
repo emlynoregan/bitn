@@ -22,6 +22,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Football. Burra v. Clare next Wednesday in Mr Austin's paddock. 6d.

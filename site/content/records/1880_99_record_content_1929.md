@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Yarcowie Wesleyan Church Anniversary Sunday 18 October & Monday 11 October.  [Presumably 18 is a misprint for 10.]

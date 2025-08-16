@@ -20,6 +20,7 @@ topics:
 - relocation
 - shops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Record.  Before next week’s issue we will have moved to our new location next door to the old one which is about to be pulled down to make way for two new shops to be erected by Messrs Drew & Co.

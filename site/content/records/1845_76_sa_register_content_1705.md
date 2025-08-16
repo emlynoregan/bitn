@@ -30,6 +30,7 @@ topics:
 - transport
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  The ‘Reformer’ is off again on 2 August.  This time the route is via the Old North Road from the Gilbert Arms through Horrock’s and Gleeson’s Village to Burra Burra, Bon Accord and Princess Royal Mines and return through Tothill’s Creek, Hallack’s and Dutton’s Stations, North Kapunda & Bagot’s Mine and Gawler Town.

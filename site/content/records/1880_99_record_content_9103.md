@@ -23,6 +23,7 @@ topics:
 - water
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from [Dr] Robert Brummitt re the proposed windmill and tank in Market Square at a cost of c. £170.  The tank is unlikely to be ornamental and the lowness of the square limits any possible household connections.  A tank on the hill above Mr Murphy’s house could supply almost any house in Kooringa and could be fed, I am told, by a windmill.  Such a scheme would be of considerable cost.

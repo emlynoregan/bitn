@@ -22,6 +22,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Church Anniversary on 27 & 30 November.  Mr W.W. Winwood preached.  Services were largely attended.  Tea meeting fairly attended.  A presentation was made to W. Holman who is leaving the district: he will be missed as organist and leader of the choir.

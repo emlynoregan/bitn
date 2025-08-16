@@ -21,6 +21,7 @@ topics:
 - Salvation Army
 - church rules
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Riverton Correspondent writes upholding the sound commonsense of the Salvation Army’s rule forbidding people to come and go except during singing and explains the habits that led to the introduction of the rule.

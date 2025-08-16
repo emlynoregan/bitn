@@ -19,6 +19,7 @@ topics:
 - bridges
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge is now closed for the erection of the new structure.

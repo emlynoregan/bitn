@@ -21,6 +21,7 @@ topics:
 - vaccination
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Drs Brummitt and Sangster offer free vaccination Fridays 2-3 p.m. for several weeks.

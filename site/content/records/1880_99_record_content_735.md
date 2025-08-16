@@ -20,6 +20,7 @@ topics:
 - gift
 - silverware
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Presentation.  The 78 oz. sterling silver tea and coffee service to be presented to Dr Nesbitt is on display in Drew & Co.’s window.  The article bears on one side the doctor’s crest and on the other his monogram.

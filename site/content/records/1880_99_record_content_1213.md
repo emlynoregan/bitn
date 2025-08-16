@@ -28,6 +28,7 @@ topics:
 - temperance
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope.  This was first organised about 20 years ago and ran c. 10 years before being disbanded.  It was reformed about two months ago and holds fortnightly meetings.  Last Friday an entertainment was given before about 350 people.  The Band’s aim is to reclaim the drunkard and destroy the drink traffic itself.  There are 120 members, including 35 adults.  The entertainment included songs by Miss Fuss and Mr H. Rabbich and dialogues by Miss E. Fuss and Messrs Goss, Bald, Fuss, Crewes & Young.

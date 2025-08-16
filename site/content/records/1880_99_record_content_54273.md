@@ -20,6 +20,7 @@ topics:
 - community
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.C. Noye’s Concert to aid the poor was successfully staged last Wednesday and despite a cold night the hall was crowded.  The concert id reviewed item by item, but the sum raised is not given.

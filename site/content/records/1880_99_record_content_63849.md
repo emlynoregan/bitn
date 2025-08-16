@@ -23,6 +23,7 @@ topics:
 - investigation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Other Side’ writes re the burning of D. Williams’s haystack, pointing out:

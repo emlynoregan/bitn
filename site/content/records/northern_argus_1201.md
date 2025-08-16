@@ -22,6 +22,7 @@ topics:
 - Red Cross
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra North Red Cross met for World Red Cross Day on 7 May.  Before the luncheon three trees were planted by Florrie Scroop (Treasurer), Joan Steele (Secretary) and Joan Dare (President).  A hat parade followed the luncheon.

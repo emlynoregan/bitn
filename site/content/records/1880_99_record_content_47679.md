@@ -22,6 +22,7 @@ topics:
 - sport
 - match result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.   When Burra met Aberdeen at the Oval on Saturday Aberdeen defeated Burra by 43.

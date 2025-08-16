@@ -21,6 +21,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Crime. Ann Colley's charge of murdering her husband and their son, William Colley's charge of aiding and abetting the crime were heard in Redruth Court. After hearing considerable evidence the Bench asked the police if they had any stronger evidence to bring and in the absence of any such he dismissed the information, but held that if more evidence could be produced the case could be resumed.

@@ -23,6 +23,7 @@ topics:
 - community
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Outsider’ writes with tongue firmly in cheek that W.H. Hardy, W.T. Rabbich and Tommy Halls, as leading men of the town, should be sent to Adelaide as a group to greet the new Governor, Sir Fowell Buxton, when he arrives in SA.

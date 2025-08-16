@@ -26,6 +26,7 @@ topics:
 - scurvy
 - conflict with natives
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Return of Mr Stuart

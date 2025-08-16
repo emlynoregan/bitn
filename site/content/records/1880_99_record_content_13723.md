@@ -22,6 +22,7 @@ topics:
 - recreation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Recreation Ground is gradually assuming an appearance in keeping with its name.  The trees and couch grass are growing though in winter the latter gives way to native grasses.  The entrance is now impressive with the marble caps of Kapunda marble donated by James Shakes.

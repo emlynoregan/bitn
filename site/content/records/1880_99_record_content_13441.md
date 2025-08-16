@@ -20,6 +20,7 @@ topics:
 - government
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The writer sees the new ministry as a mixed bag.  Rounsevell is no financier and would be better as Commissioner of Public Works.  The Hon. R.C. Baker as Minister of Justice and Education is ‘illiberal and crotchety’.

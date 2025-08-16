@@ -20,6 +20,7 @@ topics:
 - population
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Census Returns just published show the population of Burra at 2,172, comprising 974 males and 1,198 females.  Some of the difference between the male and female numbers is no doubt due to the number of heads of families that have gone to Broken Hill.  The number of houses is set at 432.

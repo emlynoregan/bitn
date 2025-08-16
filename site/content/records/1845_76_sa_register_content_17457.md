@@ -18,6 +18,7 @@ topics:
 - disease
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Scarlatina and whooping cough are very prevalent and several have fallen victim to the former.

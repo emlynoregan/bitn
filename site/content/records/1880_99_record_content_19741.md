@@ -18,6 +18,7 @@ topics:
 - fire
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A stack of straw belonging to Dr Sangster has burnt.  Was it children playing with matches?

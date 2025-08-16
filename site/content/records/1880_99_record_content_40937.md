@@ -20,6 +20,7 @@ topics:
 - smelting
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Smelting Works.  We hear arrangements have been made for the disposal of the slag which is stacked near the Burra Smelting Works.  The purchasers intend treating the same for copper, of which it has been found be assay to contain a good percentage.  We hope it will be done locally.

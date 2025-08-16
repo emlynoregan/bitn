@@ -22,6 +22,7 @@ topics:
 - business
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Paynter some time ago purchased and erected machinery in one of the large sheds at the Smelting Works for the purpose of crushing the Burra slag to extract copper.  The venture did not succeed and the machinery was old.  Mr Paynter did not have the capital to expend, but we understand he is to persevere by floating a company to get the latest machinery.

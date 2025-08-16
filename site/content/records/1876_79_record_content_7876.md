@@ -18,6 +18,7 @@ topics:
 - agriculture
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Crops. The harvest is proceeding rapidly and results are exceeding estimates. Many will get over 16 bushels per acre and some over 20. Very few will get less than 8-10.

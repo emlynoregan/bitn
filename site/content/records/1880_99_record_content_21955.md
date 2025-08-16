@@ -19,6 +19,7 @@ topics:
 - water conservation
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.R. Ridgway advocates the sale of £1,000,000 of Crown Lands to invest in water conservation schemes.

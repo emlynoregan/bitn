@@ -20,6 +20,7 @@ topics:
 - court
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Edward William Brooks was fined 20/- for using insulting words intending to provoke a breach of the peace in Market Square on 21 January.

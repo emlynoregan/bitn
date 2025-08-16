@@ -18,6 +18,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Douglas Primitive Methodist Church Anniversary next Sunday 28 August with Grand Tea & Public Meeting on the Public Holiday, Thursday 1 September. MOONLIGHT

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Indian Famine Relief Fund for Burra reached E15610/31/2 of which £20 was from the Burra Christy Minstrels.

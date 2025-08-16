@@ -22,6 +22,7 @@ topics:
 - social
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Crewes was given a farewell social on Saturday afternoon which was addressed by the Mayor.  Cr Fuss proposed the toast to Cr Crewes and Cr Winnall that to the Mayor.

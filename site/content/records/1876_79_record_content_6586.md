@@ -23,6 +23,7 @@ topics:
 - election
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Mayor reported that a vacancy had been caused in South Ward and nominations for a replacement councillor would be received till 16 June and the election if needed would be on 19 June. [James W. White was the previous councillor, but there is no explanation for his departure.]

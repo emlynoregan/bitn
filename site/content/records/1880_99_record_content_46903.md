@@ -22,6 +22,7 @@ topics:
 - letter
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘East Ward Ratepayer’ writes to warn Councillors that they are being watched and as a ratepayer he was against such twaddle taking place as had recently occurred in Council.  He had voted for Hardy, ‘but sir, never no more’.  He supports Cr Parks.

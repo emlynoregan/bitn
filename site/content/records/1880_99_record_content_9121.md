@@ -21,6 +21,7 @@ topics:
 - advertisement
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr J.P. Satchell will open a select private school in the old church on Limestone Hill from 1 February 1883, to be known as Churchill School.  It offers a sound English education with elementary Latin and French, Music, Drawing, Painting and shorthand.  There is room for a limited number of boarders.

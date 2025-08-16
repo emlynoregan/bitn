@@ -20,6 +20,7 @@ topics:
 - animal welfare
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dog Poisoner.  Once again someone is poisoning dogs in the town.  Several valuable animals have already fallen victim, being poisoned on their chain in back yards.  A reward of £5 has been offered by Council for information leading to a conviction.

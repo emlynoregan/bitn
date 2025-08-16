@@ -23,6 +23,7 @@ topics:
 - epidemic
 - supplies
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Education Report [Editorial]

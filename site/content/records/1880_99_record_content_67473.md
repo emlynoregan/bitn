@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  At the ratepayers’ meeting Cr Cox moved and Cr Pederson 2nd that the Waterworks be handed over to the Government.  The lack of notice that this was to be moved was the wrong way to go about the matter.

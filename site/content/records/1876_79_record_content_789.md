@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr John Henry Paynter married Miss Ellen Mayger.

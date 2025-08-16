@@ -19,6 +19,7 @@ topics:
 - military
 - achievement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR.  F. Field has passed the exam for Lieutenant after being on probation for six months.

@@ -19,6 +19,7 @@ topics:
 - boxing
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boxing.  There are reports of female boxing matches in New Jersey where women strip to the waist and fight until both have to be taken and put to bed.

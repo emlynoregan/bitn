@@ -28,6 +28,7 @@ topics:
 - government
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Land Allocation.  Also in Parliament Mr Bartlett asked on Wednesday how many acres had been allotted to Mr Warnes, a member of the NE Land Board, or to any of his relatives bearing the name Warnes. The answer was:

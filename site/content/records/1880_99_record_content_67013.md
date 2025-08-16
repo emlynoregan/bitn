@@ -19,6 +19,7 @@ topics:
 - event
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School Picnic was held on Wednesday at Princess Royal.  There was an abundance of food and sports and it was not much spoilt by a couple of showers.

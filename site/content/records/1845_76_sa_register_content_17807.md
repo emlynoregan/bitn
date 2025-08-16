@@ -23,6 +23,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The SA Mining Association will remove at the end of the present month to Imperial Chambers next door to the Savings Bank in King William Street, Adelaide.

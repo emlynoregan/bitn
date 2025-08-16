@@ -23,6 +23,7 @@ topics:
 - council
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the charges for water in Burra: specifically on the idea raised in Council that would allow the unused allowance from the July to December half to be taken up in the January to June half following.  The Mayor claimed he ‘could not see the drift of the motion and could not see any advantage to the ratepayers’.  The editor implies this is nonsense.  Councillors O’Leary and Sampson did their best to counter the views of the majority and their claim that either the suggested change was unnecessary or, if attempted, could not be carried out, seem unbelievable to the editor.

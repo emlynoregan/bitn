@@ -19,6 +19,7 @@ topics:
 - agriculture
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mice. While clearing up the balance of their wheat stack at Roach’s Mill the workmen bagged 205 mice which have been very destructive this year.

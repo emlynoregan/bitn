@@ -21,6 +21,7 @@ topics:
 - skating
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Skating Rink is becoming the chief attraction in Burra and is well patronised by both skaters and on-lookers.  Davey’s Brass Band has been engaged to play during different sessions.

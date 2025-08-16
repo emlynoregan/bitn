@@ -20,6 +20,7 @@ topics:
 - essay
 - short story
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 13 Oct.	XL-XLII	The Double Game:	X	X		X				X	X			Atlantis: The Antediluvian World

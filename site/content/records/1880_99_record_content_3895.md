@@ -19,6 +19,7 @@ topics:
 - railway
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Complaint.  The stopping time at Burra is barely enough to rush and grab a cup of tea or coffee before the train starts again.

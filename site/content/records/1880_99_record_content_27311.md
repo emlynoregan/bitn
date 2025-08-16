@@ -18,6 +18,7 @@ topics:
 - literature
 - publishing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Whithered Apple [sic] by Justin McCarthy was printed on 18 March and there was no literary material on 22 March.

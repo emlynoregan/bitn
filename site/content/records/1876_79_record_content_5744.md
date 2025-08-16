@@ -19,6 +19,7 @@ topics:
 - bonds
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the disposal of the latest SA 4% bonds at 88¼.

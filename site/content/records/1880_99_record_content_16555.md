@@ -21,6 +21,7 @@ topics:
 - partnership
 - announcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The partnership of James White, John Finlay Duff & Bessie Goodchild, trading as Goodchild, Duff & Co. (Auctioneers etc.) is dissolved from 16 February 1885.  The business will continue with James White and Bessie Goodchild.

@@ -20,6 +20,7 @@ topics:
 - business
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Edwin Thomas is now in Burra taking stereoscopic pictures of all the principal streets, buildings and scenery.  He will take pictures of anyone’s dwelling on request.

@@ -19,6 +19,7 @@ topics:
 - entertainment
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Junior Foresters were entertained with a Magic Lantern show on Monday evening by J.A. Watt.  The pictures ran from the comic to the sentimental.

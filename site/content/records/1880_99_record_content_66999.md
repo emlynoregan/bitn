@@ -22,6 +22,7 @@ topics:
 - mission
 - clergy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s.  The Jesuits will soon cease to run the mission at St Joseph’s in Burra.  When Rev. Father Haendl leaves he will be replaced by Rev. Father Mahoney.

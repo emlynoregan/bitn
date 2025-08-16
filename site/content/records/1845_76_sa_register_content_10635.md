@@ -29,6 +29,7 @@ topics:
 - transport
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 6 May 1857, page 3

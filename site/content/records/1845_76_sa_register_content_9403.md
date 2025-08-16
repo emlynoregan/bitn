@@ -24,6 +24,7 @@ topics:
 - intimidation
 - franchise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Robert Cowper writes re G.S. Kingston, would-be Member for the Burra.

@@ -20,6 +20,7 @@ topics:
 - industry
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Smelting Works.  Mr Bartle has apparently received a return on work done in the last few weeks that has been far too small to pay wages.

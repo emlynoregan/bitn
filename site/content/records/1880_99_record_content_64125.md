@@ -20,6 +20,7 @@ topics:
 - federation
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.C. Baker writes an article re financial aspects of federation with special reference to Clauses 89 & part of 93.

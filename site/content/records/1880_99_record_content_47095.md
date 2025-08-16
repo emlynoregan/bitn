@@ -20,6 +20,7 @@ topics:
 - sports
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  World’s End Public School, Annual Picnic & Sports, Wednesday 26 October.

@@ -19,6 +19,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse Primitive Methodist Chapel anniversary was celebrated last Sunday and Tuesday. Proceeds amounted to £15-6-6.

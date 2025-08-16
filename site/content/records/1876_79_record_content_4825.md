@@ -33,6 +33,7 @@ topics:
 - public institutions
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School article by F.W. Holder. 

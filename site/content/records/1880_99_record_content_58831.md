@@ -21,6 +21,7 @@ topics:
 - community
 - personnel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M-C Noble, who was stationed in Burra some 25 years ago has returned and taken up duties at Redruth.

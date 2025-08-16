@@ -17,6 +17,7 @@ topics:
 - local government
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The name of the councillor who cut out matter referring to himself and inserted something about another person?’

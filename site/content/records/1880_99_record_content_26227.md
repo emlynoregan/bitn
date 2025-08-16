@@ -19,6 +19,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Traffic is expected to be through to Silverton on or about 5 September.

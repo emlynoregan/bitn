@@ -21,6 +21,7 @@ topics:
 - stock exchange
 - suspension
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the suspension of Mr John Roach, stockbroker, from trading on the Adelaide Stock Exchange, for reasons which the editor says he fails to understand.

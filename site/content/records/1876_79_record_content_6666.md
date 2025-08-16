@@ -21,6 +21,7 @@ topics:
 - public works
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Unemployment. For some time there have been a number of men out of work in Burra, but a contract for about 60 chains of road near Breakneck Hill has absorbed them.

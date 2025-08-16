@@ -19,6 +19,7 @@ topics:
 - fire
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inquest into the fire at the Baldina Hotel is reported at some length, but the details add little to what had already been reported.  The fire started in the cellar, but how remained unclear and the verdict was ‘accidental’.

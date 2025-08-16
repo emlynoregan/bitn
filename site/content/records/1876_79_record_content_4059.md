@@ -19,6 +19,7 @@ topics:
 - membership
 - benefits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rechabites. A juvenile branch of the IOR for boys aged 8-15 will be formed 4 June. Contributions 3d a week, entrance fee 2/- to 5/-. Benefits 51- week sickness &£S on death with free admission to the Adult Tent when-of sufficient age.

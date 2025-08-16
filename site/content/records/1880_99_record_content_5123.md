@@ -25,6 +25,7 @@ topics:
 - meeting
 - working hours
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Early Closing.   A meeting was held last Tuesday evening in Mr White’s schoolroom in the interests of early closing.  Rev. F. Richmond took the chair.  The meeting urged the closing of stores at 6 p.m. on Saturdays.  Late shopping was a habit rather than a necessity.  The committee appointed comprised Messrs White, W. West, Urwin, Edwards and Richards.

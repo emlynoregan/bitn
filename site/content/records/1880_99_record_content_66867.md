@@ -20,6 +20,7 @@ topics:
 - service
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. J. Homann jun. will preach at the German service at the old German Chapel Redruth on 17 September at 11 a.m.  English service at 7 p.m.

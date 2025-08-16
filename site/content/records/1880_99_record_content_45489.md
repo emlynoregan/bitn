@@ -22,6 +22,7 @@ topics:
 - exhibition
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Fenton’s exhibition of rough riding has been sensational, with his Australian and Mexican cowboys.  The fearless performance of the black boy in riding a wild bullock called for special attention.  Fenton’s system for catching unbroken horses is wonderful and in less than 20 minutes a saddle and rider is placed on its back.  Throughout ‘not one word is used which is not fit for any lady or gentleman to hear.’

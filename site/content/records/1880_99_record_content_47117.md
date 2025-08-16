@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Jones left on Monday for Broken Hill to take charge of Mr J.T. Walker’s business there.  He will be missed in the Primitive Methodist Church and Sunday school.

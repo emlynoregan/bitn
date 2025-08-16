@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 13 Nov.	VII-VIII		X					X	X	X

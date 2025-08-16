@@ -17,6 +17,7 @@ topics:
 - community
 - vandalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism has seen several large trees nearly 10’ high broken off.  This is wilful destruction and ought to be stopped.

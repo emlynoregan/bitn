@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Mr Fitt, a well-known gentleman associated with Liston, Shakes & Co.  [John Fitt died 6 August at Burra Mine aged 40.]

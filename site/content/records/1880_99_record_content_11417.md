@@ -18,6 +18,7 @@ topics:
 - agriculture
 - machinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Agricultural Machinery.  There is a long article on Shippie & Gratton’s combined header and thresher and another on The Combination Harvester.

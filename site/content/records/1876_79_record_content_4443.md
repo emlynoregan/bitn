@@ -20,6 +20,7 @@ topics:
 - institution
 - donation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 SAMA has donated bound copies of the SA Register, SA Govt. Gazette and the Mining Journal to the Inst.

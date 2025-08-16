@@ -20,6 +20,7 @@ topics:
 - land
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firewood Creek Paddock Hundred of Kooringa sections 122, 123, 124, 125, & 3034.  Total 568 acres.

@@ -23,6 +23,7 @@ topics:
 - youth
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [An article then outlines some of the sections and attractions.]  Burra Rural Youth Club is organising a licensed disco in the Burra Town Hall on Show Night.  The Burra Yacht Club will hold its annual regatta on Burra Creek on Sunday 13 October.

@@ -21,6 +21,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Church, Redruth. Sara & Dunstan will soon complete throwing the Sunday school into the church, making it into a transept for the church and almost doubling the accommodation.

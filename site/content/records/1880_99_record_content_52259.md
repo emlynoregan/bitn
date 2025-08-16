@@ -21,6 +21,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Concert in the Wesleyan Lecture Hall, 27 December.  Mrs Oldham, Mr John Roach and Others.  The Tableaux Vivant and Action Songs will be repeated.

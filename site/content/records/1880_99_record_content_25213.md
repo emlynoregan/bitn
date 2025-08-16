@@ -19,6 +19,7 @@ topics:
 - club
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club AGM at the Burra Hotel.  The year ended with a credit balance of 1/4.   No trophies were offered this year for best averages and very little interest was manifested by the players - a fairly dull season.

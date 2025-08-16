@@ -20,6 +20,7 @@ topics:
 - statistics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The paper doesn’t indicate what area these figures refer to.  The whole of Australia or SA?]

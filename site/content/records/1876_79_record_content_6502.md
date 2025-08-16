@@ -21,6 +21,7 @@ topics:
 - accident
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Charles Rawling helped remove furniture from the house and the fire was contained to the shop. Even a fire engine would not have saved the shop.

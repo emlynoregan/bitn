@@ -19,6 +19,7 @@ topics:
 - committee
 - dissolution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Committee to communicate with other centres to work for the dissolution of the House of Assembly has been active in sending out circulars in every direction.

@@ -19,6 +19,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Firewood.  92 persons this month have been issued licences to gather wood, indicating the demand there is from the Mine, two flour mills and the increasing population.

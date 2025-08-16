@@ -22,6 +22,7 @@ topics:
 - public works
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. F.W. Holder as Curator of the Cemetery reported that its state was not as bad as feared. He made six recommendations

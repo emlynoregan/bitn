@@ -21,6 +21,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Father Kreissl preached two sermons at St Joseph’s on 1 May and gave a series of instructions during the week.  There was no service on Wednesday as there was no wish to clash with the entertainment at the Institute.

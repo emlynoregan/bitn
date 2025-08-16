@@ -19,6 +19,7 @@ topics:
 - exhibition
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 26 Nov 80	Serpent Ch IV-VI	The Last Man on Board	Victorian International Exhibition:	X					X	X	X

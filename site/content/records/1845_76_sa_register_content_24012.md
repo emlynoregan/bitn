@@ -27,6 +27,7 @@ topics:
 - burial
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Surprise and regret was expressed at Kooringa on hearing the news of the decease of the late John Winnall.  While residing at Burra some years ago he won, by his Christian principles and unobtrusive generosity, the highest respect of his fellow townsmen and great sympathy is extended to his widow.  On arrival of the train on Thursday his remains were interred in the family vault at the Burra Cemetery where several of his children have already been entombed.

@@ -38,6 +38,7 @@ topics:
 - public holiday
 - procession
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the change in Government with the fall of the Playford administration and the installation of Dr Cockburn as Premier.

@@ -20,6 +20,7 @@ topics:
 - sale
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Box, our auctioneer, held a cattle sale at the Hotel saleyards last week.  Medium cows ranged from £4-10-0 to £5.

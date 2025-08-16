@@ -21,6 +21,7 @@ topics:
 - advertisement
 - practice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Medical.  An opportunity is presented to any Medical Gentleman desirous of an introduction to an extensive Town Practice of six years’ standing at the Burra.  The advertiser being about to return to England, wishes to dispose of his establishment, with detached Surgery, three-stall Stable, and other conveniences.

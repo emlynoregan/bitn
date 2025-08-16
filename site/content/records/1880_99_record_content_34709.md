@@ -20,6 +20,7 @@ topics:
 - agreement
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ASU was well represented.  The price for ewes, wethers and lambs was set at 17/6 per 100 and rams at 35/- per 100, plus board, or where the shearer provides rations, at 20/- & 40/- per 100.  Other aspects of the agreement and working rules are printed in an article extending for a full column.

@@ -21,6 +21,7 @@ topics:
 - discovery
 - economy
 source_document: 1845-76 SA Register.doc
+publication_slug: sa-register
 ---
 
 Discovery of Cooper Ore in the North

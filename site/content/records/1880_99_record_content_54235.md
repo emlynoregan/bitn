@@ -20,6 +20,7 @@ topics:
 - show
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  SA Chamber of Manufactures.  Exhibition of Art & Industry in March & April 1895 at the Exhibition Buildings, Adelaide – Send for a prize list.

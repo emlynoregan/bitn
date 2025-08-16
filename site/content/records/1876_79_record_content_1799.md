@@ -21,6 +21,7 @@ topics:
 - accident
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Floods: Rain on 12th caused flooding in the creek - Two horses and a cart were swept away between Copperhouse and Redruth, though all were eventually saved.

@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Birth.  To Mrs H. Dawson at Kooringa 13 January, a son, [Edward Alfred].

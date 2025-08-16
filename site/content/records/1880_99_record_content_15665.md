@@ -21,6 +21,7 @@ topics:
 - appointment
 - personnel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Major-General Downes will leave the service of the SA Government next March and enter the employment of the Victorian Government.

@@ -21,6 +21,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.Y. Simpson conducted a flower service at the Wesleyan Church on Sunday.

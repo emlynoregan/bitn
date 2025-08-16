@@ -25,6 +25,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Mr Kickebusch delivered a petition to the Commissioner of Crown Lands on Monday urging strong action to enforce the Rabbit Act which is sadly neglected in their area and also drawing attention to the star thistles and Bathurst burr growing in tons in the district.  The petition blames the inaction of the Burra District Council because it is largely composed of squatters.  Supply of wire netting is a waste of time and plays into the hands of the large landowners.  Also argues against the Nackara to Morgan dog and rabbit-proof fence which it says in the long run will be but a ‘toy for larrikins’.

@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr John Dow, the Council Inspector, has died from cancer in the neck.  [Died 14 June, aged 59.]

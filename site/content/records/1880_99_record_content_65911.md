@@ -19,6 +19,7 @@ topics:
 - society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Branch: Australasian National League.  A meeting is called for 10 March to arrange a social towards the end of the month.  Ladies are particularly invited to attend.

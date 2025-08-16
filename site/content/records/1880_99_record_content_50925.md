@@ -24,6 +24,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the farcical Town Council meeting of 4 September which dragged on for an hour, apparently without transacting any business.  The Councillors squabbled about going into committee behind closed doors, but eventually the meeting was adjourned sine die.

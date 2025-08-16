@@ -22,6 +22,7 @@ topics:
 - deputation
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Spence seems to have made up his mind before the deputation came and treated them most unbecomingly.  He told them they would have to take or leave the price set by the Hydraulic Engineer.  The agreement is that the Government shall construct the works and the Council shall have use of them at the cost price.  This attitude is untenable.

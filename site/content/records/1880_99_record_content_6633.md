@@ -19,6 +19,7 @@ topics:
 - donations
 - trust fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Black Springs Wesleyan Church.  Donations of £32-15-0 are acknowledged to relieve the trust fund.

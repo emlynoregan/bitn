@@ -18,6 +18,7 @@ topics:
 - community
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Early Closing.  The shopkeepers of Burra have met the wishes of their assistants and will close their shops at 7 p.m. as from 15 May.

@@ -24,6 +24,7 @@ topics:
 - postal
 - unclaimed letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unclaimed letters at the Kooringa post office include those addressed to Luke Day, Charlie Fie, Hong Sing, Lock Sing and Bocket Singh.

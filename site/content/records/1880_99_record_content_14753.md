@@ -21,6 +21,7 @@ topics:
 - homestead
 - workingmen
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Homestead Bill granting small blocks to workingmen was read for the first time in the Legislative Council on Wednesday.  Workingmen are defined as one employed by another in actual manual labour.  The blocks are not to exceed 20 acres.  There will be a limit of one licence to a person and the licensee is to erect a house and live on the block.  Having satisfied the conditions he may, after three years, be granted a 21-year lease.  If applications exceed blocks the allocation is to be decided by lot.

@@ -20,6 +20,7 @@ topics:
 - legislation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on The Silverton Railway Bill, which almost came to grief in the Legislative Council, but was finally passed.

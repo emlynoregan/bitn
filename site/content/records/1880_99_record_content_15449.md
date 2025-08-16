@@ -18,6 +18,7 @@ topics:
 - birth
 - stillbirth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 26 November, to the wife of Horace Steele, a daughter, stillborn.

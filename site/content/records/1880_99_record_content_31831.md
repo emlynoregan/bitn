@@ -28,6 +28,7 @@ topics:
 - assault
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas B. Bosence was accused of assaulting Alexander Forsyth, George Forsyth and Elizabeth Forsyth at Copperhouse on 23 Feb.

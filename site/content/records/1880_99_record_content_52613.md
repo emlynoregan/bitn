@@ -20,6 +20,7 @@ topics:
 - sport
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Richard & Bottrill divided the 1st & 2nd prizes for the Laura Bicycle Handicap.

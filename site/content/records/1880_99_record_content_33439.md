@@ -19,6 +19,7 @@ topics:
 - domestic_servants
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Assisted Immigration and Female Domestic Servants.  Also on the problems with female domestics due principally to:

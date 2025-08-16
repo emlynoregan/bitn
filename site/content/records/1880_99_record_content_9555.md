@@ -18,6 +18,7 @@ topics:
 - meeting
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rechabites.  Quarterly meeting of the Rose of Sharon Tent.  102 members good on the books, an increase of 11 for the year.  The increase of funds for the year was £67-8-11.

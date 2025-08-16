@@ -22,6 +22,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Oddfellows’ & Foresters’ Sports will be held [in the Police Paddock] on 10 November with a Grand Entertainment at the Burra Institute at 8 p.m.

@@ -18,6 +18,7 @@ topics:
 - duplication
 - irregularities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 355, 384 & 395 are used twice (the second use of 384 sits irregularly between 386 & 388)

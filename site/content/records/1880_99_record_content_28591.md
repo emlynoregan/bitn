@@ -19,6 +19,7 @@ topics:
 - racing
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Races will be held on 24 May (Queen’s Birthday) in Austin’s Paddock. The richest race is the Burra Handicap over 1½ miles for £10.  Admission 6d for pedestrians, 1/- for horsemen and 2/6 for any private vehicle with all occupants.

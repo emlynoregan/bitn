@@ -21,6 +21,7 @@ topics:
 - anniversary
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Primitive Methodist Church Anniversary 22 7 25 October.  Rev W. Diment and Rev S. Knight will preach.

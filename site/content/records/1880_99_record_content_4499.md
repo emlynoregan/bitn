@@ -21,6 +21,7 @@ topics:
 - ownership
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr T. Edwards who has managed Mr Eaton’s drapery in Kooringa ever since the latter bought it has now taken it in his own right.

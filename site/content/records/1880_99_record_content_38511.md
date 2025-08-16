@@ -18,6 +18,7 @@ topics:
 - finance
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Government aid has been cut from £20,000 to £10,000: a bad decision.

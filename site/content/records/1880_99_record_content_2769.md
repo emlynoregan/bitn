@@ -18,6 +18,7 @@ topics:
 - literature
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 22 Jul 81	Ferryman’s Secret XIX-End		A Brief History of New Zealand Part I	X	X	X	X	X	X	X

@@ -33,6 +33,7 @@ topics:
 - wards
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra DC.  9 June.  The Chairman has written to the Chief Secretary seeking a delay in the formation of the Mt Bryan DC until arrangements have been made for reconstituting the Burra District.  The Council resolved that no further objections be made to the formation of the new district.  The majority of the Council favoured the following arrangements:

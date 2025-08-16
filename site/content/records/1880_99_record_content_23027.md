@@ -24,6 +24,7 @@ topics:
 - appointments
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  General Owen authorised that a second lieutenant be appointed to the Burra Co. and Col. Sergeant Butterworth was unanimously elected to the position.  Captain Holder promoted Sergeant Hinde to Colour Sergeant and Private Hosking to Sergeant.

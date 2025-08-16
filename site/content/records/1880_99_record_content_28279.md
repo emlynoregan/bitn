@@ -19,6 +19,7 @@ topics:
 - services
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s. Of the three Easter services on Good Friday there was a good attendance only at 11 a.m.  The services on Easter Sunday were chorally rendered.

@@ -36,6 +36,7 @@ topics:
 - health
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Creek is riddled like a honeycomb.  From the bridge a fine view of the Mine on the west and of the Smelting Works on the east is obtained.  Both are astonishing, given the age of the place; less than five years.

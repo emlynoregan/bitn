@@ -19,6 +19,7 @@ topics:
 - bazaar
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. There will be a Bible Christian Bazaar at the Institute 31 Jan., and 1, 2 & 3 Feb.

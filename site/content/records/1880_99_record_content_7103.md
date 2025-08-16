@@ -22,6 +22,7 @@ topics:
 - batting
 - bowling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen suffered from the departure of many of their best players.  Best batsman: J. Sara (av. 29).  Their best bowler was O’Brien (av. 8.15)

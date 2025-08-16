@@ -18,6 +18,7 @@ topics:
 - sports
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports.  Mr Murrie was formerly prominent in foot racing though now retired.

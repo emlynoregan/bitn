@@ -19,6 +19,7 @@ topics:
 - appointment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thomas Perry has been appointed Keeper of the Gaol at Redruth.

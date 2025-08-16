@@ -21,6 +21,7 @@ topics:
 - investment
 - stocks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mining Shares continue to attract investment: Beltana Broken Hill recently got £50,000 in 48 hours and many are doing similarly well.

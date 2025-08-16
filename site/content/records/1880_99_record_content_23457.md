@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Sunday School festival on 26 September and Wednesday 29 September, Michaelmas Day.  There will be a short service for scholars at 9.30 a.m. and then a picnic at Princess Royal.

@@ -19,6 +19,7 @@ topics:
 - rowing
 - sponsorship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Rowing contests were popular at this time and attracted huge sponsorship deals and rich prize money.  (For example from the Hop Bitters Co.)

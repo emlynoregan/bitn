@@ -19,6 +19,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The second cricket match for the season will be played on Christmas afternoon 1.30 p.m.  Burra Band of Hope v. College Boys.

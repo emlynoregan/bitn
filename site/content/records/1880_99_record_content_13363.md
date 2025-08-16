@@ -20,6 +20,7 @@ topics:
 - presentation
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Dawson, formerly of the Record office was given a farewell at the Commercial Hotel on Tuesday evening and was presented with a purse of sovereigns.

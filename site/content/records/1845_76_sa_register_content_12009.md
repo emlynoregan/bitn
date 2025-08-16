@@ -23,6 +23,7 @@ topics:
 - finance
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A very successful tea meeting was held on the Monday at which Rev. C. Colwell read the financial report showing a debt on the whole property (church, school and manse) of £1,225.  The nett returns from the bazaar had been £325 and the anniversary services had raised £100, making up the noble sum of £523 [sic!].  This reduced the debt to £700.

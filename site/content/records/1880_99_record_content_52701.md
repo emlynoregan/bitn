@@ -24,6 +24,7 @@ topics:
 - pigeon racing
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The 3rd meeting of the Burra Homing Club last Thursday. E.W. Crewes presided.  The first race on 14 February will be from Princess Royal.  Others planned are:

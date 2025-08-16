@@ -37,6 +37,7 @@ topics:
 - economy
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayers’ Meeting. About 60 assembled on Friday evening last to hear the views of candidates.  The Mayor took the chair and invited candidates for Mayor to speak.  No one came forward.  When candidates for councillors were called Messrs Sampson and Anderson responded.

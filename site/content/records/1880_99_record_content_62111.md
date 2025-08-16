@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Farrell Flat Races were very successful with good crowds and the gate was up £3 on recent years.

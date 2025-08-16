@@ -18,6 +18,7 @@ topics:
 - sports
 - behaviour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. A writer complains of swearing by the footballers and the practice of tripping at the game.

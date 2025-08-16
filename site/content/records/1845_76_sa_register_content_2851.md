@@ -24,6 +24,7 @@ topics:
 - labor
 - association
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Too much cannot be said of the moderation shown by the miners.

@@ -20,6 +20,7 @@ topics:
 - incident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Captain John Upton reports that jalap was not placed in their water supply, though such an act was proposed.

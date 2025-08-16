@@ -20,6 +20,7 @@ topics:
 - law
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sunday Closing.  Mr Rees’s motion in favour of local option polls for the closing of hotels on Sundays has passed the House of Assembly.

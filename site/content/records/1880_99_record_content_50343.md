@@ -22,6 +22,7 @@ topics:
 - economy
 - reconstruction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The National Bank in the current depression has, along with twelve others, had to close its doors and suspend banking business.  The National Bank has now been reconstructed and has reopened after seven weeks as the National Bank of Australasia.

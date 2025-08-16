@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Ken James died last week.  [Kenneth Clifton James born 19 Feb. 1908: died 27 July 1987.]

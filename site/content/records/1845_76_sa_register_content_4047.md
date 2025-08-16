@@ -20,6 +20,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 B.G. writes from Kooringa 16 October.

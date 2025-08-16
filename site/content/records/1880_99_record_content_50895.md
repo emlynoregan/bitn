@@ -20,6 +20,7 @@ topics:
 - exhibition
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Cosmorama, the latest version of the Cyclorama, was on view last Friday, Saturday and Monday and was very popular.  It featured many parts of the world: the Old City of Jerusalem, The Mount of Olives, and Jericho.

@@ -21,6 +21,7 @@ topics:
 - tennis
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis remains popular, but the lack of level ground for courts is a problem.  Some should be put on the Recreation Ground.  The match on Saturday v. Clare saw Burra win.  The games were all doubles and Burra 66 games beat Clare 39 games.

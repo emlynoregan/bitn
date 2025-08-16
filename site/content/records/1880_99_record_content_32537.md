@@ -19,6 +19,7 @@ topics:
 - editorial
 - seasonal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the improving seasonal prospects, but pointing out the need to provide for bad seasons again and that to the east the rainfall, even when it does come, is more likely to be in December and January rather than between July and December when crops need it.

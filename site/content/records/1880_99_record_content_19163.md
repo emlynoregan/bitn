@@ -18,6 +18,7 @@ topics:
 - accident
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court House Hotel.  A colt belonging to a teamster fell into the well yesterday, but was extracted none the worse for it.

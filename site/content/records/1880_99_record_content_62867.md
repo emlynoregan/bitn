@@ -26,6 +26,7 @@ topics:
 - cricket
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A meeting of the Burra Cricket Club was held at Mr Pascoe’s rooms on Friday evening to make the usual arrangements for the season.

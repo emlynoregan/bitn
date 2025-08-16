@@ -26,6 +26,7 @@ topics:
 - legal
 - shareholders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Freedom of the Press

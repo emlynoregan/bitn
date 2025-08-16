@@ -23,6 +23,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Lord Bishop of Adelaide [Dr Kennion] will preach at evensong at St Mary’s 24 July.  [But he failed to appear: see XII, 1050, 29 July 1891.]

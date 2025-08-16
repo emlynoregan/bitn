@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Eileen Butterworth, younger daughter of George & Minna Butterworth of Aberdeen, died 20 October, aged 1 year 8 months.  [Born Eileen Butterworth 19 February 1890, died Aileen Butterworth 20 October 1891.]

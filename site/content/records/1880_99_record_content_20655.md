@@ -19,6 +19,7 @@ topics:
 - silver
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  Further discoveries have been made at World’s End.  Four parties are at work.  Lodes are not yet defined, but hopes are entertained.

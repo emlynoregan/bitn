@@ -22,6 +22,7 @@ topics:
 - music
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton Wesleyan Church Anniversary was celebrated 9 September.  There were two sermons by Rev. H.T. Burgess.  The tea meeting was largely attended.  The Redruth Choir provided music.  The church being entirely free from debt and proceeds in advance of last year, they will probably be used towards the purchase of a new organ.

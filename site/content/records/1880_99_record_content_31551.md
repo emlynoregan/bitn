@@ -19,6 +19,7 @@ topics:
 - federation
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Federal Council sitting in Hobart that looked forward to Federation and he questions the pros and cons of federation with respect to the advent of free trade between the colonies.

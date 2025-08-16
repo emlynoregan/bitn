@@ -18,6 +18,7 @@ topics:
 - event
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Polo was played on Saturday despite the rain and strong wind.

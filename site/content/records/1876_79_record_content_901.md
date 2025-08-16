@@ -20,6 +20,7 @@ topics:
 - housing
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The hotel was well-planned, but in building insufficient attention was given to keep the storm waters coming down the hill from running into the cellars.  These filled with water, which damaged the walls and led to the building of unsightly abutments to keep them up, which in turn provoked Governor Ferguson’s expression that ‘it looked like a prison’.  Its unsightliness is increased by its approach ‘at present, a disordered boulder-stone surfaced sideling.’  No attempt has been made to improve it.

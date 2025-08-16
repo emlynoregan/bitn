@@ -19,6 +19,7 @@ topics:
 - famine
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Irish Famine Fund, which comes after the Indian Famine, the Chinese Famine and the Cornish Distress.  A public meeting will soon decide on the local response.

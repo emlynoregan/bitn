@@ -21,6 +21,7 @@ topics:
 - entertainment
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fillis’s Circus failed to appear.  They by-passed Kapunda, Burra and Petersburg and opened instead at Broken Hill, but say they will appear here on their return trip.

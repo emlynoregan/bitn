@@ -21,6 +21,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Home Mission & Contingent Fund Society annual sermon was preached by Rev. James Bickford at Kooringa last Sunday.

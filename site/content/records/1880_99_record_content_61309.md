@@ -21,6 +21,7 @@ topics:
 - church
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kooringa Wesleyan Sunday School scholars presented Miss Newman, who is leaving Burra with her parents, with a nice Bible suitably inscribed.

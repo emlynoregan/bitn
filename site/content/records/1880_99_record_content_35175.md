@@ -23,6 +23,7 @@ topics:
 - accident
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire broke out at Terowie on Saturday night at Messrs Albin & Co.  Matilda Schutt was frightfully burnt when her hair caught alight from a candle.  She seems to have washed it first in kerosene and had been rinsing it when the fire occurred.  But for the prompt action of others she must have died in the ruins of the shop.  She was taken to hospital, but we hear is very little improved.

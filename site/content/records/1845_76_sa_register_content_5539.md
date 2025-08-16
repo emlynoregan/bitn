@@ -25,6 +25,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cornwall & Devon Society met on 7 January, with Mr J.B. Neales, the permanent Chairman, presiding.

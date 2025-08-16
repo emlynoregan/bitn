@@ -20,6 +20,7 @@ topics:
 - picnic
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End School annual picnic and sports was held at Burra Creek on 17 October in good weather.  150 persons attended and a good day of sports was had by all.

@@ -19,6 +19,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gospel Lantern Service next Sunday evening in the Kooringa Wesleyan Church: illustrated hymns, sacred songs and the Parable of the Tares.

@@ -19,6 +19,7 @@ topics:
 - meeting
 - dating
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [In column 5 it says a meeting of the Temperance Society was in progress as the paper was going to press on 9 June, so probably next Wed. was actually 10 June.  This was the Society advocated by Dr Sangster in the issue of 3 June.]

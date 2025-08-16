@@ -19,6 +19,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks had not yet been handed over to Council and they were losing money on the water consumed at the Aberdeen troughs.

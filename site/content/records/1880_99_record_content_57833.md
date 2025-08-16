@@ -18,6 +18,7 @@ topics:
 - postal service
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor comments that this is a matter for the Postmaster-General, but he (the editor) has received another lengthy letter in similar vein.

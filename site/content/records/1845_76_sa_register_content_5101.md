@@ -33,6 +33,7 @@ topics:
 - export
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Boiler makers	2

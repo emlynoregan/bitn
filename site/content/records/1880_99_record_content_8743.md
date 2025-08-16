@@ -19,6 +19,7 @@ topics:
 - market
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This page begins with advertisements for stock and other sales, public notices, a handful of classified advertisements, market reports and usually an editorial.

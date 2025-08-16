@@ -19,6 +19,7 @@ topics:
 - organization
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The annual inspection will be on Wednesday 4 august at 2 p.m.  Absentees are subject to a fine not exceeding £5.

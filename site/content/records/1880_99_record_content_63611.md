@@ -22,6 +22,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Bristol’s Cirque is doing so well in Broken Hill that the Burra appearance has been postponed to 15 February.

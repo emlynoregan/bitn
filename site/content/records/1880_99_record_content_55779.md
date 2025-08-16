@@ -19,6 +19,7 @@ topics:
 - suffrage
 - women
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Adult Suffrage Bill has passed through all its measures.  [Giving the vote to women.]

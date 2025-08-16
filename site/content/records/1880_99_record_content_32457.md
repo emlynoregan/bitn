@@ -19,6 +19,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wirth’s Colossal Circus will play behind the Commercial hotel on 22 May.

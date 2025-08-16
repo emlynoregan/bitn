@@ -20,6 +20,7 @@ topics:
 - event
 - billiards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Billiards Match of 300 up for £10 will be played at the new Billiard Room of the Royal Exchange Hotel, Wednesday 8 December, between Mr G. Williams and a Queensland player.

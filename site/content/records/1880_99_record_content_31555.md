@@ -19,6 +19,7 @@ topics:
 - sport
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie is making the most of its lake with water sports planned for Easter and about £100 worth of boats on the water or about to be launched.

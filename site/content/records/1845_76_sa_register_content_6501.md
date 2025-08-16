@@ -19,6 +19,7 @@ topics:
 - gold
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The sailing of the Wild Irish Girl will be delayed until 3 p.m. Monday to allow parties who wish to proceed to the newly discovered gold regions in New South Wales to join the ship.

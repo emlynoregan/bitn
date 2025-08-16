@@ -19,6 +19,7 @@ topics:
 - poverty
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ complains that some of the so-called poor have bought items from a cheap travelling bazaar and were even seen gambling in the shilling packet business.  [These he clearly feels to be the undeserving poor.]

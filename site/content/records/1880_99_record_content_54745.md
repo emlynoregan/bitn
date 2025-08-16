@@ -22,6 +22,7 @@ topics:
 - market
 - sheep
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will sell 16,100 fat & store sheep (in the wool) on 5 October at the Burra Market.

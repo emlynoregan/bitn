@@ -21,6 +21,7 @@ topics:
 - health
 - institution
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Ann Lewis of Hampton was taken to the Adelaide Lunatic Asylum on the recommendation of Dr Brummitt.

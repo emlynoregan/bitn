@@ -21,6 +21,7 @@ topics:
 - theatre
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Burra Institute This Evening: Helen Vivian’s New Premier Dramatic Co.

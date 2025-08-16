@@ -21,6 +21,7 @@ topics:
 - economic development
 - resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Apart from copper mines (now almost idle) SA has done little to promote mining - mining has the potential, as it requires considerable labour, to increase local consumption to the benefit of all.  Developments should be made in the Flinders Ranges, at Waukaringa, & in the Barossa Valley.

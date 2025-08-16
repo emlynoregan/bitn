@@ -18,6 +18,7 @@ topics:
 - postponement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The United Oddfellows’ Pic-nic has been postponed from 17 April to 24 April due to inclement weather.

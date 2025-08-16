@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Brass Band will serenade Christmas Eve from 11.30 p.m. Jos. Davey, Sec.

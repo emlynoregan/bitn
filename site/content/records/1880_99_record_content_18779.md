@@ -21,6 +21,7 @@ topics:
 - deputation
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The memorial will represent the views of the guarantors and the deputation those of the Council.

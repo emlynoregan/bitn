@@ -18,6 +18,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Weather continues good with green grass everywhere and prospects now encouraging for a good season.

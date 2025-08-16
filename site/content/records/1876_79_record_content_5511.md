@@ -37,6 +37,7 @@ topics:
 - investigation
 - insurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest at the Miners’ Arms by J.D. Cave JP as coroner with T. Bath as foreman of the jury, into the fire there. 

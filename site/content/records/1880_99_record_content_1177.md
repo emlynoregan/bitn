@@ -20,6 +20,7 @@ topics:
 - community
 - parkland
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Dunstan has been allowed to enclose and plant a portion of parkland near his house at his own cost.

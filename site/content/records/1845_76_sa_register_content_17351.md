@@ -22,6 +22,7 @@ topics:
 - public houses
 - licences
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [As a keeper of a public house in the Far North he contradicts the recent letter of ‘Observer and Sympathizer’ on the subject of Public Houses in that district, calling his attack totally unprincipled.]

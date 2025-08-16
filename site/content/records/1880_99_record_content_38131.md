@@ -19,6 +19,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School Concert on 24 September at the Institute was well attended.

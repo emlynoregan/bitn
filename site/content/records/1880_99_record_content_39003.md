@@ -28,6 +28,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army Guards Brass Band of over twenty performers from Melbourne visited and was much appreciated.  They played in Jamestown Friday, travelled to Yarcowie on Saturday to catch the train to Burra, arriving at a few minutes to five.  They marched to Kooringa and had dinner at the Barracks.  Then there was a huge meeting in Market Square and on Sunday the usual meetings drew large crowds.  They left on Monday for Clare.

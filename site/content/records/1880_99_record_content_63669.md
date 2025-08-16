@@ -23,6 +23,7 @@ topics:
 - animal poisoning
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Poisoner is about again.  Poison has been laid around town and people have lost goats, pigs and a kangaroo dog on the chain.  One pig was lost in the pen.  A clue to the culprit is being followed up.

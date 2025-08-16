@@ -20,6 +20,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Sports on Monday were held to celebrate the fifth anniversary of the Institute.  Results are printed.

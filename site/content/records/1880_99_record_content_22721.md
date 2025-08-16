@@ -20,6 +20,7 @@ topics:
 - appointment
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  There was debate on the appointment of the Council Inspector.  It was eventually decided to call tenders and to leave Mr Fordham acting until one is appointed from applicants.

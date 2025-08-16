@@ -21,6 +21,7 @@ topics:
 - railway
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railway Bills - Royal assent was given to the Port Augusta, North West Bend and Jamestown railway bills.

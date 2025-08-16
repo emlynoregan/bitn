@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - reference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [But see: VIII. 616, 1 Feb. 1887, page 2.]

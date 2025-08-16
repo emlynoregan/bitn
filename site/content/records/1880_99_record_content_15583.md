@@ -21,6 +21,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. James Read of Clare gave a lecture in the Redruth Wesleyan Church on Monday evening to a fair audience on Queer Folks and Where they Live.  The collection aided bazaar funds.

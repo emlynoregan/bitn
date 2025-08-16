@@ -21,6 +21,7 @@ topics:
 - building
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tenders for the new Parliament House in Adelaide have been received.  Kapunda Marble & Building Co.  Basement in granite and superstructure in marble will cost £102, 864-19-3 with the portico and tower adding £48,568-8-1.  If it is all done in SA marble the building to cost £101,466-0-7 with £50,390-12-11 for the portico and tower.

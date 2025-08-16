@@ -18,6 +18,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lynch Family Bellringers gave a first-class performance last night.

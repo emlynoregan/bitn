@@ -22,6 +22,7 @@ topics:
 - tour
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra National Trust has organised a bus trip to Gladstone Gaol, the Yesterday Museum of Costume and the early settler’s cottage and town tour of Orroroo.

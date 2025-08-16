@@ -18,6 +18,7 @@ topics:
 - council
 - wards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson moved a change in Ward boundaries as discussed in the editorial.

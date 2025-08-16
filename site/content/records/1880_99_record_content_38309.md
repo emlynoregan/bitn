@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Overseer of Works reports that the creek at Bagot, Shakes & Lewis’s was dammed on their property, diverting water from its natural channel.

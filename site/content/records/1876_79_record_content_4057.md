@@ -19,6 +19,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Public Meeting at Council Chambers Mon ay 7.30 to consider aid for the Chinese Famine.

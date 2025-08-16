@@ -35,6 +35,7 @@ topics:
 - finance
 - prospectus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Stead asked whether the Mine would be developed without going to the additional expense of purchasing machinery.  The Secretary said further development would require extra outlay.  They had the machinery, but would have to erect it and would have to sink a new shaft and communicate it to Morphett’s Shaft.

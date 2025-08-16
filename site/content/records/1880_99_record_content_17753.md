@@ -19,6 +19,7 @@ topics:
 - letter
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘One of them’ to say that ‘Respecter of the Sabbath’ got it all wrong.  Though it is not the most coherent of letters.

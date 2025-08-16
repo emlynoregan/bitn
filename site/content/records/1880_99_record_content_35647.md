@@ -21,6 +21,7 @@ topics:
 - elections
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  On Wednesday 19 Feb. a large meeting of electors at the Institute in Jamestown heard Messrs Lake and Haslam speak as candidates for election.  The report extends for 1 column.

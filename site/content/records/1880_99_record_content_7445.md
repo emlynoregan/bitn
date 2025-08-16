@@ -22,6 +22,7 @@ topics:
 - opening
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Opening of the Primitive Methodist Chapel at Douglas, Sunday 23 July 1882.

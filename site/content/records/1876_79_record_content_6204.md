@@ -19,6 +19,7 @@ topics:
 - sport
 - athletic meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Amateur Athletic Club: Queen's Birthday Holiday Meeting at Copperhouse. Program: 100 yds Maiden Flat £1-10-0

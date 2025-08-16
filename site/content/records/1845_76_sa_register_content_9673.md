@@ -54,6 +54,7 @@ topics:
 - environment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notes of a Ten Days’ Tour to the Murray and the North

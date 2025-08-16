@@ -21,6 +21,7 @@ topics:
 - assay
 - ore
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Royal Mining Co.  The ores from this property submitted by Mr Bath to be assayed by Mr Davey have returned a result of 31½%.

@@ -20,6 +20,7 @@ topics:
 - agriculture
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It is feared that the frost last week has killed half the trees planted this year.

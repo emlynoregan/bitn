@@ -23,6 +23,7 @@ topics:
 - lecture
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roach visited Burra on Tuesday night 23 May to give a lecture on His Trip to Brindisi, which was very interesting and edifying.  Musical selections were included and proceeds went to the Redruth Wesleyan Church.

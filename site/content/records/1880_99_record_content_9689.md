@@ -20,6 +20,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Foresters’ entertainment in the Institute on 26 March was a great success, after which dancing continued till about 3.00 a.m.

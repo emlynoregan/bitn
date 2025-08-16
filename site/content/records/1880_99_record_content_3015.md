@@ -22,6 +22,7 @@ topics:
 - sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J. & E. Hosking of Market Square have purchased the stock in the estate of E. Lipsett at a large discount and offer it at low prices.

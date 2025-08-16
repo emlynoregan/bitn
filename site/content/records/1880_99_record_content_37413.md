@@ -23,6 +23,7 @@ topics:
 - obituary
 - bereavement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William J. O’Leary, who for some time has been keeping the Hanson Hotel at Farrell’s Flat, dropped dead shortly after midnight last Saturday night in the bar.  [William James O’Leary died 20 July 1890 aged 32.]

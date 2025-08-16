@@ -20,6 +20,7 @@ topics:
 - music
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. R.W. Campbell's lecture on Robert Burns was a success and the musical portion under Mr Loutit was also appreciated. Proceeds were £5.

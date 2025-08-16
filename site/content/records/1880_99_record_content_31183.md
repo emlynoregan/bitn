@@ -21,6 +21,7 @@ topics:
 - mass
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At St Joseph’s the usual midnight mass was well attended and Rev. Father O’Dowling officiated.  There were two services on Christmas Day.

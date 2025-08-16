@@ -21,6 +21,7 @@ topics:
 - transport
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 E.F. Opie had a lucky escape when the coach horses on the Waukaringa Mail bolted at Aberdeen on Tuesday. He was pulled from his seat and dragged into the creek, but escaped otherwise unhurt. At the creek the pole broke.

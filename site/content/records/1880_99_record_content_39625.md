@@ -18,6 +18,7 @@ topics:
 - publication
 - announcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs Bowser appeared on 11 March, 23 May, 4 July & 4 November.

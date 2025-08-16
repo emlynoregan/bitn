@@ -28,6 +28,7 @@ topics:
 - emergency
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Last Sunday between 4 and 5 p.m. a great cloud of dense smoke was seen rising from the area between the rifle range and the cemetery and crowds rushed in that direction.  A fire had broken out in the thick grass on part of the Burra special Survey, on the hills to the west of the rifle butts, belonging to the SAMA, immediately behind the house occupied by Mr Noyes and it promised to assume gigantic proportions.  A strong westerly was blowing the flames towards the eastern hills and in a short time the paddock of Mr Thomas Warnes of Koomooloo was ablaze.  Dozens of people tried with bags to extinguish it, but couldn’t get to the seat of the blaze due to the heat.  It headed towards the Princess Royal Estate, where, cresting the range, the wind again took it east, but then the wind changed and left the south flank all backed up, but this threatened the area to the northeast and the brewery paddock, but the fire was controlled before the Baldina Road was reached.  By sunset a general muster showed the southern front was also controlled, though several outbreaks required a rush to prevent more damage.  The cause of the fire has not been found, though it started in a small gully near the rifle butts.  Many people helped and saved horses and sheep that were threatened.

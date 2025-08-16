@@ -20,6 +20,7 @@ topics:
 - education
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Grainger MP has given notice that he will move on 9 July ‘That education in State Schools should be free up to the Compulsory Standard.’

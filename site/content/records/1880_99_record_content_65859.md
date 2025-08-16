@@ -20,6 +20,7 @@ topics:
 - theatre
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 My Sweetheart was staged at the Institute on Thursday to an appreciative audience.  It starred Mr Willie Freear who will return with his own company in about a month.

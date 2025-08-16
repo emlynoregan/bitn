@@ -25,6 +25,7 @@ topics:
 - retail
 - store
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  A new establishment at the Burra Burra.  Cornwall House.

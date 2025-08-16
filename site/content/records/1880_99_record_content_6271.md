@@ -22,6 +22,7 @@ topics:
 - obituary
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 19 January, at Hampton, of rheumatic fever, Charles Wall, youngest son of the late Charles and Mary Ann Wall, aged 19 years and 1 day.  [Born 18 January 1863]

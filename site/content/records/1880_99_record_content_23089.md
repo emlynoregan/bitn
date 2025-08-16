@@ -20,6 +20,7 @@ topics:
 - railway
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another complaint is that men from Adelaide have been sent plate-laying on the Hallett railway, rather than employing local men.

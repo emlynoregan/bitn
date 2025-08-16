@@ -19,6 +19,7 @@ topics:
 - prize list
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a prize list for the coming Burra Flower Show, but it has not been preserved.

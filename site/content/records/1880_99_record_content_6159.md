@@ -22,6 +22,7 @@ topics:
 - business
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  On the premises, Grahamstown, opposite Roach’s Mill, John Sampson Jun. will sell on 2 February, the whole stock in trade with blacksmith’s and wheelwright’s tools for Joseph Boundey.

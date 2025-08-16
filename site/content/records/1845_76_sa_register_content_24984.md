@@ -19,6 +19,7 @@ topics:
 - community
 - decoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The bough decorations outside the shops were very much below the usual standard and were rivalled by those in Aberdeen and Redruth.

@@ -17,6 +17,7 @@ topics:
 - public meeting
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 There was a detailed report of the public meeting: 2.5 columns on p.187 & 3 on p.188.

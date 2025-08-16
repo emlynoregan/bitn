@@ -19,6 +19,7 @@ topics:
 - church
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.S. Wayland officiated for the first time at St Mary’s on Sunday.  There is a summary of his first two sermons, which were well received.

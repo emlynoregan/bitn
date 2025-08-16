@@ -22,6 +22,7 @@ topics:
 - hospital
 - community action
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital Board is very concerned about proposed funding cuts mooted for next financial year.  SA Health Commission has warned that over-runs will not be funded and will become a first charge against next year’s funds.  The budget was cut this year and there are mandatory 1-2% cuts for next year.  CEO John Chilton said the daily bed cost at Burra was currently $107 compared with up to $300 at some metropolitan hospitals.  The community was urged to write to health authorities and government representatives about this serious situation.

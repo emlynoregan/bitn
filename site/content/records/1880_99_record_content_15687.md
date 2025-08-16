@@ -18,6 +18,7 @@ topics:
 - society
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the apathy of people towards the great issues of the day and their inability to remain focussed on any single issue for more than a few weeks.

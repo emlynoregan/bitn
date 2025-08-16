@@ -19,6 +19,7 @@ topics:
 - building
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 R. Austin [butcher] has commenced building at Aberdeen.

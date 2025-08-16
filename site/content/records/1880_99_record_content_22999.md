@@ -22,6 +22,7 @@ topics:
 - inspectorship
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ attacks Cr Ridgway and Cr Anderson over the inspectorship issue.

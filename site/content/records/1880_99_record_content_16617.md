@@ -20,6 +20,7 @@ topics:
 - Sudan
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Fidelis’ who also supports in general the Home Government’s position on Gordon and the Sudan Campaign.

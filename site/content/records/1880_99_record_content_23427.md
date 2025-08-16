@@ -21,6 +21,7 @@ topics:
 - football
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Another not very edifying letter from Clare to counter the version of the match told by ‘Quiz’.

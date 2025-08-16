@@ -21,6 +21,7 @@ topics:
 - training
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mounted Infantry.  An instructor from Adelaide will come on 10 & 30 March to instruct in camp drill of importance if the Mounted Rifles are to make a good show at the Easter encampment.

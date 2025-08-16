@@ -22,6 +22,7 @@ topics:
 - church
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan have had many contracts, including the Gladstone Gaol and various railway stations, but have not been doing much in Burra except the additions and alterations to the Kooringa Primitive Methodist Church.

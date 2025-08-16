@@ -27,6 +27,7 @@ topics:
 - deed_of_settlement
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Smith said he did not speak personally [of Mr Graham] but of the principle.

@@ -21,6 +21,7 @@ topics:
 - race
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: There had been no horse racing at Burra since 1873 - suggestion that it be revived.

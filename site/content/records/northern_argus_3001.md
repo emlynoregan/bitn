@@ -22,6 +22,7 @@ topics:
 - race
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The 1988 Burra-Broken Hill Barrow Push will be started by famous Australian folk singer John Williamson.  He plans to give a concert in Burra on 12 January, flag out the runners on 13 January, follow them to Broken Hill and give another concert there.

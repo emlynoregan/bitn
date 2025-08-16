@@ -21,6 +21,7 @@ topics:
 - agriculture
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H. Scott moved that any holder of grazing, cultivation, miscellaneous or educational lease if prepared at his own expense, or with Government assistance, to vermin-proof his land, be granted perpetuity of lease in lieu of his present leases.

@@ -19,6 +19,7 @@ topics:
 - council
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 28 Sep. 1875 Capt. Killicoat, Chairman of the District Council convened a meeting to form a committee to establish a hospital.

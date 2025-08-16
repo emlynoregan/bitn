@@ -21,6 +21,7 @@ topics:
 - animal control
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Dr Brummitt and John Lewis will in future destroy any goats trespassing on their property north of Commercial St and south of Mt Pleasant.  Goats have been eating the trees planted there at their expense and they have been admitted by persons wilfully twisting the fence wires.

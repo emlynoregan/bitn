@@ -21,6 +21,7 @@ topics:
 - rescue
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse accident when daughter of Mr Muller aged 11 fell down a 30 ft well into 7-8ft of water - survived by clinging to a bucket. Mr William Oliver was called and with difficulty prevented the mother from throwing herself down the well after her daughter. He then went down on a rope and rescued the child who sustained a fractured collarbone but was else OK

@@ -23,6 +23,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The supplement was c. A4 in size.  On one side was an advertisement for the Fisk Jubilee singers, containing information about concert dates etc.  On the other is the story of the singers who began as a company of emancipated slaves in 1871 and aimed to sing to raise $US20,000 for the school in which they were students: The Fisk Jubilee University for freed people.  The group initially had extreme difficulties, but their cause was helped by the late Rev. Henry Ward Beecher.  Their first trip through Connecticut raised $US3,900 and the second $US20,000.  Their third was a visit to Great Britain, which yielded £10,000.  A second UK campaign in 1875 was also a success and was followed by a continental trip.

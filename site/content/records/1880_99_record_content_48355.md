@@ -19,6 +19,7 @@ topics:
 - council
 - procedure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson complained that when he tried to speak he was stopped.  He tried to ask Cr Parks if his report was official, but was ruled out of order.

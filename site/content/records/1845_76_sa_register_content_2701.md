@@ -29,6 +29,7 @@ topics:
 - passengers
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 David, Thomas	Williams, David	Evans, Anthony	Williams, Mrs

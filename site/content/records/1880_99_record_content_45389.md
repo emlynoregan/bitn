@@ -21,6 +21,7 @@ topics:
 - sport
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C.H. Shakehaft and J. Moyle divided 1st & 2nd money of £35 + £16.

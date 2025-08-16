@@ -21,6 +21,7 @@ topics:
 - maintenance
 - illegitimacy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Emily Sellers sued William Henry Linkson (29) for support for his destitute illegitimate child.  Linkson denied being the father and the evidence being inconclusive the case was dismissed.  The report is lengthy.

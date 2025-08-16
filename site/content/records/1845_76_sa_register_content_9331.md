@@ -24,6 +24,7 @@ topics:
 - business
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Coper Works.  Until further notice the rates for cartage shall be:

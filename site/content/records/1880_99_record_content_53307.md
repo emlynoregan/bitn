@@ -21,6 +21,7 @@ topics:
 - working hours
 - 8-hour day
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One of the People’ writes again in favour of freedom of [individual] contracts for labour and against unions.  Also against the 8 hour day.

@@ -22,6 +22,7 @@ topics:
 - event
 - dance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Quadrille Assembly held its return ball in the Institute on Tuesday 2 August.  A large number attended in fancy dress.  Much of the success is due to the work of the secretary, W. B. Page.

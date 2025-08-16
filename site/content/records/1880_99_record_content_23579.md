@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The completion of the Silverton Railway is expected to throw 300-400 teamsters out of work.

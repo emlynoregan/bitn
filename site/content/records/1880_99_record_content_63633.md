@@ -20,6 +20,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Lynch Family Bellringers, Instrumentalists and Vocalists will visit Burra on 21 February.  3/-, 2/- & 1/-.

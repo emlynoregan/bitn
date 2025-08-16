@@ -24,6 +24,7 @@ topics:
 - obituary
 - suicide
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Hunt died at Broken Hill.  He was an old and well-known Burra resident who committed suicide by poison last Saturday, leaving a wife and two children.  [Possibly husband of Emma nee Bruse, born 1850.]

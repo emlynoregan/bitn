@@ -21,6 +21,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Charity.  The efforts of J. Roach and Mr Cater to present an entertainment to provide Christmas cheer for the poor were a great success.

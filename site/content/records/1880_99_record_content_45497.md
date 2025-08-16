@@ -22,6 +22,7 @@ topics:
 - match
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The 1st game for the season on Saturday was played at Burra Oval.

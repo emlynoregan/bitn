@@ -19,6 +19,7 @@ topics:
 - public meeting
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Hallett Railway. A public meeting is called at the Hallett Hotel to discuss the arrangements for the opening of the railway.

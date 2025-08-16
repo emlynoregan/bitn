@@ -21,6 +21,7 @@ topics:
 - Sunday trading
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the coming Legislative Council election. Despite the fact that L. Councillors hold office for 12 years and will materially affect the Govt. for perhaps longer, the electors seem uninterested in this election. Immediate questions are the reform of the Council, rabbit control/destruction and the Mortlock Bill (Sunday trading in liquor). The editor was opposed to small single member electorates for the L. Council, but instead of a single electorate for the colony thought it might stimulate more interest if there were, say, six large electorates. He then goes on to discuss the views of each of the candidates on key issues so that voters can decide more readily who to vote for.  The election will be held on Tuesday 10 September.

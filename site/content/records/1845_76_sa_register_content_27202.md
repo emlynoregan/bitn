@@ -43,6 +43,7 @@ topics:
 - police
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry C. Mais, Engineer-in-Chief and Manager of SAR produced a copy of the rules and regulations.

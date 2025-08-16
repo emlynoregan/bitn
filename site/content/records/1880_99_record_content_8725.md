@@ -20,6 +20,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 25 Dec. near Drew & Co., Aberdeen. Burra True Blues 150 defeated Manoora 30 & 73

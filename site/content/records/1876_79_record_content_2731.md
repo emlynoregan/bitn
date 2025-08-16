@@ -21,6 +21,7 @@ topics:
 - agriculture
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wool. Thomas Bath received the first of the season's wool for forwarding to Adelaide yesterday; 44 bales from Oulnina Run.

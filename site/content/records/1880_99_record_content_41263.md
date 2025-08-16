@@ -19,6 +19,7 @@ topics:
 - editorial note
 - advertising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [So perhaps I was wrong to suspect the ‘Economist’ of using the letter as an advertising ploy!]

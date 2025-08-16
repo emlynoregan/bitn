@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  The council has said that water is to be laid on to Welsh Place to water the trees.  A hydrant has been obtained so a hose can be fitted to any fireplug.

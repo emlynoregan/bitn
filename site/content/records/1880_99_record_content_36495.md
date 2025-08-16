@@ -19,6 +19,7 @@ topics:
 - railway
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  We understand the Government has authorised the survey of the Transcontinental line to the MacDonnell Ranges.

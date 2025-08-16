@@ -19,6 +19,7 @@ topics:
 - costs
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [In fact the figures seem to suggest were more than the defendant’s cost, though the letter of A.F. Akhurst in the next issue argues against that.]

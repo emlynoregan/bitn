@@ -20,6 +20,7 @@ topics:
 - advertisement
 - butcher
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 W. Symons	Butcher, Kingston St

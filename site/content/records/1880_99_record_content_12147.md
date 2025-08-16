@@ -19,6 +19,7 @@ topics:
 - court
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Schulz charged with being a habitual drunkard (three charges within 12 months) and sentenced to 1 month in jail from the date of his next conviction.

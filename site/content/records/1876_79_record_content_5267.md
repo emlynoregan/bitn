@@ -19,6 +19,7 @@ topics:
 - exhibition
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Paris Exhibition. There is a report on S.A. at the exhibition.

@@ -19,6 +19,7 @@ topics:
 - court
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Ullmann however, pleaded guilty and was fined 1/- with 10/- costs.

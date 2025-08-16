@@ -29,6 +29,7 @@ topics:
 - mining
 - company
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 I will not say no one has done more for SA, but I will say no one has served it more sincerely and devotedly.

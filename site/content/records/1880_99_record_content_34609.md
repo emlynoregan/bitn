@@ -32,6 +32,7 @@ topics:
 - colonist
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Gasmier, aged 89 and a colonist of 43 years, died at Goodworth near Riverton on 5 December, leaving 1 son and 2 daughters.  She arrived on the Washington in February 1846 and settled to farming near Hope Valley.  The son, John Gasmier, moved to Deep Creek near Riverton in 1853 and brought his mother with him.  He was later followed by his three brothers-in-law:

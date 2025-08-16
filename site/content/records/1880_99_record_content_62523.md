@@ -23,6 +23,7 @@ topics:
 - election
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council.  Elections last Monday in Baldina Ward saw T. McWaters (21) defeat F. Duldig (3) and for auditor W. Davey (20) defeated C.G. Tiver (0).

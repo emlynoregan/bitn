@@ -20,6 +20,7 @@ topics:
 - government
 - document
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation.  We have a copy of a draft of a Bill to constitute the Commonwealth of Australia, which is open for inspection at our office.

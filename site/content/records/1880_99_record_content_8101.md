@@ -27,6 +27,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davieston Wesleyan Sunday School held a tea and public meeting in the District Council Chamber on Wednesday 25.  It has met there for some time.  People came from Burra, Hanson [i.e Farrell’s Flat], Stony Gap, Black Springs, etc.  Mr John Paull, in charge of the Hanson Council presided.  The school has been established six months with 36 scholars and 6 teachers.

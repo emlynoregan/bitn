@@ -23,6 +23,7 @@ topics:
 - exhibition
 - crafts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Cousin Jack’s inaugural exhibition is called ‘Off the Sheep’s Back’.  Five renowned SA craftspeople and companies have responded to the theme:

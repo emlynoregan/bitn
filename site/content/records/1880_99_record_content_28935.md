@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to Mrs Henry Roach at Hackney on 1 July, a son.  [Harry Keith Roach]

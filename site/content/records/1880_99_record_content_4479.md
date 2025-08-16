@@ -21,6 +21,7 @@ topics:
 - sport
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Six men backed out of the trip to Kapunda at the last minute and as a result the Kapunda 20 played a Burra 14 supplemented by 6 Royal Park men for the first half only.  Though Kapunda clearly won, the scores are not given.

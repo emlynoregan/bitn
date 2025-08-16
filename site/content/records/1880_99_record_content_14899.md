@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J.B. Hocking has set up business as a hairdresser and tobacconist next to the Burra Record office.  (After eight years at Gawler.)

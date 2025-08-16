@@ -21,6 +21,7 @@ topics:
 - planting
 - fencing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 North Ward.  The two reserves either side of the Redruth Bridge have been fenced.  Cr Ridgway has undertaken to spend not less than £5 p.a. on planting and tending the larger reserve on the south side of the bridge.

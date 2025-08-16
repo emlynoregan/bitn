@@ -21,6 +21,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A young man named Nosworthy was killed at Lucindale last week when his gun exploded while he was getting through a fence.  [Frances Edmund Nosworthy died 15 October 1895 aged 16.]

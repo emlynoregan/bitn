@@ -21,6 +21,7 @@ topics:
 - local government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cr Sanders calculated the Eastern Road to Kooringa would need £46(} of earthwork and moved that the Corp. ask the Commissioner of Public Works to sanction an extra vote of money.

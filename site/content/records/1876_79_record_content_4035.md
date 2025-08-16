@@ -19,6 +19,7 @@ topics:
 - pound
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mrs Oliver's yards are to be licensed as a pound when put in order. [This would probably be the Mrs Oliver of Copperhouse.]

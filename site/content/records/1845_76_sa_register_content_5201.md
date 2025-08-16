@@ -24,6 +24,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  A son of Mr Forrester, the landlord of the Gilbert Arms Hotel, River Gilbert, has died as a result of a riding accident.  The child was only nine or ten and was out on horseback after cattle. The alarm was raised when the mare returned to the stable without the child.  The body was found a short distance from the house in a fearful state.  It is conjectured that the boy fell from the saddle and was dragged some distance when one of his feet was caught in the stirrup leather.  It appears the mare kicked him several times, as his skull was fractured in four places.  Help was immediately sent for from Gawler, but the child died before the arrival of Doctor Mahony [sic].

@@ -21,6 +21,7 @@ topics:
 - traffic
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Wood fined 10/- for driving on the footpath.

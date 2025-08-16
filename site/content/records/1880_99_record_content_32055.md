@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - list
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Jordan	5

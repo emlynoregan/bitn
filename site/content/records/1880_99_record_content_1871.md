@@ -19,6 +19,7 @@ topics:
 - railway
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editor considered the way in which the streets of Yarcowie had been closed by the passage of the railway to be quite disgraceful.]

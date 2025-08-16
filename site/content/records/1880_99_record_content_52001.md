@@ -27,6 +27,7 @@ topics:
 - elections
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Elections. Nominations for election 1 December 1893:

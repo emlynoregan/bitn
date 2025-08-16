@@ -19,6 +19,7 @@ topics:
 - scouts
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Damien Slade has been invested as a Burra Scout.

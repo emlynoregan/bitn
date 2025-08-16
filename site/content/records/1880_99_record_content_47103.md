@@ -19,6 +19,7 @@ topics:
 - land leases
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Irrigation.  The proposal is for 21 year leases with renewal rights at 1/- per acre per annum plus 17/- per acre per annum for water for an entitlement of 543,000 gallons which equates with 24” of rainfall.  Each person to be limited to one block.  Extra water to be available on application.

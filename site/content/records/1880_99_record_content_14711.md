@@ -18,6 +18,7 @@ topics:
 - finance
 - assets
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The assets of the Association are set down at £134,000.

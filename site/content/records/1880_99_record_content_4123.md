@@ -21,6 +21,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 17 May, lecture by Rev. Dr Kelynack on Martin Luther, in aid of the Wesleyan Sunday School Building Fund.

@@ -17,6 +17,7 @@ topics:
 - employment
 - advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Labouring men should not go there at all seeking employment, but only to guaranteed engagements.’

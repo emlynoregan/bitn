@@ -23,6 +23,7 @@ topics:
 - federation
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation Meeting.  J. Sampson, Mayor, introduced Hon. F.W. Holder, Treasurer of SA and J.H. Symon Esq. To a large gathering at the Institute on Friday evening.

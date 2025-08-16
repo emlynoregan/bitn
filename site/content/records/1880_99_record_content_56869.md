@@ -21,6 +21,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Captain West & Lieut. Whitton will be farewelled at the Barracks next Sunday.  ‘Our Girls’ have proved very earnest in their work and won the respect of friends and supporters of the Army.

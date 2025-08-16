@@ -22,6 +22,7 @@ topics:
 - real estate
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J. Webb is selling land in Redruth.  Part of town quarter acre 12 consisting of allotments 7, 8, 9, & 10 having a frontage to Hillston St [sic] and on which is erected a cottage and stone store known as Warren Bros.  [Should be Helston St.]

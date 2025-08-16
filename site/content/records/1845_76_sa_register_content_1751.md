@@ -24,6 +24,7 @@ topics:
 - ore
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders are called for the purchase of 500 tons of copper ore from the Burra Burra Mines.  The ore is on the McLaren Wharf [Pt Adelaide].

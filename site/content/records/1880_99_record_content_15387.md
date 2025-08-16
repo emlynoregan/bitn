@@ -19,6 +19,7 @@ topics:
 - court
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  There is a report on the Salvation Army in Kapunda where there was a court case over their band parading the streets on Sunday.

@@ -19,6 +19,7 @@ topics:
 - sport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On the Prince of Wales’ Birthday holiday on Monday St Mary’s Cricket Club went to Riverton.

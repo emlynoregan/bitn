@@ -21,6 +21,7 @@ topics:
 - gold
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  The mining area has been extended, but with no finds of any importance lately.  The Government party is a farce with all the men concentrated on a section about 50 yards square near ‘Pinch Gut’.  The Advertiser correspondent says c. 100 men are on the field and nuggets of from 5 dwt to 2 oz are daily coming to hand.  Gold is fetching £3-10-0 per oz.  This is a low price as banks won’t buy it and jewellers are giving only a low price.

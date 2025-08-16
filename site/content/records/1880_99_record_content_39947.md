@@ -19,6 +19,7 @@ topics:
 - debate
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor claimed not to see any point to the motion and neither could he see how it could be carried out.  A long discussion ensued.

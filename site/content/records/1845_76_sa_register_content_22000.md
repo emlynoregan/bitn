@@ -23,6 +23,7 @@ topics:
 - fossils
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 M. MacDermott writes from Kooringa 1 June:

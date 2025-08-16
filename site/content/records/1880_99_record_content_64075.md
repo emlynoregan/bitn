@@ -22,6 +22,7 @@ topics:
 - health
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fr. Dietel, who is in poor health has removed to Norwood to recover, after about twelve months with us and has been replaced by Fr. Haendl, who comes from Norwood.

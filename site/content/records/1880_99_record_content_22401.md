@@ -23,6 +23,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Carl Obst substantiated the above, saying the deceased had three glasses of beer before Arnold came and was not tipsy when we left Midwinter’s.

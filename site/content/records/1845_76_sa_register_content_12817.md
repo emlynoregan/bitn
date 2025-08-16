@@ -18,6 +18,7 @@ topics:
 - mining
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 In another accident a boy was severely gashed on the head when a large screen used in screening ore fell on him.  The wound proved severe, but not dangerous.

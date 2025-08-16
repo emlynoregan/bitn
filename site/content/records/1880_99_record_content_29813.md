@@ -18,6 +18,7 @@ topics:
 - quarrying
 - marble
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It is expected 40 men would be employed getting the marble flux if it can be arranged.

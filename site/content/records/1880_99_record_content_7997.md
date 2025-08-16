@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School had what we hear was their first picnic last Monday when they went to Princess Royal.  Thanks go to Father Kriessl for organising it.

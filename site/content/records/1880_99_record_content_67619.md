@@ -23,6 +23,7 @@ topics:
 - holidays
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports will be held at Booborowie, Black Springs and Waterloo on Monday (Christmas Day) and at Burra on Boxing Day, Tuesday.  Business places will be closed Monday, Tuesday and Wednesday.

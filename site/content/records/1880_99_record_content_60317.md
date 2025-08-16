@@ -22,6 +22,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr C. Fuss spoke in eulogistic terms, as a ratepayer of North Ward, for the work done by Cr Rabbich on ratepayers’ behalf and thanked him for past services.  He expressed hopes for a pleasant voyage and success in WA.

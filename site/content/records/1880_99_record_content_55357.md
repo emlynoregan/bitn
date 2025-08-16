@@ -25,6 +25,7 @@ topics:
 - trade
 - announcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.F. Brady has returned to Burra and intends to carry on a business as a tinsmith and ironworker and all orders left at the shop next to C.H. Ewins in Kooringa and at his residence lately occupied by I.W. Goss, Aberdeen, will receive prompt attention.

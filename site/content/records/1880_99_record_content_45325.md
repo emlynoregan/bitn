@@ -18,6 +18,7 @@ topics:
 - legal
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The case against the purchasers of the Burra Burra Mine is almost complete.

@@ -21,6 +21,7 @@ topics:
 - explosion
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Explosion.  A small boy named Padrogie blew up a flask of gunpowder while playing near Mrs Torrington’s in Thames St yesterday.  It could easily have killed him.  The flask was blown 30 yards and cut the side of his head as it hurtled past.  Fortunately the damage was not as serious as it might have been.

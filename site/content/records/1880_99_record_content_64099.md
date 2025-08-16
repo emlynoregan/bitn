@@ -23,6 +23,7 @@ topics:
 - legal
 - missing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Kitchen is still at large.  It is known he went to Melbourne and had his beard shaved off.  He then appeared in Sydney where he met an old Adelaide resident, but this was not reported for some days.  He was then believed to be near the NSW-Qld border.

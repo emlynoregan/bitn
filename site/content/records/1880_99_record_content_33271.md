@@ -21,6 +21,7 @@ topics:
 - performance
 - critique
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Betty Pentreath’ in supposed Cornish dialect about one of the less appreciated contributors to the recent concert at the Institute.  [Probably Mr Davis: the reviewer at the time having said that he could not ‘under any circumstance commend Mr Davis either on his selection of piece or performance.  The matter was dry in the extreme, and most uncomfortably long’.]

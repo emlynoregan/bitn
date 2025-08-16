@@ -24,6 +24,7 @@ topics:
 - history
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church.  Rev. W.F. James of Kooringa is gathering material for a volume entitled Memorials of Burra and the Story of the Bible Christian Church There.  He will be glad to receive any striking facts and incidents respecting the Burra Burra Mine, the creek huts and social life1845-60.  Part of the book will be devoted to the rise and progress of other churches in the neighbourhood.

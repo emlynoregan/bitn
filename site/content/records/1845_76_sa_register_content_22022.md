@@ -24,6 +24,7 @@ topics:
 - science
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.H. Challoner writes from Burra Burra Mines 5 June.

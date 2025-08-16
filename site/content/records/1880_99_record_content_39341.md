@@ -19,6 +19,7 @@ topics:
 - public services
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  The closing of the Waterworks just when most needed is surely one of the most nonsensical blunders imaginable - whoever is to blame.  Do the bunglers intend to give us our money back?  What do those who have been voted in to watch their interests intend to do?  An awakening is surely required.

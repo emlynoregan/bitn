@@ -23,6 +23,7 @@ topics:
 - meeting
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports that the United Friendly Societies Demonstration Committee met on Tuesday at the Institute with John Sampson in the chair.  Mr T. Pearce as Treasurer and G. Parks & W.H. Linkson as secretaries.

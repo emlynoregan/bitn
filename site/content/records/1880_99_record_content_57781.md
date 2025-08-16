@@ -19,6 +19,7 @@ topics:
 - agriculture
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. will offer 30,750 sheep at their Friday sale.

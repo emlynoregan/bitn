@@ -22,6 +22,7 @@ topics:
 - procession
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  2 January, Redruth Band of Hope, Grand Temperance Demonstration.  A procession of Redruth, Copperhouse and Kooringa Bands of Hope will go from the German Chapel at 1 p.m. and there will be games on the adjacent grounds in the afternoon.  Tea at 4 p.m. (1/-) and a meeting at 7 p.m.

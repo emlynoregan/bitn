@@ -30,6 +30,7 @@ topics:
 - shipping
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Monster Mine is not taken up after all and still remains available to the first applicant who has the money at command.  However, the impression of its great value is unabated.

@@ -24,6 +24,7 @@ topics:
 - manufacturing
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ian Gemmell, the new managing director of Adelaide & Wallaroo Fertilizers Ltd visited Burra on 5 March on a familiarisation trip.  Industrial Equity Ltd now controls A & WF and appointed Ian Gemmell recently.  He comes from G. & R. Wills and previously from Atco Industries.  He said the present plan was to retain the current number of staff at Burra – about 40.  In the last three months about $1.4 million has been spent at Burra – about $1 million of that on rebuilding and upgrading the roaster and the rest on maintenance and a large storage facility for manganese (which is treated for a few weeks each year).  The company’s main activities will be the manufacture of fertilizers.  [Photo of Ian Gemmell and Burra Plant Manager Nick Van Buuren.]

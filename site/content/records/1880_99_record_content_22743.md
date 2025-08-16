@@ -19,6 +19,7 @@ topics:
 - education
 - nursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster offers to give a series of free lectures to monthly nurses: designed to impart ‘a more intelligent knowledge in the management of accouchement cases.’

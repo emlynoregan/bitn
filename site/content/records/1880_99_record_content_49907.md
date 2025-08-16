@@ -18,6 +18,7 @@ topics:
 - banking
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The National Bank is to be wound up with a call to be made on shareholders for £6 per share and a new bank to be formed called the National Bank of Australasia with a capital of £4,000,000.  The new bank will buy all the property and assets of the old.  [Financial details of the arrangements are given.]

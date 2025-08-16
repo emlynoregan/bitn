@@ -19,6 +19,7 @@ topics:
 - health
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Brummitt’s Paper on ‘Tobacco & Smoking’ was concluded.  (This second part being the case against the habit.)  It runs for 2⅓ columns.

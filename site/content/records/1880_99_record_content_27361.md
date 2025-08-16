@@ -32,6 +32,7 @@ topics:
 - business
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advertisements: [Those marked * also appear in the issue of 2 November 1888.]

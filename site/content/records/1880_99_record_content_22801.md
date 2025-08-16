@@ -21,6 +21,7 @@ topics:
 - obituary
 - infant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Walter Thomas Hunt, aged 19 days, died 16 July of convulsions.  Son of A.J. & R. Hunt.

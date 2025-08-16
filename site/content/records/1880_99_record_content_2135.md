@@ -20,6 +20,7 @@ topics:
 - museum
 - wildlife
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.A.W. Ullmann showed us a small porcupine [i.e. echidna] about 15” long which he had shot at Mongolata.  We did not know such were to be found in the colony.  We hope it will be stuffed and added to the local museum.

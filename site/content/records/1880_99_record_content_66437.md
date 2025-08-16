@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Mutual Improvement Society was established at the Wesleyan Lecture Hall last Friday evening with the election of officers and enrolment of members.  Patron, Dr Brummitt; President, Rev. W.G. Clarke.

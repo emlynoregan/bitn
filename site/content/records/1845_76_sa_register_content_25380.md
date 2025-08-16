@@ -29,6 +29,7 @@ topics:
 - company
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan Flat.  There has been rain and the crops are looking good.  The host of the Mt Bryan Hotel is about to erect a booth at the Waukaringa Gold Field.  The road between Burra and Mt Bryan Flat is bad and drays and wagons are being bogged daily.

@@ -19,6 +19,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan East Bible Christian Sunday School anniversary was celebrated 6 & 7 Nov. with fair congregation on Sunday and fair patronage on the Monday.

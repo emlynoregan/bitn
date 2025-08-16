@@ -26,6 +26,7 @@ topics:
 - business
 - specimens
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Bagot, Shakes & Lewis Ltd, under instructions from Mr Sam Edwards, who is leaving Burra will auction on the premises in George St, Kooringa, on Friday 9 October:

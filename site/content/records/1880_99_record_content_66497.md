@@ -21,6 +21,7 @@ topics:
 - debate
 - women
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mutual Improvement Society held a debate: Should women be encouraged to speak in public?  (Last Tuesday in the Wesleyan Lecture Hall.)  The vote at the end showed a majority favoured encouraging women to speak in public.

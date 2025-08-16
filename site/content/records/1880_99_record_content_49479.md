@@ -19,6 +19,7 @@ topics:
 - music
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Militia Band gave a concert on Thursday night in the Institute, but the threatening weather reduced attendance and the train was an hour late which also disarranged the performance.

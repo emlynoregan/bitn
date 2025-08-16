@@ -21,6 +21,7 @@ topics:
 - education
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on 1 May when Rev. R.J. Daddow lectured on lodes and geological features of the Burra Burra Mine.  President J.J. Whittick chaired the meeting, which was well attended.  The address is reported in a 1-column article.

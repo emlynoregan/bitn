@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oriental Lecture.  At the Burra Institute on 19 December Dr Ryder gave one of her highly amusing and instructive lectures to a good audience, describing the manners, customs, social and religious life of Parsees and others.  18 local residents donned oriental dress for the occasion.

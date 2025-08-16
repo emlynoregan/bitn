@@ -26,6 +26,7 @@ topics:
 - drunkenness
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Sullivan was charged with stealing a watch and chain from William Chandler at the Court House Hotel, Redruth, 22 August.  Chandler was arrested for drunkenness and then accused Sullivan of stealing his watch.  Sullivan produced Robert Bruce and the landlord Mr Neville to swear that Chandler had given the watch to Sullivan for safekeeping in their presence.  Chandler was then arrested for stealing the same watch from a man at Petersburg - he was taken there and fined £1 for unlawful possession.  He was fined 10/- at Redruth for the drunkenness charge.  Robert Bruce was given 7 days for a similar offence.

@@ -21,6 +21,7 @@ topics:
 - match
 - rules
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the first match at the Recreation Ground last Saturday, 12 Colours took on 20 Allcomers.  The Allcomers had the wind for the first half and at half time each side had scored 0.2.  There was no break because it was so cool and the final score was Colours 6.3 defeated Allcomers 0.2.  Pushing behind ought to be abolished as it has been in Adelaide.

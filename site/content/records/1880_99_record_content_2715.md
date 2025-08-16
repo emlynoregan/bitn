@@ -18,6 +18,7 @@ topics:
 - health
 - childbirth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 4 Mar 81	Serpent Ch XXIV-XXV	A Love Race Ch III-V (End)	Superstitions of Childbirth	X	X			X		X	X

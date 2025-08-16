@@ -21,6 +21,7 @@ topics:
 - hotel
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hotel Licence taken out: John Lamb for The Gilbert Arms, River Gilbert.

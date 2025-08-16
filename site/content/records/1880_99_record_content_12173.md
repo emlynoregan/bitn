@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Herrgott Springs Railway.  The extension from Farina has been completed and was handed over from the contractors on Monday.  It is likely to be opened for public traffic on 5 February.  The contractors were Messrs Robinson, Moorhouse & Jesser.  The 32¼ miles cost c. £3,000 per mile for the 3’6” gauge line.

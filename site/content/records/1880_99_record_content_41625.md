@@ -18,6 +18,7 @@ topics:
 - railway
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Trains continue to run late. Saturday’s express was almost one hour late and the Monday morning train little different.

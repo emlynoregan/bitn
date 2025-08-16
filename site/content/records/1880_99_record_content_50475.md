@@ -19,6 +19,7 @@ topics:
 - employment
 - depression
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Depression.  Servant girls in Melbourne are offering their services at 3/- to 4/- a week to get a home!  Many shop assistants there are working a two day week.

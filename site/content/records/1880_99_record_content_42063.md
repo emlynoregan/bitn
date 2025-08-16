@@ -20,6 +20,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Bennetts, 2nd son of James Bennetts of Broken Hill and

@@ -17,6 +17,7 @@ topics:
 - short story
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 20 Jan.	VII-VIII	The Engineer’s Story	X	X	X	X			X	X

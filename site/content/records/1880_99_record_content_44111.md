@@ -21,6 +21,7 @@ topics:
 - tenders
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders called by the District Council of Burra for forming the eastern portion of the two township roads at Copperhouse at per chain.

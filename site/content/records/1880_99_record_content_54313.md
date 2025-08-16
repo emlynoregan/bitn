@@ -23,6 +23,7 @@ topics:
 - meeting
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett & Kooringa Bible Christian Circuit held its quarterly meeting at Petherton House, Mt Bryan on 11 July with Rev. E.J. Kemp presiding.  New ministers, Kemp & Lee were welcomed.

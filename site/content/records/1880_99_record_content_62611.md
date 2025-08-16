@@ -21,6 +21,7 @@ topics:
 - archaeology
 - Aboriginal remains
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Abbott has discovered Aboriginal remains while digging a cellar on his property at Hanson about 14 miles from Burra.

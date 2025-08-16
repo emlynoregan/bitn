@@ -20,6 +20,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Grow’s horses bolted from outside the Commercial Hotel on Tuesday when frightened by passing horses.  The ‘cabe’ was badly damaged in a collision with a corner guard and a tree.

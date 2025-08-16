@@ -19,6 +19,7 @@ topics:
 - organization
 - union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodist Union.  Papers were distributed at the Methodist churches last Sunday to let members say whether Methodist Union will be adopted in Burra or not.  Results will take some time to collect.

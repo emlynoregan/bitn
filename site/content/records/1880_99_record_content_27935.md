@@ -19,6 +19,7 @@ topics:
 - events
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson Races will be held on St Patrick’s Day, 17 March.  [Presumably Hanson here means Farrell’s Flat.]

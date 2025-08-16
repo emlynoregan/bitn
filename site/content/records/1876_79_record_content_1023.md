@@ -20,6 +20,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway - work to be commenced 1st week Sept. (also the North West Bend line)

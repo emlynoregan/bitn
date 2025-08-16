@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  It was resolved to leave the question of the changes needed to the fencing when the Avenue Fountain is completed, in the hands of the Mayor, Town Clerk and Cr Pinch.  [This rather suggests that the fountain was finally being erected.]

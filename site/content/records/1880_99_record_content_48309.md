@@ -23,6 +23,7 @@ topics:
 - waterworks
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy again spoke in a contemptible way of the Record at the last Council meeting.  He asked the Mayor who supplied the Record with information about the breakage at the Waterworks.  The Town Clerk said he had, in the interest of ratepayers.  To be fair he did so after we had waited on him to discover if he knew when water would be restored.  Ratepayers we have spoken to believe he did the right thing.

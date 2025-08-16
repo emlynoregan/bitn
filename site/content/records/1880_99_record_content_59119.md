@@ -19,6 +19,7 @@ topics:
 - publication
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The 1896 Calendar has been delayed by pressure of work, but should be delivered with the next issue.

@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 State of the Crops

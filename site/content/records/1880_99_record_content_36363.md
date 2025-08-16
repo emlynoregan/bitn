@@ -17,6 +17,7 @@ topics:
 - health
 - influenza
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Influenza.  There are many colds around at present and some fear it is influenza arriving.

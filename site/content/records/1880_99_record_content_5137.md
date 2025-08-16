@@ -21,6 +21,7 @@ topics:
 - entertainment
 - communication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, 7 October, Conversazione with telephones, Microscopes, Magneto-Electric Shocks, Experiments, Music and the farce ‘Turn Him Out’.  Children’s afternoon tomorrow.

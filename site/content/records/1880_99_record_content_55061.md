@@ -19,6 +19,7 @@ topics:
 - livestock
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Elder, Smith & Co. Ltd. will offer 10,920 sheep on 16 November.

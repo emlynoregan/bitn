@@ -21,6 +21,7 @@ topics:
 - death
 - public service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  F.W. Coglin JP died on 11 January aged 68.  He was a widower and one of the citizens of longest residence.  For a long time he was the Crown Lands Ranger and on retiring he left briefly, but on returning became Councillor for West Ward and was on the Burra Hospital Board and the Committee of the Burra Institute.  His brother, P.B. Coglin MP, is Mayor of Hindmarsh.  [William Francis]

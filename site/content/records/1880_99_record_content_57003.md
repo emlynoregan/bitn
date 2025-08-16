@@ -19,6 +19,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson said ‘Oh well I’ll say councillor.  If the pair can go on ordering work they should pay for it out of their own pockets and who is Hardy – ’

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ministering Children’s League Concert raised only £5 and as this was insufficient to work with the committee has placed it in the Savings Bank until goods on hand can be sold.

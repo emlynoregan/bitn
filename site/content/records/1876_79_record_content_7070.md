@@ -22,6 +22,7 @@ topics:
 - transport
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. The Blinman coach had an accident at Yatina on its last trip and it was feared that driver Wills had broken his leg, but Dr Nesbitt went to Hallett and found it was not so.

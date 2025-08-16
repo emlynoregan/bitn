@@ -19,6 +19,7 @@ topics:
 - unemployment
 - welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  Disgust was expressed that some of the men sent to Hergott could get neither work nor food when they arrived.

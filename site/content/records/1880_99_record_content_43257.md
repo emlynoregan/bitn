@@ -19,6 +19,7 @@ topics:
 - horse
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Stands about 19½ hands high, and possess [sic] good muscular power, but the trainer left him till the last moment and it is hardly likely he will win.’

@@ -21,6 +21,7 @@ topics:
 - vandalism
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has offered £5 reward for information leading to a conviction for the destruction of trees in the town.  Several large cedar trees in Chapel and Queen Streets have been attacked.

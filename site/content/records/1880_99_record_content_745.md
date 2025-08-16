@@ -20,6 +20,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from George Louis Meuller, Hon. Sec. of the Burra Athletic Club to say the club is alive and well and has resolved to have one meeting a year and thus there is no urgency about having a meeting as yet as the next meet is some seven months away.

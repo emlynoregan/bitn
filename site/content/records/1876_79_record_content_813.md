@@ -19,6 +19,7 @@ topics:
 - settlement
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Baldina.  New settlers are busy ploughing the ground.  A recent visit revealed only one crop and that very backward on account of the dryness of the season.

@@ -19,6 +19,7 @@ topics:
 - award
 - restoration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse, recently restored, has been nominated for the Australian Heritage Award 1987.  It is believed to be the first Cornish Enginehouse to be restored from a ruin.  The award winner will be announced in April.  [Photo.]

@@ -24,6 +24,7 @@ topics:
 - pedestrian
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notices re walking around corner to be fixed at Henderson’s and removed from Ford’s, Urwin’s, Batchelor’s and Kangaroo St.

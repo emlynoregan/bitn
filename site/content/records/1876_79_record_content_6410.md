@@ -19,6 +19,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. 3 June at Hallett Institute. 2nd entertainment in aid of the building fund, to conclude with the screaming farce `Which Shall I Marry'.

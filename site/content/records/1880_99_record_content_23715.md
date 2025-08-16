@@ -18,6 +18,7 @@ topics:
 - local government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  There is still no candidate for Mayor for 1887.

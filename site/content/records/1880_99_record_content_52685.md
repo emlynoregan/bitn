@@ -19,6 +19,7 @@ topics:
 - community
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Creek.  Some parts of the creek, if covered over, would be good places for bathing.  Some three or four young females were seen one night last week, protected by a gatekeeper.

@@ -18,6 +18,7 @@ topics:
 - legal
 - fines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 David McLeish for a similar offence fined 40/

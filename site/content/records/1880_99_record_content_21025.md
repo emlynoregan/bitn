@@ -20,6 +20,7 @@ topics:
 - seeds
 - drinks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wilkinson’s	Cards, seeds, aerated drinks

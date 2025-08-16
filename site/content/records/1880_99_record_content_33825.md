@@ -21,6 +21,7 @@ topics:
 - market
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Warnes of Koomooloo got the highest prices for wool at Adelaide sales last week.

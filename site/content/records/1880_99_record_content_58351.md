@@ -21,6 +21,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Paddy Curtis met with an unexpected accident on Monday when his horse slipped on the road between St Mary’s and the Mine Bridge.  After a struggle the horse got up, but in the process kicked Paddy in the ankle, breaking it.

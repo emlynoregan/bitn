@@ -19,6 +19,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo.  There is a further report of 1 dwt of gold having been obtained from a tub of washdirt, but the warning is repeated that the field is as yet unproved.

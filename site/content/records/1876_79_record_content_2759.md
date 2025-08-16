@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - geography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 On the north side of the flat is Robertstown.

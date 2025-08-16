@@ -22,6 +22,7 @@ topics:
 - race
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Friday Bagg leaves for Broken Hill to try to lower the record for the run to Adelaide on a Swift Path Racer.  Good pacing will be arranged all the way.

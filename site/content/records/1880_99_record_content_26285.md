@@ -20,6 +20,7 @@ topics:
 - health
 - recovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Frank Latter, who shot himself at Terowie some time ago, has partially recovered.  The bullet is in his skull somewhere and the right lobe of his brain is severely wounded, portions of it have exuded.  He is paralysed on the left side and his right eye has had to be removed.  He is conscious, able to converse, and remembers the shooting.

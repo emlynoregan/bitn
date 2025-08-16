@@ -19,6 +19,7 @@ topics:
 - church
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.S. Wayland has decided not to go to Pt Pirie.

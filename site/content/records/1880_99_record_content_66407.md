@@ -23,6 +23,7 @@ topics:
 - death
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Thomas Mackeney, a resident of Burra for many years, died on 7 June at Boulder City WA, aged 65.  He was an old Burra miner and when the mines closed he unsuccessfully tried farming near Gawler and then goldmining in Victoria and for the last two years was mining at Boulder City, WA.  He was a member of the Burra Oddfellows Lodge for 35 years.

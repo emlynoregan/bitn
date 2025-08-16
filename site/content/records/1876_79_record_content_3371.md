@@ -20,6 +20,7 @@ topics:
 - pest control
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. The rabbit account is £25 overdrawn and scalps will not be received after the 29 Dec.

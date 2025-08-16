@@ -18,6 +18,7 @@ topics:
 - meeting
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 There was a small attendance with Cr Geake in the chair.

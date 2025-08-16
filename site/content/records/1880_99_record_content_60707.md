@@ -21,6 +21,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr J.A. Hartley BA, SSc, died last week [15 September].  News arrived as we were in press last week.  A few days before he was knocked unconscious in a bicycle accident.  He recovered enough to recognise a few friends, but died soon afterwards.  The funeral was very largely attended.  A poem in memory of J.A. Hartley, Inspector-General of Schools by D.S.W. of Aberdeen is printed.

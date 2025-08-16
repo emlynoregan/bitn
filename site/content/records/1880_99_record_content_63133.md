@@ -21,6 +21,7 @@ topics:
 - agriculture
 - record
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Bailey of Gum Creek claims a record for hay cutting in SA.  Last week he cut 24½ acres and tied it in 13 hours with his Deering binder.  (Time allowed for oiling, putting in string and changing horses three times.)  Last year a southern farmer claimed 23 acres in 13½ hours.

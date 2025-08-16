@@ -19,6 +19,7 @@ topics:
 - religion
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J. Pithouse’s lectures and sermons were largely attended and were inspiringly delivered.  The illustrations were superb and the incidents shown from Uncle Tom’s Cabin on Tuesday were ‘almost painfully impressive’.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Vocal and Instrumental Entertainment on 2 September in aid of the Mounted Infantry Uniform Fund.

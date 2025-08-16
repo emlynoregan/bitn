@@ -22,6 +22,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Hallett Sports - Annual Picnic, Sports, Entertainment and Institute Anniversary on grounds lent by H. Bowman, Wednesday 9 November.  Entertainment and Ball in the evening.

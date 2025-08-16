@@ -23,6 +23,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  On 22 June, George Wall, 3rd son of the late Charles Wall of Hampton and Jessie Bryce, only surviving daughter of the late John Bryce of Ulooloo.

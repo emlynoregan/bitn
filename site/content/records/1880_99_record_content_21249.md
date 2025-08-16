@@ -20,6 +20,7 @@ topics:
 - drowning
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Porter’s Lagoon.  On 30 December 1885 four young men went shooting on the lagoon and when two waded in to shoot ducks and swans one got so entangled in weed that he almost drowned.

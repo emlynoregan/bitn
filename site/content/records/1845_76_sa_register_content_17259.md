@@ -31,6 +31,7 @@ topics:
 - sheep
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Article from the Mining Journal of 19 December 1863.

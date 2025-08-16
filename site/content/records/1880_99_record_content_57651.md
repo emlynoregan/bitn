@@ -23,6 +23,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christian Endeavour Rally.  A very successful meeting was held in connection with the above in the Wesleyan Lecture Hall on Monday.  Officers elected were: President, Rev. R.S. Casely; Vice-President, Rev. D.S. Wylie; Secretary, Mr H. Preece; Treasurer, Mr J. Scott.  There are over 200 members on the roll.

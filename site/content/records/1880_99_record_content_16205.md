@@ -20,6 +20,7 @@ topics:
 - driving
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.J. Brook - same charge, but dismissed when the Ranger failed to prove there was a notice requiring that in position.

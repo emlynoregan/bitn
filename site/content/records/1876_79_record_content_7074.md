@@ -20,6 +20,7 @@ topics:
 - livestock
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Auctions. Liston Shakes & Co. has sold over 20,000 sheep this month in Burra.

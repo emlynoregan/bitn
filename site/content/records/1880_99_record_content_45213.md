@@ -19,6 +19,7 @@ topics:
 - vandalism
 - driving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  The Redruth correspondent regrets the destruction of a street tree: apparently due to careless or reckless driving.

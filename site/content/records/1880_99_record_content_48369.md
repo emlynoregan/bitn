@@ -20,6 +20,7 @@ topics:
 - censure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Linkson moved that the Council be censured for their conduct concerning the breakage on Saturday night.  He held the Council should have been called together and repairs effected as soon as possible.  The Council did not do its duty to ratepayers.

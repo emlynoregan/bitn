@@ -25,6 +25,7 @@ topics:
 - chess
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Chess Club.  The result of the chess tournament final that was played on 19 July is printed.  H.G. Gibson came first with 10 wins from 12 games.  G.B. Hall and A.H. Jennings tied for 2nd and W. Lasscock and W. Anderson tied for 3rd.  [But see also the announcement in IX. 772. 3 August 1888.]

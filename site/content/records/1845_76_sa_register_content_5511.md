@@ -19,6 +19,7 @@ topics:
 - business
 - share market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Adelaide Share Market, 31 December 1850

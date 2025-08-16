@@ -18,6 +18,7 @@ topics:
 - education
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. The school ground is now fenced, but in a disgraceful manner. A cheap paling fence of the meanest description now surrounds the £7,000 building and it is not even useful as it encloses too little ground to enable games to be played inside it.

@@ -23,6 +23,7 @@ topics:
 - stage-cart
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.W.G. Nicholls again advertises the departure of the Reformer stage-cart for the Burra Burra Mine by way of Bagot’s Mine and then to cross the country to Mount Remarkable, should inducement offer.

@@ -18,6 +18,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ trusts that voters will remember the lack of principle when it comes to an election.

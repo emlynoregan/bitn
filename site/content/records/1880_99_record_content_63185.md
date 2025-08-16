@@ -20,6 +20,7 @@ topics:
 - agriculture
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council.  All recipients of seed wheat are to hold over on the Council’s behalf 1½ bushels of wheat for each bushel supplied until 1 March 1898 or until payment of Council accounts previous to that date.

@@ -19,6 +19,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Balaklava Railway.  The line from Hamley Bridge has been completed for some time and is now open for traffic, albeit with a most inconvenient timetable for connections from the north of Hamley Bridge.

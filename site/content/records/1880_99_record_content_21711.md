@@ -20,6 +20,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Nostrodamus predicted the end of the world when Good Friday falls on St George’s Day (23 April), Easter on St Mark’s Day, (25 April) and Corpus Christi on St John’s Day (24 June).  So 1886 is the end of the world.  But don’t worry; Dame Shrimpton predicted the world would end in 1881.

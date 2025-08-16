@@ -20,6 +20,7 @@ topics:
 - church
 - social event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A typical evening involved four addresses by ministers etc. up to a dozen songs which were a mixture of solos, duets and ensemble works, two or three recitations and prayer. There was also ‘a capital tea'.

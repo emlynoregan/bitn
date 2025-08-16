@@ -20,6 +20,7 @@ topics:
 - hydrant
 - hose
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  We hope the talk about a hydrant and hose will not end in smoke.

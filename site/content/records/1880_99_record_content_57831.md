@@ -21,6 +21,7 @@ topics:
 - community
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Resident of Copperhouse’ writes complaining of the mail arrangements.  The present contractor announced that he would be changing arrangements to suit his own convenience.  The authorities responded to a petition saying no change would be made unless to the advantage of residents.  The old system that had been in force for 16 years had the mail closed in time for the afternoon train to Adelaide and on return brought back the northern mail.  Now the northern mail stays at the Aberdeen PO for about 21 hours instead of 10 minutes.  Also the conveyance of the mail is sometimes entrusted to a boy under the age of 12 years.

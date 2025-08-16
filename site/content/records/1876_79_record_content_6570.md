@@ -20,6 +20,7 @@ topics:
 - show
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Amateur Dramatic Co. Benefit in aid of the Burra Institute, Early in July. 'D'ye Know me Now'. MOONLIGHT!!

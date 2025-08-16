@@ -21,6 +21,7 @@ topics:
 - anniversary
 - Sunday School
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Sunday School Anniversary 25 & 26 December.  Revs. R.J. Daddow & R.C. Yeoman.

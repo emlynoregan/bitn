@@ -22,6 +22,7 @@ topics:
 - education
 - water conservation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.G. Richardson had spent 20 years in the district and was a farmer himself.  He was opposed to a single tax and to a land tax and was for reduced tariffs on farm implements.  He opposed capitation grants and was for free compulsory secular education.  He favoured water conservation and was for a property and income tax.  He opposed free trade to protect themselves against NSW and Victoria until Federation could be achieved.  He also opposed local option.

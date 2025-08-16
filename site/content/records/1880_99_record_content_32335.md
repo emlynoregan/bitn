@@ -19,6 +19,7 @@ topics:
 - Easter
 - decorations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The elaborate Easter Sunday flower decorations are described in c. ½ column.

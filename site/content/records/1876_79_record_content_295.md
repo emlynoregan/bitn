@@ -22,6 +22,7 @@ topics:
 - railways
 - gauge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 F.W. Holder writes clarifying his views on railway gauges as espoused in the Burra Parliamentary Club.  3’6” was only suited to short lines and light traffic and therefore was not suitable for the transcontinental line then pushing its way north from Pt Augusta towards Darwin.

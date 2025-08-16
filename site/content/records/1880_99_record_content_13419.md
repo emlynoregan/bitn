@@ -22,6 +22,7 @@ topics:
 - language
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Artemus Ward jun. writes in Cornish dialect on Manly Sports.  He regrets the language used by some young men, saying that rather than have a son of his speak so he would have him ‘blow his branes out, or buy shares in the Apoinga Mine’.

@@ -22,6 +22,7 @@ topics:
 - community
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 David Jennings & his son Andrew were seen recently at the top of Peacock’s Chimney giving Johnny Green a fresh coat of paint.

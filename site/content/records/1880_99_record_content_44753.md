@@ -21,6 +21,7 @@ topics:
 - event
 - consecration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s is to be consecrated by the Bishop of Adelaide on 25 March 1892.

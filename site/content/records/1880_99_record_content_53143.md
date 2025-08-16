@@ -20,6 +20,7 @@ topics:
 - race
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club next race is 13¼ miles from Farrell’s Flat on 21 March.

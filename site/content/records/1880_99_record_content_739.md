@@ -20,6 +20,7 @@ topics:
 - collection
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kooringa Wesleyan Sunday-school Anniversary was successfully held last Sunday and the choir of 300 voices presented the service of song ‘Jessica’s First Prayer’.  Collections were just over £20.

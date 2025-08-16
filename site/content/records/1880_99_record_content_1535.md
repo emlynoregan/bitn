@@ -19,6 +19,7 @@ topics:
 - health
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster’s Paper on Alcohol, Part II is printed and runs to almost 2 columns.

@@ -22,6 +22,7 @@ topics:
 - dinner
 - sermons
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church, Special Sermons and Annual Dinner. Sunday 17 August three sermons by Rev. H. Hartley, late of England.

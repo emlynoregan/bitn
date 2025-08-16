@@ -20,6 +20,7 @@ topics:
 - inquest
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Light Bridge Hotel at Linwood.  There is a lengthy report of the inquest on the destruction by fire of this hotel in the early hours of 3 December.

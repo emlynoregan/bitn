@@ -50,6 +50,7 @@ topics:
 - hospital
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sir Henry Ayers had twice been written to about ground for the cemetery and a favourable reply might be anticipated. 

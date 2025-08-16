@@ -21,6 +21,7 @@ topics:
 - non-fiction
 - table_of_contents
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Some Experiences of a tourist from Sydney to Mildura by Globe Trotter, 23 September.

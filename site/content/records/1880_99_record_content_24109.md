@@ -20,6 +20,7 @@ topics:
 - appointment
 - retirement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA.  Mr John Vivian, who has been SAMA rent collector for the last 15 years, has vacated the post.  SAMA has given him his house rent-free for the rest of his life.  [This seems to be an unusual case of generosity for SAMA]

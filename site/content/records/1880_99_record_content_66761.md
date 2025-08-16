@@ -21,6 +21,7 @@ topics:
 - photography
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Freemason’s Banquet.  On this occasion W.J. Davey tried the ‘flashlight’ process for the first time in the north to get good photographs of the occasion.

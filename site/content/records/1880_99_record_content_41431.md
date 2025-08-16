@@ -18,6 +18,7 @@ topics:
 - industry
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Smelting Works.  We understand the plant for treating the slag at the Burra Smelting Works has arrived and operations will shortly commence.

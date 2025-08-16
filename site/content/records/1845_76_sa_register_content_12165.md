@@ -21,6 +21,7 @@ topics:
 - mining
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Appealina Mine is sending a mass of native copper, weighing 136 lb, to Adelaide.  Mr Forster thinks very highly of the prospects there.

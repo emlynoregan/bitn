@@ -19,6 +19,7 @@ topics:
 - press
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Editor advises W.H. Hardy that his ‘few words’ are of no interest to the public and will not be published.

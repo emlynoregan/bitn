@@ -19,6 +19,7 @@ topics:
 - sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale or To Let.  The chaff-cutting depot with engine boiler etc. lately occupied by Messrs Snell & Williams.  Trespassers will be prosecuted.

@@ -21,6 +21,7 @@ topics:
 - burial
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Allen Albert Edwards born 6 January 1914, Tarcowie: buried Burra 21 January 1986.]

@@ -20,6 +20,7 @@ topics:
 - inquest
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An inquest was held on 12 March with James Tiver JP as coroner and J.H. Richardson as foreman of the jury.

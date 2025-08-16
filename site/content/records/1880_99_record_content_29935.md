@@ -24,6 +24,7 @@ topics:
 - rates
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich on the water rates.  The Government insists on ratepayers paying £1,000 or £350 in excess of what the Council could run the works for.  This is not reasonable.  Mr Catt will not always be Commissioner of Public Works and we hope his replacement will be more understanding.  No other waterworks is being asked to pay 3% and we are offering 4%.  Another meeting should be called.

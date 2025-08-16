@@ -19,6 +19,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Bazaar was well attended over the three days and over £47 was raised.  This with other efforts will enable the trustees to reduce the debt by £100.

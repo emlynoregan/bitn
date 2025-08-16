@@ -23,6 +23,7 @@ topics:
 - livestock
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sales.  The sales held by Liston, Shakes and Co. in Burra last Friday saw over 25,000 sheep sold with 173 cattle, a number of horses and 739 acres of land near Hallett.  About £10,000 was realized.

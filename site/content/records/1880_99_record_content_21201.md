@@ -21,6 +21,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There were several problems relating to the purchase of the Waterworks.  The Council believed they were to pay not a price fixed by the Government, but the actual cost price.  The Government considered their cost to be the cost of establishment of the old or original works plus their losses in the seven years they had managed the works.  The Council also objected to paying for the works, which were constructed for the Railways Department and were still used by them.  They also considered that the Government was double dipping by collecting the fees for pumping in the transitional period and then also charging the Council for that period.  The Commissioner, Mr Spence agreed only to consider the matters raised.

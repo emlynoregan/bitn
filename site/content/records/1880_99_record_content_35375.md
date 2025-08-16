@@ -24,6 +24,7 @@ topics:
 - sport
 - horse race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Horse Race took place on Wednesday afternoon at Spring Bank between Mr Jones’s Quondong and R. Austin’s grey filly for £5 a side over one mile.  Austin’s mare won easily.  Sellers rode for Jones and W. Vivian for Austin.

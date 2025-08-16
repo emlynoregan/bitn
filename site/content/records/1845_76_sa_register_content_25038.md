@@ -19,6 +19,7 @@ topics:
 - harvest
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The SA Harvest 1872-73.  There is a lengthy report on the harvest with paragraphs on the various areas across the colony.

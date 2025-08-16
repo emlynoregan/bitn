@@ -18,6 +18,7 @@ topics:
 - community
 - retirement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Len Simpson has retired from the Council Staff after some 23 years’ service.

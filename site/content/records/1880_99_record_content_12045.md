@@ -23,6 +23,7 @@ topics:
 - environment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Lover of Trees’ writes re vandalism of street trees.  Moreton Bay fig trees in front of the National Bank in Aberdeen have been damaged.  Street trees need protection of police and the Corporation.

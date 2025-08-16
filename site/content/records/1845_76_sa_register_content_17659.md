@@ -21,6 +21,7 @@ topics:
 - education
 - sermon
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. Mr Stanton, the new Church of England minister sent from England to take charge of the Burra Grammar School, commenced his duties as incumbent last Sunday when he preached two powerful sermons to large congregations.  The effect of the sermons was greatly enhanced by the gentleman’s elocution and finely modulated voice.

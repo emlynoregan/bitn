@@ -23,6 +23,7 @@ topics:
 - defense
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 R. Mahon of Hindmarsh writes to comment on the fast approaching actions between the Burra Directors and Mr John Stephens.

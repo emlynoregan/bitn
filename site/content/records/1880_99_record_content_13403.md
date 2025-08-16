@@ -21,6 +21,7 @@ topics:
 - tender
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C. Schutz tendered to form 9 chains of road in Paxton Tce at £1-15-0 per chain.  Accepted.  [Note: is Paxton Tce here the correct name for the Kingston Tce for which tenders were called for 9 chains of road in the paper of 30 May?]

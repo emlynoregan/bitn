@@ -20,6 +20,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. ‘A Cricketer’ writes in reply to ‘Sobriety’ asserting the right to hold meetings at a hotel or at the Institute, according to the members’ preferences.

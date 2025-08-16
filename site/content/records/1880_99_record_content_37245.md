@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The reduction of £640 in the capital value is not nearly a fair decrease when it is known that nearly everything was charged for with interest when it was understood that cost price would be charged.  Also the old works at the north end of town had over twice their value imposed.  The editor believes that ‘the waterworks were never required here’.

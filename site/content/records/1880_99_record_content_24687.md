@@ -22,6 +22,7 @@ topics:
 - obituary
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  G.W. Goodhart died at Pt Lincoln on 12 Feb. aged 55: a former manager of the Kooringa branch of the Bank of Australasia.  [Registered as George William Goodhart, aged 52.]

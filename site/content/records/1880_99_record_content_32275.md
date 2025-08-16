@@ -30,6 +30,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church welcomed Rev. T.M. & Mrs Rowe to the new circuit at the German Chapel on Friday evening.  Over 120 sat down to the sumptuous table provided (in two sittings).  The following meeting in the church was presided over by John Dunstan Jun., the senior circuit steward.  30 years ago or more the Burra circuit extended from Kapunda to Terowie and Clare.  Gradually these centres had broken off and now Redruth was separate from Kooringa.  Rev. H.T. Burgess spoke and Rev. Rowe responded.

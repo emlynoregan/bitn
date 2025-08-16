@@ -20,6 +20,7 @@ topics:
 - community
 - film
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Notice.  The Apex Club screens Cocoon at the Burra Town Hall 28 June.

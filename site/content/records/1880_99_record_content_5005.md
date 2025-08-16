@@ -19,6 +19,7 @@ topics:
 - legal
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Court heard cases of depasturing stock on Crown Land and of woodcutting and wood-carting on Crown Land without a licence.

@@ -25,6 +25,7 @@ topics:
 - school
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Wesleyan Sunday School celebrated its Anniversary last Sunday & Monday.  Mr Joseph Sleep preached in the morning, Rev. J.D. Whittaker in the afternoon and Rev. R.C. Flockart in the evening.  The congregations and collections were very good.  On Monday the teachers and pupils marched through the town with flags and returned to the Chapel for tea.  J.R. Stephens presided at the public meeting at which Mr A.H. Forder’s report showed the school to be flourishing.  There were 6 male and 3 female teachers with 40 boys and 20 girls.  The Kooringa Wesleyan Choir sang.

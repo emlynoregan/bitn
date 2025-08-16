@@ -24,6 +24,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary Services 4 & 7 August.  Rev. S. Wellington of Norwood officiated on Sunday and Rev. Hugh Gilmore on Wednesday afternoon.  The tea was numerously attended.  Wheatley’s Brass Band attended.  Proceeds were £24-7-6 and subscriptions toward reducing the debt were £37.

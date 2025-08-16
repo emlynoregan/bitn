@@ -21,6 +21,7 @@ topics:
 - employment
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Stuart of the Bank of Australasia has been moved to Adelaide.  He was given a farewell social at the Commercial Hotel last Monday.

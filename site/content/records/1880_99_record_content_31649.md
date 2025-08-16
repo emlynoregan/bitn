@@ -29,6 +29,7 @@ topics:
 - accident
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of Dugald McNiel [sic] was held at the Court House last Tuesday by W.R. Ridgway JP with M. Rayner as foreman of the jury.

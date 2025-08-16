@@ -20,6 +20,7 @@ topics:
 - finance
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc.  The Government subsidy of £31-15-6 has been received.  The society at present has £100 in the Savings Bank and £7 in the Bank of Australasia.

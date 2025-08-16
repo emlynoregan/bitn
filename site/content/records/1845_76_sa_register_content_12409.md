@@ -21,6 +21,7 @@ topics:
 - agriculture
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Wheat in England.  Mr Paxton offered a prize at Aylesbury in 1858 for the best SA wheat grown in England.  Mr Paxton has done wheat growers here a service by calling attention to the excellent qualities of colonial wheat.  Paxton has sent a letter to Henry Ayers outlining the results of the competition.  Of some 15 competitors, one of his brothers took the prize.  [Further details are printed.]

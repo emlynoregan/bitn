@@ -24,6 +24,7 @@ topics:
 - footpath
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  On June 24 21 ratepayers requested the Mayor to call a public meeting of ratepayers to consider the issue of the footpath on the eastern side of the main road from Kooringa to Aberdeen.  The Mayor having refused to comply the meeting is now called by John Sampson Jun. and Matthew Symons, councillors for East Ward, for the Council Chamber, 1 July at 7.30 p.m.

@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor has waited on the locomotive engineer re the supply of water to the railways.  The Department will make a trial of the water.

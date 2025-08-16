@@ -24,6 +24,7 @@ topics:
 - conservation
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Mine Management Committee held its first AGM on 5 August and Chairman Helen Stockman presented the first annual report.  The committee was formed to operate Morphett’s Enginehouse and develop the Burra Mine site.  The first year had seen experimentation with the hours of opening for the Enginehouse, the training of guides and the appointment of a site manager.  Much work had also been done on management, conservation policy, promotion and publicity.  To the end of July 1987 there had been visits by 3,155 adults, 243 children, 589 families and 307 pensioners.  In addition there were some tourist bus groups and students.

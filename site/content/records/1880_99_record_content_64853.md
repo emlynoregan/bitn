@@ -40,6 +40,7 @@ topics:
 - coroner
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Suicide in Ayers St.  On Friday morning a man was found hanged from a tree in Mr Pearce’s yard next to M. Hoare’s.  He was Mr Patrick Hoare, recently employed by Mr Turner of Iron mine.  He came to the Burra Show and got tipsy, but not ‘beyond his own control’.  He was a cousin of Michael Moore and lodged with him during his stay.  On Thursday he went to Hoare’s and spent the evening.  As it was his intention to resume work on Thursday [sic: error for Friday.] he got up at 4 a.m. to saddle his horse, shouted goodbye Auntie and goodbye Mick, but instead of riding off he hanged himself.  He was well known in Kapunda as a jockey.  [Died 23 September 1898 aged 42]

@@ -22,6 +22,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain.  Splendid falls have been recorded to the east at Perrin Vale, Koomooloo and Dust Holes, arriving just in time as Mr Killicoat was making arrangements to remove all stock from the Eastern Plains.

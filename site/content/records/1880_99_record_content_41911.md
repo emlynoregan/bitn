@@ -24,6 +24,7 @@ topics:
 - support
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roach, of the firm of Roach Bros., Sharebrokers of Adelaide has long been a supporter of Burra football and he has today arranged at his expense for a coach to take the team from Farrell’s Flat station to Clare and for their feeding etc. so they can play the Clare team.

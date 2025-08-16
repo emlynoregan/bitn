@@ -19,6 +19,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Vandalism.  Several times lately the old church building on Limestone Hill has been broken into.

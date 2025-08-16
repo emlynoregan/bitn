@@ -21,6 +21,7 @@ topics:
 - sheep
 - lambing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lambs.  Despite the dry weather early in the year we hear that P.L. Killicoat of Abberton Park has had a 90% lambing rate.

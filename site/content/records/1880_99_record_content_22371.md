@@ -20,6 +20,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A meeting will be held in the Institute on 10 June to form a Poultry Society.

@@ -24,6 +24,7 @@ topics:
 - ground
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Football Club made a presentation to E.F. Brady of a photo, in a handsome gilt frame, of the 22 players associated with him as Captain last year.  Mr J. Blott, the present Captain, said it was an expression of their high esteem and in memory of the valuable service he had given in forming the club and bringing it ti its present efficient state.

@@ -18,6 +18,7 @@ topics:
 - politics
 - welfare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lynx No. 2 writes fulminating against those who would get something for nothing in the form of Government handouts, but the letter gets increasingly incoherent as it continues.

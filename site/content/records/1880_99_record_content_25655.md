@@ -18,6 +18,7 @@ topics:
 - agriculture
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Crops are looking good due to the good early rain, but with recent frosts we will need heavy falls soon.

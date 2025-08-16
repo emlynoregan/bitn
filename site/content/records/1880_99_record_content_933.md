@@ -21,6 +21,7 @@ topics:
 - public health
 - by-law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cost of Meat.  A correspondent complains again of the high cost of meat in Burra, but adds that bran and pollard are also overpriced and the local bread is of poor keeping quality and all too often of light weight.

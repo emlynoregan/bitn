@@ -21,6 +21,7 @@ topics:
 - industry
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill.  Reports from the new manager of Broken Hill Mines, imported from America, suggest a very bright future for the mine with at least 700,000 tons averaging 32 oz of silver plus deposits of lead and other minerals.

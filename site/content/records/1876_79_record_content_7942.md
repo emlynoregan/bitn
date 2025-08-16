@@ -23,6 +23,7 @@ topics:
 - delivery
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 `Business' complains of the poor delivery of letters to Kooringa. Last night, he says, the mail cart from the station did not arrive at the post office till after 10.00 p.m. He met a man in the street who had collected his letters from the Aberdeen post office and walked to Kooringa before the cart had arrived with the Kooringa mail!

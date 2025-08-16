@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Wilford Branscombe Troupe appeared on Monday to a small but appreciative audience. (As at Jamestown the lack of publicity no doubt affected audience size.)

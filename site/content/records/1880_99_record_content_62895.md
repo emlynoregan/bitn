@@ -22,6 +22,7 @@ topics:
 - jubilee
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Jubilee was very well attended with old friends coming from far and wide to celebrate the church’s 50th birthday.  Only two residents now living in Burra attended to opening service: Mrs Sleep and Cr John Sampson.  An appeal to give for the extinction of the church debt raised £90.

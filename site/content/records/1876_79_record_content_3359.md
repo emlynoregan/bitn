@@ -19,6 +19,7 @@ topics:
 - community
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Sunday School picnic at Sod Hut 26 Dec. was very successful.

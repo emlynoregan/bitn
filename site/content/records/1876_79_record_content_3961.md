@@ -20,6 +20,7 @@ topics:
 - public works
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Council is to petition the Commissioner of Public Works for an extra £20Q for side drains and the metalling of the junction with the main road.

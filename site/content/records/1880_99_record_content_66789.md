@@ -21,6 +21,7 @@ topics:
 - community
 - park
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The offer of the Friendly Societies’ Sports Committee re the proposed alterations to Victoria Park was not accepted.

@@ -19,6 +19,7 @@ topics:
 - accident
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An accident.  A few days ago Mrs Field brought in eggs and other farm produce to Mr Bath’s store and left the cart and two children in front of it.  The horses moved on and overturned the cart.  Though not hurt, the children were in a pretty mess with smashed eggs all about them.

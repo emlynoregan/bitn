@@ -31,6 +31,7 @@ topics:
 - pest control
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mount Bryan East Meeting

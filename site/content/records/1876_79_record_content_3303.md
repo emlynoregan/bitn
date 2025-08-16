@@ -20,6 +20,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Masonic Lodge celebrated Festival of St John with a banquet in the Institute with 30 members present. W.M. Alex. Stewart in the chair & Vice Chair S.W. F.R. White.

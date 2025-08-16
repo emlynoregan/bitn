@@ -22,6 +22,7 @@ topics:
 - finance
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Copper Works.  Money Orders of the Patent Copper Company.

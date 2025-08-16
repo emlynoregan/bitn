@@ -24,6 +24,7 @@ topics:
 - mine
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Pastoral Outlooks in the North-Eastern areas are grim.  There is scarcely a bite of grass now, with summer still to come.  North of Kooringa the outlook is only slightly better.  Last year at this time a boiling down works at Wildoto operated for three or four months, but now the sheep are carrying too little fat to make this a viable option.  Butchers at Kooringa are selling hind quarters of mutton at 1/6 and sides at 2/6, but supply far exceeds demand.

@@ -22,6 +22,7 @@ topics:
 - land sale
 - township
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Township of Redruth, situated north of and adjacent to the Burra Survey and east of the Bon Accord.

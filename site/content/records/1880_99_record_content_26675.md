@@ -19,6 +19,7 @@ topics:
 - local government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D.J. O’Leary will stand as councillor for West Ward.

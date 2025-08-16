@@ -17,6 +17,7 @@ topics:
 - publication
 - numbering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Volume XV No. 276 on 27 December 1893.

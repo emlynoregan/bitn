@@ -21,6 +21,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Sunday School Anniversary will be held next Sunday & Monday.  Rev. J. Pearce and Miss Pearce will preach.

@@ -21,6 +21,7 @@ topics:
 - escape
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Reformatory.  Two girls escaped last week, but were arrested at Terowie after a couple of very cold nights with severe frosts.  On Sunday morning there were frozen taps and water outside froze to depths of 1-3”.

@@ -24,6 +24,7 @@ topics:
 - education
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Election Meeting at Burra Hotel 8 April with W.R. Ridgway presiding.

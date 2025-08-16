@@ -22,6 +22,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Wednesday Burra went to Clare, leaving Harry Vivian’s at 9.30 and reaching Clare by 12 after a pleasant drive.  Lunch was taken and the game started at 2.45 p.m.  The description of the game is not very clear but it seems that neither side score in the first quarter.  Burra got 1 goal in the second quarter.  In the third quarter both sides scored 1 goal and in the final quarter Burra scored 1 goal.

@@ -20,6 +20,7 @@ topics:
 - railway
 - gauge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the railway gauge issue.  The editor favoured the 3’6” gauge for lines north of Adelaide and 5’3” for those going south, where there would be connections with Victoria.

@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Dare, late of Piltimitiappa Station died on 4 May at Walltellawerlinga.  He was aged 68 and was a colonist of 55 years, having arrived in the Royal Admiral.

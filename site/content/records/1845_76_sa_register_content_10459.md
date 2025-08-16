@@ -20,6 +20,7 @@ topics:
 - crops
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agricultural & Pastoral Returns for 1856

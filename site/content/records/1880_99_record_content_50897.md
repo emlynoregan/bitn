@@ -22,6 +22,7 @@ topics:
 - youth
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. discussed the question Is there a tendency amongst the young of Australia to devote too much of their leisure time to sport?

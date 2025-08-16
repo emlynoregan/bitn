@@ -22,6 +22,7 @@ topics:
 - testimonial
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Joseph Roberts, long in business in Market Square is about to leave for Port Augusta and the Burra Lodge is to present him with a testimonial.  He will be missed, having been a town councillor and an enthusiastic supporter of the Bible Christian Church.

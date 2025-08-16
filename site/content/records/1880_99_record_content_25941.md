@@ -19,6 +19,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa.  A company is being formed in Adelaide to exploit the Teetulpa gold fields with a capital of £6,000, of which £1,530 goes to present claim-holders and cash.

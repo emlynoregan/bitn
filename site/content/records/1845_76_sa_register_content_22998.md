@@ -19,6 +19,7 @@ topics:
 - sale
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 At Kapunda on 21 December about 110 mules with harness, wagons etc.

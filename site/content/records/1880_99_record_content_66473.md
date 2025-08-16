@@ -21,6 +21,7 @@ topics:
 - school
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davies.  The schoolmistress applied for additional desks and a shelter shed for the students.  The Council thinks it is time the parents asked for the school to become permanent instead of provisional.  [Note this late use of the name Davies for Hanson.  Reference at about this time to the Hanson P.O. requiring further accommodation presumably refers to Farrell’s Flat.]

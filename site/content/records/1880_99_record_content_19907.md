@@ -21,6 +21,7 @@ topics:
 - football
 - match report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Aberdeen v. Saddleworth match is reported in more detail than in the paper of 10 November.

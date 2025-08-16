@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr M. Burnett preached at Redruth on Sunday afternoon at a service to aid the fund for a new organ.

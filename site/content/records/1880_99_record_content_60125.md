@@ -22,6 +22,7 @@ topics:
 - court
 - public_order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lok Won, a countryman of Luke Day’s entered Day’s shop on Monday afternoon, took a seat and announced he had come to stay.  Luke winked the other eye and said, ‘I no savee’.  Lock then became troublesome and prevented Day from carrying on his normal business, but said he would agree to leave if given £5.  Luke was immovable and the demand was dropped to £1, but still to no avail.  Eventually he was taken to ‘the House of Correction’ where he undressed and begged the constable to shoot him.  He has been remanded until this morning for examination.

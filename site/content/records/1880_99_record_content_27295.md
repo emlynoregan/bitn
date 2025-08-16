@@ -19,6 +19,7 @@ topics:
 - mining
 - commodity prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper is still rising in price: £88 a ton at Wallaroo.

@@ -18,6 +18,7 @@ topics:
 - technology
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Y Class locomotive and tender were used with 30 loaded carriages and trucks.  The first test stopped the train dead on a flat stretch in 130 yards.

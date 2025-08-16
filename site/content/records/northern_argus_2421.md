@@ -20,6 +20,7 @@ topics:
 - police
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Girls at the [Redruth] Camping Centre awoke in the early hours of Wednesday morning to find a male person in their room.  Police are investigating.

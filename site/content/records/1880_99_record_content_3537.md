@@ -25,6 +25,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Church anniversary was celebrated 13 & 16 March.  Rev. John Trevorrow of Auburn preached with Mr John Paull of Mongolata.  Financial returns were good, enabling the trustees to pay off all current expenses for the year and a portion of the building debt.  Mr McBride of Kooringa has presented the trustees with a new gate from the highway to the church reserve and has paid for the painting of the church exterior for the second time.

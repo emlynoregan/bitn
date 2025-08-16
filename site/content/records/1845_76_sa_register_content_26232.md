@@ -31,6 +31,7 @@ topics:
 - railway
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Political Meeting at Burra

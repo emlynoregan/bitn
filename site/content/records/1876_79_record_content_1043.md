@@ -22,6 +22,7 @@ topics:
 - partnership
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 G.W. Sara & Dunstan - formed when George & William Sara took into partnership John Dunstan Jr. as from `today'. Builders & timber merchants of Aberdeen.

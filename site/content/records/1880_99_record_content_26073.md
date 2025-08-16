@@ -20,6 +20,7 @@ topics:
 - chess
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chess.  The Burra club played Saddleworth last Thursday by telegraph, six men a side.  Burra won 4 to 2.

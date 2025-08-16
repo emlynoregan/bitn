@@ -19,6 +19,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mines.  A delay in boring has occurred due to sand constantly filling the bore.  Casing has now been put down and boring recommenced on Monday.  Some good stuff has been gone through and the drill is in hard rock.  The bore is at 260’ with intentions of going another 100’ approximately.

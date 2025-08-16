@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gladstone Gaol. There is '½ column of detail on the gaol for which Sara & Dunstan got the £21,600 contract.

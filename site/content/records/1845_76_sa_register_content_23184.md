@@ -19,6 +19,7 @@ topics:
 - mining
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Gold-field: from a correspondent of the Northern Argus.

@@ -17,6 +17,7 @@ topics:
 - weather
 - rainfall
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rainfall this year so far 19.005” and to this date last year 2.735”.  [Note that this information is incorrect and the 1887 total should have been cited as 10.085”.]

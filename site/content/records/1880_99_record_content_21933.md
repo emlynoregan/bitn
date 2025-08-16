@@ -23,6 +23,7 @@ topics:
 - horse
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On Wednesday C. Drew, J. Lewis and R. Patterson (a visitor) were going out to the Black Hills when the horse became unmanageable on a steep hill and the party was thrown out.  The driver sustained a fractured collarbone, but the others escaped with bruises.

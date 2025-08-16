@@ -26,6 +26,7 @@ topics:
 - communication
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Telegraph.  Last evening we had the following telegraph from Mr Todd showing the opening of the line to Kooringa: (From the Superintendent of Telegraphs to the Editor of the Register)

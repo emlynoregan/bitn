@@ -19,6 +19,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Big English Circus - Great Double Show, 11 & 12 Feb. at Kooringa.

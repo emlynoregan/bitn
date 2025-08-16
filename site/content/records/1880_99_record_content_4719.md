@@ -19,6 +19,7 @@ topics:
 - government
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Fares.  The Govt. is to abolish 3rd class on railways and reduce fares.  1st class passengers will pay the present 2nd class rate and 2nd class the current 3rd class.

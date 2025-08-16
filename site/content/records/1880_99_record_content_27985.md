@@ -26,6 +26,7 @@ topics:
 - company
 - shareholders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Black Hills Prop. Silver Mine Syndicate held its first meeting of shareholders at the Institute 24 February.  Elected as directors were: W.R. Ridgway (Chairman), J. Dunstan Jun. JP, J. Poole, W. Rabbich, J. Dunstan Sen. JP.  Operations will begin immediately.

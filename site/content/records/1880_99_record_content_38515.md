@@ -18,6 +18,7 @@ topics:
 - weeds
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 4th Leader on Noxious Weeds: the need to proclaim star thistle a noxious weed under its botanical name in order to remove ambiguity.

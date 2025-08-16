@@ -21,6 +21,7 @@ topics:
 - transport
 - coaching arrangements
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Blinman.  17 August.

@@ -24,6 +24,7 @@ topics:
 - public service
 - regulations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The late Railway accident at Peak’s Crossing

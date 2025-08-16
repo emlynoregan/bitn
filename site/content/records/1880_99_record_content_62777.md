@@ -22,6 +22,7 @@ topics:
 - dairy
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Duldig plans to resume work at the World’s End Creamery on 13 September and will surely produce good quality butter.  As much as 450 gallons of milk have been treated in a single day.

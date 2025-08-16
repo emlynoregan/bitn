@@ -19,6 +19,7 @@ topics:
 - goldfield
 - reports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Some good finds continue to be produced.  The paper prints some further reports from the field.

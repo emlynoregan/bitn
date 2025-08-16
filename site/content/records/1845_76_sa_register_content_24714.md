@@ -20,6 +20,7 @@ topics:
 - finance
 - share
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SA Mining Association Secretary, Henry Ayers, advises the exchange of five new shares for every original share in the Association in terms of the Supplemental Deed of Settlement.

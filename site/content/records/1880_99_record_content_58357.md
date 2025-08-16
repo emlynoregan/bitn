@@ -18,6 +18,7 @@ topics:
 - council
 - ethics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Is it right for a councillor to condemn the assessment and then act as judge afterwards?’

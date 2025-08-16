@@ -21,6 +21,7 @@ topics:
 - health
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On account of so many children being ill at Mt Bryan it is very doubtful whether the Fife & Drum Band will compete at Gladstone.

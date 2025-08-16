@@ -20,6 +20,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Rev. Fr Peters SJ will give a lecture in aid of the church on Monday 17 November, including musical selections. MOONLIGHT.

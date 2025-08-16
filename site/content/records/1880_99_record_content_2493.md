@@ -20,6 +20,7 @@ topics:
 - regulation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Enquirer’ on the same subject, asking if the Sunday Closing is yet in force and if so whose duty it is to enforce it.

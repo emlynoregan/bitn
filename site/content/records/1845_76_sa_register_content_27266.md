@@ -26,6 +26,7 @@ topics:
 - damage
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Evidence of the severity of the flooding from the storm which washed away the railway embankment at Peak’s Crossing can be seen from Burra to Clare.  On Mr Roger’s farm at Gum Creek the creek rose and almost submerged full-grown almond trees.  It stripped away the top soil completely in places.  A considerable number of persons continue to visit the scene of the railway disaster.

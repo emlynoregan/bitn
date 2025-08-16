@@ -22,6 +22,7 @@ topics:
 - tree planting
 - recreation ground
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The town survey is of great importance.  Not only are ratepayers deterred from improvements, but also kerbing and watertabling require the survey.

@@ -22,6 +22,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 27 Sept. Augustus Tiver, eldest son of Charles Tiver to Mary Ann, eldest daughter of Mr Edward Prior, both of Redruth.

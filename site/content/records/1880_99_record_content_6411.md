@@ -21,6 +21,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Edward Cox advises he has begun business next door to the Exchange Hotel, Aberdeen as a saddler and harness maker.  (Formerly known as Brady’s)

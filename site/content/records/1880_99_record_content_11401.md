@@ -21,6 +21,7 @@ topics:
 - salary
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Clerk’s salary was fixed at £115 and he was relieved of the outdoor work of collecting rates.  The Inspector’s salary was set at £100 and the scavenger at the previous wages.

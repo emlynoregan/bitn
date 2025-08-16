@@ -20,6 +20,7 @@ topics:
 - education
 - arts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drawing Class.  We visited Mr William Bentley’s drawing class in Kooringa last Saturday.  There were about 15 pupils hard at work.  The finest picture was an enlarged photo done in crayon on opal glass by Mr E.A. Pearce.

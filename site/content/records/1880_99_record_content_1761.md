@@ -23,6 +23,7 @@ topics:
 - agriculture
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A reward of £5 is offered for the carcase of each of the five wild dogs known to be in the ranges between White Hill and F.T. Jones’. 	E. & C.W. Bowman

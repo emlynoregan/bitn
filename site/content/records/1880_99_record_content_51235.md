@@ -18,6 +18,7 @@ topics:
 - advertising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wirths Bros. provided ⅓ column of publicity for their impending appearance.  Such publicity articles were a fairly common feature of the paper and were clearly supplied by the more important or at least better organised entertainment companies who were preceded by an agent.

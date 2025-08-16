@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The No. 2 team (Lott’s) 5.15 defeated the No.1 Team (Fitzgerald’s) 2.5

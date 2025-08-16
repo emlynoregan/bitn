@@ -19,6 +19,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Race.  There is an attempt to organise a 50 mile bicycle race at Burra for Easter Monday.

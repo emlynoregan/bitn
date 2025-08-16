@@ -18,6 +18,7 @@ topics:
 - government
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the New Corporation Act.  This was a new Act consolidating 7 Acts and running to 298 clauses and is 96 pages long.  The editor is in favour of it generally and hopes it will pass.

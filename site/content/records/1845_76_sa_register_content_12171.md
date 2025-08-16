@@ -21,6 +21,7 @@ topics:
 - finance
 - building society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth & Burra Building Society.  The half-yearly balance sheet was presented to a meeting of the society’s members at the Court House Hotel on 1 February.  The society has been injured by the late Port Curtis fold fever, but nevertheless, its prospects are encouraging.  Rules have been changed to admit new members without their paying the arrears of subscriptions.

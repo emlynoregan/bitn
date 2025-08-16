@@ -17,6 +17,7 @@ topics:
 - event
 - natural_disaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Earthquake. An earthquake was felt last Sunday just after 10.00 a.m.

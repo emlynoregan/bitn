@@ -21,6 +21,7 @@ topics:
 - community
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  Upon the librarian of the Institute resigning her position there were 28 applicants for the appointment.  Mr William Davey has been appointed and will commence duties next week.

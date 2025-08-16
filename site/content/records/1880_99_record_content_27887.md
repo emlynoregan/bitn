@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sale of gifts at the Mt Bryan East chapel, Wednesday & Thursday 22 & 22 Feb.

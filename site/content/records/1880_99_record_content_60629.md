@@ -20,6 +20,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Lynch Family Bellringers – organised in 1867.  Burra Institute 18 September only.

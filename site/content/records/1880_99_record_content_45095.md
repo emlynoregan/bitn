@@ -20,6 +20,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice.  Despite being invited to act as members of the new board only one of the old board has accepted: Mr W. West.  The other appointed members are not yet known.

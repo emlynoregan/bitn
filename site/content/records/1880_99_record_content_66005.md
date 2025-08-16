@@ -22,6 +22,7 @@ topics:
 - medical
 - personnel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr J.I. Sangster Sen. is going to Robe in the Southeast for three months for a working holiday and Dr J.I. Sangster jun. will take over here for that period of time.

@@ -22,6 +22,7 @@ topics:
 - dividend
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Princess Royal Mining Co.  A dividend of £3 per share has been declared by the trustees, payable on 18 March 1861.  Calls in arrear, with interest, pursuant to the Deed of Settlement, must be previously paid.

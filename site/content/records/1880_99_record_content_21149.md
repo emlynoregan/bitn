@@ -24,6 +24,7 @@ topics:
 - sports travel
 - dinner
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Christmas Day Burra Young Australians 82 defeated Clare Juniors 38 & 24 at Clare.  Hall & Bromley’s conveyance left early, with breakfast on arrival at Clare.  The team was home by 8 p.m.

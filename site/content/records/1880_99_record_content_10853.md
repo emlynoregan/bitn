@@ -28,6 +28,7 @@ topics:
 - IOR
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lily of the Valley Tent IOR.  Following the success of the Rose of Sharon Tent and the Juvenile Tent of the IOR there was a meeting at the Institute on Tuesday evening to establish a female Rechabite Tent in Burra.  It was decided to call it The Lily of the Valley Tent and the officers elected were:

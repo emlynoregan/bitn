@@ -21,6 +21,7 @@ topics:
 - legislation
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military Matters.  A Bill in the House of Assembly places the Rifle Volunteer Force (Once known as the SA Rifle Association) under the control of Colonel Downes and the Government has the power to increase the Volunteer Military Force from 1,000 to 1,500.  It is likely the former will be disbanded and the latter strengthened.

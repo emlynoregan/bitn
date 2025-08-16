@@ -20,6 +20,7 @@ topics:
 - apology
 - libel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Abject apology from the editor for the potentially libellous paragraph reflecting on Cr Harris’s character in the paper of 17 October.

@@ -19,6 +19,7 @@ topics:
 - education
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Legislative Council elections after nine years and also discussing how to effect economies at the top by cutting ministerial salaries and reducing the number of judges.  There needs to be free education for the poor, but for others as well.  The editor clearly has doubts, but does not spell out a satisfactory position.

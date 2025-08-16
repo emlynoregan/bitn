@@ -20,6 +20,7 @@ topics:
 - local industry
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Local Industry. Mr W. Parker of Aberdeen has started making a tombfence. Not as elaborate as some, but compares favourably.

@@ -19,6 +19,7 @@ topics:
 - natural disaster
 - New Zealand
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Zealand Eruption.  Yet more detail is given.

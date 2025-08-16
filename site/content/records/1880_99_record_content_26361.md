@@ -19,6 +19,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ironmine Primitive Methodist Church Anniversary 2 & 3 October.

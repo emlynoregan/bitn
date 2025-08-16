@@ -19,6 +19,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Herchousen [sic] is appointed lamplighter for the North Ward lamp at £10-7-6 p.a.

@@ -21,6 +21,7 @@ topics:
 - roads
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Baldina Ford, recently constructed by the Midland Road Board was opened to light traffic on Tuesday by E.C. Lockyer JP.  Captain Killicoat, the surveyor and a few others attended.  The work is first class.

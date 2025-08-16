@@ -17,6 +17,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 *The scorecard shows one run-out in each innings.

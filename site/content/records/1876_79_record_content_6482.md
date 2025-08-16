@@ -22,6 +22,7 @@ topics:
 - music
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Musical Union meeting for 2 June in the Institute to elect a replacement Hon. Conductor to replace Mr Cater who has resigned.

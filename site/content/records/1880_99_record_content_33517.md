@@ -20,6 +20,7 @@ topics:
 - football
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At half time Norwood 6.7 led Northern/Burra 6.7 and at full time

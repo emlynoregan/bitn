@@ -21,6 +21,7 @@ topics:
 - petition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  ‘A petition is laying on the table at Council Chambers, for the signatures of Applicants for Blocks with a view to asking the Government to carry out the Baldina Irrigation Scheme.

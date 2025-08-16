@@ -30,6 +30,7 @@ topics:
 - health
 - sanitation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Typhoid did not start at Paxton Square, as there were several district cases in the weeks before the first case there.

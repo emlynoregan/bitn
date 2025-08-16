@@ -21,6 +21,7 @@ topics:
 - community
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gossip. The editor seeks to explain that Cousin Jenny & Aunt Betty are a joke, in the face of complaints this week from the company boring the Market Square well. It is really an appeal for people to display a sense of humour.

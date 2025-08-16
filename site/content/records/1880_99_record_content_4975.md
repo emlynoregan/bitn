@@ -20,6 +20,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Aberdeen Cricket Club met at the Exchange Hotel on 29 August.  N. Opie presided over a moderate attendance.  The season will open next Saturday.

@@ -22,6 +22,7 @@ topics:
 - business
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Advt.  Barry & Maureen Wright, 1 Young Street.  Dealers in Wool, Skins and Stock Feed.

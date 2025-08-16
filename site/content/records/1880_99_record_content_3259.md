@@ -22,6 +22,7 @@ topics:
 - law
 - professional appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.A. Akhurst has joined Mr Blakeney Carter, solicitor of Clare, and the new firm will open an office in Burra.

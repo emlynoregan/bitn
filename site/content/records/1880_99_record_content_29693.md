@@ -19,6 +19,7 @@ topics:
 - sports
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lawn Tennis.  At Burra 3 September.  Burra 67 games defeated Clare 49 games.

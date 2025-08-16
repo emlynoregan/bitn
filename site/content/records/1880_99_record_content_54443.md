@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Methodist Church will hold its Annual Dinner tonight.  There will be suckling pig, turkeys, ducks, fowls and an unlimited supply of the choicest desserts, all for 1/-.

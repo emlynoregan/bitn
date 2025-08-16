@@ -22,6 +22,7 @@ topics:
 - notice
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The Right Rev. C.A. Reynolds DD, Bishop of Adelaide will administer confirmation at St Joseph’s on 19 March and will bless the new school and convent.

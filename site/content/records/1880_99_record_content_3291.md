@@ -18,6 +18,7 @@ topics:
 - accident
 - Sabbath
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘What the Cousins Say’.  Cousin A is railing against the Circus that broke the Sabbath by packing up and moving on that day.  It apparently got its just deserts when a horse bolted completely smashing one of the wagons on a steep hill.

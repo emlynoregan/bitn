@@ -20,6 +20,7 @@ topics:
 - economy
 - exports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ostrich feathers are at a discount.  Tripoli in Africa has for years exported £200,000 per annum, but in the past year managed only £15,000.

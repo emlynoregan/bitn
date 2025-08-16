@@ -25,6 +25,7 @@ topics:
 - livestock
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines. On Tuesday and Wednesday next will be performed nearly the last act in the drama of the `knocking' of the Burra Mines. Sale of all surplus plant and equipment. The business in town is depressed, but the prospects for harvest are good. The cessation of pumping has caused a problem of water supply for livestock. Previously the creek at Redruth and Aberdeen was supplied by the pumping and livestock depended upon it. Now there is a need for water as the creek dries up. The Mayor, in response to an application from a group of ratepayers, has called a meeting for Tuesday afternoon (20 Nov.) to consider the problem. A bathing place is also needed. The Mine Pool was previously available and much used in summer months, but now it is very low and will not be replenished until the mines begin working again.

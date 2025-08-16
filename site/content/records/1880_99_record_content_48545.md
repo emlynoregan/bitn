@@ -22,6 +22,7 @@ topics:
 - achievement
 - art
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Mabel Dunstan daughter of Mr John Dunstan Jun. has shown talent as an artist at Broken Hill, though only 13.  The family is late of Burra.

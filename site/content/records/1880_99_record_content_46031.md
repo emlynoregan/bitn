@@ -20,6 +20,7 @@ topics:
 - visit
 - obstetrician
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madame Somerset Stanley, lady doctor and obstetrician will visit Kooringa for three days shortly.

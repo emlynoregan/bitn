@@ -19,6 +19,7 @@ topics:
 - politics
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Governor’s speech for the opening of SA Parliament is printed.

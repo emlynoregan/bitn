@@ -24,6 +24,7 @@ topics:
 - farming
 - mortgage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes deriding Morris Rayner’s call for a lecture by Professor Custance.  Until the scheme of the Land Nationalisation Society is carried out farmers will not improve their lot.  Farms are mortgaged to the hilt and selectors are paying through the nose for their land and staring at high taxation.

@@ -23,6 +23,7 @@ topics:
 - inquest
 - work
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  An inquest was held on the body of Joseph Jones aged about 25.  He had been laughing and joking with others before going to bed and was dead within 20 minutes.  He had just returned from the diggings, where he had been working for several years.  He was employed at the Copper Works as a smelter.  He had been in SA about 10 years, being among the first group of smelters sent out.  It is said his father had died suddenly on the diggings.  The jury returned a verdict of death by the visitation of God.

@@ -29,6 +29,7 @@ topics:
 - printing
 - announcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Proprietors of the Record. 

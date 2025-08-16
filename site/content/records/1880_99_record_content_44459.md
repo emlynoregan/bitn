@@ -21,6 +21,7 @@ topics:
 - obituary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rev. C.H. Spurgeon was interred at Norwood Cemetery on 11 February.  His remains will later be placed in a vault at Stockwell Orphanage, which he founded.

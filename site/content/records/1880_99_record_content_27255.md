@@ -21,6 +21,7 @@ topics:
 - politics
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editor then discusses the political situation elsewhere in Australia, in the Empire, and finally in Europe.]

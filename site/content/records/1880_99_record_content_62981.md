@@ -19,6 +19,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He Town Clerk was paid £45-16-8 and the Inspector £33-6-8.

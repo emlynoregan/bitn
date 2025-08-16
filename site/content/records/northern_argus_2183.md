@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse is now floodlit and looks very impressive when approaching Burra at night from Mt Bryan.

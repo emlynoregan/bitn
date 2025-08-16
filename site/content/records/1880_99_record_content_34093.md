@@ -17,6 +17,7 @@ topics:
 - event
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guy Fawkes’ Day was celebrated in the usual fashion with fires, crackers and effigies. No accidents have been reported.

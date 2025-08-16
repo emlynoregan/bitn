@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Snowball Fair was held at the Institute last Wednesday in aid of circuit funds.  It was quiet in the afternoon, but busy in the evening when the Burra Brass Band attended.  They raised c. £43

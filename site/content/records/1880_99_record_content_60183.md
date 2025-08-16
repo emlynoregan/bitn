@@ -20,6 +20,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Coursing Club.  Winner of the Coursing Meet was W. Frost’s w r s Facevalue.  (£18.)

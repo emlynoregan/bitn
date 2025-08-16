@@ -21,6 +21,7 @@ topics:
 - industry
 - amalgamation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bagot, Shakes & Lewis Ltd. is to be formed from the amalgamation of Messrs Shakes & Lewis and Messrs Bagot & Co.  The new firm will have capital of £65,000.

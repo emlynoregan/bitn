@@ -36,6 +36,7 @@ topics:
 - organization
 - restructuring
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodist Union.  A meeting of circuit officials of the Methodist Churches in Kooringa, Redruth and the surrounding area was held on 16 July to consider the rearrangements of circuits that will be needed in view of Methodist Union.  A resolution coming from the similar meeting of 1895 was for three circuits: Kooringa, Redruth and Hallett.  An amendment now proposed two with Mt Bryan East and Hallett going into the Terowie Circuit.  After much discussion the amendment was withdrawn and the motion was passed.  Circuits decided on were:

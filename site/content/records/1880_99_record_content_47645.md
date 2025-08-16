@@ -22,6 +22,7 @@ topics:
 - evangelistic services
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church special evangelistic services conducted by Misses Green and Nesbitt next Sunday.

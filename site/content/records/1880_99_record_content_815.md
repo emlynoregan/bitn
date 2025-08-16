@@ -20,6 +20,7 @@ topics:
 - community
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Rumball of the Railway Station has left us a large sunflower equal to those reported from Mt Bryan East.

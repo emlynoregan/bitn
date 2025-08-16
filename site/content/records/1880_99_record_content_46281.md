@@ -23,6 +23,7 @@ topics:
 - goldfield
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W.T. Mortlock of Martindale Hall, Mintaro, is preparing to open the Mintaro Goldfield to the public, reserving a portion for those already on the ground.  Strangely those working there say it does not pay and yet are unwilling to cease work.

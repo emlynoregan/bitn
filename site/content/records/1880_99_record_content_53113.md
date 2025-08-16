@@ -23,6 +23,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Cricket, Burra v. Clare on Good Friday and Burra v. Combined School Teachers from Adelaide on Easter Monday.

@@ -21,6 +21,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Dale, a rabbiter, fell off the train near Cockburn and was brought to Burra Hospital suffering compression of the brain.  An operation of trepanning was performed, but little hope is held for his recovery.

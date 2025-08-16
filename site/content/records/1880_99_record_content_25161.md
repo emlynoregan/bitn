@@ -18,6 +18,7 @@ topics:
 - mining
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa diggings are six months old last Thursday and about 300 men are making a living reefing there.

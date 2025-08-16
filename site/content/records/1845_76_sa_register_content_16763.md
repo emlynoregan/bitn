@@ -22,6 +22,7 @@ topics:
 - road
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Neales has moved that the House will go into Committee on 28 August to consider the motion that a sum of £1,200 be placed on the estimates to enable to construction of the main road from the Kooringa Post Office northwards with a branch to the Redruth Bridge in accordance with the prayer of the petition (No. 51) of 427 persons in that neighbourhood.

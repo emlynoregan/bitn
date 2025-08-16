@@ -18,6 +18,7 @@ topics:
 - events
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Rain fell on 23 December when 187 points were recorded and on the 24th a further 94 were measured.  The Boxing Day sports had to be postponed.  So far for the month we have had 336 points.

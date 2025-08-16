@@ -22,6 +22,7 @@ topics:
 - youth
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ then salutes the enterprise of J. Roach in starting the ‘Penny Reading’ series, which will keep many boys and girls from roaming the streets.  There was a disappointingly small attendance on Saturday night last, perhaps due to the rain.

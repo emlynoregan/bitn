@@ -21,6 +21,7 @@ topics:
 - injury
 - demolition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  As the Record office was demolished yesterday a stone fell on the head of Mr Williams, who was attended by Dr Brummitt.

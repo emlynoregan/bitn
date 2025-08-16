@@ -29,6 +29,7 @@ topics:
 - early closing
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Early closing (as described on page 282) defines winter as 1 March to 31 October and summer as 1 November to 28 February. Participating storekeepers: J.W. White, Thomas Moody, Goldsworthy Bros., Samuel Drew & Co., E. Lipsett, Thomas Bath, W. Geake, Thomas Parks, William Builder, William Pearce, John Kelly.

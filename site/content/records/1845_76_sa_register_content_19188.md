@@ -19,6 +19,7 @@ topics:
 - population
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Statistics of the past year.  [A long report from which the population estimates are interesting.]

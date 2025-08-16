@@ -17,6 +17,7 @@ topics:
 - finance
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 (Since the balance sheet has been prepared the overdraft has been paid off.)

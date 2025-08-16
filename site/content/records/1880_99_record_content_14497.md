@@ -21,6 +21,7 @@ topics:
 - horticulture
 - prize
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Fuss, [H.C.W. Fuss] considers that 1st prize in the show for cut flowers went to a collection with considerably fewer than the stipulated 24 varieties, but he does not intend lodging a formal protest.  [Perhaps, but if so he apparently changed his mind: see VI, 376, 30 Sep. 1884, page 2.]

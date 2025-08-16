@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church will have its annual special effort on Sunday 16 August when Rev. R.J. Daddow will take the morning service and the popular blind preacher Mr D. Sterne the afternoon and evening services.  Tea meeting 19 August.

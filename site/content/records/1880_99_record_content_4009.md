@@ -23,6 +23,7 @@ topics:
 - local government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 North Ward ratepayers of Redruth and Hampton complain of the amount of money that goes into the street from Aberdeen to the station. It took the greatest part of the expenditure last year and this year a further £30-£40 has been used just to lengthen two culverts merely for the sake of appearances.  The editor wonders why the complainants don’t ‘deputationize’ [sic] the council.

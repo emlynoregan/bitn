@@ -21,6 +21,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.R. Bradbury gave a lecture in the Redruth Wesleyan Church on 11 November on Reminiscences of a Voyage to the Antipodes.

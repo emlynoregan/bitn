@@ -23,6 +23,7 @@ topics:
 - police
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Theft.  A man named Moore stole Mr Vivian’s dog from the Commercial Hotel and took him north by train.  He was arrested at Terowie, returned and fined £2.

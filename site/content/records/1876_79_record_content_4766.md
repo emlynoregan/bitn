@@ -24,6 +24,7 @@ topics:
 - public meeting
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Repeal of the Nock’s Act. [After Mr Campbell’s speech re the repeal of the Nock’s Act he was reported in the Advertiser in a scathing and scurrilous way.] 

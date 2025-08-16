@@ -20,6 +20,7 @@ topics:
 - auction
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Market.  Liston, Shakes & Co. will offer by auction 18,180 fat and store sheep on 1 August.

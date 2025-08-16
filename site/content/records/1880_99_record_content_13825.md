@@ -18,6 +18,7 @@ topics:
 - religion
 - civil liberties
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Captain W. Bonell replied that he felt in a free country everyone has a right to worship God in their own way and he sees no reason to stop the band as long as church bells keep ringing.

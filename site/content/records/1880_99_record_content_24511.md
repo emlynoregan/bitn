@@ -24,6 +24,7 @@ topics:
 - appointment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 For the year 1887 elections: J. Hosking, President; C.C. Williams, Vice-President; Dr Brummitt, Treasurer; T.W. Wilkinson, Hon. Sec.  [F.W. Holder was naturally on the committee.]

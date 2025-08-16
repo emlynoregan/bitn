@@ -23,6 +23,7 @@ topics:
 - class
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One who has worked both in broad cloth and moleskin’ writes to condemn the drivel of R.W.M. who comes forward to ‘oppose the march of civilization and educational progress.’  R.W.M.’s outpourings are ‘a vast amount of platitude and weak assertion’.  Education can give the poor power and influence and enable workers to get representatives from their own ranks to sit in Parliament.  The education of the people will lead to the regeneration of our whole political and social fabric.  The advice of R.W.M. to avoid the disappointment of clerkships is sensible, given the overstocking of this group, but it is equally applicable ‘to the children of the “respectable” or “shabby genteel” class as to those of the working men.’

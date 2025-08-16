@@ -19,6 +19,7 @@ topics:
 - diggings
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Northern Argus reports about 50-60 people have left the field, but most have the intention of returning.  Most people there are presently not earning first class wages.

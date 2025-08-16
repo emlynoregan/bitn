@@ -19,6 +19,7 @@ topics:
 - community
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Total Abstinence Society met on 28 July at Redruth Primitive Methodist Chapel.  18 persons signed the pledge.

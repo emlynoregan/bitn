@@ -18,6 +18,7 @@ topics:
 - hospital
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Patients in Government Hospitals and in the Lunatic Asylum are cited for 1846-50.

@@ -20,6 +20,7 @@ topics:
 - concert
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Cathedral Choir Concerts at Burra Institute 10 & 12 November.

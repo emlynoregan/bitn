@@ -20,6 +20,7 @@ topics:
 - pictorial
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Picture of Burra.  The Record will issue a coloured pictorial supplement at Christmas: a chromolithographic view of Burra 3’6” x 2’3”.

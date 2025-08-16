@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.T Rabbich writes in reply to D.J. O’Leary.  He is rather waffly, but makes the point that it is a bit much to expect him to water 426 trees at an average distance of 250’ from a stand pipe.  He contends again (as originally) that sufficient pipe arrived to be installed before the pumping stopped for repairs.

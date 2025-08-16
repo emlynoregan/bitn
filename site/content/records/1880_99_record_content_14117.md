@@ -19,6 +19,7 @@ topics:
 - police
 - drunkenness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 George Dark was fined 5/- for being drunk in Market Square on 16 August.

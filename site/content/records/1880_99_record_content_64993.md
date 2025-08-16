@@ -22,6 +22,7 @@ topics:
 - council
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Cr West said it was a most unusual thing for the Mayor and councillors to meet together in such a pleasant way.  His Worship and himself were the only remaining two representatives of the old and notable Council, and instead of sociability there was always perpetual bickering, and some of the ratepayers were even thrown out of the chamber.  Cr Winnall was sure that the reporter would also bear testimony to that fact. – (Laughter).’

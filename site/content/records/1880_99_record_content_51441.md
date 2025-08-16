@@ -21,6 +21,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sale of Gifts on 6 October was organised to meet the requirements of the church and parsonage building fund.  The loan is from a fund which requires one fifth of the principal lent to be paid back each year.  £40 fell due on 7 October and the sale managed to raise £50.  The Burra Band helped by playing in front of the building in the evening.

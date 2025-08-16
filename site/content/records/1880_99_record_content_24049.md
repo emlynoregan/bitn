@@ -21,6 +21,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Departure.  Mr & Mrs E.H. Benney were farewelled by members of the Kooringa Wesleyan Church as they plan to go to Cockburn.

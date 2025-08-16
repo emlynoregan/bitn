@@ -20,6 +20,7 @@ topics:
 - society
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Adult’ replies to ‘Common Sense’ that children cannot, as a rule, tell adults anything they do not know.  They should be seen and not heard.  He further complains that Bands of Hope are too frequently places of amusement ‘and not places where the drink curse is cried down’.

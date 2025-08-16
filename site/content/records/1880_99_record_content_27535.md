@@ -19,6 +19,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra travelled to Saddleworth on 2 January and on a very hot day with no shelter of any kind, Burra 84 & 70 (154) defeated Saddleworth 55 & 64 (119)

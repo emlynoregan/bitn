@@ -19,6 +19,7 @@ topics:
 - finance
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Anderson repudiates a move he would say saved only £16, but then moved an amendment that would save only £8.

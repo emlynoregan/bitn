@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - repair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  We hear the repaired boiler has been despatched and water should again be flowing by the end of the week, though the mains will first need to be flushed.

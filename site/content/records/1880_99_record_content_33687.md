@@ -18,6 +18,7 @@ topics:
 - health
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on ‘Is Consumption Contagious?’  Explaining how tuberculosis is spread and outlining some precautions to limit its dissemination.

@@ -23,6 +23,7 @@ topics:
 - attendance
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Races. The Burra Jockey Club race meeting was held at the Copperhouse track on 2 April with excellent weather and attendance of over 700.

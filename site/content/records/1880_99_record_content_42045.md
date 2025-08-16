@@ -26,6 +26,7 @@ topics:
 - retirement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. James Rowe retired on Wednesday after 46 years of service in the Bible Christian Church in SA and Victoria.  He came from England in the company of the late Mr James Way and was stationed in Kooringa.  A ceremony marking his retirement took place in the Bible Christian Church in Franklin St. He received an address and a purse of sovereigns.  While in Burra his salary was increased to £75 p.a. so that his wife would not need to follow any secular employment.

@@ -19,6 +19,7 @@ topics:
 - donations
 - library
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. H. Howitt writes asking for donations for the hospital library — but not old journals or dry sermons etc.

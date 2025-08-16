@@ -21,6 +21,7 @@ topics:
 - suffrage
 - voting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 13 November 1850, page 3

@@ -21,6 +21,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Skating.  The Provincial Elite Roller Skating Rink opened at the Institute last night to a fair house, though with more observers than practitioners.  Mr J. Davey’s Burra Brass Band added to the occasion.

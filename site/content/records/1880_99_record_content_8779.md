@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 and the Freebooter, by 	by R.P. Whitworth

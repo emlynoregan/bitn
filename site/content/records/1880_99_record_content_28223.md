@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School will celebrate its anniversary Easter Sunday and Monday. On Sunday afternoon a ‘Song Service’ will be celebrated.  The children’s tea will be on Monday with a public tea and meeting to follow.

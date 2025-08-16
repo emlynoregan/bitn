@@ -23,6 +23,7 @@ topics:
 - relief
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Indian Famine Relief P. Lane as Mayor and treasurer of the local IFR Committee has forwarded £ 100 to Adelaide, with more to follow from the Burra Christy Minstrels' earnings.

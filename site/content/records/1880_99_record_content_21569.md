@@ -19,6 +19,7 @@ topics:
 - mining
 - silver
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver has now been discovered on Mt Mullen on the Kapunda Prospecting Co. claim, close to the Burra Creek.

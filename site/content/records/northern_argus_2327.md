@@ -20,6 +20,7 @@ topics:
 - agriculture
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Mid North Merino Field Days kept the town busy during the week with visitors from all over Australia.  Apparently all accommodation in Burra was booked out.

@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 So there is to be a lamp in Market Square by the well and one in Aberdeen.  Some think there should also be one on the bridge near Henderson’s and on the new bridge to be built in Chapel St.  Let’s hope the Corporation agrees.

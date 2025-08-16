@@ -19,6 +19,7 @@ topics:
 - birth
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Born London and arrived in SA on the Tam O’ Shanter in 1836.]

@@ -25,6 +25,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mounted Infantry Co. is gazetted this week.  Almost 30 members have been enrolled by Lieut. Watt who has been appointed commanding officer of the Co.

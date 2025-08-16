@@ -21,6 +21,7 @@ topics:
 - schoolroom
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt.  Redruth Wesleyan Schoolroom.  A Social Gathering Friday night (tonight), Music, Songs, Duets, Readings and Recitations.  [Personal interest: Mr Rumble presented a reading.]

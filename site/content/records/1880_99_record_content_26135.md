@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  Holder spoke in the Parliament against moving the break of gauge from Terowie to Petersburg: mainly because of the large capital already invested in infrastructure at Terowie.

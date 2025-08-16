@@ -33,6 +33,7 @@ topics:
 - meeting
 - jobbery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Neales moved to do away with the existing voting monopoly which allowed one vote per scrip.  He proposed:	1 scrip	1 vote

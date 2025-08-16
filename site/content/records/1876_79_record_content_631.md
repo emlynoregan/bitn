@@ -20,6 +20,7 @@ topics:
 - closure
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 H. Mossar, Manager, offers all stock at reduced prices due to the hotel’s closure.

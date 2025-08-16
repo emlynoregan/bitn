@@ -22,6 +22,7 @@ topics:
 - media
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The Advertiser on Saturday 22 July seems to have referred to distress in Burra, but it probably drew inferences from the Record article and advertisement as the town does not seem to have found local distress to be excessive.]

@@ -20,6 +20,7 @@ topics:
 - sport
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  The second match for the cruet was fired last Wednesday and G. Parks and T. Rabbich go forward to the final.

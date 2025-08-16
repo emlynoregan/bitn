@@ -19,6 +19,7 @@ topics:
 - disease
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Typhoid.  A letter pointed out the danger of dead dogs and cats in the town, which could lead to a typhoid outbreak.

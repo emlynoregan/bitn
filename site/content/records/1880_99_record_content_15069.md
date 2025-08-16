@@ -40,6 +40,7 @@ topics:
 - industry
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton.  Statistics of the mines and the tons produced and the value thereof are printed.  The earliest discoveries date from 1866, but no work was done till 1883.  By far most discoveries also date from 1883-84.  The following mines had produced over £1,000 worth by 30 September 1884.

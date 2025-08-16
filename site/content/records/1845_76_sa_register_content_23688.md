@@ -18,6 +18,7 @@ topics:
 - community
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tarlee.  The village progresses and where two years ago there were no houses there now are 100 inhabitants.

@@ -20,6 +20,7 @@ topics:
 - mining
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Apoinga Copper Mining Co. The half yearly meeting of the company was held in Alfred Chambers, Adelaide and stated that operations began on 5 Sept. and work has been steady with pits sunk on five lodes.  The shaft had not yet proved the mine.  [A column of detail is provided.]

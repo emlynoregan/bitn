@@ -18,6 +18,7 @@ topics:
 - education
 - degree
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide University awarded a BA to a lady graduate on Wednesday.

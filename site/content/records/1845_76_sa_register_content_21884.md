@@ -18,6 +18,7 @@ topics:
 - working hours
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘One of the Number’ writes on 30 April in support of the Early Closing Movement.

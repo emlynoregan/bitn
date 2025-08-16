@@ -23,6 +23,7 @@ topics:
 - social
 - disbanding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  Before finally disbanding the Company had a social last Wednesday evening at the Commercial Hotel.  Captain Butterworth took the chair and Lieut. Watt was Vice-Chair.  Capt. DePassé from the Staff-Office attended.

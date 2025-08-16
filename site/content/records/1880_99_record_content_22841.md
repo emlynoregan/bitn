@@ -23,6 +23,7 @@ topics:
 - health
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H. Howitt, formerly at St Mary’s, Burra, has resigned his charge at Semaphore on account of bad health.

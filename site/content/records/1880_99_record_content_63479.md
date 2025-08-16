@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New Year passed quietly except for some removal of bridges in George St where the lads had to form a brigade the next day to effect repairs.

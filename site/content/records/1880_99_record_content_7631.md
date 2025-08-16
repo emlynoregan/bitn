@@ -21,6 +21,7 @@ topics:
 - property
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale on 13 September, at Iron Mine, an allotment of land, blacksmith’s shop and dwelling, furniture etc.  On account of Mr A.J. Filmer who is leaving the colony.

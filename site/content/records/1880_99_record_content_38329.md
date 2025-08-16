@@ -18,6 +18,7 @@ topics:
 - public expenditure
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Travelling Dairy?  What has become of this?  It cost £514-15-2 and seems to have been exhibited only twice.  Cannot our MPs find it?

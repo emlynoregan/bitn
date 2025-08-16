@@ -21,6 +21,7 @@ topics:
 - transport
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A second writer suggests that perhaps 10% of those there are getting payable amounts of gold.  A 200-gallon tank of bread sold this morning for 2/- a loaf.  [The price in Burra had recently been 3½d a loaf.]  Four stores, a butcher shop and two blacksmiths have now started, and by next week two bakers.  Most men will probably go in a week or two.  Teamsters have been charging 10/- for the ride from Manna Hill, [often written Mannahill] and 2/6 for swags, and they will do equally well from taking them back again!

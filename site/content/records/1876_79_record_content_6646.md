@@ -28,6 +28,7 @@ topics:
 - roads
 - branding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra District Council. Mr Sanders, Copperhouse pound keeper, applied for an increase in sustenance rates to 1/- per day. Granted. The Crown Lands Office has designated AOI as the brand for the Copperhouse Pound.

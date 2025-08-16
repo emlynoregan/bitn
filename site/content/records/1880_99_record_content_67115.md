@@ -20,6 +20,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Go Alone' also writes to cry rubbish to Rev. Wellington’s claims to priority over the other ministers after Methodist Union.  He predicts that if Union occurs a free church will start in Burra ‘to heal the wounds of those who have been dealt wrongfully with’.

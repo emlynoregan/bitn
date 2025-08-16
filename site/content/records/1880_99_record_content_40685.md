@@ -19,6 +19,7 @@ topics:
 - rabbits
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Cockrum & Pearce were charged with not destroying rabbits in compliance with the Rabbit Act.  They claimed to have spent over £200 in 16 weeks, but rabbits swarmed in as quickly as they were destroyed.  Fined £2 + £3-17-0 costs.

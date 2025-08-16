@@ -19,6 +19,7 @@ topics:
 - dinner
 - ball
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Show Day dinner at the Aberdeen Hotel on the 24 September. At 7 p.m. followed by a Public Ball. 2/6

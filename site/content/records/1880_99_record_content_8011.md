@@ -21,6 +21,7 @@ topics:
 - defence
 - volunteer corps
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Red Coat’ advocating the establishment of a Volunteer Corps in Burra.  The editor hopes the matter will be taken up.

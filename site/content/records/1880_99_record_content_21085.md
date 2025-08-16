@@ -26,6 +26,7 @@ topics:
 - IOOF
 - fraternal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  IOOF, Friendship & Truth; the Loyal Kooringa Lodge No. 34 will shortly be opened.  Information from Alf Allen, J. Howes, T. Mellett, J. Both Sen., D. Williams and J. Both Jun.

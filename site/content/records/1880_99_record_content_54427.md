@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, Wednesday 22 August, Mr Walter Howchin FGS will give a free lecture: The Geology of the Burra Hills.  Free, (chairs 6d.)

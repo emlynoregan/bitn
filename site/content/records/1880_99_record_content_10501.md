@@ -23,6 +23,7 @@ topics:
 - agriculture
 - poultry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.J. Lehman of Burra took three pens of fowls to the Adelaide Poultry Show last week and secured a 1st prize for each, together with two special prizes.

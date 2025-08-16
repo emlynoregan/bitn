@@ -20,6 +20,7 @@ topics:
 - animal
 - stray horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Francis John Vivian 	fined 5/- for a stray horse

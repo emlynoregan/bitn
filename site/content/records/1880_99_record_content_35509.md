@@ -18,6 +18,7 @@ topics:
 - election
 - candidate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  Mr John Dunstan Jun. has announced his decision to be a candidate in the elections.

@@ -21,6 +21,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Daviestown. Rev. James Bickford will preach next Sunday with tea-meeting Monday. Collection in aid of the Black Springs circuit.

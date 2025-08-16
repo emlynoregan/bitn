@@ -18,6 +18,7 @@ topics:
 - event
 - cycling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Burra Cycling Classic will be run next weekend.

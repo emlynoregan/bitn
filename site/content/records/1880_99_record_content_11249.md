@@ -19,6 +19,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Band of Hope will have an entertainment at the Primitive Methodist schoolroom this evening.

@@ -18,6 +18,7 @@ topics:
 - business
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper Syndicate.  It is rumoured that the [international] copper syndicate has failed.

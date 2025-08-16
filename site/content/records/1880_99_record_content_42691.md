@@ -19,6 +19,7 @@ topics:
 - event
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 After the inspection on 21 October there will be a grand military ball at the Institute.

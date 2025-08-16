@@ -23,6 +23,7 @@ topics:
 - hotels
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hotel Licences.  A transfer of licence was granted to J. Hill from E.M. Soward for the Court House Hotel and from the destroyed Aberdeen Hotel to the new building of Mr Ridgway’s.  [To become the (Royal) Exchange Hotel]

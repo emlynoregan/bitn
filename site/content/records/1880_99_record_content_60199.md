@@ -20,6 +20,7 @@ topics:
 - legal
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Nankivell of the Hundred of Baldina was fined 10/- + 10/- costs for failure to destroy rabbits.

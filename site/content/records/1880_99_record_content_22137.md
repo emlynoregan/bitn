@@ -21,6 +21,7 @@ topics:
 - development
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cockburn is the town to be laid out at the SA-NSW border on the Silverton railway.

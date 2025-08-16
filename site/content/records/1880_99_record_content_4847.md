@@ -20,6 +20,7 @@ topics:
 - trains
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trains.  There were complaints about the common lateness of trains - complaints that were repeated in the Clare and Kapunda papers.

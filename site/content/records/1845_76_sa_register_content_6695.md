@@ -23,6 +23,7 @@ topics:
 - police
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Savings of the Burra Miners

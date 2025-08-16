@@ -37,6 +37,7 @@ topics:
 - wages
 - agreement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearers & Sheep-Owners met at the Institute last Friday to try to settle outstanding differences.   Among the graziers present were: Goode (Canowie), Loudon (Booborowie), Scott (Quondong), Sandland (Koonoona), Warwick (Hallett), Riggs (Baldina), Gebhardt (Mackerode), Killicoat (Abberton Park), and many more.

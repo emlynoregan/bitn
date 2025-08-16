@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - volcanic disturbance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Cables.  A repair ship has reached the breaks.  The opinion is growing that the cause was a volcanic disturbance.

@@ -20,6 +20,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Pearce jun. writes urging the Town Council to procure 100’ or 150’ of hose and get say six volunteers to practise twice a week at fire fighting.

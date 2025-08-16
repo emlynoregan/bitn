@@ -20,6 +20,7 @@ topics:
 - exhibition
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Cousin Jack’s exhibition ‘Off the Sheep’s Back’ is open seven days a week.

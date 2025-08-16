@@ -19,6 +19,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Alexander, the Australian Blondin, will give two grand open-air performances on the high wire and trapeze on Tuesday and Wednesday, 19 & 20 June.  Collection on the ground.

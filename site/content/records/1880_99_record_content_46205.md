@@ -20,6 +20,7 @@ topics:
 - education
 - school board
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra School Board of Advice was satisfied with its visit to the district’s schools on Wednesday last.  They travelled in Rev. Daddow’s buggy.

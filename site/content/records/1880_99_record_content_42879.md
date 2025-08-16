@@ -22,6 +22,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church half-yearly special effort was held on 12 November with a flower service in the afternoon.  The tea meeting on Monday was well attended.  Misses Tiver and Hall collected over £10 and other funds raised will cover current expenses and necessary repairs.

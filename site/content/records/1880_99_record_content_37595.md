@@ -21,6 +21,7 @@ topics:
 - Federation
 - Taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Model Parliament met last Tuesday, but there is some falling in attendance, perhaps due to the very cold night.  Tonight’s debate will be on Federation and Taxation.

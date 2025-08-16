@@ -20,6 +20,7 @@ topics:
 - society
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Show Society.  At the annual meeting of the Burra and North Eastern Agricultural Society on 27 May only the secretary and three of the retiring committee turned up.  This would seem to ensure the collapse and extinction of the society unless some of the tradespeople take an interest and rally to the cause.  [No one did rally to the cause and the next show was not held till 1894.]

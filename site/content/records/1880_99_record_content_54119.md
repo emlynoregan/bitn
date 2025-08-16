@@ -30,6 +30,7 @@ topics:
 - church
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Robert Giles has died from apoplexy at Redruth at the age of 60.  He was born at Vetna, Isle of Wight in 1834 and arrived in SA as 3rd mate on the Star Queen.  After a few months he came to Burra in 1855 and farmed at Leighton for 11 years.  For the past 20 years he has been a local preacher in the Redruth Wesleyan Church.  For five years he was 1st Chairman of the Booborowie DC.  He was then clerk for 17 years.  His father was the Rev. Edward Giles.  He leaves two living sister, but two brothers are dead.  He is survived by a wife and grown up family of six daughters and five sons.  The funeral produced one of the longest processions seen in the town for many years.  Rev. D.S. Wylie officiated.

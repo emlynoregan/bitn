@@ -18,6 +18,7 @@ topics:
 - court
 - assessment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Court of Appeals on the assessment was fixed for 26 November.

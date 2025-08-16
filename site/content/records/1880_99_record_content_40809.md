@@ -21,6 +21,7 @@ topics:
 - polo
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Polo Club will meet Campberton [sic] in Easter Week. [Perhaps Camperdown, Victoria?  See the rather unhelpful report XII, 1033, 1 Apr. 1891, page 3.]

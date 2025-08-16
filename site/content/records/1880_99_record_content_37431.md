@@ -21,6 +21,7 @@ topics:
 - railway
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Crossing.  We note that the Railway Commissioners intend to fit a gong at the Aberdeen crossing if gates cannot be worked from the station.  But this crossing is adjacent to sale yards through which 40,000 to 50,000 sheep pass monthly.  They will not be kept clear by a gong.  Gates are the only thing that will serve.

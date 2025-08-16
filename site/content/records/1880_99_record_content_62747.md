@@ -21,6 +21,7 @@ topics:
 - livestock
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.H. Woollacott was fined 10/- for allowing his two cows to browse on the watertables in Redruth streets.

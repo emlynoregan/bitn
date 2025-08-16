@@ -18,6 +18,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The team to Clare last Wednesday mustered only 14 players in foul weather and ended up losing to Clare 2 goals to 1.

@@ -22,6 +22,7 @@ topics:
 - honour
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Davey will be given a social at the Institute under the auspices of the Burra Burra Lodge of Oddfellows in recognition of his long and valued service to the order.

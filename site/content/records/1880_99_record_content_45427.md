@@ -22,6 +22,7 @@ topics:
 - local government
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council has repaired masonry at the two bridges near Ford’s slaughterhouse.

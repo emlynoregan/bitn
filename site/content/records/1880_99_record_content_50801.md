@@ -18,6 +18,7 @@ topics:
 - injury
 - disturbance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Dunn continues to be confined to bed suffering from a gathered elbow, supposed to be the result of the disturbance which took place in his bar on 28 July.

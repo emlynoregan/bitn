@@ -19,6 +19,7 @@ topics:
 - licence
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Memorial from Mr S. Hill re his cab licence and this time it was resolved that the request be granted.

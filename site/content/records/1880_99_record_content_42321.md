@@ -19,6 +19,7 @@ topics:
 - pests
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The squatter’s life is not always a happy one – drought, locusts, rabbits and caterpillars

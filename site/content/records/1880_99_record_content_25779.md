@@ -20,6 +20,7 @@ topics:
 - business
 - food
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  T. Parks in Commercial St has bread at 3d a loaf or 2d to storekeepers and hotels.

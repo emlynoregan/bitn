@@ -22,6 +22,7 @@ topics:
 - mining
 - gold discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘A Golddigger’ writes concerning the discovery of a gold reef about ten miles south of the old Waukaringa Reef, claiming it should go about 4 oz to the ton.  He is amazed that this has not stirred SA into action.  The whole show may come to nothing for the lack of a little ‘pushing in the matter’ from SA.  He suggests other colonies behave differently and even SA is prepared to spend money in the Northern Territory.

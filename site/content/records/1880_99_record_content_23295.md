@@ -19,6 +19,7 @@ topics:
 - obituary
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary: ‘Departed this life September 1st 1886, a faithful servant for the last twenty-four years, my favourite grey mare NELLY.  Regretted by her owner.

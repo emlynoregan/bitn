@@ -26,6 +26,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accidents.  Jacob Jansen was driving in from Baldina and when his companion got out near Abberton Park apparently couldn’t control the horse alone.  He ended up in a creek near Mr Cave’s house.  The trap was smashed and Jansen broke several ribs and has punctured a lung.  He has since rallied slightly, but remains in a critical condition.

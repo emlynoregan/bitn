@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - town planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The railway station is very inconveniently located; it could at least be moved closer to Sara & Dunstan's by almost a quarter of a mile (i.e. near the Bon Accord crossing.

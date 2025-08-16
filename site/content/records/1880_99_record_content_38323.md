@@ -18,6 +18,7 @@ topics:
 - Westinghouse
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the railway brakes question.  The writer is disappointed that the Westinghouse system was the only one tried in the tests, but pleased to hear that it seems to have worked remarkably well.

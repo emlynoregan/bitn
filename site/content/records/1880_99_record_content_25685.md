@@ -18,6 +18,7 @@ topics:
 - finance
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town & Country Bank shareholders are to get 5/- in the £.

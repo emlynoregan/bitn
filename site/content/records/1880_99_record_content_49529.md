@@ -21,6 +21,7 @@ topics:
 - community
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A meeting will be held at the Exchange Hotel on Wednesday 12 April for the purpose of reforming the Aberdeen Football Club.  A.W. Dow, secretary pro tem.

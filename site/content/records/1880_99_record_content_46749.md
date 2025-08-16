@@ -23,6 +23,7 @@ topics:
 - club
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Burra Cricket Club met at the Commercial Hotel on 13 September and elected: W. Linkson, secretary; George Parks, Captain; M. Rabbich, Vice-Captain.

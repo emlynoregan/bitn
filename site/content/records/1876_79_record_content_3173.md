@@ -20,6 +20,7 @@ topics:
 - accident
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fire. A 20 ton haystack of J. Harry of Mt Bryan was destroyed by fire on 29 Nov.

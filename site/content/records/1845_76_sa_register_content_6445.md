@@ -20,6 +20,7 @@ topics:
 - smelting
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 New Smelting Works

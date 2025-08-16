@@ -20,6 +20,7 @@ topics:
 - football
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday two sides were chosen from those that turned out.  W. Phillips’ side 7.0 defeated G. Herbert’s side 1.0.

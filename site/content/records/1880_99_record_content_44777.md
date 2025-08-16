@@ -19,6 +19,7 @@ topics:
 - safety
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boys are continually walking over the iron [arch] girders of the Kingston St Bridge and on Thursday one fell from the top.  Fortunately he fell onto the street and was not hurt.  The drop the other side was c. 40’.

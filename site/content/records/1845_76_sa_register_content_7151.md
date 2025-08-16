@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Registered voters in SA Electoral Districts in 1851’ is an interesting group of figures:

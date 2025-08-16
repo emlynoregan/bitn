@@ -21,6 +21,7 @@ topics:
 - vandalism
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lill Sellers, a lad of 13 was charged with throwing stones at a railway train whilst it was in motion near Aberdeen on 28 June 1880.  He was released upon his father’s undertaking to give him ‘a severe flogging’ and paying the witnesses expenses of 14/-.

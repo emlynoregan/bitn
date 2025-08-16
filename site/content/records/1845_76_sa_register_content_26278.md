@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Scattergood’ writes concerning the need to attend far more seriously to roads.  Much of the northern roadwork will be done in areas where there is little stone.  In such areas in summer dust holes to axle depth on wagons develop and in winter [holes develop into bogs].

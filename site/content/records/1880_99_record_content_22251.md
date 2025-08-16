@@ -20,6 +20,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  It is said that Dunstan and party intend soon to float a company to develop the Black Hills Silver Mine.

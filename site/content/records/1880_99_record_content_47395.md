@@ -23,6 +23,7 @@ topics:
 - shooting
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI.  A firing match was held at Burra on Wednesday when a team from Gawler visited.  Gawler 652 defeated Burra 627.  A social was held afterwards at the Commercial Hotel.

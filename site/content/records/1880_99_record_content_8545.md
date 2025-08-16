@@ -20,6 +20,7 @@ topics:
 - electricity
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Electric Light.  Adelaide is to be partly lit by electricity.  It will be tried first in King William St.

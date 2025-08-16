@@ -23,6 +23,7 @@ topics:
 - banquet
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Complimentary Banquet was given at the Saddleworth Institute on 19 June to the Members for Burra Messrs R. Rees & W.B. Rounsevell, and members of the late ministry.  Nearly 100 sat down to dinner.

@@ -20,6 +20,7 @@ topics:
 - community
 - honesty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Rippen, aged 9, found the purse advertised as lost near Butterworth’s Mill and immediately handed it to the owner.  It contained five £1 notes.  (A £ reward had been offered)  We commend his honesty.

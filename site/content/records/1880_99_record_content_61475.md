@@ -24,6 +24,7 @@ topics:
 - prizes
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra High School held a concert and prize night in St Mary’s Hall.  The program is printed, which included the Casket Scene from The Merchant of Venice.

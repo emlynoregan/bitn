@@ -29,6 +29,7 @@ topics:
 - kerbing
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Harris, before tenders were opened moved that 1 chain more of kerbing be added in Kangaroo St to complete its full length.

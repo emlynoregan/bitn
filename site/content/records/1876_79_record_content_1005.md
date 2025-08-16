@@ -24,6 +24,7 @@ topics:
 - maritime
 - communication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Telegraph - the telegraph from Cape Borda to Adelaide now provides early news of approaching ships and can also warn of ships in distress. The line to WA progressing on the SA side. Cable north of Darwin still broken.

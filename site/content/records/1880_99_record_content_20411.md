@@ -34,6 +34,7 @@ topics:
 - insurance
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the fire at Thomas Harvey’s shop, Aberdeen.  Held at the Courthouse on Friday last with Mr Ridgway as coroner and A. Motley as foreman of the jury.

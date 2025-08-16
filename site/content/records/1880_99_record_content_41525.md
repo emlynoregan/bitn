@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Demmett Bagg died at Bridport, Dorsetshire, England, on 29 March, aged 74.  He was late of Springbank, Kooringa, having arrived in SA by the African in 1836.

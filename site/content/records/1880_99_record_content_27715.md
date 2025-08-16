@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  From 1 February the Great Northern Line will be open to Coward Springs.

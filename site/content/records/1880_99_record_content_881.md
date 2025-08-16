@@ -21,6 +21,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Races.  A meeting at Mr Midwinter’s Baldina Hotel on Saturday made arrangements for a race meeting in the adjacent paddock on Monday 17 May.

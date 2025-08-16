@@ -21,6 +21,7 @@ topics:
 - notice
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Thomas Hicks apologises to T.P. Halls, cab proprietor, for having assaulted him without cause on 14 September at the Burra Railway Station.  [Signed with a cross]

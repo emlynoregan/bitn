@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There are complaints that despite being the largest market outside of Adelaide, Burra has hopelessly inadequate cattle loading facilities at the station.  Recently a mob of cattle was walked to Farrell’s Flat for loading, so bad are Burra facilities.

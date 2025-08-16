@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Margaret A. Dow, daughter of the late John Dow, died on 24 June at her mother’s residence in Redruth aged 34.  Though indisposed for some time no fatal results were apprehended.

@@ -20,6 +20,7 @@ topics:
 - locusts
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Shearing is almost finished after the delays due to wet weather.  The hay harvest was most prolific and wheat yields promise to be high [subject to locust damage in places].

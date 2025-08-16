@@ -19,6 +19,7 @@ topics:
 - water
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor agrees and suggests the board of Health’s attention should be drawn to it.

@@ -20,6 +20,7 @@ topics:
 - military
 - encampment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Encampment.  Probably 27 men from the local company will spend four days at Gladstone over Easter.  Col. Gordon will command.

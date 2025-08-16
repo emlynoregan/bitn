@@ -20,6 +20,7 @@ topics:
 - recitation
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Second Great Battle of Twelve Cockroaches v. One Solitary and Unprotected Mosquito.

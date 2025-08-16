@@ -20,6 +20,7 @@ topics:
 - transport
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On the way back from the Coursing Meet on Thursday the front wheels of a buggy collapsed on striking a rut.  Mr H. McCullum was much cut about the head and Mr Haag was pinned to the ground, but extricated without much damage.  Had the horses not been quiet the results could have been fatal.

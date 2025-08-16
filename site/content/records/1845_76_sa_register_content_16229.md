@@ -19,6 +19,7 @@ topics:
 - earthquake
 - natural event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Many of the inhabitants here were much surprised and alarmed by an earthquake here on the morning of 15 December.  Some felt an oscillation of the earth from west to north, some a return shock from north to west.  Those who were up described feeling a wave-like sensation, while those still in bed described a trembling motion.  The shaking of household goods was accompanied by a rumbling sound.  The effect seems to have been quite localised as it was not reported from 13 miles away.

@@ -20,6 +20,7 @@ topics:
 - legal
 - creditors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.L.H. Bruse a long-standing businessman in Kooringa is forced to meet his creditors next Friday.

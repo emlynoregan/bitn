@@ -23,6 +23,7 @@ topics:
 - fine
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daniel Gleeson, alias Edmond Sullivan charged with indecent language at the Salvation Army Barracks in Church St on 26 Feb. and fined 20/- or 14 days

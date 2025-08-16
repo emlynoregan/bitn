@@ -20,6 +20,7 @@ topics:
 - livestock
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Richards’s cow cost its owner 7/6 for similar activity.

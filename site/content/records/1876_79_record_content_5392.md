@@ -20,6 +20,7 @@ topics:
 - pests
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits are a major problem in crops at Mt Bryan East, where they are eating whole crops to the ground. They are also very bad in the Hallett D.C. A pit operated by the Hallett D.C. received scalps between 31 Dec. 1877 & 12 Aug. 1878 & 21 Oct. 1878 to 2 Dec. 1878 & contained by then 210,773 scalps. One farmer at Mt Bryan East reaped only 3 tons of hay from 40 acres and another 5 tons from 70 acres.

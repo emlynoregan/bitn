@@ -20,6 +20,7 @@ topics:
 - demonstration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Radical’ writes in support of a United Friendly Societies’ Demonstration about Christmas time and points out the success of such a movement at Port Augusta.

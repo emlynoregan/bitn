@@ -19,6 +19,7 @@ topics:
 - mining
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Gold.  Some nice alluvial finds are reported, but the reefs and further alluvial areas are on private land.  An Act legalising mining on private land is needed.

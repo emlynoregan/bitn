@@ -19,6 +19,7 @@ topics:
 - forestry
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Forest Dept. is to supply 1,000 trees.

@@ -21,6 +21,7 @@ topics:
 - legal
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Ella Carrington’s Stray Leaves Co. was unable to perform as advertised when three members of the troupe were arrested and taken to Hamilton, Victoria, on a charge of infanticide.  The charge broke down however, and after some days in prison they were discharged.  There was not the slightest evidence connecting them with the crime.  An enquiry is in progress and it is thought the company will get some compensation.  The company will perform at Burra tomorrow night [Sat.] and also on Monday & Tuesday.

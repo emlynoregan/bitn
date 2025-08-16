@@ -20,6 +20,7 @@ topics:
 - trust fund
 - address
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Tuesday in the Wesleyan Chapel Rev. S. Knight delivered his interesting address on ‘The Sun’.  The collection aided the Trust Fund.

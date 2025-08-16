@@ -24,6 +24,7 @@ topics:
 - fraud
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 9 April 1851, page 3

@@ -19,6 +19,7 @@ topics:
 - cricket
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A letter to the editor says that the week before last the Allcomers defeated Burra two innings to one.  [i.e. by an innings]  Wasn’t that worth reporting?

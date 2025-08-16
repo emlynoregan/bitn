@@ -19,6 +19,7 @@ topics:
 - politics
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Model Parliament seems to have lost its interest.  The last meeting had to be adjourned due to small attendance.  We believe this is a sad state of affairs as Burra young men are far from perfect in the knowledge of political or social matters.

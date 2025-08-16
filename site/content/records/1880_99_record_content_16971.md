@@ -23,6 +23,7 @@ topics:
 - deputation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Travelling Stock Routes.  Messrs Lane, Coglin and Holder are in touch with Pt Augusta, Adelaide and elsewhere and a large deputation will soon seek to change the Commissioner’s mind on stock routes and reserves.

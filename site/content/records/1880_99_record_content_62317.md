@@ -27,6 +27,7 @@ topics:
 - football
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Burra Football Assoc. met at R. Pascoe’s rooms on Tuesday evening 11 May.  P.L. Killicoat was elected President with H.L. Austin, Chairman, J. Murphy, Captain and T. Nicholls as Vice-Captain.  C.F. Packard is Secretary.  Colours are blue and white.

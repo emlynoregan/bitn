@@ -20,6 +20,7 @@ topics:
 - station
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on the need for a new Burra Railway Station.  The writer thought it should be on the township side of the level crossing and that it needed a refreshment room the equal of Terowie’s which cost £2,000.

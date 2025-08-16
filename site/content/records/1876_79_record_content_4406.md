@@ -19,6 +19,7 @@ topics:
 - roads
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 North Rd needs metalling at the deviations caused by the railway crossings.

@@ -20,6 +20,7 @@ topics:
 - employment
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on several Terowie residents that are again working the Ulooloo Goldfields.  About 25 are presently there.

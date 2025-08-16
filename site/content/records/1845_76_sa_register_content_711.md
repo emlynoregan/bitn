@@ -29,6 +29,7 @@ topics:
 - shipping
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Another Migrant Ship

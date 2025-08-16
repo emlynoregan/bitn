@@ -19,6 +19,7 @@ topics:
 - postal services
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Leighton (late Baldry): A correspondent reports that the change of name was forced by the post office for unknown reasons when they would only open a post office if Baldry went. A school has also been opened.

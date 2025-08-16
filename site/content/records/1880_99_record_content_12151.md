@@ -23,6 +23,7 @@ topics:
 - community dispute
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He defends the magistrates Coglin and Lockyer against any imputation of impropriety, but says that he has been persecuted by the Ford family because he prosecuted Mr Ford for keeping an unregistered dog and impounded his cattle.

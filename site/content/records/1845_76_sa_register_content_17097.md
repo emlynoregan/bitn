@@ -17,6 +17,7 @@ topics:
 - mining
 - satire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 And also on ‘your valuable plant…a first class miner’s pick without a pole, a really good blunt gad, a fine rope yarn, and a bucket which once had a bottom.’

@@ -20,6 +20,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Saturday last at Victoria Park: Mt Bryan 32 & 5 for 33 v Aberdeen 242.

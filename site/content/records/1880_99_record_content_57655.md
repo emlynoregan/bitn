@@ -20,6 +20,7 @@ topics:
 - obituary
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr John Edwards, an old Burra resident, died recently and was buried on Tuesday afternoon.  [Died 8 July aged 54.]

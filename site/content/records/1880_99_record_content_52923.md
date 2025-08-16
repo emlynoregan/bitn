@@ -19,6 +19,7 @@ topics:
 - livestock
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A deputation of three is to wait on the Burra DC on Saturday to discuss the matter of inspecting slaughtered cattle.

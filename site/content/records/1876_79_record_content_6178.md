@@ -20,6 +20,7 @@ topics:
 - concert
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Musical Union Sacred Concert 8 April at the Institute.

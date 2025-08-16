@@ -18,6 +18,7 @@ topics:
 - supplement
 - microfilm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Of the literary supplements only two are preserved on the 1880 microfilm: one dated 8 October and one undated, but placed after the issue for 31 December.  The microfilm for 1881 has more than a year’s supplements, but most are undated.  Extrapolating backwards from known issues in 1881 approximately fills in the gap, but not exactly.  See table of supplements for 1881 at the end of that year.

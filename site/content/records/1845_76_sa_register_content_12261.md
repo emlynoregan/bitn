@@ -19,6 +19,7 @@ topics:
 - assay
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The North Burra Mine is to be worked initially by a party of four.  A rough sample assayed at 20% copper and a washed sample gave 45%.

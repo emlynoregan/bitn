@@ -19,6 +19,7 @@ topics:
 - school
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra School Board of Advice asked for water to be laid on to the school.

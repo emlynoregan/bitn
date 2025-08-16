@@ -22,6 +22,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Iron Mine Primitive Methodist Sunday School anniversary, 9 September.  Two sermons by Mr J. Paull of Hanson.  Tea meeting on Wednesday.

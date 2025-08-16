@@ -21,6 +21,7 @@ topics:
 - voting
 - civic participation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Election: Voting in the Legislative Council elections was at the Institute for the first time - previously it had been at the old Burra Hotel which had become the Hospital. There was more interest than usual with 164 of the 406 enrolled exercising their right to vote.

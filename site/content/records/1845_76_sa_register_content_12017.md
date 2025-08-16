@@ -19,6 +19,7 @@ topics:
 - surgery
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The poor woman whose leg was amputated last week was confined the third day after of a stillborn child, and despite all this is reported to be doing well.

@@ -23,6 +23,7 @@ topics:
 - appointments
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council met on 18 January and reappointed J.D. Cave as Town Clerk at £70 p.a.  Mr Dow was appointed Inspector at £100 p.a.  One dayman was appointed to each ward at 6/6 a day.  Jeffrey Pearce will do dray work as required at 9/9 a day.

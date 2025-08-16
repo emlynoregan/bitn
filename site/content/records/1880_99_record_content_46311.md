@@ -20,6 +20,7 @@ topics:
 - council
 - public concern
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes complaining that tree planting is done only near Councillor’s homes and is concerned about costs.

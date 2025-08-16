@@ -22,6 +22,7 @@ topics:
 - council
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes calling for a public meeting before the Council gets involved in costly advice from Mr E.P. Nesbit, solicitor of Adelaide, re the watercourse dammed by Bagot, Shakes & Lewis.

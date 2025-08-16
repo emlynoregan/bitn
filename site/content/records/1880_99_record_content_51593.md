@@ -22,6 +22,7 @@ topics:
 - rifle match
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  Burra v. Pamattas on Wednesday last on each teams’ home ground.  Pamattas 543 defeated Burra 468.  [Pamatta was a property, P.O. etc near Carrieton.]

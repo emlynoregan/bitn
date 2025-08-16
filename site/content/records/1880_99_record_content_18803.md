@@ -21,6 +21,7 @@ topics:
 - medical
 - speech
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr C. Oliver of London can be consulted at Young’s Hotel.  He is a specialist in stammering and stuttering.

@@ -28,6 +28,7 @@ topics:
 - law
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Lang and the Kooringa Representation

@@ -20,6 +20,7 @@ topics:
 - strike
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Railway.  The labourers are on strike seeking an extra 6d a day.  When the Government refused the men went off seeking harvest work.  Ballasting has therefore stopped and the opening of the line has been delayed.

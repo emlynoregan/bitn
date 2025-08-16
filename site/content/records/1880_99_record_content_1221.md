@@ -21,6 +21,7 @@ topics:
 - court
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Benjamin Crabb, who failed to appear, was fined 40/- (or 14 days) for the same offence.

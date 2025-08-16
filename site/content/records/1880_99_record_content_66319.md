@@ -21,6 +21,7 @@ topics:
 - mining
 - excavation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  Work on the excavations at the slagheap is well under way.

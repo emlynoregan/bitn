@@ -36,6 +36,7 @@ topics:
 - assaying
 - strike
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.H. Challoner, Mine accountant, explained the recording of the ore raised etc.  He recognised the plaintiff’s diary when handed it.  He had seen Mr Burra assaying a few weeks before he left the mine – though not earlier.

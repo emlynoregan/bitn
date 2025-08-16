@@ -20,6 +20,7 @@ topics:
 - community
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  A letter to the editor called for an end to the Salvation Army Band ‘ambulating the town on Sunday Mornings, disturbing the quiet of the place and the rest of the inhabitants’.  Apparently they had begun at 6.30 a.m. on Sunday morning after a hot night, when sleeping time was at its best.

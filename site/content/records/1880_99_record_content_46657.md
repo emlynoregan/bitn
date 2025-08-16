@@ -20,6 +20,7 @@ topics:
 - cab
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.P. Halls waited on Council asking for the restoration of his cab licence, saying he had signed the pledge and did not intend to take any intoxicating drinks any more and was going into business on his own account.

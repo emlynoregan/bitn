@@ -19,6 +19,7 @@ topics:
 - dispute
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson thought they were trying to get at Council and to get the right to exclude cricketers, footballers, school children and others from the place and Council should refuse the request.

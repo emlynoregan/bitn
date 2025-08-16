@@ -20,6 +20,7 @@ topics:
 - advertisement
 - craft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.D. Josling	Saddler etc., Commercial St

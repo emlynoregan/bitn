@@ -24,6 +24,7 @@ topics:
 - mining
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Catastrophe.  Eight men were killed apparently by a great concussion of air when ground fell in at South Mine and two others were seriously injured. One of these has subsequently also died.  [At least six of the dead were miners from the Kadina& Moonta area of SA.]

@@ -20,6 +20,7 @@ topics:
 - land sale
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council held a special meeting on 15 September to decide what to do seeing that the Aberdeen Reserve was offered for sale by auction.  There was much talk, but no decision.

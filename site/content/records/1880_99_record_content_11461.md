@@ -22,6 +22,7 @@ topics:
 - community
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Phoenix’ saying that the old council was careful to get all guarantees with respect to the waterworks and submit the matter to the consideration of ratepayers who authorised them to go ahead by a large majority.  If such a scheme could be carried out elsewhere at the same cost it would have been accepted and completed in half the time taken to talk about it here.  ‘Burra has always been remarkable for its want of public spirit, but it must be below freezing point when it hesitates to at an expenditure of £4,000 for an amply supply of pure water when smaller towns are paying nearly half this amount annually for interest only on a very much inferior article.'

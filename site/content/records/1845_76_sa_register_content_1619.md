@@ -21,6 +21,7 @@ topics:
 - land
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Discoveries on Yorke’s Peninsula

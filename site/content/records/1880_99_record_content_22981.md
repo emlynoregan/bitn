@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Martha Breakspeare Holder, wife of J.M. Holder, died at Collegetown on 9 August, aged 59.

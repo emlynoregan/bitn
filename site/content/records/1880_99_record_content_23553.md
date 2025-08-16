@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society met on 6 October and resolved that the flower show be on 3 November.

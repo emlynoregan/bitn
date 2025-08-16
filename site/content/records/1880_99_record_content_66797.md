@@ -21,6 +21,7 @@ topics:
 - smelting
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  It is expected to be six to eight weeks before the machinery can start crushing the slag.

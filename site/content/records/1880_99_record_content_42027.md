@@ -20,6 +20,7 @@ topics:
 - strike
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor is glad that the long threatened strike in SA has been averted and the colony is apparently to escape the sort of lawlessness and outrages that Queensland suffered of late.

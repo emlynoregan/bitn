@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Parliament has refused to grant £3,000 for the repair of our streets.

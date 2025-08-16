@@ -22,6 +22,7 @@ topics:
 - meeting
 - trustees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Burra & Hallett Circuit.  At the quarterly meeting Rev. T.M. Flood received and accepted an invitation to remain for another year.

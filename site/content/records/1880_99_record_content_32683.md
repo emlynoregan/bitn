@@ -20,6 +20,7 @@ topics:
 - legal
 - document
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The deed for the Burra Hospital is missing and a search will be made for it.

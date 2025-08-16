@@ -40,6 +40,7 @@ topics:
 - horse
 - appeal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The story is quite difficult to piece together from the evidence, but it appears to be something like what follows.]

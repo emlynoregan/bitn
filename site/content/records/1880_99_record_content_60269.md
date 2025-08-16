@@ -21,6 +21,7 @@ topics:
 - appeal
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 District Council of Burra has been advised of the withdrawal of Mr McBride’s appeal against his conviction under the Rabbit Act.

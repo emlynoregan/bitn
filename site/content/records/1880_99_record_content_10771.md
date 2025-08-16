@@ -18,6 +18,7 @@ topics:
 - editorial
 - format
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the new format of the paper: this being the first Tuesday issue.

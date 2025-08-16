@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Show Society has met and fixed 18 September for the next show.

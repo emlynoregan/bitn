@@ -17,6 +17,7 @@ topics:
 - religion
 - churches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Catholic, Anglican, Salvation Army, Bible Christian, two Wesleyan and two Primitive Methodist - the Lutheran presence being only occasional.]

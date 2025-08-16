@@ -18,6 +18,7 @@ topics:
 - voting
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the importance of the elections and on the responsibilities of the voters to vote.  He was strongly against plumping, which he thought should be illegal.

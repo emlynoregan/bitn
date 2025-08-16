@@ -18,6 +18,7 @@ topics:
 - editorial
 - public office
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on what makes some men seek public office and why they stay there.

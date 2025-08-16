@@ -25,6 +25,7 @@ topics:
 - migration
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Torr, late of Burra and more recently of Moonta, arrived in England to study at Oxford to prepare for the headmastership of the proposed Way College in Adelaide.

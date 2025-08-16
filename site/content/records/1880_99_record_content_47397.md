@@ -22,6 +22,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports a cricket match last Saturday in which Burra defeated Aberdeen, but no scores are given.

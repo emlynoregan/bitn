@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Primitive Methodist annual effort has been very successful.  Crowds attended the dinner and there was a good house at the Institute in the evening.  Proceeds exceeded £30.

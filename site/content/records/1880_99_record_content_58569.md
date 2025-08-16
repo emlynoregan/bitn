@@ -20,6 +20,7 @@ topics:
 - council
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Drew has declined a requisition asking him to stand as councillor for East Ward.

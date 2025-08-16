@@ -24,6 +24,7 @@ topics:
 - medical
 - neglect
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 He said all I had to do for him was to drive the cart as gently as possible; which I did.  When I first saw him he looked like a healthy man, but I noticed he breathed with difficulty.

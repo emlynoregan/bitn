@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The site has been selected in Market square for the bore.

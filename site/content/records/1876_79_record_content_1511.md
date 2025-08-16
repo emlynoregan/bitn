@@ -21,6 +21,7 @@ topics:
 - performance
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Report of the Davenport Bros. who were bound and placed in a box but apparently played instruments (The cabinet séance)

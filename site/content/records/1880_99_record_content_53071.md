@@ -25,6 +25,7 @@ topics:
 - cordials
 - wholesale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  EMU FACTORY Mrs Humphris has taken over the premises of Mr R.H. Birt (who is leaving the district) and has purchased his Aerated Water & Cordial Making Business.  Stocks of Aerated Water, Cordials, Tomato & Worcestershire Sauces, Australian Lime Fruit Relish, Dandelion Ale, Hop Beer, Sparkling Fruit Cider.  Wholesale Only.

@@ -20,6 +20,7 @@ topics:
 - show
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Show was held last Tuesday in the Smelting Works Yard.  It was a decided advance in all respects.  The rain threatened, but did not actually fall till all was over.  Exhibits were well arranged except for the flowers.  Butter was well represented, but not so bacon and cheese.  Birds were very good.  Dogs were not so good this year.

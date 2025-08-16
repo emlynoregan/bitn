@@ -20,6 +20,7 @@ topics:
 - charity
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Dolls’ Bazaar at Mrs Roe’s Schoolroom 21 June in aid of St Mary’s Church.

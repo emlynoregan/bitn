@@ -21,6 +21,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ellis Newton announced the proceeds of his concert on Tuesday evening in his tent behind the Commercial Hotel are to go to a resident widow.  Communications are requested from such widow and if the case is genuine the proceeds will be supplimented [sic] by a further two guineas.

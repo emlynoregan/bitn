@@ -21,6 +21,7 @@ topics:
 - board
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. West is said to be going to resign from the Burra School Board of Advice after another member of the Board sent a scurrilous report about the Board to the Jamestown Review.

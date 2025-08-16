@@ -20,6 +20,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Gold.  We have seen a parcel of Ulooloo gold from Mr Thomas Bath of Kooringa.  It comprised 9¼ oz of lumpy nuggets and is one of the finest examples we have seen.

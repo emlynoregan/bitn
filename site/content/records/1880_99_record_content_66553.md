@@ -20,6 +20,7 @@ topics:
 - organization
 - masonic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Masonic Lodge.  W. West, PM of the Masonic Order, was appointed Worshipful Master of the revived Masonic Lodge at a meeting in the Institute last Wednesday.  Mr West has been connected with the lodge for about 27 years.

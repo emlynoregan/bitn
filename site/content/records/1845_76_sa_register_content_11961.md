@@ -25,6 +25,7 @@ topics:
 - copper
 - assay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A mineral lese has been taken out by Messrs Bath & Bosance of Kooringa for a section at Bundaleer, about 30 miles away.  A picked sample gave 41½% copper and rough stone on the surface 28 and 32%, so there is some chance of another Burra starting there.  The first stone was assayed by Mr Richard Davey of Adelaide.  It is not known whether it will be worked by private enterprise of if a company will be formed.

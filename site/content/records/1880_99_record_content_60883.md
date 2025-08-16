@@ -20,6 +20,7 @@ topics:
 - theatre
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Royal Dramatic Co. arrived in Burra on 6 October and played five consecutive nights to very small audiences.  The pieces were fairly well done, including: Saved from the Sea, The Lancashire Lass, Collen Bawn and Fun on the Bristol.  Saturday night drew a bigger audience and the company managed to get away on Monday.

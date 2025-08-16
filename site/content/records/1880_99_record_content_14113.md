@@ -19,6 +19,7 @@ topics:
 - community
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Memorial calling for the establishment of a Circuit Court and an Insolvency Court in Burra is being circulated and signed.

@@ -27,6 +27,7 @@ topics:
 - legal
 - SA Mining Association
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Public Meeting in Support of John Stephens

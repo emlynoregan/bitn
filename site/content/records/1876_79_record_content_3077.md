@@ -20,6 +20,7 @@ topics:
 - charity
 - famine relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Indian Famine Relief. P. Lane reports that Burra subscriptions have totalled almost £140 and should reach £150.

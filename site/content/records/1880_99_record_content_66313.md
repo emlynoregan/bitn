@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Sunday School Anniversary will be held on 21 May with the tea meeting on Wednesday 24 May.  Mr Wood MP will conduct three services.

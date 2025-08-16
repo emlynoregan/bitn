@@ -23,6 +23,7 @@ topics:
 - fundraising
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A cricket match was played with enthusiasm and a bat given to J. Martin as highest scorer and a ball to H. Ware as best bowler.  The sports closed with a donkey race, and chasing the pig and a sheep.

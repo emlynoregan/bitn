@@ -21,6 +21,7 @@ topics:
 - column
 - gossip
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gossip. There is a ½ column or so in Cornish dialect by `Cousin Jenny & Aunt Betty'.

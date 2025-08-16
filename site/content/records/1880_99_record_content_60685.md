@@ -24,6 +24,7 @@ topics:
 - mission
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Anglican Church Mission has been declared a great success.  It was run by Rev. James Sunter of St Paul’s Church in Adelaide, assisted by Archdeacon French of Petersburg and the incumbent, Rev. A.G. King.  Many Methodists also attended the series of services.

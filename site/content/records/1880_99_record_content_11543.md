@@ -24,6 +24,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Christmas Day Burra, 117 defeated East Adelaide, 29 & 80 (109).

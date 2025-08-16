@@ -19,6 +19,7 @@ topics:
 - waterworks
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Applications are called for engineer at the Burra Waterworks.  Salary £2-2-0 per week or £2-8-0 per week depending on the services rendered.

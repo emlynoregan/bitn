@@ -20,6 +20,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter urging the transfer of Kooringa leasehold houses to freehold to encourage improvements with aid of Building Societies.

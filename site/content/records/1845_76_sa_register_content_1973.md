@@ -21,6 +21,7 @@ topics:
 - carting
 - loading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Burra Burra Mines.  Notice to Miners and carters.  The next public survey day will take place at the mines on Monday 10 January.  Until then all underground operations are stopped, but full employment will be given to miners and others in dressing the ore now on the surface.

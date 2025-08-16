@@ -25,6 +25,7 @@ topics:
 - railway
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Lake in Parliament on Thursday said he believed a certain sum should be placed on the Estimates to meet the case of Ganger Davis.  Mr Stock supported him.  The £70-4-6 the Railway Commissioners have referred to would have rightfully been Davis’s had he lived.  The Commissioner of Public Works, W.B. Rounsevell, is prepared to consider the matter after looking into all the evidence.  We believe such consideration will bear out our conclusions that a fair compensation ought to be paid.

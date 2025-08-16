@@ -19,6 +19,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Wittber’s Class, having got too large for the room is transferred to the Lodge Room, necessitating a move from Friday to Monday.

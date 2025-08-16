@@ -19,6 +19,7 @@ topics:
 - death
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the death of the Prince Imperial [son of Napoleon III] in the Zulu War.

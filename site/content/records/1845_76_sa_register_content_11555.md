@@ -31,6 +31,7 @@ topics:
 - advertisement
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  William Rounsevell runs an extravagant advertisement for his public conveyances and carriages and carts of all sorts for hire.  A lengthy piece of doggerel precedes his list of conveyances and equipment.  He runs regular public conveyances to:

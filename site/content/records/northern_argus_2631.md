@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The sitting members had been James hawker, D.R. Woolley and N. Maxted.

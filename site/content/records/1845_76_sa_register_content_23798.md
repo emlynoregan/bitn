@@ -20,6 +20,7 @@ topics:
 - injury
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  On Wednesday Captain Paull fell down an abandoned shaft, which had been covered with timber.  He fell about 36 feet, but has survived with a severe shaking.

@@ -18,6 +18,7 @@ topics:
 - market
 - stock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Sales.  One of the biggest sales ever held in Burra took place last Friday.

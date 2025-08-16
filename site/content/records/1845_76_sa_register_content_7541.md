@@ -19,6 +19,7 @@ topics:
 - mineral land leases
 - resolutions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Land Leases – A Meeting at the Bremer

@@ -22,6 +22,7 @@ topics:
 - novel
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larger non-local advertisements dominated by patent medicines, except for the large one for the Burra Record & General Printing Office.  There is usually some poetry and a novel in serial form.

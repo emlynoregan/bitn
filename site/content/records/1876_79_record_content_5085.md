@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. The Govt. is taking further steps towards providing a water supply for Burra and it seems likely to take the form of free public fountains paid for by the Corporation by means of a rate.

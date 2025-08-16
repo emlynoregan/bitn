@@ -19,6 +19,7 @@ topics:
 - concert
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Concert at the Institute in aid of Village Settlements, 17 August.

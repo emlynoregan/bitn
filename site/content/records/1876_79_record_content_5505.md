@@ -19,6 +19,7 @@ topics:
 - accident
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fire. The Miners’ Arms Hotel was substantially burnt down last Tuesday morning between 2 & 3 am. The newer part that was formerly the Assembly Room was saved.

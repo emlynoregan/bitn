@@ -32,6 +32,7 @@ topics:
 - arson
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On 10 November a bushfire was discovered in Cobb & Co.’s paddock apparently intentionally lit by a candle with the intention of setting fire to Mr Hallett’s Run.  Fortunately it was soon extinguished.  Tracks through the green feed were followed in the direction of Firewood creek and then lost.  On 18 November a reliable gentleman saw the grass alight on the western side of Mr Hallett’s Run.  A man on a bay horse was seen to ride away towards Black Waterholes or Firewood Creek.  A man and a boy in a cart were able to extinguish this fire.  On 23 November another portion of Mr Hallett’s Run was found to be alight.  This time ten or twelve square miles of feed were destroyed – mostly on Hallett’s Run, but some 800 acres on the property of Mr Robert Stevens of Princess Royal.  A second inquest was held at Redruth Court House on 26 November.  Mr Henry Hallett, who is unfortunately deaf and dumb, gave evidence: am brother to Mr R. Hallett the manager of Wandillah Run.  Last Saturday on the way to Caroona saw smoke about two miles distant.  Went to it and began beating out the fire and in about half an hour plenty of assistance came.  Am of the opinion it was deliberately lit.  Had assistance not come all Gebhardt’s Run would have been consumed.  While present at this fire another broke out on the flat.

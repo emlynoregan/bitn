@@ -26,6 +26,7 @@ topics:
 - railway
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituaries.  William Ryan, late of Burra, had been working in Broken Hill and on hearing that his father was dangerously ill he decided to come to see him.  In endeavouring to move from one carriage to another on the train near Thackeringa he slipped between the carriages and was completely mangled.  His father died in the Burra Hospital yesterday afternoon.

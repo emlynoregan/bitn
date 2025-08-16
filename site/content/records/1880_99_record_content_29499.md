@@ -20,6 +20,7 @@ topics:
 - coal
 - railways
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Coal Strike.  SA will import Queensland coal to keep the railways going.

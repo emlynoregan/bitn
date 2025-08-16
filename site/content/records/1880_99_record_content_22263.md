@@ -18,6 +18,7 @@ topics:
 - sale
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Prices ranged from £2-15-0 to £25-10-0.

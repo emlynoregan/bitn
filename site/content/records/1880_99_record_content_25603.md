@@ -22,6 +22,7 @@ topics:
 - competition
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firing Match.  The third competition for Mr Pearce’s silver cup saw success for Privates Roach and Dixon and Mr W.T. Rabbich.  Final next week.

@@ -19,6 +19,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The match Burra v. United Schoolteachers’ Assoc. has had to be postponed.

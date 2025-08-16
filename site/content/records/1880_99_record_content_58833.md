@@ -22,6 +22,7 @@ topics:
 - politics
 - National Defence League
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The National Defence League met in the Institute last Friday with several ladies among the audience.  Mr John Lewis presided.  Mr Hogarth gave an address.

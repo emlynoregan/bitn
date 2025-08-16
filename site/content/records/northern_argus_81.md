@@ -19,6 +19,7 @@ topics:
 - events
 - awards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra’s Venturers are off to the Flinders Ranges on a camp this week, working towards their Queen’s Scout Award.

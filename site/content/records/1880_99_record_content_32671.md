@@ -19,6 +19,7 @@ topics:
 - street trees
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees.  The Town Council has planted 400 this year.

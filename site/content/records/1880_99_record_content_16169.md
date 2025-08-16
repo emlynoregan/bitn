@@ -21,6 +21,7 @@ topics:
 - regulation
 - inspector
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Inspector reported that weatherboard buildings had been erected in the town contrary to Act of Parliament.

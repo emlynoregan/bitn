@@ -19,6 +19,7 @@ topics:
 - mayoralty
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayoralty.  T.W. Wilkinson has been approached to be mayor for 1890 and has agreed to stand.

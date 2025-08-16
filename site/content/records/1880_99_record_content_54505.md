@@ -20,6 +20,7 @@ topics:
 - sports
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra went to Manoora last Wednesday on the midday goods train and there Burra 3.12 defeated Manoora 2.4

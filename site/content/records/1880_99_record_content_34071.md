@@ -18,6 +18,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club allowed to put sheep on the oval to eat the grass provided men are there to see the trees are protected.

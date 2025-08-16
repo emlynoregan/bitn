@@ -19,6 +19,7 @@ topics:
 - sale
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines.  The sale on Tuesday, Wednesday & Thursday went quite well and realised almost £5,000.

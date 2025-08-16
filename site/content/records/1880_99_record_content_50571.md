@@ -19,6 +19,7 @@ topics:
 - industry
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. W. Copley MLC, after a trip to Queensland, believes that its sugar industry needs Kanaka labour.

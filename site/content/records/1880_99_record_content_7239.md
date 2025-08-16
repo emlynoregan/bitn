@@ -19,6 +19,7 @@ topics:
 - travel
 - feature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 “Unit” writes over 1 column on A Trip to Farina and Back.

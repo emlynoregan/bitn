@@ -22,6 +22,7 @@ topics:
 - injury
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 9 March 1876, page 5

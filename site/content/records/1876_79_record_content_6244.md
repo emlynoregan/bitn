@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. A well has been dug and a pump installed a little east of Hallett to obtain good locomotive water.

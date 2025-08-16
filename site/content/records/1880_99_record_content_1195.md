@@ -21,6 +21,7 @@ topics:
 - night school
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  F.R. White has arranged to commence a night school in Kooringa on Monday 5 July.

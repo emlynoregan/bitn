@@ -25,6 +25,7 @@ topics:
 - transport
 - bereavement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Governor had been expected to arrive at Farrell’s Flat by special train on Monday, but his sudden bereavement meant he cancelled the trip and the train ran only as far as Riverton.

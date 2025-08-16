@@ -19,6 +19,7 @@ topics:
 - legal
 - arson
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The finding was that the fire was caused by matches ignited by the feet of cattle, such matches having been maliciously and feloniously placed there by person or persons unknown, for that purpose.

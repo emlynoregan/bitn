@@ -19,6 +19,7 @@ topics:
 - development
 - ore treatment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  There is another article from The Advertiser, but it is a general argument about modern mining developments and has little directly to say about Burra.  There is some speculation about developments for treating low-grade ores, which would be of relevance, but it is not very specific.

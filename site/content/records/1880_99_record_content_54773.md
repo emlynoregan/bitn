@@ -19,6 +19,7 @@ topics:
 - fundraising
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army Demonstration coinciding with the Burra Show was a great success.  There was a meeting at the Showgrounds followed by a well patronised tea.  The evening meeting was also well attended.  The demonstration realised about £22.  The Barracks were opened on 15 April 1885 and cost c. £700, most of which has been paid off.

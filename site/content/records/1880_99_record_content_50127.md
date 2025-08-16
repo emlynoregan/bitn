@@ -22,6 +22,7 @@ topics:
 - sports
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The United Friendly Societies’ Demonstration was very successful, followed by a concert in the Institute Hall.  The concert netted £16.  The principal event was the Sheffield Handicap over 135 yds in which the first prize of £12 went to A.J. Cooper.

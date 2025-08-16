@@ -22,6 +22,7 @@ topics:
 - tenders
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders are called for a creek crossing between Mr Bowman’s and Mr Gebhardt’s west of Black Water Holes.  33’ long by 15’ wide.

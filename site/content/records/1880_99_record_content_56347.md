@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Wednesday last at 8.20 a.m. a fire burnt about 400 acres of grass on Booborowie Station.  Stock and fences were saved.

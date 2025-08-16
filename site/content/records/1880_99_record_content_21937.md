@@ -20,6 +20,7 @@ topics:
 - liquidation
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Commercial Bank.  No options now remain but liquidation.  The directors claim to have been kept in the dark by management about facts relating to the debts of extensive squatting properties.

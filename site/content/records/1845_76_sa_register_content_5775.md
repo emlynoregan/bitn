@@ -20,6 +20,7 @@ topics:
 - mining
 - economics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Exports of Copper from SA in 1850.  (Valued at £75 per ton.)

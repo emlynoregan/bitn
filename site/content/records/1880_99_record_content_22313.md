@@ -22,6 +22,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Temperance.  A temperance meeting will be held Wednesday evening in the Institute at which the SA Alliance will advocate Total Abstinence and the Local Option.  Rev. D. O’Donnell & Mr E.H. Derrington will speak and there will be singing at intervals.

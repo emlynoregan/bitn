@@ -32,6 +32,7 @@ topics:
 - bridge
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Loan Meeting is reported at length. Some 200 ratepayers attended. 

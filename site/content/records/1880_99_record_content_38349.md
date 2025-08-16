@@ -18,6 +18,7 @@ topics:
 - technology
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The second test demonstrated the automatic stopping of the train in the event that a coupling should part when ascending a steep incline.  This was very impressive.  Several other tests followed and the complete efficiency of the system was astonishing to all.

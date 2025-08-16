@@ -21,6 +21,7 @@ topics:
 - injury
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Patrick Doherty broke his collar bone falling into the dangerous unfenced creek near the Courthouse Hotel at Redruth.

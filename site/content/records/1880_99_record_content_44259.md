@@ -19,6 +19,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church Annual District Meeting showed overall a small increase in the liabilities and a small decrease in membership due to numerous removals in the year.  The idea of a Methodist Union was supported.

@@ -24,6 +24,7 @@ topics:
 - fundraising
 - bazaar
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The annual vestry meeting reported the Sunday school had 100 scholars and 11 teachers.  There were 88 communicants.  This year the communicants were down by 8 and the scholars by 3, but since the Rev. Wayland came four years ago the scholars were up by 24 and communicants up by 20, and that in spite of the removal of 50 scholars and 53 communicants.  He estimated adherents at 320-350.

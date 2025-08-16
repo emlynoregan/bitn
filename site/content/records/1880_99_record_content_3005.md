@@ -21,6 +21,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  2nd annual match Burra v. East Adelaide on Monday 27 Dec. Boxing Day.  Played at Kooringa.  Burra 114 defeated East Adelaide 54 & 38 (92)

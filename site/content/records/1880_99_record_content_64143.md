@@ -23,6 +23,7 @@ topics:
 - school
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice had an unsatisfactory reply from the Commissioner of Public Works re painting certain rooms in the school and will write further to F.W. Holder on the matter.

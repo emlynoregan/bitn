@@ -18,6 +18,7 @@ topics:
 - politics
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to Editor re Federation and Centralisation saying that the latter is incompatible with true democracy – and don’t trust the lawyers who are advocating acceptance of the bill.

@@ -24,6 +24,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  House to let adjoining the Township of Redruth, occupied lately by R.H. Birt.

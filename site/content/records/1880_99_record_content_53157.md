@@ -21,6 +21,7 @@ topics:
 - property
 - agency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Possibly still owned by J. Dunstan Jun. as J. Dunstan Sen. of Mt Bryan East is cited as the agent.]

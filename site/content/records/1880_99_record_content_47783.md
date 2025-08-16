@@ -18,6 +18,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial: What shall we do with our votes? [i.e. at the coming general election.]

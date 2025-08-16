@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 While correcting other ‘Chemicus’ has denied the truthfulness of the petition signed by 250 inhabitants, including most of the tradesmen of the town.  The nearest building is the Institute and a measurement to Dr Maurau’s door will find me much closer to truth than ‘Chemicus’.  As to the ‘best road’, it may be good for foot traffic, but ask the mail driver if it is safe to turn a coach and four at the Telegraph Station.

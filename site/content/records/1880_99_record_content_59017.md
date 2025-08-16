@@ -26,6 +26,7 @@ topics:
 - advertisement
 - auctioneers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. Ltd	Auctioneers etc. Port Adelaide, Kooringa, Port Augusta, Kapunda, Jamestown, Broken Hill & London

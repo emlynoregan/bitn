@@ -18,6 +18,7 @@ topics:
 - gambling
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on A Modern Fool: Ernest Benzon, who lost £250,000 in two years.  ‘The Jubilee Plunger.’  He did it by gambling.
