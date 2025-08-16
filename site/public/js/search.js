@@ -18,6 +18,7 @@ class ArchiveSearch {
     
     async init() {
         try {
+            console.log('[search] init');
             // Wait for DOM to be ready
             if (document.readyState === 'loading') {
                 document.addEventListener('DOMContentLoaded', () => { console.log('[search] DOMContentLoaded'); this.setupSearch(); });
@@ -26,9 +27,17 @@ class ArchiveSearch {
                 this.setupSearch();
             }
             // Bind for PJAX (Swup) navigations: re-bind inputs only, keep index in memory
-            document.addEventListener('swup:contentReplaced', () => {
-                console.log('[search] swup:contentReplaced');
-                this.setupSearch();
+            const onSwup = () => { console.log('[search] swup nav event -> setupSearch'); this.setupSearch(); };
+            document.addEventListener('swup:contentReplaced', onSwup);
+            document.addEventListener('contentReplaced', onSwup);
+            document.addEventListener('content:replace', onSwup);
+            document.addEventListener('swup:page:view', onSwup);
+            window.addEventListener('popstate', onSwup);
+            // Fallback: delayed re-check after navigation
+            window.addEventListener('bitn-search-navigate', () => {
+                setTimeout(() => this.setupSearch(), 0);
+                setTimeout(() => this.setupSearch(), 120);
+                setTimeout(() => this.setupSearch(), 400);
             });
         } catch (error) {
             console.error('Search initialization failed:', error);
@@ -63,6 +72,7 @@ class ArchiveSearch {
                 if (loadingEl) loadingEl.style.display = 'none';
                 if (searchUiEl) searchUiEl.style.display = '';
                 this.isInitialized = true;
+                console.log('[search] showReady: UI ready, workerReady=', !!window.BITN_SEARCH_READY);
             };
             const showLoading = () => {
                 if (loadingEl) loadingEl.style.display = '';
@@ -76,6 +86,7 @@ class ArchiveSearch {
                 showLoading();
                 window.addEventListener('bitn-search-ready', () => {
                     this.worker = window.BITN_SEARCH_WORKER || null;
+                    console.log('[search] bitn-search-ready event received');
                     showReady();
                 }, { once: true });
             }
@@ -88,18 +99,30 @@ class ArchiveSearch {
             // If we're on the dedicated search page and have a query, run it immediately
             if (pageResultsEl) {
                 const params = new URLSearchParams(window.location.search);
-                const q = params.get('q');
+                let q = params.get('q');
+                // Fallback: if URL has no q (timing with PJAX), use current header input value
+                if ((!q || q.length === 0) && pageInput && pageInput.value) {
+                    q = pageInput.value;
+                }
+                console.log('[search] setupSearch on search page', { qParam: q, pageInputVal: pageInput ? pageInput.value : null, workerReady: !!window.BITN_SEARCH_READY });
                 if (q) {
                     if (pageInput) pageInput.value = q;
                     // Try immediately, then retry a few times if container not ready
                     const tryRun = (attempt = 0) => {
                         const containerReady = document.getElementById('search-page-results');
+                        console.log('[search] tryRun', { attempt, containerReady: !!containerReady });
                         if (containerReady) {
                             console.log('[search] triggering performSearch from setupSearch attempt', attempt, 'q', q);
-                            // Hide intro when we have a query
                             if (pageIntroEl) pageIntroEl.style.display = 'none';
-                            // no status element now
-                            this.performSearch(q);
+                            // If worker ready, search now; otherwise wait for ready event
+                            if (window.BITN_SEARCH_READY && window.BITN_SEARCH_WORKER) {
+                                this.performSearch(q);
+                                window.BITN_NAVIGATING_TO_SEARCH = false;
+                            } else {
+                                console.log('[search] worker not ready; waiting for bitn-search-ready');
+                                window.addEventListener('bitn-search-ready', () => { console.log('[search] bitn-search-ready -> performSearch'); this.performSearch(q); }, { once: true });
+                                window.addEventListener('bitn-search-ready', () => { window.BITN_NAVIGATING_TO_SEARCH = false; }, { once: true });
+                            }
                         } else if (attempt < 10) {
                             setTimeout(() => tryRun(attempt + 1), 50);
                         }
@@ -112,6 +135,7 @@ class ArchiveSearch {
                     // no status element now
                     if (pageResultsEl) pageResultsEl.innerHTML = '';
                     console.log('[search] no query: showing intro', { hasIntro: !!pageIntroEl });
+                    window.BITN_NAVIGATING_TO_SEARCH = false;
                 }
             }
             
@@ -164,6 +188,10 @@ class ArchiveSearch {
     setupEventListeners() {
         // Dedicated search page flow: submit on Enter or button click
         const submit = () => {
+            if (window.BITN_NAVIGATING_TO_SEARCH) {
+                console.log('[search] submit ignored: navigating flag set');
+                return;
+            }
             const query = (this.searchInput.value || '').trim();
             if (!query) return;
             const baseUrl = window.HUGO_BASE_URL || '';
@@ -185,8 +213,11 @@ class ArchiveSearch {
             }
             // Otherwise, navigate to search page (PJAX if available)
             console.log('[search] submit navigate', { url, hasSwup: !!window.__swupInstance });
+            window.BITN_NAVIGATING_TO_SEARCH = true;
+            try { this.searchInput.blur(); } catch (_) {}
             if (window.__swupInstance && typeof window.__swupInstance.navigate === 'function') {
                 window.__swupInstance.navigate(url);
+                try { window.dispatchEvent(new Event('bitn-search-navigate')); } catch (_) {}
             } else {
                 window.location.href = url;
             }
