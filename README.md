@@ -323,6 +323,6 @@ For questions about this digital archive or the original research, please:
 
 ## 🔐 Security and API Keys
 
-- Do not commit API keys. The project's `.gitignore` excludes `config.json` globally, which covers `scripts/config.json`.
-- Keep API keys only in local, ignored files (or environment variables).
+- Do not commit API keys.
+- `.gitignore` explicitly ignores `config.json` at the repo root, which covers `scripts/config.json` usage. Keep your local key in `scripts/config.json` (ignored) or use environment variables.
 - If a key was ever committed previously, rotate it.
