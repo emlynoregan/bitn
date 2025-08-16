@@ -18,12 +18,14 @@ class ArchiveSearch {
         try {
             // Wait for DOM to be ready
             if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', () => this.setupSearch());
+                document.addEventListener('DOMContentLoaded', () => { console.log('[search] DOMContentLoaded'); this.setupSearch(); });
             } else {
+                console.log('[search] DOM already ready');
                 this.setupSearch();
             }
             // Bind for PJAX (Swup) navigations: re-bind inputs only, keep index in memory
             document.addEventListener('swup:contentReplaced', () => {
+                console.log('[search] swup:contentReplaced');
                 this.setupSearch();
             });
         } catch (error) {
@@ -39,6 +41,16 @@ class ArchiveSearch {
         const loadingEl = document.getElementById('search-loading');
         const searchUiEl = document.getElementById('search-ui');
         const pageResultsEl = document.getElementById('search-page-results');
+        const pageIntroEl = document.getElementById('search-intro');
+        const pageStatusEl = document.getElementById('search-status');
+        const mainContainer = document.getElementById('swup');
+        const pageInput = mainContainer ? mainContainer.querySelector('#search-input') : null;
+        console.log('[search] setupSearch elements', {
+            hasInput: !!this.searchInput,
+            hasDropdown: !!this.searchResults,
+            hasPageResults: !!pageResultsEl,
+            hasPageInput: !!pageInput
+        });
         
         if (!this.searchInput) return;
         
@@ -70,7 +82,22 @@ class ArchiveSearch {
                 const params = new URLSearchParams(window.location.search);
                 const q = params.get('q');
                 if (q) {
-                    this.performSearch(q);
+                    if (pageInput) pageInput.value = q;
+                    // Try immediately, then retry a few times if container not ready
+                    const tryRun = (attempt = 0) => {
+                        const containerReady = document.getElementById('search-page-results');
+                        if (containerReady) {
+                            console.log('[search] triggering performSearch from setupSearch attempt', attempt, 'q', q);
+                            // Hide intro when we have a query
+                            if (pageIntroEl) pageIntroEl.style.display = 'none';
+                            if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; }
+                            this.performSearch(q);
+                            if (pageStatusEl) pageStatusEl.style.display = 'none';
+                        } else if (attempt < 10) {
+                            setTimeout(() => tryRun(attempt + 1), 50);
+                        }
+                    };
+                    tryRun();
                 }
             }
             
@@ -82,16 +109,18 @@ class ArchiveSearch {
     
     async loadSearchData() {
         try {
-            // Use the base URL from Hugo if available, otherwise fall back to relative path
-            const baseUrl = window.HUGO_BASE_URL || '';
-            const searchDataUrl = baseUrl.endsWith('/') ? baseUrl + 'js/search-data.json' : baseUrl + '/js/search-data.json';
+            // Build path prefix from current location to support local dev under subpaths (e.g. /bitn/)
+            const segments = window.location.pathname.split('/').filter(Boolean);
+            const prefix = segments.length > 0 ? `/${segments[0]}/` : '/';
+            const searchDataUrl = `${prefix}js/search-data.json`;
+            console.log('[search] fetching', searchDataUrl, 'prefix', prefix, 'path', window.location.pathname);
             
             const response = await fetch(searchDataUrl);
             if (!response.ok) {
                 throw new Error(`HTTP ${response.status}: ${response.statusText}`);
             }
             this.documents = await response.json();
-            console.log(`Loaded ${this.documents.length} documents for search`);
+            console.log('[search] loaded documents:', this.documents.length);
         } catch (error) {
             console.error('Failed to load search data:', error);
             throw error;
@@ -127,6 +156,22 @@ class ArchiveSearch {
             const searchPath = 'search/?q=' + encodeURIComponent(query);
             const sep = baseUrl.endsWith('/') ? '' : '/';
             const url = baseUrl ? (baseUrl + sep + searchPath) : '/' + searchPath;
+            const pageContainer = document.getElementById('search-page-results');
+            // If already on the search page, run in-place: update URL and perform search
+            if (pageContainer) {
+                console.log('[search] submit in-place on search page', { url, query });
+                try {
+                    window.history.pushState({}, '', url);
+                } catch (_) {}
+                const pageIntroEl = document.getElementById('search-intro');
+                const pageStatusEl = document.getElementById('search-status');
+                if (pageIntroEl) pageIntroEl.style.display = 'none';
+                if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; }
+                this.performSearch(query);
+                return;
+            }
+            // Otherwise, navigate to search page (PJAX if available)
+            console.log('[search] submit navigate', { url, hasSwup: !!window.__swupInstance });
             if (window.__swupInstance && typeof window.__swupInstance.navigate === 'function') {
                 window.__swupInstance.navigate(url);
             } else {
@@ -165,6 +210,7 @@ class ArchiveSearch {
         }
         
         const trimmedQuery = query.trim();
+        console.log('[search] performSearch', trimmedQuery);
         
         if (trimmedQuery.length < 2) {
             const pageContainer = document.getElementById('search-page-results');
@@ -173,8 +219,14 @@ class ArchiveSearch {
         }
         
         try {
+            // Show status on search page and hide intro if present
+            const pageStatusEl = document.getElementById('search-status');
+            const pageIntroEl = document.getElementById('search-intro');
+            if (pageIntroEl) pageIntroEl.style.display = 'none';
+            if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; }
             // Perform search
             const results = this.index.search(trimmedQuery);
+            console.log('[search] results', results.length);
             
             // Get full document data for results
             const searchResults = results.map(result => {
@@ -188,14 +240,22 @@ class ArchiveSearch {
             const pageContainer = document.getElementById('search-page-results');
             if (pageContainer) {
                 this.renderPageResults(pageContainer, searchResults, trimmedQuery);
+                if (pageStatusEl) pageStatusEl.style.display = 'none';
             } else {
                 // Fallback: dropdown (legacy behavior if needed)
                 this.displayResults(searchResults, trimmedQuery);
             }
             
         } catch (error) {
-            console.error('Search failed:', error);
-            this.showError('Search failed. Please try again.');
+            console.error('[search] Search failed:', error);
+            const pageContainer = document.getElementById('search-page-results');
+            const pageStatusEl = document.getElementById('search-status');
+            if (pageStatusEl) pageStatusEl.style.display = 'none';
+            if (pageContainer) {
+                pageContainer.innerHTML = '<p class="text-red-600">Search failed. Please try again.</p>';
+            } else {
+                this.showError('Search failed. Please try again.');
+            }
         }
     }
     
@@ -328,6 +388,47 @@ class ArchiveSearch {
         const selectedItem = this.searchResults.querySelector('.search-result-item.bg-gray-50');
         if (selectedItem) {
             selectedItem.click();
+        }
+    }
+    
+    // Render results onto the dedicated search page container
+    renderPageResults(container, results, query) {
+        try {
+            if (!container) return;
+            const pageStatusEl = document.getElementById('search-status');
+            if (pageStatusEl) pageStatusEl.style.display = 'none';
+            if (!results || results.length === 0) {
+                container.innerHTML = `<p class="text-gray-500">No results match your search.</p>`;
+                return;
+            }
+            container.innerHTML = results.map(r => `
+                <div class="p-4 bg-white rounded-lg shadow border border-gray-200">
+                    <a class="block" data-url="${r.url}">
+                        <h4 class="font-semibold text-gray-800 mb-1">${this.highlightMatches(r.title, query)}</h4>
+                        <p class="text-sm text-amber-600 mb-2">${(r.type||'').toString()} ${r.date ? ('• ' + r.date) : ''}</p>
+                        <p class="text-sm text-gray-600">${this.highlightMatches(this.truncateContent(r.content), query)}</p>
+                    </a>
+                </div>
+            `).join('');
+            // Navigation: prefer PJAX/Swup
+            container.querySelectorAll('a[data-url]').forEach(a => {
+                a.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const url = a.getAttribute('data-url');
+                    if (!url) return;
+                    const baseUrl = window.HUGO_BASE_URL || '';
+                    const sep = baseUrl.endsWith('/') ? '' : '/';
+                    const path = url.startsWith('/') ? url.substring(1) : url;
+                    const navigateUrl = baseUrl ? (baseUrl + sep + path) : url;
+                    if (window.__swupInstance && typeof window.__swupInstance.navigate === 'function') {
+                        window.__swupInstance.navigate(navigateUrl);
+                    } else {
+                        window.location.href = navigateUrl;
+                    }
+                });
+            });
+        } catch (err) {
+            console.error('[search] renderPageResults failed', err);
         }
     }
     

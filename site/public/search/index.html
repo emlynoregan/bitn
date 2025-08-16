@@ -32,6 +32,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
     
     
+    <link rel="prefetch" href="http://localhost:1313/bitn/js/lunr.min.js" as="script">
+    <link rel="prefetch" href="http://localhost:1313/bitn/js/search-data.json" as="fetch" crossorigin>
+
+    
     <link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/bitn/search/index.xml">
     
     <script type="application/ld+json">
@@ -121,7 +125,13 @@
         
         
         
+        
         <div class="mt-6 flex justify-center">
+            <div id="search-loading" class="text-gray-600 text-sm">Loading search index…</div>
+        </div>
+
+        
+        <div id="search-ui" class="mt-2 flex justify-center" style="display:none;">
             <div class="relative w-full max-w-md">
                 <input type="search" 
                        id="search-input" 
@@ -145,7 +155,7 @@
 </header>
     
     
-    <main role="main" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7;">
+    <main id="swup" role="main" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7;">
         
 <div class="container mx-auto px-4 py-8">
     
@@ -160,27 +170,7 @@
     
     <div class="max-w-4xl mx-auto">
         
-        <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
-            <div class="relative">
-                <input type="search" 
-                       id="search-input" 
-                       placeholder="Search the archive... (e.g., 'mining', 'Burra Broadcaster', '1870')"
-                       class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent"
-                       autocomplete="off">
-                <button type="button" 
-                        id="search-button"
-                        class="absolute right-4 top-4 text-gray-400 hover:text-gray-600">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-                    </svg>
-                </button>
-            </div>
-            
-            
-            <div id="search-results" class="mt-4 bg-white border border-gray-300 rounded-lg shadow-lg hidden max-h-96 overflow-y-auto">
-                
-            </div>
-        </div>
+        <div id="search-page-results" class="mt-6 space-y-4"></div>
         
         
         <div class="bg-amber-50 rounded-lg p-6 mb-8">
@@ -239,43 +229,7 @@
 </div>
 
 
-<div id="search-status" class="fixed bottom-4 right-4 hidden">
-    <div class="bg-white rounded-lg shadow-lg p-3 border border-gray-200">
-        <div class="flex items-center space-x-2">
-            <div class="loading"></div>
-            <span class="text-sm text-gray-600">Searching...</span>
-        </div>
-    </div>
-</div>
-
-<script>
-
-document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('search-input');
-    
-    
-    if (searchInput) {
-        searchInput.focus();
-        
-        
-        searchInput.addEventListener('input', function() {
-            const results = document.getElementById('search-results');
-            if (this.value.trim().length >= 2) {
-                results.classList.remove('hidden');
-            }
-        });
-    }
-    
-    
-    const urlParams = new URLSearchParams(window.location.search);
-    const query = urlParams.get('q');
-    if (query && searchInput) {
-        searchInput.value = query;
-        
-        searchInput.dispatchEvent(new Event('input'));
-    }
-});
-</script>
+<div id="search-status" class="fixed bottom-4 right-4 hidden"></div>
 
     </main>
     
@@ -389,6 +343,20 @@ document.addEventListener('DOMContentLoaded', function() {
         <script src="http://localhost:1313/bitn/js/lunr.min.js"></script>
         <script src="http://localhost:1313/bitn/js/search.js"></script>
     
+
+    
+    <script src="https://unpkg.com/swup@4"></script>
+    <script>
+        (function(){
+            try {
+                if (!window.__swupInstance) {
+                    window.__swupInstance = new Swup({ containers: ['#swup'] });
+                }
+            } catch (e) {
+                console && console.warn && console.warn('Swup init failed:', e);
+            }
+        })();
+    </script>
     
     
     
