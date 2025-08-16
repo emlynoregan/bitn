@@ -37,55 +37,6 @@
       <description></description>
     </item>
     <item>
-      <title>2000s</title>
-      <link>http://localhost:1313/bitn/tags/2000s/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/2000s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Burra-Broadcaster</title>
-      <link>http://localhost:1313/bitn/tags/burra-broadcaster/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/burra-broadcaster/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Decade-2000s</title>
-      <link>http://localhost:1313/bitn/tags/decade-2000s/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/decade-2000s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Period-2006-2013</title>
-      <link>http://localhost:1313/bitn/tags/period-2006-2013/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/period-2006-2013/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1990s</title>
-      <link>http://localhost:1313/bitn/tags/1990s/</link>
-      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/1990s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Decade-1990s</title>
-      <link>http://localhost:1313/bitn/tags/decade-1990s/</link>
-      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/decade-1990s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Period-1991-2016</title>
-      <link>http://localhost:1313/bitn/tags/period-1991-2016/</link>
-      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/period-1991-2016/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>1980s</title>
       <link>http://localhost:1313/bitn/tags/1980s/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
@@ -202,6 +153,20 @@
       <link>http://localhost:1313/bitn/tags/1930s/</link>
       <pubDate>Thu, 01 Jan 1920 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bitn/tags/1930s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1990s</title>
+      <link>http://localhost:1313/bitn/tags/1990s/</link>
+      <pubDate>Thu, 01 Jan 1920 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitn/tags/1990s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2000s</title>
+      <link>http://localhost:1313/bitn/tags/2000s/</link>
+      <pubDate>Thu, 01 Jan 1920 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitn/tags/2000s/</guid>
       <description></description>
     </item>
     <item>
@@ -338,24 +303,10 @@
       <description></description>
     </item>
     <item>
-      <title>Period-1845-1976</title>
-      <link>http://localhost:1313/bitn/tags/period-1845-1976/</link>
-      <pubDate>Wed, 01 Jan 1845 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/period-1845-1976/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Period-1845-2016</title>
       <link>http://localhost:1313/bitn/tags/period-1845-2016/</link>
       <pubDate>Wed, 01 Jan 1845 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bitn/tags/period-1845-2016/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sa-Register</title>
-      <link>http://localhost:1313/bitn/tags/sa-register/</link>
-      <pubDate>Wed, 01 Jan 1845 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bitn/tags/sa-register/</guid>
       <description></description>
     </item>
   </channel>

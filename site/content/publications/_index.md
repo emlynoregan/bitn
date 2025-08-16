@@ -1,8 +1,7 @@
 ---
-title: "Browse by Publication"
+title: "Publications"
 ---
 
-# Browse by Publication
-
-Explore the archive organized by newspaper and publication. Each publication represents a different perspective and time period in Burra's history.
-
+<div class="container mx-auto px-4 py-8">
+  <!-- Content now rendered by theme as cards -->
+</div>

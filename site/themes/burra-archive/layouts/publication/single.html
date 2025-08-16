@@ -19,30 +19,21 @@
             <div>
                 <h1 class="text-4xl font-serif font-bold text-gray-800 mb-4">{{ .Title }}</h1>
                 <div class="flex flex-wrap items-center gap-4 text-gray-700 mb-4">
+                    {{ if .Params.date_range }}
                     <div class="flex items-center">
                         <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
                         </svg>
                         <span class="font-medium">{{ .Params.date_range }}</span>
                     </div>
-                    <div class="flex items-center">
-                        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                        </svg>
-                        <span>{{ .Params.document_count }} Documents</span>
-                    </div>
-                    <div class="flex items-center">
-                        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
-                        </svg>
-                        <span>{{ .Params.total_paragraphs | humanize }} Paragraphs</span>
-                    </div>
+                    {{ end }}
                 </div>
             </div>
             
             <!-- Era badge -->
             <div class="md:text-right">
-                {{ $startYear := (split .Params.date_range "-") | first | int }}
+                {{ $range := replace (.Params.date_range | default "") "–" "-" }}
+                {{ $startYear := index (split $range "-") 0 | int }}
                 {{ if lt $startYear 1880 }}
                     <span class="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium">
                         Mining Era (1845-1877)
@@ -67,86 +58,15 @@
     </div>
     {{ end }}
 
-    <!-- Documents list -->
-    <section>
-        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-6">Documents in this Publication</h2>
-        
-        {{ $publicationPages := where .Site.RegularPages "Params.publication" .Params.publication }}
-        {{ if $publicationPages }}
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {{ range $publicationPages.ByParam "start_year" }}
-            <div class="bg-white rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition-shadow archive-card">
-                <div class="p-6">
-                    <!-- Document header -->
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">
-                        <a href="{{ .Permalink }}" class="hover:text-amber-600">
-                            {{ .Title }}
-                        </a>
-                    </h3>
-                    
-                    <!-- Document metadata -->
-                    <div class="space-y-2 mb-4">
-                        <div class="flex items-center text-sm text-gray-600">
-                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                            </svg>
-                            <span>
-                                {{ if and .Params.start_year .Params.end_year }}
-                                    {{ .Params.start_year }}{{ if ne .Params.start_year .Params.end_year }}-{{ .Params.end_year }}{{ end }}
-                                {{ else }}
-                                    {{ .Date.Format "2006" }}
-                                {{ end }}
-                            </span>
-                        </div>
-                        
-                        <div class="flex items-center text-sm text-gray-600">
-                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                            </svg>
-                            <span>{{ .Params.paragraph_count | default 0 }} paragraphs</span>
-                        </div>
-                        
-                        {{ if .Params.extraction_method }}
-                        <div class="flex items-center text-sm text-gray-500">
-                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                            </svg>
-                            <span class="text-xs">{{ .Params.extraction_method }}</span>
-                        </div>
-                        {{ end }}
-                    </div>
-                    
-                    <!-- Document preview -->
-                    {{ if .Summary }}
-                    <p class="text-sm text-gray-600 mb-4 line-clamp-3">{{ .Summary | truncate 120 }}</p>
-                    {{ end }}
-                    
-                    <!-- Read button -->
-                    <div class="flex justify-between items-center">
-                        <a href="{{ .Permalink }}" 
-                           class="inline-flex items-center text-amber-600 hover:text-amber-700 font-medium text-sm">
-                            Read Document
-                            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-                            </svg>
-                        </a>
-                        
-                        <!-- Period indicator -->
-                        {{ if .Params.start_year }}
-                            {{ $decade := div .Params.start_year 10 | mul 10 }}
-                            <span class="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded">{{ $decade }}s</span>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-            {{ end }}
-        </div>
-        {{ else }}
-        <div class="text-center py-12">
-            <p class="text-gray-500 text-lg">No documents found for this publication.</p>
-        </div>
-        {{ end }}
-    </section>
+    <!-- Download link -->
+    {{ if .Params.download_file }}
+    <div class="mb-12">
+        <a href="/downloads/markdown/{{ .Params.download_file }}" class="inline-flex items-center bg-amber-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-amber-700 transition-colors">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4"/></svg>
+            Download source (Markdown)
+        </a>
+    </div>
+    {{ end }}
 
     <!-- Back to publications -->
     <div class="mt-12 text-center">

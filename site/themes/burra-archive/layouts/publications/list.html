@@ -2,110 +2,51 @@
 
 {{ define "main" }}
 <div class="container mx-auto px-4 py-8">
-    <!-- Page header -->
-    <div class="text-center mb-12">
-        <h1 class="text-4xl font-serif font-bold text-gray-800 mb-4">{{ .Title }}</h1>
-        <p class="text-lg text-gray-600 max-w-3xl mx-auto">
-            {{ .Content }}
-        </p>
-    </div>
+    <h1 class="text-4xl font-serif font-bold text-gray-800 mb-8 text-center">{{ .Title }}</h1>
+    <p class="text-center text-gray-700 mb-10">Download the original compiled source documents (Markdown) for each publication.</p>
 
-    <!-- Publications grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-        {{ range .Pages }}
-        {{ if eq .Type "publication" }}
-        <div class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200 archive-card">
-            <div class="p-6">
-                <!-- Publication header -->
-                <div class="flex items-start justify-between mb-4">
-                    <h3 class="text-xl font-serif font-bold text-gray-800">
-                        <a href="{{ .Permalink }}" class="hover:text-amber-600">{{ .Title }}</a>
-                    </h3>
-                    <span class="inline-block bg-amber-100 text-amber-800 text-xs px-2 py-1 rounded">
-                        {{ .Params.date_range }}
-                    </span>
-                </div>
-                
-                <!-- Publication stats -->
-                <div class="space-y-2 mb-4">
-                    <div class="flex items-center text-sm text-gray-600">
-                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                        </svg>
-                        <span>{{ .Params.document_count }} documents</span>
-                    </div>
-                    
-                    <div class="flex items-center text-sm text-gray-600">
-                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
-                        </svg>
-                        <span>{{ .Params.total_paragraphs | default 0 | humanize }} paragraphs</span>
-                    </div>
-                    
-                    <div class="flex items-center text-sm text-gray-600">
-                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                        </svg>
-                        <span>{{ .Params.date_range }}</span>
-                    </div>
-                </div>
-                
-                <!-- Publication description -->
-                {{ if .Summary }}
-                <p class="text-sm text-gray-600 mb-4">{{ .Summary }}</p>
-                {{ end }}
-                
-                <!-- Browse button -->
-                <div class="flex justify-between items-center">
-                    <a href="{{ .Permalink }}" 
-                       class="inline-flex items-center text-amber-600 hover:text-amber-700 font-medium text-sm">
-                        Browse Documents
-                        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-                        </svg>
-                    </a>
-                    
-                    <!-- Era indicator -->
-                    {{ $startYear := index (split .Params.date_range "-") 0 | int }}
-                    {{ if lt $startYear 1880 }}
-                        <span class="text-xs text-blue-600 bg-blue-50 px-2 py-1 rounded">Mining Era</span>
-                    {{ else if lt $startYear 1950 }}
-                        <span class="text-xs text-green-600 bg-green-50 px-2 py-1 rounded">Agricultural Era</span>
-                    {{ else }}
-                        <span class="text-xs text-purple-600 bg-purple-50 px-2 py-1 rounded">Modern Era</span>
-                    {{ end }}
-                </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ $base := "/downloads/markdown/" }}
+        {{ $items := .Site.Data.publications }}
+        {{ if not $items }}
+            {{ $items = slice 
+                (dict "title" "SA Register" "years" "1845–1876" "file" "1845-76_SA_Register.md" "slug" "sa-register" "description" "Adelaide-based reporting on Burra before a local press existed—copper discoveries, SA Mining Association, land sales, and early civic development. Compiled from Ian Auhl’s notes (613 pages).")
+                (dict "title" "Record" "years" "1876–1879" "file" "1876-79_Record.md" "slug" "record-1876-79" "description" "Founding years of Burra’s local newspaper through several name changes. Rich in adverts and town life; mining, rail expansion, council politics, churches and clubs.")
+                (dict "title" "Record" "years" "1880–1899" "file" "1880-99_Record.md" "slug" "record-1880-99" "description" "Late‑Victorian Burra: railway growth, mining cycles, agriculture, local businesses; births/deaths and civic improvements with frequent commentary on prosperity and infrastructure.")
+                (dict "title" "Record" "years" "1900–1919" "file" "1900-1919_Record.md" "slug" "record-1900-1919" "description" "Federation to WWI—Boer War patriotism, schools, council, Friendly Societies, sport, and early electricity/technology; intense community activity during wartime.")
+                (dict "title" "Record" "years" "1920–1939" "file" "1920-39_Record.md" "slug" "record-1920-39" "description" "Inter‑war decades—motoring, cinemas, clubs, commerce; rainfall and farming reports; extensive local advertising and social notes.")
+                (dict "title" "Record" "years" "1940–1959" "file" "1940-59_Record.md" "slug" "record-1940-59" "description" "WWII and post‑war years—Red Cross and service groups, school results, sport, returning soldiers, retail and building trades, gradual modernisation.")
+                (dict "title" "Record" "years" "1960–Part 77 (to 1977)" "file" "1960-Part_77_Record.md" "slug" "record-1960-part77" "description" "1960–1977: community notices, retail ads, roads, hospitals, schools—everyday life snapshots leading up to the end of the Record.")
+                (dict "title" "BCS & Community News" "years" "1978–1993" "file" "1978-1993_BCS__CN.md" "slug" "bcs-cn" "description" "School‑anchored community paper that filled the post‑Record gap; heavy on school, youth, clubs and local events, gradually broadening into town coverage.")
+                (dict "title" "Northern Argus" "years" "1985–1987" "file" "1985-87_Northern__Argus.md" "slug" "northern-argus" "description" "Regional paper’s Burra items—heritage debates (Copper Interpretation Centre), fires, obituaries, marriages, council and community happenings.")
+                (dict "title" "Burra Broadcaster" "years" "1991–2016" "file" "1991-2016_Burra_Broadcaster.md" "slug" "burra-broadcaster" "description" "Begins as an ad‑heavy circular; grows into a local paper. Early 1990s have gaps; later 2013–2016 revival includes online/print issues with colour.")
+                (dict "title" "Mid North Broadcaster" "years" "2006–2013" "file" "2006-13_MidNorthBroadcaster.md" "slug" "mid-north-broadcaster" "description" "Regional successor after acquisition; broader Mid‑North focus with colour/features—schools, sport, weather events, and council works.")
+                (dict "title" "Review Times Record" "years" "1977–1978" "file" "Review_Times_Record.md" "slug" "review-times-record" "description" "Immediate post‑Record bridge—club results, show society, council items, sport, and community projects in a transitional period.")
+                (dict "title" "Compiler’s Note" "years" "2015" "file" "Compiler_s_Note_2015.md" "slug" "compilers-note" "description" "Eric’s overview of scope and gaps; cautions on interpretation; page counts per source and notes on methodology.")
+                (dict "title" "Eric’s Research Notes" "years" "Summary" "file" "Eric_s_Research_-_pages_notesx.md" "slug" "erics-research-notes" "description" "Compact tally of page counts by source (~9,168 pages; ~18 reams). Useful for scale/context across the collection.")
+            }}
+        {{ end }}
+        {{ range $items }}
+        <div class="bg-white rounded-lg shadow border border-gray-200 p-6">
+            <div class="flex items-baseline justify-between mb-2">
+                <h2 class="text-xl font-serif font-semibold text-gray-900">{{ .title }}</h2>
+                <span class="text-sm text-gray-500">{{ .years }}</span>
+            </div>
+            <p class="text-gray-700 text-sm mb-4">{{ .description }}</p>
+            <div class="flex items-center justify-between">
+                <a class="inline-flex items-center text-amber-700 hover:text-amber-800 font-medium" href="{{ $base }}{{ .file }}">
+                    Download (Markdown)
+                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4"/></svg>
+                </a>
+                {{ $slug := .slug }}
+                {{ if not $slug }}{{ $slug = (urlize .title) }}{{ end }}
+                <a class="inline-flex items-center text-gray-700 hover:text-gray-900" href="/publications/{{ $slug }}/">
+                    View Page
+                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+                </a>
             </div>
         </div>
         {{ end }}
-        {{ end }}
     </div>
-
-    <!-- Archive overview -->
-    <section class="bg-gradient-to-r from-amber-50 to-amber-100 rounded-lg p-8 text-center">
-        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">Complete Archive Overview</h2>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-2xl mx-auto">
-            <div>
-                <div class="text-3xl font-bold text-amber-600">{{ .Site.Params.totalDocuments }}</div>
-                <div class="text-sm text-gray-700">Documents</div>
-            </div>
-            <div>
-                <div class="text-3xl font-bold text-amber-600">{{ len .Pages }}</div>
-                <div class="text-sm text-gray-700">Publications</div>
-            </div>
-            <div>
-                <div class="text-3xl font-bold text-amber-600">171</div>
-                <div class="text-sm text-gray-700">Years Covered</div>
-            </div>
-            <div>
-                <div class="text-3xl font-bold text-amber-600">190K+</div>
-                <div class="text-sm text-gray-700">Paragraphs</div>
-            </div>
-        </div>
-        <p class="mt-6 text-gray-700 max-w-2xl mx-auto">
-            This comprehensive collection represents one of the most extensive digital archives 
-            of regional Australian newspaper coverage, meticulously compiled by {{ .Site.Params.compiler }}.
-        </p>
-    </section>
 </div>
 {{ end }}

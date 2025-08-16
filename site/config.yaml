@@ -28,7 +28,7 @@ menu:
     - name: 'Home'
       url: '/'
       weight: 10
-    - name: 'Browse by Publication'
+    - name: 'Publications'
       url: '/publications/'
       weight: 20
     - name: 'Search'

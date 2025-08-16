@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/bitn/tags/2010s/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bitn/publications/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/bitn/publications/unknown-publication/compiler_s-note-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,38 +17,14 @@
     <loc>http://localhost:1313/bitn/tags/period-2015-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/bitn/publications/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/bitn/tags/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bitn/tags/unknown-publication/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/2000s/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/publications/burra-broadcaster/2006-13-midnorthbroadcaster/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/burra-broadcaster/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/decade-2000s/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/period-2006-2013/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/1990s/</loc>
-    <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/publications/burra-broadcaster/1991-2016-burra-broadcaster/</loc>
-    <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/decade-1990s/</loc>
-    <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/period-1991-2016/</loc>
-    <lastmod>1991-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bitn/records/northern_argus_3323/</loc>
     <lastmod>1987-12-23T00:00:00+00:00</lastmod>
@@ -5826,6 +5799,12 @@
     <lastmod>1920-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bitn/tags/1930s/</loc>
+    <lastmod>1920-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bitn/tags/1990s/</loc>
+    <lastmod>1920-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bitn/tags/2000s/</loc>
     <lastmod>1920-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bitn/tags/2020s/</loc>
@@ -86708,9 +86687,6 @@
     <loc>http://localhost:1313/bitn/tags/1840s/</loc>
     <lastmod>1845-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bitn/publications/sa-register/1845-76-sa-register/</loc>
-    <lastmod>1845-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/bitn/tags/1850s/</loc>
     <lastmod>1845-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -86723,16 +86699,10 @@
     <loc>http://localhost:1313/bitn/publications/unknown-publication/eric_s-research-pages-notes/</loc>
     <lastmod>1845-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bitn/tags/period-1845-1976/</loc>
-    <lastmod>1845-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/bitn/tags/period-1845-2016/</loc>
     <lastmod>1845-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bitn/publications/record/review-times-record/</loc>
-    <lastmod>1845-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bitn/tags/sa-register/</loc>
     <lastmod>1845-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1876_79_record_content_517/</loc>
@@ -86829,6 +86799,8 @@
   </url><url>
     <loc>http://localhost:1313/bitn/publications/bcs/</loc>
   </url><url>
+    <loc>http://localhost:1313/bitn/publications/bcs-cn/</loc>
+  </url><url>
     <loc>http://localhost:1313/bitn/records/1876_79_record_content_473/</loc>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1880_99_record_content_11689/</loc>
@@ -86913,6 +86885,8 @@
   </url><url>
     <loc>http://localhost:1313/bitn/records/1880_99_record_content_11701/</loc>
   </url><url>
+    <loc>http://localhost:1313/bitn/publications/mid-north-broadcaster/</loc>
+  </url><url>
     <loc>http://localhost:1313/bitn/records/1880_99_record_content_8889/</loc>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1876_79_record_content_543/</loc>
@@ -86924,6 +86898,8 @@
     <loc>http://localhost:1313/bitn/records/1880_99_record_content_8907/</loc>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1845_76_sa_register_content_24856/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/northern-argus/</loc>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1845_76_sa_register_content_24862/</loc>
   </url><url>
@@ -86941,9 +86917,23 @@
   </url><url>
     <loc>http://localhost:1313/bitn/publications/record/</loc>
   </url><url>
+    <loc>http://localhost:1313/bitn/publications/record-1876-79/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/record-1880-99/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/record-1900-1919/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/record-1920-39/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/record-1940-59/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/record-1960-part77/</loc>
+  </url><url>
     <loc>http://localhost:1313/bitn/records/1876_79_record_content_5463/</loc>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1876_79_record_content_525/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitn/publications/review-times-record/</loc>
   </url><url>
     <loc>http://localhost:1313/bitn/records/1880_99_record_content_11757/</loc>
   </url><url>
