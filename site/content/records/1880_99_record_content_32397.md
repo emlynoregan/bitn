@@ -27,6 +27,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  Burra played Mt Crawford on Wednesday on the Old Adelaide Racecourse.  Burra won 3 to 2

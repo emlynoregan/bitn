@@ -21,6 +21,7 @@ topics:
 - weather
 - snow
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Golf.  Many women golfers endured atrocious weather last week at Burra to participate in the Bronze Salver Competition.  One returned to the clubhouse saying she had endured sun, the rain, the wind, the hail and the snow.

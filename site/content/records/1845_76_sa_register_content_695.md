@@ -20,6 +20,7 @@ topics:
 - population
 - occupation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Abstract of Census Returns, released 15 April 1846

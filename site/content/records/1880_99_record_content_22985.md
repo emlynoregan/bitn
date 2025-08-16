@@ -21,6 +21,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson and others call for a public meeting to consider ‘the Inspectorship & Other Important Matters’.  D. Spencer Packard, Mayor, consequently calls a meeting for Thursday 12 August at 7.30 p.m. in the Institute.

@@ -19,6 +19,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Football Concert on Easter Monday saw the Burra Band playing in front of the Institute.  The following ball went on until early morning.  They raised about £6 for the football club.

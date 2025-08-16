@@ -24,6 +24,7 @@ topics:
 - community
 - arbor day
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  In the year 549 were planted: 52 in East Ward, 41 in North Ward and 426 in No. 2 Reserve at Redruth.  The trees and carriage cost £12-3-5 while other costs brought the total to £47-5-10.

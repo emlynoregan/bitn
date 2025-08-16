@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  J. Varley SM, former Stipendiary Magistrate of this district has died in Victoria on Wednesday last after a long illness.

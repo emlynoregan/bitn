@@ -20,6 +20,7 @@ topics:
 - fundraising
 - organisations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Band of Hope gave a successful entertainment at the Primitive Methodist Schoolroom on Tuesday evening to a crowded room.  The noisy demonstration of a few larrikins was all that marred the event.  We believe the organisers of the Band of Hope have other important engagements and are about to withdraw.  We hope others will take their place or this important organisation will collapse.  Proceeds £3-5-6.

@@ -20,6 +20,7 @@ topics:
 - procedure
 - by-law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Watt called for a ruling on whether the motion was in order under Standing Order 94.  The Mayor ruled that without a by-law it was not legal and a meeting of ratepayers should be called to find their views.

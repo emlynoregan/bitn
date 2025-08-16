@@ -19,6 +19,7 @@ topics:
 - banquet
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Public Banquet is proposed for the retiring MP, Mr Rounsevell, at the Institute on 9 December.

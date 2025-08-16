@@ -21,6 +21,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Federation Fair will be held on 2 September in the Institute to raise money to reduce the debt on the church and parsonage.

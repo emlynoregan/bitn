@@ -19,6 +19,7 @@ topics:
 - public health
 - innovation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial in praise of Mr Matthew’s new earth closet.

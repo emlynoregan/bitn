@@ -42,6 +42,7 @@ topics:
 - obituary
 - biography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr John Pearce died in his residence in Chapel St last Friday [28 May aged 94].  He was born at Torrenton in North Devon in 1803 and arrived in SA in the Santiphore on 16 October 1848.  He was a mason by trade and worked for Mr Shepherd and later at Mintaro.  After a trip to the Bendigo goldfields he returned to take up farming at Gum Creek 33 years ago.  About 19 years ago he sold the farm and took land at Baldina.  He retired 15 years ago.  He leaves four sons: John (H. of Pirie), Henry (Mt Bryan Flat), Samuel (Leighton), Richard (Burra), of whom all but Richard are married.  Mrs Tickle, late of Yongala is his eldest daughter and mother of Mrs E.W. Crewes of Kooringa.  Ann and Emma are unmarried and live at home with Richard.  Four sons and two daughters came from England and Emma was born at Mintaro.  He also leaves 35 grandchildren and 70 great-grandchildren.  Rev. Simpson (Wesleyan) officiated at the funeral.

@@ -27,6 +27,7 @@ topics:
 - celebration
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Boxing Day the usual United Friendly Societies’ Demonstration took place.  Private picnics were held at the Lagoon and Princess Royal.  The Salvation Army held what might be termed an ‘all day feed’ at the Barracks.  In the evening they held an open-air meeting followed by a meeting at the Barracks and a grand finale in the shape of a supper.

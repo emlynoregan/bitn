@@ -23,6 +23,7 @@ topics:
 - business
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 By advancing £1,500 to match the sum placed on the estimates by the Government you will be adding to your own resources annually.  The reduction in transport distance for ores of 6 or 7 miles will save £1,500 on every 10,000 tons of ore as well as other economies.

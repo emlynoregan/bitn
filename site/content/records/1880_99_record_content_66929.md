@@ -23,6 +23,7 @@ topics:
 - railways
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Flux Material has been found near Gum Creek about four miles west of Burra.  Block 14 at Broken Hill will take all that the promoters can raise if the quality proves adequate.  The railways will lay a line from Hanson if the syndicate will provide half the cost.  [It is not clear if Hanson means present day Hanson (formerly Davies) or Farrell’s Flat, but probably the former since the railways never used the name Hanson to refer to Farrell’s Flat.]

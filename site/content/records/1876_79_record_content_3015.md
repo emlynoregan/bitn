@@ -20,6 +20,7 @@ topics:
 - livestock
 - government action
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pleuro-pneumonia. Some overlanded cattle from Queensland were sold at Burra at the start of the week and subsequently found to be carrying pleuropneumonia. The authorities are taking steps to suppress the disease.

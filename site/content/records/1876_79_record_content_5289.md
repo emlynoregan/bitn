@@ -20,6 +20,7 @@ topics:
 - accident
 - recovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mrs Miller, who was injured a few weeks ago when thrown from her trap in a collision with one driven by Mr Opie at Aberdeen, is now nearly recovered.

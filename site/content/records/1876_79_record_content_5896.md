@@ -19,6 +19,7 @@ topics:
 - bridge
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. Work is progressing. The cylinders have been sunk and the girders are being put into place.

@@ -19,6 +19,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accidents.  Mr P. Oates and daughter and Mr F. Snell are all progressing well after their recent trap accidents.

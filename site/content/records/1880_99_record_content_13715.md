@@ -19,6 +19,7 @@ topics:
 - railway
 - lobbying
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Towns on the line from Port Pirie are lobbying for Petersburg.

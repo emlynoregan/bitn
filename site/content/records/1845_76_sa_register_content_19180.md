@@ -18,6 +18,7 @@ topics:
 - prison
 - daily life
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Yatala Stockade.  There is an article on the Daily Life of a Prisoner.

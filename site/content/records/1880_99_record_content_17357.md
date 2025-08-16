@@ -23,6 +23,7 @@ topics:
 - finance
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Annual Vestry Meeting was held on 8 April.  The debt last year was £1,000.  This year it was £880 with substantial donations - £50 from Catchlove & Co., £40 from Sir Henry Ayers, £40 from the Building Fund and £9-10-0 from Cannon Green’s lecture.  A loan of £824 has been raised from the congregation for 5 years, interest free, on the condition the previous interest continues to be raised and applied to the reduction of principal.  The Church also maintains the Widow Hocking at £60 p.a.  She was a church cleaner for 25 years and has been maintained since June 1882.  This year that fund was deficient by c. 50/-.

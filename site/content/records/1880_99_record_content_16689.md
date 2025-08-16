@@ -20,6 +20,7 @@ topics:
 - show
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Terowie Correspondent says that their paper reports that the Burra Comedy Co. has come to a full stop.

@@ -26,6 +26,7 @@ topics:
 - trees
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  His Worship the Mayor has seen Mr Jones, the Conservator of Water, who suggested the Council take back the Waterworks and that the Government would allow a considerable reduction in the interest.  He undertook to report on the question and would forward a request officially to the Council.

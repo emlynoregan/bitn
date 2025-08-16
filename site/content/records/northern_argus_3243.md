@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 John Olsen, Leader of the Opposition, opened the SES Shed at the railway yards on Sunday.  Chairman of the Burra Burra DC Jack McMahon welcomed everyone to the opening before introducing Mr Olsen to speak and cut the ribbon.  Rooms are being built in the vast shed to house radio, stores, an office and lecture room.  There is also plenty of room to store vehicles and gear.  SES Divisional Officer Mr Ian McDonough also attended.

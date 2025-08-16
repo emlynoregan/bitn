@@ -23,6 +23,7 @@ topics:
 - railway
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Kain was killed at a crossing near Stockport on Saturday.  The Bon Accord crossing at Burra is both dangerous and carries heavy traffic.  The requests of the Town Council have long been ignored.

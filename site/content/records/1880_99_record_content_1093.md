@@ -22,6 +22,7 @@ topics:
 - speech
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The address in Reply in the SA Parliament.  Apparently the Address in Reply in the House of Assembly was a farcical affair by John Rounsevell, the Member for Gumeracha, and a small part of his speech is printed.  It is described as ‘a most absurd speech’, but also as a ‘characteristic speech’.

@@ -24,6 +24,7 @@ topics:
 - music
 - speeches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton Literary Soc. was established a few months ago and Burra Literary Soc. visited last Thursday.  Mr Yunge, President of the Leighton Society took the chair.  A series of speeches and musical items followed.  [Including a recitation by Mr Fuss.]

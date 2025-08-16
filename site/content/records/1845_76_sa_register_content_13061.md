@@ -24,6 +24,7 @@ topics:
 - funeral
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 9 February 1860, page 1

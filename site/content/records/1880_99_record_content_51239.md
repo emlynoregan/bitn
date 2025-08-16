@@ -21,6 +21,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Wesleyan Anniversary was celebrated on 17 September.  The tea meeting was fairly well attended.  Services were by Rev. Casely and E.W. Crewes with a song service in the evening.

@@ -20,6 +20,7 @@ topics:
 - run
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.G. Terry gets that from Hallett to the north.

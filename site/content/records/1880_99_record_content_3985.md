@@ -25,6 +25,7 @@ topics:
 - community
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Railway Station.  The wants of the Burra District were brought to the attention of the Commissioner of Public Works, G.C. Hawker, by the Members of the District on 21 April.  There was a complaint about the inadequacies of the refreshment facilities at the station.  All that was available were ‘meat pies (the very idea of which was repulsive), stale dry cakes, and tea and coffee.’

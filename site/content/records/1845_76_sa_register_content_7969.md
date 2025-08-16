@@ -19,6 +19,7 @@ topics:
 - mining
 - staffing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The South Australian Gazette and Mining Journal has ceased publication.

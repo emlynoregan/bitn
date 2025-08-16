@@ -19,6 +19,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Track laying has begun in earnest with a locomotive now introduced to the new line. Permanent way expected to be 2 miles from the Bon Accord crossing by Saturday. There are plenty of jobs on offer.

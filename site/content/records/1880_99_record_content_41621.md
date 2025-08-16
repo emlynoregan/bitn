@@ -20,6 +20,7 @@ topics:
 - incident
 - boiler
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Butterworth’s had a boiler explosion in January, though there has been no mention of later problems and this seems a long delay to fit a new boiler.  There has been no mention of problems at Roach’s unless in a missing issue of the paper.]

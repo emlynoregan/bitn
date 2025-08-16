@@ -21,6 +21,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Diamond Jubilee Fair at the Institute was opened by the Mayor at about 11 a.m.  Numbers grew from fair to well patronised as the day wore on.  £52-9-11 was taken.

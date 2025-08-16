@@ -24,6 +24,7 @@ topics:
 - emergency
 - pump
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A new scheme is required and the visit by the Conservator of Water this week may result in some alteration.  A pump at one of the fine wells in the town would be better and more of a certainty.  We have a real opportunity at present as we are not burdened by a lease of the works: though we might have been had the Government gone about its business in a businesslike manner.  As the water level in the Waterworks is still falling there is no promise that we will not soon be without it altogether.

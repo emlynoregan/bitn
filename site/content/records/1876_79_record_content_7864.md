@@ -19,6 +19,7 @@ topics:
 - legal
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 C. Schmidt	driving on the wrong side of the road	10/

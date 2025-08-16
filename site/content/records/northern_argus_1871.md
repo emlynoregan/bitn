@@ -24,6 +24,7 @@ topics:
 - heritage
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Gulf Road Re-enactment.  On the second day Jim Kelly and his team made a stop at the Acacia Well between Burra and Hanson.  Much used many years ago, it has been painstakingly restored by Norm Maxted and his son.

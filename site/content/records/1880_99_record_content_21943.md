@@ -20,6 +20,7 @@ topics:
 - politics
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy disputing the benefits of the sale of Crown Lands as advocated by W.R. Ridgway.

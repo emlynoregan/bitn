@@ -22,6 +22,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Holder has been appointed Town Clerk pro tem to replace Mr Fogg, who has resigned. The approach to the new bridge needs enclosing and the overseer recommends a 3' high wall.

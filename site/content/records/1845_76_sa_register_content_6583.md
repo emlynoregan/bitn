@@ -39,6 +39,7 @@ topics:
 - theft
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Police Court, Kooringa, 5 June, Resident Magistrate W. Lang and Henry Mildred JP.

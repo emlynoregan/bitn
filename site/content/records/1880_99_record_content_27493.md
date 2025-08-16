@@ -18,6 +18,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Year’s Eve was busy and shops traded well.  Boys let off crackers everywhere, fortunately without damage.

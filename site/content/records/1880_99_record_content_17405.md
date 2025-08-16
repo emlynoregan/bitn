@@ -17,6 +17,7 @@ topics:
 - literature
 - dialect
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dick an’ Granny or This Side an’ That.  A dialect piece.

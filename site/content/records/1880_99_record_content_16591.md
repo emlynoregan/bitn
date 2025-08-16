@@ -27,6 +27,7 @@ topics:
 - politics
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Smith’ also on the Sudan question.  He condemns the effusions from the pulpits recently, based on less than a tithe of the information the Government had to make its decision and yet choosing to condemn them. What did Gordon do?  What was he asked to do?

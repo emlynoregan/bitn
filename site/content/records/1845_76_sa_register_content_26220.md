@@ -29,6 +29,7 @@ topics:
 - accommodation
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Terry’s Royal Mail line of coaches now departs for Port Augusta, Blinman, Sliding Rock and the Northeast from A. Stewart’s Bon Accord Hotel, near the Burra Railway Station.  This newly-built and commodious public-house contains 30 rooms and is replete with every kind of convenience for travellers and their families and is open for general business.  Orders taken by post or telegram for private apartments, beds, dinners, traps, saddle horses etc.  Alexander Stewart, late of the White hart Hotel, Aberdeen.

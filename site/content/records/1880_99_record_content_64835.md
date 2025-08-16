@@ -24,6 +24,7 @@ topics:
 - union
 - conference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church quarterly meeting on 20 September was conducted by the President of the Conference, Rev. W.A. Langsford.  The membership at 112 was down 8 over the quarter due to deaths and removals.  Income was £13 less than expenditure.  Sunday schools were satisfactory.  A plan was brought forward for the immediate union of the three Methodist bodies in the town which would involve the closure of the Primitive Methodist and Bible Christian Churches in Kooringa with the congregations worshipping at the Wesleyan Church, the work of which would for the time being be carried on by the Primitive Methodist and Bible Christian ministers.  The plan was approved and passed on to the other churches for consideration and approval.

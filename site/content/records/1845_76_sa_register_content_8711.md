@@ -30,6 +30,7 @@ topics:
 - mining
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 14 April 1854, page 2

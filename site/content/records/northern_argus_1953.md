@@ -20,6 +20,7 @@ topics:
 - marriage
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Darren Catford, son of Brian & Marj. Catford .

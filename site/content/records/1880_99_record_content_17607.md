@@ -19,6 +19,7 @@ topics:
 - livestock
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston, Shakes and Co. offer 12,530 sheep on 1 May.

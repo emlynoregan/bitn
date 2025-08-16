@@ -18,6 +18,7 @@ topics:
 - roads
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Roads. Progress is being made on the Baldina road.

@@ -19,6 +19,7 @@ topics:
 - secularism
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes another column on the Education System in which the general theme is ‘secular education means social destruction’.

@@ -20,6 +20,7 @@ topics:
 - marriage
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. S. Marschner (Catholic) of Kooringa, is listed in the August 10 Government Gazette as licensed to celebrate marriages.

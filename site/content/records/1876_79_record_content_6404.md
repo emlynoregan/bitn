@@ -20,6 +20,7 @@ topics:
 - bridge
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The surveyor in charge opened the bridge to traffic without informing Council.

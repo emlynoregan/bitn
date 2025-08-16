@@ -22,6 +22,7 @@ topics:
 - real estate
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lapford Correspondent.  Another column from the place which, as the writer says, is better known as World’s End Creek, but Lapford is the township proper.  The writer is ‘beginning to feel like a ghost, walking every evening through streets where there are no houses.’  ‘. . . in this “city” with its population of pegs.’  The private school is doing very well so far.  Come and buy an urban allotment, or a suburban one of 15 acres at £30 each.

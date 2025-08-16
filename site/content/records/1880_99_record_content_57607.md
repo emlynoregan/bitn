@@ -21,6 +21,7 @@ topics:
 - donation
 - estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church trustees have received £50 from the estate of the late Rev. James Way.

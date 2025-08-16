@@ -20,6 +20,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. There will be a concert on 3 July in the Institute in aid of the new church. 2/- & I/MOONLIGHT.

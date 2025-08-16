@@ -18,6 +18,7 @@ topics:
 - politics
 - suffrage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Female Suffrage.  Mr Caldwell has introduced his Bill to give the franchise to all women aged 25 or more.

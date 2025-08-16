@@ -23,6 +23,7 @@ topics:
 - expedition
 - arrival
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Telegram: Mr J. Chambers to Mr Finke

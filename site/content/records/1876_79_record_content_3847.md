@@ -20,6 +20,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment: Hayes & Benhamo's Circus will play in Kooringa next Monday.

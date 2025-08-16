@@ -19,6 +19,7 @@ topics:
 - weather
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Horses and Cows killed by lightning at Wonna.

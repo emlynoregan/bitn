@@ -18,6 +18,7 @@ topics:
 - mining
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Some River Broughton Mining Co. shares have changed hands at an advance and some good specimens of ore have been brought in.

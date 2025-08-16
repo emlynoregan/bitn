@@ -34,6 +34,7 @@ topics:
 - constitutional reform
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder is presently Treasurer in the Cockburn Government.  He is a South Australian by birth, being born at Happy Valley.  His father was a State School teacher and he entered the same field holding positions under the Education Department.  He left teaching to take charge of this journal which he at present owns.  He has been identified with many public works.  He has been president of the Burra Institute, Captain of the Volunteer Forces, Mayor of Burra, Member of the Board of Governors of the Public Library, Museum and Art Gallery of SA.  He was elected to the House of Assembly in 1887 and has been Chairman of the Select Committee on the Barrier Trade and Break of Gauge.  His policies can be summarised:

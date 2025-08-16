@@ -20,6 +20,7 @@ topics:
 - fair
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Karitorama at Kooringa Wesleyan Lecture Hall on Wednesday 29 March.

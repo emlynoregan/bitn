@@ -22,6 +22,7 @@ topics:
 - partnership
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The partnership of Alexander Thomson and James Bunce as Merchant & Ship & Commission Agents has been terminated.  Alexander Thomson will continue the business in Rundle Street on his own.

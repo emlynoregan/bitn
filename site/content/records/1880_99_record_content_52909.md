@@ -19,6 +19,7 @@ topics:
 - race
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club’s race from Princess Royal on 14 February has attracted 10 entries.

@@ -19,6 +19,7 @@ topics:
 - women's suffrage
 - support
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Congregational Union and the Home Mission of SA had just expressed support with few dissentions and the writer could see no reason to disagree with them.

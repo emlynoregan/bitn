@@ -18,6 +18,7 @@ topics:
 - labor
 - union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearing.  There is a short [⅓ column] article on the possibility of shearing troubles with the Union this year.

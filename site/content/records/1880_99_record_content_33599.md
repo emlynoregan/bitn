@@ -21,6 +21,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary last Sunday and the tea meeting was postponed from Monday to Wednesday on account of heavy rain.  F.W. Holder took the chair.  The church debt had been reduced by £107 during the year.  Mr Davey’s Brass Band rendered service and the anniversary raised some £85.

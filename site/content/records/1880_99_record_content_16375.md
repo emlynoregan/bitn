@@ -22,6 +22,7 @@ topics:
 - municipal appointments
 - rumours
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter.  ‘Doubtful’ writes hoping to be assured that the following rumours are wrong.

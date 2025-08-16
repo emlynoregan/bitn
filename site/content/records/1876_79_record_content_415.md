@@ -20,6 +20,7 @@ topics:
 - appointment
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Booborowie Council Clerk writes to say he has taken the job without profit, at £25 p.a., in order to rectify earlier bungling.

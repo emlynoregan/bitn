@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The J150 Book Relatively Speaking will be launched in October at the Burra Town Hall.  Over 400 people have contributed.

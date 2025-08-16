@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Concert in Council Chamber at Mt Bryan on Wed. 23 September in aid of the Mt Bryan Fife and Drum Band.  1/-.  Burra visitors invited.

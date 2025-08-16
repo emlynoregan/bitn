@@ -19,6 +19,7 @@ topics:
 - entertainment
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Musical Union Grand Concert, Wednesday 24 September. (Program printed) 2/- & 1/-.

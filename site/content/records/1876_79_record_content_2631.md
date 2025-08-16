@@ -26,6 +26,7 @@ topics:
 - road
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road. Ed. We believe in the resolution of this issue that has been made `the main road should run from Kooringa to Aberdeen, thence over the Redruth Bridge and via the Smelting Works to the junction of the Baldina and Bright roads; that a road from Kooringa via the present route and connected with the main road at Nankivell's Gully, should be constructed by the Government, but the maintenance would have to be borne by the Corporation and the District Council.' This seemed a fair result, but the £500 grant from the Midland Road Board for the Kooringa road is plainly inadequate, placing too great a strain on the local councils.

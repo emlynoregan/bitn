@@ -24,6 +24,7 @@ topics:
 - weather
 - disaster
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Another Great Flood at Kooringa

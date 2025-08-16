@@ -24,6 +24,7 @@ topics:
 - cinema
 - Melbourne Cup
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Cinematographe last Friday was very popular with every chair occupied ahead of time.  The writer was most impressed by the realism of the arrival of the Calais train in Paris.  Sea bathing and the running of the 1896 Melbourne Cup were impressive as was the marching of the Guards to St James’s Palace and a charge of the French Cuirassiers.

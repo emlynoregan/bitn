@@ -35,6 +35,7 @@ topics:
 - retirement
 - payments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Davies objected to the ratepayers being charged.  Cr O’Leary would rather the Council paid for the pitch etc. and make no charge to allcomers.

@@ -21,6 +21,7 @@ topics:
 - parliament
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Davis Case.  In Parliament on Tuesday the Commissioner of Public Works said the compensation to be paid to the widow of the late William Davis was under consideration.

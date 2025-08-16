@@ -18,6 +18,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An attempt is being made to form a quoits club – a favourite pastime for the unemployed.

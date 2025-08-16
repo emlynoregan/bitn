@@ -21,6 +21,7 @@ topics:
 - discovery
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A new discovery of ore has been made on the property of a man named Hare near the Mule Camp.  Mr Hare has let it to the Copper Co. for 12 months at £1 per ton.

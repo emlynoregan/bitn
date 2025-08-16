@@ -20,6 +20,7 @@ topics:
 - rifle
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match for the cruet: over 500 and 600 yards.  Best were privates Nicholls and Bentley.

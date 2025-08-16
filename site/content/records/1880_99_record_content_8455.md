@@ -20,6 +20,7 @@ topics:
 - mine
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA stated in its half-yearly report that the Burra Mine was likely to be advantageously disposed of shortly.

@@ -20,6 +20,7 @@ topics:
 - council
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor replies that planting this year is only replacing dead trees except for Redruth No. 2 Reserve which is being planted at the personal cost of the North Ward Councillors.  Finally the cost of trees is zero except for cartage.

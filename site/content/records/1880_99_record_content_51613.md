@@ -19,6 +19,7 @@ topics:
 - speeches
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. continues to be lively with prepared speeches next week.

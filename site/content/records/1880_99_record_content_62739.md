@@ -20,6 +20,7 @@ topics:
 - prison
 - reformatory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Gaol/Reformatory.  Conversion work is going on well.  First, second and third class rooms are being prepared for the various ‘grades’.

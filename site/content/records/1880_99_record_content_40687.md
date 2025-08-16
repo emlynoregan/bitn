@@ -22,6 +22,7 @@ topics:
 - ceremony
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council waited on Miss Fanny West on Tuesday 24 Feb. on the eve of her wedding and presented an illuminated address prepared by Mr A. Wittber and illustrated by Mr William Bentley.

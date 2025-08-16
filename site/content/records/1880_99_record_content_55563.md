@@ -20,6 +20,7 @@ topics:
 - club
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The last race for the season was from Riverton on 17 December.  First was C. Wilkinson’s b. c. Santonine (imp) doing the 35 miles 1,480 yds in 77½ mins.

@@ -20,6 +20,7 @@ topics:
 - education
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.C. Grasby, a former teacher at Burra School has taken over the Garden and Field.

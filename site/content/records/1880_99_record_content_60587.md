@@ -22,6 +22,7 @@ topics:
 - race
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race from Coonalpyn in connection with the Burra Show was flown on 26 August.  S. Edwards’ birds came in first at 1060 yds per minute.

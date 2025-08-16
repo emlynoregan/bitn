@@ -20,6 +20,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offence. Annie Gallagher was charged with ‘keeping a house of ill fame in Kooringa’ and pleaded guilty. Fined £10.

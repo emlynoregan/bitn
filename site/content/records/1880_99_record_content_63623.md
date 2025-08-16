@@ -20,6 +20,7 @@ topics:
 - organization
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 AO Foresters held their annual meeting on 14 January and had then 177 financial members.

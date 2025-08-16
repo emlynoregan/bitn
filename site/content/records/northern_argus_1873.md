@@ -22,6 +22,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ben Hall, a grandson of the bushranger, had his Cobb & Co. coach in Burra last Wednesday for a scheduled stop at the BCS before packing up and heading for Peterborough.  He did some running around so that a few lucky folks enjoyed a ride.

@@ -24,6 +24,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Entertainment at Wesleyan Lecture Hall, Kooringa, 24 September.  John Roach of Adelaide, Mr Beaumont Read, tenor of Adelaide and others along with local talent.  1/-, double ticket 1/6.  In aid of the Kooringa Wesleyan Sunday School Funds.

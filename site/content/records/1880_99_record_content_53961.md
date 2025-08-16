@@ -20,6 +20,7 @@ topics:
 - labour
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields have about 40 men at work and the Hallett correspondent says some are making good wages while others are scarcely getting enough for food.

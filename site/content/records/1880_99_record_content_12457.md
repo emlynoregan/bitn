@@ -22,6 +22,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Archibald Millar, aged 79, died at Toorak Victoria, He was the father of Fanny McLagan of Burra.

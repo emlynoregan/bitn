@@ -22,6 +22,7 @@ topics:
 - farewell
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 John & Joan Reed and family are being farewelled in Burra before they leave for Coober Pedy.

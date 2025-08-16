@@ -18,6 +18,7 @@ topics:
 - government
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘We fear that the mental fibre of the coming generation will be seriously weakened if this goes on.’  The immediate cause of this outburst of concern was the call for technical education to be part of general education.

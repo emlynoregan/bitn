@@ -17,6 +17,7 @@ topics:
 - advertisement
 - lost property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Someone lost a ‘Mat Ration Sugar’ that has been found.

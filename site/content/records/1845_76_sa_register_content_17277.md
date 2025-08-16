@@ -20,6 +20,7 @@ topics:
 - tender
 - architecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Wright & Woods, Architects, call tenders by 12 March 1864 for the erection of a house and other works at Princess Royal Estate.

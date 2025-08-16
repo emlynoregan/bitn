@@ -22,6 +22,7 @@ topics:
 - inquest
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Manslaughter.  Flannigan, who was censured by the coroner at the inquest at the Burra Hospital over the death of Reardon, has been charged with manslaughter.

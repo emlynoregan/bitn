@@ -22,6 +22,7 @@ topics:
 - review
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc.  The 1st Entertainment of the Society drew a fair attendance to the Institute on Friday evening last.  The review suggests a dullness in presentation and lack of life in some performances, which produced a kind of monotony.  The farce was far from as amusing as it should have been - still ‘it was not the worst farce we have witnessed’. 

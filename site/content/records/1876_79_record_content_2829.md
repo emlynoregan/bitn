@@ -20,6 +20,7 @@ topics:
 - religion
 - confirmation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. 9 Sept. the Bishop of Adelaide confirmed 20 candidates at St Mary's. 16 were females.

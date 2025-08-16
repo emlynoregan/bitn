@@ -19,6 +19,7 @@ topics:
 - organization
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Lodge IOOF reports 306 members.  Profit for the year £190-8-3 and funds stand at over £6,100.

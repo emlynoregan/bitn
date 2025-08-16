@@ -27,6 +27,7 @@ topics:
 - show
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Chrysanthemum Show was held in the Institute last Wednesday.  It was well attended and was a financial success.  A few years ago small button blooms were passed as highly desirable specimens while now richly massive and symmetrical forms are a triumph of the horticulturalists’ skill. Prizes went:

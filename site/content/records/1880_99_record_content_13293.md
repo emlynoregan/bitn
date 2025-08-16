@@ -20,6 +20,7 @@ topics:
 - marriage
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  On 24 May at the house of the bride’s father, John Pens and Mary Ann Eustace.

@@ -20,6 +20,7 @@ topics:
 - real estate
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Austin, Davison & Co. will sell for Thomas Hastie, who is leaving for England, a four-roomed stone house with outside kitchen, stone coach house and stone stable, together with 8 acres of fenced land at Roach Town.

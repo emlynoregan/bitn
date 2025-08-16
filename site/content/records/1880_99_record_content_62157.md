@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  R. Cook, Fruiterer, Aberdeen.  Table Grapes 3/- a case; 30 lb tin of honey 8/6.

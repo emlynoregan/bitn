@@ -30,6 +30,7 @@ topics:
 - town development
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wadnaminga Goldfield.  There is a report on the diggings and town some 20 miles from Mannahill.  The town comprises 72 acres subdivided into 144 half-acre lots which are charged at 10/- p.a. for residential use and £5 p.a. for a business.  The buildings are in galvanised iron and already H. Mills has a hotel, T. Kitchen a store, Gadd & Davis a store, Copley and Calcott a store. There is a greengrocer’s, a bakehouse, a butcher’s, a watchmaker’s, Lorymire’s boarding house Crosby & Anderson’s butchers and the residence for the caretaker of the Government Dam.  The other buildings are tents and bag houses.

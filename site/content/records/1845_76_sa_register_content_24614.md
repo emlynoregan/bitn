@@ -22,6 +22,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  The Northern Argus says that J. Freeman of Mintaro has reported that W. Ashton has washed out 1oz 8 dwts from one load of stuff.  He saw Ashton wash out 10 dwt of splendid rough gold.  He reports everyone at present on the diggings seems to be doing well and there is plenty of gold in that locality.  There are not more than 100 people presently at work, but more are expected as water becomes more plentiful.

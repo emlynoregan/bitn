@@ -19,6 +19,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Institute Annual Demonstration.  The annual sports were held on the Prince of Wales’ Birthday Holiday, 9 November and there is a detailed report of results etc.

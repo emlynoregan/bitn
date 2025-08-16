@@ -19,6 +19,7 @@ topics:
 - health
 - postponement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster’s lecture on his trip to England has had to be postponed due to his ill health.

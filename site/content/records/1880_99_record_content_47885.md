@@ -21,6 +21,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He also mentions out-of-town boxing and cricket.  In boxing Larry Foley is tutoring Peter Jackson and says ‘The nigger is the greatest fistic artist the world ever saw.’

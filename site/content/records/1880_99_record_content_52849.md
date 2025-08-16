@@ -20,6 +20,7 @@ topics:
 - exhibition
 - competitions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. West is heading a committee setting up a School and Art Exhibition for about 22 March in the Institute.  There will be school, art, musical, cooking and dairy competitions.

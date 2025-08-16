@@ -22,6 +22,7 @@ topics:
 - music
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Australasian National League social on Friday was successfully held at the Institute.  W.G. Hawkes presided.  There were musical and singing items among addresses by B.A. Molden, and the Hon. W.B. Rounsevell. The evening concluded with a dance.

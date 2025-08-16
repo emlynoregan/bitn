@@ -22,6 +22,7 @@ topics:
 - arts
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  Alterations are almost complete with artists busy at work on the scenery.  The alterations include the removal of the back wall which has been arched, the building of two additional rooms at the back of the present hall, enlargement of the stage and provision of scenery etc.  Also an escape door has been provided from the centre of the hall.  Contractors are Messrs Launder & Pearce and scenery by Messrs Harrison & Fyfe who have employed the scenic artist Mr Stone.

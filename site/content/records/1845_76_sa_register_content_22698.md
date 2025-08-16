@@ -26,6 +26,7 @@ topics:
 - corporate
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association AGM was held this morning with G.S. Kingston MP in the chair and about 20 shareholders present.  The 24th annual report was presented and adopted.  The following retired from the Board: Messrs Neville Blyth, John Beck, Thomas Graves, William Peacock and G.S. Kingston.  Polling for new directors resulted in:

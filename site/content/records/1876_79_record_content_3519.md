@@ -20,6 +20,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment. Mrs Cutter, celebrated contralto and Mr F.L. King, pianist, organist and composer will appear at the Institute 8 Feb.

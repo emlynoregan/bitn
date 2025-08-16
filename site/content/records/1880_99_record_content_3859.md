@@ -20,6 +20,7 @@ topics:
 - Sunday school
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Anniversary on Easter Sunday and Monday.  Rev. R.W. Campbell preached.  Congregations were large and the Service of Song was ‘Nothing to Nobody’.

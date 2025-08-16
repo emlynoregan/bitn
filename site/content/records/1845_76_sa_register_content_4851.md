@@ -18,6 +18,7 @@ topics:
 - archives
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [C.S.O.=Local Colonial Secretary’s correspondence in SA Archives.]

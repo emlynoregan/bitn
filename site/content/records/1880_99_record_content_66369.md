@@ -19,6 +19,7 @@ topics:
 - workplace safety
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a bad accident at the Bundaleer construction site, where five men lost their lives due to an earth fall when the works were not timbered.  It calls for a full investigation into work practices and workplace safety.

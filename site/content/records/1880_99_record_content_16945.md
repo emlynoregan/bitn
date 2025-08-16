@@ -18,6 +18,7 @@ topics:
 - letter
 - local dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Looker On’ affirming his original contentions re the bread throwing.

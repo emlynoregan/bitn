@@ -19,6 +19,7 @@ topics:
 - storm
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  There was a severe electrical storm last Tuesday at Baldina.

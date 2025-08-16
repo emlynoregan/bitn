@@ -22,6 +22,7 @@ topics:
 - business
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Luke Day has closed his doors and says he anticipates a trip to China or somewhere and the Burra Chinese in general have renounced the law courts after their recent costly experiences.

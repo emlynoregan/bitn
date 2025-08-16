@@ -19,6 +19,7 @@ topics:
 - mining
 - exploration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  The mining reporter for the Mt Barker paper considers the Burra Mine not worked out – it not having been explored at depth.

@@ -19,6 +19,7 @@ topics:
 - cricket
 - races
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Easter Monday was also a holiday.  Some amused themselves at cricket and others went to the races at Cross Roads.

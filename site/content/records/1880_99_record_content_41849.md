@@ -22,6 +22,7 @@ topics:
 - public_transport
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 (Continued)  Complaints that the cabs are not well maintained.  The Town Clerk is to write saying that unless they were placed in a more respectable condition their licence could be cancelled.

@@ -19,6 +19,7 @@ topics:
 - sport
 - bicycle_racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ reports that at Burra bicycle racing has taken over from foot racing as a sport, though further north the latter still holds its own.

@@ -22,6 +22,7 @@ topics:
 - heritage
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse.  A letter from the J150 Board has notified the Burra Burra DC that $120,000 has been allocated to the restoration of Morphett’s Enginehouse at the Burra Mine.  The funds are going for re-pointing of stonework, the installation of doors and windows, rebuilding all floors and balconies on the second storey level and re-roofing.  The slates are presently being placed on the new roof.  [Photo.]

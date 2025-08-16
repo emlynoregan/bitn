@@ -20,6 +20,7 @@ topics:
 - boxing
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports.  Out-of-town reports are big on rowing.  In Sydney there will be a race for £500 a side on 23 June.  Boxing and cricket are also prominent.

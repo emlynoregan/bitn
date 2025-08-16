@@ -21,6 +21,7 @@ topics:
 - patriotism
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Pater Familias’ who complains that the patriotic fervour at school apparently has little girls drilling in the hot sun, which he says, is both cruel and senseless as ‘we are not likely to require “Amazon” guards for either the Soudan or for our own defences.’

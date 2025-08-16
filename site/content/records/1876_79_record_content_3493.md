@@ -19,6 +19,7 @@ topics:
 - crime
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pig and Whistle Hotel. There was an arson attempt here when a fire was lit in the stable adjoining the hotel. It was extinguished before any real damage was done.

@@ -34,6 +34,7 @@ topics:
 - wages
 - animal poisoning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Local Court, 21 July

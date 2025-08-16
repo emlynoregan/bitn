@@ -25,6 +25,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  27 December at Trinity Church, Adelaide, John Clow Miller, eldest son of P.M. Miller of Anlaby & Annie Hooper, eldest daughter of Robert Hooper of Kapunda.

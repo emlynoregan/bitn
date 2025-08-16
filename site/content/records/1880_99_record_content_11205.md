@@ -22,6 +22,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On the Prince of Wales’ Birthday Saddleworth played Aberdeen on the flat near Drew’s store.  It was windy and rain threatened, but the latter held off. Aberdeen made 32, followed by Saddleworth, which managed 46.  Aberdeen then made 122 before lunch was taken at Opie’s Hotel, after which Saddleworth was dismissed for 98, resulting in a win for Aberdeen by 10 runs.

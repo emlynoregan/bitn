@@ -22,6 +22,7 @@ topics:
 - visit
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice: Dr Mahommedeen from India, Eye and Pile Doctor of 141 Hindley St Adelaide will visit Burra in the next and following weeks.

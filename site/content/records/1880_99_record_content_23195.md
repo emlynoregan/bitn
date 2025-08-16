@@ -17,6 +17,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  There was a good game on Saturday between 10-12 Colour and 18-20 Allcomers.  Colours 3.6 defeated Allcomers 1.5.

@@ -19,6 +19,7 @@ topics:
 - culture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Guards’ Band visited Burra.  They were met on arriving from the north by the afternoon train.  The reviewer was very impressed.  The band is an amalgamation of their previous No. 1 & No. 2 Bands and comprises the best from both.

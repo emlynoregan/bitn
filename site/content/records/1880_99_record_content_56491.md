@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A. Haykin died at the Burra Hospital on Sunday.  The family used to live in Paxton Square, though more recently of Yarcowie.  [Arthur Haykin died 31 March aged 40.]

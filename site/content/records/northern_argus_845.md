@@ -41,6 +41,7 @@ topics:
 - events
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra National Trust AGM was held in Burra Civic Centre last Tuesday 4 March.

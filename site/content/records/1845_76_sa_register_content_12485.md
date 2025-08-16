@@ -18,6 +18,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The weather remains very cold with threatening rain.  The low temperature is retarding the growth of new grass.  Trade has picked up a little with a few drays on the road, but wages have not risen in pace with the high cost of provisions.

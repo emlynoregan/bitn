@@ -23,6 +23,7 @@ topics:
 - footpath
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  John Sampson and Matthew Symons, Councillors for East Ward call a public meeting at the Council Chamber on Wednesday 1 July at 7.30 p.m. to consider the issue of the footpath on the east side of the road from Kooringa to Aberdeen.

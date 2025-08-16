@@ -22,6 +22,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Copperhouse Wesleyan Church Anniversary, Good Friday, Rev. G.S. Rowe & Rev. S. Knight and Mr Goss will attend.

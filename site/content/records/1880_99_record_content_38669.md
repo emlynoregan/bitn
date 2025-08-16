@@ -21,6 +21,7 @@ topics:
 - agriculture
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Piltimitiappa.  Mr Louis Dare reports that a fire broke out the day before yesterday within six yards of the stable.  Miles of good grass and bush were destroyed.  We cannot account for it but by someone throwing down a lucifer.  Mr Dare, who has not walked 100 yards for nine months, walked about and gave directions after the severe shock of it.

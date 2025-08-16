@@ -22,6 +22,7 @@ topics:
 - fare
 - schedule
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Arrive Burra	12.30 p.m.

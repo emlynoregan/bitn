@@ -23,6 +23,7 @@ topics:
 - agriculture
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  300 teams are wanted to cart wool from the N-E of SA and from NSW to Terowie and Burra stations.  S. Drew & Co.

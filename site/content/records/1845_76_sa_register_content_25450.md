@@ -24,6 +24,7 @@ topics:
 - selection
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 'A Burra Elector' writes re the northern extension of the railway.

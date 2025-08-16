@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders are called for construction of a stationmaster’s house, signal office and passenger platform at Davieston.

@@ -24,6 +24,7 @@ topics:
 - pest control
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits.  On 10 November there was a public meeting at the Racecourse Hotel, Copperhouse, to consider the DC’s adoption of a rabbit rate.  About 20 ratepayers attended with H. Woodgate in the chair.  They resolved that Copperhouse ratepayers should not pay the rate, there being few rabbits there.  They also wanted the resignation from Council of Messrs Stevens, Watts and Warnes and would take their objections to the Government if ignored by Council.

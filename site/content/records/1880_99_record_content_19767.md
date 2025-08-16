@@ -27,6 +27,7 @@ topics:
 - infrastructure
 - ford
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Morris, of McLaren, White & co. has offered verbally to sell to the council the Aberdeen Reserve.  A written communication is awaited.

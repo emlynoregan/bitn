@@ -22,6 +22,7 @@ topics:
 - community
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 T. Shortridge Sen. Obituary: - died 2 Nov. a resident of 23 years who came as an interpreter for the Spanish speaking muleteers and then worked for SAMA almost till his death.

@@ -23,6 +23,7 @@ topics:
 - circus
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bristol’s Circus, an exhibition of trained horses was given at the rear of Vivian’s Commercial Hotel on Thursday night.  The circus was to have appeared on 15 February, but as the railway line was washed away they couldn’t get out.  They received a good reception and all 2/- seats were taken and the management was agreeably surprised at the result of their sudden appearance in town.  All the acts were admirably performed. ‘Denver’ the comic mule was the centre of attraction and kept the audience in fits of laughter.  The group left next morning for Riverton.

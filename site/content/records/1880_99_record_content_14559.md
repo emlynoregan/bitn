@@ -20,6 +20,7 @@ topics:
 - sport
 - score
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Saturday, Kooringa 17 & 6 for 36 lost to Aberdeen 190

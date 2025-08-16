@@ -21,6 +21,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Catholic Sports were held at Gottlieb’s Well on Wednesday and were a great success.  There was a concert and ball in the evening.

@@ -19,6 +19,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be a Grand Concert in the Institute on Tuesday 1 Sep.  3/-, 2/- & 1/-

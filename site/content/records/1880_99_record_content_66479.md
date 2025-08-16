@@ -19,6 +19,7 @@ topics:
 - defence
 - activity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club, newly formed, practised on the range on Monday.

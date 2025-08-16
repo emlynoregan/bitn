@@ -21,6 +21,7 @@ topics:
 - policing
 - morality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Traveller’ of Long Desert writes 26 July

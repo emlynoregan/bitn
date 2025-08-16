@@ -32,6 +32,7 @@ topics:
 - land policy
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  When nominations closed on 15 April the names put forward were:

@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - missing_issue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 CXV, 8022, 4 September, 1985, MISSING

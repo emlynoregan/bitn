@@ -18,6 +18,7 @@ topics:
 - roads
 - public_health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bridges: another letter complains about the plank bridges behind `two public houses' and also about the drains and the footpaths, or the lack of them.

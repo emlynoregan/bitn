@@ -22,6 +22,7 @@ topics:
 - planning
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC has asked John Brak, the planning officer, to draw up a concept plan for the creek bank adjacent to Best Place.  It will look to future use and requirements and is to include a toilet block and perhaps a bus park.

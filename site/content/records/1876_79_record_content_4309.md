@@ -19,6 +19,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. W.C. Grasby has been appointed first assistant, but no steps taken yet to make attendance compulsory and the large building is only ⅓ full.

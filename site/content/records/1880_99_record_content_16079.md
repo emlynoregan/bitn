@@ -20,6 +20,7 @@ topics:
 - procedure
 - salaries
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson had an alternative scheme, which is printed. [Though in VI, 403, 6 January, Page 2, column 7 says it was not actually formally proposed at the meeting.]

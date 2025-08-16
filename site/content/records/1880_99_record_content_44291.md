@@ -20,6 +20,7 @@ topics:
 - employment
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘NOTICE is hereby given that Henry Seaford having been discharged from my employ he is not authorised to receive or collect any monies on my behalf.

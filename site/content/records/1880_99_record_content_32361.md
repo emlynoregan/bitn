@@ -22,6 +22,7 @@ topics:
 - sanitation
 - public health advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  The typhoid outbreak, which had appeared in East Ward, has, since the recent rain, broken out in North and West Wards.  He writes of the problem of old cesspits, many of them still in use, that are not far from wells.  The clay bed under the town is intersected by bands of gravel along which impure matter may be carried, especially after heavy rain.  All water from wells should be boiled and all milk boiled before use.  6” of quicklime should cover all cesspits in infected places.

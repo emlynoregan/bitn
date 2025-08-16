@@ -20,6 +20,7 @@ topics:
 - shareholders
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Burra Mines. The adjourned meeting of shareholders was resumed on 11 Dec. with Sir George Kingston presiding. Satisfactory prices were reported from the recent sale of surplus materials and another meeting of shareholders in the first week in January will seek permission to sell the whole of the property.

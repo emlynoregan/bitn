@@ -19,6 +19,7 @@ topics:
 - community
 - gardening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Progress’ on the pleasing development of gardens in Burra in the last year or two, especially the appearance of annual flowers.  The writer recommends the following: -

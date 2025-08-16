@@ -19,6 +19,7 @@ topics:
 - railway
 - public consultation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Public Meeting convened by R. Brummitt, Mayor, in response to a requisition to consider the Silverton Railway question.

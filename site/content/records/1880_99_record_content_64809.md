@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Public Buildings Dept. proposes to lay water on to the Reformatory from the main and seek permission to open the necessary ground in Tregony St.  Permission granted.

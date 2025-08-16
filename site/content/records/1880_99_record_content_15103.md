@@ -18,6 +18,7 @@ topics:
 - mining
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Caledonian	1,500	6

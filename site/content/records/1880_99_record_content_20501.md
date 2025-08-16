@@ -27,6 +27,7 @@ topics:
 - court
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Morgan, a painter of Redruth, was in Schutz’s cab. At Vivian’s Hotel (Opie’s) Cosgrove was waiting with his coat off and said he wanted a fight.  Schutz said he did not as he would lose his licence.  They moved out of Morgan’s sight and by the time he had got out of the cab Cosgrove was on the ground.

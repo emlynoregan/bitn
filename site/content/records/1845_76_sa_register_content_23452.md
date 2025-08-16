@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Henry Edmunds died 21 July 1870 near Kooringa aged 42.]

@@ -26,6 +26,7 @@ topics:
 - transport
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Subscriber’ writes re the Mt Bryan Road.  He does not think the Government can be aware of just how disgraceful its condition is for forty chains north and twenty chains south from the Mt Bryan Hotel.  On 12 July he was stuck on the road in a light trap.

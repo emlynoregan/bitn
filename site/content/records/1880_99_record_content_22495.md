@@ -19,6 +19,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.F. Opie.  The embezzlement case against E.F. Opie [reported in issue 546 of 25 May 1886, page 2] has been dropped.

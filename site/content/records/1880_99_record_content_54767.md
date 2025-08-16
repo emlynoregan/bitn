@@ -20,6 +20,7 @@ topics:
 - agriculture
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wool is arriving at the Burra Station – so far from Oakvale and Caroona.

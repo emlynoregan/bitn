@@ -21,6 +21,7 @@ topics:
 - locality
 - nomenclature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Burra’.  Why write ‘the Burra’ any more than ‘the Clare’ or ‘the Adelaide’?  Burra people are giving up the prefix, but outsiders constantly foist it on us.

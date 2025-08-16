@@ -18,6 +18,7 @@ topics:
 - news
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Page 2.  Smaller advertisements, notices, market reports, editorials and beginning of news items.

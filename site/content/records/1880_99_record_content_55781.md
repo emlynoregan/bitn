@@ -22,6 +22,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Florrie Aitkin, aged 12, died in the Burra Hospital on Christmas Eve as a result of being scalded at Yarcowie.  She lived with her parents in Paxton Square a few months ago.

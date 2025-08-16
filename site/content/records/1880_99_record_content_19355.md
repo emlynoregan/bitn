@@ -17,6 +17,7 @@ topics:
 - events
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The steam circus draws well.  [This appears to refer to a steam-powered merry-go-round.]

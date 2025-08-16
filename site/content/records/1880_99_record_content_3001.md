@@ -18,6 +18,7 @@ topics:
 - financial
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The rates for 1881 were declared at 1/- general and 3d health.

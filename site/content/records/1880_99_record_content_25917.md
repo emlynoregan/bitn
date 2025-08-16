@@ -19,6 +19,7 @@ topics:
 - publication
 - guide
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An SA Bradshaw (A Guide to SA) has been published on the lines of the well-known Bradshaw by Messrs C.W. Stuart & Co.

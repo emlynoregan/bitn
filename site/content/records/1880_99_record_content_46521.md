@@ -28,6 +28,7 @@ topics:
 - road
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Main Road Commission has placed the Mt Bryan East to Piltimitiappa Station Road, the Breakneck Hill to McNeill’s Creek and the Booborowie to Baldry Roads on the schedule of main roads.  Deleted from it are the Spalding-Gum Creek and the Mt Bryan East road to the end of the road in the Hundred of Tomkinson.

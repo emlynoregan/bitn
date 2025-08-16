@@ -26,6 +26,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on The New Ministry.  Parliament adjourned for two weeks so the Government could formulate its policies, which the editor thinks will be difficult, given the contradictory stance of its individual members.

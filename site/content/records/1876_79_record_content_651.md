@@ -22,6 +22,7 @@ topics:
 - lecture
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. D. O’Donnell of Clare will lecture in the Institute tomorrow night on Temperance and on Monday night on Tom Hood: His Life, Character and Works.

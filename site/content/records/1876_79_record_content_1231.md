@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The mayor and party inspect it and find four shafts and a deal of promise.

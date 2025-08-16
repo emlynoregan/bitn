@@ -21,6 +21,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  All persons depasturing or travelling stock over open land in the Burra Special Survey, Kooringa, without permission will be prosecuted.  W.H. Hardy, Agent.

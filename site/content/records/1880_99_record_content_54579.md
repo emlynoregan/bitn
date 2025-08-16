@@ -23,6 +23,7 @@ topics:
 - events
 - meetings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  British & Foreign Bible Society Annual Services will be held 9 & 10 September with the annual meeting on 10 September at Kooringa Wesleyan Lecture Hall.

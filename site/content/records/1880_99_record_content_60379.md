@@ -22,6 +22,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Evans delivered a very interesting lecture on From the Coalpit to the Palace of the King: or the Life of Peter MacKenzie, in the Kooringa Primitive Methodist Church on Thursday before a fair audience.  A satisfactory collection was made.

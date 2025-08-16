@@ -21,6 +21,7 @@ topics:
 - accident
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  Ted Wall’s horse bolted from the Commercial Hotel yesterday, round several tricky corners to end on ‘Lime Stone Hill’. [sic]  No damage was done, though the owner lost his hat which vanished.

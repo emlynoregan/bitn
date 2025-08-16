@@ -18,6 +18,7 @@ topics:
 - council
 - assessment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The new assessment is going to be a “queer thing” if ratepayers listen to obnoxious councillors.’

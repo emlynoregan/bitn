@@ -19,6 +19,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church held Anniversary services last Sunday.  There will be no tea meeting this year.

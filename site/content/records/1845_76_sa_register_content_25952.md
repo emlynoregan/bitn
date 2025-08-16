@@ -44,6 +44,7 @@ topics:
 - deputation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Mt Bryan Road.  2 October.  A Deputation to the Commissioner of Public Works, Hon. H.E. Bright MP.

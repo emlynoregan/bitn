@@ -17,6 +17,7 @@ topics:
 - sport
 - wildlife
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrow shooting is something of a sport lately and over 60 birds were shot one day last week.

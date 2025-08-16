@@ -21,6 +21,7 @@ topics:
 - community
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Many street trees are doing well, especially the road from Kingston St corner to the Recreation Ground.

@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Strawberry Fete at the Institute last Friday was very well patronised.  The fruit was of excellent quality and the total raised was £72.

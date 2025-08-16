@@ -23,6 +23,7 @@ topics:
 - theft
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A Break-in at the Nick-Inn at Burra North occurred in the early hours of Thursday 26 November and a quantity of money was taken.  Suspects from the Riverland area are believed connected with this and a series of break-ins at Spalding.

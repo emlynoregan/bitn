@@ -23,6 +23,7 @@ topics:
 - obituary
 - fraternal order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  William Nankivel, a Burra resident of some 40 years, died in Kingston St on Tuesday at the age of 63, leaving a wife and large family.  He was a member of the Burra Burra Lodge for 36 years and his wife is thus entitled to £50 from the order.

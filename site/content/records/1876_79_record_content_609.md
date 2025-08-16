@@ -22,6 +22,7 @@ topics:
 - miners' cottages
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Robert Sanders writes to say that neither Dr Nesbitt nor anyone else had ever made a complaint to him about the sanitary conditions of the miners’ cottages in Kooringa.  He says, had they done so, and had the complaint on investigation been proved to be correct, action to remedy the problem would have been taken without delay.

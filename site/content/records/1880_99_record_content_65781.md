@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  Last Wednesday there was no water in the Burra taps.  [The tone of the report is rather frivolous and meant to be humorous, and this makes it unclear exactly what the problem was, but apparently there was a broken pipe in the well shaft.]

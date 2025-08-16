@@ -19,6 +19,7 @@ topics:
 - behaviour
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to Editor on brawling at the football: asking for it to cease in favour of playing the game.  He calls for an end to the habit of going onto the field ‘for the express purpose of getting so-and-so’.

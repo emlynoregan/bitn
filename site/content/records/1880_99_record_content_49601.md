@@ -41,6 +41,7 @@ topics:
 - larrikinism
 - courtroom
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Hardy advertises that “he believes his veracity will hold its own with that of Shortridge” ____ I think so too.’

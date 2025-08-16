@@ -26,6 +26,7 @@ topics:
 - military
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The full complement of officers has now been made up: Captain Holder, Lieutenant O’Connell, Sergeants Butterworth & Horne and Corporals Anderson & Horne.

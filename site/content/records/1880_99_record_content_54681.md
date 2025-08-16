@@ -20,6 +20,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary last Sunday.  The financial report showed a debt of only about £50 on the entire church property including the Lecture Hall and parsonages.  Christian Endeavour membership (junior and senior) numbered 45.  Membership in the circuit had risen by 12.

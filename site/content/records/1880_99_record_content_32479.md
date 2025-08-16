@@ -20,6 +20,7 @@ topics:
 - public works
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich complaining of the waste of public money in the slow delivery and spreading of road metal in Aberdeen.

@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Henry Prettejohn died on 11 January.  He was a resident of Wallaroo and a son of an English squire.  He once held a commission in the Royal Navy and was born in Berkshire on 21 January 1809.  An uncle was once Governor of Malta and another, Gen. Frederick Maitland, was Governor of Ceylon.  He leaves a widow, three sons and four daughters.  [More details are printed.]

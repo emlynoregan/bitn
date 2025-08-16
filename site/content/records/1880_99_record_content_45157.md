@@ -31,6 +31,7 @@ topics:
 - quarry
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  The funeral of the late Mr Charles Daulby took place last Friday.

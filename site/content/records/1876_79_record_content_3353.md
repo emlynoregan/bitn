@@ -22,6 +22,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket_ Burra juvenile team played Clare at Farrell's Flat on Wed. and were entertained at a cold spread at the Commercial Hotel afterwards. Clare won 65 to 63.

@@ -23,6 +23,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Aenach Mor Gaedilge at Burra Institute: The Great Irish Fair will be opened 15 October by the Lord Bishop of Pt Augusta, Rt Rev. James Maher DD and continues 16 & 17 October.

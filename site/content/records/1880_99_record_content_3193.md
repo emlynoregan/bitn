@@ -19,6 +19,7 @@ topics:
 - election
 - public meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial, calling for a public meeting at which the local MPs will report their past work and announce their intentions re the coming election.

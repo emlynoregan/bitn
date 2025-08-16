@@ -21,6 +21,7 @@ topics:
 - death
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Delano, who died of typhoid, was buried on Saturday.  [Mercy Delano, who died 26 July, was aged 36 and was the widow of William Bland Delano, a draper’s assistant of New Zealand.]

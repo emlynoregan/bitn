@@ -21,6 +21,7 @@ topics:
 - press
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on another fiasco at a Council meeting where Cr George Parks moved that the Council express dissatisfaction with the way th e Record reported the Council meeting of 17 July.

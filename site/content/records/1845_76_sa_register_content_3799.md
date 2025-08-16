@@ -21,6 +21,7 @@ topics:
 - advertisement
 - chemist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  J.A. Isaacs, Chemist and Druggist, Kooringa, Next to Messrs Marks’s Store.

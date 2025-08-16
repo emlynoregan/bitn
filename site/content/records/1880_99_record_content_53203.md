@@ -19,6 +19,7 @@ topics:
 - health
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Catholic Bishop O’Reilly of Pt Augusta is dangerously ill from overwork.

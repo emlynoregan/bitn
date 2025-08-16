@@ -18,6 +18,7 @@ topics:
 - church
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. The excavations for the foundations of the new church are under way.

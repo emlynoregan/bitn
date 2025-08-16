@@ -21,6 +21,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Hallett Institute foundation stone to be laid on 6 August by Rowland Rees MP followed by a public tea and meeting at 4.00 p.m. and then an entertainment concluding with the farce `Furnished Apartments', by the Hallett Amateur Dramatic Club. Tea 1/6, Seats 1/6, & 2/-.	MOONLIGHT

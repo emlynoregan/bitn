@@ -32,6 +32,7 @@ topics:
 - tenders
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson moved that applications be received from unemployed men requiring work on the main roads.

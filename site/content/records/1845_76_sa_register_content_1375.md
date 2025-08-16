@@ -25,6 +25,7 @@ topics:
 - death
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 31 March 1847, page 2

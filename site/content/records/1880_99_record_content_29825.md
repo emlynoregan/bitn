@@ -22,6 +22,7 @@ topics:
 - economy
 - strike
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the value of the Broken Hill mines to SA and on the Newcastle strike.

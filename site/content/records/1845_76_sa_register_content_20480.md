@@ -19,6 +19,7 @@ topics:
 - employment
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Prospects at the Mine are very bleak, with men leaving the district daily.  Many of the best men are going to Victoria where wages are particularly good for skilled men.

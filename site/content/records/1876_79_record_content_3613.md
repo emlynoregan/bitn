@@ -33,6 +33,7 @@ topics:
 - deputation
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra Corp. discussed the whole water supply issue on 13 Feb. The Corporation was under the impression that all that the Govt. was going to do was to place a water trough at the Station Gate, fed from the Govt. main. They were caught unawares when a supervisor and twenty men arrived with instructions to lay a pipe from the Station along Morehead Street and up, Best's Place to the National Bank at Aberdeen.

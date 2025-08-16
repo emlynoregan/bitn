@@ -19,6 +19,7 @@ topics:
 - real estate
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Township and suburban lots in the Township of Launcelot are offered by Liston Shakes & Co. on 2 October.

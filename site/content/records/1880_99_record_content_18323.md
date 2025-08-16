@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - public_health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Central Board of Health inspected Hallett and reports that the water supply there is largely from wells of 50-60’ depth plus underground and other tanks.  Many of the wells are unprotected from contamination from the large amount of rubbish in the town and from foul cesspits.  By-laws are not being enforced.  (Population of town c. 160)

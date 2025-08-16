@@ -25,6 +25,7 @@ topics:
 - population
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 As to the nature of the town itself:

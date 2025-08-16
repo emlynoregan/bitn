@@ -20,6 +20,7 @@ topics:
 - church
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Conference seems likely to send the Rev. S. Knight and Rev. G.E. Rowe to Burra.

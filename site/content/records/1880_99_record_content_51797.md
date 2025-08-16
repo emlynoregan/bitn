@@ -33,6 +33,7 @@ topics:
 - show
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Flower Show.  This had a poor attendance on 8 November due to unfavourable weather.  The show was a delight, but had it been a fortnight earlier the selection of blooms would have been even better.  It was getting too late for the best of the stocks and verbenas.  W. Fuss this year secured 14 firsts and 11 seconds.  J. Drew won 12 firsts and 4 seconds.  Dr Brummitt earned 11 firsts and 4 seconds, Miss Cave 9 firsts, Mr T.W. Pearce 8 firsts, W. Davey 5 firsts, Miss Oppermann and W, Lasscock 4 firsts each, Messrs A. Josling & T. Kitchen 3 each, Messrs J. Lewis, Packard, & W. Pearce 2 each and Miss Wilkinson 1.  Roses and ferns were especially noteworthy.

@@ -20,6 +20,7 @@ topics:
 - organization
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kanowna Foresters (WA) have presented W.H. Linkson with a medal for acting as their secretary since the lodge opened six months ago.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Conservator of Water writes that a boiler for the Waterworks has been forwarded and arrangements were being made for fixing the same.

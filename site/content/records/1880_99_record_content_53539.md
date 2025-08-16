@@ -19,6 +19,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Cook, the celebrated evangelist, will visit Burra from 26 May to 1 June for the Wesleyan Church.

@@ -27,6 +27,7 @@ topics:
 - politics
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The small graziers’ interests, he thought, would not be served by the tax and they should unite with the general body of taxpayers.  2nd F. Carey.

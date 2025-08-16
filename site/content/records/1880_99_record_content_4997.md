@@ -20,6 +20,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council inspected the local butchers’ piggeries on Tuesday.  The odour and filth was evident, though most owners had done their best to reduce it by paving and removing waste, but it was noted that after heavy rain the waste still finds its way into creeks and watertables.  Cesspits ought to be employed for this and that is to be enforced.  Few townsfolk will object if this move forces the piggeries out of town!

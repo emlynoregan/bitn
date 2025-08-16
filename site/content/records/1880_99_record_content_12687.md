@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Prince Leopold, Duke of Albany, and youngest son of Queen Victoria, has died suddenly in the south of France.  [7 April 1853-28 March 1884]

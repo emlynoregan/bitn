@@ -23,6 +23,7 @@ topics:
 - government
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Cockburn, Minister of Education, has been appointed SA Agent General in London to replace Thomas Playford, who it is expected will return to Parliament for the Mount Barker District.

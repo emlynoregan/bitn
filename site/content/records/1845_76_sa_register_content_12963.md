@@ -21,6 +21,7 @@ topics:
 - politics
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The SA Political Association has held several meetings here.  Mr Lennon and other delegated from Clare attended a meeting on 2 January.  On Friday Mr John Clark attended from Adelaide when 60 or 70 were at the meeting.

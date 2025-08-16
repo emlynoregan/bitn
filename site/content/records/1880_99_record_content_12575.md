@@ -17,6 +17,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the failure of the Local Optionists at a recent Upper House election.

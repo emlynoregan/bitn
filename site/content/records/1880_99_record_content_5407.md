@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Sunday School Anniversary went off well, but the public tea was only fairly attended.  The school is increasing in spite of many removals.  Hope was expressed that a schoolroom might be built.

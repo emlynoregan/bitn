@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J.A. Watt re-opens on 31 August with new stock in the premises lately occupied by A.L. Kitchen.

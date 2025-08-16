@@ -19,6 +19,7 @@ topics:
 - legal
 - offence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Offences. A number of people fines at Redruth for `non-compliance with the provisions of the Width of Tires Act'

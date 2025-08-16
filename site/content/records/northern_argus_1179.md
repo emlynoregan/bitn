@@ -22,6 +22,7 @@ topics:
 - tourism
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Sir Henry Ayers’ great granddaughter visited Burra on Sunday.  She lives in Paris and made herself known to Burra Tourist Officer Jenny O’Connor.

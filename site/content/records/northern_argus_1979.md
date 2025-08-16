@@ -21,6 +21,7 @@ topics:
 - valuation
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Council will express concern to the Valuer General over the embarrassment caused by the unrealistic valuations within the Council area.

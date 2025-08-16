@@ -18,6 +18,7 @@ topics:
 - trade
 - regulation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 XXXI	Hawking within the Corporation is banned unless a licence costing 10/- p.a. is obtained for a pack and 20/- p.a. for a vehicle.

@@ -18,6 +18,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Captain Killicoat died on Monday 18 January, aged 76.  Biographical detail will follow in next issue.

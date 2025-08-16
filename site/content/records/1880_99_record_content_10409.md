@@ -23,6 +23,7 @@ topics:
 - cricket
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra cricketers met on Thursday 9 August with Mr M’Cleary in the chair.  It was decided to form one club instead of three as previously.  The fee will be 10/6 a season.  Colours to be gold and black.  Captain, J.R. M’Cleary; Vice-Captain, E.F. Lockyer; Secretary and Treasurer, G. Parks.

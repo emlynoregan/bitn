@@ -18,6 +18,7 @@ topics:
 - sale
 - fete
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Pearce’s pictures sold at the strawberry fete and realised 30/- [Apparently for the pair of them previously mentioned, though this is not really clear.]

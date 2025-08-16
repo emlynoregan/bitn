@@ -20,6 +20,7 @@ topics:
 - finance
 - national debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  What War Costs.  About 1⅓ columns on war’s contribution to the UK national debt.

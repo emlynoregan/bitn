@@ -21,6 +21,7 @@ topics:
 - religion
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Salvation Army.  Adjutant Cartner, late of Whitechapel London, will appear at Kooringa next Saturday and Sunday on behalf of rescue and slum work.  She will appear in slum attire.

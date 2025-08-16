@@ -17,6 +17,7 @@ topics:
 - employment
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agricultural Labourers	1 in 17

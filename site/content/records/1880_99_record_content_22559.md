@@ -19,6 +19,7 @@ topics:
 - meeting
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Poultry Society was constituted formally last Thursday [17 June] and the committee is to arrange a show for the first week in August.  [‘Last Thursday’ may refer to 10 June since the paper reported its formation on that date in issue 552 of 15 June, page 2, unless the word ‘formally’ indicates a second meeting.]  A meeting of all those interested in joining (membership 10/6) is called for next Thursday at 8 p.m. to prepare a prize list.

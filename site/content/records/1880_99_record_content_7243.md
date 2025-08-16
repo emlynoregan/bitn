@@ -20,6 +20,7 @@ topics:
 - match report
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tuesday Burra versus Clare.  This is a singular report detailing play, but failing to give the result.  On page 2 a statement says the outcome was a draw in favour of Burra, meaning goals were equal, but the points favoured Burra.

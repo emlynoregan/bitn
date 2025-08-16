@@ -29,6 +29,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was a good day, with a good gate, good racing, and a good wind-up.  It was rather hot.  Nominations and acceptances were a record.  Times in the cycle events equalled those in Adelaide: due to the great track.  Were it to be banked it would surpass Adelaide.  Victoria Park needs some money spent on it if it is not to become a white elephant: the park will not attract the sports while the Polo Ground is available.  The move to the Polo Ground saw the gate £45 up on last year.

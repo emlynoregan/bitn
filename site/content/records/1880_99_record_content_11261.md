@@ -23,6 +23,7 @@ topics:
 - religion
 - women
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Blue Ribbon Army.  The usual monthly meeting in Market Square is tomorrow evening.  Two lady visitors from the Adelaide branch will speak and a second meeting will follow in the Wesleyan Schoolroom.  Miss Crimble will address young women at the Wesleyan Schoolroom on Monday afternoon at 4 p.m.

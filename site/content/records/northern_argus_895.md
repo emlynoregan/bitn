@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - emergency_services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC is negotiating a lease on part of the goods shed at the railway station to accommodate the SES and DFS units.

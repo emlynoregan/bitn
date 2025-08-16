@@ -21,6 +21,7 @@ topics:
 - fine
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Stevenson, alias Smith charged with using insulting words with intent to cause a breach of the peace on Market Square on 27 Feb. and fined 20/- or 7 days.

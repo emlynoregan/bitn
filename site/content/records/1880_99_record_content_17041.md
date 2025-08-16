@@ -26,6 +26,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Council finances, complimenting the Council on following up the Mayor’s suggestion which removes the overdraft at a high rate of interest and transfers the Recreation Ground debt to the Parklands account where it will disappear in about seven years.  The loss of about £500 in subsidy will be avoided giving more money for employment when it is so sorely needed.  The previously opposed councillors were won over and the scheme adopted unanimously.  The proposed loan of £500 will pay off the overdraft, which will reduce the interest from 10% to 6%, bringing about a saving annually of £20.

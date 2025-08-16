@@ -20,6 +20,7 @@ topics:
 - fundraising
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment: Ragamuffins.  A large audience on Friday attended this performance to raise money for the town’s needy children at the Public School.  There was good acting and singing from the boys who played London Street Arabs.  Some of the ladies had not the voice for so large a hall, but others were most successful.  The Saturday afternoon performance also went well.

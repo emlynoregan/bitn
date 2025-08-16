@@ -19,6 +19,7 @@ topics:
 - debate
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday night discussed ‘Bible Reading in State Schools’. Things were less animated than usual because it was almost unanimous that such readings should not be undertaken.  (There was but one vote in favour.)

@@ -20,6 +20,7 @@ topics:
 - media
 - protectionism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader is an attack on the pro-protection stand of the editor of the Barrier Miner who is described as ‘A Protectionist Windbag’.

@@ -23,6 +23,7 @@ topics:
 - crime
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frederick Bock, William Ker and James A. Henderson were charged with wilful and malicious breaking of a window valued at 1/-.  They claimed it was accidental, but the bench clearly thought otherwise and fined them 10/- each with damages of 1/-.

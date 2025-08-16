@@ -20,6 +20,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council will pay half the cost of paving and kerbing near premises if applied to and if approving the work, if persons will pay the other half.

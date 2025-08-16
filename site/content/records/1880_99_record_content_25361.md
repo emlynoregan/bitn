@@ -20,6 +20,7 @@ topics:
 - public works
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Richard Snell is to build public baths in Kooringa.

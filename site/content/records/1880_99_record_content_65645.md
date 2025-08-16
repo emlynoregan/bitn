@@ -21,6 +21,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Circuit Quarterly Meeting on 27 December reported a small drop in membership and a circuit debt of £36.

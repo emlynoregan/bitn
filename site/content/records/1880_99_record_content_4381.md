@@ -20,6 +20,7 @@ topics:
 - fundraising
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute, next 6d entertainment, 24 June.

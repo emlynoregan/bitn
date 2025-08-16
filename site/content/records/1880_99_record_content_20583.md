@@ -18,6 +18,7 @@ topics:
 - funeral
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster complained of the way children crowded around graves at funerals to the exclusion of friends and relatives and hoped that steps would be taken to exclude them.

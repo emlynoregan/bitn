@@ -21,6 +21,7 @@ topics:
 - social
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Arthur Williams, who is leaving for the Golden West, was given a smoke social at the Commercial Hotel.  Mr P.L. Killicoat JP, as President of the Burra Football Assoc. took the chair and about 25 attended.  Mr Williams was one of their most prominent footballers and after a series of speeches he was presented with a purse of sovereigns.

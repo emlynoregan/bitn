@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Mrs Bock has removed to the new shop in Commercial St, next door to Mr W.L.H. Bruse's furniture warehouse.

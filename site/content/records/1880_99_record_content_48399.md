@@ -20,6 +20,7 @@ topics:
 - education
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Lecture on Bible Reading in State Schools: Rev. Joseph Nicholson,

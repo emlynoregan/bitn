@@ -19,6 +19,7 @@ topics:
 - estate
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Thomas Elder has left £155,000 to various charitable, religious and educational institutions.  £25,000 goes to establish a workmen’s club.

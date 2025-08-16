@@ -19,6 +19,7 @@ topics:
 - mining
 - name change
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wheal Grenfell changes name to South Burra Burra Mine.

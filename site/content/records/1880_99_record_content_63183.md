@@ -21,6 +21,7 @@ topics:
 - community
 - mission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.G. Hawkes’s farewell social at Black Springs is reported.  Mr Hawkes had commenced the Mission in Black Springs and had carried it on as a widely respected lay reader.  The Mission Building in which they met had become church property due to his untiring efforts.

@@ -18,6 +18,7 @@ topics:
 - business
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Large quantities of wool continue to pass through the township.

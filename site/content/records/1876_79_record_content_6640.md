@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well. The site has been fixed in the centre of the square and Messrs F. Clark & Sons will commence it at once.

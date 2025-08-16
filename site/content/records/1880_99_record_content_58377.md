@@ -22,6 +22,7 @@ topics:
 - prizes
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson School.  C. May Taylor and Walter Roach received the prizes awarded by Mr & Mrs West for the best collection of native flowers.

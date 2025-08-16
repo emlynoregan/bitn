@@ -27,6 +27,7 @@ topics:
 - memorial
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Terowie Railway Meeting.  G. Faulkner presided recently at a meeting at the Terowie Hotel of farmers and other interested in the extension of the railway from Burra to Terowie.  The Hon. H.E. Bright wrote promising his support in Parliament.  The road from Hanson was in a deplorable state and especially past the bluff at Booborowie where for 100 yards it passed through a swamp.  A memorial has been prepared asking for a railway to be surveyed to Terowie and for road works in the interim period.  A railway to Terowie would tap traffic from the Barrier Ranges.  Some thought the line should diverge at Hanson, but it was pointed out by others that the land between Hanson and Terowie was not settled, while between Burra and Terowie it was farmed.

@@ -20,6 +20,7 @@ topics:
 - property
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  SAMA will prosecute anyone removing stone, soil, sand or any other material from the estate of SAMA or otherwise trespassing thereon.  W. West (Agent)

@@ -25,6 +25,7 @@ topics:
 - Irish question
 - Egyptian question
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 BYMMIA.  Address by Mr W. H. Hardy: W.E. Gladstone or The Irish and Egyptian Questions.  Messrs Hardy and Geake Sen. said Gladstone had procrastinated and temporised, while Rev. S. Knight and Messrs Mathews and Kitchen defended Gladstone.

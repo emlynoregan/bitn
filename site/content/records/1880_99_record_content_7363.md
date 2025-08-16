@@ -22,6 +22,7 @@ topics:
 - thanks
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  John Jones of Hampton thanks all for their help in extinguishing the fire at his Redruth premises on 6 July.

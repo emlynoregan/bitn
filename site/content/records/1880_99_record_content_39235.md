@@ -20,6 +20,7 @@ topics:
 - women
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ complains of the factors affecting the way women voted in Municipal elections: ‘they would know more about the candidate than the duties of a politician’.  This should preclude them from voting at Parliamentary elections.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to editor complaining of the lack of action in restoring the Pig and Whistle footbridge.

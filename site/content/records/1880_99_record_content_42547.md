@@ -21,6 +21,7 @@ topics:
 - concert
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Band of Hope meeting in the Wesleyan Lecture Hall on Thursday drew 120.  It has been decided to form a cricket club and to hold a concert on 15 October to cover the cost of the same.

@@ -22,6 +22,7 @@ topics:
 - mine
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  On Friday Sir Henry Ayers wired Mr Holder as the representative of the local committee interested in the mine, that it had been sold in London.  This is regarded as good news as it is anticipated that it will be followed by energetic work and renewed prosperity for Burra.

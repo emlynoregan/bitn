@@ -19,6 +19,7 @@ topics:
 - religion
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Australasian Wesleyan Conference in New Zealand, which had voted in favour of union with the Primitive Methodist Church, the Bible Christian Church and the United Methodist Free Church, and any others wishing to join.

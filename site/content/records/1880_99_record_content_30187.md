@@ -19,6 +19,7 @@ topics:
 - environment
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Street Trees in Burra are dying from a combination of drought and frost.

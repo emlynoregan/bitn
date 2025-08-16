@@ -18,6 +18,7 @@ topics:
 - editorial
 - social commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial supporting true sport, but strongly opposing the modern tendency to ‘turn it into labour, business, and mental effort, and talk about “scientific cricket”, make money by “professional footballing”, and practise so assiduously as that our mental and physical strength is more taxed in our sports than in our work.’

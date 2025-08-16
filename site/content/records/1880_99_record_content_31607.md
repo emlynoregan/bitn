@@ -20,6 +20,7 @@ topics:
 - fine
 - stray cows
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 August Miller		fined 5/- for stray cows

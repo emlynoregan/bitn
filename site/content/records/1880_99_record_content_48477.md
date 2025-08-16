@@ -19,6 +19,7 @@ topics:
 - band
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guards Band No. 2 is very favourably reviewed.  They played at different times and places: Killarney, The Grand Review, Chivotte (March), Home Sweet Home, Climbing up the Gospel Stairs, On the Rhyne, Trumpet & Major Lowly.

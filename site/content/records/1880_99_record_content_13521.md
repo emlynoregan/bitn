@@ -21,6 +21,7 @@ topics:
 - railway
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pt Pirie is now agitating for the line to be taken from Petersburg so that the trade would go to Pt Pirie and in that case the line would be narrow gauge.

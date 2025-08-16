@@ -19,6 +19,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Lodge [Oddfellows] for the quarter ending 27 August had 306 members of whom 299 were good on the books.  Receipts were £332-14-3 and expenditure £214-13-11.  Loans on mortgage stand at £5,620 and the worth of funds £6,128-6-0.

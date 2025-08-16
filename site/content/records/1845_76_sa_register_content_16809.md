@@ -30,6 +30,7 @@ topics:
 - injury
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A man named Macarthy [sic] was killing a kid on Mannanarie Station when the knife slipped and cut a principal artery upon entering his thigh.  Dr Maurau attended and found the victim weak from blood loss.  He was carefully conveyed to Burra where the artery was successfully tied, but after more than a week the man died when mortification set in.  At his funeral a cart containing six women and children capsized and a passenger named Mrs Nolan broke an arm in two places.

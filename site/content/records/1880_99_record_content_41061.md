@@ -30,6 +30,7 @@ topics:
 - election
 - literary society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met at Mrs Reed’s Temperance Hotel on 3 April when about 20 attended.  Elected for the year were: President, J. Whittick; Vice-Presidents, W.T. Rabbich & N. Opie; Sec., W. H. Morton; Treasurer, F. Field.

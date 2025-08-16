@@ -27,6 +27,7 @@ topics:
 - inquest
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  The inquest was held at the Burra Hospital on 16 May into the death of James Hogan (aged 17) on 15 May, with P. Lane JP as coroner and John Snell as foreman of the jury.

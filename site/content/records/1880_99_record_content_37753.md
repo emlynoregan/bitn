@@ -20,6 +20,7 @@ topics:
 - vandalism
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 L-C Thomas will do his best about damage to tree guards etc., but all is quiet until his back is turned.

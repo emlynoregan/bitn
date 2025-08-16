@@ -24,6 +24,7 @@ topics:
 - education
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School.  Mr O’Connell goes to Myponga as head.  Mr N. Opie & Miss E.A. Davey have been appointed from college.  Miss Boundy goes to Moonta Mines.

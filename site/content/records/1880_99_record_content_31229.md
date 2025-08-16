@@ -23,6 +23,7 @@ topics:
 - politics
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Terowie Correspondent writes re the Burra elections, saying that the [Mayoral] position nearly went begging.  He believes the present Mayor [F.W. Holder] will have his hands full being an MP at the same time.  The financial aspect of the Council will also be difficult.  The correspondent says ‘the team this year are perhaps not the smartest men in Burra’.  He was amused when one candidate [Hardy] described himself as an agent: ‘and knowing him so well I thought it hardly a sootable term; but at the same time he should be capable - that is if he has his plant to hand - to make sweeping reforms.’  [Hardy had previously been a chimneysweep.]

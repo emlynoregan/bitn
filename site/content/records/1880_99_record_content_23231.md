@@ -19,6 +19,7 @@ topics:
 - agriculture
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  There was a call for The Burra and North-Eastern Agricultural Society to be revitalised.  [The call fell on deaf ears.]

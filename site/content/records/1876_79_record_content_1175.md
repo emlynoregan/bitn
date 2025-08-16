@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Migration: Adelaide: Rev. Wilton Hack proposes Japanese migration to the NT.

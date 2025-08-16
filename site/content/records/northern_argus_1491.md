@@ -25,6 +25,7 @@ topics:
 - fundraising
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Rosalie Lloyd has been chosen for the Australian Junior Team to compete against Japan and China to be held in China.  She will compete in the 400 metre hurdles.  There are 34 athletes in the Australian team.  Burra people have raised $1,000 towards this trip and last Saturday the Apex Club presented her with a cheque for $300.  The team flies to Tokyo on 20 August and then on to Beijing and returns on 30 August.

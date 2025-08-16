@@ -18,6 +18,7 @@ topics:
 - currency
 - coinage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Coinage.  Will the new 4/- piece be called a dollar?

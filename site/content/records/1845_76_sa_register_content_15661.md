@@ -23,6 +23,7 @@ topics:
 - real estate
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Emu Hotel, Black Springs.  The landlord’s interest in the hotel and 80 acre section, well fenced, is for sale.  Six and a half years’ lease at £6 net rental.

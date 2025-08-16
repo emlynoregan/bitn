@@ -18,6 +18,7 @@ topics:
 - literature
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Our Boy Dick and Granny, a humorous piece on the Salvation Army in dialect.

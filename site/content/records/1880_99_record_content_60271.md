@@ -20,6 +20,7 @@ topics:
 - snow
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett correspondent reports a heavy fall of snow on Friday night, which was still evident Saturday morning, giving a glorious view in the morning sun looking west towards Tommy’s Gap Ranges with dense black clouds behind them.

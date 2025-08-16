@@ -23,6 +23,7 @@ topics:
 - banking
 - personnel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr H.T. Margetts, the manager of the Kooringa Bank of Australasia has been moved to New Zealand and will be replaced by the manager of the Aberdeen branch, Mr E.A. Jaffrey.

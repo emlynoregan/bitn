@@ -26,6 +26,7 @@ topics:
 - accident
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Laura Beatrice Davey (8) and Edward Clarence Davey (2) were burnt to death at Broken Hill on 1 January when a candle was upset.  [Beatrice Laura Ellen Davey born 24 November 1886, Jamestown: Edward Clarence presumed born in Broken Hill.]

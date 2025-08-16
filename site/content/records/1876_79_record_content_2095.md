@@ -20,6 +20,7 @@ topics:
 - coaches
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Coaches: E.F. Opie is new contractor for the N-E Mail. The 1st trip on 6 April had 13 passengers. There was a near accident at Terowie when the horses made a rush before being coupled up, but fortunately the driver was restrained as they dashed off.

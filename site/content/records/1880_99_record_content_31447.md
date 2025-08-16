@@ -24,6 +24,7 @@ topics:
 - mining
 - exploration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He considers a considerable amount of marketable manganese is still gettable from the surface blow.  But the exploration at depth so far has failed to either prove or disprove the existence of a large deposit.  This might be done by further driving at 50’ or the 100’ levels.  He thought interesting discoveries might lie east, but exploration there is prevented by the chapel grounds.  He makes three suggestions for tracing the possible lode.  [This is the mine at Ironmine.]

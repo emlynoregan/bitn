@@ -19,6 +19,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist dinner on Wednesday afternoon was well patronised and the Burra Band attended.

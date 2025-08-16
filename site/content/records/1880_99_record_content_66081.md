@@ -39,6 +39,7 @@ topics:
 - dairy
 - wine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Without this seed wheat much of the drier country must have gone out of cultivation to the disadvantage of the landlords of whom the Government is the largest.

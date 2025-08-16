@@ -20,6 +20,7 @@ topics:
 - sport
 - recruitment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Barrow Birds find that due to unforeseen circumstances they need a replacement runner and a reserve.  Anyone interested should contact Di. Day.

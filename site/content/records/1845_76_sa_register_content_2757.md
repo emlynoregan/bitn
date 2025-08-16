@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry Ayers, Secretary, Rundle Street, Adelaide, 29 September 1848.

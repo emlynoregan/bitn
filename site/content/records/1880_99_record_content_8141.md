@@ -21,6 +21,7 @@ topics:
 - building
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for the building site adjacent to the new Wesleyan parsonage with a frontage of 112’9” to Kangaroo St and a depth of 203’.

@@ -18,6 +18,7 @@ topics:
 - school
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Sunday School Anniversary report occupies the best part of one column.

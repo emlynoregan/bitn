@@ -20,6 +20,7 @@ topics:
 - council
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In an exchange Cr Watt said to Cr Hardy: ‘You would be pleased to see that firm away from the town wouldn’t you?’

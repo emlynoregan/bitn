@@ -23,6 +23,7 @@ topics:
 - government
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: Midland Road board received a direction from Commissioner of Public Works directing them to construct the road from Kooringa to NW Bend as provided in the Act and not the deviation via Aberdeen.

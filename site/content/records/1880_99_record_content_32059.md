@@ -23,6 +23,7 @@ topics:
 - obituary
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss Wheatley, daughter of A. Wheatley, died at the Burra Hospital on 27 March.  [Annie, aged 18.  Born 20 July 1870.]

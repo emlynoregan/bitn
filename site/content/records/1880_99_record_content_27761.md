@@ -21,6 +21,7 @@ topics:
 - award
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Warnes of Koomooloo wins the Championship Gold Medal for 6 ewes’ fleeces at the Sydney Centennial Show.

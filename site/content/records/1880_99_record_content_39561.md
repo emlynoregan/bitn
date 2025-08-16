@@ -18,6 +18,7 @@ topics:
 - fiction
 - invention
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A new Invention Needed by Luke Sharp, 27 may.

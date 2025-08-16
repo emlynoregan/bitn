@@ -24,6 +24,7 @@ topics:
 - inspection
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Colonial Surgeon inspected the Burra Hospital on 14 January with Drs Brummitt and Sangster, the Chairman of the Board of Management R.M. Harvey and Secretary J.D. Cave.

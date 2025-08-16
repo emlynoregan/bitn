@@ -19,6 +19,7 @@ topics:
 - pest control
 - disease control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. C. Grasby: a one-column article on the benefits of spraying for disease and pest control.

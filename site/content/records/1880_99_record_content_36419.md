@@ -20,6 +20,7 @@ topics:
 - finance
 - bankruptcy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the arrest of those who tried to form a company to purchase the assets of the Commercial Bank of SA (in liquidation) and to get rid of the properties on the art union principle, securing 120,000 subscribers at £1 each.

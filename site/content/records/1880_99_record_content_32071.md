@@ -20,6 +20,7 @@ topics:
 - society
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the difference between Victorians and South Australians: the former are optimists re their colony and the latter are pessimists.  South Australians have faith in neither themselves nor their colony.

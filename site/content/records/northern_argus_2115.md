@@ -19,6 +19,7 @@ topics:
 - garden
 - horticulture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Malowen Lowarth Garden us a picture with sunflowers, hollyhocks etc. in bloom.

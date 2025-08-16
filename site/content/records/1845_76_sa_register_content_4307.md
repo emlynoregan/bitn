@@ -28,6 +28,7 @@ topics:
 - assault
 - threat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Resident Magistrate’s Court, Kooringa, Monday 11 February.

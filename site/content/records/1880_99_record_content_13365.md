@@ -20,6 +20,7 @@ topics:
 - club
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  A meeting was held last Saturday evening at the Stanley Hotel to form a club in Clare.

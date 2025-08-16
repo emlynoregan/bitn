@@ -19,6 +19,7 @@ topics:
 - event
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School annual student concert was given on 14 December.  The ably performed concert is reviewed in c. ⅓ column.

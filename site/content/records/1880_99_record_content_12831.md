@@ -20,6 +20,7 @@ topics:
 - economy
 - diversification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1873 India exported 1,000,000 bushels

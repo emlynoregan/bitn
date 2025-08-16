@@ -20,6 +20,7 @@ topics:
 - sale
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr T.H. Williams’ furniture and effects will be sold by Dempsey, Wilkinson & Sandland.  [Trooper] Williams is leaving for Mt Gambier.

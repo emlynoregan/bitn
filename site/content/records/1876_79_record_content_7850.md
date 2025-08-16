@@ -21,6 +21,7 @@ topics:
 - sport
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The Burra 11 began a match against 18 of the True Blues (Juniors) near the Unicorn Brewery on Saturday. The first innings saw True Blue 100 leading Burra 86. The game will be concluded tomorrow.

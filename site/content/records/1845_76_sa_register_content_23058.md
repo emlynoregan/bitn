@@ -24,6 +24,7 @@ topics:
 - false imprisonment
 - damages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Court last week.  Mr Whitting a sheep farmer from the Barrier sued former Police Trooper Molloy for £50 damages for false imprisonment.  Whitting had one evening put his hand on the shoulder of a young woman, whom he claimed he had mistaken for one who was going up to his station with him.  The young woman did not answer his, being deaf, but apparently felt he was going to insult her and called on Molloy for help.  Molloy arrested Whitting, handcuffed him, forcing handcuffs on a recently dislocated wrist that was much swollen.  He refused bail and forced Whitting to spend the night in the cell with a single blanket.  The next morning Whitting was convicted of drunkenness, resisting police and assaulting the young woman.  The jury gave damages of £25.

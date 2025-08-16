@@ -19,6 +19,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder has announced that SA has come out with a financial surplus of £32,000 after a deficit last year of £28,000.

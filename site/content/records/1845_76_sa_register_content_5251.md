@@ -41,6 +41,7 @@ topics:
 - meeting
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 He considered that a £5 franchise would place political rights in the hand of every industrious man and would not disqualify any honest or virtuous male adult.

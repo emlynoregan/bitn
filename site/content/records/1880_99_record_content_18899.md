@@ -18,6 +18,7 @@ topics:
 - administration
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the desirability of larger shire councils to amalgamate the duties of Town Councils, School Boards, Boards of Health, Road Boards, Licensing Benches, etc. in the name of efficiency.

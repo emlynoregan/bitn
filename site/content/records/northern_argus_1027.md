@@ -19,6 +19,7 @@ topics:
 - obituary
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Jenny O’Connor writes a short obituary for Market Square.

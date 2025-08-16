@@ -20,6 +20,7 @@ topics:
 - mining
 - rush
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader.  ‘The continued product of gold at the Teetulpa Field is extremely satisfactory, and only the expectation that the finds will extend and the fields develop enables us to regard with complacency the tremendous rush that has set in from Victoria.’

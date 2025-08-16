@@ -21,6 +21,7 @@ topics:
 - death
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  A 16-month-old child of Mr Richard Reed, sheep farmer of Wandillah, was sent out to play with the rest in the morning.  An hour later the child was found sitting in a small galvanised iron washing pan with its head hanging over the side, dead, but warm.  The pan contained about three inches of soapy water.  It is conjectured that the infant fell into the pan face down and struggled into a sitting position while nearly suffocated, and through its head falling over the side of the pan was unable to breathe freely and so died.

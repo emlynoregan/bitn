@@ -19,6 +19,7 @@ topics:
 - railways
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Legislative Council seems bent on stopping any more railways at present except for the Nairne line. The Rifle Companies Bill is now sure to pass.

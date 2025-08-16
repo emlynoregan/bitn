@@ -21,6 +21,7 @@ topics:
 - appointment
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr J.N. Martin, Stationmaster at Farrell’s Flat, has been appointed Superintendent of the Kingston-Naracoorte Railway.

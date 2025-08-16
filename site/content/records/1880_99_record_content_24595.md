@@ -21,6 +21,7 @@ topics:
 - accident
 - workplace
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary/Accident.  Benjamin Hill was working yesterday morning repairing a pump in a well belonging to O’Leary Bros about two miles south of Kooringa.  He was overcome by bad air and fell.  Despite all attempts at rescue he died.  A candle would not burn more than 11 ft down the 70 foot well.  [Died 7 February, aged 55.]

@@ -26,6 +26,7 @@ topics:
 - crime
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Court, 14 July

@@ -18,6 +18,7 @@ topics:
 - land
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hundred of Hanson sections 788, 796, 797, & 798.  Total 1852 acres

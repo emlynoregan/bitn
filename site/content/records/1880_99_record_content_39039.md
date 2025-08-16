@@ -18,6 +18,7 @@ topics:
 - community
 - local politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pinch: a nuggetty Cousin Jack, keen eye, kindly expression, shaved upper lip and snowy whiskers.  Rides better than many juniors despite his years.  Hard work has amassed sufficient not to have to plough, sow or fence.  Sociable and though willing to take his turn ‘shouting’ he does not dissipate his wealth in show.  Of sound commonsense.  A trifle deliberate in speech and in making up his mind.  Also a [Free]mason.

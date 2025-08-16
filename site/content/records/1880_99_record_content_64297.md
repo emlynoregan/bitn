@@ -22,6 +22,7 @@ topics:
 - obituary
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Roy (Pet) Woollacott, son of C. & T.H. Woollacott, died after a short illness, aged 4 years 3 months.  [Born 18 March 1894: died 4 June 1898]

@@ -28,6 +28,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Easter at Burra.  Good Friday was pleasant and Easter Sunday was cloudy with a little evening rain, but on Monday there was thunder, an east wind and drizzle all day.  The Anglican Sunday School picnic to Princess Royal was postponed to Tuesday, when it was a success.  The Wesleyan Sunday School sports and picnic on Limestone Hill was converted to an indoor event.  The Roman Catholic Picnic was postponed to a day to be fixed.  On Monday Evening the Burra Christies gave a concert at the Burra Hotel to aid the Catholic Church and despite the weather it was a success.

@@ -26,6 +26,7 @@ topics:
 - events
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  Names are being taken for work on Jubilee Avenue at 5/- a day.  Tenders have been called for 500 posts and also for the purchase of the old fence between the Mine Bridge and Mr Bentley’s photo rooms.  The purchaser is to remove same.

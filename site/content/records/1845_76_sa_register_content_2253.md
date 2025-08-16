@@ -19,6 +19,7 @@ topics:
 - death
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Disease.  There has been a considerable mortality, chiefly amongst children from typhus and scarlet fever.  This decrease in population is, however, amply counterbalanced by the mania for marriage here.  The advice to do nothing rashly is ignored and many think a fortnight’s courtship is quite long enough and there is happy obedience to the first great command.

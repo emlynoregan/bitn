@@ -21,6 +21,7 @@ topics:
 - fundraising
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mt Bryan School will stage a concert at the Council Chamber on 10 November in aid if school prizes: Juvenile Christy Minstrels, Excellent Tableaux, and Fife & Drum Band etc.

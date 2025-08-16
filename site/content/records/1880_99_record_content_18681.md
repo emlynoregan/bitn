@@ -34,6 +34,7 @@ topics:
 - pump
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Guarantors of Burra Waterworks Meeting in the Council Chamber last Tuesday.  12 plus the Council were present.  No redress seems obtainable so the Waterworks Committee called the guarantors together to bring the utmost pressure on the Commissioner of Public Works in the interests of the town by presenting a memorial incorporating the following: -

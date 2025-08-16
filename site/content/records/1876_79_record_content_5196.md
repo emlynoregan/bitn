@@ -19,6 +19,7 @@ topics:
 - retirement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Perry. A gold watch was presented to Mr Perry by his friends on his retirement from Public Service. He has been a resident of Burra for 26 years.

@@ -21,6 +21,7 @@ topics:
 - community
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church Anniversary, Sunday 20 November when services were taken by Rev. W.H. Rofe & Mr D.J. Wellington.  Tea meeting Wednesday.  The services were a great success.

@@ -20,6 +20,7 @@ topics:
 - sale
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Sale on 26 June, of the town of North West Bend, on the east bank of the Murray, opposite Morgan.

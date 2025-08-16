@@ -22,6 +22,7 @@ topics:
 - shop opening
 - smallgoods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr S. Edwards, well and favourably known in Burra, has opened a shop dealing in York Ham and other smallgoods and poultry.  The business is situated next to the Bank of Australasia.

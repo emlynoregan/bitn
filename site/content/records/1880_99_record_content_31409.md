@@ -18,6 +18,7 @@ topics:
 - editorial
 - duty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the value of work in its differing forms.  Work is a duty for all able-bodied and rational people.

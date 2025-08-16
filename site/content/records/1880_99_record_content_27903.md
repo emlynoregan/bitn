@@ -19,6 +19,7 @@ topics:
 - military
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Major-General Downes has been appointed to command SA military forces.

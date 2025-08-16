@@ -19,6 +19,7 @@ topics:
 - road
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC continues work on the Burra-Spalding Road.  $40,000 has been spent already.

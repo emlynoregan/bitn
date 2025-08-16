@@ -21,6 +21,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Banquet.  Over 100 electors attended the banquet at Jamestown to Holder and Lake on Friday evening, 9 May.

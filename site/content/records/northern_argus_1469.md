@@ -25,6 +25,7 @@ topics:
 - local government
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  Notice of Adoption of Assessment and Declaration of Rates.

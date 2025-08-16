@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Irish Relief Fund.  The meeting was poorly attended.  J.M. McBride donated £110; being £10 for each of his children.  Wheat donations were also acceptable.  The editor suggests a concert would be useful and subscription lists will be raised.

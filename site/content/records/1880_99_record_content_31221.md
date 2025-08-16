@@ -19,6 +19,7 @@ topics:
 - community
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Primitive Methodist Church has postponed its tea meeting to next Monday on account of the heavy rain on 1 Jan.

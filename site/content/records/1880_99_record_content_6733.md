@@ -21,6 +21,7 @@ topics:
 - church
 - valedictory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. James Bickford was accorded a valedictory meeting at Redruth Wesleyan Church last Tuesday and Kooringa Wesleyan Church on Wednesday.  F.W. Holder was the main speaker.

@@ -20,6 +20,7 @@ topics:
 - compensation
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ganger Davis’s widow was entitled to £70-4-6 under the Civil Service Act, the Commissioner of Public Works announced in Parliament on Thursday.  The Government will ask the Railway Commissioners to reconsider and make a more adequate payment.

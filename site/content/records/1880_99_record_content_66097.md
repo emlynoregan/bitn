@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Church last Sunday saw the dedication of a marble font given by a lady member and also the farewell sermon of Rev. King.

@@ -19,6 +19,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The SA Alliance is pushing for local option reform.  Rev. H.T. Burgess is a strong supporter, believing that local people should have the power to prohibit or restrict the sale of alcohol within the district.

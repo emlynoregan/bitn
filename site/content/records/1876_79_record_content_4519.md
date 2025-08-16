@@ -25,6 +25,7 @@ topics:
 - construction
 - Sunday-school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Wesleyan Church. Rev Campbell’s lecture on ‘Backwoods Preachers’ had a fair audience in the Wesleyan Church, Kooringa on Tuesday. Sara & Dunstan have won the tender to erect the main Sunday-school & two classrooms for £774-9-0 and are expected to be finished in four months.

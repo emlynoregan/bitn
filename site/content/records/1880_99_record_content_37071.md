@@ -20,6 +20,7 @@ topics:
 - inspection
 - volunteer forces
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF will be inspected by General Downes next Wednesday.

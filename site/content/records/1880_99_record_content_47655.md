@@ -20,6 +20,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Westbury Wesleyan Sunday School anniversary was held on 30 October and 2 November and all passed off nicely.

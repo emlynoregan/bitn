@@ -20,6 +20,7 @@ topics:
 - fundraising
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School Concert was held in the Institute last Friday in aid of the building fund, but drew only a small attendance.  There was a lengthy program.  The performance reflected great credit on those who tutored the young performers who deserved a larger audience.

@@ -19,6 +19,7 @@ topics:
 - sheep sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W.G. Goodchild & Co. offers 10,850 sheep on 6 December.

@@ -21,6 +21,7 @@ topics:
 - timber
 - iron merchants
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 G. & W. Sara & Dunstan	Builders, Timber & Iron Merchants

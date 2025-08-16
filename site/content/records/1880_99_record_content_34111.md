@@ -18,6 +18,7 @@ topics:
 - politics
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 'Single Tax' writes to champion the cause.

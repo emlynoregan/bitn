@@ -24,6 +24,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crs Brown and Rayner supported extending the Aberdeen scheme.  A guarantee of £120 p.a. would be needed to extend the main to the hospital.  More than £30 of it would come from Aberdeen, leaving Kooringa to pay only a little over £60.

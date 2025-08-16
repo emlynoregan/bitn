@@ -21,6 +21,7 @@ topics:
 - mail
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Northern Mails.  The irregularity of the mail is a cause for great complaint.  Last week was particularly bad.  On Saturday the mail did not arrive till about 10 o’clock.  There was consequently no delivery that night, but the postmaster Mr Powell very kindly sent around the letters to the principal tradesmen of the township.

@@ -20,6 +20,7 @@ topics:
 - show
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society has called a meeting for next Friday to consider a showground, as it is well to be prepared for the Smelting Yard becoming otherwise engaged.

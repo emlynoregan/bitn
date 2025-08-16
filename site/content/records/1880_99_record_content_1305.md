@@ -24,6 +24,7 @@ topics:
 - death
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest, 3 July at the Pig and Whistle on Sophia Day who had died that afternoon.  J.D. Cave JP, coroner.  Mrs Maria Day said the child was born the 24 June and had a cold from the start, but no danger was perceived till Saturday when all was normal till about 2 p.m. when the child seemed to be dying.  This was supported by Sophia Head, nurse to Mrs Day.  Dr Brummitt could give no explanation for the death, which the jury assigned to natural causes.

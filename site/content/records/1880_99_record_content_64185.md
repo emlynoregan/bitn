@@ -20,6 +20,7 @@ topics:
 - anniversary
 - Sunday School
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary next Sunday with afternoon service of song River Singers.  Tea meeting Monday.

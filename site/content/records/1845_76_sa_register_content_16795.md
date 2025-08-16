@@ -23,6 +23,7 @@ topics:
 - society
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The annual meeting of the Burra branch of the SA Bible Society was held in St Mary’s Schoolroom on 21 September.  The place was well filled and Mr T.S. Porter occupied the chair, flanked by the town’s various ministers of religion.  Rev. H. Chester read the report, which showed that since the branch was established more than 4,000 Bibles had been issued.  The income in the past year had increased and allowed £100 to be sent to the parent body.  After the report and address by the deputation from Adelaide a collection raised £5-13-0.  The office bearers were all re-elected.

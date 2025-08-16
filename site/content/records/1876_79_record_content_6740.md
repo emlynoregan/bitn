@@ -22,6 +22,7 @@ topics:
 - local government
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Midland Road Board has agreed to pay half the cost of the approaches from side roads to main roads in the municipality provided the work was approved by their surveyor. Cr Ridgway moved that the Town Clerk be instructed to get all public lands and parts of creeks within the boundaries of the Corporation vested in the Council. Several reserves and pieces of land along the banks of the creek were public land, but the Council had no authority over them. Carried.

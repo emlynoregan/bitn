@@ -21,6 +21,7 @@ topics:
 - religion
 - Band of Hope
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Davieston [Hanson].  Last Wednesday Rev. W.H. Hodge (Wesleyan) presided over a meeting in the District Hall to establish a Band of Hope.

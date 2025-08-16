@@ -27,6 +27,7 @@ topics:
 - police
 - labour relations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The other report is from an anonymous ‘Eye-Witness’.]

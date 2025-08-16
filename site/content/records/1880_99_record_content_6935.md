@@ -21,6 +21,7 @@ topics:
 - church
 - access
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA to be asked to grant a path from the Bible Christian Church to Mitchell’s Flat.

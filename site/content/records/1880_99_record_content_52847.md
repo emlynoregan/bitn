@@ -20,6 +20,7 @@ topics:
 - health
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Mahommedeen Bakhsh, the Indian eye doctor, is visiting Burra for four weeks and may be consulted at the Burra Hotel Monday and Tuesday.

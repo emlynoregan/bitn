@@ -20,6 +20,7 @@ topics:
 - government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the SA Government [of J.W. Downer] surviving a vote of no confidence due to the weakness of the opposition.

@@ -22,6 +22,7 @@ topics:
 - death
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Priscilla Opie, eldest child of E.F. & M.A. Opie died at Aberdeen on 24 May, aged 5 years 7 months.  [Born 15 October 1878.]

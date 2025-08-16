@@ -23,6 +23,7 @@ topics:
 - appointments
 - retirement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Church.  The Rev. S. Gray is re-stationed at Burra.  Rev. A.J. Birt goes to Broken Hill and Mr Jacob Burrows retires.

@@ -22,6 +22,7 @@ topics:
 - presentation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Recognition.  Moves are under way for presentations to be made in recognition of the services to Burra of Sir Henry Ayers and Mr John Rumball.

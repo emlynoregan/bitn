@@ -21,6 +21,7 @@ topics:
 - injury
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  When a gun was fired close to a horse carrying Mr J.H. Dawe’s two children from Stony Gap School to their home at Princess Royal, they were flung to the ground.  The horse ran home and has since refused to be ridden.

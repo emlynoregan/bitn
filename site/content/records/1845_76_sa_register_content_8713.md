@@ -29,6 +29,7 @@ topics:
 - election
 - accounts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The SA Mining Association gives notice of its AGM at the Company’s Office in Rundle Street 19 April at 11 a.m.  The purpose of the meeting is to receive the Directors’ Report, the Secretary’s Report and to examine the Auditor’s Report and accounts.  Also to elect eight Directors in place of Messrs Sanders, Hall & Allen, disqualified, and Messrs Peacock, Paxton, Waterhouse, Kingston & Beck, who retire and to elect an auditor in place of Mr GeorgeTinline who has resigned.

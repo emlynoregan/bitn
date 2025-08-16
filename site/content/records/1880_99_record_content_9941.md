@@ -20,6 +20,7 @@ topics:
 - concert
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Volunteer Brass Band concert last Monday was presided over by W.F. Coglin JP.  The attendance was better than it deserved.  ‘We seldom sat out an entertainment of a less interesting character.’  The first half of the program, which was very patchily done, ended with Professor Primrose and although entertaining, many of his remarks were decidedly vulgar, and not at all such as should be permitted before a company of respectable people, especially ladies.  Even the farce was only fair.

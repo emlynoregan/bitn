@@ -19,6 +19,7 @@ topics:
 - business
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hotel has installed a satellite dish, which enables them to receive TV through Sky Channel.  It is the only hotel in this area so far to provide this service.

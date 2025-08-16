@@ -18,6 +18,7 @@ topics:
 - mayoralty
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An advertisement in reply to the deputation gives a strongly affirmative answer.

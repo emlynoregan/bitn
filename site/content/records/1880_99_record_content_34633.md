@@ -20,6 +20,7 @@ topics:
 - wheat
 - farming
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat.  One farmer at Baldina, where perhaps the land yields one year in ten, has this season sown 3½ bags of wheat on 15 acres and reaped 160 bags of the best sample going.

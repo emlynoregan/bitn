@@ -19,6 +19,7 @@ topics:
 - lecture
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.H. Evans, from Victoria, lectured on ‘Courtship and Marriage’ to a fair gathering at the Bible Christian Church on Wednesday evening.  It was a very amusing lecture from start to finish.

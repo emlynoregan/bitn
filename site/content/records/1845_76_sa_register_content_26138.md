@@ -22,6 +22,7 @@ topics:
 - suicide
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Morris Suicide.  The body of the young man Joseph Morris reached Adelaide by the midday train on Thursday.  The cortege at once proceeded to the West Terrace Cemetery.  Much sympathy is felt for the friends of the deceased who are respected members of the Jewish community.  The father has form many years carried on business as an optician in Adelaide, and the deceased, the second son, has been acting as traveller for his father.

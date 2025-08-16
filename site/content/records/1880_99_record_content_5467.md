@@ -20,6 +20,7 @@ topics:
 - floral
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Flower Show.  The 3rd annual Burra Floricultural Society Show was held at the Institute last Wednesday.

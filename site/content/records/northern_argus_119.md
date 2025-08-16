@@ -23,6 +23,7 @@ topics:
 - tidy towns
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Senior Citizens have decided to plant a section of the Burra Creek bank opposite the Civic Centre  as their Tidy Towns project.

@@ -18,6 +18,7 @@ topics:
 - pest control
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. The Govt. has employed 22 rabbit destroying parties.

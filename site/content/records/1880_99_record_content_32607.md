@@ -21,6 +21,7 @@ topics:
 - services
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. H.T. Burgess began a series of ‘popular services’ in the Kooringa Wesleyan Church on Sunday last with a sermon on betting and gambling etc.

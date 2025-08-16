@@ -20,6 +20,7 @@ topics:
 - culture
 - institutions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute.  A new piano made by Kaps of Dresden has arrived.

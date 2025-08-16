@@ -26,6 +26,7 @@ topics:
 - death
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 This fine barque arrived yesterday with over 200 free settlers, after a passage of four months, having departed Plymouth 15 November.  Most of the migrants are from Devon and Cornwall mining districts.  There were seven births and three deaths en route.  The ship brings with it news of further sales of Burra Burra ores and we have reason to believe the average price will be found quite equal to £26 per ton.  The (London) Australian Mining Co. was surprised and disgusted to be saddled with the imposition of a Royalty.

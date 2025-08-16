@@ -20,6 +20,7 @@ topics:
 - community
 - noise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti-Serenade’ writes complaining of members of the local brass band playing in front of his door at 10.00 p.m.  (And not playing very well!)

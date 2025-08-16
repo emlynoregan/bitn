@@ -20,6 +20,7 @@ topics:
 - council
 - slaughter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Strike was granted a licence to slaughter small cattle at his premises in Bridge St.

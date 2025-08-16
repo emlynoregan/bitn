@@ -33,6 +33,7 @@ topics:
 - hospital
 - public service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Banquet for H. Dawson was held at the Exchange Hotel on Friday 15 July.  The report runs to 1½ columns.  About 50 guests sat down to thank Mr Dawson who had been in the town for over thirty years - few had been longer.  W.H. Rosman said Dawson had been a great public worker who had pushed for the extension of the railway to Burra, was a member of the first District Council, a major promoter of the establishment of the Burra Hospital and a board member of it.  He believed that Mr Dawson had run the first cab in the town and conducted the first mail run to The Barrier.  He was a JP who had given every satisfaction and had helped many in sickness and distress.  C.W. Brown read the illuminated address.

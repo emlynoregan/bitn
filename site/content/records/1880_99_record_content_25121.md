@@ -19,6 +19,7 @@ topics:
 - rain
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  The break of the season has been most auspicious with the best start for many years.  On Saturday in Burra we received 1.86”, which washed out creeks and damaged roads.

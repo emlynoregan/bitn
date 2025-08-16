@@ -27,6 +27,7 @@ topics:
 - community
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 6 June 1865, page 2

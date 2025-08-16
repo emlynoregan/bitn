@@ -30,6 +30,7 @@ topics:
 - architecture
 - hotel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Messrs Gebhardt have had a residence with stables, sheds and a butcher’s shop built at Aberdeen.  The architect is William Beattie of Port Adelaide and the contractor was J. Baker of Aberdeen.

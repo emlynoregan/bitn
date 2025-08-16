@@ -19,6 +19,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. having been in recess for some times announces its intention of reassembling this evening.

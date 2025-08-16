@@ -21,6 +21,7 @@ topics:
 - discovery
 - resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Mines

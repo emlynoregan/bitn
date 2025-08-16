@@ -20,6 +20,7 @@ topics:
 - injury
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Accident.  Mr Thomas Richardson was thrown to the ground when a piece of wood got entangled in his wheels.  He was rendered unconscious for some hours.

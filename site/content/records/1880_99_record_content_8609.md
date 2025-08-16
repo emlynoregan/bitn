@@ -19,6 +19,7 @@ topics:
 - road
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Best Place issue was settled by centring the road between the existing buildings and making the roadway 23’ either side of the centre line, with somewhat narrower footways.

@@ -21,6 +21,7 @@ topics:
 - farewell
 - gift
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Chapel, Mt Bryan Flat held a tea-meeting on 9 September to farewell Mr G. Storer, a resident of seven years and a local preacher. He was given a silver inkstand.

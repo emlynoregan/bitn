@@ -21,6 +21,7 @@ topics:
 - community
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  World’s End Wesleyan Church opening services Sunday 9 June at 3 p.m. and 6.30 p.m.  Rev. T.M. Rowe will officiate.

@@ -20,6 +20,7 @@ topics:
 - international
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the death of the German Emperor at the age of 91.  The new Emperor, Frederick III, is in precarious health and his long-term survival would seem to need a miracle.

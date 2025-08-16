@@ -21,6 +21,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary 11 & 12 October.  Rev. H. Parkinson to preach with an afternoon flower service.  Iron Mine Band to attend the tea meeting.

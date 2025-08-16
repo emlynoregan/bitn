@@ -21,6 +21,7 @@ topics:
 - community
 - teetotalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  The crops are looking well and on Thursday A.W.P. Ward gave a lecture at Razorback Chapel on ‘Teetotalism’ and 18 names were added to the pledge book.

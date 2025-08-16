@@ -19,6 +19,7 @@ topics:
 - club
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 AO Foresters second Harmony Evening took place on Friday.  PCR Secretary Shortridge read The Charge of the Light Brigade.

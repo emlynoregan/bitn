@@ -19,6 +19,7 @@ topics:
 - sports
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [C. Fuss came 2nd in the 440 yards handicap, starting from scratch and winning 10/-.

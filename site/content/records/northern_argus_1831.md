@@ -17,6 +17,7 @@ topics:
 - correction
 - note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Again it is falsely reported as the 109th:   See explanation CXVI, 8068, 27 August 1986, page ?]

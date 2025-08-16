@@ -21,6 +21,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Robert Carson was charged by Robert Collins with taking away a bullock belonging to him.

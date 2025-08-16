@@ -20,6 +20,7 @@ topics:
 - advertisement
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders are called for a Bible Christian chapel to be erected at Hallett.

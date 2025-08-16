@@ -19,6 +19,7 @@ topics:
 - environment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Vandals have poisoned four claret ash trees in Market Square.  They had been donated by local residents.

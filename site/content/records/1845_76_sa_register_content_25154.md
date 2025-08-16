@@ -25,6 +25,7 @@ topics:
 - stained glass
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s Church.  Two handsome stained glass windows have lately been given to this church and placed on either side at the east end.  One was given by Mrs Winnall as a memorial to the late Mr John Winnall, her husband.  He was for some years a Warden of the church and Superintendent of the Sunday school.  The other was given by several seatholders in memory of their children.  The memorials were executed by Mr Brooks of North Adelaide.

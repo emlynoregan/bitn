@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P. Lane JP presented a request that the ‘walk around the corner’ sign at Kangaroo St be replaced in the interests of children as there is no footway.  Granted.

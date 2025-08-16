@@ -21,6 +21,7 @@ topics:
 - resources
 - fuel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Firewood for Railways.  A deputation waited on the Minister for Public Works urging that the railways buy firewood presently being cleared from agricultural land in the Counties of Stanley and Light, for use in locomotives.

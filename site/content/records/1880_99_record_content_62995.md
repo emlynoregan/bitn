@@ -20,6 +20,7 @@ topics:
 - finance
 - grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Main Roads Grant was £268, up £26 and all but £3-2-8 has been spent.

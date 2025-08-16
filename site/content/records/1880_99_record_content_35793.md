@@ -18,6 +18,7 @@ topics:
 - council
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Amazed Reader’ writes, astounded that the Mayor should be criticised for drawing the attention of publicans to the state of the law.  If the Mayor sees a scoundrel picking a pocket is he required to call a meeting of Council before drawing attention to the Act?

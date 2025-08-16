@@ -19,6 +19,7 @@ topics:
 - community
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The Penny Readings on Saturday nights at the Institute continue to attract good audiences despite the bad weather.

@@ -22,6 +22,7 @@ topics:
 - foreign policy
 - morality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘SMITH’ once again at length on Sudan.  He raises many points, which are supported with quotes and evidence to bolster his opinions, but the editor comments that he fails to question the moral responsibility of the Government.

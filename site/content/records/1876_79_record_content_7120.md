@@ -20,6 +20,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Kooringa Primitive Methodist Church anniversary will be held on 5 & 6 October when Rev. H.J. Pope will preach.

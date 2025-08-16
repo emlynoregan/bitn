@@ -20,6 +20,7 @@ topics:
 - humour
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Municipal Elections.  This is a humorous report that sees the contestants as entrants in a horse race.  The most interesting comment concerns W.H. Hardy:

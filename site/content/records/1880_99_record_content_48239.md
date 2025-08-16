@@ -20,6 +20,7 @@ topics:
 - debt
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Pearce, trading as Bath & Pearce, sued Ah Shang for a claim of £30-7-11.  This was an unsatisfied judgement summons.  Ah Shang was ordered to pay 5/- a week.

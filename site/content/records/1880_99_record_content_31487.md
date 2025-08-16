@@ -23,6 +23,7 @@ topics:
 - church
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Salvation Army is to be asked to locate its open-air meeting so as not to impede access to the water trough in Market Square.

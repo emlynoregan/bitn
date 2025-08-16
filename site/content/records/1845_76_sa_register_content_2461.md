@@ -20,6 +20,7 @@ topics:
 - employment
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SAMA.  Wanted for the Burra Burra Mines, a pair of sawyers.

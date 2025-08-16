@@ -18,6 +18,7 @@ topics:
 - opinion
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He wishes the movement well, but the piece is a column of waffle saying little if anything of substance.

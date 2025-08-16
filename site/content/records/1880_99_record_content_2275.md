@@ -20,6 +20,7 @@ topics:
 - business
 - insolvency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sale.  John Sampson jun. will sell the chaff-cutter and circular saw, plant and sundries in the insolvent estate of Snell & Williams, on Saturday afternoon on the premises.

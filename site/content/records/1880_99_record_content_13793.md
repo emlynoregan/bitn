@@ -25,6 +25,7 @@ topics:
 - finance
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society met on 11 July.  They have a credit balance of £8-18-3.  Elected: President, Mr Cave; Vice-President, T. Drew; Treasurer, Mr Holder; Hon. Sec., Mr Davey.  It was resolved to hold the next show on either 22 or 29 October as determined by the committee.  [The Fuss Sen. on the committee was presumably H.C.W. Fuss.]

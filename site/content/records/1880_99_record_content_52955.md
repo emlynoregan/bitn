@@ -19,6 +19,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fitz Gerald’s Circus arrived Monday and drew a big crowd in the evening.  The riding was very good as were the acrobatic and juggling acts.  Major McCabe, the lion tamer was the most sensational act.  The best circus seen for many years in Burra.  £90 was taken at the gate.

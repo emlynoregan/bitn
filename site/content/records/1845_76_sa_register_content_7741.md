@@ -23,6 +23,7 @@ topics:
 - rumour
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Gold.  It is rumoured that gold has been discovered on the Light about four miles from Kapunda.  We suspect it to be an exaggeration of an earlier rumour.  The rumour at Burra, that 40 miners had, as a consequence, left Kapunda, is not true.

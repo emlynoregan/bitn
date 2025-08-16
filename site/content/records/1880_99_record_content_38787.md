@@ -33,6 +33,7 @@ topics:
 - meeting
 - schools
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Association held its 24th meeting on 15 November at Burra.  Schools represented were Baldina, Burra, Clare, Copperhouse, Leighton, Mt Bryan, Saddleworth, Terowie, Thistlebeds, Tothill’s Belt & Ulooloo.  The President is R.S. McAloney (Terowie), the Vice-President is T. Nevin (Copperhouse) & A.W. Wittber (Burra) is the Secretary & Treasurer.

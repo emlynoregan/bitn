@@ -22,6 +22,7 @@ topics:
 - costume
 - vulgarity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Propriety’ writes, also in the Literary Star on the question of whether Christy Minstrel Entertainments are desirable.  On the one hand participants do so from pure motives: they would not otherwise adopt such ridiculous costume and outrage modern ideas of propriety.  It is desirable to entertain the audience, but the writer deprecates the mode adopted to achieve that end.  The writer continues to comment on the bad effects of coarse vulgarisms, slang and the vulgarity of the costume and actions, which cannot have an ennobling influence either on oneself or others.

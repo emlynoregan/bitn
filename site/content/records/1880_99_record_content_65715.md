@@ -18,6 +18,7 @@ topics:
 - sport
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cycling.  The holiday cycling events provided amusement for 175,000 people at an average of 1/3 per head, amounting to £10,937-10-0.  Prizes took £2,150, giving a surplus of £8,787-10-0 or say £7,500 after working expenses, advertising etc.

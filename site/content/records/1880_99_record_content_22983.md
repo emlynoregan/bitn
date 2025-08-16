@@ -21,6 +21,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Barnett, wife of Mr C. Barnett, who has just vacated the Commercial Hotel, died suddenly of heart disease, leaving a family of eleven children.

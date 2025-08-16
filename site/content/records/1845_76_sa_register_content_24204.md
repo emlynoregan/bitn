@@ -22,6 +22,7 @@ topics:
 - mining
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Our Burra Correspondent reported on 23 October that only about 10 diggers now remain as men have left for the shearing season.  In the last five months Hinge and Nichles have averaged 30/- a week each and last week Nichles made £10.  Mr Noltenius gained 1½ oz in ten days.  The main problem is that the washdirt has to be carted about two miles.

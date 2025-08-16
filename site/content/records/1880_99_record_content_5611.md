@@ -21,6 +21,7 @@ topics:
 - advertisement
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Band of Hope will hold its picnic in the Police Paddock, Redruth, on New Year’s Day.

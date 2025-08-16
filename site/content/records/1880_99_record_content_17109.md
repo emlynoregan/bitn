@@ -23,6 +23,7 @@ topics:
 - religious
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sunday 26 March [Misprint for 29th?] Primitive Methodist Church Anniversary

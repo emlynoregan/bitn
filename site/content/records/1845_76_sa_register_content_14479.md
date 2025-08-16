@@ -30,6 +30,7 @@ topics:
 - death
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  A shepherd came in from Mr Vickery’s station on Friday and asked Mr Wilkinson, chemist, for some medicine for his wife.  Mr Wilkinson offered to go and see the wife, but the man said that was not necessary and Mr Wilkinson prescribed according to the symptoms.  When the man arrived home he found his wife was dead.  Mr MacDermott sat as coroner and Mr H. Corey was elected foreman of the jury.

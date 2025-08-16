@@ -19,6 +19,7 @@ topics:
 - relief
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Chinese Famine Fund was established at a meeting at the Institute on Friday afternoon and £8-6-0 was subscribed to get it started.

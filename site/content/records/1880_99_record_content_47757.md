@@ -19,6 +19,7 @@ topics:
 - agriculture
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A procession will march across the bridge followed by three trollies laden with copper, wool and wheat and a flock of sheep will bring up the rear.

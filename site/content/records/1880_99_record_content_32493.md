@@ -20,6 +20,7 @@ topics:
 - mining
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  With the fall in the copper price almost all work has stopped at the mine and most of the tributers have cleared off for Broken Hill.

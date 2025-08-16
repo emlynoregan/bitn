@@ -22,6 +22,7 @@ topics:
 - housing
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Mine has not suffered in such a serious way.  Some of the shafts and pits have acquired extra water, which will cause some delays in operations.  Given the distress of those who have been forced from their creek huts, it is hoped that the Burra Mine Directors will take swift action to erect cottages to rehouse them.

@@ -21,6 +21,7 @@ topics:
 - police
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Police.  For some very peculiar reasons known only to bureaucracy the foot constable who has always resided in Kooringa and the trooper who has resided at Redruth are to exchange places.  Since there are no stables at Kooringa they will either have to be erected or rented.

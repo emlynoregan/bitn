@@ -21,6 +21,7 @@ topics:
 - local politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbich: the only man in the district who knows anything.  Fluent and with a superficial acquaintance with all things.  Poses as an authority on all things political and general.  Somewhat inconsistent as shown at last election when he changed sides on the Progressive Land tax mid-course.  He aspired to the Mayoralty, but withdrew in favour of Pinch (because he knew he couldn’t win).  Won’t be satisfied until he sits in the seat of ‘Honest Tom’ [Playford] or better still President of the Republic of Australia.  His experience in Council may see him home.

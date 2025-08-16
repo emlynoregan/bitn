@@ -19,6 +19,7 @@ topics:
 - wildlife
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shooting interest is great with hundreds of wild turkeys and other fowl a few miles out of town.

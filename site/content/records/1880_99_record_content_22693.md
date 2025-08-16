@@ -20,6 +20,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  {by ‘Quiz’)  The depression is having an effect on both numbers and spirit.  Last Saturday the game was not so good, though the weather was excellent.  Only 9 Colours turned out to play 16 Allcomers.  Colours 4.0 defeated Allcomers 0.0.  Mr A. Lott was umpire.  The Allcomers completely lacked discipline or organisation.

@@ -24,6 +24,7 @@ topics:
 - cricket
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. The first match for the season in Burra will occur tomorrow near Roach’s Mill in Aberdeen. Burra plays Seven Hills College. Next Monday at Farrell’s Flat the Burra True Blues play the Young South Australians of Clare.

@@ -20,6 +20,7 @@ topics:
 - Henry George
 - political debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy supplies another long letter of over ½ column on Henry George’s Utopia.  Most of the space is devoted to an attack on B.L.F.’s attack on him.

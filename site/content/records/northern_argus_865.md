@@ -17,6 +17,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Senior school students will be off campus this week.

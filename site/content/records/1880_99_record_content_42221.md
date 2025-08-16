@@ -21,6 +21,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr D. McGuiness, well known in the district, suffered a broken leg when thrown from his buggy when it overturned c. 10 miles from Hawker.  He is in the Burra Hospital.

@@ -20,6 +20,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Sunday School students were shown views of English cathedrals, cities of Europe etc. and views of Robinson Crusoe’s life, exhibited by means of a sciopticon in the old church on Friday.

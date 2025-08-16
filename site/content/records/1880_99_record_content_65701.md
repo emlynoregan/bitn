@@ -17,6 +17,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Born 5 April 1833: died 6 January 1899]

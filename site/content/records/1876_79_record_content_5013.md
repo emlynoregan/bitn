@@ -20,6 +20,7 @@ topics:
 - agriculture
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Crops from Burra to Riverton this year are very patchy — some promising a heavy yield and others less than a bag per acre.

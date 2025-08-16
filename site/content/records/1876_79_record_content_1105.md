@@ -19,6 +19,7 @@ topics:
 - mining
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wheal Grenfell (Sod Hut); new lode found 10'-12' wide 30 yds west of No.2 shaft.

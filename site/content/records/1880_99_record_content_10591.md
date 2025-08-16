@@ -20,6 +20,7 @@ topics:
 - event
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment at the Bible Christian schoolroom next Tuesday evening in connection with the half yearly Council of the IOR.

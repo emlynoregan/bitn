@@ -18,6 +18,7 @@ topics:
 - public order
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism continues in Market Square on Sundays: last Sunday hobbledehoys were playing with the pump and hanging on branches of trees.

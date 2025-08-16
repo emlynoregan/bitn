@@ -18,6 +18,7 @@ topics:
 - theatre
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Last Friday’s 6d show was a success and the farce ‘Caught by the Cuff’ was part of ‘a thoroughly good entertainment.’

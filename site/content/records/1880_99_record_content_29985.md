@@ -23,6 +23,7 @@ topics:
 - fine
 - offence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offences.  Burra Town Council sued W.R. Ridgway successfully for unpaid rates of £1-1-2 (Without costs.)

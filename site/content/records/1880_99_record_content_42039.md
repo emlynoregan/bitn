@@ -21,6 +21,7 @@ topics:
 - municipal
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Institute Committee sends a letter to the Local board of Health expressing the readiness of the committee to erect a urinal on being released from their engagement to join with the Local Board in erecting a public urinal.

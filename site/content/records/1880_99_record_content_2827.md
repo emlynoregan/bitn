@@ -18,6 +18,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 30 Dec 81	Bella’s Hero Ch IV	The Thorsdale Telegrams		X	X	X	X			X	X

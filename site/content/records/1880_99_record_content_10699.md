@@ -25,6 +25,7 @@ topics:
 - missionary
 - Methodist Union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Quarterly Meeting resolved to ask the town ministers to attend the Model School an hour a week to give instruction to children willing to attend.  Mr C. Drew offered to assist if the meeting would do what it could to make up a sufficient sum to employ Mr R. Snell as a missionary for six months to railway camps on the Great Northern Railway.  A resolution was passed favouring Methodist Union.  Rev. S. Knight was not prepared definitely to accept a 3rd year so it has been left to Conference.

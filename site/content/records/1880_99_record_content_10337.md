@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for building a Public School and Teacher’s residence at the Hundred of Baldina, to close at noon on 20 August 1883.  See Govt. Gazette for details.

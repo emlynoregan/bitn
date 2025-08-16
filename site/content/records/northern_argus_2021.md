@@ -20,6 +20,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Farrell Flat Station has come to the end of its active life as a railway station as train will no longer stop at Farrell Flat.

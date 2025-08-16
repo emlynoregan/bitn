@@ -21,6 +21,7 @@ topics:
 - training
 - barrow push
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Breathers and other local entries are training for the Broken Hill-Burra Barrow Push, due to arrive in Burra on 26 January.  [Photo.]

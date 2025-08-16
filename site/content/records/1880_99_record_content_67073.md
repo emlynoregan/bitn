@@ -21,6 +21,7 @@ topics:
 - fundraising
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Concert in aid of the Cricket Club at Burra Institute on Wednesday evening was not a financial success, raising only £3-12-9.  [C. Fuss was among the performers.]

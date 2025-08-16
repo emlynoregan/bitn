@@ -19,6 +19,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 4th leader is a strong attack on the situation in Clare where there were serious and dangerous attacks on the Salvation Army and on the inaction of the police there.

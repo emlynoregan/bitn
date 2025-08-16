@@ -23,6 +23,7 @@ topics:
 - roads
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called by the Central Road Board for work on the Bridge over the Light near Kapunda.

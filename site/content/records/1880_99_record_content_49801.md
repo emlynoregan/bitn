@@ -24,6 +24,7 @@ topics:
 - horticulture
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Chrysanthemum Show today.  It is expected to be the best ever.  J.D. Cave met with great success in Adelaide last Friday winning a special silver trophy for the best 60 and also Mr Bagot’s special prize for 48 of any sort.  He is currently growing about 200 varieties.  J. Lewis’s garden is also very good and Mr R.M. Harvey has a fine display.

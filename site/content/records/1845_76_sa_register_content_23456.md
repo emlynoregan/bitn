@@ -26,6 +26,7 @@ topics:
 - infrastructure
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Northern Extension Railway.  A meeting at the Miners’ Arms Kooringa on 25 July considered the causes in the delay of the opening of the railway.  The roads between Kapunda or Manoora and Burra are in a deplorable state and the cost of heavy carriage has risen as a result.  The tradesmen, knowing the mine machinery had been brought up by rail, wished the same privilege granted to them for the carriage of their goods.  They passed a resolution asking that the line be opened without delay.  They also resolved to ask that H.E. Sir James Fergusson open the line and that he and Lady Edith, the Ministry and the present and late members for the district and the Hon. J.H. Barrow be invited.

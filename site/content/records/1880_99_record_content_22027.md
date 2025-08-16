@@ -17,6 +17,7 @@ topics:
 - unemployment
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  A letter to the editor complains that single men got some of the relief work when married men with families missed out.

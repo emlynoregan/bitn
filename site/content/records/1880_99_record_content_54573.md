@@ -20,6 +20,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra DC.  Mr Morgan has resigned as ranger and the Council advertises for a replacement.

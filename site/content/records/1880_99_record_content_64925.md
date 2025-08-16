@@ -24,6 +24,7 @@ topics:
 - community
 - photography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Guessing Competition in the Record Studio window for how many peas in a bottle was decided on Monday when W. Nolan won a picture frame, J. Ashby of Riverton won six photos and H. Harnor of Eudunda won an enlargement.

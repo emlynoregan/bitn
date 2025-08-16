@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Cyoptical does not appear in the complete Oxford Dictionary.  It may relate to scioptic: relating to the eye which also gave sciopticon: a magic lantern.]

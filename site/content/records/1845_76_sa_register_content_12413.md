@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gawler News, 15 June

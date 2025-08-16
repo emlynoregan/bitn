@@ -19,6 +19,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School Anniversary was celebrated on Easter Sunday and Monday.  Rev. R.J. Daddow was the preacher.

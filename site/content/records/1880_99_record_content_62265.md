@@ -19,6 +19,7 @@ topics:
 - road
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It was resolved that at present the overseer and curator work week for week.  Main road work is waiting for some rain.

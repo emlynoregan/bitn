@@ -21,6 +21,7 @@ topics:
 - death
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest into the death of William Dale.  Having established that he fell from the train between Oulnina and Winnininnie there was some doubt about the role of drink in the fall, but the jury concluded that it was an ‘accidental death’.

@@ -23,6 +23,7 @@ topics:
 - housing
 - building society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: Ed. on inconveniences of the Hallett railway route - no underpass was intended for the road near the White Hart. The road would turn abruptly to follow the railway to the creek, turn under the line along side the creek and then turn abruptly to follow the railway back to the existing line of road.

@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan District Meeting for the Middle District was held in the Kooringa Wesleyan Lecture Hall last week.

@@ -21,6 +21,7 @@ topics:
 - concert
 - programme
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Music Union advertises its first concert at the Inst. for 13 August. The program: 

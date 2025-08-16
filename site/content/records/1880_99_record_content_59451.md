@@ -24,6 +24,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Sunbeam Circle put on an entertainment at St Mary’s schoolroom on Thursday evening and raised £1-1-0 to be remitted to ‘Uncle Harry’ as a donation for the new crèche to be erected in North Adelaide.

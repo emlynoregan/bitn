@@ -23,6 +23,7 @@ topics:
 - banking
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Prior, of the National Bank, we hear has received a promotion and been transferred.  Mr L. Carruthers from Kadina will replace him.

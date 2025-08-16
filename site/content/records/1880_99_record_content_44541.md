@@ -19,6 +19,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Adjutant Cartner visited Burra on Saturday & Sunday last and drew crowded houses.  She appeared in slum attire – dark blue dress, white apron, a plaid shawl on her shoulders and a straw hat.

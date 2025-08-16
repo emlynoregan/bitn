@@ -27,6 +27,7 @@ topics:
 - religion
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Temperance Meeting.  A public meeting was held at the Institute on Wednesday to petition Parliament to have public houses closed all day on Sunday.  About 60 attended with F.W. Holder in the chair. [A Bill was then before the Parliament to bring this about, amongst other provisions.]

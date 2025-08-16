@@ -19,6 +19,7 @@ topics:
 - damage
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Hotel had its parapet blown back onto the roof on Thursday.  Considerable damage was inflicted on the roof, but none to life or limb.

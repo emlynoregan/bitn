@@ -20,6 +20,7 @@ topics:
 - football
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra 5.5 (35) defeated Clare 2.6 (18).  Reported in 1½ columns.

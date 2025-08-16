@@ -22,6 +22,7 @@ topics:
 - rates
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Ratepayer’ in reply to W.R. Ridgway.  He claims the house in the rates case is on the site of the [Aberdeen] hotel that burnt down 10-12 years ago and the present row was erected on the site.  As for Mr West: if he thinks it worth only £7 in the main street, then if SAMA property in the back streets was valued at the same rate ‘the Company would loose [sic] half their income.’

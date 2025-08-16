@@ -19,6 +19,7 @@ topics:
 - protectionism
 - reprint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Pro-Protection Article is reprinted from the Boston Advertiser.

@@ -21,6 +21,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Daddow was tendered a farewell tea on Monday when the Mayor, W.T. Rabbich presented him with an address and another was presented from the church.  There were also thanks from the Burra Literary Soc. and the Burra School Board of Advice.

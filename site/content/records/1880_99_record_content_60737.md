@@ -21,6 +21,7 @@ topics:
 - homing club
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  11th race for the season from Bordertown on 16 Sept.  208½ miles, won by R.D. Pascoe’s bird at 918 yds per minute.

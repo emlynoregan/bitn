@@ -24,6 +24,7 @@ topics:
 - education
 - art
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Miss M.C. Casely, a recent pupil of Mrs Harvey, Hardwick College, offers lessons in oil painting.  Apply the Wesleyan Parsonage, Kooringa.

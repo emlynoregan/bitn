@@ -22,6 +22,7 @@ topics:
 - committee
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On that assurance and with the consent of the seconder he withdrew his motion.

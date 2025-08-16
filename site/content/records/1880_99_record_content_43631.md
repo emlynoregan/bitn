@@ -25,6 +25,7 @@ topics:
 - service
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Christmas morning the Friendly Societies formed a procession from the Institute to the Kooringa Wesleyan Church for a service in aid of the Hospital.

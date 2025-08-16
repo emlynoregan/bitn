@@ -19,6 +19,7 @@ topics:
 - music
 - press release
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Levy & Co. A biographical sketch of the great cornet soloist due shortly in the town. [In modern terms a press release.]

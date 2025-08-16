@@ -22,6 +22,7 @@ topics:
 - mining
 - economic development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dry Creek Smelting Works will be formally opened this week.  They are intended to give great impetus to smaller mines in the Barrier are of NSW or elsewhere in SA.

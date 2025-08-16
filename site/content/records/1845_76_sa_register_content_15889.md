@@ -21,6 +21,7 @@ topics:
 - dividend
 - winding-up
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The Royal Mining Company.  The trustees appointed under the Winding-up Act have this day declared a dividend of five shillings per share, payable this day 17 September and 18 September and on following Wednesday s at the company’s office.

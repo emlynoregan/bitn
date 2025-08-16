@@ -22,6 +22,7 @@ topics:
 - sale
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. sold Outalpa Station on the Broken Hill railway line, comprising about 992 square miles of well improved pastoral country, for £19,353. It is a 21 year lease from 1 January 1889.

@@ -20,6 +20,7 @@ topics:
 - markets
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. will use their new stockyards near the Bon Accord Hotel for the first time on 29 May when they will offer 18,336 sheep.

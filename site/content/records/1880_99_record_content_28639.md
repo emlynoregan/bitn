@@ -23,6 +23,7 @@ topics:
 - results
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Counting continues with the Gawler, Williamstown and Lyndoch boxes to come, but they cannot affect the result.

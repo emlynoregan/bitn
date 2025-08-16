@@ -19,6 +19,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Saddleworth on Monday: St Mary’s 141 & 82 (223) defeated Saddleworth 71 & 41 (112).

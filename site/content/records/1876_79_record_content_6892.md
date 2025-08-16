@@ -21,6 +21,7 @@ topics:
 - football
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. The match on Wednesday in Austin's paddock resulted in a draw. Burra 1.11 and Clare 1.4 [At this time points were recorded, but did not count in determining the result.]

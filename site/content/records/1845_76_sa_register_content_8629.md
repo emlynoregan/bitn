@@ -23,6 +23,7 @@ topics:
 - agriculture
 - damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire.  A bushfire commenced on Saturday near the River Light and ran over the ranges for about eight miles towards Saddleworth.  It rages throughout Sunday and on Monday night ran rapidly through some three acres of standing wheat in Mr Burston’s paddock as well as damaging fences, stockyards and piggeries.  The house of wood and roofed with shingles was saved with difficulty.  The fire reached Mr Coghill’s paddock, but was stopped there without inflicting damage.  The fire was extinguished before daylight on Tuesday.  A little before noon though, thatch on Mr John Freestone’s hut caught alight and the building could not be saved.  This time the flames spread to grass in all directions, but with the help of neighbours was again put our and Mr Coghill’s haystack was saved.

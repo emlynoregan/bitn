@@ -23,6 +23,7 @@ topics:
 - children
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Queen’s Diamond Jubilee at Burra Recreation Ground, 22 June 1897.

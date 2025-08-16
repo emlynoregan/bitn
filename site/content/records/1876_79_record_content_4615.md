@@ -29,6 +29,7 @@ topics:
 - Nock’s Act
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sunday Closing. A meeting at the Inst. on 21 Aug. was held to devise means of sustaining the Nock’s Act which introduced Sunday closing of hotels. The Mayor was in the chair and was supported by Revs Campbell, Jenkins & Richards, and Messrs J.D. Cave, W. Pearce Sen., J. Roberts & F.W. Holder. Fr Kriesll apologised for his absence.

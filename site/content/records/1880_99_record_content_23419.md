@@ -24,6 +24,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board.  The Board has been visiting country schools under its care.  Miss Snell and the 16 children under her care were seen at Daviestown [Hanson].  At Leighton there were 32 children under Mr Angove in a wooden classroom that was all too small to accommodate them.  Repairs etc. are badly needed.  Miss Willow had 37 children at Copperhouse.

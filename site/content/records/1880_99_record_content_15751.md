@@ -33,6 +33,7 @@ topics:
 - waterworks
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson said that Cr Ridgway had shed no light on the matter at all.  The plan said ‘Reserve’ and not ‘Public Reserve’.  He didn’t want to go to legal experts, but to leave things as they were at present.  Was North Ward to bear the legal costs - if it were the council as a whole that would do so he would oppose such a move.

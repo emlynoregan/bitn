@@ -19,6 +19,7 @@ topics:
 - agriculture
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Experiments are being made on the introduction of chicken cholera to control rabbit populations.

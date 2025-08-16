@@ -22,6 +22,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Curlew Amateur Minstrels are still practising.  Recently they had a successful performance at Robertstown where they also played a cricket match, but were less successful in that activity.

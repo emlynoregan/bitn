@@ -20,6 +20,7 @@ topics:
 - religion
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's. The Bishop of Adelaide arrived yesterday for confirmations and festivity. There was a tea meeting in the Institute in the afternoon.

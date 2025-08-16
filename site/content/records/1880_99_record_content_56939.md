@@ -21,6 +21,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church Anniversary last Sunday and Monday.  Rev. H.J. Pope preached three eloquent sermons.  The tea meeting was fairly well patronised.

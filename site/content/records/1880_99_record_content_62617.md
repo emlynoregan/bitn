@@ -22,6 +22,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Anniversary Services were held last Sunday when the Wesleyan ministers gave the sermons.  (Revs. W.A. Langsford & J.Y. Simpson.)  Attendance was only fair in poor weather.  Public tea meeting today at 4.30 & 7.30 p.m.

@@ -24,6 +24,7 @@ topics:
 - committee
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Ridgway's motion was then put and carried unanimously.  A committee was formed to get donations for the trough work and also to prepare a memorial to be sent to the government etc. (A. Bartholomaeus, B. Butterworth, Dawson, Preece, & W.R. Ridgway)

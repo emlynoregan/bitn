@@ -18,6 +18,7 @@ topics:
 - finance
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lily of the Valley Tent IOR reports a year with a small surplus of £9-8-4 and its first two deaths since foundation in 1883.

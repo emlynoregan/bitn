@@ -19,6 +19,7 @@ topics:
 - market
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 17,125 fat & store sheep and 90 cattle.

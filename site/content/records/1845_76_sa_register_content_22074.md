@@ -26,6 +26,7 @@ topics:
 - real estate
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  There will be an auction of 12,408 acres of valuable land on 24 June, being portions of the Gum Creek Run in the Hundred of Hanson:

@@ -30,6 +30,7 @@ topics:
 - infrastructure
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bagot, Shakes & Lewis reply to the council’s letter about settling the drainage problem and though willing to settle amicably they want to quibble over details - they want the drain pitch-paved every chain instead of every half chain and for the paving to be 3’ wide rather than 8’ and that the road at the corner of the brewery should be made by the Council and that it should be on the south side of the street.

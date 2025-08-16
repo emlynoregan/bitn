@@ -20,6 +20,7 @@ topics:
 - concert
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Fisk Jubilee Singers will give a concert at the Institute on 13 September.  One night only, reserved seated 4/-, family ticket (for six) 20/-, unreserved 3/-, back seats 2/-

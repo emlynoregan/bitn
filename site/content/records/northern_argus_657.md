@@ -21,6 +21,7 @@ topics:
 - photograph
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of Ian Kleinig, Mr Neil Andrew MHR (who made the presentations) & Mrs Florence Scroop.]

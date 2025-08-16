@@ -22,6 +22,7 @@ topics:
 - lecture
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. W.H. Evans of Victoria will lecture in the Bible Christian Church, Kooringa at 7.30 p.m.

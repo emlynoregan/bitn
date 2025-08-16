@@ -23,6 +23,7 @@ topics:
 - society
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British and Foreign Bible Soc. Annual meeting was held in the Institute 28 Oct.  Rev. S. Gray presided in place of Dr Sangster, the President.  The meeting was addressed by Mr Chester, the deputation, from the Adelaide branch.

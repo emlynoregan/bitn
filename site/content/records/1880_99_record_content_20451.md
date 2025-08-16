@@ -32,6 +32,7 @@ topics:
 - assault
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The affair happened at Hoar’s Hotel, Petersburg about one week ago.  Deceased came to me and said he knew me and I was Flanigan.  Told him no.  He bet 5/- it was.  Flanigan then returned from the WC.  Flanigan grabbed deceased and asked him what he was pulling his name about for all afternoon.  Flanigan gave him a push and the deceased fell and when he got up said ‘You have broken my thumb.’  Then they both sat on a form in the bar.  Did not think either man drunk, though both had been drinking.  Did not think the deceased had been saying anything to warrant the attack by Flanigan - not in my presence at least.  Have not since seen the deceased.

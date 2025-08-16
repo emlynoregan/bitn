@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 20 December, at Port Wakefield, to the wife of Albert Topperwein, a son.  [Gladstone Moltke]

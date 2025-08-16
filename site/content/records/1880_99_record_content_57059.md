@@ -20,6 +20,7 @@ topics:
 - contract
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Launder & Co.’s tender of £2-5-0 per chain for kerbing was also accepted ahead of D. Roger’s of £1-19-0.

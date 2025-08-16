@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Elizabeth Blackney, once of Burra, has died in Moonta aged 72.  [1 January, registered as 71]

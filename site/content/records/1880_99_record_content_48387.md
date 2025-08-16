@@ -19,6 +19,7 @@ topics:
 - sport
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis at Clare on 2 January: Clare 114 games defeated Burra 90.

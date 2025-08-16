@@ -19,6 +19,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A requisition was presented to J.B. Neales Esq. to stand again for the House of Assembly and he has consented to do so.

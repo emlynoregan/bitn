@@ -18,6 +18,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Saturday.  Burra 86 for 9 wickets defeated Muffs 84

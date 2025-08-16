@@ -19,6 +19,7 @@ topics:
 - weather
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  As we go to press the rain continues to fall and the Burra Creek is flooded as are most of the low-lying streets in the town.

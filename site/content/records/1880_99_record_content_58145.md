@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearing.  There are presently many shearers about the town.

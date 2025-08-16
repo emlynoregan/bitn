@@ -22,6 +22,7 @@ topics:
 - obituary
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  20 January, at Baldina, Mary Jane Dolman, only daughter of John & Elizabeth Dolman, aged 15 years  [Born 20 June 1866: died aged 15]

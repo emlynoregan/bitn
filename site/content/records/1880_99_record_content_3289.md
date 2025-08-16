@@ -19,6 +19,7 @@ topics:
 - recreation
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football writer ‘Short Mark’ writes complaining that another year will have to pass on the old practice ground as the Council doesn’t seem to feel the need of a recreation ground, though some councillors are now interested.

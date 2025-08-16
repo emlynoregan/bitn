@@ -19,6 +19,7 @@ topics:
 - business
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Bath has taken into partnership Mr W. Pearce, who has been engaged in the business for many years.

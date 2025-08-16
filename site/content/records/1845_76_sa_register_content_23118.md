@@ -29,6 +29,7 @@ topics:
 - inquest
 - cholera
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Mr James Reed died suddenly near Mt Bryan on 8 January.  Mr Porter JP held an inquest at the White Hart Hotel, Redruth [Aberdeen].  Dr Dashwood said the deceased had died from a severe attack of cholera.  The funeral  was largely attended.  The deceased was an old resident of Burra.  [Aged 27.  Husband of Sarah Reed nee McInnes who later married James Gorman Kelly.  See also inquest 12 January 1870 page 5.]

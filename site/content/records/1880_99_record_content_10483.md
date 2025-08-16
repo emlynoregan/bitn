@@ -24,6 +24,7 @@ topics:
 - event
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Ulooloo Wesleyan Church anniversary 3 September.  Public picnic at Ulooloo - at a tent under the trees in Ulooloo paddocks.  Dinner at 1.00 p.m. and tea at 4.00 p.m.  Visitors by the midday train will be met at Ulooloo Railway Station and conveyed to the ground and returned in time for the afternoon train free of charge.  Public meeting at 7.00 p.m. in the church.  Two services by the Rev. W.H. Rofe on 9 September.

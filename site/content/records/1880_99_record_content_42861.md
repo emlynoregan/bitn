@@ -21,6 +21,7 @@ topics:
 - property
 - boarding house
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  To Let - A First-Class Boarding House, Doing a Good Trade.

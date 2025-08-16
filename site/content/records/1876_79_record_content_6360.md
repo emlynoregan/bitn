@@ -20,6 +20,7 @@ topics:
 - fundraising
 - clubs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment at the Institute on the Holiday of 26 May, to benefit the Burra Amateur Athletic Club and Football Club. Songs, Recitations, Duets & a Farce.

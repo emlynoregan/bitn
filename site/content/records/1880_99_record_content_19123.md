@@ -23,6 +23,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J. S. Wayland preached a farewell sermon at All Saints, Moonta, last Sunday.  On Monday about 60 members of the congregation assembled at the schoolroom in Ryan St to bid him goodbye.  He left Moonta for Burra on Tuesday.

@@ -31,6 +31,7 @@ topics:
 - land sale
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will offer for sale the Flagstaff Estate of c. 3,400 acres comprising:

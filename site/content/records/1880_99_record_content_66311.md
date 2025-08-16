@@ -18,6 +18,7 @@ topics:
 - legal
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Grow was fined 10/- + costs for allowing his horse to stray.

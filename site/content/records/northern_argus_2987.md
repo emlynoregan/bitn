@@ -20,6 +20,7 @@ topics:
 - sale
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Matthews Emporium had a crowd at the doors when they opened their furniture and furnishings sale last Friday.  The earliest customers arrived at 4 a.m. with sleeping bags and later cooked sausages for breakfast in Market Square.

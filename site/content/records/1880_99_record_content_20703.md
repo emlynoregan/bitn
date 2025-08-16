@@ -22,6 +22,7 @@ topics:
 - employment
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Warburton, manager of the National Bank, leaves for Port Adelaide next week.  He is to be replaced by Mr Furniss from Port Wakefield.

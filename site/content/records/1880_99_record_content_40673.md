@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  There was another small grass fire on Saturday near the rifle range.

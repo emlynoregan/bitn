@@ -26,6 +26,7 @@ topics:
 - sentencing
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Edward Wright, Secretary of the PRMC said he did not pay the order when it was presented on 1 October because it had been altered.  Mr Morphett was one of the directors at the time.

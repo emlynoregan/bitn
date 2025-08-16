@@ -20,6 +20,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wright Bros. & Mr Dixon have given a series of entertainments here comprising musical pieces, singing, conjuring tricks, gymnastic feats, phantasmagorical and dissolving views, chromotropes etc.  On Tuesday evening they also provided the music for a ball.

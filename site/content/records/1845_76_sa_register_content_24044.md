@@ -19,6 +19,7 @@ topics:
 - mining
 - management
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W. Swansborough writes to say he is not merely superintending the machinery at the Burra Mine, but is the Manager of the Mines ‘responsible for the whole of the work’.

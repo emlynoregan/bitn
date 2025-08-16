@@ -26,6 +26,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Federation.  The Federal Council meets in Hobart on 25 January to advance Federation of the colonies.  There will be representatives from Victoria, Queensland Tasmania, Western Australia and Fiji, but not from South Australia or New South Wales.

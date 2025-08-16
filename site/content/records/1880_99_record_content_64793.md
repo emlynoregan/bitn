@@ -21,6 +21,7 @@ topics:
 - death
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A small daughter, aged 5, of Mr George Trusler, a blocker east of Hallett, drowned in a waterhole near the house.  [Registered born Janet Frances Trusler 23 August 1893 and died Janet Frances Truster 6 September 1898]

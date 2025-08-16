@@ -18,6 +18,7 @@ topics:
 - error
 - irregularities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The jump from 375 to 379 occurred when the ‘6’ destined to make up 376 was placed upside-down to read 379.

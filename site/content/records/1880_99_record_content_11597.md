@@ -18,6 +18,7 @@ topics:
 - serial
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 12 Jan.	XVI-XVII	A Good Sword Stroke	[There was no supplement due to the fire at the paper, but the serial and short story appeared on page 3 of the paper.]

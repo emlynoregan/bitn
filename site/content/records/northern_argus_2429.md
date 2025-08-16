@@ -21,6 +21,7 @@ topics:
 - athletics
 - records
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 At a Little Athletics Association Meeting:

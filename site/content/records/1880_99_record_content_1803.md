@@ -26,6 +26,7 @@ topics:
 - vote
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Sunday Closing Assoc. has been canvassing the town and a vote just taken showed: - 				For	Against

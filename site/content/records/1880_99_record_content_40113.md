@@ -20,6 +20,7 @@ topics:
 - editorial
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on General Booth’s ideas in his volume ‘In Darkest England, and the way out’.  Also on Professor Huxley’s attack on the volume.

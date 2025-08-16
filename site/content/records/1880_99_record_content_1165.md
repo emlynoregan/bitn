@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Railway.  The rails are being sent on rapidly and the Government expects it to be open by 1 October.

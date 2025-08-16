@@ -18,6 +18,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Applications are invited for the position of Burra Town Clerk with positions also of Issuer of Licences, Overseer of works and Secretary to the Local Board of Health.  £115 p.a.

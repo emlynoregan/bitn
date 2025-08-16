@@ -19,6 +19,7 @@ topics:
 - school
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Northern & Midland Public Schools Floral & Industrial Exhibition was held at Jamestown last Friday & Saturday.  This annual event was a great success.

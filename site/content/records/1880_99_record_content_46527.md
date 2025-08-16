@@ -21,6 +21,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday discussed the idea for Elective Ministries.  Afterwards the verdict was 14 for the change and 16 against.  Mr Whittick, who recently left the district, tendered his resignation as President and was replaced by Mr W.T. Rabbich.

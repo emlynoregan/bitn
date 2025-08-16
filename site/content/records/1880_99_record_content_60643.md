@@ -25,6 +25,7 @@ topics:
 - crime
 - trial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Theft.  Mr A. McCulloch engaged a man named John Cushion to drive his pony and trap from Adelaide to Burra.  While having a drink with H.J. Riggs at Gawler he ‘nipped’ Riggs’ watch and chain.  The property was recovered at Burra and though Cushion claimed it was a joke, he was committed for trial on Thursday at Gawler and was allowed bail.

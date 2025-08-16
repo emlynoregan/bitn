@@ -18,6 +18,7 @@ topics:
 - earthquake
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Earth Tremor was felt at Burra at 4.45 a.m. on Tuesday.  There were three shocks lasting several seconds.

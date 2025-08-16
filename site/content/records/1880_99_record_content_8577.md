@@ -22,6 +22,7 @@ topics:
 - licensing
 - business transfer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Licensing Court 6 December.

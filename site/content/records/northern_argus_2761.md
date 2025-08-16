@@ -24,6 +24,7 @@ topics:
 - outdoors
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Venturers’ Leader David Jennings and Queen’s Scout John Jones climbed Peacock’s Chimney as part of a Venturer climbing exercise.  While on the top they measured Johnny Green.  He stands 66 inches high and was made by L.G. Hosking.  He bears the date 23 August 1972.  [Photo.]

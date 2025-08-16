@@ -20,6 +20,7 @@ topics:
 - business
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheal Motley Copper Mine.  The mine is to commence operations with the capital as presently subscribed.

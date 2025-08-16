@@ -19,6 +19,7 @@ topics:
 - community
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  The article from the Clare correspondent indicates a hostile reaction to the Salvation Army and regards them as a common nuisance in the town: ‘parading the streets, and making night hideous’.

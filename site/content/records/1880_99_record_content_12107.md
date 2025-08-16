@@ -20,6 +20,7 @@ topics:
 - fine
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Lines fined 40/- or 7 days for disturbing the peace at the Burra Hotel on 14 January.

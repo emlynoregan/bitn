@@ -21,6 +21,7 @@ topics:
 - fire
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest.  Mr F.W. Holder held an inquest on Tuesday at the Burra Hotel on the fire at W. Harris’s on Monday.  The verdict was: accidental, but cause unknown.

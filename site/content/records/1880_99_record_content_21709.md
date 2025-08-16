@@ -22,6 +22,7 @@ topics:
 - water
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  A correspondent thinks that the Town Council is behaving childishly over the Waterworks issue and is in danger not only of losing the Government subsidy for the year, but also of losing the Waterworks themselves.

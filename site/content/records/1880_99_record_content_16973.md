@@ -26,6 +26,7 @@ topics:
 - board
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Board of the Burra Hospital for the year is Dr Brummitt, Messrs P. Brown Jun., J. Hogg, J. Dunstan Jun., A.F. Akhurst & F.W. Holder.

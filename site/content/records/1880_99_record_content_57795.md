@@ -23,6 +23,7 @@ topics:
 - race
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  The race from Nackara on 17 July for R.K. Boothby’s Trophy was won by J. Drew’s birds covering the 63 miles 1385 yds in 80¾ mins at 1390 yds per min.

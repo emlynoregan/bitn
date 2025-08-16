@@ -21,6 +21,7 @@ topics:
 - injury
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Bruse was run over by a cab driven by a man named Ford at the end of the football match on Monday.  Two wheels passed over her and she was at once taken home in the cab and Dr Brummitt sent for.

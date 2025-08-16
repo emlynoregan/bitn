@@ -18,6 +18,7 @@ topics:
 - livestock
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Neville	cow	5/- + 10/- (subject to appeal)

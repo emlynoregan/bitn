@@ -19,6 +19,7 @@ topics:
 - anniversary
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Christian Endeavour celebrated its 3rd anniversary on 24 April in the Kooringa Methodist Lecture Hall.

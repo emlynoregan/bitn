@@ -21,6 +21,7 @@ topics:
 - fundraising
 - Mayor's Fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  Mrs Edith O’Rorman will deliver a lecturette On Husbands at the entertainment at the Institute on 2 June in aid of the Mayor’s Fund.  [Obviously making fun of Edith O’Gorman: see the report in VIII, 651, 3 June 1887, page 2]

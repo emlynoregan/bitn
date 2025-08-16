@@ -23,6 +23,7 @@ topics:
 - election
 - patron
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. On Tuesday the football club elected Mr Brady as captain and Mr Lasscock as vice-captain. W.B. Rounsevell MP has agreed to become patron.

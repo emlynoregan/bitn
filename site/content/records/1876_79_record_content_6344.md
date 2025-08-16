@@ -20,6 +20,7 @@ topics:
 - compensation
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mrs A. Pearce asked for £13-17-6 for medical and other expenses incurred in having fallen from the abutment of the new bridge: referred to solicitor.

@@ -18,6 +18,7 @@ topics:
 - picnic
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Picnic at Hallett by special train was a great success.

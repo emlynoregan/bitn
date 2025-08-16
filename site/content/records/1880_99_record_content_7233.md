@@ -19,6 +19,7 @@ topics:
 - street lamps
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Clerk reported the street lamps used 1 pint of kerosene per night and burnt out about 3 a.m., but this injured the burner and more kerosene should be used and the lamps be put out.

@@ -18,6 +18,7 @@ topics:
 - entertainment
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment Mr Severn gave a scientific entertainment yesterday and another, with different topics, will be given tonight.

@@ -22,6 +22,7 @@ topics:
 - safety
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society has asked for a gate in the SE corner of the oval to enable arrangements to be made for cattle exhibits.  At other times this would allow pedestrian and vehicular traffic to be separated to the greater safety of both.

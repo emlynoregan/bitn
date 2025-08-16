@@ -19,6 +19,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sinclair		Visiting Dentist for painless dentistry and artificial teeth, 11 February & 24 March

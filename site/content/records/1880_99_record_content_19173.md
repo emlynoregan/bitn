@@ -19,6 +19,7 @@ topics:
 - favouritism
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another letter from ‘Duty without partiality’, which reiterates the points previously, raised, but claims a specific example of favouritism.

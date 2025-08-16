@@ -29,6 +29,7 @@ topics:
 - social
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hotel Closes - Built c.30 years ago by Paxton with agreement of SAMA; the landlords have been Wren, Mason, Barker, Ware, Kent, Robinson, Lamb and White. Under Lamb it went into decline. About 1848 a large assembly room was added which was much used for social occasions and was where the town's Friendly Societies usually met.

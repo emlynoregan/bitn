@@ -21,6 +21,7 @@ topics:
 - agriculture
 - yield
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Samples of Wheat grown at Gum Creek have been received:

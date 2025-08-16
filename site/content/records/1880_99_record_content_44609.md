@@ -22,6 +22,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will hold a genuine clearing sale for W.H. Pearce at the farm 8 miles northwest of Burra on 16 March.

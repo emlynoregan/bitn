@@ -24,6 +24,7 @@ topics:
 - amalgamation
 - rating system
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  Some members of Council will visit Wakefield Plains Council on 1 April to discuss the benefits of Council amalgamations.  Wakefield Plains results from the amalgamation of the Balaklava, Port Wakefield and Owen Councils.

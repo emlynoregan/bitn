@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [See XV, 352, 4 Nov. 1896, page 3, for the beginning of this case.]

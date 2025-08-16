@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George William Linkson died on 7 July at his residence in Redruth, aged 54, leaving a wife and six children.  He was a colonist of 39 years.

@@ -19,6 +19,7 @@ topics:
 - fire
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Chewing’s Run is severely burned and at Yongala they have found the northern portion saved.

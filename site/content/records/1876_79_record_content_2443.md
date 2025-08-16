@@ -19,6 +19,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Dooner's Pantechnetheca was shown at the Institute on 18 & 19 June and was well received. It had scenes of current interest and subjects from adjacent colonies which were well painted and shown in powerful limelight.

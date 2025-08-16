@@ -22,6 +22,7 @@ topics:
 - appointment
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William West writes declining a position on the Burra Hospital Board, but recommending Henry Roach for the position.  The vacancy has arisen because T. Edwards has resigned as he is leaving the district.

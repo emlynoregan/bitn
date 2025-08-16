@@ -20,6 +20,7 @@ topics:
 - fundraising
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  The concert on Saturday by the Court Minstrels in aid of the Aberdeen Cricket Club was very successful.

@@ -20,6 +20,7 @@ topics:
 - government
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Working Men’s Blocks.  A letter to the Editor from G.W. Cotton.  The Act empowers the Government to grant blocks of not more than 20 acres.  A clause requires residence on the land, but this is fulfilled if the wife and family are living there.  Under a similar Act in Victoria of 1865 over 17,000 blocks have been taken up in less than 5 years.  People can become self-supporting.

@@ -21,6 +21,7 @@ topics:
 - death
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The verdict was:  ‘That the deceased William Davis, was accidentally killed by being overtaken by a special train between Mt Bryan and Burra Stations on Saturday June 28, 1890, while riding a tricycle in the execution of his duty.’

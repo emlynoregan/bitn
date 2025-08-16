@@ -19,6 +19,7 @@ topics:
 - association
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Would not act as a delegate in Parliament for any association

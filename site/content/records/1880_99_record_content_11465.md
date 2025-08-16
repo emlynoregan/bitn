@@ -19,6 +19,7 @@ topics:
 - Christmas
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter of a whole column by W.H. Hardy on Christmas.  He likes neither those who write gushingly and sentimentally of it, nor those who sneer at it and he points out the practical and economic benefits which many derive from its celebration.

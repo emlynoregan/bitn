@@ -23,6 +23,7 @@ topics:
 - royalty
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr R. Alexander, in proposing a toast at Yankalilla on 29 August in connection with a ploughing match, made the point that the colony of SA would make more progress in mining if the regulations were changed.  At present a man wanting a licence to mine had to pay £40 in instalments before he could remove any ore at grass.  It would make more sense – as in South America – for the Government to impose a royalty of say 2%.  As it is there are many heaps of ore at grass that will not move because the miner cannot pay the £40.

@@ -20,6 +20,7 @@ topics:
 - travel
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army, Burra Corps made a trip to Hallett on Wednesday to hold meetings.

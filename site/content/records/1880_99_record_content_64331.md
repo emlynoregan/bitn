@@ -19,6 +19,7 @@ topics:
 - court
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.H. Woollacott also reported (with a smile) a reception by Mrs Gully ‘. . . not a very gentle one; Mrs Gully rushed at me with a washing pan.’

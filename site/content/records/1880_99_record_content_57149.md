@@ -20,6 +20,7 @@ topics:
 - legal
 - advice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said he understood the Crown Solicitor had decided it was not workable.

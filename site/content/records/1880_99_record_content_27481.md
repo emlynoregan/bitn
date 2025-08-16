@@ -19,6 +19,7 @@ topics:
 - schedule
 - train
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From Adelaide	9.29 p.m.	9.38 p.m.

@@ -22,6 +22,7 @@ topics:
 - suffrage
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Federation Hopes and their lack of effect on the increasing duties paid between colonies and other issues in dispute, including coloured labour in Queensland.  In SA the Legislative Council refuses to pass the Union with the Federal Council.  The writer calls for Federation and manhood suffrage, if not adult suffrage, and one man one vote.

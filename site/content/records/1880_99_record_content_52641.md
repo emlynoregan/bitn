@@ -18,6 +18,7 @@ topics:
 - waterworks
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Waterworks.  The Town Clerk has managed to collect all but £38-11-10 of the £141 that was owing on the water rates.

@@ -32,6 +32,7 @@ topics:
 - street_lighting
 - land_grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  There has been as yet no definite ruling from the Commissioner of Public Works on the Waterworks, either with respect to the request to extend the lease for three months or on anything else.  It was decided to appoint the Town Clerk at £65 p.a.  One dayman was appointed at 6/- a day.  The cemetery curator was appointed at £80 p.a. and a scavenger at 10/- a day.

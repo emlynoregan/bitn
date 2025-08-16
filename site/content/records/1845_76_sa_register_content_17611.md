@@ -22,6 +22,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  At the same time another funeral took place of a Sunday-school scholar named Viant.

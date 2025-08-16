@@ -20,6 +20,7 @@ topics:
 - sport
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  Last Saturday at Burra the Jovials from Glenelg 33 games, were defeated by Burra 48 games in great heat on McBride’s court.

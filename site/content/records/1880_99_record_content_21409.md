@@ -18,6 +18,7 @@ topics:
 - silver
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  Activity at World’s End-Robertstown continues.

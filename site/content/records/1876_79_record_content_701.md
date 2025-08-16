@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - personal statement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 P.S. I have no intention of leaving the district as reported.

@@ -18,6 +18,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment last night at the Wesleyan Schoolroom was well presented and it is hoped similar gatherings might be held monthly in winter.

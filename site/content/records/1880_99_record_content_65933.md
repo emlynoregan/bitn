@@ -19,6 +19,7 @@ topics:
 - theft
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Market Square Lamp has been stolen. Mr W. Geake usually gives it enough kerosene to last till after midnight when it extinguishes itself and no one noticed it was gone until evening was falling on Saturday.  No trace of it has been found.

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Weather. The year began very hot. Last Thursday the temperature in various shops in town varied from 102°F to 110°F.

@@ -24,6 +24,7 @@ topics:
 - auction
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 McLaren, White & Co. announce they are extending their Kapunda auction business to Burra, having taken into partnership, Mr H.T.H. Morris, formerly of Liston, Shakes & Co.  They have acquired the Bon Accord Yards which will be renovated and enlarged and auctions will be held 3rd Friday each month from 16 January 1885.

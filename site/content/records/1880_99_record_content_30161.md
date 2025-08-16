@@ -20,6 +20,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  12 Burra Cricket Club Combination 134 defeated c. 17 Muffs on the new pitch at the Recreation Ground.  About 100 attended, but the gate yielded only 9/- from a charge of 6d admission!

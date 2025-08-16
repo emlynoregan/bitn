@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - Midland Road Board
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board award the tender for completing bridge works on the Kooringa and Baldina Road near Aberdeen to C.S. Baillie for £237.

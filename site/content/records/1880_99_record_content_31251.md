@@ -20,6 +20,7 @@ topics:
 - inquest
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas W. Oates, labourer, supported the idea of the train as the probable origin of the fire.

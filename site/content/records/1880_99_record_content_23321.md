@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Auction at the National Bank, Aberdeen, in consequence of the closing of the branch.  Morris, Sandland & Barritt will auction all the furniture, both office and household.

@@ -19,6 +19,7 @@ topics:
 - serial
 - drama
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1 Jul 81	Ferryman’s Secret XV-XVI	Act III by Gilbert A’Beckett		X	X		X				X	X

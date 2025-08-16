@@ -22,6 +22,7 @@ topics:
 - prison
 - budget
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Public Service Salaries & Estimates for Public Works

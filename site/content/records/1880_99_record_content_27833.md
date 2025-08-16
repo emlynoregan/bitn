@@ -20,6 +20,7 @@ topics:
 - business
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver Claims.  A prospectus for a syndicate to take over the Black Hills Silver Claims has been issued.  If successful this venture would mean prosperity for Burra.

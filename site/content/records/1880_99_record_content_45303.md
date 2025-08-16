@@ -17,6 +17,7 @@ topics:
 - fraud
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Another fraud involves two men obtaining money from businessmen for inclusion in non-existent trade directories.

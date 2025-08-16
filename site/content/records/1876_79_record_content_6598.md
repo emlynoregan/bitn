@@ -21,6 +21,7 @@ topics:
 - employment
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Terowie Railway. The govt. says that anyone can work on the line and get there on the railway free. Barracks accommodation is available and pay is 5/- a day plus wood and water. Ballasting would in future be done at 3d/yd3 less than the ordinary wage. Work for 500 men could be found on these terms.

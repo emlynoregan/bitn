@@ -19,6 +19,7 @@ topics:
 - fine
 - stray
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P. Lane	1 goat	5/-

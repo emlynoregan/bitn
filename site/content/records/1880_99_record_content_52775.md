@@ -21,6 +21,7 @@ topics:
 - missions
 - community_event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Foreign Missions annual services were held Sunday and Monday last by Rev. G. Brown DD, to good congregations.  The lecture on Monday on New Guinea and New Britain Missions was illustrated with magic lantern slides.

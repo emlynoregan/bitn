@@ -20,6 +20,7 @@ topics:
 - animal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A cow rushed out of the Burra Hotel yards on Saturday morning and charged all it encountered in a mad series of charges.  It ‘went for’ a trolly, but did no damage.  It finally chased a young man over the fence at St Mary’s and in doing so it fell heavily, breaking its back and was immediately removed and buried.

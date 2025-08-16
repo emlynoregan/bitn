@@ -22,6 +22,7 @@ topics:
 - migration
 - personal narrative
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Confessions of a Gold Seeker – a letter signed I.X.

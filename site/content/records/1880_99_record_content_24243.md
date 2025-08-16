@@ -20,6 +20,7 @@ topics:
 - celebration
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Old Colonists Demonstration.  The Old Colonists’ Association President, Sir Henry Ayers, opened the demonstration in celebration of Adelaide’s Jubilee year 1887.  His speech is reported at length.

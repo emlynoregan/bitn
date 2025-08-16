@@ -21,6 +21,7 @@ topics:
 - silver
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  There is half a column on the silver claims in the Robertstown-Burra Creek-Black Hills area with an outline of the work done, but there are few results as yet.

@@ -20,6 +20,7 @@ topics:
 - sport
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra amateur Athletic Club meeting 10 October in Austin's paddock. Program printed.

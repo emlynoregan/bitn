@@ -20,6 +20,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Sunday School Anniversary, 17 & 18 April (Easter Sunday and Monday) Rev. R.W. Campbell will preach.  The Service of Song will be ‘Nothing to Nobody’.

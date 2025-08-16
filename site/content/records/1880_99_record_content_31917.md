@@ -20,6 +20,7 @@ topics:
 - recreation
 - facility
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute is likely to be used as a skating rink.

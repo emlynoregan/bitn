@@ -22,6 +22,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Road between Kooringa and Redruth must soon be surveyed.  About 80 men are at work breaking metal for it.  Sufficient will be broken in about a fortnight.  They will then be out of work unless the cuttings and the spreading of metal can soon be commenced.  The miners have proved themselves particularly fitted for this kind of work.  Few will average more than 5/- a day on the road between the Telegraph Station and Redruth.  The stone is very hard.  At the other end of the contract, by the hotel, the stone is softer and they will do better.

@@ -24,6 +24,7 @@ topics:
 - sanitation
 - public concern
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a report that cloths from the Burra Hospital used in dressing wounds etc. were being washed at a well near the slaughterhouse and reused.  The Mayor reported that in fact clothes picked up by poor people at the Council Depot were washed at a well in Kooringa before being used.  No cloths had been sent to the Depot from the Hospital.

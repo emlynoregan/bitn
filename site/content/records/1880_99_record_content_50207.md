@@ -20,6 +20,7 @@ topics:
 - lecture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held a successful debate last Friday and at the next meeting the headmaster, Mr J.A. Kennedy will lecture on electricity.

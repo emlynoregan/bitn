@@ -19,6 +19,7 @@ topics:
 - bazaar
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Joseph’s Bazaar and Art Union, 5, 6 & 7 July in the Burra Institute.

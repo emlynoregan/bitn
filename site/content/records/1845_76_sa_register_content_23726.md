@@ -22,6 +22,7 @@ topics:
 - death
 - search
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Flood.  The efforts of the police to recover the body seen at Princess Royal on Friday have been unavailing.  Mr Challoner had sent a lad to try and find a trough that the flood had washed away on Wednesday.  He saw a body partly exposed in the water and from its small hands and long black hair thought it was a woman.  No woman has been reported missing.  Before trooper Dunne could retrieve the body more rain caused the creek to rise and apparently the corpse was washed away.  The water has prevented a thorough search, but Lance-Corporal Smith is out with drags.  The bushman previously mentioned has not been heard of since the flood.

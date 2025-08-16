@@ -22,6 +22,7 @@ topics:
 - rail crossing
 - proposals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Watt had been to Adelaide and while there had tried to find out about proposals for the Bon Accord crossing, but failed to learn anything.

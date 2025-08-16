@@ -18,6 +18,7 @@ topics:
 - pest control
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Sparrow Destruction.  A Bill is now in force, but in fact the poison available is too costly by far.

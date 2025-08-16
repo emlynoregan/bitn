@@ -20,6 +20,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mrs G. Dawson, Commercial St.  Next quarter commences 12 September.  Vacancies for two morning pupils.

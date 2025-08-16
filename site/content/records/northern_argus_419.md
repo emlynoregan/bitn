@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Melbourne Cup Luncheon at Burra Town Hall on Tuesday was a great success.  Rosemary Nairn and a band of singers entertained.

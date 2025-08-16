@@ -17,6 +17,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Wesleyan Sunday School Anniversary drew about 400 on Easter Monday.

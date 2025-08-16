@@ -35,6 +35,7 @@ topics:
 - hours
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The following will close their establishments on Wednesdays at 1 p.m. from 2 November 1881.

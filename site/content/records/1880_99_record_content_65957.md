@@ -18,6 +18,7 @@ topics:
 - event
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A feature of the above will be the funeral of the late Mr Gladstone.

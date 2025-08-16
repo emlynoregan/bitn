@@ -24,6 +24,7 @@ topics:
 - presentation
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  Machinery is working satisfactorily and actual work will soon commence.

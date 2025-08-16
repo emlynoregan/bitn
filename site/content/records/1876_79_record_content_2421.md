@@ -24,6 +24,7 @@ topics:
 - industry
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Statton & Henderson: Advt. showed they were in Market Square as suppliers and makers of wagons, spring carts, buggies, ploughs, scarifiers, harrows, etc. and had a steam saw mill. [They were the owners of the land needed to be acquired for the Kooringa Bridge.]

@@ -21,6 +21,7 @@ topics:
 - religion
 - women
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Miss J.A. Ackermann, World Missionary of the American WCTU will speak at the Rechabite Demonstration Thursday 20 June and Friday 21 June at the Burra Institute.  And for Women Only 21 June 3 p.m.

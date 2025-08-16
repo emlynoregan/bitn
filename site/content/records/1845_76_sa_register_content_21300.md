@@ -19,6 +19,7 @@ topics:
 - accident
 - rescue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A child of Mr James Tiver was playing near the ford in Aberdeen on 22 October and fell into the pool.  Four people went to help and their timely assistance saved the child’s life.

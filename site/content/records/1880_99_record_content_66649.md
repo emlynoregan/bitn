@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Church has had to be abandoned.  For some time now a section has been boarded off on account of a falling section of ceiling, but last Sunday it was decided that the old schoolroom would have to be used for services henceforth.

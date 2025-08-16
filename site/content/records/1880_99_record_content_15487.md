@@ -19,6 +19,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s Bazaar was held at the Institute last Tuesday, Wednesday and Thursday.  It was opened by the Mayor, Dr Brummitt.  Details occupy c. ¾ column.  Proceeds: £140.

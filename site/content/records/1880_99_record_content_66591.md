@@ -19,6 +19,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  J. Ford continues to work his claim on the old mine property.

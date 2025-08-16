@@ -21,6 +21,7 @@ topics:
 - inquest
 - coroner
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary & Inquest. On 4 May J.D. Cave, as coroner, inquired into the death of Gottlieb Pfitzner who had been found dead in his bed on 3 May. Dr Nesbitt gave evidence of degeneration of the arteries leading to sudden death by heart attack. Verdict was death by natural causes.  [Death not on SA Deaths CD.]

@@ -21,6 +21,7 @@ topics:
 - politics
 - arboriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1892 saw wonderful changes in arboriculture in the town and the effects of plantings in recent years are very apparent.  No very prominent citizen died in 1892 and neither did we welcome any distinguished visitor.  The local MPs F.W. Holder and G.H. Lake have taken commendable interest in their electorate and our senior member, F.W. Holder, has become Premier.

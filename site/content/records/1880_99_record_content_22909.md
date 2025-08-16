@@ -17,6 +17,7 @@ topics:
 - advertisement
 - research note
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This was the only new ‘regular’ advertisement that was not in VII. 505. 1 Jan. 1886.]

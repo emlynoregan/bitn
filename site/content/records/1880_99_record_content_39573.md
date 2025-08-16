@@ -19,6 +19,7 @@ topics:
 - fiction
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Death of Joe Rogers by William Wallace Cook, 20 June.

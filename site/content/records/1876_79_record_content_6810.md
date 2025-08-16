@@ -21,6 +21,7 @@ topics:
 - entertainment
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Lynch Family Bellringers with Mr. Frank Verten, comedian, dancer & specialty artist. Mr. James E. Warde, pianist and musical director. Burra Institute 26 July.

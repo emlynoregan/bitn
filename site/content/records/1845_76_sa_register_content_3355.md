@@ -20,6 +20,7 @@ topics:
 - uprising
 - Chartist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [The rest of the editorial conveys news from England that arrived with these vessels.  It includes news of the Chartist uprising and arrests in Manchester.]

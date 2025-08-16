@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Wesleyan Sunday School Anniversary was celebrated last Sunday when the preachers were F.W. Holder & Mr Paull.  Tea Meeting is on Wednesday.

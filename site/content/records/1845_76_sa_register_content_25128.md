@@ -20,6 +20,7 @@ topics:
 - festival
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rechabite Lodge.  Rose of Sharon Tent held its annual festival on Wednesday.  Captain Paull presided.  Mr Ward hoped that before long a female tent could be started.

@@ -21,6 +21,7 @@ topics:
 - council
 - rabbits
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Apoinga Council’s failure at Redruth Court in a number of rabbit cases, on a technicality.  The new Act is complex and the editor is not in favour of its operation, however commendable its intention.

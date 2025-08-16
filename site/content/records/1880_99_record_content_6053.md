@@ -20,6 +20,7 @@ topics:
 - advertisement
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For let, a four roomed stone house in Taylor St Aberdeen.

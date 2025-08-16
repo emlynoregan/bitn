@@ -20,6 +20,7 @@ topics:
 - letter
 - obstruction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Letter to the Editor protests at Cr Sampson’s hypocrisy in objecting to the Salvation Army being a obstruction in the square; pointing out Cr Sampson is prepared to regularly obstruct the footpath himself while ‘standing on a box with a riding whip in his hand, surrounded by an assortment of, well, almost everything, for the purpose of, as he says, giving the people a bargain.’

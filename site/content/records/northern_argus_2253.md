@@ -20,6 +20,7 @@ topics:
 - youth
 - aviation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Venturer Unit recently sent 11 members and 3 adults to Gawler Airfield for flights in a motorised glider.

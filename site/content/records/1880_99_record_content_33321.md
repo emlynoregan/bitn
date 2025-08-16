@@ -23,6 +23,7 @@ topics:
 - lunacy
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial: ‘Charity Begins at Home’ - aimed mainly at suggesting that it was time Broken Hill looked after its own cases of typhoid instead of sending them to SA (And specifically to Burra), but also cases of lunacy which are sent from Broken Hill to Adelaide

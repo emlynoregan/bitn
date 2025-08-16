@@ -21,6 +21,7 @@ topics:
 - church
 - sports day
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Wesleyan Sunday School celebrated its 21st anniversary on 4 November with a sports day on Friday 9 November.

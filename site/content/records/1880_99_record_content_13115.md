@@ -20,6 +20,7 @@ topics:
 - ship trials
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The New SA Gunboat [The Protector] has undergone trials in Britain.

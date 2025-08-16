@@ -18,6 +18,7 @@ topics:
 - finance
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The undivided profit of the company is now £14,229-5-8.

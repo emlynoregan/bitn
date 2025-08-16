@@ -30,6 +30,7 @@ topics:
 - hospital board
 - institute committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Howitt’s Farewell.  A public tea was held at the Institute last Wednesday to bid farewell to Rev. Howitt who is going to Semaphore.  Over 300 attended from country districts and from various denominations.  The ladies of the congregation of St Mary’s were kept busy for about two hours waiting on the tea tables.

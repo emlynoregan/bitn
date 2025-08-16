@@ -20,6 +20,7 @@ topics:
 - community
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Cathy Jones, who has been the Girl Guide leader for some time, has taken a job in Adelaide next year.

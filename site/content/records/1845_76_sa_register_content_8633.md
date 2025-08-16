@@ -24,6 +24,7 @@ topics:
 - real_estate
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  For Sale or to be let for a number of years, Prospect House near North Adelaide, the property of J.B. Graham Esq.  The present occupiers, Mr & Mrs Adams are about to proceed to England.

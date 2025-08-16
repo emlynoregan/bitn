@@ -23,6 +23,7 @@ topics:
 - police
 - reward
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Advertiser reports that all is being done to secure the arrest of Thomas Kitchen the defaulting secretary of the Albert District of Rechabites, but so far without success.  He was known to have been in the vicinity of Queensland and recently was seen in Sydney.  A reward of £20 has been offered.

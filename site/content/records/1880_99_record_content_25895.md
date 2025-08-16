@@ -17,6 +17,7 @@ topics:
 - fundraising
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor’s Fund stands at £67-18-3.

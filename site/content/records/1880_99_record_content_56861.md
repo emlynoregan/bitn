@@ -18,6 +18,7 @@ topics:
 - by-law
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Memorial against the new by-law has received over 200 signatures.

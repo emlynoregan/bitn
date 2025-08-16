@@ -21,6 +21,7 @@ topics:
 - weather
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Sale at the residence of J. Snell last Friday was postponed to today on account of the weather.

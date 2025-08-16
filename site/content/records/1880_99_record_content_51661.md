@@ -21,6 +21,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Dr Emily B. Ryder will lecture to ladies in the Institute on Monday 12 November: How Not to be Ill.

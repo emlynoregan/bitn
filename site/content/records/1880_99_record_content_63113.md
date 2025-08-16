@@ -23,6 +23,7 @@ topics:
 - farewell
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Furniss, after 13 years in Burra as the popular manager of the National Bank, has resigned and intends taking up his abode in Adelaide.  He will be given a farewell social at St Mary’s schoolroom tomorrow night.

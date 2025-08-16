@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Concert in the Institute last Tuesday by the State School children and members of the Literary Society was very successful.  It was in aid of the new footbridge across the Burra Creek.

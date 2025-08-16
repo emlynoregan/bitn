@@ -21,6 +21,7 @@ topics:
 - coaches
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Coaches: Advt. Opie's coach now running from this day to Waukaringa every Friday and returns Tuesdays

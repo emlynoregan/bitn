@@ -26,6 +26,7 @@ topics:
 - science
 - field_trip
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boys’ Field Naturalist Society.  A fair number of boys with Mr Wittber (Pres.), Mr Opie (Sec.) and Rev. R.J. Daddow, visited the Burra Mine Offices on Saturday afternoon where by the kindness of Mr W. West they were able to carefully examine a variety of stones representing the rock and mineral foundations of the mine.  Rev. Daddow pointed out those generally known as sedimentary, igneous, or metamorphic.

@@ -20,6 +20,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Cockburn of Jamestown will be asked to stand for the Burra District in the next election.

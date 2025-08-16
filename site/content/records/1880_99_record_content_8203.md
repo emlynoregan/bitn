@@ -21,6 +21,7 @@ topics:
 - disturbance
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Martin Corbett was charged with creating a disturbance at Opie’s Hotel.

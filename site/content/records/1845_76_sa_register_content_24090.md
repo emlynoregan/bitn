@@ -35,6 +35,7 @@ topics:
 - religion
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  [The obituary of D.J. H. Ibbetson is reprinted using substantially the same text but with the following corrections and additions.]

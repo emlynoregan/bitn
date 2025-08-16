@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Old Man’s Darling continued from 1886 and ran from 4 January to 11 January.

@@ -23,6 +23,7 @@ topics:
 - appointment
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church held farewell services for Rev. W.F. James on Sunday 27 March.  He had been the incumbent since October 1884.  In his time £502 has been raised towards the new manse and altogether £1412 or £11 per week has been raised.  He has travelled 3,000 miles to hold special services in 44 other places.  He transfers to Adelaide.

@@ -19,6 +19,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.B. Rounsevell has decided to stand for the seat of Pt Adelaide at the next election and so a new candidate is required here.

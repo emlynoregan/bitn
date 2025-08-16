@@ -19,6 +19,7 @@ topics:
 - government
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. The Corporation has repeatedly addressed the Govt. on the subject and yet we make no progress thus far. Some time ago men from the Waterworks Dept. tested the town well and said flow was abundant, but a pump would be needed. Now another party has arrived to again test the well and so we suppose this effort will again exhaust all activity of Govt.

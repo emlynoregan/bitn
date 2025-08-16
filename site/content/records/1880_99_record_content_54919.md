@@ -20,6 +20,7 @@ topics:
 - inspection
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial, on the fourth annual inspection of the Burra Co. Mounted Rifles which is as numerous now as when founded despite the continued reduction in the defence budget which has cut the allowance paid to maintain the company.  ‘But the men cannot be expected to continue their good work at their own expense.’

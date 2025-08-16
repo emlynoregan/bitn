@@ -19,6 +19,7 @@ topics:
 - volunteers
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC held a barbecue on Sunday to thank the town’s volunteers.

@@ -19,6 +19,7 @@ topics:
 - theft
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Ford’s smoke-shop was broken into last Wednesday night and a 25 lb side of bacon was stolen.

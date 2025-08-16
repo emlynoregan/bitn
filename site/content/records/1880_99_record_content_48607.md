@@ -20,6 +20,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Spence will give her popular lecture on Effective Voting at the Burra Institute on Wednesday 14 February.

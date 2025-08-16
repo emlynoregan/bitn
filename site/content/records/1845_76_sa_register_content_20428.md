@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Copperhouse Primitive Methodist Sunday School Anniversary was also celebrated on Good Friday and Easter Sunday.

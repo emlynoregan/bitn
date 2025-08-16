@@ -24,6 +24,7 @@ topics:
 - attendance
 - epidemic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Inspector visited 30 town [city] schools and 24 suburban ones and 24 country schools.  He reported the introduction of the principle of pupil-teachers (in two schools) with a fair degree of success.  This is to be encouraged because of the lack of efficient teachers.  This can only be addressed by importing them or training them.

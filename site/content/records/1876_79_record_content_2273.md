@@ -20,6 +20,7 @@ topics:
 - ford
 - repair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Swansea Vale Ford; "We notice that nothing has been done towards repairing the ford near the mine bridge."

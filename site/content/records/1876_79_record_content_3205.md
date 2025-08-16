@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mt Bryan D.C. asked that the road at the back of Hallett's Woolshed be repaired.

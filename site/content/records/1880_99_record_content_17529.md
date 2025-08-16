@@ -22,6 +22,7 @@ topics:
 - foreign policy
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Russia’s ambitions in Afghanistan and thence in India.

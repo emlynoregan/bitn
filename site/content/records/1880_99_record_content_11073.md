@@ -30,6 +30,7 @@ topics:
 - competition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Flower Show was held last Wednesday.  It was the fourth such and the best so far.  Quality was down a little on account of recent rough weather and plants were a little backward.  Fuchsias and cinerarias were very good and petunias, pelargoniums and azaleas were also good.  Ferns and foliage plants were plentiful and very good and the tree ferns of Mr T. Drew were much admired.  Roses were better than seen before.

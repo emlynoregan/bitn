@@ -18,6 +18,7 @@ topics:
 - church
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hampton - the Bible Christian Chapel was offered for sale.

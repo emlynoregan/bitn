@@ -21,6 +21,7 @@ topics:
 - criticism
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Anti-obstruction’ writes to suggest the Councillors for East and West Wards should resign and generally condemning the way the Council has made itself the laughing stock of the colony.

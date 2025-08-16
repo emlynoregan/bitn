@@ -23,6 +23,7 @@ topics:
 - business
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henderson of Market Square offered to provide steam power and a pump etc. to force water from his well to the proposed reservoir at 3/6 per 1,000 gallons for 10,000 gallons a week, 3/- per 1,000 for 20,000 gallons, 2/6 per 1,000 for 30,000 gallons and 2/- per 1,000 for 40,000 gallons or more.  He would offer a five-year contract.

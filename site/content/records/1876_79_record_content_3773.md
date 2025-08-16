@@ -22,6 +22,7 @@ topics:
 - tariff
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Tweed Factory. Letter to Ed. from David Gall expressing support for the idea, but with some doubts unless the 5% tariff is raised to 10% as it is in Victoria.

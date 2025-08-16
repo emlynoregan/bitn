@@ -21,6 +21,7 @@ topics:
 - horse
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Bolt.  On Saturday Mr Porter was returning to his residence at Koonoona, Springbank in a buggy when he stopped to talk to some men doing some fencing for him.  The horse bolted, but Mr Porter had the presence of mind to jump out and escaped unhurt.  The buggy had its fore-axle and shafts broken, but the horse was captured with trifling injuries.

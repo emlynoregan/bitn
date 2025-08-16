@@ -20,6 +20,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church.  Next Sunday evening Rev. R.J. Daddow will give an address at the church on A Screw Loose, a talk on the social questions of the day.  This is a last chance to hear this speaker who has won such a reputation for his expositions on social matters.

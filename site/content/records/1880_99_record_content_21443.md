@@ -20,6 +20,7 @@ topics:
 - government
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the SA Government’s lack of policy on unemployment, their lack of public works and an attitude the editor sees as penny-wise and pound-foolish.  People are leaving SA in droves.

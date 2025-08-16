@@ -19,6 +19,7 @@ topics:
 - advertisement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Address in the Kooringa Wesleyan Church Sunday evening 8 May.

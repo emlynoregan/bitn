@@ -23,6 +23,7 @@ topics:
 - cattle
 - distance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are accounts from the north of the cattle sent up to the new country.  One is of a mob of 200 at the Lake from 700 that started out.  Messrs Humphreys and Barker are at Termination Hill. [Just west of Lyndhurst.]  They are waiting with their mob for rain to get over the remaining 80 miles.

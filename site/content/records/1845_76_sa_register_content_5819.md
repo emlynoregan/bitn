@@ -24,6 +24,7 @@ topics:
 - shipping
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The well-known barge Phœbe of 40 tons with R. Buck master sails for Port Wakefield three times a month.  All goods carefully stored if sent to Captain R. Tapley, Port Adelaide or to Mr W. Brewer, Port Wakefield.

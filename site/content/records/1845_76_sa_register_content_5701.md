@@ -25,6 +25,7 @@ topics:
 - occupations
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 District 35: Kooringa, Redruth and Aberdeen.

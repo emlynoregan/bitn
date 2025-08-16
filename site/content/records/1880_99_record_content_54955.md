@@ -21,6 +21,7 @@ topics:
 - livestock
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Sandland & Co. will offer at the Bon Accord Yards 12,660 fat & store sheep on 19 October.

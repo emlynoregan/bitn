@@ -20,6 +20,7 @@ topics:
 - legal
 - penalty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ considers von Doussa’s £10 fine ‘paltry’.

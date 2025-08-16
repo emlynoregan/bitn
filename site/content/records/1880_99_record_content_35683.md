@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs Charles Drew have returned after an absence of c. 11 months in Great Britain.

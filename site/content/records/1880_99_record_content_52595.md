@@ -24,6 +24,7 @@ topics:
 - hospital
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  A concert was held last Wednesday, arranged by Rev. R.S. Casely and led by Mrs Oldham, Mr John Roach & Rev. R.M. Hunter.  [Items are individually reviewed.]

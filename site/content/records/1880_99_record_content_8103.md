@@ -20,6 +20,7 @@ topics:
 - agriculture
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  A little rain has given at least some relief to crops in the areas of the north, but to the east of Burra on the plains the havoc has been terrible.

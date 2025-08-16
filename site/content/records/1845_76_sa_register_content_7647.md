@@ -20,6 +20,7 @@ topics:
 - gold
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisements.  The shipping notices list 12 vessels heading for the gold diggings in Victoria and NSW.

@@ -18,6 +18,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crown Lands Dept. has paid £150 to the Main Road Account.

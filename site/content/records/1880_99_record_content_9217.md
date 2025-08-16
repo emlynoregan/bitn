@@ -23,6 +23,7 @@ topics:
 - school
 - fees
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr J.P. Satchel assisted by R.Z. Jones will open a select private school in the old church [St Mary’s] on Limestone Hill.

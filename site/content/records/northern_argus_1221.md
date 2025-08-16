@@ -21,6 +21,7 @@ topics:
 - community
 - naturalisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Marguarite Lang was naturalised at a ceremony at the May meeting of the Burra Burra DC.

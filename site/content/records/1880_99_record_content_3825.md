@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 South Ward Fiasco.  We are disappointed that the whole of Council had to step in and appropriate the money for the South Ward, due to the disagreement between the two South Ward councillors.  Unfortunately we cannot approve the way the appropriation was handled.  The main effort was directed at not allowing any money to go for the Kangaroo St Bridge.  In fact the whole lot has been frittered away on little jobs and patching, which will need doing again in a year or two and will leave no long-term legacy.

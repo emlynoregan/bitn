@@ -22,6 +22,7 @@ topics:
 - meeting
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Members of the old Burra Racing Club are called to meet on Friday afternoon at the Institute to decide on what to do with the surplus money now in the bank to the club’s credit.  P.L. Killicoat, President.

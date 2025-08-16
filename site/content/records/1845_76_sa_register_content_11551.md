@@ -22,6 +22,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Wesleyan Sunday School held it Anniversary Services on 4 & 5 April.  Sermons were preached by Rev. C. Colwell and the scholars were examined by Rev. R.C. Flockart.  Congregations were overflowing and the collection amounted to £22-6-9.  The recitations and singing of the children was admirable.  On Monday the children’s procession around the town was followed by a sumptuous tea.  More than 300 adults had tea before the public meeting.  There are 150 scholars.  The collection was £64-19-9, which leaves £45 after paying expenses.

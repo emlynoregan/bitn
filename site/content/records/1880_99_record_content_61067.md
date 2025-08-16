@@ -20,6 +20,7 @@ topics:
 - hospital
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  A group of local gentlemen gave a concert on Wednesday evening for patients.  A.W. Dobbie & Co. very kindly lent a piano.

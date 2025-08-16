@@ -19,6 +19,7 @@ topics:
 - finance
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cr Ridgway endorsed the Council's joining the Association of Municipal Corporations, but suggested it be deferred to the new council as they currently had no money and the joining fee was £5-5-0.

@@ -25,6 +25,7 @@ topics:
 - retail
 - drapers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘An Assistant’ writes saying that despite a setback to the early closing movement because five or six drapers refused to comply with just and reasonable demands, the movement will persist:

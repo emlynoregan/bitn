@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [A hand-written note on the file copy of the paper suggests the advt. was by W.H. Hardy.]

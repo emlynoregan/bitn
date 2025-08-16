@@ -22,6 +22,7 @@ topics:
 - anniversary
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church Anniversary services last Sunday were presented by Rev. J.G. Wright, Rev. G.E. Rowe & Rev. C. Tresise.  The children’s treat was held at the Burra Recreation Ground.

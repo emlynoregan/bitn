@@ -22,6 +22,7 @@ topics:
 - service
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Harvest thanksgiving services last week at Redruth saw interesting preaching by Rev. R.J. Daddow, F.W. Holder, and J. Scott.

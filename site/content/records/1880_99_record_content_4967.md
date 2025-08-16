@@ -22,6 +22,7 @@ topics:
 - community
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From ‘Wun Hu Knows’ in response to E. Diplock and the Burra Mine (In Cornish dialect) disputing Diplock’s expertise and saying he spent most of his time elsewhere and had hardly been underground in the last 14 years and spent only a month or two on top in that time.  His supposed knowledge of an untapped lode at the 65 fathom level is ridiculed as there was no 65 level.

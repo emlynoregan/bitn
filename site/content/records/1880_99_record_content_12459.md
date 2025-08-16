@@ -20,6 +20,7 @@ topics:
 - estate
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Black Springs.  First and final dividends are being prepared for the Assigned Estate of Arthur Worby, Licensed Victualler of Black Springs.

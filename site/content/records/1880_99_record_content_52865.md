@@ -22,6 +22,7 @@ topics:
 - sport
 - representation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa is represented by Messrs R.M. Harvey, A.C. Noyes, A.J. Parkin and P.R. Scott.

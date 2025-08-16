@@ -23,6 +23,7 @@ topics:
 - fire
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest at the Commercial Hotel on Thursday into the fire at Mr Walker’s house.  William Radford, Foot-Constable, described how the fire was coming through a window facing the police station and how it was quickly quelled when Mr Parks used his hose.  John Thomas Walker gave evidence and said the contents loss was c. £50 and the building c. £10.  In all about 1 column of detail is printed, but the result was that the origin of the fire remained a mystery.  [Though an ash pan was the probable source.]

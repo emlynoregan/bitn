@@ -25,6 +25,7 @@ topics:
 - land
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 27 March 1875, page 2

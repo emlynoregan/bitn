@@ -19,6 +19,7 @@ topics:
 - land tenure
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Parl. Club: Main concerns were leasehold versus freehold tenure for agricultural land.

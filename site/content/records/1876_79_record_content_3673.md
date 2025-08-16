@@ -21,6 +21,7 @@ topics:
 - business
 - boot & shoe
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. W. Anderson, Wholesale & Retail Boot & Shoe Maker, Commercial St Advt. W.H. Banks,

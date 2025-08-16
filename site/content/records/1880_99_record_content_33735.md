@@ -19,6 +19,7 @@ topics:
 - charity
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute, 7 Oct. Vocal and Instrumental Concert featuring the Blind Performers from the Industrial School for the Blind.

@@ -25,6 +25,7 @@ topics:
 - land
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sales.  The freehold of c. 3,400 acres near Burra and an 8-roomed house at Mt Lofty along with three allotments at Albert Park and a small residence at Aberdeen went to Mr J.M. McBride for £5,750.

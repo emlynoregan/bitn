@@ -22,6 +22,7 @@ topics:
 - hospital
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Davis crushed his foot when a wagon passed over it at Hallett on Tuesday.  Four toes were amputated at the Burra Hospital and he is making a recovery.

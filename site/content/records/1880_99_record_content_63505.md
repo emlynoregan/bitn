@@ -20,6 +20,7 @@ topics:
 - operations
 - move
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Record may experience difficulties in production in the next couple of weeks as we move into our new premises.  We hope to effect the change without missing an issue as the move is only about eight yards from the old spot.

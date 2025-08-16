@@ -19,6 +19,7 @@ topics:
 - inquest
 - insurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Hotel Fire.  There follows a much more detailed account of the inquest into the fire.  All the house, furniture and stock were insured with the Colonial Mutual for £1,400.  The stock was estimated at £130-14-0.  The farm on which the hotel stood was encumbered.

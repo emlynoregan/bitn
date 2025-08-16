@@ -18,6 +18,7 @@ topics:
 - construction
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henderson has just made an iron girder to carry the parapets of the new shops replacing those recently burnt down.  It is 67’ long and weighs 30 cwt.

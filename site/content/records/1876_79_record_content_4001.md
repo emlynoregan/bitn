@@ -29,6 +29,7 @@ topics:
 - land
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The town of Shebbear which was to be offered for sale on 16 May has been withdrawn due to the decision to continue the railway from Hallett to Terowie. A selector, Mr Mitchell had illegally established a private town he called Terowie, with a public house and a blacksmith's & granted land for a Wesleyan Chapel. A government school followed. Shebbear was surveyed out of the travelling stock route at the same place, but on the opposite side from Terowie. This annoyed the people who had bought land at Yarcowie as the two towns, only separated by 5 miles; would interfere with one another. There is another government town 12 miles beyond Terowie; Launcelot. [Actually Lancelot - now abandoned]

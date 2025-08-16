@@ -20,6 +20,7 @@ topics:
 - fundraising
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Bible Christian Schoolroom in Kooringa has been renovated and a public supper and entertainment was held last Friday to celebrate and to assist the improvement fund.

@@ -20,6 +20,7 @@ topics:
 - mining
 - minerals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Report on the Burra Burra Mine, translated fro the Suedaustralische Zeitung.

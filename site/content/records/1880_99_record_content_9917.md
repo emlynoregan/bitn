@@ -22,6 +22,7 @@ topics:
 - entertainment
 - phrenology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Professor Primrose, phrenologist will give an entertainment at the Exchange Hotel, Aberdeen on 7 May.  He can be consulted privately at the Burra Hotel.

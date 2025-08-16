@@ -18,6 +18,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  Charlie Grow’s cab horse bolted again last week and the cover was ripped off by a tree, the cab and horses continuing on their way.

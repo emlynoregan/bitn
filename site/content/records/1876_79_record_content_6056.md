@@ -21,6 +21,7 @@ topics:
 - sport
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. Burra's Football Club is under way with 20 members enrolled. The colours are a red & white guernsey, cap and stocking with blue knickerbockers. They will play Adelaide Association rules and the election of officers is on 10 March.

@@ -20,6 +20,7 @@ topics:
 - court
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Schulz charged with being drunk in Market Square on 19 January and fined 20/- or 14 days.

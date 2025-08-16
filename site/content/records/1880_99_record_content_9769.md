@@ -20,6 +20,7 @@ topics:
 - survey
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P. Lane moved an amendment that surveys of the competing routes be made before a decision was reached.  Carried.

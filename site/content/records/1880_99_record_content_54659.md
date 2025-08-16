@@ -17,6 +17,7 @@ topics:
 - council
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The report of the meeting gives a somewhat fuller account, but is essentially the same as in the editorial.

@@ -17,6 +17,7 @@ topics:
 - legal
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Five men were fined for having unregistered dogs and three of them went to gaol for 14 days because they were unable to pay the fine.

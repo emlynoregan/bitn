@@ -18,6 +18,7 @@ topics:
 - weather
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Monday was a general holiday, but few people were about because of the rain.

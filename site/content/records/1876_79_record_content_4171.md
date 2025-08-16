@@ -20,6 +20,7 @@ topics:
 - local government
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The District Council is to be informed that no rubbish is being dumped by order of the Town Council in any improper place.

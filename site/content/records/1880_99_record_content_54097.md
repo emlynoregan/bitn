@@ -19,6 +19,7 @@ topics:
 - fundraising
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be a Vocal, Instrumental and Dramatic Entertainment Wednesday 11 July in aid of the needy.

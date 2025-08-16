@@ -23,6 +23,7 @@ topics:
 - livestock
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lambing.  The % is the lowest for many years.  Several farmers at Baldina have had to kill every lamb to save the ewes, so scarce is the feed.  Booborowie Station has been very good however, and next comes W. Killicoat with 80%; marred by dog attacks.  Dogs are a widespread problem.  Gum Creek tailed 75%.

@@ -20,6 +20,7 @@ topics:
 - land
 - licence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Occupation Licences issued by the Colonial Secretary 9 September 1846 included among many others those to William Robertson and James Stein.

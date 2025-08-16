@@ -21,6 +21,7 @@ topics:
 - accident
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  A coupling bar broke on a 58-truck train between Burra and Mt Bryan on 9 September.  About £20 damage was done to two trucks.

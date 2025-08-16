@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Weather. Good steady soaking rains which began on Wed. 19 Sept. continued till the following Tuesday have saved many crops.

@@ -22,6 +22,7 @@ topics:
 - fundraising
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church Anniversary.  Last Monday the tea meeting was well attended considering the rain.  The treasurer, F.W. Holder, read the balance sheet, which showed the debt for the whole property stood at £925.  The old parsonage was valued at £500 and was let on a rental that paid the interest on that sum.  ‘Practically the debt on the church buildings was £425’.  Messrs C. & T. Drew have offered to contribute £150 if the whole debt is paid off.  A list has been started and has reached £370 exclusive of anniversary proceeds.  In a few months then they would be able to rejoice in being practically free of debt.

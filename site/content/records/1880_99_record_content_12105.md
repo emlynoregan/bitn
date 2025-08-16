@@ -21,6 +21,7 @@ topics:
 - fine
 - assault
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Lines fined 20/- or 14 days for fighting Frederick Camp [or Kemp in one part of the report]

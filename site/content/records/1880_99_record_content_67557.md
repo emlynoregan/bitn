@@ -18,6 +18,7 @@ topics:
 - council
 - schedule
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Meetings to be 1st & 3rd Mondays at 7.30 p.m.

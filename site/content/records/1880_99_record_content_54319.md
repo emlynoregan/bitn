@@ -20,6 +20,7 @@ topics:
 - traffic
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court.  Again Charlie Grow drove round Tiver’s corner too fast and was fined 5/- + costs.

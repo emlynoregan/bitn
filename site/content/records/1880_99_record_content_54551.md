@@ -19,6 +19,7 @@ topics:
 - church
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan YPSCE started on 8 May and is proving very successful.

@@ -27,6 +27,7 @@ topics:
 - death
 - medical evidence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest at the Miners' Arms 15 Feb. on the body of James Cummins who was found dead on the property of Mr H.J. Riggs in the H. of Mongolata on 14 Feb. E. Lipsett, coroner. Joseph Ford had employed Cummins for some 17 weeks and saw him alive a week before. He had been on the spree and complained of ill health, but seemed in good health at this time. His wages were paid up and he told Ford to pay the landlord of the Courthouse Hotel all that was coming to him.

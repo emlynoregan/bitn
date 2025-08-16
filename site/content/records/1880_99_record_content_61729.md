@@ -24,6 +24,7 @@ topics:
 - horse
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Bolt.  James Bentley, with Drew & Crewes dog cart, had an unpleasant experience when the pony bolted in Queen St, dashed into Commercial St via the verandah of the shop lately occupied by Mr Brady.  The driver was eventually forced off, but the horse stopped at a second verandah.

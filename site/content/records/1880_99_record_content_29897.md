@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Kooringa Primitive Methodist Church.  On 14 October three sermons will be preached by Rev. George Warner from England.

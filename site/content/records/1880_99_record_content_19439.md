@@ -20,6 +20,7 @@ topics:
 - accounting
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Clerk said the costs of new connections were being charged to the income instead of the capital account.

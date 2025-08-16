@@ -22,6 +22,7 @@ topics:
 - anniversary
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Anniversary Services were shared by Rev. R.C. Yeoman and Rev. R.S. Casely.  The report at the public meeting showed that the church debt had been reduced by £25 in the last year as it had each year for the last six.

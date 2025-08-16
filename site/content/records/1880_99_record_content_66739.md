@@ -19,6 +19,7 @@ topics:
 - sport
 - shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Defence Rifle Club.  On Saturday the 2nd match began, to be completed today.

@@ -20,6 +20,7 @@ topics:
 - water
 - rental
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Almost out of town are two or three allotments comprising less than two acres with nothing on them.  They would not be required as far as anyone can tell even if the mine restarted.  The area has been sought for fruit and vegetable production.  The enquirer wished to fence and erect an engine to pump water.  The authorities sought an annual rental of £15.  This is too absurd to require comment.  At present it yields perhaps 2/6 a year in rent.

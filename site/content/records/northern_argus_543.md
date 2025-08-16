@@ -20,6 +20,7 @@ topics:
 - sport
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Gary Williams will leave Burra at the end of the year and he was farewelled at the indoor hockey grand finals last Tuesday night.

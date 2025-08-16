@@ -20,6 +20,7 @@ topics:
 - temperance
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Teetotaller’ writes attacking ‘Erratic Correspondent’ for his venomous and abusive tone and objecting to the terms like faddist, extremist, bigots, rabid, and mentally deranged.  And to calling Mrs O. Lake’s and others’ arguments claptrap.

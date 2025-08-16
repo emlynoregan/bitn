@@ -24,6 +24,7 @@ topics:
 - council
 - public property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Princess Royal.  Mr A. McCulloch has decided to close and lock the White Gate – the first to allow the public to enter Princess Royal Estate.  This is because the road is not public and the bridge, which is said to be dangerous, cannot be repaired by funds from the Burra DC.  We understand the road is the property of SAMA.  If nothing is done the public will be much disappointed at not being able to spend an hour or two under the beautiful trees and alongside the gurgling river.

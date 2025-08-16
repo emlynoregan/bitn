@@ -20,6 +20,7 @@ topics:
 - culture
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Art Exhibition and Literary Society Concert in the Institute on Wednesday night attracted a very small audience, though the program was fairly good.

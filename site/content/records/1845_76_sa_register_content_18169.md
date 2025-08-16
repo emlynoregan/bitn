@@ -24,6 +24,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An election meeting was held at the Burra Hotel tonight with upwards of 150 present.  Mr T.S. Porter presided. Messrs Cole and Neales addressed the meeting and answered questions.  A proposition supporting Mr Cole was moved, but an amendment that they should wait for other candidates to come forward was carried.  A vote endorsing Mr Neales was carried unanimously.

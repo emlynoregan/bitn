@@ -19,6 +19,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Justices of the Peace; more needed in Burra and also north for instance at Hallett as the agricultural population grows.

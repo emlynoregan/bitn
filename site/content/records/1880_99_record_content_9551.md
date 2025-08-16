@@ -25,6 +25,7 @@ topics:
 - meeting
 - Methodism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Methodism.  There was a large camp meeting of the three branches of Methodism near the Model School last Sunday afternoon.  A very large assembly was addressed by Revs J.G. Wright and S. Knight and by Messrs Holder, Crewes, Hutchins and White.

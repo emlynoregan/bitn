@@ -21,6 +21,7 @@ topics:
 - event
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Monday a friendly game was played on the Burra Oval when Manoora arrived by the midday train for a game starting at 2 p.m.  Burra 9 defeated Manoora 1.

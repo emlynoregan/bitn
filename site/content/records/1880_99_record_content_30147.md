@@ -18,6 +18,7 @@ topics:
 - circus
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Leon’s Palace Circus visited on Tuesday and performed to a full tent.   Worn out horse acts and acrobatic feats predominated.  The horses were jaded and the band weak.

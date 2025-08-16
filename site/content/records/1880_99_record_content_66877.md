@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Friendly Societies’ Parade service last Sunday at St Mary’s was crowded.  The offertory to the hospital was £4-12-6.

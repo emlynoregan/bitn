@@ -20,6 +20,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Church quarterly circuit meeting was held in Kooringa on 10 March.  The financial position was satisfactory and as this was the last such meeting before Rev. S. Gray’s removal he was thanked for his valuable service and successful labours over four years.

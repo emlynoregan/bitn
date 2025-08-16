@@ -21,6 +21,7 @@ topics:
 - appointment
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Egerton-Warburton, manager of the Kooringa Branch of the National Bank has been promoted to the Port Adelaide Branch.

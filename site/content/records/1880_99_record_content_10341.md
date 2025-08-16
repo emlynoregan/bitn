@@ -20,6 +20,7 @@ topics:
 - politics
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A public meeting is called for 15 August in the Institute to consider the Education Bill and Taxation proposals.

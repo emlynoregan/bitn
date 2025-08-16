@@ -20,6 +20,7 @@ topics:
 - finance
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Commissioner of Public Works has deducted £324-1-11 from the Waterworks capital account upon receipt of 115 water meters.

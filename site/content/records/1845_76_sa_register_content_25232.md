@@ -42,6 +42,7 @@ topics:
 - goods_sheds
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Saddleworth Railway Meeting.   The meeting was held 25 June.  The report comes from the Northern Argus.

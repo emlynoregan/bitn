@@ -19,6 +19,7 @@ topics:
 - correction
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from G. Parks correcting the impression of carelessness (or worse) on the part of the former cricket club secretary. [As noted above.]

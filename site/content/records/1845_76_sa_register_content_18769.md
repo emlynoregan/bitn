@@ -26,6 +26,7 @@ topics:
 - township
 - reprint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 7 July 1865, page 3

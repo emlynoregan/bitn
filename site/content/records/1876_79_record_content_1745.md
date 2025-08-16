@@ -19,6 +19,7 @@ topics:
 - association
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. next talk on `The Microscope' illustrated. The last was on ‘Intemperance’

@@ -21,6 +21,7 @@ topics:
 - fencing
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder arrived in town on Friday and in the afternoon was driven to the East to report on the advisability of a wire netting fence.

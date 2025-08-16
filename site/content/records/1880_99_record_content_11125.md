@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Sunday School anniversary on 4 November.  Preacher will be Mr J.D. Hill of Adelaide.  The tea meeting is on 9 November and public sports of the 9 November.

@@ -20,6 +20,7 @@ topics:
 - international
 - cables
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Cable to the UK is still down, but a mail vessel has arrived with telegrams.  There has been no change in the political situation in Europe.  The ends of the broken cable were eight miles apart.

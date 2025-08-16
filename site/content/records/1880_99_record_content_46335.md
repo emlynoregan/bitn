@@ -22,6 +22,7 @@ topics:
 - entertainment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment: The Last of the Bleak House Entertainments at the Institute 6 September.  Mr J. Roach and Adelaide Friends will assist.

@@ -19,6 +19,7 @@ topics:
 - mission
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Point Macleay.  There is a one column article on a visit to this Mission Station.

@@ -20,6 +20,7 @@ topics:
 - editorial
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the end of the current SA Parliament and its generally unsatisfactory session which the writer believes has happily favoured the wealthy and done nothing to relieve other classes of the undue burden they carry. He continues with some further remarks on the Legislative Council and on the Electoral Committee for the district, which he thinks was a worthwhile experiment.

@@ -19,6 +19,7 @@ topics:
 - match
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The combined team won by 3 runs with 12 wickets to spare. [sic]

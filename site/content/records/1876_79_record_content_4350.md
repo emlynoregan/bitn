@@ -26,6 +26,7 @@ topics:
 - public health
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra. 8 July. W Watts & H. Pinch nominated and declared elected for North Ward. No nomination for South Ward. Nomination of E.A. Jeffrey as auditor was informal. 

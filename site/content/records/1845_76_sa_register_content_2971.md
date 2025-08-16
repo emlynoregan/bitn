@@ -23,6 +23,7 @@ topics:
 - labour
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.W.G. Nicholls submits a lengthy and awful poem condemning the Directors of SAMA in their stand against labour and for their suits against the editor of the Register.

@@ -41,6 +41,7 @@ topics:
 - pledge
 - Independent Order of Rechabites
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Temperance in the North

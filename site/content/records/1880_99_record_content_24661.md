@@ -33,6 +33,7 @@ topics:
 - suicide
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  An inquest was held on 11 February at the Terowie Institute on the body of Edward Sydney Carlton Grey, with E. Stephens as coroner and E.F. Brady as foreman of the jury.  [Death registered as Gray, 10 February, aged 20.]

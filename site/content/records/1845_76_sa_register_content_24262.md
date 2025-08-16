@@ -26,6 +26,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 John Baker.  Adelaide Police Court 21 November.  Baker was charged with having stolen, at Mt Murchison in NSW 14 October 1869, in conjunction with William Bertram, three geldings and one saddle, the property of Alfred Kirkpatrick and E.S. Bonney.  The prisoner was remanded into the custody of Constable Murphy to be taken to Wilcannia to answer the charge.

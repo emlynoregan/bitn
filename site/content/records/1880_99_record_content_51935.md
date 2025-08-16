@@ -27,6 +27,7 @@ topics:
 - procedural dispute
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 March.  The mayor was questioned about certain ‘new’ standing orders he had used in his rulings so Cr Walsh asked for a copy.  But it transpired they did not exist.  The Mayor had been quoting from the Adelaide standing orders.  Cr Parks then moved his motion, but the Mayor again refused to accept it.  Cr Kitchen asked if the report in the Record of the last meeting was correct.  The Mayor said not.  He then abruptly adjourned the meeting.  Cr Parks moved that Cr Linkson take the chair and the meeting continued amid confusion.  The Town Clerk expressed his disgust at this meeting and threatened to resign.  The Mayor stood by watching the fiasco.

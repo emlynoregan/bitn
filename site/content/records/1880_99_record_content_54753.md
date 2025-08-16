@@ -17,6 +17,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1/- to be returned in goods, or 6d not returned.  Knife & Fork Spread from 12 to 6 p.m.

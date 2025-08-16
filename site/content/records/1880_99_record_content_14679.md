@@ -18,6 +18,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope met as usual on 7 September and continues to meet fortnightly.

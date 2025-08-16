@@ -21,6 +21,7 @@ topics:
 - council
 - bonus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Ratepayer’ objecting to Cr Rabbich’s move towards granting the Inspector, J.R. Gray, a bonus of £10 when his tender was already the highest of six for the job.

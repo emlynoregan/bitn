@@ -22,6 +22,7 @@ topics:
 - railway
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  A young man named Smith was injured in a shunting accident at Hallett on Saturday.  One leg was lacerated when caught between a wheel flange and the rail.  He is progressing in Burra Hospital.

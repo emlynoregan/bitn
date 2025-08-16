@@ -22,6 +22,7 @@ topics:
 - licensing
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Butchers’ Licences were issued on Monday to Messrs D.J. O’Leary, F.F. Bromley, W.A. Rabbich and Gebhardt Bros.

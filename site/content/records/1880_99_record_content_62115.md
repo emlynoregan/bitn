@@ -21,6 +21,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Kelly has been committed for trial on the second charge of embezzlement at Broken Hill.  Other charges were then dropped.

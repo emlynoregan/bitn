@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  There will be a harvest thanksgiving tea meeting at the Douglas Primitive Methodist Chapel on 25 February 1885.

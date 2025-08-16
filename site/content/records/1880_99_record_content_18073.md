@@ -20,6 +20,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Entertainment at the Burra Institute on Monday 22 June, in aid of the Children’s Hospital.

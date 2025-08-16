@@ -22,6 +22,7 @@ topics:
 - maritime
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The SA Mining Association, the SA Company and Champagne

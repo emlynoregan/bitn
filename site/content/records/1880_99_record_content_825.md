@@ -18,6 +18,7 @@ topics:
 - business
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drew & Co.  A crowd gathered on Tuesday to see the raising of the iron Bessemer across the front of their new premises.

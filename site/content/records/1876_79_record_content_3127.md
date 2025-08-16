@@ -19,6 +19,7 @@ topics:
 - wheat
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agriculture.  The season’s wheat is beginning to arrive in Burra.

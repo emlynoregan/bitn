@@ -22,6 +22,7 @@ topics:
 - history
 - biography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [It was proclaimed the H. of Tomkinson on the 18 September 1879: named after Samuel Tomkinson MLC, a member of the Upper House from 1885-1900 and manager of the Bank of Australasia in Adelaide.]

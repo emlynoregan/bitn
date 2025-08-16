@@ -21,6 +21,7 @@ topics:
 - accident
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Road to Burra Burra Mines is reported by a traveller to be strewn with laden drays bogged to the axles.  In endeavouring to escape most drivers have shattered poles, shafts etc. and numbers have been stuck for weeks, immovably imbedded.  The whole route is a quagmire.

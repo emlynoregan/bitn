@@ -22,6 +22,7 @@ topics:
 - mining
 - prospecting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  On Monday we visited Ulooloo where gold has been obtained for many years past.  Not much has been got from any one site, but a considerable amount in total from alluvial deposits.  The gold is coarse and not waterworn, so the belief is that a rich reef is nearby.  A.J. Lewis of Hallett is trying to find it with Mr Murphy.  The latter has sunk an 80’ shaft and Mr Lewis is costeening up the hill from the creek.

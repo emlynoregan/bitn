@@ -19,6 +19,7 @@ topics:
 - social
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Sports Social marking the coursing meeting, the end of the cricket season and the start of football at the Commercial Hotel on Thursday went well, though it was regrettable that more members did not avail themselves of the opportunity to take part.  About 20 sat down to a fine spread with the usual long series of toasts and speeches.

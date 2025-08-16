@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - route
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway.  A report on the proposed route of the railway to Victoria via Strathalbyn is printed.

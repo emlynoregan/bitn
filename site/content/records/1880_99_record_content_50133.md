@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Carl August Müller, husband of Julia, died on 1 June at East St Kooringa, aged 81, of senile decay.  A resident of 37 years.

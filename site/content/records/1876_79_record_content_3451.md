@@ -20,6 +20,7 @@ topics:
 - agriculture
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits. The Northern Rabbit Meat Preserving Co. has taken over the premises of World's End Station for the purposes of rabbit preserving.

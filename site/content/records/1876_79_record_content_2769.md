@@ -19,6 +19,7 @@ topics:
 - bridge
 - road
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Bridge. The Midland Road Board surveyor found rotten planks and ribs and while no immediate danger, it needs repair and a warning sign should be erected in the meantime. It should be replaced with an iron bridge of the bow string type. The present span is 7I'3" and locals say this is insufficient in floods and causes water to build up behind it.

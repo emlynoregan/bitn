@@ -22,6 +22,7 @@ topics:
 - politics
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Here the storm burst and little of what the speaker said could be heard.  He was heard to say that he had the names of 100 miners opposed to the fund.

@@ -24,6 +24,7 @@ topics:
 - community service
 - scouting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Citizen of the Year is Mrs Florence Scroop who was nominated by the Board of Management of the Burra Hospital.  Over many years she has been involved in service to the community.  Among her interests are:

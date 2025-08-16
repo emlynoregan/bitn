@@ -18,6 +18,7 @@ topics:
 - society
 - temperance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Total Abstinence Society.  The Kooringa branch reports having 273 members.

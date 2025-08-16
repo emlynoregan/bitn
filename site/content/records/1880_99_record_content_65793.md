@@ -21,6 +21,7 @@ topics:
 - mining
 - engineering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The boring at the mine has been going on for over 14 months and the second bore is about to begin.  Mr Leahy has done well in working the bore without damage to the diamond drill.

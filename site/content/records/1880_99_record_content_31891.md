@@ -22,6 +22,7 @@ topics:
 - health
 - epidemic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the typhoid outbreak now raging in Melbourne, Broken Hill and Burra.  The local outbreak very likely had its origin in a case from Broken Hill.  [Broken Hill was sending cases to Burra Hospital for treatment.]

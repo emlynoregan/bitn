@@ -22,6 +22,7 @@ topics:
 - editorial
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial urging action on the Baldina Irrigation Scheme and accusing the Government of prevarication.  [The scheme required a dam on the creek near Douglas, the funding for which was to be recovered from the sale of the nearby blocks.]

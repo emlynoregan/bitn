@@ -22,6 +22,7 @@ topics:
 - machinery
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  Work proceeds with vigour under Mr Challoner and machinery superintended by Mr Swansborough.  It is expected preparations will soon be made to treat the creek sands with machinery due soon from England.  The company has begun to sell ore again.

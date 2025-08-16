@@ -22,6 +22,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editorials were often concerned with the political situation in Adelaide and what was going on in the SA Parliament.  Holder was particularly interested in the financial arrangements and policies of the SA Government.  Although they are written in quite a readable style, much of this must have been of quite marginal interest and comprehensibility to most of the readers.

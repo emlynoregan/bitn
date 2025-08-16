@@ -17,6 +17,7 @@ topics:
 - railway
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The paper incidentally swaps between the train’s brakes and its breaks at random in discussing halting the train.]

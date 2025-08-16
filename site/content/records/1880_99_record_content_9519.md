@@ -21,6 +21,7 @@ topics:
 - council
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jeffrey Pearce writes regretting the way in which ‘party’ dominates local politics in Burra.  Place, power and patronage are used to promote party ends.  For example recently a number of tenders were recently called and he says he has often had his lowest tender ignored.  ‘Two or three councillors can work away the ratepayers’ money just as they like through spite . . . and their reasons for doing so should be explained.’

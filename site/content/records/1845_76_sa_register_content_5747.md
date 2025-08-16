@@ -27,6 +27,7 @@ topics:
 - mining
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 North Terrace Foundry.  Having been attracted by the appearance of two large cylinders outside we were politely invited to inspect the interior of their foundry by one of the Messrs Wyatt.  [Among other items] we saw some castings for two powerful pumps about to be employed at the Burra Burra Mines and said to be capable of raising from 30,000 to 40,000 gallons of water per hour.  The largest pieces were 11 ft long and 14 inches diameter, the inner surfaces being accurately bored.  The component parts of a pump ordered by the Patent Copper Co. next took our attention.  The double valves and elbow-pipes were choice specimens of the founder’s art.  [A number of other items are then described.]  In the principal workshop there was a large iron safe and fireproof bookcase in course of completion for the offices of the SA Mining Association.

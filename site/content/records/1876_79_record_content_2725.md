@@ -20,6 +20,7 @@ topics:
 - community
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 St Mary's to hold a festival in Institute next Thursday with tea at 5.30 and then an evening lecture: `Reminiscences of a Trip to England' with readings and music.

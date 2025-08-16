@@ -21,6 +21,7 @@ topics:
 - sports
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The match organised for Good Friday fell through when Clare failed to arrive due to the bad weather.  Instead Burra played Aberdeen.

@@ -21,6 +21,7 @@ topics:
 - event
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match on Wed. last.  Terowie Co. VF 524 defeated Burra Co. VF 433.

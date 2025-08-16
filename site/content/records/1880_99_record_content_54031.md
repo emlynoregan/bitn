@@ -32,6 +32,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Edward Fitzgerald’s funeral left his home on Thursday for St Joseph’s at 2.30 p.m.  He was a resident of 40 years, having worked in the Burra Mines and at the Smelting Works.  He was constant in his church attendance and leaves four sons: John, Thomas, Edward and William and three daughters, Mrs G. Dawes (North Adelaide), Mrs E.J. Bradley (Adelaide) and Miss Ellen who lives with her mother.

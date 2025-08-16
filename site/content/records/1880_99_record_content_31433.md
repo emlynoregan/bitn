@@ -28,6 +28,7 @@ topics:
 - injury
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mining Accident at Boolcoomatta, 19 miles northeast of O’Lary [Olary].  George Mast and his mate Hutchison were injured when a charge misfired and were sent to the Burra Hospital.  Hutchison’s injuries are minor, but Mast was horribly mutilated in the face and is critically ill.

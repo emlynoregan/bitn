@@ -26,6 +26,7 @@ topics:
 - waterworks
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the recent goings-on in the Town Council.  The writer finds them quite amusing.  There was a long discussion in Council about the appointment of a dayman and then the decision to throw open the Waterworks Engineer’s position.  Despite all the talk ‘Jan’ [Mr Jenkin] got the position of dayman again.  Furthermore on 8 Jan. despite receiving 14 applications the engineer’s position came down to either Mr Harry or Mr Littlejohn and eventually the Mayor had to use his casting vote which was in favour of reinstating Jimmy [Mr Littlejohn].  The odd result of this attempt to remove him is that he is now employed for 2/- a day more for the same work that it was said he was incompetent to carry out.

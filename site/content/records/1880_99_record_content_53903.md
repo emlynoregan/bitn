@@ -21,6 +21,7 @@ topics:
 - speeding
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Gerard, driver of Fred. Robinson’s express parcel van was fined 6/- for speeding around the Morehead St Best Place corner.

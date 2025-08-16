@@ -19,6 +19,7 @@ topics:
 - cemetery
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Tenders called for enclosing the extension to the cemetery.

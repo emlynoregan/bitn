@@ -19,6 +19,7 @@ topics:
 - community
 - novelty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Snell has in his window a clock needing to be wound only once in 13 months.  The pendulum rotates round one way and then the other.  We understand there are only three such in SA.

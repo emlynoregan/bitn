@@ -25,6 +25,7 @@ topics:
 - appointment
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr G.B. Hall, Manager of the Bank of Australasia, will not now go to Latrobe in Tasmania, but to Yarrawonga in Victoria.  Mr Harvey from Port Augusta succeeds him here.

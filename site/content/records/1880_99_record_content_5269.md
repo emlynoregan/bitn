@@ -22,6 +22,7 @@ topics:
 - religion
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Confirmations.  The Lord Bishop of Perth, Dr Parry, will visit St Mary’s on 1 November for the purpose of confirmation.  This is due to the illness of the Bishop of Adelaide and his pending formal resignation.

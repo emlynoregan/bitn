@@ -19,6 +19,7 @@ topics:
 - organization
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The brass band instruments will be presented to the Burra Town Band.

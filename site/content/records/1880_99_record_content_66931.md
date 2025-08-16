@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Catholic Bazaar & Art Union at the Institute on 6 & 7 October.  The Vicar-General the Very Rev. W.H. Norton will open it.

@@ -20,6 +20,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie.  The local correspondent reports cancellation of one of the coach lines to Silverton.  The other is said to come in with no consideration of time or appearance.

@@ -17,6 +17,7 @@ topics:
 - literature
 - supplement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was a great deal of recreational reading available in the literary supplements from the beginning of October.

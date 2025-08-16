@@ -22,6 +22,7 @@ topics:
 - public health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Cemetery. The final article in the series by F.W. Holder. 

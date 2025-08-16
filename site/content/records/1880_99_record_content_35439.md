@@ -23,6 +23,7 @@ topics:
 - smelting
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the desirability of Burra District competing with Kapunda in the supply of smelting flux for operations at Dry Creek, Port Adelaide, or elsewhere.

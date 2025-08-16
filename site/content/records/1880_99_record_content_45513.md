@@ -22,6 +22,7 @@ topics:
 - advertisement
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A. Stoddart, having taken over the business run for so long by Mr T.P. Halls, will continue to operate it under the style of Stoddart & Halls.

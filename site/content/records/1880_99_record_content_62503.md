@@ -21,6 +21,7 @@ topics:
 - meeting
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  Given the marked reversal in prospects for the season, farming members of the society have called another special meeting for 9 July to consider whether a show is possible after all for 1897.

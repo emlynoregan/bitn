@@ -18,6 +18,7 @@ topics:
 - banquet
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Banquet.  The other member for the district, Mr Rees, has also been invited to the banquet on 9 December.

@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 10 Dec 80	Serpent Ch VIII-IX	A Bitter Gain	(Continued from previous) + 	X			X			X	X

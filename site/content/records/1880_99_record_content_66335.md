@@ -24,6 +24,7 @@ topics:
 - church
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Sunday School celebrated its 40th Anniversary last Sunday and Monday with the tea meeting on Monday.  The guest speaker was ‘Uncle Harry’, the General Secretary of the ‘Sunbeam Society’.  Selections on the gramophone were played at intervals.  Several of the school’s founders are still living, viz. Mr James Blatchford (aged 90), Mr John Pellew, Mr Thomas Richards (Sunday school superintendent for many years) and Rev. James Rowe (1st pastor).

@@ -22,6 +22,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Eastern Road: 70 people at meeting on the Eastern Road via Baldina - still debating the Diprose Creek v. Nankivell's Gully route. The road board should be spending the £1,500 allocated despite the debate over the last couple of miles. Resolved to send delegation to the board.

@@ -18,6 +18,7 @@ topics:
 - performance
 - critique
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [‘Mr C. Fuss did fairly well in a recitation; but a more natural delivery and less effort would have improved matters considerably.  There is an old saying, ‘action speaks louder than words;’ it was too apparent in this case.’]

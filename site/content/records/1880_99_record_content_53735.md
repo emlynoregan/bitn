@@ -21,6 +21,7 @@ topics:
 - preaching
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Jospeh Bowes, Secretary of the Queensland Wesleyan Conference will preach at Kooringa Wesleyan Church on Sunday.

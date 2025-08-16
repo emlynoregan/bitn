@@ -20,6 +20,7 @@ topics:
 - pests
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan Flats.  Area sown has doubled and yield about 18 bushels per acre.  Disease free and locusts in some areas to the east of the district reduced yields by about 6 bushels per acre.

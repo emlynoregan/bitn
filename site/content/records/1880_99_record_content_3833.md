@@ -23,6 +23,7 @@ topics:
 - Sunday school
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School annual treat was held on Good Friday and was very successful.  Rev. W. Jenkin now moves at once to Port Adelaide.  He will be succeeded by Rev. Birt.  He had been in Burra for five years.

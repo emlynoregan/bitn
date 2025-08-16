@@ -19,6 +19,7 @@ topics:
 - health
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  The annual report says nothing very startling, but it would appear that some of the old hotel’s rooms had not yet been converted to hospital use and the Govt had promised to place on the next year’s estimates a sum for their fitting out.

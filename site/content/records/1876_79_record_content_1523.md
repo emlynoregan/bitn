@@ -19,6 +19,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway: Levelling goes on well and the new terminus will be close to the Hallett town centre.

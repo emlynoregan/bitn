@@ -25,6 +25,7 @@ topics:
 - bicycle club
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Bicycle Club ran a sports meeting at Victoria Park on Easter Monday.  There was a procession from the Institute to the park at 12.45.  The first event was the slow race over ¼ mile which was won by J.A.S. Bagg.  W.J. Richards was the only contestant to complete the egg and spoon race.  W.J. Richards got home first in the thread the needle race, but was disqualified for not tying the thread and J.A.S. Bagg was awarded the race.  (The rules should have been made clearer.)

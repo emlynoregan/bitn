@@ -20,6 +20,7 @@ topics:
 - weather
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School Anniversary children’s tea and public meeting was held on Wednesday, but was marred by wet weather.  The children marched to the oval for sports and games.  The tea meeting was only fairly attended.

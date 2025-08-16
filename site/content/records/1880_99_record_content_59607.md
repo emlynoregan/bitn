@@ -21,6 +21,7 @@ topics:
 - race
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races.  The first race meeting for five years will be held today in Mr R. Austin’s paddock.  The ‘tote’ will operate on the ground.

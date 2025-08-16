@@ -17,6 +17,7 @@ topics:
 - advertisements
 - newspaper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 As usual there were large advertisements mixed with some smaller ones.  Some were local and others not.

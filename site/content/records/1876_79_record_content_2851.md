@@ -19,6 +19,7 @@ topics:
 - finance
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Midland Road Board. Ed. on them and the unsatisfactory way money was appropriated for the various works to be done.

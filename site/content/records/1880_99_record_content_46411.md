@@ -23,6 +23,7 @@ topics:
 - service
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church Service of Song Jessica’s First Prayer, Monday 29 August.

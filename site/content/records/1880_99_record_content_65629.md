@@ -22,6 +22,7 @@ topics:
 - sale
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Special Sale: Elder, Smith & Co. at the yards of Bagot, Shakes & Lewis on 6 January 1899 will offer 22,946 fat & store sheep.

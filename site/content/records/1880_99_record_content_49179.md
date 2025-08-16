@@ -22,6 +22,7 @@ topics:
 - event
 - resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Talk by C.R. Fenwick JP of WA at the Commercial Hotel on 27 March on the resources of the Colony of WA.

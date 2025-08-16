@@ -21,6 +21,7 @@ topics:
 - licence
 - hawker
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy on a recent case in which the Supreme Court in Adelaide upheld the right of a hawker holding a colony-wide licence issued by the Treasury to hawk in a Corporation without a local licence.  While not arguing with the legal position of the Chief Justice he does feel the law is unfair in depriving Corporations of receiving income from this source.

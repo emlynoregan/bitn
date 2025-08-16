@@ -21,6 +21,7 @@ topics:
 - safety
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There was an article on using wood in locos, as the Government wanted it tried.  It worked only for locos with a deep flat firebox and of the timber available, logs 1’3” long worked best.  Sparks were a major problem and so without special chimneys it was out of the question in summer.  Apart from crops etc. several railway wagons were set alight from sparks.

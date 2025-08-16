@@ -29,6 +29,7 @@ topics:
 - meeting
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. A meeting was held at Hallett to oppose the extension of the railway to Yongala. The mood was that the break of gauge should be at Hallett and produce north of Hallett should go to Port Pine and south of it to Port Adelaide. 

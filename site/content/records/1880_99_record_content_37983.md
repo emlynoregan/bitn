@@ -27,6 +27,7 @@ topics:
 - sport
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The Burra Cricket Club met at the Commercial Hotel on Monday evening and elected:	Patrons	F.W. Holder & G.H. Lake

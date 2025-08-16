@@ -21,6 +21,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Rifle Club.  The meeting in the Institute on 29 January drew a fair attendance and it was resolved to have another soon to make final arrangements.  Mr F.A.S. Field was appointed President with P. Treloar as Secretary.

@@ -21,6 +21,7 @@ topics:
 - government
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Government.  After only a few days in office [7 days] the Solomon Ministry is out and Mr Holder has formed an uneasy Government with Holder as Premier and Treasurer.

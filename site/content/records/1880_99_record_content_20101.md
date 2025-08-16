@@ -21,6 +21,7 @@ topics:
 - council
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Income for the year to 14 November has been £1,453-7-11 and we ought to expect another £20 by year’s end.

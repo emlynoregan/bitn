@@ -20,6 +20,7 @@ topics:
 - community
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Show Day the Governor will proceed to the showgrounds about noon for an official lunch after which there will be an official welcoming address.

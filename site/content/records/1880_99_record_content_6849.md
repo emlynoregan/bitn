@@ -19,6 +19,7 @@ topics:
 - land sales
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There was little to report.  Some residents of Kooringa have applied to work the mine on tribute.  This would be considered by the directors.  In the last six months about 3 acres of town land have been sold.

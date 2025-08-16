@@ -18,6 +18,7 @@ topics:
 - work
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter calls for work, not charity, as the latter often does not get to those that need it most.

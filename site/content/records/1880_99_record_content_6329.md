@@ -19,6 +19,7 @@ topics:
 - entertainment
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Band of Hope entertainment is announced for Wednesday next in the Institute.

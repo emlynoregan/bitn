@@ -21,6 +21,7 @@ topics:
 - attendance
 - parliament
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Public School. On visiting the school we found it to be well run with good discipline and organisation. Attendance was however, miserably thin so it is hoped Parliament will soon make it free.

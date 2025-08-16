@@ -21,6 +21,7 @@ topics:
 - tender
 - supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement. Tenders are called by 15 January for the supply of 500 to 1,000 loads of firewood, green or dry, deliverable at the works.  C.M. Penny, Apoinga Smelting Works.  January 3 1851.

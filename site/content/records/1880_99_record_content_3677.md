@@ -21,6 +21,7 @@ topics:
 - community
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Notes by ‘Short Mark’ urge the formation of a recreation ground.  He says the area opposite Mr Lockyer’s residence could be levelled and prepared at little cost and made suitable for both football and cricket.

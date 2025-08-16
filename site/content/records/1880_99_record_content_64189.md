@@ -26,6 +26,7 @@ topics:
 - soil erosion
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Pearse of ‘The Gums’, Bundey, writes on behalf of the graziers to the east of Burra.  He lists their woes as he writes in the midst of a dust storm.

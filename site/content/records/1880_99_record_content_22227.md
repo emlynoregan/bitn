@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - urban development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kerbing of streets was being continued in 1886, for instance in May it was ordered for the east side of Thames St as far as Bridge St.

@@ -23,6 +23,7 @@ topics:
 - legislation
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mineral Leases – The Meeting in the North [Editorial]

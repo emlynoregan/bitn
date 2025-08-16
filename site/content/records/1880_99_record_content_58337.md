@@ -19,6 +19,7 @@ topics:
 - arrival
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster has left the UK and is expected here about 17 November.

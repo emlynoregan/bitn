@@ -22,6 +22,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Martin Symes, aged 20, well known in Burra, fell from the top of the quarry while at the Stockade [Yatala Prison] for forgery and uttering and was killed on Tuesday.

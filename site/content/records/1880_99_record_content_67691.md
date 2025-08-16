@@ -18,6 +18,7 @@ topics:
 - serials
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Old Bill by Louie, author of Leonard Carr’s Wife etc. appeared on 1 March & 8 March.

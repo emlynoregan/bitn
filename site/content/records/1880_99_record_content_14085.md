@@ -19,6 +19,7 @@ topics:
 - business
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bath & Pearce have substantially altered their premises, enlarging them and adding late glass windows and a new verandah and paving the front with Mintaro slate.  The contractor was Mr John Pearce.

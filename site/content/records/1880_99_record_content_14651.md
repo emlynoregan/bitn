@@ -32,6 +32,7 @@ topics:
 - boundary
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Ward Boundaries were proclaimed in last week’s SA Government Gazette.  The proclamation is reprinted.

@@ -21,6 +21,7 @@ topics:
 - employment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Editor protests against the insertion into Govt. contracts of clauses forbidding the employment of Chinese.

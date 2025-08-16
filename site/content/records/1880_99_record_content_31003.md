@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 What She Came Through, (Continued from 1887) 3 January to 7 February.

@@ -17,6 +17,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  There has been heavy rain around the area, but little in the town.  Farmers still need general rain.

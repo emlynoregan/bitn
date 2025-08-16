@@ -28,6 +28,7 @@ topics:
 - concert
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Both’s School held its break-up in the Redruth schoolroom last Thursday evening.  [The German chapel?]  A long and interesting program was presented.  Mr C. Fuss presided and distributed the prizes.  The program and performers are printed.

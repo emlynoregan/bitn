@@ -22,6 +22,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Intercolonial Railway.  The line is now complete to Bordertown and the trip to Melbourne is expected to take about 18 hours when the Victorian section is completed.

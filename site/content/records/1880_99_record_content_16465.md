@@ -20,6 +20,7 @@ topics:
 - public service
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on the possibility of compulsory insurance for members of the public service for a sum equal to twice the annual income of the contributors class or grade, to be drawn on death or at age sixty or to be taken as an annuity equal to one fifth of such salary.  The premiums to be deducted by the Treasurer and to be paid until death or retirement and to be unassignable till death or retirement.

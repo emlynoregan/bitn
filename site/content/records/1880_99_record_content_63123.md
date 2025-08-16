@@ -23,6 +23,7 @@ topics:
 - accident
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 UNDATED EXTRA – probably also 1 Dec. 1897

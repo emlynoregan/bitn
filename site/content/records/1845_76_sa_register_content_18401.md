@@ -21,6 +21,7 @@ topics:
 - employment
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Company’s Establishment at 31 March 1865:

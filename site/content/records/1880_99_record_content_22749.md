@@ -21,6 +21,7 @@ topics:
 - public order
 - larrikinism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  A writer holds that both the Burra Young Men’s Union and the Salvation Army are a public nuisance and a disgrace to the town after their meetings on Wednesday night last.

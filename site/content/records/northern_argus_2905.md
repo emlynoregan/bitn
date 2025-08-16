@@ -20,6 +20,7 @@ topics:
 - development
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC.  The Supplementary Development Plan is nearly completed and it is anticipated it will be available to the public in late August for two months for comment.

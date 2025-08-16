@@ -20,6 +20,7 @@ topics:
 - water
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Bartle [of the Smelting Works] is to be charged 3/- per 1,000 gallons until the costs of connecting the water be recovered and then 2/-.

@@ -18,6 +18,7 @@ topics:
 - environment
 - nuisance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boiling Down Stench.  W. Rabbich & Sons write to say ‘on the day mentioned [Christmas Day] our coppers were not lighted’.

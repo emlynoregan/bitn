@@ -18,6 +18,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Holidays.  Businesses will be closed December 25, 27, & 28 and January 1.

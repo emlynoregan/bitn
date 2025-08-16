@@ -24,6 +24,7 @@ topics:
 - communication
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Submarine cable to Europe has been disrupted. This is very inconvenient given the state of politics in Europe over the Turkish-Greek question and the implementation of the Berlin Treaty and the troubles in Afghanistan between Russia and England.

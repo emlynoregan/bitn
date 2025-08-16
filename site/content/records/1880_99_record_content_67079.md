@@ -23,6 +23,7 @@ topics:
 - community
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Loyal Burra Burra Lodge MUIOOF (Oddfellows) celebrated its 50th Anniversary on Friday.  Influenza reduced the expected attendance.  Apologies were received from the Mayor of Adelaide and the Mayor of Burra (J. Sampson).  W.J. Davey took a flash photo of the assemblage.

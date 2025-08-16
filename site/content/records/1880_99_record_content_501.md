@@ -18,6 +18,7 @@ topics:
 - business
 - bank closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Bank of Australasia will close its Hallett Agency on 16 March.

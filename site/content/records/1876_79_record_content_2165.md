@@ -18,6 +18,7 @@ topics:
 - hospital
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital: Ed. on the hospital with a description of the layout in some detail.

@@ -25,6 +25,7 @@ topics:
 - infrastructure
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water Supply. There is a summary of the recent moves to get a water supply. The permission of the Yorke's Peninsula Mining Co. has at last been obtained to use the water from the Bon Accord Mine. The supply will extend from the Bon Accord to a point about opposite Ridgway's store, where a trough and standpipe have already been erected. The editor clearly thought that had the Corporation backed the move adequately there should have been a water supply for the whole town.

@@ -19,6 +19,7 @@ topics:
 - celebration
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The New Year.  The anniversary of the founding of the colony was not celebrated as a public holiday.  On 1 January the Wesleyan Sunday school held a picnic at Princess Royal with the usual array of sports.

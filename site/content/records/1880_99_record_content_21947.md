@@ -20,6 +20,7 @@ topics:
 - mining
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  Reports that there is little real activity now on the World’s End-Robertstown silver claims.

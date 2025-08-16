@@ -21,6 +21,7 @@ topics:
 - local industry
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Baths.  Mr Richard Snell, who has already shown his enterprising spirit by planting fruit trees and establishing a fruit and vegetable garden in the ‘Paddock’ from which, by means of water raised by windmill, he has already reaped a good reward, has shown his faith in the place by having public baths constructed.  They are 40’ x 16’ x 3’ to 6’ deep and are to be completed before next summer.

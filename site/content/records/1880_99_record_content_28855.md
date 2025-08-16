@@ -18,6 +18,7 @@ topics:
 - immigration
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Chinese Question.  The resolutions from the Sydney Conference on the Chinese Question are printed.

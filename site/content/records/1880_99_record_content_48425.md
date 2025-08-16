@@ -22,6 +22,7 @@ topics:
 - court
 - reformatory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Laura Patterson’s father asked that she be committed to the Reformatory School as an uncontrollable girl, but the application was denied when her mother pleaded for the dismissal of the plea.

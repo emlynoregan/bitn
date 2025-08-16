@@ -21,6 +21,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 And on local football: Mr W. Killicoat will find more than half the cost of an outfit for each member of the Aberdeen Football Club if others will complete the sum.  The second match of Aberdeen v. Burra last Saturday:

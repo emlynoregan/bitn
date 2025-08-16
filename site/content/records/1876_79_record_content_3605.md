@@ -19,6 +19,7 @@ topics:
 - church
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Annual Bible Christian District Meeting was held at Kapunda on 5 Feb.

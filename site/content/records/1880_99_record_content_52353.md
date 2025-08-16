@@ -21,6 +21,7 @@ topics:
 - obituary
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  James Cox of Hampton died suddenly 20 December aged 60.  He had complained of chest pains and a choking sensation before suddenly collapsing and dying.  [Registered as Henry James Cox.]

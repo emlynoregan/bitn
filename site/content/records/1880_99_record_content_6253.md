@@ -22,6 +22,7 @@ topics:
 - mayor
 - civic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr P. Lane was presented with a silver mounted ornate inkstand comprising an emu egg and an Australian scene (emus, kangaroo, blackfellow & gumtree) in recognition of his work as Mayor for two years.  The presentation was made in the Institute on Monday afternoon.  [In 2002 this item was held in the Regional Art Gallery at Burra.]

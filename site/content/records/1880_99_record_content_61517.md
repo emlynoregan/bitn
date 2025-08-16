@@ -18,6 +18,7 @@ topics:
 - publication
 - dates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Numbers began with 328 (3) on 2 January, the number having been used twice in 1895, and ran to 331 on 27 May.

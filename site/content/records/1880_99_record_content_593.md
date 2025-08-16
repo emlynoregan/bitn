@@ -22,6 +22,7 @@ topics:
 - hotel
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Ridgway has received £900 insurance money from the fire that lately destroyed his [Aberdeen] hotel.  He is to considerably enlarge the building at the other corner of his property opposite the road from the station and will convert it into a superior hotel.  [i.e. the present Royal Exchange Hotel.]

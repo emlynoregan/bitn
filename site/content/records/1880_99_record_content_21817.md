@@ -20,6 +20,7 @@ topics:
 - advertisement
 - goods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A good second hand 50” BICYCLE for sale cheap £6 cash.  Apply to J. Cooksley, Machinist, Farrell’s Flat.

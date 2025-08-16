@@ -20,6 +20,7 @@ topics:
 - community
 - IOR
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 IOR Rose of Sharon Tent annual festival on 25 March in the Institute drew about 200 people.

@@ -23,6 +23,7 @@ topics:
 - death
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist Church held its 23rd Anniversary on 15 April.  The church was packed.  The public meeting on Monday had a gloom cast over it by the death of Miss Fairchild in the Burra Hospital that morning.  Miss Fuller played the organ.

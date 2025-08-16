@@ -20,6 +20,7 @@ topics:
 - concert
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie School children will receive a picnic today and a first-class concert will be presented this evening.

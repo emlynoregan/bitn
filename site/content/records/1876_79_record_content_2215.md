@@ -21,6 +21,7 @@ topics:
 - manufacturing
 - coaches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Coaches: Kerr Bros. Kooringa has made 2 new mail coaches for E.F. Opie. Believed to be the first built in the town. To American designs - the lightest compatible with strength and durability

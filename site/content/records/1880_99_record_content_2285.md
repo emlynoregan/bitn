@@ -20,6 +20,7 @@ topics:
 - theatre
 - children
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute 9-11 December

@@ -19,6 +19,7 @@ topics:
 - education
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 New BCS Principal Michael Day and his wife and two daughters are welcomed to Burra.

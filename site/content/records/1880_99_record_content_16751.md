@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It is a disgrace that there is no state school hitherto in the Hundreds of Mongolata, Baldina and Bright.

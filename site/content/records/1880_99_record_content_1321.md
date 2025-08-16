@@ -19,6 +19,7 @@ topics:
 - death
 - infant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 12 July at Kooringa, Edwin Edwards, aged 3 years 6 months.  [Born 30 November 1876]

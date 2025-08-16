@@ -21,6 +21,7 @@ topics:
 - transport
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Charles Schutz informs the public that his cabs continue to run to the station and asks them to note that ‘T. Halls is no longer in my employ and is not authorized to act for me in any way, not to use my name for his own business.’

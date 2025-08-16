@@ -20,6 +20,7 @@ topics:
 - holiday
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Public Holiday on 20 June saw no organised sport in Burra and there were only a few private picnics.  Most preferred to stay at home by the fire.

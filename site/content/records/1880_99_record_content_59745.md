@@ -23,6 +23,7 @@ topics:
 - anniversary
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Methodist [Wesleyan?] Sunday School held its 48th Anniversary on Easter Sunday & Monday.  Rev. R.S. Casely preached morning and evening and with the latter brought his ministry here to a close.  He goes to Pirie St in Adelaide and Rev. J.G. Simpson follows here and is expected to begin on 19 April.

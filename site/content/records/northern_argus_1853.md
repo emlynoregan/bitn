@@ -27,6 +27,7 @@ topics:
 - shearing
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Show for the Jubilee Year placed an emphasis on wool and merino sheep.  [Again it is referred to wrongly as the 109th show: see note for CXVI, 8068, 27 August 1986, page ?]

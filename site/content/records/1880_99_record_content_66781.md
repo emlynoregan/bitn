@@ -19,6 +19,7 @@ topics:
 - fine
 - traffic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Joseph Smith fined 10/- + costs for driving his cab around a corner too fast.

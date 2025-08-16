@@ -22,6 +22,7 @@ topics:
 - sports
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. Burra Institute, Boxing Night, 26 December, Grand Christy Minstrel Entertainment.  By the Original Court Minstrels from Adelaide, in aid of the Aberdeen Cricket Club.

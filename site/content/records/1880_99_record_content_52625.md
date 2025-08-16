@@ -22,6 +22,7 @@ topics:
 - shop
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  H. McCullum has taken over the wheelwright’s shop in Commercial St lately occupied by W. Pearse.

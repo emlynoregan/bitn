@@ -26,6 +26,7 @@ topics:
 - rain
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Federation.  Mr Reid (NSW) wants to make some slight alterations and additions to the accepted scheme before resubmitting it to his electors.  NSW agreement is vital so either Mr Reid’s proposals will have to be put to all or the present Bill put to NSW again.  The latter would be preferable.

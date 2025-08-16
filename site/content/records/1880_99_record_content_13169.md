@@ -23,6 +23,7 @@ topics:
 - sport
 - match results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The match on Saturday at the oval was between 11 Colours under E. Lockyer and 13 Allcomers under J. Herbert.  Colours 0.8, Allcomers 0.2

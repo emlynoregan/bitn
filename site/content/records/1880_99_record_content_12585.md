@@ -23,6 +23,7 @@ topics:
 - education
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Louisa Dunstan (12), Charles H. Dunstan (10) and Elsie Dunstan (12 months) were sent to the Industrial School till the girls were 18 and the boy 16.

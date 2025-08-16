@@ -20,6 +20,7 @@ topics:
 - football
 - result
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen 3.9 and Kooringa 3.3.

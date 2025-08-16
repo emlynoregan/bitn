@@ -24,6 +24,7 @@ topics:
 - sentence
 - prison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Morgan was charged by G. Griffen, Salvation Army Lieutenant, with disturbing a religious congregation in the Barracks on 17 Feb. by talking and laughing.  He was sentenced to 7 days.

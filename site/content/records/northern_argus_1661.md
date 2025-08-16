@@ -25,6 +25,7 @@ topics:
 - auction
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Adelaide Merino Ram Sales saw an Argentinean buyer bid $102,000 for a JC & S 55 ram from Collinsville.  The previous record was $79,000 for a Collinsville ram sold in Adelaide in 1981.  The ram will go to an AI program by Goyaike Breeding Society in the SW of Argentina.

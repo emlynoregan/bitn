@@ -20,6 +20,7 @@ topics:
 - night school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Earnest’ desiring a night school in Burra, especially in the long winter evenings.

@@ -22,6 +22,7 @@ topics:
 - mine
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Schneider’s Engine [From the Gawler correspondent.]

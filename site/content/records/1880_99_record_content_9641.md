@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obit.  Mrs Stanton, relict of the late Rev. L.W. Stanton, once of Burra.  At Adelaide on Wednesday in the residence of her son-in-law S.G. Kingston.  [Anna Phipps Stanton died 21 March 1883 aged 49.]

@@ -20,6 +20,7 @@ topics:
 - cabinetmaker
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.J. Pearce	Cabinetmaker at the back of Mr Lasscock’s Shop

@@ -19,6 +19,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 True Blues 45 & 26 for 3 wickets (71) defeated Aberdeen 29 & 41 (70)

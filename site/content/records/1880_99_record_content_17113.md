@@ -20,6 +20,7 @@ topics:
 - advertisement
 - eschatology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Public Religious meeting on The Second Coming of Christ, in the store next to the Wesleyan Church, Redruth on Good Friday at 7.30 p.m.

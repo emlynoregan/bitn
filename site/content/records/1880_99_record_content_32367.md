@@ -18,6 +18,7 @@ topics:
 - mining
 - commodities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The copper price is down to £36-10-0 a ton.

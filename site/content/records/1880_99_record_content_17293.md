@@ -19,6 +19,7 @@ topics:
 - travelling stock reserves
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Travelling Stock Reserves.  A report on the deputation to the Commissioner of Crown Lands occupies 1¼ columns.

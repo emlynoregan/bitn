@@ -19,6 +19,7 @@ topics:
 - fees
 - costs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G. Mayger	1 horse	5/- 	+ 2/6 costs

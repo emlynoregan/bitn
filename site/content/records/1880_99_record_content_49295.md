@@ -23,6 +23,7 @@ topics:
 - flood relief
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Queensland Flood Relief Fund has raised over £60 in Burra which will be forwarded to the Mayor of Adelaide at once.

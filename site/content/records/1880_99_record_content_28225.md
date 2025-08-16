@@ -21,6 +21,7 @@ topics:
 - accident
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  A fire in the children’s room at Mr Lasscock’s house in Kooringa was extinguished before it got hold.  Damage c. £7.

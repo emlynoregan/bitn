@@ -21,6 +21,7 @@ topics:
 - saleyards
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich re the proposed stock tax.  He considers the Council could do well out of building their own stockyards, but opposes any extra 1/- rate as an alternative.  He estimates that for an initial outlay of £1,000 they could earn c. £500 p.a. at a charge of ¼d a head.  No one would buy by sample and nor would shifting the saleyards out of town be so easy: what would the District Council’s reaction be to that?

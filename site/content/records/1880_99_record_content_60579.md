@@ -21,6 +21,7 @@ topics:
 - election
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Martin Pederson was elected unopposed on Saturday last to the vacancy for East Ward Councillor caused by the resignation of Mr George Parkes.

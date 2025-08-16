@@ -19,6 +19,7 @@ topics:
 - weights
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sing Fat			fined 5/- + 10/- costs for having one unstamped weight

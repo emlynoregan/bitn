@@ -21,6 +21,7 @@ topics:
 - government
 - correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Town Clerk, Mr C. Lowe reported no reply to his letter to the Govt re the water supply -' sent the previous Saturday.' [Council met on 10 Dec. so Sat. was 8 Dec. but they couldn't have expected a reply that quickly so presumably he meant the letter was sent Sat. 1 Dec. which would have been a timely despatch.]

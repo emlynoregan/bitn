@@ -20,6 +20,7 @@ topics:
 - theatre
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  On Friday 12 August the Terowie Amateur Dramatic Club staged Byron’s Weak Woman.  It was well done and the costumes were very good.  The lack of a proscenium and dressing rooms however, placed the performers at a disadvantage.  Over £9 was raised for the Mayor’s Fund.  There is a review, which extends c. 1 column.

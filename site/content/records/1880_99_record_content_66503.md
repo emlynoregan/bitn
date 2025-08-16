@@ -19,6 +19,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Consols Copper Mine near Princess Royal is going on vigorously.

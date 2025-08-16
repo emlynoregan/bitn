@@ -19,6 +19,7 @@ topics:
 - wheat
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Black Springs.  Area about the same as last year.  Yield 12-14 bushels per acre.  (The writer thinks this is an over-estimate.)

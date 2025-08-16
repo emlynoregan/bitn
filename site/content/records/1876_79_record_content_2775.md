@@ -29,6 +29,7 @@ topics:
 - economy
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Ed. on Railways. The traffic manager, Mr Pendleton is unsatisfactory. The freight charges are too high. It costs more to get an item from Adelaide to Burra than from England to Port Adelaide. And the rates have just increased 20%! Wheat that was going at 8d a bushel will now cost 9.5d `On copper mining in this district the new tariff will have a very injurious effect' `The Burra Burra Mines have been carried on at a loss for some time now, and but for a belief that deeper sinking would develop payable lode no doubt the workings would have been discontinued before now.' The North West Bend Railway (Morgan) will not get much of the river trade with such rates as Victoria charges very low rates to encourage the use of the Echuca line.

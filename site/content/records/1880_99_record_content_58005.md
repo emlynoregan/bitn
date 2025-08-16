@@ -21,6 +21,7 @@ topics:
 - speech
 - State Advances Bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. F.W. Holder, Treasurer of SA, spoke at the Institute to a large gathering on Friday night last.  He spoke for over two hours, principally on the State Advances Bill.  He began by welcoming the ladies for whom he had worked to obtain the franchise.  The intent of the Government was to make money available at low interest to primary producers.  It was not intended they take over the Savings Bank.  His argument is reported in 2 columns of detail.

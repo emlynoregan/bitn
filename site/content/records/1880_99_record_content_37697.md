@@ -19,6 +19,7 @@ topics:
 - sports
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  More detail of the game between Terowie and Burra with different scores from those cited in the last issue.  Burra 5.15 defeated Terowie 3.5

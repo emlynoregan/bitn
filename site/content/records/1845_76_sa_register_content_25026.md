@@ -19,6 +19,7 @@ topics:
 - wheat
 - yields
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Apoinga.  Yield for wheat about 10-12 bushels per acre.  Area much the same as the previous year.

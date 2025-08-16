@@ -19,6 +19,7 @@ topics:
 - business
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Liston, Shakes & Co. will auction smith’s tools in the assigned estate of Jones & Hunn.

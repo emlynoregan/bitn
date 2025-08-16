@@ -20,6 +20,7 @@ topics:
 - fundraising
 - advt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Strawberry Fete at Burra Recreation Ground, 29 November.

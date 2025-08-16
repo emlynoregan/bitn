@@ -20,6 +20,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Burra Institute held its half-yearly meeting of subscribers.

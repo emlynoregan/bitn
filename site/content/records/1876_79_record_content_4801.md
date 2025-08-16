@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. Judge Stow has died in Adelaide.  [Randolph Isham Stow died 17 September 1878 aged 49.]

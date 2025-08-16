@@ -21,6 +21,7 @@ topics:
 - elections
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Elections are only a month away and so far no candidates have come forth.  Retiring are the Mayor, Cr Tiver, Cr Anderson, and Cr Sampson.

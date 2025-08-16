@@ -20,6 +20,7 @@ topics:
 - community
 - urban improvement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs E & W. Hackett have given the Mayor a dozen cork elms for planting in Burra.

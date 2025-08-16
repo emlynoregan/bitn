@@ -22,6 +22,7 @@ topics:
 - meeting
 - winding up
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Jockey Club meeting at Burra Hotel 4 Feb.  A small attendance.  Mr Shakes moved that no meeting be held in 1881 and this was carried.  Mr Sandland proposed a new committee be formed and the Jockey Club be carried on.  2nd and to be considered at a future meeting.  Mr W. Barker expressed regret that due to the lack of interest they were compelled to wind up the present club.

@@ -28,6 +28,7 @@ topics:
 - event
 - public gathering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Matthew Burnett at the Institute.  The meeting is reported in 1⅓ columns.  While the procession went around the town the Institute was filled to capacity.  The Rechabites and Band of Hope filled the platform and as many of the procession as possible crammed into the hall, but hundreds were turned away or crowded to hear under the windows.  The hall held about 600 and about another 400 clustered outside.  The mayor, P. Lane, was in the chair.  A long list of ministers and others greeted Mr Burnett.  He recounted the lives of some who had been converted: Big Ben the Cornish Wrestler, Little Johnny Paull the pugilist, Yankee Bill, the drunken Dr Mitchell, Dublin Sally, and others.

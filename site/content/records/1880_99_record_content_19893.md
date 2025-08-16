@@ -22,6 +22,7 @@ topics:
 - events
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races went very well last Monday, although the townspeople did not attend in very large numbers the country folk were numerous.  Mr Barnett of the Commercial Hotel did a grand trade in his booth.  Cheap Jack and Lottery men started, but were stopped.  The rider of H. Northridge’s Norman (Moyle) was thrown at the third hurdle and though severely bruised escaped without broken bones.

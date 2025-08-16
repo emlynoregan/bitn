@@ -20,6 +20,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  James Phillips died 30 March at Ayers St Kooringa, aged 55, a colonist of about 35 years.  He carried on business here as a mason.  He leaves a grown-up family of four sons and three daughters.

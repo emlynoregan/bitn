@@ -19,6 +19,7 @@ topics:
 - pest control
 - rabbit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbit destruction efforts in Apoinga DC will end on Friday.  Burra DC has extended its effort.

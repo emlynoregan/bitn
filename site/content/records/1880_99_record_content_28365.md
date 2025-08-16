@@ -18,6 +18,7 @@ topics:
 - press
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He was given ample time to voice his opinions and develop his ‘democratic, not to say socialistic’ views.  But instead of using argument and fact he ‘descended into personal abuse and wandered further from fairness so much as to do damage to the cause he represented.’  To charge ‘people in this “outlandish place” of being afraid of each other’ is absurd.

@@ -21,6 +21,7 @@ topics:
 - education
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Jim Quinn of Mt Bryan has completed 25 years on the Mt Bryan School Council.

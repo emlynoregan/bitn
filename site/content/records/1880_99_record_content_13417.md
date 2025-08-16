@@ -21,6 +21,7 @@ topics:
 - community
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [W.H.] Hardy writes in response to people in the town denouncing the game of football.  This, he says, offers a way for the youth ‘of our savage breed to give vent to their fighting propensities.’  [He then develops this point, saying it is a very important outlet and he does not believe it interferes in any way ‘with duty to the Blessed Master’ and if he finds it begins to do so he shall ‘at once say - get behind me forever’.]

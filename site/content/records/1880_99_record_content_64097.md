@@ -20,6 +20,7 @@ topics:
 - politics
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.R. Goode MP made a short speech on the subject and moved a vote of thanks which was 2nd by Cr Winnall and carried by acclamation.

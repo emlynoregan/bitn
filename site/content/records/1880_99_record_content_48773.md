@@ -27,6 +27,7 @@ topics:
 - dispute
 - minutes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  The writer regrets the tendency of committees and such to fall out has spread from the Town Council to the School Board of Advice, with Mr West’s resignation from that body.  ‘We need not reproduce the facts, for they are widely known.’

@@ -20,6 +20,7 @@ topics:
 - finance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist anniversary in Kooringa last Sunday. Rev. T. Jarrett preached. Financially the church is doing well despite the times and has bought new seats for the church, painted and repaired the schoolroom and paid £50 off the debt.

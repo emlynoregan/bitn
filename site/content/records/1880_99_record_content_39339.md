@@ -19,6 +19,7 @@ topics:
 - alcohol
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Erratic Correspondent’ Has no strong opinion on the Sunday closing of hotels and is willing to go along with the majority, but doubts if closing them will achieve the results desired - to diminish drunkenness.  Man will not be made sober by law, or by Sunday closing.

@@ -21,6 +21,7 @@ topics:
 - competition
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  A rifle match was fired last Saturday between Burra, Riverton and Wallaroo RVF Companies, each on their home ranges.  Burra 601, Wallaroo 548 and Riverton not reported.

@@ -24,6 +24,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  The Burra Directors returned from their periodic visit to the Mine on Saturday.  The carriage broke down twice on the way to the Mine due to the fearful state of the roads, despite the skill and resources of the indomitable Chambers and the scarcely less illustrious whip, George.  Captain Allen used his seafaring skills to make a sapling, borrowed from a neighbouring fence, serve in the place of the original pole, and a disabled axle was securely lashed to get the travellers through to Kooringa.  The travellers had a few miles’ walk.

@@ -19,6 +19,7 @@ topics:
 - unemployment
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment is serious in Adelaide and the unemployed have voted that the Premier, Hon. C.C. Kingston should be called upon to resign after refusing to see a deputation of the unemployed.

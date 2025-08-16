@@ -19,6 +19,7 @@ topics:
 - emergency
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fires.  Large bushfires are raging in the hills near Adelaide.

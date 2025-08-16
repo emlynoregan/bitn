@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Railway Commissioners reply that the Bon Accord Crossing will receive early attention.

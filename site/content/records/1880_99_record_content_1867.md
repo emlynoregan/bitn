@@ -21,6 +21,7 @@ topics:
 - construction
 - conversion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Exchange Hotel.  The new hotel rises to the same height as the banking premises at the corner and harmonises to some extent with them.  The old hotel is now being converted into a row of very convenient-looking cottages under Mr Ridgway’s superintendence.

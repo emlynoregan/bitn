@@ -23,6 +23,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mayor’s Fund.  This has reached £42-14-0, but the target has been revised to £100.  The first entertainment raised £6-10-0.  The target has had to be raised, as the Avenue is now to extend to the Mill.  [The plan was first extended to Roach’s Mill and eventually to Aberdeen.]  It is reported that Sir Henry Ayers is behind the £20 from SAMA.  [This would not be a surprise as for many years he had virtually been SAMA as far as decisions were concerned.]

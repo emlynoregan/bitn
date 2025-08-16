@@ -45,6 +45,7 @@ topics:
 - employment
 - labor relations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Strike at Burra Burra

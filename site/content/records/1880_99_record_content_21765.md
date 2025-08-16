@@ -29,6 +29,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  William Martin died at the Burra Hospital 25 March [aged 21].  He had been brought in from Paratoo unconscious.  The inquest on 26 March was before P. Lane JP and J. Snell was foreman of the jury.  Matron Cameron said deceased had been sent down by Dr Ambramowski of Terowie.

@@ -20,6 +20,7 @@ topics:
 - trees
 - planting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.   The Mayor, Mr Holder, has investigated where tree planting is needed and drawn up a list and planting will go ahead as soon as trees arrive.

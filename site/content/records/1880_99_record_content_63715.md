@@ -23,6 +23,7 @@ topics:
 - police
 - public opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the ‘uncalled for action of Mounted-Constable Jemison in a recent case in which a young girl was cruelly brought before the Redruth Court to answer a charge of indecent language’ [The details of the case are then covered.]  At one point when Mr Packard, for Gully, asked Jemison if the people standing by heard the girl speak the constable replied sarcastically ‘Find out; I don’t know.’

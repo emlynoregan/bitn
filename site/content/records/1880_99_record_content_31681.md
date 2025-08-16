@@ -22,6 +22,7 @@ topics:
 - harvest
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church Harvest Thanksgiving received parcels of fruit from Messrs Parks, R. Snell and Fuss [probably H.C.W.]

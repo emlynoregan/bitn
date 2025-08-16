@@ -19,6 +19,7 @@ topics:
 - volunteer force
 - logistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 This seems strange when so much has been made recently about the importance of keeping up the strength of the volunteer force.  It has been explained that the cost of sending up instructors would be too great and volunteers here would be unable to attend battalion drill.

@@ -21,6 +21,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Sunday school at Redruth had its anniversary last Sunday and the tea-meeting Monday. Attendance was good and proceeds very satisfactory.

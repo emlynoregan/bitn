@@ -21,6 +21,7 @@ topics:
 - construction
 - materials
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Common Sense’ writes condemning the decision by the Government to build the reservoir in concrete rather than stone.

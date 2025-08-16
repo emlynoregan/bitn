@@ -21,6 +21,7 @@ topics:
 - road
 - dust
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra Dc is currently working on the Copperhouse bypass road.  To counter dust problems the road will be oiled past the saleyards area and it is hoped to oil the rest of it that is being converted to open surface standard for the summer.

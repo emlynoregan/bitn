@@ -26,6 +26,7 @@ topics:
 - inquest
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  Frederick Bagg, a farmer residing just over the boundary of the Hundred of Kooringa, shot himself at about 6 a.m. last Thursday 12 September.  [Died 12 September aged 48.]

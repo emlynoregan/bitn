@@ -18,6 +18,7 @@ topics:
 - migration
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  At Pt Adelaide last week 447 arrived and 413 departed.

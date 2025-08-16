@@ -21,6 +21,7 @@ topics:
 - footpaths
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Georgina Hyde writes a ½-column letter protesting the poor state of Burra’s footpaths.  It is no wonder that very often visitors and locals alike are seen walking on the roads.

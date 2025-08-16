@@ -20,6 +20,7 @@ topics:
 - sports
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The weather last Monday was against a big crowd for the Burra v. Muffs match at the Recreation Ground.  The Burra Band played and the game was on matting over the new asphalt pitch, which played well.

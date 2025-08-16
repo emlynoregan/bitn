@@ -32,6 +32,7 @@ topics:
 - neglect
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Death.  An inquest was held this morning before Dr Mayne JP at the White Hart Inn, Redruth [sic: actually at Aberdeen].  Charles Wolfe, a hut-keeper at one of Hallett’s northern stations, had been ill for two or three weeks and on being brought down for medical advice, had died at Gottlieb’s Wells (McCulloch’s) and was then brought on to the White Hart.

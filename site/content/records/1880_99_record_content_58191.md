@@ -25,6 +25,7 @@ topics:
 - federation
 - State Advances Bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir John Downer spoke at the Institute on Friday on:

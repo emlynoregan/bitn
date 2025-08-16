@@ -25,6 +25,7 @@ topics:
 - death
 - riding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 26 October 1850, page 3

@@ -21,6 +21,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Sim, recently teacher at Copperhouse, thanks parents and children for the gift of a Bible and an address.

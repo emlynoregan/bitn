@@ -22,6 +22,7 @@ topics:
 - office
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  South Australian Mining Association (Burra Burra Mines)

@@ -21,6 +21,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The U.S. Minstrels gave performances to good houses in the Institute on 4 & 5 June. They were much appreciated. The gem of the evening was "Come where the moonbeams linger" by Mr Hawkins. It concluded with the farce, "Thompson's Dead". They are one of the best troupes to have visited the town.

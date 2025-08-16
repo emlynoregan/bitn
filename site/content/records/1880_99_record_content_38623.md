@@ -20,6 +20,7 @@ topics:
 - irrigation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina Irrigation Scheme.  There has been no action on this despite favourable noises from the Playford Government when its policy was announced.

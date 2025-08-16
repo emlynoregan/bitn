@@ -20,6 +20,7 @@ topics:
 - poverty
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to the Editor from `Injustice' who complains of people being excused their rates for poverty. Rates are like rent: if you can't pay you must move to a cheaper place, not be excused payment.

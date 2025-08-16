@@ -22,6 +22,7 @@ topics:
 - industry
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Shearers’ Meeting last Saturday evening in the Institute was held under the auspices of the AWU.  The main reason was to bring to the attention of “T.U.” sheep shears manufacturers their concerns about the deteriorating quality of shears.

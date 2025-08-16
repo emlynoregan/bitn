@@ -21,6 +21,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice. Mrs McLagan will open a school in Kooringa on 6 July in the schoolroom lately occupied by Mrs Mathews.  She teaches the Kinder Garten system.  9.30-12.30 at 1 guinea per quarter per child.

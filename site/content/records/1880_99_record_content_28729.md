@@ -18,6 +18,7 @@ topics:
 - energy
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Electric lighting not a rival to gas.’

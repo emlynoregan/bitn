@@ -20,6 +20,7 @@ topics:
 - education
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Model Parliament, on Tuesday was not very exciting as both the Premier and Speaker were absent.  Still some clauses of the Municipal Corporations Bill were passed and the second reading of the Bill to Amend the Education Act.  Federation proposals were introduced.

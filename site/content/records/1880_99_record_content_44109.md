@@ -22,6 +22,7 @@ topics:
 - auction
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  6 February at Aberdeen J.T. Tregilgas will auction the stock in trade of W.L. Evans in the store known as Mr Austin’s.

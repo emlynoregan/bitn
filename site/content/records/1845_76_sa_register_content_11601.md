@@ -31,6 +31,7 @@ topics:
 - machinery
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 It is intended to pay the usual dividends of £5 per share (i.e. 100%) on 2 June and 1 September.

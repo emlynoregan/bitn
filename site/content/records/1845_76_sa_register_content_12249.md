@@ -19,6 +19,7 @@ topics:
 - entertainment
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Signor Cutolo will have a full house at his concert here.

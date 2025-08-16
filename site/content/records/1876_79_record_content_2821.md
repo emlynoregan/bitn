@@ -21,6 +21,7 @@ topics:
 - bridge
 - agreement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. Statton & Henderson accept the Corp. agreement to their proposal on the approach to the bridge.

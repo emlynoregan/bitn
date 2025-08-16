@@ -25,6 +25,7 @@ topics:
 - theft
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robbery.  Mr Shakespeare, commercial traveller for D. & W. Murray, has had several articles stolen from the sample room of the Burra Hotel over the past month.  On Monday night samples similar to those taken were found in J.M. Blackwell’s box at Mr Arthur Rigby’s House, where he had been boarding.  Blackwell was remanded to appear today.  He is a painter by trade and apparently came here from Petersburg some time ago.

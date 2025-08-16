@@ -40,6 +40,7 @@ topics:
 - council
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 2 Feb. tenders were called by Council for 1,200 yards of road metal: 600 yards for the south end of town and 600 yards for the north end.  Tenders to be in by 9 Feb.

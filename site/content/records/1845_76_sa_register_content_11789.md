@@ -19,6 +19,7 @@ topics:
 - building
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Primitive Methodist Chapel is proceeding with the walls nearing completion.  No other new building is going on.

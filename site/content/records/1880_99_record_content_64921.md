@@ -22,6 +22,7 @@ topics:
 - discipline
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton School.  Miss James had some time ago been reprimanded for harsh treatment of a pupil at Leighton School.  The same game has since been continued albeit in a milder form and Mr Stanton, the Chairman of the Board of Inspectors was finally called in and Miss James is now ‘removed to another sphere of life’.  Miss McNeil is now in charge.

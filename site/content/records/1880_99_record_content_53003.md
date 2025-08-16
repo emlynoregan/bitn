@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr A.J. Edmunds, Burra’s esteemed Special Magistrate, died in Adelaide on Thursday after a long illness from which at times it seemed he was recovering.  [Arthur Joseph Edmunds died 15 February, aged 58.]

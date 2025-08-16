@@ -18,6 +18,7 @@ topics:
 - transport
 - river
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Reformer is also reported to have swum across the Gawler River yesterday unaided, while all others crossed with the aid of ropes.

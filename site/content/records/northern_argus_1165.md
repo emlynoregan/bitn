@@ -20,6 +20,7 @@ topics:
 - community
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The BCS Jubilee 150 Project is a book to be called Relatively Speaking, Mementoes and Memories of Burra.

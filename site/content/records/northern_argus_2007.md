@@ -27,6 +27,7 @@ topics:
 - history
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Lutherans gathered last Sunday at the site of the original Lutheran Church in Burra for the dedication of a memorial cairn opposite the Court House in Burra North.  The cairn was erected by Roger Frahn and Owen Schulz and identifies the nearby ruins as the foundations of the original church built in 1851 to serve the needs of families who came from the Harz Mountains in Germany as smelters.  Not long after being built it was nearly deserted when the men went to the Victorian goldfields. It was later rented to a lodge and was destroyed by fire after one of its meetings in July 1910.*

@@ -17,6 +17,7 @@ topics:
 - publication
 - volume numbering
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Note the change in volume number: Vol. XIV started on 14 Sep. 1892 and ran only to 30 Nov. 1892]

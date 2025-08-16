@@ -21,6 +21,7 @@ topics:
 - tender
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 17 September 1856, page 1

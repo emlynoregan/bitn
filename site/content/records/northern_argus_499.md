@@ -18,6 +18,7 @@ topics:
 - event
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Model T Ford enthusiasts visited Burra last weekend.

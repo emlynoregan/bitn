@@ -18,6 +18,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P.L. Killicoat burnt his hands putting out a fire in the bed hangings of one of his young children who was unwell and being watched over.  He cannot use his hands for some time, but is recovering.

@@ -22,6 +22,7 @@ topics:
 - weather
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Season. Crops to the north and north-west are good, but growth has been slow due to low temperatures. To the east growth is faster and looking well. To the south growth is backward and warmth needed.

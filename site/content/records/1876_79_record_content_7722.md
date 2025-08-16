@@ -19,6 +19,7 @@ topics:
 - education
 - boarding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Kooringa Educational Institution for Young Ladies: Mrs Henry Chambers.

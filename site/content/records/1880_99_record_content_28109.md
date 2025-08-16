@@ -18,6 +18,7 @@ topics:
 - inequality
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ again fulminates against the division between rich and poor along lines now overly familiar.

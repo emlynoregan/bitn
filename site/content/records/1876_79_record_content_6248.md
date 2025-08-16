@@ -18,6 +18,7 @@ topics:
 - finance
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on loans to selectors, discussing the effect of two years' bad harvests on the credit system of selectors.

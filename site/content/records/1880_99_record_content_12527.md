@@ -20,6 +20,7 @@ topics:
 - appointments
 - Methodist Union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Church annual district meeting has appointed a committee on Methodist Union.  J.G. Wright has been appointed to Kooringa.

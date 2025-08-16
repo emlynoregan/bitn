@@ -17,6 +17,7 @@ topics:
 - serial
 - novel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 27 Nov.	XIV	Following Up the Track, I-II				X		X			X

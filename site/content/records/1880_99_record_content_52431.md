@@ -20,6 +20,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The final went to F. Williams off 19 yards.  He was an Aboriginal from Netley aged 19.

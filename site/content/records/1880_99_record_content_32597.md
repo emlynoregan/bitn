@@ -19,6 +19,7 @@ topics:
 - fundraising
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Chinese Famine Fund Concert at the Burra Institute Wednesday 29 May.  1/- & 6d.

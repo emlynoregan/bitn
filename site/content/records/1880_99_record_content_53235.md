@@ -47,6 +47,7 @@ topics:
 - education
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The School Art Musical & Cookery Exhibition was opened on 21 March by the Mayor, P.L. Killicoat.  There were 162 entries in a wide range of categories.  There were also some special prizes.  Miss Josling exhibited a quilt of some thousands of pieces of silk.  The 1st prize winners were:

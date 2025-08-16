@@ -40,6 +40,7 @@ topics:
 - destitution
 - contracts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 He said the general depression of the colony combined with the stoppage of underground operations at the Burra Mine had thrown many people out of work who were now in want of the bare necessities of life.  Distress at the present time was fearful.  Even when work could be found it was often so poorly paid it barely fed the labourer and did not sustain a family.

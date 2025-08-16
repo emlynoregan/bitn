@@ -21,6 +21,7 @@ topics:
 - police
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  A letter to the editor claims that W.H. Hardy’s condemnation of the police inaction is unwarranted as in Clare, where the Salvationists were similarly attacked, there were four plain-clothes police who were unable to call a halt to the trouble.  What could one man do confronted by a crowd of 100 or more?

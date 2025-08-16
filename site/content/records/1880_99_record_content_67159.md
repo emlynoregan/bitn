@@ -26,6 +26,7 @@ topics:
 - methodist union
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R. Brummitt writes a letter in reply to a couple of letters expressing concern over the Methodist Union in the previous issue.  His answers include:

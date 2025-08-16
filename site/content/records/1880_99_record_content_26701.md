@@ -20,6 +20,7 @@ topics:
 - pests
 - science
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Professor Watson’s report on rabbit destruction by disease before the House of Assembly on Thursday considered experiments with the parasite Sarcoptes cuniculi: rabbit scabs.  This does not affect sheep, humans, dogs, horses or cattle.  The effects on marsupials are not yet known.

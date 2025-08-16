@@ -21,6 +21,7 @@ topics:
 - salaries
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘A Ratepayer’ querying why £10 is added to the Inspector’s salary as curator of the cemetery when the sexton (Mr R. Thomas) has been doing the job quite satisfactorily.  Is it to keep certain individuals in office?

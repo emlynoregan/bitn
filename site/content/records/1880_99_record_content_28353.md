@@ -22,6 +22,7 @@ topics:
 - discovery
 - company formation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheal Motley.  Samples of a rich discovery of copper may be seen at the Burra Institute on application to Mr Davey.  They come from NE of Burra near the Broken Hill railway line.  There is a proposal to form a local company to develop the property.

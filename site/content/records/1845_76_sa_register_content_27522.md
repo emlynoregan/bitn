@@ -26,6 +26,7 @@ topics:
 - dinner
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr G. Hill, the late manager of the SA Carrying Co., was entertained at a complimentary dinner on Saturday 8 April at the Aberdeen Hotel.  About 50 persons sat down to an excellent meal provided by Host Orchard.  Captain Killicoat presided.  [Some of those attending are listed and toasts are reported.]  J.D. Cave said that it was three and a half years since Mr Hill first came amongst them, and he then thought him rather young to take such a position as the one he held.  His abilities had been fully proved, as the situation he held was one of no ordinary difficulty.  He had always under him numbers of people of all classes, and although a young man, was respected by them.  He was wished well in his new position [which was not described].  Mr Thomas, an employee of the company, presented Mr Hill with a silver watch and gold chain.

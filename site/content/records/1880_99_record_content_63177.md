@@ -20,6 +20,7 @@ topics:
 - development
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mines.  The bore has gone to 200’, passing through some good stuff.

@@ -20,6 +20,7 @@ topics:
 - meat inspection
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Members for the District will be asked for the passage of a clause requiring all cattle slaughtered for human consumption to be slaughtered in a proper slaughterhouse within the municipality.

@@ -20,6 +20,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. On Saturday 12 April at Clare, Clare 154 defeated Burra 51 & 55. Last Monday at Mintaro, Mintaro 82 & 51 (133) defeated Burra 22 & 105 (127).

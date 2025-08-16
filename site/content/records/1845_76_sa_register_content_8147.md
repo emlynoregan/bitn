@@ -22,6 +22,7 @@ topics:
 - labour
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Proposed Aid for Unsuccessful Diggers

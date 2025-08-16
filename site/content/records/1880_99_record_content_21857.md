@@ -21,6 +21,7 @@ topics:
 - employment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Government.  The unemployed have called on the Premier to recall Parliament - he declined on the grounds that there was work for all applicants at Dry Creek or on the Murray Flats reclamation project.

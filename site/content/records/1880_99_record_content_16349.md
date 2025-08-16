@@ -21,6 +21,7 @@ topics:
 - railway
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Crossing.  Dr Cockburn MP has been seeking action on a gong for the railway crossing at the Bon Accord and again ‘enquiries will be made.’

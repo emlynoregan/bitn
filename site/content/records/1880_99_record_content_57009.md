@@ -19,6 +19,7 @@ topics:
 - pest
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Park Lands Committee will consider how best to approach the sparrow nuisance.

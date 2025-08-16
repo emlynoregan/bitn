@@ -17,6 +17,7 @@ topics:
 - community
 - newspaper history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Overall the paper remained at this stage a good record of the day-to-day activities of the town and district.

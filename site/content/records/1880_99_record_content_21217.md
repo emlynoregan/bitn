@@ -20,6 +20,7 @@ topics:
 - advertisement
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  August Wittber, Headmaster, advises that the Burra Public School will resume on 18 January 1886.

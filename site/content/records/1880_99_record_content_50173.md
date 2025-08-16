@@ -23,6 +23,7 @@ topics:
 - obituary
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The wife of Mr Solomon Williams, aged 74, died last Monday at her residence in Chapel St.  She arrived in SA in October 1846 and came to Burra in August 1857.  She was a resident of 46 years.  [Eliza Williams died 5 June1893.]

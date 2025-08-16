@@ -23,6 +23,7 @@ topics:
 - guttering
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr West moved that a footway be constructed on the west side of the main road to Aberdeen.  It was dangerous at night and would not be a very costly work.

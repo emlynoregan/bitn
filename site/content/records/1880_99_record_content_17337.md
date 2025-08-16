@@ -22,6 +22,7 @@ topics:
 - industry
 - export
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 No less than 14 mines exported silver ore from the Barrier Ranges via Silverton Customs House in the quarter just ended.  In order of size of production they were: -

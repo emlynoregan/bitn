@@ -19,6 +19,7 @@ topics:
 - mining
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Despite warnings from the Snowy River diggings that winter there is severe, several miners have left for there recently and many more are preparing to follow in spring.

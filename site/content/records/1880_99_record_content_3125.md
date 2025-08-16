@@ -24,6 +24,7 @@ topics:
 - death
 - miscarriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  Death of Susan Wilks, [nee Stewart] wife of Thomas Wilks, farmer of Mt Bryan East.  Inquest 22 Jan. with John Dunstan JP as coroner.  [Aged 35]

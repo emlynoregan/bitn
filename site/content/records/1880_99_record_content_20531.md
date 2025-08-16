@@ -25,6 +25,7 @@ topics:
 - court
 - jury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jeffrey Pearce said that6-7 tons of hay had been burnt.  It was not insured.  He had met Constable Williams at the scene about 2.30 p.m.  Had seen the O’Connor children there.  Had no idea of the cause and was on good terms with the O’Connors.

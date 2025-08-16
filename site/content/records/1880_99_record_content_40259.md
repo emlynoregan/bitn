@@ -27,6 +27,7 @@ topics:
 - industry
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wood Carters met in large numbers at the Commercial Hotel on Saturday evening to consider forming a union.

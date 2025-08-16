@@ -19,6 +19,7 @@ topics:
 - event
 - march
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Military.  There will be a grand march of troops through the city on 21 June.

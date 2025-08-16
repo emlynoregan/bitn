@@ -22,6 +22,7 @@ topics:
 - adjournment
 - editorial dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He stated ‘that the Council ought to adjourn and then broke off abruptly by saying, ‘but it is not safe to say to [sic] much.’

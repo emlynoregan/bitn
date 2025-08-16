@@ -18,6 +18,7 @@ topics:
 - alcohol
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local Option.  At the council election on 1 December there will also be a poll on the Sunday closing of hotels.

@@ -19,6 +19,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr R.W. Mathews will open a private Commercial School in the building lately used by F.R. White.

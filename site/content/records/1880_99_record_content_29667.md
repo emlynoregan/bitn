@@ -19,6 +19,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Club lost a match to each of Terowie, Saddleworth and the Young Australians, making three not two losses and the runs scored against them were in error too.

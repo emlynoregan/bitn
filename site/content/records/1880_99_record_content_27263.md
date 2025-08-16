@@ -21,6 +21,7 @@ topics:
 - election
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the election F.W. Holder and W.B. Rounsevell were elected and our late representative, Dr Cockburn, found a constituency at Mt Barker.

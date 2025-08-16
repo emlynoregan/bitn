@@ -20,6 +20,7 @@ topics:
 - safety
 - technology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  A special train will leave Burra today at 10.30 a.m. for Terowie to test the Westinghouse brake system.

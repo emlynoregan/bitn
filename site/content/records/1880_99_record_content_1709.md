@@ -18,6 +18,7 @@ topics:
 - supplement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Record.  From 1 October we shall publish every Friday a 2-page supplement containing each week a portion of a good serial tale and other tales and sketches, household receipts, wit, humour etc.  This supplement will be issued gratis.

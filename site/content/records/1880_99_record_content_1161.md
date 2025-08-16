@@ -25,6 +25,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Primitive Methodist Church will reopen on 27 June when the Rev. J.S. Wayland will preach.  The service of song will be ‘Children’s Messiah’.  On Monday 28 June the service of song ‘Jessica’s First Prayer’ will be sung with E. Lipsett Esq. Giving the connective readings.  On Sunday 4 July J.G. Wright of Adelaide & Rev. James Bickford will preach.  The tea-meeting will be on Monday 8 July.

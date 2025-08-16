@@ -20,6 +20,7 @@ topics:
 - community
 - renovation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Primitive Methodist Sunday-school anniversary services were preached last Sunday and the children had their usual treat on Christmas Day. The school has this year been renovated and at Redruth there has also been much done to improve the church. The Sunday-School room of the Bible Christian Church has also been repaired and improved.

@@ -19,6 +19,7 @@ topics:
 - drill
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI.  Rifles and accoutrements have been received and will soon be issued.  A drill instructor will visit on Friday evening next to begin instruction.

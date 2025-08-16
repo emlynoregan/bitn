@@ -17,6 +17,7 @@ topics:
 - weather
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The weather has been very hot and has had a very bad effect on crops.  Now it is quite cold and threatening to rain.

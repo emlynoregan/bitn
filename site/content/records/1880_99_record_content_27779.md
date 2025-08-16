@@ -19,6 +19,7 @@ topics:
 - pest
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Nackara farmers have petitioned the Government for seed wheat as rabbits have eaten all their crops.

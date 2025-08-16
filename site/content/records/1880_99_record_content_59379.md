@@ -22,6 +22,7 @@ topics:
 - residents
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. Dunn, who has had the supervision of the Bon Accord Hotel for 4 years, joins the number of residents leaving the town.  He has been in ill health for some time.  He is presently at Houghton and it is thought doubtful wether he will recover.  However, we wish him well so he may again be able to enjoy the pleasures of life.

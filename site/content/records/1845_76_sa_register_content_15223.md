@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Annual Bible Christian Bazaar was opened on Monday in an unoccupied store adjoining Mr T. Richard’s.

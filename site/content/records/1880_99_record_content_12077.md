@@ -20,6 +20,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Re-opening of Kooringa Primitive Methodist Church, 20 January by Rev. W. Jenkin.  2.30 & 6 p.m. with tea meeting 23 January.

@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - telecommunications
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 International Cable.  The ends of the second cable have now been located and recovered.

@@ -20,6 +20,7 @@ topics:
 - show
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Show 24 September at the Yards of the E & A Copper Co. Shops will close at 1.00 p.m.

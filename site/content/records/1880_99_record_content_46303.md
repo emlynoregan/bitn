@@ -20,6 +20,7 @@ topics:
 - rain
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [When news did arrive for the paper of 17 Aug. it was of about 0.50” at Barker’s and World’s End, but further east virtually nothing.

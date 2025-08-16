@@ -22,6 +22,7 @@ topics:
 - statues
 - public art
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Statues.  Sir E.T. Smith has had a statue of the Queen made for presentation to the City of Adelaide and a statue of Robert Burns was unveiled on North Terrace last Saturday.

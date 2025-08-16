@@ -19,6 +19,7 @@ topics:
 - commerce
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Large quantities of grain are being delivered at Aberdeen and there is great competition between wheat buyers.

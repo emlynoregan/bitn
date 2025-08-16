@@ -20,6 +20,7 @@ topics:
 - roads
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Duffy said he had plans of all the main roads in Burra, which he would happily place at the disposal of the Council for copying.

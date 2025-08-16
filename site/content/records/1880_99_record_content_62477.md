@@ -20,6 +20,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  At Burra on Monday Burra 8.11 defeated Terowie 0.5, but Terowie could muster only 10 men and had to borrow 10.

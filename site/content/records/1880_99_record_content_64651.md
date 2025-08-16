@@ -21,6 +21,7 @@ topics:
 - concert
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Public School concert took place in the Institute last Friday evening.  A. Harris presided.

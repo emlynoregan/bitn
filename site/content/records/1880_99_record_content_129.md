@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to wife of David Anderson at Gladstone on 15 December 1879, a daughter.  [Helen Anderson]

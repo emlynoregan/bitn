@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  Mr H. Dawson, saddler, was riding a young horse up Commercial Street when it either shied or bucked, throwing the rider to the ground with some violence.  Mr Dawson was insensible for some time, but on his recovery it was found his injuries were not severe, though he was much shaken and is likely to feel the effects for some months.

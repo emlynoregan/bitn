@@ -27,6 +27,7 @@ topics:
 - scarlatina
 - public health administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Yet Dr Cave says there is less sickness there than in any other parts of the district.  Also Mr Daniel’s and Dr Cave’s own houses, though not actually, are, for all sanitary purposes, virtually in Paxton Square and in both fatal cases occurred.  By Dr Cave’s statement if Paxton Square had less sickness that any other part of the district there should have been over 100 cases of typhoid in the district and by my figure of 11 cases, the district should have had more than 220.

@@ -19,6 +19,7 @@ topics:
 - drills
 - volunteer force
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.   First drills for the year will be held on 23 & 27 February.

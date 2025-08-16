@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Baldina Races 29 April 1885 in Mr Midwinter’s Paddock, Baldina.  Five events: -

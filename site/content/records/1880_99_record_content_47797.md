@@ -18,6 +18,7 @@ topics:
 - races
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Spec’ reports on the Municipal Races, but is neither particularly witty nor biting this time.

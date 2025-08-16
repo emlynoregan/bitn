@@ -22,6 +22,7 @@ topics:
 - administration
 - public duty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Mayor & the Hospital. There is a fairly long letter from the Mayor, Mr Lipsett, explaining why he sent a man to the hospital with an order for admission & how he was right to do so. [This was in response to an item in the paper querying his right to demand the admission of a patient.]

@@ -24,6 +24,7 @@ topics:
 - meeting
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association.  Notice is given of the half-yearly general meeting of shareholders at the office of the Association in Rundle Street, Adelaide on 19 October, to receive the Directors Report, Examine the Auditors’ Report etc.

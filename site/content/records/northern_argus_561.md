@@ -20,6 +20,7 @@ topics:
 - award
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Shaun Dollman received his Queen’s Scout Badge from Scout Leader Jack Kleinig at the recent Christmas break-up.  [Photo.]

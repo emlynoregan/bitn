@@ -19,6 +19,7 @@ topics:
 - shares
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Last night three shares in the Redruth Building Society were sold; one at a premium of £36 for £100 share and the other two at £36-10-0.

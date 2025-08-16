@@ -21,6 +21,7 @@ topics:
 - discovery
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa.  A new lode has been discovered at King’s Bluff which assays 50 oz per ton.  Melbourne money is to be used to get crushing machinery at the field.

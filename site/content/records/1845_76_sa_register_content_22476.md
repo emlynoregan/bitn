@@ -24,6 +24,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Primitive Methodists held a bazaar on 9, 10 & 11 November.  On Monday the school children from Kooringa, Redruth and Copperhouse walked in procession through the town headed by the circuit minister Rev. J.T. Pithouse and Mr G. Hannens, Superintendent of the Kooringa Sabbath-school.  Being a holiday the bazaar was well patronised and upwards of £80 was realised.

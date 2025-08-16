@@ -19,6 +19,7 @@ topics:
 - sports
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  A proposed match between Gawler and Burra on 1 September did not eventuate.

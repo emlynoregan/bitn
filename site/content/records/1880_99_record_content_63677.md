@@ -25,6 +25,7 @@ topics:
 - bridges
 - town inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The inspection of the town on Wednesday showed it to be in good order, requiring only a little attention around the Reformatory.  It was resolved that a new bridge be erected across the creek near the Bible Christian Church.

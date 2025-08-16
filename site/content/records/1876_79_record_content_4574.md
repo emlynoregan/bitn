@@ -24,6 +24,7 @@ topics:
 - manufacturing
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sara & Dunstan. For many years all bricks used in Burra have come from Gawler or 

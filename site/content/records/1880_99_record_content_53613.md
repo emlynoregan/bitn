@@ -24,6 +24,7 @@ topics:
 - horticulture
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide Chrysanthemum Show.  J. Lewis secured 1 prize for the best two chrysanthemums in the show.

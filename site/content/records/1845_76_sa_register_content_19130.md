@@ -21,6 +21,7 @@ topics:
 - wages
 - drought
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Bushman’ writes 11 December:

@@ -21,6 +21,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Anniversary of the Bible Christian Church, Kooringa, next Sunday and Monday, 5 & 6 March.  Rev. James Way will preach.

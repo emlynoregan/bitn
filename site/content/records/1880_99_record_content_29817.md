@@ -21,6 +21,7 @@ topics:
 - commentary
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Joker Claim.   There is over a column of a humorous response to the geologist’s report on The Joker, and ½ column in a letter from W. H. Hardy on the same topic in a typically harsher vein where he must again come close to slander.

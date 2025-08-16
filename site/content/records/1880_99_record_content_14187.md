@@ -22,6 +22,7 @@ topics:
 - housing
 - real estate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  To Let: The house lately occupied by John Drew at the Smelting Works.

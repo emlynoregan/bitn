@@ -33,6 +33,7 @@ topics:
 - ceremony
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The laying of the foundation stone of St Mary’s schoolroom by Mrs J. Lewis is reported in ⅔ column.  The committee on the project was Rev. A.G. King, Dr Sangster, Messrs E.C. Lockyer, R.M. Harvey & C. H. Ewins.  Messrs Launder & Pearce got the contract for £463.  At 3 p.m. Rev. King addressed the congregation.  Mrs J.C. Sandland presented the stone in memory of her late son: Robert Chester Sandland.

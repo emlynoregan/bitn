@@ -20,6 +20,7 @@ topics:
 - report
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Moonta Mines.  There is a long article on a visit to the mines of northern Yorke Peninsula and there is considerably more on this subject on 16 June.

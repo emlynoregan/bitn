@@ -21,6 +21,7 @@ topics:
 - post office
 - telegraph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders are called for the erection of a wooden P.O. and Telegraph Station at Hallett.  [But the plans call for a stone building - see II, 94, 16 April 1880, page 2.]

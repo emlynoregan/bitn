@@ -20,6 +20,7 @@ topics:
 - licence
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Luisa Goldsworthy was granted a Railways Refreshment licence on plans for approval.

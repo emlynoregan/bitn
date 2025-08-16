@@ -21,6 +21,7 @@ topics:
 - farewell
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Farewell addresses were given last Sunday by Capt. West and Lieut. Whitton and a farewell social was tendered them on Monday night.

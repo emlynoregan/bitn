@@ -23,6 +23,7 @@ topics:
 - building
 - permissions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Corporation cannot spend money on a pavilion etc. until their own terms with SAMA are finalised.  Gate money is only to be charged with the permission of the Mayor.

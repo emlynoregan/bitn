@@ -23,6 +23,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Institute Committee met on 13 March under the President, Mr Williams, and decided to hold a Chrysanthemum Show (and other flowers) on the Wednesday following the Adelaide Show.

@@ -19,6 +19,7 @@ topics:
 - drought
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The area around Kooringa seems to be heading into drought.  Showers within the next fortnight would not come too late, but time is running out.

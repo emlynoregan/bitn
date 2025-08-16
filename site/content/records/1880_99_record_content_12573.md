@@ -20,6 +20,7 @@ topics:
 - sanitation
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the recent inspection of Burra by the Central Board of health.  In the past the creeks have been the general deposit for all impurities.  We now know that earth constantly saturated with filth becomes a storehouse of disease and death.  We know cesspits need to be watertight and the material removed safely to a place removed from dwellings and be used for a productive end instead of harm.  Though new dwellings are required to have watertight cesspits, many old porous pits remain and they gradually contaminate an area around them.  This is a serious problem where drinking water is obtained from wells.

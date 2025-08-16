@@ -19,6 +19,7 @@ topics:
 - transport
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The visitors came and went by train. [Probably having made arrangements for a road connection from Farrell’s Flat, since there was no rail to Clare.]

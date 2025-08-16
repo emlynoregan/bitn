@@ -19,6 +19,7 @@ topics:
 - employment
 - rural
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Adelaide Labour Market has improved somewhat.  Domestic servants of all types are much in demand.  In the country lamb minders, ploughmen and single shepherds are sought for.

@@ -21,6 +21,7 @@ topics:
 - dispute
 - procedural
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich had a question on the obtaining of a legal opinion on standing orders, which created considerable bickering and finally his attempt to put a motion was thwarted.

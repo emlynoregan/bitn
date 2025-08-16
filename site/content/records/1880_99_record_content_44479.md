@@ -19,6 +19,7 @@ topics:
 - event
 - harvest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Westbury Wesleyan Church will hold its Harvest Thanksgiving on 28 February.

@@ -22,6 +22,7 @@ topics:
 - presentation
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster Sen. Will be given a social tonight at the Institute.  On Sunday scholars of St Mary’s gave him a silver-mounted walking stick and pair of pince-nez mounted in gold.  On Friday evening he will receive an illuminated address from the town.

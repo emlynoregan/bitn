@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There will now be an express train daily from Adelaide to Broken Hill, passing through Burra about 7 p.m.  Sleeping cars are needed.

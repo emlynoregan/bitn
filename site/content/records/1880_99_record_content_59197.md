@@ -19,6 +19,7 @@ topics:
 - migration
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration to WA.  Many Burra residents have gone to WA in the past months and most have succeeded in getting fairly good positions.  Several others are preparing to go, having considered it useless to wait here any longer.

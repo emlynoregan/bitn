@@ -19,6 +19,7 @@ topics:
 - exhibition
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Council committee is to investigate the practicability of getting all the town’s children aged 7-14 to the Jubilee Exhibition in September.

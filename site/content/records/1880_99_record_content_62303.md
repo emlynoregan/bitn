@@ -20,6 +20,7 @@ places_mentioned:
 topics:
 - earthquake
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Earthquake was felt on Monday 10 May in the afternoon.  It was the most severe ever felt in the colony and in Adelaide it rang bells and shook for two minutes.  It was worst at Robe where chimneys and walls fell and the ground opened up.  The tremor in Burra was mild.

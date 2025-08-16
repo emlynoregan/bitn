@@ -22,6 +22,7 @@ topics:
 - service
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church held its annual effort on Sunday and Tuesday last.  Rev. T. Theobald took the morning and Rev. J.Y. Simpson the evening service.  The afternoon service of song was Left Alone.  The tea meeting was yesterday.

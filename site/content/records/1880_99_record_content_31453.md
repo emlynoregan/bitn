@@ -19,6 +19,7 @@ topics:
 - government
 - nomination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Nominations received 21 Jan.: 		John Darby Cave, accountant of Burra

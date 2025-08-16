@@ -23,6 +23,7 @@ topics:
 - dividend
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Operations at Burra Burra began on 29 September 1845 with a paid up capital of £12,320 and although £10,257-6-2 was expended in purchasing the inestimable territory known as the Burra Burra, the mining operations were so successful that it has not been necessary to make any subsequent call.  The distance of the European markets has proved to be no financial hindrance where products were so rich and remunerative.

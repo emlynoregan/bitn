@@ -22,6 +22,7 @@ topics:
 - charity
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An Entertainment.  On 9 August Rev. L.W. Stanton gave one of his literary and musical entertainments at the Burra Hotel, which was even more largely attended than usual.  [The program is listed.]

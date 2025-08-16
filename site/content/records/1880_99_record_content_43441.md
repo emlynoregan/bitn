@@ -19,6 +19,7 @@ topics:
 - waterworks
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 They have dispensed with the dayman which the editor feels is a mistake.  It is important to have a man available when needed for footpaths, roads, culverts etc.

@@ -22,6 +22,7 @@ topics:
 - finance
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.R. Ridgway pointed out the loss of railway purchase of water.  Why should Burra pay interest at 5% when Adelaide paid 4% and no other country waterworks paid over 2½%?  Astonishingly Parliament passed £500 as the working expenses when £250 was ample.

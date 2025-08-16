@@ -20,6 +20,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Monday in boisterous weather Burra 2nd 20 scored 3.9 to defeat Petersburg 2nd 20, 2.6

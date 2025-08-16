@@ -24,6 +24,7 @@ topics:
 - law
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Roberts, formerly of Burra and now of Robertstown, and a Methodist local preacher, has inherited £1,200,000 as a result of a decision of the Chancery Court according to a report in Friday’s Methodist Journal and Saturday’s Register, but yesterday the information was denied.

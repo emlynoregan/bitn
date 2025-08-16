@@ -20,6 +20,7 @@ topics:
 - fair
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Schoolroom Toy and Fancy Fair will be opened at 3 p.m. by the Mayoress, Mrs P.L. Killicoat.

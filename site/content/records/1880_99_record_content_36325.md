@@ -20,6 +20,7 @@ topics:
 - cancellation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henry George, after all arrangements had been made, has had to cancel his visit to Burra and leave for overseas.

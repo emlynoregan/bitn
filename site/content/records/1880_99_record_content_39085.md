@@ -20,6 +20,7 @@ topics:
 - union
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Amalgamated Shearers’ Union Burra Vigilance Committee, held a meeting at the Burra Hotel on 28 November.  L. Quinn in the chair.  They reviewed arrangements for next season.

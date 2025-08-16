@@ -22,6 +22,7 @@ topics:
 - politics
 - withdrawal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Election Notice.  John Clark thanks his supporters for election to the House of Assembly, but advises that he has decided to retire from the contest following consultation between his supporters and those of Mr Neales.  It has been decided that Mr Neales should go to the poll and consequently his withdrawal will increase the likelihood that Mr Kingston will not be returned.

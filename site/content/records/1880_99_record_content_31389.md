@@ -18,6 +18,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Art Union in favour of St Joseph’s Building Fund was drawn on Wednesday and the tickets brought in £122.

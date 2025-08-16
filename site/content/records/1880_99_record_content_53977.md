@@ -18,6 +18,7 @@ topics:
 - suffrage
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘We are of the opinion . . . it will be a step in the wrong direction.’

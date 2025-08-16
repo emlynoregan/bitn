@@ -34,6 +34,7 @@ topics:
 - military
 - marine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting at Redruth, Monday evening, Mr Ridgway addressed a small gathering at the [German?] schoolroom, chaired by H. Pinch.

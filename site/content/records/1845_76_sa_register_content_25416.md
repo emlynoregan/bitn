@@ -20,6 +20,7 @@ topics:
 - fundraising
 - building fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Joseph’s Catholic Church benefited from a bazaar held at the Institute on Monday, Tuesday and Wednesday to aid the building fund.  Over £100 was raised.

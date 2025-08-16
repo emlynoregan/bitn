@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Recent rains were followed by a dry spell, but last week we had 0.26” which is still not enough and more is anxiously looked for.

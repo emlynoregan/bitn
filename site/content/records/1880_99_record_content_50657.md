@@ -20,6 +20,7 @@ topics:
 - mining
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Work for the Unemployed.  Some relief has been given with the onset of shearing and also the opening of the ballast quarries.  Stoppages at the Broken Hill mines have seen some old Burra identities putting in an appearance here once more.

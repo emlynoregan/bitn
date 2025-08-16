@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - reference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [See also 11 February page 6.]

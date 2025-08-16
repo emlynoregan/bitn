@@ -37,6 +37,7 @@ topics:
 - assembly
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor, T.W. Wilkinson took the chair.  The first resolution was ‘That this meeting sympathises with the late Cockburn Government; and regrets the defeat of the Progressive Land Tax; also the tactics of the late Opposition in shelving the measure.’  Moved Mr Geake, seconded Mr Anderson.

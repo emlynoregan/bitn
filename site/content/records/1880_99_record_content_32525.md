@@ -22,6 +22,7 @@ topics:
 - public health
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter by the Burra Correspondent for the Barrier Miner asserts that typhoid is widespread in Burra.  The editor comments that since 1 January there have been 53 houses affected, including those where cases were imported from Broken Hill.

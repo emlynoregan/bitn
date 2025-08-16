@@ -20,6 +20,7 @@ topics:
 - obstetrician
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madame Somerset Stanley, clever lady doctor and obstetrician will visit Kooringa from 16-18 August.

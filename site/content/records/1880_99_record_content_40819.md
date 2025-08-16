@@ -22,6 +22,7 @@ topics:
 - encampment
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF.  A number of local defenders left Burra on Thursday to attend the Easter encampment.  The encampment will see 1380 men under canvas at Keswick and the forts: up 146 on last year.

@@ -20,6 +20,7 @@ topics:
 - fines
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Two teamsters were fined for carrying excessive weights: - George Bailey 19/- for 19 cwt more than allowed +11/9 costs Thomas Bailey 7/- for 7 cwt in excess + 11/9 costs.

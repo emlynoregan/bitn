@@ -26,6 +26,7 @@ topics:
 - wages
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H. Cooper v. J. Ford in a claim for £5-3-4 wages due.

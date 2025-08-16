@@ -37,6 +37,7 @@ topics:
 - community organization
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc. AGM was held at the Institute last Wednesday afternoon.  The Vice-President Mr T. Warnes presided.  Election: Patron, A. McCulloch Sen.; President, Mr Rounsevell; Vice-Presidents, Messrs I. Killicoat, Warnes, Lockyer, Lane, Bath, McBride, Lewis, Barker; Treasurer, F.W. Holder; Sec. Mr Cave.

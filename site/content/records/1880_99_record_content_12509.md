@@ -22,6 +22,7 @@ topics:
 - government
 - land policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Deputation to Hon. A. Catt, Commissioner of Crown Lands, calling on the Government to alleviate the distress of farmers in the Hundreds of Parnaroo and Wonna.  There has been a total failure of crops and the call is for the total remission of amount due and that the sums already paid be considered part of the purchase money.  The Minister could not assist and did not consider the requirement to have to cultivate 20% of the land a drawback to their success.

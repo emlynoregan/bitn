@@ -19,6 +19,7 @@ topics:
 - economy
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Business is flat and dull and some of the larger stores are selling at Adelaide prices or less.

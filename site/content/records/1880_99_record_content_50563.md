@@ -22,6 +22,7 @@ topics:
 - public meeting
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town’s Poor.  By last Thursday only three applications for aid had reached the Distress Committee.  The editor feels the Council went about things the wrong way.  A public meeting would have been the place to start and the doctors could supply information about where real distress is to be found.

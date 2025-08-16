@@ -21,6 +21,7 @@ topics:
 - hospital
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Juvenile Bazaar will be run by the Misses Batchelor at their home in Commercial St, 24 May, in aid of the hospital.

@@ -28,6 +28,7 @@ topics:
 - theft
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 21 August 1868, page 2

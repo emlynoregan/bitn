@@ -19,6 +19,7 @@ topics:
 - committee
 - building fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Institute Committee met and resolved to transfer £50 from the general account to the building fund account.

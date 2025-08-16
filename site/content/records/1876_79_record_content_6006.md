@@ -19,6 +19,7 @@ topics:
 - club
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Football. A meeting is called for next Wednesday evening at the Commercial Hotel for the formation of a football club.

@@ -18,6 +18,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Northern Road is still quite busy and on Monday a number of wagons were in transit when we saw one stuck fast so that seven horses were unable to shift it.

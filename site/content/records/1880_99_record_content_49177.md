@@ -21,6 +21,7 @@ topics:
 - organization
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Annual Meeting of the Burra Mounted Rifles at the Commercial Hotel, 27 March.

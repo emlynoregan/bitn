@@ -19,6 +19,7 @@ topics:
 - politics
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Political Meeting.  A meeting of the supporters of F.W. Holder is called for Tuesday evening next in the Institute.

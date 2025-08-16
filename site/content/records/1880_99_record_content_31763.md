@@ -19,6 +19,7 @@ topics:
 - free trade
 - protection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a lengthy letter on Free Trade, Protection or Co-operation.

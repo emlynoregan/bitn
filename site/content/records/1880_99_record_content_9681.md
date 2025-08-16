@@ -19,6 +19,7 @@ topics:
 - police
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police.   A notice received on Monday transferred P-C Johnson from Kooringa.  Various prominent men have telegrammed their objection to this. [See comment V. 271. 7 September 1883, Page 2 re the reasons for this transfer]

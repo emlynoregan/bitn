@@ -19,6 +19,7 @@ topics:
 - church
 - correction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Bur see XV, 390, 25 Oct. 1899 p.2 when it turns out to be Rev. Father Doyle.]

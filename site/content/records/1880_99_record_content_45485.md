@@ -20,6 +20,7 @@ topics:
 - social
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Oddfellows Lodge: on 8 June District Officers will visit to hold a lodge of Past Grands, followed by a social at Vivian’s Commercial Hotel.

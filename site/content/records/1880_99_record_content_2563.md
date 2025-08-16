@@ -19,6 +19,7 @@ topics:
 - building
 - residence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Pearce has also erected a new house for J. Lewis JP.

@@ -20,6 +20,7 @@ topics:
 - business
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Roach announces that he has taken into partnership his sons J. Roach jun. & Henry Roach, and the business will be known as J. Roach & Sons from 1 December 1880.

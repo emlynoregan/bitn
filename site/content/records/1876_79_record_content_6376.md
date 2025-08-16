@@ -21,6 +21,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. J.J. Westwood's lecture on the Great Pyramid was very poorly attended: beyond what the lecturer quoted from the work by Professor [Charles] Piazzi Smyth, Astronomer Royal of Scotland, we cannot say he cast much light on the subject.

@@ -24,6 +24,7 @@ topics:
 - water
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen Waterworks.  The main has been extended north along Young St to the White Hart Hotel and there is talk of an extension to Opie’s Hotel to the south.  A main could be constructed from the present standpipe around Commercial St to the Burra Hospital if there were a guarantee of £102 p.a. revenue.  The scheme contemplated by the Council could be done for half that.

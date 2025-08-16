@@ -21,6 +21,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Races at Copperhouse last Sat. for £10 a side at Copperhouse. Mr Graham's Ivanhoe soundly beat Mr Robertson's Gulnare. Several scratch races were then held.

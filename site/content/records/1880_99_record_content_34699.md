@@ -20,6 +20,7 @@ topics:
 - weather
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dust Storm.  Last Saturday many tons of Redruth and Aberdeen soil was shifted to Kooringa and scattered over the whole place indiscriminately.

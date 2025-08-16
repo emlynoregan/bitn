@@ -20,6 +20,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The SKOL World Tourism Conference will be held in Adelaide in November.  During their week stay two groups of 200 each are expected to visit Burra on a day trip.

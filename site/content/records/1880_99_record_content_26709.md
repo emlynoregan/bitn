@@ -27,6 +27,7 @@ topics:
 - public expenditure
 - recreation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ says that most Mayors and Councillors have got their positions in order to improve their own properties and with one or two exceptions the bulk of the rates have been spent within a stone’s throw of ex-Mayors’ or ex-Councillors’ holdings.  The town has had foisted on it a waterworks which will not pay the interest on its cost of construction, though it was to have been a great success.  Either all the ratepayers will have to subscribe to it (when they have unsurpassed wells of water of their own) or it will be given to the Government who will declare this a water district and force all to pay.

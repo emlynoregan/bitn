@@ -22,6 +22,7 @@ topics:
 - transport
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A deputation waited on Council seeking their aid in sending children to the Adelaide Exhibition.

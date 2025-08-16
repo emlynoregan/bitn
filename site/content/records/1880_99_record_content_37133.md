@@ -19,6 +19,7 @@ topics:
 - safety
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the recent railway accident.  Though the verdict was given as accidental several points deserve the attention of the authorities.  The deceased knew a train was due in the morning, but should have passed his house by 5 a.m.  It was almost two hours late.  Witnesses vary as to visibility - one persons 100 yards can be another’s three chains (66 yards) and the driver and stoker put it at 25 to 30 yards.  The train was going at speed as it took half to three quarters of a mile to stop.  But if the train was going 18 m.p.h. and couldn’t stop in less than that something is wrong.  A proper lookout seems not to have been kept.  We conclude there is a general looseness in operations and that the accident was avoidable.

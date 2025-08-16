@@ -19,6 +19,7 @@ topics:
 - events
 - war
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd leader on the fall of Khartoum with no news yet on the fate of General Gordon.

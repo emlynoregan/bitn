@@ -21,6 +21,7 @@ topics:
 - sport
 - team
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Janelle Adams & Melissa Hayes of Broken Hill have joined the Burra Barrow Birds team.

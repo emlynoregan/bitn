@@ -22,6 +22,7 @@ topics:
 - legal
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 J.D. Cave asked that the deed of the Burra Hospital be obtained for the Attorney General's perusal.

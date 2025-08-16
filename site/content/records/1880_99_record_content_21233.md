@@ -21,6 +21,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  On Brewery Flat last Saturday, Young Australians 79 & 9 defeated Tradesmen 20 & 66.

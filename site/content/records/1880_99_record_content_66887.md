@@ -19,6 +19,7 @@ topics:
 - meeting
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The general meeting was held on 19 September with W.H. Hardy in the chair.  The committee is to arrange a concert on 11 October to aid the club.

@@ -18,6 +18,7 @@ topics:
 - poisoning
 - animal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison.  Another kangaroo dog has been poisoned in the town.

@@ -21,6 +21,7 @@ topics:
 - sport
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Chris Baulderstone, daughter of Marcia and Allen, has been chosen for the state team for indoor cricket and will soon play in Surfers Paradise.

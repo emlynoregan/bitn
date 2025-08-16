@@ -22,6 +22,7 @@ topics:
 - charity
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Daddow said services on behalf of the Hospital would be held in the Primitive Methodist Church on Christmas Day.

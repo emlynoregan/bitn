@@ -31,6 +31,7 @@ topics:
 - sheep
 - rural emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 12 December 1864, page 2

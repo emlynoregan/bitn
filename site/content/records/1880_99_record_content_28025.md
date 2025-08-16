@@ -20,6 +20,7 @@ topics:
 - advertisement
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders called for a shaft to be sunk at the Black Hills Prop. Silver Mine.  The shaft to be 6½’ x 3½’ x 150’.

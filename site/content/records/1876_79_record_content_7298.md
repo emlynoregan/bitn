@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A contract was let for a large culvert in Redruth and the other matters as discussed in the editorial.

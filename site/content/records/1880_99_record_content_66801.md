@@ -22,6 +22,7 @@ topics:
 - discovery
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W. March, on his way to work, followed a rabbit briefly and found H. Roach’s cashbox which was stolen some time ago.  Inside were found three keys and a couple of postal notes, but no money and no cheque drawn by W. Taylor.

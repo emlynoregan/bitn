@@ -22,6 +22,7 @@ topics:
 - assay
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Consols Mining Co. is still working at Princess Royal Estate near ‘Dutton’s Troughs’.  Two workmen are making slow progress.  Results of a quantity of stuff sent away for assay are not yet known.

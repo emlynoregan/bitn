@@ -24,6 +24,7 @@ topics:
 - school
 - appointments
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. Miss Ranking has been transferred from Burra to the City Model School and Miss Kilkelly comes in her place. Mr J. Snell, formerly of Burra is now at Kapunda as assistant.

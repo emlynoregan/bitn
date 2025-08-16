@@ -21,6 +21,7 @@ topics:
 - religion
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The Bishop of Adelaide, Dr Kennion, will conduct a Confirmation Service at St Mary’s on Tuesday 27 August.

@@ -21,6 +21,7 @@ topics:
 - industry
 - trade
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on a speech of Mr Rees MP at Lobethal on the need for some measure of protection for local industry, while in general he was a free trader.  This was a view that the editor appears to have come to endorse.

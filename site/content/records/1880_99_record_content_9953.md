@@ -20,6 +20,7 @@ topics:
 - entertainment
 - circus
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Leon’s Circus and Menagerie arrived in Kooringa yesterday and its performances are highly spoken of. The attendance last night was very fair and the performance first class.

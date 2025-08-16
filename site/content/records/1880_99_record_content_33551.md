@@ -20,6 +20,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Geake’s offer to light the Market Square lamp for 3 months for 15/- was accepted.

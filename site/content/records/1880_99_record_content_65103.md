@@ -20,6 +20,7 @@ topics:
 - finance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Society.  A meeting showed that with the Government grant-in-aid the society will start 1899 c. £90 in credit.

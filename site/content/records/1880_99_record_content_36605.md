@@ -17,6 +17,7 @@ topics:
 - editorial
 - journalism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He says he will be guided by the spirit of fair play and will advocate the wants of the district impartially.  He will have the aim of ‘placing our paper upon the greatest heights yet attempted by country journalists’.

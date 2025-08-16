@@ -22,6 +22,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  James Robertson, aged 23, died in the Burra Hospital, 10 October as the result of injuries sustained at Pine Valley Station when the top of a wool press fell on him.  Evidence was given by James M. McBride, owner of the station.  His and other evidence runs for c. 1¼ columns and central is the issue of the state of the press and the knowledge people had of its state.  There are some discrepancies about this, but eventually the jury found accidental death without commenting on culpability with respect to the state of the wool press.  The cause of death was given as fracture of the spine and probable internal injuries.  [Death not apparently registered.]

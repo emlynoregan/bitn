@@ -21,6 +21,7 @@ topics:
 - protest
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Water.  There was an elaborate ‘funeral’ for an effigy of the NSW Minister of Mines, Francis Abigail, ending in the hanging and burning of the effigy before a crowd of some 6,000 at Broken Hill in protest at the water crisis.

@@ -23,6 +23,7 @@ topics:
 - race
 - pamphlet
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Chinese. The Record has a pamphlet published in Melbourne by L. Kong Meng, Cheok Hong Cheong and Louis Ah Mouy, which discusses the Chinese question in Australia and aims to check the unhealthy feelings arising from the late utterances of certain agitators.

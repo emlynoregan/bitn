@@ -36,6 +36,7 @@ topics:
 - community
 - show
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s held a Strawberry Fete at the Recreation Ground in aid of the building fund for a schoolroom to be erected for the church.  This was described as a novelty for Burra and involved many weeks of preparation.  It was opened by the Mayor, Mr W. West.  The fete consumed over 2 cwt of strawberries [Over 100 kg.], some gallons of cream and a quantity of sugar.  Several large tents were procured from Adelaide and the strawberry effort was supervised by Mrs J.M. McBride and her family.

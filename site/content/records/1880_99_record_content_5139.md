@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Art Union with 200 tickets at 5/- each.  65 prizes from £5-10-0 down now exhibited at the Institute.

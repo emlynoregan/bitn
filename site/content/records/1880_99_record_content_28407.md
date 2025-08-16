@@ -21,6 +21,7 @@ topics:
 - company
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Black George Mining Co. held a meeting at the Institute on Wednesday.  It seeks to mine a copper lode at the Black George Well, Redruth.  100 shares of £1 each are to be offered: paid to 5/- on allotment.

@@ -18,6 +18,7 @@ topics:
 - vandalism
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism.  The glass door of Mr Petherick’s shop was smashed on Tuesday night last.

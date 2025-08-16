@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Commercial St has been remetalled this week and loads of earth have been carted in to blind 

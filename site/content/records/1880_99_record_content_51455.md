@@ -21,6 +21,7 @@ topics:
 - music
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr Ernest M. Bennett resumes professional duties for the 4th Term 1893 at Kangaroo St from 2 October on Fridays & Saturdays: Violin, Viola, Violoncello, Piano, Harmony, Theory & Counterpoint.

@@ -18,6 +18,7 @@ topics:
 - sport
 - scoring
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [*At this stage points were not being counted so the drawn games in their favour means the two teams had the same number of goals, but Burra had scored more behinds.]

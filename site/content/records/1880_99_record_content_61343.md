@@ -30,6 +30,7 @@ topics:
 - trial
 - verdict
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The deceased had been found about 8’ from the bank of the Torrens east of the St Peter’s boatshed.  He was a male child aged 2-3, 26½ lb and 2’10” tall.

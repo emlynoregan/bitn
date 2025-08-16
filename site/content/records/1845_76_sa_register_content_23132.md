@@ -19,6 +19,7 @@ topics:
 - real estate
 - rental
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  Allotments facing the west side of Mintaro Railway Station are to let for a term expiring 6 April 1876.

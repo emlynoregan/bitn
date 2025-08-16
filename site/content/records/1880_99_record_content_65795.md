@@ -26,6 +26,7 @@ topics:
 - employment
 - ore dressing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Joseph Ford has secured a portion of the Burra Burra Mine property to the southeast of the railway station and has sunk a new shaft c. 30’.  Green and blue carbonate have been found and some nice deposits discovered.  Six men are employed.  ‘A well near the old mine office alongside the Redruth Road has been cleaned out and it is here the ore will be dressed.’  [Does this mean the Mine Store?]

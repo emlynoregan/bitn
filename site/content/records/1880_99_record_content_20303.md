@@ -21,6 +21,7 @@ topics:
 - election
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Election.  Redruth is in a quandary.  Either they vote for the former Councillor, or accept one from Kooringa.

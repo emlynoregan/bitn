@@ -22,6 +22,7 @@ topics:
 - death
 - partnership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Owing to the death of John Roach, senior partner in J. Roach & Sons, Miller, Aberdeen, the partnership has been determined and the surviving partners, John Roach Jun. & Henry Roach will carry on as Roach Bros.

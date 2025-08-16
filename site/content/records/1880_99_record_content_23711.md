@@ -21,6 +21,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Goldfields.  ‘A Wanderer’ believes that both Ulooloo and Teetulpa would be paying goldfields id adequately financed and properly developed.  He blames laziness for their failure along with the lack of a systematic and organised exploration program and development plan.

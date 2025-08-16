@@ -20,6 +20,7 @@ topics:
 - education
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We have had boisterous weather lately, and on Friday there was a heavy fall of snow and of snow, hail and rain mixed.  The snow has not yet disappeared.  It is charming in the morning to look at the snow clad hills, but it would be much pleasanter if there was less wind by three-quarters.

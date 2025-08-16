@@ -19,6 +19,7 @@ topics:
 - mining
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 By the end of the month we hope to have Bunce’s Shaft down far enough to crosscut east and west towards the lodes.

@@ -24,6 +24,7 @@ topics:
 - waterworks
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Deputation to Commissioner of Public Works.  The District Members, Hon. W.B. Rounsevell and Dr Cockburn waited on the Commissioner asking that the Government grant £150 to metal the road to the station.  The original Council road had been mistakenly fenced and incorporated into the station yard.  The commissioner agreed to look into the matter.  In response to the suggestion that the waterworks engine was too small to supply both the town and the railways the reply was that the railway had its own well that was sufficient and the engine was sufficient for the town, according to the Hydraulic Engineer.

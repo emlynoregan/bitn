@@ -23,6 +23,7 @@ topics:
 - hospital services
 - Sunday school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Annual Vestry Meeting on 21 April revealed that the year had seen 25 baptisms and no confirmations; though a confirmation service is scheduled for August.  The Sunday school has 107 scholars (56 girls and 51 boys) with 12 teachers.  The fund for a new schoolroom stood at £110.  Hospital services are regularly held.  The annual income was £359-16-0 and expenditure £343-4-8.  The building fund at 31 March was £94-18-0.

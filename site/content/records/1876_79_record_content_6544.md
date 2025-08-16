@@ -20,6 +20,7 @@ topics:
 - music
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Musical Union. Mr Loutit was elected conductor on the 2 June replacing Mr Cater who resigned due to pressure of work.

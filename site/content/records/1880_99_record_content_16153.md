@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - boundary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Sampson objected to any cost of the culvert in Chapel Street being charged to East Ward as the boundary was the centre of the road - the debate was adjourned.

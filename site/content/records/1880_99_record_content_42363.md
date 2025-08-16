@@ -21,6 +21,7 @@ topics:
 - development
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Holder has for long worked for the benefit of Burra.  Tree planting, which beautifies the town and the Jubilee Avenue are among his farsighted ventures.

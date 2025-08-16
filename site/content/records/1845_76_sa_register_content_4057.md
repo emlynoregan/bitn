@@ -29,6 +29,7 @@ topics:
 - settlement
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The Township of Mintaro. [Misspelled as Mintara] and lands in the Wakefield Survey, on the road from the Burra to Port Henry [later Pt Wakefield], at the head of St Vincent’s Gulf.  This township is now laid out, and as many purchases are being made, persons desirous of buying are requested to make early application.  This block of land on the Hill River, near Mr Robinson’s Station, is well adapted for an English or German settlement.  Terms are very liberal.  Apply to Henry Gilbert, Solicitor, Adelaide; J.W. Brown at Wren’s Hotel, Burra; and Messrs Young & Dakden on the Survey.  5 November 1849.

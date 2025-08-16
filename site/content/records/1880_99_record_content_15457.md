@@ -18,6 +18,7 @@ topics:
 - measles
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Measles is very common at present in Burra, but fortunately it is in a mild form.

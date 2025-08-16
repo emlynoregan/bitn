@@ -22,6 +22,7 @@ topics:
 - community
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Colonist’ writes to the editor to say that the merging of the positions of telegraph master and postmaster deserves consideration.  Also it would benefit country settlers if, as a service to the community, the daily shipping news and other public announcements could be transmitted each morning to each telegraph station.

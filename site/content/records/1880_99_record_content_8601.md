@@ -21,6 +21,7 @@ topics:
 - land
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.D. Cave pointed out that a small reserve in the N-W corner of Middle Ward had been enclosed by private persons and was producing no revenue.

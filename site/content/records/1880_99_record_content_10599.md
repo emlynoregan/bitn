@@ -21,6 +21,7 @@ topics:
 - opening
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Church’s new vestry was opened last Sunday.  Rev. S. Knight preached morning and afternoon with Rev. J.C. Hill in the evening.

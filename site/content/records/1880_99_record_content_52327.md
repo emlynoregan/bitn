@@ -19,6 +19,7 @@ topics:
 - health
 - inspection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He moved that the Inspector be instructed to see the suggestions of the Chief Inspector are carried out.  [Voting not reported.]

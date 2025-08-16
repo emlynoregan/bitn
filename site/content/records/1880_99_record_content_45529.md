@@ -23,6 +23,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Church held a social at the Institute on Wednesday night.  There were songs, music and views lent by Mr Roach along with four microscopes lent by Dr Brummitt.

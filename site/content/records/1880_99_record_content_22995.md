@@ -20,6 +20,7 @@ topics:
 - entertainment
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  There was a complaint that John Roach did not go through more than a fifth of the program that had been performed at the Burra young Men’s Union show, when he purported to do so after the Penny Readings on Saturday.  [They expected a lot for their penny!]

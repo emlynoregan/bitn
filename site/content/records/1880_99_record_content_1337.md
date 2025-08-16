@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - retail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drew & Co. has installed plate glass windows in their new shops.  The sheets, at 10’ x 7’ are probably the largest in the colony and are worth in total over £150.

@@ -19,6 +19,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Gillen moved on Wednesday that in the event of a change of ministry any new minister must go before his constituents for re-election.  We agree.  The Government, of course, opposes it.

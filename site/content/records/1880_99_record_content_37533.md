@@ -20,6 +20,7 @@ topics:
 - event
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  IOR, visit of District Officers and Delegates and Half-Yearly Council, Tuesday 19 August at 1 p.m.  A Procession of members will leave the Institute at 4.30 p.m. headed by the Burra Brass Band.  Public Tea in the Institute at 5 p.m., tickets 1/-: followed by addresses and musical items.

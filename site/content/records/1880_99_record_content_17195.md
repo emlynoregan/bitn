@@ -22,6 +22,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Leighton Wesleyan Church Anniversary was last Sunday and Monday with sermons by Rev. J.G. Wright and F.W. Holder, to large congregations.

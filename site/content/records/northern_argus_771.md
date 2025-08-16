@@ -20,6 +20,7 @@ topics:
 - road
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Sealing the Burra-Hanson Section of the Barrier Highway is proceeding steadily.

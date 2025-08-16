@@ -21,6 +21,7 @@ topics:
 - hospital
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  An Aboriginal boy, Billy Button was admitted to the Burra Hospital from Terowie, having broken his thigh in a fall from a horse.

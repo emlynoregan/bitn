@@ -22,6 +22,7 @@ topics:
 - crime
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Henry Becker who recently exhibited the Cosmorama in Burra has been held in Adelaide charged with quitting the province with intent to defraud his creditors.

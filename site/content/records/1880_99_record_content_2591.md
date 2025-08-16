@@ -20,6 +20,7 @@ topics:
 - disorder
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism and the New Year.  ‘Y’ writes complaining of the senseless larrikinism with its defacing chalk marks, property damage and hideous noises.

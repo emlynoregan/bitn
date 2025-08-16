@@ -36,6 +36,7 @@ topics:
 - legal
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Henry King, Robert Houghton, Alexander Mayne and William Dreyer were indicted for ravishing Ann Perry on 22 January at the Burra Survey.

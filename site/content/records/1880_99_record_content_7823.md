@@ -19,6 +19,7 @@ topics:
 - mining
 - company_registration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Application for the Apoinga Copper Mining Co. to be registered by James Simpson Scott, Manager, 15 September 1882.

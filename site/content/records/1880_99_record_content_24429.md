@@ -19,6 +19,7 @@ topics:
 - roads
 - flooding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board.  When the ford at Baldina Creek was built it was 9 feet above the level of the bed on the upstream side and it is now silted up above the level of the ford and will thus always be a problem after a flood.

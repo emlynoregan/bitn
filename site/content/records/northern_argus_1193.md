@@ -21,6 +21,7 @@ topics:
 - awards
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Jenny O’Connor & O’Connor’s Tours were successful in the Regional Tourism Awards announced last week.

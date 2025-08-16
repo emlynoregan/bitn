@@ -18,6 +18,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Bible Christian Chapel at Hallett opened on 29 July

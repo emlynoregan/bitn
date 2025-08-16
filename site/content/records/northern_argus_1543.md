@@ -20,6 +20,7 @@ topics:
 - police
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Accident.  A 36-uear-old male from Hanson faces a number of charges after driving head-on into a police vehicle in Commercial Street.  He failed to stop and was apprehended at Hanson and then refused a breath analysis test.

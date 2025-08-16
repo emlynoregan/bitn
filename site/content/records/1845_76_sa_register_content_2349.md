@@ -22,6 +22,7 @@ topics:
 - transport
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Another of W.W.G. Nicholls’ advertisements confirms that the Reformer continues to take people to the Burra Burra Mines for £1 and to Bagot’s Mines for 10/-.  He also has two drays, which will travel 25 miles a day to any part of the colony.

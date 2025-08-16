@@ -20,6 +20,7 @@ topics:
 - proclamation
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [It was proclaimed the H. of Rees on the 18 September 1879: named after Rowland Rees MP 1840-1904.]

@@ -22,6 +22,7 @@ topics:
 - fundraising
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Recreation Ground Concert last Tuesday in the Institute grossed £14.  The Burra Band played some nice selections outside.

@@ -21,6 +21,7 @@ topics:
 - licensing
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Templar, The North Star, Great North Road.

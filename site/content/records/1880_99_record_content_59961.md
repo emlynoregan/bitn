@@ -22,6 +22,7 @@ topics:
 - company
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Gold Mining Syndicate met at the Royal Exchange Hotel on Thursday with B. Butterworth as chairman.  W.T. Rabbich, Secretary, reported on activities.  It was decided the mine was worth fuller development and a call of £3 per share was decided upon.  Both the secretary and chairman resigned because they were leaving the district.

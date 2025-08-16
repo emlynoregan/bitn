@@ -22,6 +22,7 @@ topics:
 - racing
 - schedule
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Races have been set down for 7 February 1900 with those at Clare on 17 January, Martindale on 24 January and Kapunda on 31 January.

@@ -20,6 +20,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Sunday School Anniversary was held on Easter Sunday & Monday with services by Rev. R.H. Lee (Bible Christian). The children’s and public teas were on Monday.  Proceeds were up on the previous year.

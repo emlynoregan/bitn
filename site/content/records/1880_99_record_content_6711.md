@@ -20,6 +20,7 @@ topics:
 - housing
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  To let. A.H. Forder’s house opposite the police station Redruth.  7 rooms.

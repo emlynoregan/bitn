@@ -21,6 +21,7 @@ topics:
 - baptism
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bishop responded, addressing the gathering of about 300 persons.

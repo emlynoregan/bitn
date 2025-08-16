@@ -21,6 +21,7 @@ topics:
 - survey
 - shareholders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  SA Mining Association. The twenty-seventh dividend of 100% has been declared by the Directors and will be paid to the shareholders on 4 June.

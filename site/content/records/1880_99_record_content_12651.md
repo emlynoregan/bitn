@@ -22,6 +22,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.C. Hill will preach a farewell sermon at Kooringa on Sunday morning and at Redruth Sunday evening.

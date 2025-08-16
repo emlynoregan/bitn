@@ -25,6 +25,7 @@ topics:
 - organization
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 President, Rev. S. Knight; Vice-Presidents, Rev. J.G. Wright, J. Pearce, J.C. Hill, F.W. Holder; Treasurer & Secretary, J. Hosking.

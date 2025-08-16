@@ -18,6 +18,7 @@ topics:
 - events
 - postal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Valentines.  Only 2-300 valentines passed through the Adelaide P.O. this year.

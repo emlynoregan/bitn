@@ -22,6 +22,7 @@ topics:
 - agriculture
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Elders will show an historic film of a Burra Market sheep sale

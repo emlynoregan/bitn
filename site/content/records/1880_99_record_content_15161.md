@@ -18,6 +18,7 @@ topics:
 - event
 - official
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To be opened by the Mayor, Dr Brummitt.

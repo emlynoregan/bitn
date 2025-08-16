@@ -24,6 +24,7 @@ topics:
 - association
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Adelaide, 17th October, 1948.

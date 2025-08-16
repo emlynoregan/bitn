@@ -20,6 +20,7 @@ topics:
 - farewell
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc.  Several members attended on Friday despite bad weather.  They concluded by singing Auld Lang Syne to Mr Maggs who is leaving the district.

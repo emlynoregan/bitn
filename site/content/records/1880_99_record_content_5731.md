@@ -21,6 +21,7 @@ topics:
 - death
 - infant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  At Redruth on 13 December, Devereux Spencer Packard, infant son of D. Spencer Packard.  [Born 18 August 1881]

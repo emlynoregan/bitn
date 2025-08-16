@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The next quarter for Mrs Henry Chambers Young Ladies' School, Kooringa, will commence 25 June.

@@ -19,6 +19,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson Methodist Church saw a large number of visitors on Good Friday for the Harvest thanksgiving tea and public meeting.  About £7 was raised.

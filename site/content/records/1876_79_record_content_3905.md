@@ -19,6 +19,7 @@ topics:
 - resignation
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Goyder resigns as Surveyor General. He will be most difficult to replace.

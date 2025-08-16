@@ -18,6 +18,7 @@ topics:
 - sport
 - schools
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 24 May, Commercial School Boys 1.5 defeated Model School Boys 0.7

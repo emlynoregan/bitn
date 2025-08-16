@@ -20,6 +20,7 @@ topics:
 - entertainment
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Herr Kohler, the musical celebrity, has been performing here at the Burra Hotel on Monday and Tuesday evenings.  There was a good attendance on Monday, but a smaller one on Tuesday.  Kohler gave performances on the cornopean, flageolet, concertina, tin whistle and bush piano.  [The first two named are a cornet and a type of recorder respectively.]

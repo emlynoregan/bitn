@@ -23,6 +23,7 @@ topics:
 - community
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 W.H. Opie, the mail driver on the Kadina Road, was given a testimonial at the Freemason’s Tavern in Adelaide in acknowledgement of his past services.  He had first driven to the Peninsula ten years ago when travel there was very difficult.  Horses were often knocked up and vehicles smashed.  Mr Opie had never been seen to get out of temper with man or beast.  He was presented with a silver tea and coffee service of seven pieces and a purse of money.  Mr Opie returned thanks.  Toasts songs and recitations followed.

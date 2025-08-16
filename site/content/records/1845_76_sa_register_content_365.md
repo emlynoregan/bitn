@@ -19,6 +19,7 @@ topics:
 - ore
 - shares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Mine.  Since the commencement of operations ores to the value of £5,000 or half the cost of this half of the Special Survey have been raised at the Burra Burra Mine.  The £5 shares are currently valued at £30 and few have been prepared to sell even at that price.

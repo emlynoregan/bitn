@@ -21,6 +21,7 @@ topics:
 - appointments
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Warnes, owing to continued ill health, has been compelled to resign as Chairman of the Mt Bryan DC.

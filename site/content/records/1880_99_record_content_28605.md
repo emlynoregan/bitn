@@ -20,6 +20,7 @@ topics:
 - immigration
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Chinese question.  Six months ago it was simply proposed across Australia to regulate the inflow of Chinese by use of a poll tax, now it is determined by all the colonies to absolutely prohibit it.  Nor is it to be wondered at when there were signs of the opening of the floodgates.  Under such circumstances ‘reason and political economy must stand aside and the general sentiment expressed in the words “No Chinese” must rule.’

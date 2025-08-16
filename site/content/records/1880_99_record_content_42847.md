@@ -25,6 +25,7 @@ topics:
 - prison
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M-C Robert Hamilton Mack said on the night of the 22 Oct. the deceased was found in an unoccupied house near the Burra Creek and brought to the station by M-C O’Callaghan, in a filthy state and next morning was charged with having no lawful or visible means of support and was sentenced to one month hard labour.  Mack took him to the gaol about 12.45 p.m.  On the way he complained several times of shortness of breath.

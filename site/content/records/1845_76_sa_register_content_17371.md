@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday a cricket match between Clare and Burra Clubs took place on the flat at Aberdeen.  The Clare team were at a disadvantage in fielding with only 8 players, but three were allowed to bat twice in place of the absent.  Burra 54 defeated Clare 35 & 18.  A scratch match was then played, which was also won by Burra.  Dinner followed at the Miners’ Arms.  A return match will be played at Clare on 30 April.

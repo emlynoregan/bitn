@@ -26,6 +26,7 @@ topics:
 - military
 - volunteer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: The volunteer movement in SA was under way with c.800 men signed up, mainly in Adelaide. The Govt. plan was for a force of 1000. Adelaide to have 100 artillerymen, 420 infantry rifles and 60 mounted rifles. Wallaroo; 80 infantry riflemen and 40 artillerymen. Five other country areas to have 60 infantry riflemen each, i.e. Gawler, Kapunda, Burra, Saddleworth/Clare & Goolwal/Strathalbyn. At Burra there was a large attendance at a meeting on 15 May at which over 70 signatures were obtained and a committee formed to formalise a list for transmission to headquarters.

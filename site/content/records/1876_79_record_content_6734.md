@@ -25,6 +25,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water tabling has been completed as ordered except for some in Market Square - which has been delayed by building operations. Also continuing around the Bank of Australasia in Aberdeen, at Ayers St and near Broad's [i.e. the Aberdeen Hotel] and the water trough. The footbridge opposite the Hospital is almost finished.

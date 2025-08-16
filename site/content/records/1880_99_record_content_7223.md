@@ -19,6 +19,7 @@ topics:
 - terms
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Terms for the use of the Kooringa Recreation Ground.

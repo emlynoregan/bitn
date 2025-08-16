@@ -20,6 +20,7 @@ topics:
 - charlatan
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Dr Berncastle has been in Kooringa and his visit created much excitement.  At Least £100 was paid by those seeking his particular expertise.  So far only one of his patients seems to have benefited from his skills.

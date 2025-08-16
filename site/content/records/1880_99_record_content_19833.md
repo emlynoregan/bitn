@@ -21,6 +21,7 @@ topics:
 - event
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  A carefully organised sham fight took place near Marino last Monday when all branches of the SA Military Force took part, including the Protector.  47 members of Burra Co. RVF attended.  Private Mayger fell on a steep hill and broke a rib.  The manoeuvres went well.

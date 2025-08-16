@@ -25,6 +25,7 @@ topics:
 - shearing
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. M. Wilson preached special sermons on Sunday on behalf of Wesleyan Missions and promoted the same cause at a public meeting on Monday and to young people on Tuesday.

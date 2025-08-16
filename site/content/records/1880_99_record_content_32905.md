@@ -22,6 +22,7 @@ topics:
 - vandalism
 - councillor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Law Breaker’ particularly annoyed that one of the Councillors is among those whose cattle roam the streets at night destroying trees.  [See W.T. Rabbich in the Court case on the previous page.]

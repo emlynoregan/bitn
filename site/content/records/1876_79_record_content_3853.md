@@ -19,6 +19,7 @@ topics:
 - music
 - recitation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The annual festival of song and recitation by the Rose of Sharon Tent IOR will be held at the Institute on 17 April. 2/

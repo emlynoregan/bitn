@@ -19,6 +19,7 @@ topics:
 - health
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison.  The Government is restricting the sale of ‘Rough on Rats’: not before time given the cases of poisoning by its agency.  [Both murders and suicides as well as accident.]

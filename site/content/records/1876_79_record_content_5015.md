@@ -21,6 +21,7 @@ topics:
 - harbour
 - planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Outer Harbour. The Commission appointed to consider a site for an Outer Harbour for Adelaide have recommended the development of Largs Bay.

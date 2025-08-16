@@ -17,6 +17,7 @@ topics:
 - community
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trifle!  Somewhat cryptic remarks in the ‘Sparks’ column, extending for several weeks suggest that there was a debate in the town over whether members of the Rechabite Lodge [i.e. Teetotallers] could legitimately consume a trifle for dessert at a dinner.

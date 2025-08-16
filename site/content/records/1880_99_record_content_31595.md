@@ -20,6 +20,7 @@ topics:
 - business
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  Captain Deeble has been in Burra for several days re the transfer of the mine to its new owners.  Hopes for an early restart are entertained.

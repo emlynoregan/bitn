@@ -19,6 +19,7 @@ topics:
 - labour
 - shearing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the move to remove the power of the middlemen in the shearing industry.

@@ -20,6 +20,7 @@ topics:
 - cricket
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At the Burra Oval Burra 169 defeated Spalding-Belalie 35 & 0 for 29.

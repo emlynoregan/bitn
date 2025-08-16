@@ -18,6 +18,7 @@ topics:
 - bridge
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Two approaches to the bridge in Aberdeen are to be made.

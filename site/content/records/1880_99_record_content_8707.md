@@ -20,6 +20,7 @@ topics:
 - church
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bishop Benson of Truro is to be the next Archbishop of Canterbury.

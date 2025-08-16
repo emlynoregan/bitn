@@ -20,6 +20,7 @@ topics:
 - death
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To the cemetery which needs enlarging as about 100 more graves will fill the present site.

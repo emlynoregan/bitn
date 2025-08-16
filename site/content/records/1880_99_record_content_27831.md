@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader is a discussion of the town’s waterworks.  The editor favours the Council retaining control, but doubts whether they can be made economic under present circumstances.  Further information is needed before a decision.

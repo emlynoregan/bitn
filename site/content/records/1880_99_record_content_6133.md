@@ -21,6 +21,7 @@ topics:
 - business
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  John Sampson Jun. will conduct a clearing sale for Joseph Roberts who is leaving the district. On 26 January, on the premises at Mitchell’s Flat.

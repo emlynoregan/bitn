@@ -17,6 +17,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Parliament.  There is talk of a model Parliament for winter evenings.

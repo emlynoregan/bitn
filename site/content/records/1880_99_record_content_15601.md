@@ -23,6 +23,7 @@ topics:
 - court
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Patrick Hennessy was charged with stealing two £5 notes from the coat pocket of J. Crawford at Gum Creek shearing shed on 10 November.

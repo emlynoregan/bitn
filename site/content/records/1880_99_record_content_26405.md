@@ -20,6 +20,7 @@ topics:
 - anniversary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Primitive Methodist Church anniversary on 25 & 26 Sep. was the occasion of some impressive preaching by Mrs Tassel.  The public tea was not largely patronised, but the following meeting was.

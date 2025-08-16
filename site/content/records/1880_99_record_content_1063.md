@@ -19,6 +19,7 @@ topics:
 - railway
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Yarcowie complains that only £100 is left to provide for its railway station.

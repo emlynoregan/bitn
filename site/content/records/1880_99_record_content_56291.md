@@ -20,6 +20,7 @@ topics:
 - safety
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  The good qualities of a Rochester Lamp were demonstrated at Bath & Pearce’s store on Saturday when one fell from the ceiling to the floor and immediately extinguished itself.  An ordinary lamp would have produced serious results.

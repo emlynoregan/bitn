@@ -20,6 +20,7 @@ topics:
 - land
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Ridgway moved that the offer of the Reserve in Aberdeen be not accepted.  [After discussion the outcome of this is not clear.]

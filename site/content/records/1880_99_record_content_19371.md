@@ -19,6 +19,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Season.  Rains again have lifted the crops and the improvement locally is very marked.

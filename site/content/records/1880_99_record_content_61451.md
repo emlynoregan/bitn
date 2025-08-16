@@ -22,6 +22,7 @@ topics:
 - identification
 - purchase
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Augusta Werner, store assistant of Robertstown bought stamps worth 3/8 from Emsell and a model ship for 3/-.  [Later in the sentence it says ‘he bought’, so this was probably August Werner.]

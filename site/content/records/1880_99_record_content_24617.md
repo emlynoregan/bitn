@@ -19,6 +19,7 @@ topics:
 - agriculture
 - produce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P.L. Killicoat has produced some fine peaches at Abberton Park, up to 5 oz.

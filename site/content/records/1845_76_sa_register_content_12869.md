@@ -23,6 +23,7 @@ topics:
 - obituary
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Henry D. Jenkin, who was hurt by a fall of earth a few weeks ago at the Mine, died last week, having suffered internal injuries.  He was much respected among miners and Oddfellows who followed his remains to the grave in great numbers.

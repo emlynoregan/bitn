@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. F. Bromley advises he has removed to new premises lately occupied by Mr Ohlmeyer; having bought the latter's butchering business.

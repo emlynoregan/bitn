@@ -19,6 +19,7 @@ topics:
 - weather
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  On Saturday morning soon after midnight rain fell heavily for several hours.  The creek that crosses Commercial St got to within 6” of the bottom of the bridge and the main creek was the highest for a long time.  Flooding was bad at Booborowie.  The total fall for the week was 4.07”

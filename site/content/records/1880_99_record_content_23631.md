@@ -22,6 +22,7 @@ topics:
 - visit
 - confirmation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s.  The Right Reverend C.A. Reynolds, Bishop of Adelaide, will visit on 24 October for confirmations.

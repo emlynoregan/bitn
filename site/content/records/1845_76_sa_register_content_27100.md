@@ -35,6 +35,7 @@ topics:
 - fire
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Inquest into Fire at Kooringa.  J.D. Cave JP conducted an inquest on 19 January into the fire at Mr T. Clark’s chaff-house.

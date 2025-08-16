@@ -20,6 +20,7 @@ topics:
 - meeting
 - cycling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bike Race.  All interested in the 50 mile bike race are called to a meeting at the Royal Exchange Hotel tomorrow night.

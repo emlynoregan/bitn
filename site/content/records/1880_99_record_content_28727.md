@@ -20,6 +20,7 @@ topics:
 - military
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Colonel Owen, late Brigadier-General of the SA forces, has been appointed to the defences at Portsmouth.

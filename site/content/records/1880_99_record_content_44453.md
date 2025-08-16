@@ -20,6 +20,7 @@ topics:
 - entertainment
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Stacey Comedy Co. will appear at the Institute 26 February in the most successful comedy: The Widow.

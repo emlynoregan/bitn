@@ -24,6 +24,7 @@ topics:
 - obituary
 - colonist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Thomas Paynter died on 26 July at the residence of his sister, Mrs N. Opie, Redruth.  He was the eldest son of the late John Paynter of Bealler’s Row, Redruth, Cornwall.  He was aged 64 and a colonist of 40 years.

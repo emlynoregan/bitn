@@ -33,6 +33,7 @@ topics:
 - inquest
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Suicide.  William Peters, who had been engaged in the search for the missing Hilton boy, was found to have committed suicide; his body being found in a house with his head almost severed from his body.  An inquest will be held tomorrow.

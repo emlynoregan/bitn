@@ -24,6 +24,7 @@ topics:
 - railway
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The new railway lines from Jamestown to Petersburg and Hallett to Terowie will be opened on 14 December when the Commissioner of Public Works will leave Adelaide by special train and arrive at Terowie about noon.  He will then drive to Petersburg and proceed to Jamestown by train.

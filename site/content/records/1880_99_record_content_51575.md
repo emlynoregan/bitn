@@ -22,6 +22,7 @@ topics:
 - parliament
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 State Education.  There is a move in Parliament by Mr Giles to charge the full cost of education in State Schools for those attending after the compulsory standard.  It is a move intended to establish private sectarian schools – it would also impair the efficiency of country schools and see a drift to the city.  Debate has been adjourned to 15 November.

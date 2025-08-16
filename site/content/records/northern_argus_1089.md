@@ -23,6 +23,7 @@ topics:
 - course
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Notice.  Clare Campus of Light College of TAFE will offer Advanced Cake Decoration at Burra, conducted by Maxine Halliday of Adelaide at BCS Home Economics Centre on 20 April.

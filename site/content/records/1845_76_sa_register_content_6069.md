@@ -24,6 +24,7 @@ topics:
 - livestock
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The SA Mining Association calls for tenders by 15 May for renting the new Public Slaughterhouse at Kooringa.  The tenant will have the right to terminate the tenancy at any time on two months’ notice and must abide by the rules that may from time to time be made to regulate the operations of the slaughterhouse.  The tenant will be at liberty to impose charges not exceeding:

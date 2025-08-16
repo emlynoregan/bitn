@@ -38,6 +38,7 @@ topics:
 - industry
 - town description
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rough Notes on a Journey Northwards

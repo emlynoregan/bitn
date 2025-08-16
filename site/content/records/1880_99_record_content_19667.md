@@ -22,6 +22,7 @@ topics:
 - exercise
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  It is expected helmets will arrive in time for the exercise.  Those going to Adelaide on 9 Nov. are to give their names to the Captain by tomorrow so water bottles and haversacks can be issued.

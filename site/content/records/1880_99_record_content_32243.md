@@ -19,6 +19,7 @@ topics:
 - licence
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A new By-law was carried requiring an annual licence for hawkers except for the sale of butter, bacon, eggs, milk and poultry, wood or hay.  Corporation ratepayers are exempt.

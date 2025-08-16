@@ -22,6 +22,7 @@ topics:
 - obituary
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Elizabeth Killingbeck, wife of William Killingbeck, died 20 July at Plympton of cancer aged 62.

@@ -19,6 +19,7 @@ topics:
 - community
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Lake MP was glad to be there even at some personal inconvenience and he endorsed what was said of Mr Holder’s great ability to work hard as far as his Parliamentary role was concerned as well.

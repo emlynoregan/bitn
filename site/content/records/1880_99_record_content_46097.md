@@ -21,6 +21,7 @@ topics:
 - council
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows are a real nuisance and at the next meeting of the Burra DC Mr W. Killicoat will move that the Council take action to abate the sparrow nuisance.

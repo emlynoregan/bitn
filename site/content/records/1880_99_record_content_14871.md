@@ -22,6 +22,7 @@ topics:
 - advertisement
 - mail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Quondong Mail.  William Midwinter will run a mail trap between Kooringa and Quondong conveying passengers and parcels, leaving Young’s Hotel every Friday at 1 p.m.  Leaving Quondong Monday 9 a.m. and arriving Kooringa Wednesday at 3 p.m.

@@ -19,6 +19,7 @@ topics:
 - legal
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Town Clerk reported that the Bonds could not be touched without the consent of the parties concerned.

@@ -20,6 +20,7 @@ topics:
 - theft
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Grace Everett has been charged with the theft of a large basket of washing from the home of Charles Schutz.  The basket and clothes were found in her house.

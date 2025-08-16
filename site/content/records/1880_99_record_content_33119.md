@@ -19,6 +19,7 @@ topics:
 - forestry
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  The free distribution of trees by the Forest Dept. has been suspended for the year.  About 400 trees have been planted in Burra this year.

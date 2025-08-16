@@ -20,6 +20,7 @@ topics:
 - land
 - enforcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Crown Lands Rangers have created a great disturbance locally by clearing the Mt Bryan Run of wood cutters and carters and squatters.  On Tuesday 8 February 38 appeared in court where 35 were fined; the cutters and carters £2 each plus costs and the squatters 5/- each plus costs.  This action under the Waste Lands Act offers the sheep farmers great protection, especially in a place like Burra where fuel is so in demand.

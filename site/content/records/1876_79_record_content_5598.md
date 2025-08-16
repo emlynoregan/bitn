@@ -25,6 +25,7 @@ topics:
 - roads
 - local council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Deputation to Govt. Kingston Street Bridge. There was a deputation to the Hon. T. Playford, Commissioner of Crown Lands, on 27 Dec., comprising Dr Nesbitt (Mayor), Cr Batchelor & F.W. Holder. They sought a Govt. subsidy for expenditure on the Kingston St Bridge approaches. The line of road in question was formerly [though the paper says formally] on the schedule of main roads, but was taken off.  The approach would cost £450. Purchase of land	£175

@@ -24,6 +24,7 @@ topics:
 - missions
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wesleyan Foreign Missions will feature Rev. Dr Kelynack of Sydney at Redruth & Kooringa 6 May and a lecture on missions in the Kooringa Wesleyan church on 7 May.

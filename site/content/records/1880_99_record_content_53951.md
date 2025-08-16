@@ -21,6 +21,7 @@ topics:
 - cycling
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Race.  A meeting on Saturday 2 June at Aberdeen decided to hold a 20 mile bicycle road race on 20 June to Mt Bryan and back.  To start at Drew & Crewe’s.  16 entrants are expected to compete for a gold medal.

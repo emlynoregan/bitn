@@ -20,6 +20,7 @@ topics:
 - election
 - community_notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Electoral Notice.  [John W. Tyler issues a notice advising his acceptance of the call to stand as the representative of Burra and Clare.]

@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Sunday School Anniversary next Sunday.  Rev. T.M. Flood, Rev. Thomas Theobald (Primitive Methodist) and Rev. W.A. Langsford (Wesleyan) will preach.  Public tea meeting Monday.

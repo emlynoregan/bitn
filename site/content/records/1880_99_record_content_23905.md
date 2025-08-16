@@ -23,6 +23,7 @@ topics:
 - railway
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Tramway Co.  Consent to build in NSW was granted 14 October.  It is to run from the SA border, via Silverton to Broken Hill.  The director, Jenkin Collier is in Adelaide arranging the supply of sleepers and other material.

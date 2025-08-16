@@ -22,6 +22,7 @@ topics:
 - drapery
 - millinery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Edwards & Co.	Drapery, Millinery, Clothing, Commercial St next to T. Kitchen

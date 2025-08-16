@@ -18,6 +18,7 @@ topics:
 - migration
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Migration.  At Pt Adelaide last week there were 418 departures and 277 arrivals.

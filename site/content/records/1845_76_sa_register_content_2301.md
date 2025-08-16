@@ -20,6 +20,7 @@ topics:
 - admission
 - pricing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hindley-street, Adelaide

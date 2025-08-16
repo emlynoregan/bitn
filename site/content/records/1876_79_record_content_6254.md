@@ -19,6 +19,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Primitive Methodist picnic in the Police Paddock was well attended and the good weather made for a great success.

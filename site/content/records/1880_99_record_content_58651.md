@@ -29,6 +29,7 @@ topics:
 - election
 - candidates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich trotted around the hall relieving himself of a whisper to one and then another.  When he said he had often run away from his tea to get to a Council meeting it could not be swallowed by the audience.  ‘Whoever heard of the infatuated Tom shying clear of good things to eat.  Not Much!’

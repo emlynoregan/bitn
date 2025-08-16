@@ -20,6 +20,7 @@ topics:
 - court
 - fines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The police reported the case to Inspector Gray of a trap left with unchained wheel – that of John Robinson Gray – with the result that the Inspector summonsed himself and was fined 2/6 + 5/- costs!

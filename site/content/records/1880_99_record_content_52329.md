@@ -21,6 +21,7 @@ topics:
 - inspection
 - meat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 With pleuropneumonia around Cr Linkson was concerned to find out whether all meat killed outside the Corporation area is inspected.  To be investigated.

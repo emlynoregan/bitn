@@ -22,6 +22,7 @@ topics:
 - death
 - infant mortality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A child aged 13 months died at the Burra Railway Station on Tuesday morning 29 April while the mother, Mrs White, was bringing it in for medical advice.

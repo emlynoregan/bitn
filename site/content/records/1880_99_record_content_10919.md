@@ -19,6 +19,7 @@ topics:
 - railway
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Station.  The new railway station is now complete and has been passed.  A pity that when the new asphalting was being done the old area was not re-laid.  The bank in front of the station also needs cutting back to allow more room.

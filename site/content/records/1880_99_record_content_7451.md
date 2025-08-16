@@ -21,6 +21,7 @@ topics:
 - business
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Samuel Drew & Co. want 200 teams to cart wool from the N-E to Burra and Terowie stations.

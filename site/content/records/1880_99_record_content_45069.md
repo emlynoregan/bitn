@@ -21,6 +21,7 @@ topics:
 - competition
 - hunting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 G.A Wittwer came 1st, Irlam & Kelow tied for 2nd (36 each) and 4 tied for 3rd (20 each).

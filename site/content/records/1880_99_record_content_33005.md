@@ -25,6 +25,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Church.  The opening services of the new building were interfered with last month by the heavy rain and were therefore continued on 30 June when Dr J.R. Stephens of Mongolata preached two sermons.  The tea meeting on Wednesday was largely attended.  John Lane took the chair and described how services began some years ago in the neighbourhood.  The expenditure had been about £100, exclusive of some gifts and a large amount of free labour and cash receipts had totalled about £80.

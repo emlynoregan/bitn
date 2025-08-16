@@ -27,6 +27,7 @@ topics:
 - transportation
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Cobe [sic: Cobb] & Co.’s new six-horse stage coaches: No. 2 The New Telegraph Line will leave Adelaide and the Burra Burra every Monday at 7.30 a.m. and Wallaroo every Friday at 8 a.m. commencing 25 Match.  Passengers travel by train to Gawler and Kapunda.  Fares for either line £2.

@@ -22,6 +22,7 @@ topics:
 - business
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Mr J.A. Bruce (late of the Burra Copper Works, Kooringa), assayer and analytical chemist, Leigh Street, Adelaide.

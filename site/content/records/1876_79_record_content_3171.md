@@ -22,6 +22,7 @@ topics:
 - advertisement
 - accounts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. John Sampson has purchased the whole of the book debts of J.G. Terry and G. Hill of Aberdeen, Late Mail Contractors. Requests settlement of accounts within 21 days.

@@ -19,6 +19,7 @@ topics:
 - agriculture
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There is a shortage of shearers for this season and some stations have only just commenced operations.

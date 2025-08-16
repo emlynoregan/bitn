@@ -20,6 +20,7 @@ topics:
 - farewell
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Valedictory Meeting for Mr G. Anderson, who is leaving the district for Broken Hill.  He was thanked for his work with the Bible Christian Church and Sunday School and was given a copy of Farror’s Life and Work of St Paul.

@@ -24,6 +24,7 @@ topics:
 - crime
 - postal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Chamberlain, postmaster at Mt Bryan sent for trial in Adelaide charged with unlawfully tampering with a certain letter posted by James Gray at Terowie P.O. addressed to ‘Hotel keeper at Mount Bryan’.

@@ -20,6 +20,7 @@ topics:
 - survey
 - compensation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways. The Hallett railway is to be continued with day labour. The line north of Hallett is being surveyed just inside private holdings at a great cost [in compensation] when a travelling stock route which is equally suited runs alongside.

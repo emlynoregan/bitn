@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Floricultural Society. The meeting on Friday resolved to form a society. Despite the lateness in the season it has been decided to hold a show on Boxing Day.

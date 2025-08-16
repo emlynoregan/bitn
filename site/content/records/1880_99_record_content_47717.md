@@ -19,6 +19,7 @@ topics:
 - arts
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J.A. Pearce has produced two fine watercolours we have seen.  He is only 19.

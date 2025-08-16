@@ -20,6 +20,7 @@ topics:
 - funding
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Board has asked the Government for £2,000 to spread road metal.

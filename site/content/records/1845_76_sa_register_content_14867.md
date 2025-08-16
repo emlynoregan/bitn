@@ -21,6 +21,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Springbank Primitive Methodist Chapel conducted its anniversary services last Sunday.  In the afternoon Rev. J.D. Whittaker preached in the open air as the chapel was far too small to accommodate the congregation.  In the evening there was a full attendance when Mr J. Paull preached.  The following day’s tea meeting was also well attended.

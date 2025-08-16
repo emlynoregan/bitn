@@ -20,6 +20,7 @@ topics:
 - water
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council debated the water charges for the Aberdeen Reserves.  Two reserves have water meters and W.R. Ridgway must have used some of the water.  The question was should he be charged for half of the 8,000 gallons?  Because he looks after the reserve at some trouble and gets use from it for a garden in the end it was decided to charge him for 4,000 gallons.

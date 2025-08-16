@@ -22,6 +22,7 @@ topics:
 - economy
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Moonta and Wallaroo Miners are to have their pay reduced on the understanding that a reduction will be made right through the Wallaroo and Moonta Mining and Smelting Co.

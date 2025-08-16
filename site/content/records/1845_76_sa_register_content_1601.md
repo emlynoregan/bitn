@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A number of stores and well-constructed rooms and lofty cottages form the Mining Association township of Cooringa [sic] where one may see the walls of the most spacious hotel yet undertaken in the province and a Wesleyan Chapel is also being built, together with rooms for a day and Sabbath School.

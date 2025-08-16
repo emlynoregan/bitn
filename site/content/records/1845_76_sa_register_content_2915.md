@@ -21,6 +21,7 @@ topics:
 - legal
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 We confess ourselves unable to account for this undignified and somewhat puerile act of retaliation.

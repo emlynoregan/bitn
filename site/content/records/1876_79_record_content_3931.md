@@ -27,6 +27,7 @@ topics:
 - meetings
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. met on Friday as usual with Rev. R.W. Campbell in the chair and it was resolved to continue to meet at the old place for three months to gauge support before considering any change. President, Rev. R.W. Campbell; Vice Presidents, T. Kitchen, F.W. Holder, J. Cater, and Dr. Brummitt; Treasurer H. Anderson; Sec. C.F. Husbands.

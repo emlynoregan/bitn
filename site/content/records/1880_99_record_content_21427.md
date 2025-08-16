@@ -20,6 +20,7 @@ topics:
 - art
 - theatre
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  There is an outline of the Flower Queen Cantata.  The scenery has been painted by William Bentley.

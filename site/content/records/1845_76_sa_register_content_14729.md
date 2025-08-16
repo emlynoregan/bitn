@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for the erection of a branch bank for the National Bank of Australasia at Kooringa.  Plans and specifications may be seen at the offices of G. & E. Hamilton, Architects or on application to the Manager of the Branch Bank at Kooringa.

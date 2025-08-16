@@ -20,6 +20,7 @@ topics:
 - police
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Thomas Kines charged with riotous conduct `calculated to provoke a breach of the peace' outside the Wesleyan Church where youths were jostling and annoying people leaving service. Fined £1

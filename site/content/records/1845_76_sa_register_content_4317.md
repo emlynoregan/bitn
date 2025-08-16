@@ -24,6 +24,7 @@ topics:
 - land sale
 - township
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Township of Greenock.  This township, now being laid out, commands the leading lines of transport from Angaston, Wheal Darton and Kapunda.  Applications for allotments to be made to Mr Forster at Greenock Creek.

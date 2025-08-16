@@ -23,6 +23,7 @@ topics:
 - community
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A Monster Picnic and Grand Athletic Sports will be organised by the Rose of Shannon Tent IOR for Boxing Day at Princess Royal.  It will be followed in the evening by a concert at the Institute.

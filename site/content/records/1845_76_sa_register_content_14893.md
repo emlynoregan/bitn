@@ -24,6 +24,7 @@ topics:
 - found
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The lost boy was found this morning at Princess Royal, about seven miles from home, having been two days and two nights without food or shelter.  He was brought in by a man named Martin and was hailed by a vast number of people assembled to witness his happy return.

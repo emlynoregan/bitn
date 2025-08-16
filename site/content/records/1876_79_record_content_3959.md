@@ -21,6 +21,7 @@ topics:
 - road
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 District Council of Burra accepts Jeffrey Pearce's tender for cutting the Nankivell's Gully road for £569.

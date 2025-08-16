@@ -20,6 +20,7 @@ topics:
 - commentary
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The descriptions of the contenders for Councillors have much less bite.  Was the reference to Rabbich’s rider intended to represent Cr Hardy?]

@@ -22,6 +22,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr G.J. Stewart will lecture on ‘The Second Coming of Christ’ at the old Baptist Church in Thames St, Kooringa, Friday evening.

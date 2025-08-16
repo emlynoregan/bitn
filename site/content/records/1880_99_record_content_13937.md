@@ -22,6 +22,7 @@ topics:
 - planting
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployed men were sent by the Government 100 miles to Burra to plant trees along the railway line!

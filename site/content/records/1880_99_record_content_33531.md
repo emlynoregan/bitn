@@ -20,6 +20,7 @@ topics:
 - fundraising
 - bazaar
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Bazaar and Fancy Fair was opened on Wednesday last by the Mayor, Hon. F.W. Holder MP and it was a great success, raising c. £90 on day one and over £102 on the second day.  It is open again today.

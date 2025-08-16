@@ -23,6 +23,7 @@ topics:
 - fares
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Cosmopolite’ writes to complain that far from being an improvement on Mr Rounsevell’s coaches, the service of Cobb & Co. is ‘a vast falling off’.  He complains of overcrowded buses on the run to Glenelg – and moreover, fares have risen sharply.

@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Accident. A younger son of J.T. Walker lost the end of a finger in the gears of a mangle on Monday.

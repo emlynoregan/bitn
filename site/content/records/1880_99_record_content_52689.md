@@ -21,6 +21,7 @@ topics:
 - appointments
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Councillors Parks and Harris are condemned by the paper for seeking the re-appointment of the Overseer when there is no work for him to do.  They are, it says, inclined ‘to go for men and not for measures’.  The general account from which he would be paid is overdrawn.

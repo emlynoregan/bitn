@@ -21,6 +21,7 @@ topics:
 - paleontology
 - discovery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Diprotodon skull lately found at Baldina has been set up by Mr Zietz at the Adelaide Museum.

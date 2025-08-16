@@ -20,6 +20,7 @@ topics:
 - mine
 - rumour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A rumour yesterday reported a man had fallen down a shaft at the Bon Accord Mine and been seriously injured, but the event turned out to be trifling.

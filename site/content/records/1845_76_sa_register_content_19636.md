@@ -25,6 +25,7 @@ topics:
 - agriculture
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Burra’ writes concerning the railway extension to the Burra:

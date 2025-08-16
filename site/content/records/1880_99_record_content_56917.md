@@ -21,6 +21,7 @@ topics:
 - religion
 - church services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End Church.  Special services were conducted by the Misses Nesbitt & Green last week and they are now doing the same at Redruth where they will remain for a fortnight.

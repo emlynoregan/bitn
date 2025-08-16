@@ -20,6 +20,7 @@ topics:
 - sport
 - tennis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis.  A lawn tennis match between Burra and Clare will be played tomorrow at Mr Packard’s residence.

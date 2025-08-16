@@ -20,6 +20,7 @@ topics:
 - community
 - flora
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute.  An article praises a tree then flowering in the Institute grounds: the Sterculia.

@@ -30,6 +30,7 @@ topics:
 - construction
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army Barracks.  There is a one-column report on the laying of the foundation stone for the new barracks last Wednesday.  For months meetings have been held out of doors, but eventually a tender from Sara & Dunstan was accepted to erect a plain, but substantial hall 60’ x 45’ x 20’ high for c. £600 with square headed doors and windows.  At 3 p.m. a procession was formed in Market Square led by Major Thurman, Staff-Officer Jones and Captain Prowse and the band and they then marched to the Kingston St site.  After hymns and a prayer the Mayor, John Dunstan jnr, laid the stone.  He was glad the treatment of the ‘Army’ in Burra had lacked the violence and antagonism displayed elsewhere, at least to any great extent.  He then went on to deprecate the ‘despicable action of a certain section of the Clare people’.

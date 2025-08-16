@@ -19,6 +19,7 @@ topics:
 - local rivalry
 - reading room
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘nor is it a fact that prominent residents of the north end of town are jealous of the success of the south end, bur vica versa’ [sic]

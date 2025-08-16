@@ -22,6 +22,7 @@ topics:
 - pastoral
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa News, 25 September

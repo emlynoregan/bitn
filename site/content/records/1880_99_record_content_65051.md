@@ -22,6 +22,7 @@ topics:
 - council
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There has at last been a reply from the Commissioner of Public Works to the request that the capital value be reduced to £6,000 and the interest to 4%.  The Government is prepared to allow 4% on the existing capital, but if the interest is in arrears for one month it will be 5%.  The Council will hold a special meeting to consider the case on Friday next when steps will be taken to lay the issue before ratepayers.

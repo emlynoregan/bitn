@@ -32,6 +32,7 @@ topics:
 - waterworks
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayers’ Meeting.  A meeting of North Ward ratepayers was convened by Cr Tiver in response to a requisition.  It met at the German Chapel last Saturday and c.16 attended.  A. Bartholomæus took the chair.

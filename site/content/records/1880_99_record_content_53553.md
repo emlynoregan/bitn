@@ -36,6 +36,7 @@ topics:
 - banking
 - public_service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting at the Institute last Wednesday.  Six candidates drew a reasonable attendance, though the poor weather deterred many from the ‘outside country’.  P. Lane took the chair.  Each speaker was allotted 20 minutes.

@@ -26,6 +26,7 @@ topics:
 - public works
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Waterworks.  A letter has been sent by Council to the Commissioner of Public Works objecting to his recommendation to Cabinet that the Council pay interest on a capital cost far in excess of the works’ true value and including a sum for the erection of a scheme solely used by the Railways Department and since removed, and other works substituted for it, and which have also been charged.

@@ -20,6 +20,7 @@ topics:
 - horses
 - demonstration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Professor Fenton’s horse handling demonstration at the Burra Hotel yards last Friday was as impressive as ever.  He emphasises that horses are not born bad, but made bad.  He not only rides extraordinarily well, but also amazes with the speed with which horses fall into submission.  He returns in a few weeks for another demonstration.

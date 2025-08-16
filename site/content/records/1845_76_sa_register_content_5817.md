@@ -23,6 +23,7 @@ topics:
 - business
 - shipping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 11 March 1851, page 1

@@ -22,6 +22,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The owners of the Aberdeen Reserve are not prepared to pay for the fencing done, but would not refuse to pay rates.

@@ -20,6 +20,7 @@ topics:
 - crops
 - wheat
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Agriculture: Co. Burra agriculture for 1876-77. 14,778 acres sown to wheat of which 10,404 acres were reaped with 3,577 cut as hay & rest lost. The yield was 52,092 bushels at av. 5 bushels per acre.

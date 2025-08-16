@@ -25,6 +25,7 @@ topics:
 - witnesses
 - dismissed
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The police charged that as P-C James was leaving Opie's bar a man named Parker challenged him to a game of billiards and added if James lost that he (Parker) would punch his head. P-T Le Levieure corroborated, but three other witnesses called by the defence said no such language was used and the case was dismissed.

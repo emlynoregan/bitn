@@ -18,6 +18,7 @@ topics:
 - community
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In general a reasonable cover of local news, but not more than a weekly paper used to supply.

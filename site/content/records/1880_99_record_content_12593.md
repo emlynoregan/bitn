@@ -22,6 +22,7 @@ topics:
 - taxation
 - land bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor calls for an end to the procrastination on the issuing of writs for a general election and stresses the importance of the taxation question and a new Land Bill.

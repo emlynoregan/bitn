@@ -19,6 +19,7 @@ topics:
 - birth
 - genealogy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Jane Ann Beckwith born 14 October 1863, Redruth.  There is no registration of death.]

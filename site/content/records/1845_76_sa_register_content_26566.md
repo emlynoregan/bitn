@@ -21,6 +21,7 @@ topics:
 - agriculture
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
   Booborowie, 9 August.

@@ -21,6 +21,7 @@ topics:
 - politics
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from WHH [Hardy] which questions whether we should be so amused at the Russian hoax in Melbourne.  The actions of the Russian Government at home have been brutal and it has a foreign policy that threatens the British Empire in India, so don’t think that a visit to Australia by a Russian Admiral is entirely innocent.

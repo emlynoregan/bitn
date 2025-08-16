@@ -19,6 +19,7 @@ topics:
 - sport
 - handicap
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 During the afternoon at the match the Handicap Sheffield was run and won by B. Knevitt.

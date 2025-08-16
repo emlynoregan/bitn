@@ -26,6 +26,7 @@ topics:
 - crime
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Maurice O’Haren who cruelly deserted his five small children about 18 months ago was sentenced to two months’ gaol under that charge.  [This offender appears in records variously as Maurice O’Haren, Maurice O’Hern, Morish O’Hearne and Morris O’Herne.  His wife Mary died at Redruth 30 May 1865 aged 28.  He may have been the Morris O’Hern who died 20 May 1911 at Pt Pirie aged 82.]

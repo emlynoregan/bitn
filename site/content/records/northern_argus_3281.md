@@ -26,6 +26,7 @@ topics:
 - hospital
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital Gala Day on 29 November was a great success.  A large crowd gathered before noon and enjoyed lunch before settling in for the afternoon’s entertainment.  Many organisations such as Apex, Lions, the Kindergarten and the Day Care Centre all contributed to its success.  Hospital-run stalls raised $2,900, the Day Care Centre raised $840 and more than $1,600 was raised by the Hospital Auxiliary with its quilt raffle.  Burra Rural Youth will ass the profit from their disco the previous night.  In all the Hospital is likely to receive over $5,000.

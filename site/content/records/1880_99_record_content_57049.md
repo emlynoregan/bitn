@@ -19,6 +19,7 @@ topics:
 - council
 - by-law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy moved that he would take steps at the next meeting of Council to rescind the motion referring to it.

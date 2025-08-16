@@ -18,6 +18,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Glynn’s lecture on Woman, was only fairly attended.  It went well, but of the takings of £3-13-6, £3 went in expenses.

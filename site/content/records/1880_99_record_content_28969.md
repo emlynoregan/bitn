@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There is agitation for a railway from Blyth to Gladstone.

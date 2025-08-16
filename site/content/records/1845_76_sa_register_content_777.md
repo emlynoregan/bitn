@@ -20,6 +20,7 @@ topics:
 - flood
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A punt formed of bull’s hide has been used to ferry one or more horsemen across the river at Gawler in the prevalent floods.  [The horses having to swim.]  The River Light is also in flood and a driver lost his life trying to ford it.

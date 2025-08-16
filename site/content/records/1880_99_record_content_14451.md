@@ -22,6 +22,7 @@ topics:
 - water
 - dam
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stark’s Camp Government Dam - has been put in order

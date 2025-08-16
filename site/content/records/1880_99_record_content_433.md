@@ -19,6 +19,7 @@ topics:
 - wheat
 - storage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat.  There is a stack of about 30,000 bags of wheat at Roach’s Mill.

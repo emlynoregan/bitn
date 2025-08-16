@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 On 7 October, at Mongolata, to the wife of F.W. Holder, a daughter.  [Ethel Roby]

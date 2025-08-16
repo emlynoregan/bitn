@@ -23,6 +23,7 @@ topics:
 - reform
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Spence’s Lecture on Effective Voting, last Wednesday at the Institute.

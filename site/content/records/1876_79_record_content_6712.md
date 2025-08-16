@@ -22,6 +22,7 @@ topics:
 - building
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Flagging has been delivered for Sara & Dunstan to be placed in front of Mr Lipsett's & Mr Wilkinson's new shops in Market Square.

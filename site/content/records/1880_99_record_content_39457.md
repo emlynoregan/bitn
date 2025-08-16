@@ -24,6 +24,7 @@ topics:
 - education
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School Anniversary was held 21 & 25 December.  On the Sunday Rev. R.J. Daddow preached in the morning and evening and Rev. R.M. Hunter in the afternoon.

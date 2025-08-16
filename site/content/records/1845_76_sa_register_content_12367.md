@@ -19,6 +19,7 @@ topics:
 - surveying
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The far northern country seems likely to be taken up soon.  A party with a surveyor has passed through here on their way there.

@@ -19,6 +19,7 @@ topics:
 - council
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Government advises that as the subsidy to councils was being withdrawn they would no longer have to pay the police moiety.

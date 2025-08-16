@@ -20,6 +20,7 @@ topics:
 - unemployment
 - distress
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘One of the unemployed’ re distress in Burra.  It might be asked why they don’t go to Silverton.  Well (a) there is little to induce a man to go and (b) many have not the money to carry them there.

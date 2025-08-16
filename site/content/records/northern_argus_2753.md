@@ -19,6 +19,7 @@ topics:
 - community
 - milestone
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Lindsay Woodman will be 90 next week.  [Lindsay George Woodman died 6 May 1990.]

@@ -21,6 +21,7 @@ topics:
 - sentencing
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Review of the late Criminal Sittings

@@ -21,6 +21,7 @@ topics:
 - sport
 - shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mounted Rifles.  After a long silence at the local range Capt. Watt’s team 223 defeated Sgt Dawes’ 197.

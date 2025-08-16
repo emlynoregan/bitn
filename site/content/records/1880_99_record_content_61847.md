@@ -21,6 +21,7 @@ topics:
 - council
 - printing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Record has won the tender for the Town Council’s printing.

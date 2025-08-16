@@ -22,6 +22,7 @@ topics:
 - culture
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr E. Cooke of Adelaide delivered a lecture at the Mechanics’ Institute on Shakespeare and His Writings.

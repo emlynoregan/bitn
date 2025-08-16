@@ -26,6 +26,7 @@ topics:
 - police
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Strike.  On Thursday night a number of blacklegs heading for Broken Hill were on the train.  A group of shearers on board pointed them out when the train arrived and local unionists lost no time in yelling and hooting at them.  Nothing serious took place.  150 police went to Broken Hill by the midday train on Friday.

@@ -21,6 +21,7 @@ topics:
 - waterworks
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Town Council.  The editor agrees with the decision to increase the Health Rate from 3d to 3½d and the Park Lands Rate from 2d to 3d.  The General rate remained at 1/-.  These changes are needed as there is now no Government subsidy.  This year there is also £200 in bonds to redeem.  He reiterates his view that the town was ‘got at’ by the Government with respects to the Waterworks.

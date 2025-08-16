@@ -29,6 +29,7 @@ topics:
 - debt
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Quarterly Meeting showed that departures have affected church membership and attendance.  The district held 243 members and 368 scholars in Kooringa and Redruth with 150 elsewhere.

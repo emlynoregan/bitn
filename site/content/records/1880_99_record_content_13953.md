@@ -18,6 +18,7 @@ topics:
 - crime
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikins.  Police caught about seven young larrikins - some of them the sons of respectable residents - for egg-throwing on Saturday night.  [Presumably at the Salvation Army.]

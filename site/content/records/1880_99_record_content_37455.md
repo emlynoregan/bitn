@@ -21,6 +21,7 @@ topics:
 - employment
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A New Tailor.  Burra has for some time been without a resident tailor, but now the American Tailoring Co. under the management of P. McDonald will open a branch in the premises lately occupied by the late Mr Andrew Wade.

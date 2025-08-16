@@ -20,6 +20,7 @@ topics:
 - grant
 - museum
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Morphett’s Enginehouse has attracted a grant of $2,000 from the Museum’s accreditation and grants program.  The Burra Mine Management Committee will add $1,000 for a project to register and catalogue all the portable artefacts around the enginehouse.

@@ -40,6 +40,7 @@ topics:
 - apology
 - public_funds
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rabbich thanked the meeting.  There was no need to go into the matter as it had been thoroughly aired in the Record.  He regretted that it had been necessary to call such a meeting.  He quite believed the Mayor had made an honest mistake in reading the first tender, but as no word had been said about accepting other than the lowest tender he felt it his duty to care for public funds by accepting the lowest tender.

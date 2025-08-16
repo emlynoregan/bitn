@@ -24,6 +24,7 @@ topics:
 - football
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Burra Football Club met on Saturday with E.F. Brady in the chair.  Elections: J. Lewis JP, President; E.C. Lockyer, Captain; George Parks, Vice-Captain; G. Dawson, Treasurer & Hon. Secretary.

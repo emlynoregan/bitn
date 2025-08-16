@@ -21,6 +21,7 @@ topics:
 - road
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Road Grant. A special grant of £400 has been included in the estimates for the dangerous road past the Kooringa P.O. and Institute.

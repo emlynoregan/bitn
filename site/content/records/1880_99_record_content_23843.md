@@ -19,6 +19,7 @@ topics:
 - goldfield
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  Another column on the field.  Some good finds are reported and many are said to be making wages.  There are occasional good finds: one young man getting £500-£600 worth only two feet under the surface in a day’s work.  In general a more systematic and steadier approach seems to be paying at least moderate dividends.

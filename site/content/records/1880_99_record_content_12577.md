@@ -18,6 +18,7 @@ topics:
 - politics
 - candidacy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.B. Rounsevell has decided to offer himself again as MP for the district.

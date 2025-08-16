@@ -19,6 +19,7 @@ topics:
 - policy
 - committee
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd leader on The Education Act.  A committee was enquiring into the operation of this Act.  The present system encouraged - indeed demanded - cramming.  The role of the local boards is enlarged upon as discussed by the Minister of Education.

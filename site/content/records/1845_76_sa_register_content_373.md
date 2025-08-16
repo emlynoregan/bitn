@@ -23,6 +23,7 @@ topics:
 - roads
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Weather.  [The article reports on damage done by a storm the previous Sunday to the southern part of the North Road, placing it in a dreadful state.  The paper considered it was quite time the Government acted to improve the road for the sake of the great importance to the province’s ‘sheepmasters’ and more recently to the mining properties too.]

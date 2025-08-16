@@ -18,6 +18,7 @@ topics:
 - exhibition
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. At the Inst. Grand Oriental Exhibition 1/- and on 9 Nov. Sword Exercise — showing warfare as practised by the ancient Turks. 3/-, 2/- & 1/-.

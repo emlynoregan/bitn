@@ -21,6 +21,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes a letter expressing the view that Dr Cockburn’s idea of having Parliament allocate ministries rather than the Premier is in fact unworkable.

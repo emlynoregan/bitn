@@ -20,6 +20,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rev. James Bickford's lecture on his visit to England also only attracted a small audience.

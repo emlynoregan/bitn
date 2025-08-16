@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Band.  A concert was held last Friday night to aid the Burra Band.  Attendance was good, but could have been better.  An excellent program was put together by W.S. Harvey of Salisbury.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Band of Hope Entertainment in the [German] Schoolroom near the Courthouse on 18 March.  6d.

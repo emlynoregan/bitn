@@ -24,6 +24,7 @@ topics:
 - shipwreck
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wreck of the Brechin Castle

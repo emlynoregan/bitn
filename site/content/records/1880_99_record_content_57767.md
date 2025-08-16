@@ -21,6 +21,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Relief Concert at Burra Institute 31 July.  1/- admission to all parts.

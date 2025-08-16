@@ -21,6 +21,7 @@ topics:
 - celebration
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wesleyan Methodist Jubilee celebrations were well attended last Sunday.  The Revs C.T. Newman and S. Knight were the preachers.  The collection amounted to £28-10-7.

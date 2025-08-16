@@ -20,6 +20,7 @@ topics:
 - finance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s annual vestry meeting was presided over by Rev. J. Stuart Wayland last Tuesday, 3 April.  The overdraft is £81-18-6 with outstanding debts on seat rents of £62-15-0, which still leaves a debt of £19-3-6.  There is a building fund debt of £224.

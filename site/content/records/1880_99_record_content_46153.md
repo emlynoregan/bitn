@@ -22,6 +22,7 @@ topics:
 - shearing
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearing has begun with c. 30 shearers leaving for Farina, for Mount North-West and for Wichdeane Stations.  Thomas Warnes of Koomooloo began shearing on Thursday.  It seems all will go smoothly this year.

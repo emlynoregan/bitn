@@ -26,6 +26,7 @@ topics:
 - weather
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa News, Dooner’s dissolving views were exhibited last week at Mr West’s schoolroom in Redruth and for two evenings at the Mechanics’ Institute.  The first two occasions were well filled.

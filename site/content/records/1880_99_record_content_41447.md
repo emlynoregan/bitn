@@ -20,6 +20,7 @@ topics:
 - concert
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Band concert on 25 May [at Hallett] in aid of the local band.  W.J. Davey has been conductor for three months.  [The report on 27 May says it was in aid of the Hallett Institute!]

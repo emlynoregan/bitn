@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Townsend died last Thursday at her son’s residence.  She was the mother of Mr E. Crewes and Mrs E. Benny, late of Burra.  [Died 19 March 1891 aged 64.]

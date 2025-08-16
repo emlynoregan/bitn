@@ -30,6 +30,7 @@ topics:
 - pleurisy
 - post mortem
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  P. Lane JP as coroner at inquest on the body of Emma Gurney.

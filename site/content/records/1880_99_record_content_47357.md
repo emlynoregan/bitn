@@ -26,6 +26,7 @@ topics:
 - education
 - dance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s church 13 November, St Peter’s choir will assist at Matins and Holy Communion at 11 a.m. and Evensong at 6.30 p.m.  A.G. King, Incumbent.

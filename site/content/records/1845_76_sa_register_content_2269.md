@@ -20,6 +20,7 @@ topics:
 - advertisement
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.W.G. Nicholls again advises of a trip to the Burra Burra Mines, departing Monday at 9 o’clock.

@@ -18,6 +18,7 @@ topics:
 - cycling
 - women
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lady Cyclists.  A medical friend advises that there is a danger that lady cyclists will develop an enlarged foot.

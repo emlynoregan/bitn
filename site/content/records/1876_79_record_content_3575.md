@@ -19,6 +19,7 @@ topics:
 - behaviour
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Larrikinism. Youths are playing leapfrog outside the P.O. before letter delivery time. This in itself is unobjectionable, but the same cannot be said of their hooting and language which is of the foulest description. "

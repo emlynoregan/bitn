@@ -20,6 +20,7 @@ topics:
 - association
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Political Association.  A committee was formed last Friday to arrange for the foundation of a Political Association for Burra.

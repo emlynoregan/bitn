@@ -19,6 +19,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Reporter.  We have received a copy of this publication.  There are 265 pupils enrolled and an average attendance of 206.  New regulations (free education) have seen attendances improve.

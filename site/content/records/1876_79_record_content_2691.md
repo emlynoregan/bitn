@@ -19,6 +19,7 @@ topics:
 - government
 - constitutional crisis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sir Henry Ayers precipitated a political crisis. He was Chief Secretary when the Legislative Council passed a motion of want of confidence. He refused to resign and a deadlock occurred between the two houses. The Legislative Council refusing to transact any other business till he resigned. If he did go then the govt. would almost certainly have to resign too.

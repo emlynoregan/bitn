@@ -24,6 +24,7 @@ topics:
 - health
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army farewelled Captain & Mrs Prowse last night at the barracks after six months term in Burra.  Captain Gillieland replaces him for a month and then new officers will be appointed.  Captain Prowse is still recovering from the coach accident at Clare.

@@ -22,6 +22,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Arthur Edwin (Sonnie) Clode died 24 February aged 1 year 2 months, only child of A.W. & C. Clode.  [Born 19 December 1890.]

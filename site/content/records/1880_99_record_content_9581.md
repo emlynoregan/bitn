@@ -23,6 +23,7 @@ topics:
 - Irish Question
 - Land League
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.H. Hardy that occupies ⅔ column.  It is a long letter on the Irish Question following the actions of the Land League and the Phoenix Park murders.  Hardy blames the followers of Parnell in and out of Parliament for stirring up the trouble by setting the mood and agenda, even if they were not directly involved.  He was strongly against Parnell and Messrs Davitt and Redmond.  [Davitt was an Irish Nationalist and agrarian agitator and instigator of the Land League of which Parnell was President.  Redmond was an MP and leader of the Irish Home Rule Party.]

@@ -20,6 +20,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Church anniversary 22 & 24 May.  Rev. Richard Sellars will preach.

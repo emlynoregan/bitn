@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The sheep yards to hold 40,000 sheep are divided into 40 yards and here the rails are of 3” x 2” stringy bark on jarrah posts.

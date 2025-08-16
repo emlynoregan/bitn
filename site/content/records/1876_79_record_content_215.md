@@ -20,6 +20,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Hospital.  It would scarcely seem necessary to explain the advantages of having a hospital, but there are always those who cavil at any proposal.  We grant that a building already exists, which is known as the hospital and which provides beds and medical attendance.  [A rather wordy article suggests that proposed improvements are well justified and implies that some have suggested home nursing was adequate, because the article goes on to explain why this is not so.]

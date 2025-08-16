@@ -21,6 +21,7 @@ topics:
 - community
 - civic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Town Clerk, W. Davey, had known Mr Rabbich from a boy and had always found him to be pushing, especially in the Council: ‘Whatever he had to do he would throw his whole energy into the matter.’

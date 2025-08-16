@@ -19,6 +19,7 @@ topics:
 - support
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Strike.  £15-15-6 has been sent to Broken Hill in support of the miners.

@@ -22,6 +22,7 @@ topics:
 - cricket
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  There was a match last Wednesday afternoon on Brewery Flat.  The Burra Club had some difficulty in getting a team together and Young Australians had to provide some fielders for them.  Young Australians scored 71 and 2 for 112

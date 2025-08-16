@@ -20,6 +20,7 @@ topics:
 - finance
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayor said that if the cab was booked for a certain time and not used it should still be paid for.

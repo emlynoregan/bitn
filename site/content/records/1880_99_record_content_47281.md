@@ -18,6 +18,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Dance was held in the Institute on Wednesday night.

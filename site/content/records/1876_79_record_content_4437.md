@@ -18,6 +18,7 @@ topics:
 - bridge
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Kingston St Bridge. Girders are expected in c.6 weeks.

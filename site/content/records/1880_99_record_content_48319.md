@@ -18,6 +18,7 @@ topics:
 - inquest
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.C. Sandland gave corroborating evidence and said 19 matches were eventually found – they were not found together, but singly about four feet in from the fence.

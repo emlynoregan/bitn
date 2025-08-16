@@ -21,6 +21,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  At the Oval last Saturday Kooringa 104 defeated Redruth 90.

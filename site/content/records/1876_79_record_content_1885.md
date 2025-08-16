@@ -23,6 +23,7 @@ topics:
 - anniversary
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: The resident engineer of the railways denied recent damage to the works.

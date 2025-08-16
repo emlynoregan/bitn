@@ -18,6 +18,7 @@ topics:
 - legal
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Part two of the report on ‘Creed v. Creed’ runs to almost 1 column.

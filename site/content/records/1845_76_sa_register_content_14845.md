@@ -25,6 +25,7 @@ topics:
 - postal
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called for the carriage of mails for nine months from 1 October, fortnightly between Kooringa and Duffield’s Woolshed on the Eastern Plains, via Chewing’s, G. Williams’s, Paratoo, Tetulta and Winninie.  [Presumably the last two places should be Teetulpa and Winnininnie.]

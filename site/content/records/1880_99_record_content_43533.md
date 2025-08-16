@@ -23,6 +23,7 @@ topics:
 - parks
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Kitchen then proposed the Public Works Committee also be the Park Lands and Cemetery Committee.

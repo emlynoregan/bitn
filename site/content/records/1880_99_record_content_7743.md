@@ -22,6 +22,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Commercial’ wondering why the other match won by the Commercial School was not mentioned: viz.

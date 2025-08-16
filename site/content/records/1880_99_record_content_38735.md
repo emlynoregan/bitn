@@ -17,6 +17,7 @@ topics:
 - sport
 - hunting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  The main sport at present seems to be shooting parties for hares and rabbits.

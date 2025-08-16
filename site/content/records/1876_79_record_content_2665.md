@@ -17,6 +17,7 @@ topics:
 - advertisement
 - consumer
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Unpaid advt. posing as news on Wald's Revolving Washing Machine that sounds too good to be true. Paper also carries paid advt. for same. (See page 245 and other weeks too)

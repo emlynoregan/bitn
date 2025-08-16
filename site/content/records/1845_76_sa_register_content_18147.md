@@ -19,6 +19,7 @@ topics:
 - employment
 - smelting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Copper Works have stopped smelting and several of their workers have removed to Adelaide.

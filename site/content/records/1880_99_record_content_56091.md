@@ -23,6 +23,7 @@ topics:
 - recreation
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J. Jefferies begs to inform that A BOAT has now been placed on Porter’s Lagoon and can be hired by now applying to him.  Cabs will run from Burra Wednesdays and Saturdays.  Tickets can be purchased and arrangements made at Drew & Crewes, Kooringa.

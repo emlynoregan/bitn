@@ -19,6 +19,7 @@ topics:
 - politics
 - debt
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rowland Rees MP has total liabilities over £6,000 with £5,000 secured and £1,300 unsecured.  Assets nil.

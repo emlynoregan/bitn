@@ -29,6 +29,7 @@ topics:
 - mounted rifles
 - speeches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.A. Watt’s farewell social was tendered at the Commercial Hotel on Friday by the Burra Mounted Rifle Company.  J.D. Cave presided.  Eulogistic speeches are extensively reported in c. 1½ columns.  Speeches are reported from J.D. Cave, Cr Sampson, H. Vivian, Lieut. Field & Sgt Dawes.  They are along the lines that Burra was losing a fine gentleman who had done much for the public life of the town and had been the mainstay and lifeblood of the foot volunteers and then the Mounted Rifles and was a great supporter of efforts to help the poor and needy.  Captain Watt responded suitably.

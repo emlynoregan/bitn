@@ -18,6 +18,7 @@ topics:
 - education
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss L. McBride thanks all for past patronage and regrets she is unable to open her school again.

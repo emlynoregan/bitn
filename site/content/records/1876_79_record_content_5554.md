@@ -21,6 +21,7 @@ topics:
 - government
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston St Bridge. It is gratifying to learn that the Govt will supplement the whole of the expenditure on the new Kooringa Bridge; else it would have swallowed the whole of next year's funds.

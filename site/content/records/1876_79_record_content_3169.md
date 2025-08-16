@@ -21,6 +21,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. Two candidates for Mayor: - Edward Lipsett and John Ricardo Stephens. [A short but rather nasty campaign seems to have followed]

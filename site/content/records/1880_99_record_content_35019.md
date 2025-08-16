@@ -19,6 +19,7 @@ topics:
 - award
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. J.C. Bray, Speaker of the House of Assembly has been made a KCMG.

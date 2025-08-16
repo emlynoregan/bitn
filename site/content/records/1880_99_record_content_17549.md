@@ -35,6 +35,7 @@ topics:
 - medical
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.  Andrew William Seitner, born 9 July 1884, died 18 April 1885, child of Elizabeth and William Seitner, living near Hallett.  The inquest was held at the Commercial Hotel with W.F. Coglin as coroner.

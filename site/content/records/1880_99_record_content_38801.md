@@ -21,6 +21,7 @@ topics:
 - health board
 - cemetery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Expenditure included salaries etc., £75-15-3, redemption of bonds £200, coupons £75, public works £266-16-6 and other items to a total of £740-12-5.  This leaves the account in credit £12-7-4, with £125 expected soon as Government subsidy.

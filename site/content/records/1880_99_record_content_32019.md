@@ -25,6 +25,7 @@ topics:
 - religion
 - Tonga Relief Fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Missionary Meeting at Kooringa Wesleyan Church on Friday was well attended.  Rev. George Brown gave a lengthy address.  Rev. David Tonga and Mrs Tonga were enthusiastically received.  £45 was promised towards the Tonga Relief Fund, of which £25 was telegraphed by Mr C. Drew from Albany.

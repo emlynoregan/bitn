@@ -20,6 +20,7 @@ topics:
 - polo
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  Saturday at Burra before a fair crowd.  Burra 6 defeated Adelaide 2, with three of Burra’s goals coming in the last quarter.

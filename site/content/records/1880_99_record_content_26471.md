@@ -23,6 +23,7 @@ topics:
 - silver
 - claims
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold was discovered at Wonna near Terowie and 30 claims have already been pegged.  Silver near Euriowie looks very promising.  (In the Barrier area of NSW)

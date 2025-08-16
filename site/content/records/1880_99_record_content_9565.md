@@ -33,6 +33,7 @@ topics:
 - legal
 - investigation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Inquest.  An inquest was held before P. Lane in the Pig and Whistle Fire.

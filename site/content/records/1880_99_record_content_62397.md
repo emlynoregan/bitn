@@ -20,6 +20,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Entertainment in aid of St Joseph’s Church 21 June.  2/-, 1/6, 1/-

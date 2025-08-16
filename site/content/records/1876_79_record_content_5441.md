@@ -19,6 +19,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Musical Union Concert. The last concert for 1878 was held on Tuesday last and there was a good attendance. There follows a good review (generally) item by item.

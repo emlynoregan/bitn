@@ -21,6 +21,7 @@ topics:
 - investment
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa has been visited by Captain Bryant, representing Victorian capital, and he believes that there is great potential of their developing into a significant field, but the claims are too small, giving only 200’ on either side of the shaft, where 1,000’ is needed.

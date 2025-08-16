@@ -19,6 +19,7 @@ topics:
 - health
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hospital Sunday last Sunday at St Mary’s.  Poor weather meant abandonment of the usual procession of Friendly Societies, Mounted Infantry and the Burra Band.  Attendance was small.

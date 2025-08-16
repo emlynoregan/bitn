@@ -21,6 +21,7 @@ topics:
 - safety
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Perambulators.  We warn mothers about leaving perambulators with babies outside shops unattended.  Yet another ran off the footpath and tipped over last Saturday.

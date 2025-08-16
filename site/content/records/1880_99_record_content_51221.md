@@ -21,6 +21,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Pastoralists’ Assoc. of SA & West Darling held a largely and representatively attended meeting of the Burra Branch on Friday 22 September.

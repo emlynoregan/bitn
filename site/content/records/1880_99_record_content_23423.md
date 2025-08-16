@@ -20,6 +20,7 @@ topics:
 - railway
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  A Bill has been introduced to allow the railway to be carried the last ten miles to the NSW border.

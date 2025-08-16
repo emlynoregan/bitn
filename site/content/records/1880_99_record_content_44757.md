@@ -20,6 +20,7 @@ topics:
 - memorial
 - land subdivision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Working men desirous of obtaining Working Men’s Blocks are invited to sign the memorial at the Town Clerk’s Office.

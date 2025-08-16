@@ -17,6 +17,7 @@ topics:
 - legal
 - capital_punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on capital punishment.  The editor has always been against it and regards it as ‘a relic of barbarism’.  He argues his case for 1¼ columns.

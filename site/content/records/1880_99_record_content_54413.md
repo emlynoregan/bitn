@@ -18,6 +18,7 @@ topics:
 - legal
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council received legal advice that it should have filled all vacancies arising from resignations from committees and not have been left with only two committees.  Advice was to record all motions of the meeting of 4 July and fill vacancies in the normal way.  It was decided not to make any assessment.

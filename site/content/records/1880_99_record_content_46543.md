@@ -34,6 +34,7 @@ topics:
 - neglect
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest.  Held at Kooringa Hotel on Saturday afternoon on the body of Emma Patterson aged two months, who died 26 August.  John Lewis JP as coroner and W. Davey as foreman of the jury.

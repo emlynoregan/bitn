@@ -22,6 +22,7 @@ topics:
 - employment
 - branch
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elders Wool & Produce Co. Ltd. opens a branch in Burra, run by Mr Bagot lately of Messrs Liston, Shakes & Co. of Kooringa.

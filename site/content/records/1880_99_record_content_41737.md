@@ -21,6 +21,7 @@ topics:
 - community
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Phonograph Story.  There is an interesting fictional story running for ½ a column on the use of a phonograph in thwarting a breach of promise of marriage.  Interesting because at this date few readers would have seen or heard a phonograph.

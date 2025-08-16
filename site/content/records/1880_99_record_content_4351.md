@@ -22,6 +22,7 @@ topics:
 - mines
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra school is in good condition.  The ceiling of the infant school has been repaired as it was falling.  The playground has been gravelled.  Other minor repairs are listed.  The closing of the mines and the failure of the crops on the eastern plains resulted in many applications for free education, of which 95 were granted, though some for a short period only.

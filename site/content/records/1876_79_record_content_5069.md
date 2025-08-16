@@ -20,6 +20,7 @@ topics:
 - meeting
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Institute. A meeting will be held at Hallett on Monday to propose the erection of an Institute building.

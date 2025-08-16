@@ -18,6 +18,7 @@ topics:
 - fire
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire broke out in T. Warnes’ paddock on 22 December and though promptly attacked some 1,000 acres of grass were destroyed.

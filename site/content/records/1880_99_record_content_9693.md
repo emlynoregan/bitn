@@ -18,6 +18,7 @@ topics:
 - events
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Foresters’ Sports results are published (The high jump at 5’4” was won by A. Lott.)

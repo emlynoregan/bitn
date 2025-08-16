@@ -19,6 +19,7 @@ topics:
 - council
 - street works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drew & Co. are to be permitted to pave in front of their premises with the council to pay one moiety.

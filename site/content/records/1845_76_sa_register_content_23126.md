@@ -22,6 +22,7 @@ topics:
 - safety
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  On Sunday morning Mr Lipsett of Kooringa was driving from chapel to his residence in Redruth and was about to cross the Mine Bridge when his horse swerved and bounded into the creek, dragging with it the cart and driver.  They fell some eight feet and the cart and horse became wedged in a gutter, unable to move.  Mr Lipsett was thrown over the horse, landing in front of it.  Assistance soon saw the horse and cart extricated and the driver suffered only trifling injuries.  The place is dangerous and needs to be fenced.

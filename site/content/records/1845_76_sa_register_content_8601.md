@@ -25,6 +25,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra Races at the Burra Burra Racecourse 26 December 1853.

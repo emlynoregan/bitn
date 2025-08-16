@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire.  On 20 January at about 4 a.m. Mr Chappel was roused by crackling noises and he got up to find a pile of empty cases, casks, etc. filled with straw at the corner of J. Richards’ store was on fire.  It was just catching the corner of a wooden building used as a stable.  He doused it with a bucket of water and raised the alarm.  With assistance the fire was stopped, which otherwise would have burnt the block of buildings on that side of Market Square.

@@ -18,6 +18,7 @@ topics:
 - weather
 - storm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Hailstorm hit Burra on Saturday followed by rain.  Almost 1” fell in 48 hours and the creek came down, running a good part of Sunday.

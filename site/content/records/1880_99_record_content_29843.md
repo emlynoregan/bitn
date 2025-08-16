@@ -21,6 +21,7 @@ topics:
 - public meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Samuel Gray urging a public meeting be convened with the district MPs and Mayor present to discuss ways to get the mine going again.

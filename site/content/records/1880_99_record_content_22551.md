@@ -18,6 +18,7 @@ topics:
 - theatre
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Laughable Cansmata: The Vegetable King  [Is this a misprint for Cantata?]

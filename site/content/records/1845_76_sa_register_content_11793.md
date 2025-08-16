@@ -24,6 +24,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Primitive Methodist Chapel.  The second anniversary of this chapel was held on 25 & 26 July.  Morning and evening sermons were held by Rev. J. Standrin of Salisbury and in the afternoon the Bible Christian minister Rev. T. Hillman preached the sermon.  Despite very unpropitious weather, the church was filled for each service.  On Monday there was a sumptuous tea.  The weather continued bad with boisterous winds and heavy showers.  Between 300 and 400 people were fed despite the almost impassable roads through which those attending had literally to wade.  At the public meeting the costs of the church were reported for the year.

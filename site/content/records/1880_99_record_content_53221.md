@@ -19,6 +19,7 @@ topics:
 - education
 - class
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr E. M. Bennett class for violin, 2nd term 1894 starting 3 April.  £1-1-0.

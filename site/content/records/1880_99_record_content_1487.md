@@ -19,6 +19,7 @@ topics:
 - crime
 - robbery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robbery.  Joseph Richardson, the spirit dealer in Commercial St was robbed on Sunday evening of £60-£70 in notes, cash and cheques.

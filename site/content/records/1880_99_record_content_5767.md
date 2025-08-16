@@ -20,6 +20,7 @@ topics:
 - hospital
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Hospital Sunday Services will be held in Kooringa Wesleyan Church, 25 December in the morning and at Redruth in the evening.

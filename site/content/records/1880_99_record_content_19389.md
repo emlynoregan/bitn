@@ -18,6 +18,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 We hear they have taken not less than £150.  The steam organ can be heard all over Kooringa.  [The sum was corrected in the next issue to £111.]

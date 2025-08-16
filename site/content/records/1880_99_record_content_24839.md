@@ -22,6 +22,7 @@ topics:
 - public works
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Works in hand: North Ward, road near the gaol; East Ward, kerbing; West Ward, repairs to the small bridge near Mr Lewis’s.

@@ -19,6 +19,7 @@ topics:
 - environment
 - town
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Creek The recent flush of water has cleaned out the rubbish from the back of the Miners’ Arms. How long before it reappears?

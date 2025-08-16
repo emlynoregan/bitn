@@ -18,6 +18,7 @@ topics:
 - murder
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Whitechapel Murders.  Four women have been murdered; it is believed to be a maniac.  [The Jack-the-Ripper murders.]

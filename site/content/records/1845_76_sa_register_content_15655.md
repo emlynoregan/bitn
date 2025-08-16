@@ -20,6 +20,7 @@ topics:
 - mining
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Employment is wanted.  An engineer of great experience and who has been Head Engineer at the Burra Burra Mine for the past eleven years is in want of a re-engagement in consequence of the reduction in that establishment.  He is allowed to refer to the authorities of the Mine for testimonials.

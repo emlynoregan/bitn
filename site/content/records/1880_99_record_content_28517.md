@@ -27,6 +27,7 @@ topics:
 - education
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Teachers’ Assoc. held their 13th meeting at Burra last Saturday. Schools represented were Baldina Plains, Black Springs, Burra, Copperhouse, Hallett, Hanson, Manoora, Mt Bryan, Saddleworth and Terowie.

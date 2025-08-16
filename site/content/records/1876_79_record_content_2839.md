@@ -20,6 +20,7 @@ topics:
 - banquet
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 First Burra Show. The Show Society held a banquet in the Institute where the speeches became quite political

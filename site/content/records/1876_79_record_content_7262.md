@@ -23,6 +23,7 @@ topics:
 - flowers
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter to Editor from `Honesty' complaining that the Burra Show has seen prizes awarded for flowers that were brought in from Adelaide, but were exhibited as grown within 20 miles of Burra. If this cannot be tested or exhibitors are unable to see the dishonesty involved then let there be no prizes for flowers.

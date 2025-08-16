@@ -24,6 +24,7 @@ topics:
 - agriculture
 - land management
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Routes.  A meeting was held at Davieston on 4 June to consider how best to dispose of stock routes.  Mr Peake said the time had come to dispose of them for they had been much abused for years.  Mr A. Przibilla 2nd and support came from Mr John Turner, Mr Tohl and Mr J. Cooksley.

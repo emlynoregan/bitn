@@ -20,6 +20,7 @@ topics:
 - event
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  A meeting in R.D. Pascoe’s rooms on 16 October decided the club would play Clare at Clare on 13 November.

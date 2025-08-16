@@ -20,6 +20,7 @@ topics:
 - behaviour
 - saloon
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Life - A slightly oblique attack on some aspects of town life, which no doubt was clearer to the locals of the day.

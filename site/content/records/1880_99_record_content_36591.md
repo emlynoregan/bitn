@@ -25,6 +25,7 @@ topics:
 - club
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cricket Club Annual Social was held on Friday and was a great success.  About 50 cricketers and patrons sat down to a spread followed by toasts, presentations and songs.  W.H. Linkson, Hon. Sec. delivered the annual report.  The team played 6 games, won 4 and lost 2, though the match against Jamestown-Belalie at Spalding saw only 5 Burra players take part so it was not a true test of the club’s strength.  The year’s income was £24-10-6 and expenditure £27-2-6, leaving a deficit of £2-12-0.  Among thanks to a whole list of gentlemen were those to F.W. Holder for free access over the years to both the advertising and open columns of the paper and also because he ‘on more than one occasion added handsomely to the club’s finances.’

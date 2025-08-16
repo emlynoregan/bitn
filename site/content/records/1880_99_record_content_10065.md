@@ -24,6 +24,7 @@ topics:
 - larrikinism
 - charity performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Citizen’ writes in response to ‘Cynic’ of 1 June and identifies the latter [almost certainly correctly] as W.H. Hardy.  He calls Hardy a ‘self-styled professional Irish Comic who fills in his spare time, when not acting, at the desk of one of our local stores’.  He says ‘Cynic’ instead of criticising, should have said: -

@@ -19,6 +19,7 @@ topics:
 - charity
 - royal visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘WW’ writes suggesting that candles should be distributed to poor families so that they could illuminate their dwellings for the Royal Visit.

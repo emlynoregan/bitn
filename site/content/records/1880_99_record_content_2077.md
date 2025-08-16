@@ -28,6 +28,7 @@ topics:
 - local government
 - ratepayers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting.  A meeting of ratepayers of North Ward was held at the Exchange Hotel, Aberdeen last Saturday to consider who should represent the ward for the next year.  Attendance was good.  W.R. Ridgway was thanked for his service and he said he regretted that he could not stand again, but as he was not now a resident it would be too expensive to travel up and down fortnightly.

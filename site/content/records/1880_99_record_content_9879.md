@@ -21,6 +21,7 @@ topics:
 - reward
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  £ 20 reward for information leading to the conviction of the person or persons who laid poison in the streets of Burra on or about 6 April.  F.W. Holder, Town Clerk.

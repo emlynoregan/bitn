@@ -21,6 +21,7 @@ topics:
 - appointment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 It is said Mr Holder, leader of the Opposition in SA, has been offered the position of Government Resident in the Northern Territory.

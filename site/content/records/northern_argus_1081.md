@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Clarence John Williams born 12 May 1897, Ironmine: died 4 April 1986.]

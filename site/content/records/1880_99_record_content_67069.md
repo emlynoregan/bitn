@@ -19,6 +19,7 @@ topics:
 - police
 - offence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Murray was fined 5/- for drunkenness and £1 for indecent language.

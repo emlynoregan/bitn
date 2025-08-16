@@ -18,6 +18,7 @@ topics:
 - public order
 - larrikinism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Larrikinism: there has been a spate of throwing stones on roofs.

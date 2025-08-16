@@ -20,6 +20,7 @@ topics:
 - production
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Mine: SAMA report for 6 months to March 31 1876

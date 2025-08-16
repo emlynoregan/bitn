@@ -22,6 +22,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Pearce last week sent two large tanks to Mt Cultaga Gold Mine near Olary in the N-E.  This is one indication of a benefit to come from the interest in mining.

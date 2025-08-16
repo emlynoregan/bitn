@@ -22,6 +22,7 @@ topics:
 - religion
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daviestown Wesleyan Church held special services 13 & 14 Feb.  Rev. James Bickford preached in the afternoon & F.W. Holder in the evening.  Services were crowded.  (Part of the Hanson Wesleyan Circuit)

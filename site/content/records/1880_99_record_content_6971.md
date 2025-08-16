@@ -20,6 +20,7 @@ topics:
 - licence
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Müller has taken out a licence and will operate an auction mart in Redruth from 31 March.

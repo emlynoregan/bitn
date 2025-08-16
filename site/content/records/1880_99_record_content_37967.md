@@ -21,6 +21,7 @@ topics:
 - tender
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan have secured the tender for the new offices of Elder, Smith & Co. in Market Square.

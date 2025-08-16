@@ -18,6 +18,7 @@ topics:
 - war
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Defence: Ed. on defence of the colony in light of the war between Russia and Turkey.

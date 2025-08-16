@@ -18,6 +18,7 @@ topics:
 - shipping
 - migration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Abberton passenger list is printed.

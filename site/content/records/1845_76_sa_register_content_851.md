@@ -25,6 +25,7 @@ topics:
 - strike
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A party just arrived from the North informs that drunkenness exists there to a frightful extent.

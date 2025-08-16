@@ -18,6 +18,7 @@ topics:
 - transport
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Railway Commissioners have carefully considered the railway crossing suggestions recently made and have decided against adopting any of them.

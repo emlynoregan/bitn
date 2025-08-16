@@ -23,6 +23,7 @@ topics:
 - trees
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trees.  Can the hills around Burra be planted with trees?  We are glad to see that Dr Brummitt and Messrs Lewis and T. Drew are preparing to plant clumps of trees in their small paddock on Buttler’s Hill.

@@ -21,6 +21,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Messrs Snell & Williams applied to know the terms for being allowed to occupy the portion of closed Street near the new Kingston Street Bridge. It will be decided next meeting after a visit.

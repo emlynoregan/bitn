@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  At the Institute 9 November, an Entertainment in aid of St Mary’s Building Fund.  Music, Readings, Nursery Rhymes, Brilliant Tableaux Vivants.  1/6 & 1/-.

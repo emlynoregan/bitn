@@ -34,6 +34,7 @@ topics:
 - assault
 - weapon
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Louisa Phillips said on Christmas Eve she was in the prisoner’s house.  At about 10 p.m. a man came and asked for a light for his pipe.  Witness gave him a light, but instead of lighting his pipe, he held it up to the roof.  He had been drinking, but did not appear drunk.  Witness asked him for the light and when he refused, she snatched at it and it rolled on the floor and went out.  She bolted the door.  A few minutes later there was a rap on the door and the man asked for a light, saying he would pay her for it.  Witness refused.  The man then burst open the door and threw a long stool, which struck the witness.  He then flung a water bucket in pieces and some stones, one of which stuck the witness causing her to fall.  Prisoner asked the man to leave, but the deceased said he would tear the liver out of him before he would go.  He said he would pay some mischief with the house in five minutes.  Prisoner asked her to find him a stick, but she could not do so.  The man stood there aggravating for half an hour.  The prisoner went out for about half a minute and then returned.  She did not know he had done any harm.  On his return he had an axe in his hand which had been used for cutting meat or wood.  The axe was produced.

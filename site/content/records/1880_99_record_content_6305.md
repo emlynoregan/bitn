@@ -24,6 +24,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Armstrong was committed to the Supreme Court on a charge of stealing a diamond ring from Mr Hubbard, a traveller for J.W. Davis, an Adelaide jeweller.  The offence occurred at the Burra Hotel on Monday.

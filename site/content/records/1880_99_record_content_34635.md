@@ -20,6 +20,7 @@ topics:
 - dispute
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr M. Rayner of the BFCC is ready to refute in detail the statements of the detractors of the firebrick proposal as soon as they are prepared to emerge from behind their noms de plume.

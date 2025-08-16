@@ -21,6 +21,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Institute. The second entertainment to raise money for it was held on Tuesday. Mr Holder presided and announced that a contract had been let to Sara & Dunstan for the construction of the building for £774. The entertainment ended with the farce, `Which Shall I Marry'.

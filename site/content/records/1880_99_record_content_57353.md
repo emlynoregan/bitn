@@ -20,6 +20,7 @@ topics:
 - by-law
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy moved for a call of the whole Council on Wednesday to rescind the new by-law.  Carried.

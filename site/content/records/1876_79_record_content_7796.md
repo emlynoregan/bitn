@@ -19,6 +19,7 @@ topics:
 - gossip
 - column
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Gossip. There is a column of gossip in dialect by `Cousin Jenny & Aunt Betty'.

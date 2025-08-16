@@ -20,6 +20,7 @@ topics:
 - contract
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Henry Miles awarded the contract for kerbing in Thames St for £2-10-0 per chain.

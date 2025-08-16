@@ -30,6 +30,7 @@ topics:
 - community
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Show.  After early drizzle the sun shone brightly for Burra’s 108th Show.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - pastoralism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain in the last week has yielded just less than 2” and this gives some hopes of a good season for both pastoralist and farmers.

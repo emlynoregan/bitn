@@ -22,6 +22,7 @@ topics:
 - real estate
 - for sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Butcher Shop.  The shop and premises at Aberdeen lately held by H.M. Goodridge, butcher, is for sale or let by C. Gebhardt.

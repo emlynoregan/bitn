@@ -18,6 +18,7 @@ topics:
 - serial
 - rebellion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2 Mar.	IV-VIII	Captured: a Story of Rebellion	X	X	X	X	X	X	X	X

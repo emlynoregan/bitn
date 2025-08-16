@@ -19,6 +19,7 @@ topics:
 - environment
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Trees. The last of the fine old gums that lined the Burra Creek has been removed. The stump that was near the ford opposite the Mine Stores has been taken out to be used as a butcher's block.

@@ -21,6 +21,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. H. Dawson saddler and harness making has been taken over by W. Lasscock, late of Yankalilla.

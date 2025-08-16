@@ -20,6 +20,7 @@ topics:
 - business
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  Nothing can be done about the Burra Mine till after the 30 November as it is under offer in London.

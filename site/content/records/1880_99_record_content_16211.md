@@ -19,6 +19,7 @@ topics:
 - employment
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Charles Schutz - employing and unlicensed cab driver - 10/-.

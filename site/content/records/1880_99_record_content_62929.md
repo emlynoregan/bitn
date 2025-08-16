@@ -21,6 +21,7 @@ topics:
 - cinematographe
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Carl Hertz Show on Wednesday was packed.  He has no living equal.  The card tricks were cleverly done and his other tricks etc. were excellent, but the cinematographe was the worst ever seen here.  The images on the screen could hardly been discerned.

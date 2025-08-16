@@ -22,6 +22,7 @@ topics:
 - outdoors
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Scouts had a two day hike with leader Rob Letcher, out Mt Bryan East way over the weekend.

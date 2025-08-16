@@ -22,6 +22,7 @@ topics:
 - blacksmith
 - machinist
 source_document: 1880-99 Record .doc
+publication_slug: record-1880-99
 ---
 
 B. Preece	Coachbuilder, Blacksmith, Wheelwright, Machinist etc., Aberdeen

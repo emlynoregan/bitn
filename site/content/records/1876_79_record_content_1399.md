@@ -29,6 +29,7 @@ topics:
 - offence
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Working conditions: Editorial advocated 1/2 day holiday each week for shop assistants as they were then working from 7 or 8 am to 7.30 pm Mon. to, Fri. and till 11 pm on Sat. The suggestion was for an early closing day - perhaps Wed.

@@ -20,6 +20,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Wesleyan Church Anniversary, 21 September, Rev. R.M. Hunter to preach.  Tea 5.30 p.m. and public meeting 7.30 p.m., Wednesday.

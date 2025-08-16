@@ -25,6 +25,7 @@ topics:
 - migration
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 8 June 1867, page 2

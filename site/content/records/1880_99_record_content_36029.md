@@ -18,6 +18,7 @@ topics:
 - demographics
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Population of SA on 1 February 1890was estimated at:		318,375

@@ -19,6 +19,7 @@ topics:
 - religion
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the move to open reading rooms and libraries on Sundays from 1.00 p.m. to sunset. This is opposed for religious reasons by some, but for the editor the greater problem would seem to be the denial of the day off for those employed at such places.

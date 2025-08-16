@@ -19,6 +19,7 @@ topics:
 - hotel
 - accommodation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Temperance Hotel Aberdeen, late White Hart Hotel

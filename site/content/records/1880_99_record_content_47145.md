@@ -19,6 +19,7 @@ topics:
 - community
 - comment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ta-ra-ra-boom de-ay is very bad in Burra.  [?]

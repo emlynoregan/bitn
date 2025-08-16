@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The identities had to be worked out from the descriptions, but all except Parks were very obvious to me, leaving his identification clear by elimination.]

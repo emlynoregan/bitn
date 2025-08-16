@@ -20,6 +20,7 @@ topics:
 - technology
 - electricity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co.  As soon as possible three shifts will be put on.  It has been deemed inadvisable to work through the night with kerosene lamps so electric lights are being procured – the first to be seen in Burra.

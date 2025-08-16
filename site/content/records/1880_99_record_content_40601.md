@@ -27,6 +27,7 @@ topics:
 - local government
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Consequently I moved that the lowest tender by 2d a yard be accepted, viz. R. Cox & Son, for 400 yards, be accepted.  Cr O’Leary 2nd.

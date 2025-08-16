@@ -21,6 +21,7 @@ topics:
 - education
 - local history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  This shows Mrs Roe’s school to have been in the house next to the Police Station, Kooringa.

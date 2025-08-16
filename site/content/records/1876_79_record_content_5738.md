@@ -22,6 +22,7 @@ topics:
 - appointment
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. The Committee appointed to secure the services of a Married Medical Practitioner for Burra announce they have secured the services of Dr John Ikin Sangster MRCS, LRCP, LM England, and late Assistant House Surgeon at Leeds General Infirmary.

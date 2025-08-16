@@ -27,6 +27,7 @@ topics:
 - wagon
 - farm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Johnson Carpenter, farmer of Baldina told how he found the body on Monday with the team some 30-40 yards from it.  He said he believed the wheels had passed over the body and saw no other marks of a struggle etc.

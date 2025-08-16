@@ -19,6 +19,7 @@ topics:
 - strike
 - international
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the London Dock Strike, which had just ended with a victory for labour.

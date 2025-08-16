@@ -23,6 +23,7 @@ topics:
 - Salvation Army
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Wilkinson writes saying that Captain Bonnell of the Salvation Army has claimed that the only backslider in Moonta in 300 conversions was a son of W.H. Wilkinson.  The facts are different:

@@ -19,6 +19,7 @@ topics:
 - resources
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wood Cutting Licences have been issues to 124 people at Redruth in the last month.  Two of them were women.

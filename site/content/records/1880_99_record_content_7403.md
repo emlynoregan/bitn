@@ -32,6 +32,7 @@ topics:
 - inquest
 - medical
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary and Inquest.  On Monday morning Mr Halliat fell down dead in Mr Batchelor’s shop, Kooringa.  J.D. Cave JP conducted the inquest.

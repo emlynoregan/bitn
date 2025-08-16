@@ -46,6 +46,7 @@ topics:
 - mining
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Graziers Meeting: reported at greater length than in the editorial.  At the Burra Institute last Friday P.L. Killicoat took the chair.  There were representatives from the Hundreds of Eba, Lindley, Schomburgk, Stuart, King, Bundey, Rees, Tomkinson, Ketchowla, Bright & Mongolata as well as from the fringe country to their east.  Though unable to attend the Commissioner of Crown Lands wrote expressing his willingness to receive a deputation.  Sir Jenkin Coles reported his experience over the years.

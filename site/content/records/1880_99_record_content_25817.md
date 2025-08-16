@@ -20,6 +20,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Aberdeen has at last got a football club together.  They challenged the Burras second 20, but because of work commitments Burra could only offer a team of 16 of their players on Wednesday last.  Burra 4.several defeated Aberdeen 0.1.

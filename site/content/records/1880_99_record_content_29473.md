@@ -18,6 +18,7 @@ topics:
 - water rates
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Waterworks and Water Rates.  [The material is covered in the notes on the report of the ratepayers’ meeting on page 3.]

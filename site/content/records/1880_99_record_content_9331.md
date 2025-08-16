@@ -18,6 +18,7 @@ topics:
 - fundraising
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mrs Lawler.  Subscription lists have been made up to aid her following the fire at her house.

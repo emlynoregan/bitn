@@ -20,6 +20,7 @@ topics:
 - agriculture
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sheep. 4,400 wethers from Momba Run passed through Burra recently en route to Adelaide.

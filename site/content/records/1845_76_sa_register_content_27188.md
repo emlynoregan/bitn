@@ -44,6 +44,7 @@ topics:
 - flood
 - telegraph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Peak’s Crossing Accident Inquest

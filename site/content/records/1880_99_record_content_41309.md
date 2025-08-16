@@ -22,6 +22,7 @@ topics:
 - sport
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Coursing Club held its first meeting at Gum Creek Estate by kind permission of J.J. Duncan on 29 & 30 April and it was a great success.

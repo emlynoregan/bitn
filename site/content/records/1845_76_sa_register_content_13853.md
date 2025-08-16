@@ -22,6 +22,7 @@ topics:
 - hotel
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  New Burra Road Hotel and land for sale.  A substantial stone house built expressly for a public house and situate on the intended main line to the Burra, about 22 miles north of Kapunda, with 80 acres of first-rate land and water in abundance.  Apply to Wright Bros. Land Agents.

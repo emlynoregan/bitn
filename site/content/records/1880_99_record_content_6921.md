@@ -20,6 +20,7 @@ topics:
 - sale
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders are called for the purchase of the old Church of England together with fittings and ½ acre of land.

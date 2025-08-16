@@ -24,6 +24,7 @@ topics:
 - estate
 - property
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The sale of the assigned estate of John Pearce of Aberdeen.  The mortgagees force the sale of allotments 79, 80 and 81 of Aberdeen together with a six-roomed stone house, workshop, etc. and also a portion of allotment 54 in the Township of Lancelot.

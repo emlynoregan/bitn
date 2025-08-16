@@ -20,6 +20,7 @@ topics:
 - religion
 - methodist union
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church will celebrate its last anniversary services on Sunday next, before the Methodist Union comes into effect.

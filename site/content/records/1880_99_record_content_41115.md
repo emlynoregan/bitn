@@ -20,6 +20,7 @@ topics:
 - community
 - program
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Band of Hope met as usual on 16 April for a program arranged by the WCTU.

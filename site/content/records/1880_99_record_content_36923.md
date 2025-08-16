@@ -27,6 +27,7 @@ topics:
 - influenza
 - mental health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  George Trevelyan of Ashmore, formerly a railway packer was found drowned in his well.  It is thought he threw himself in while temporarily of unsound mind following influenza.  [Died 8 June.]

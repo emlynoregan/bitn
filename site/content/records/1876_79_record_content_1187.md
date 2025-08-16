@@ -18,6 +18,7 @@ topics:
 - diorama
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rainer's Diorama matinee attracted over 400 juveniles

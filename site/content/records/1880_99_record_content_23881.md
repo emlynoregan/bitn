@@ -25,6 +25,7 @@ topics:
 - public works
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  There was a ratepayers’ meeting at which candidates spoke, but it was thinly attended.  There was much debate over the coming year’s rate: whether it should be 9d or 1/- in the pound.  1886 had seen £1,200 spent to find work for the unemployed.  F.W. Holder said he opposed reducing the rate as there was a debt and 1/- would bring in £800 and 9d only £600 with a £100 loss in Government subsidy too.  The savings for poor ratepayers would be very little and only the better off would benefit significantly.  W.H. Hardy asked about the plans, if any, for the Recreation Ground.  W. H. Linkson wanted to know if it were planned to lay water on to it.  Holder said that would cost £42, which the Council did not have at present.

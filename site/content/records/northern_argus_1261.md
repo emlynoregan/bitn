@@ -23,6 +23,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Cheryl & Richard Nankivell, a daughter.  A first granddaughter for Audrey & John Nankivell and for Derek & Karen Hayes.

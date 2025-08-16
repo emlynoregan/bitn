@@ -19,6 +19,7 @@ topics:
 - municipal expenditure
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He also believes the proposed expenditure at Hallett and Daveystown is a waste of money.

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Stony Gap. There will be two sermons on 22 Dec. & a tea-meeting on 25 Dec. in aid of [the schoolhouse; though this is illegible.]

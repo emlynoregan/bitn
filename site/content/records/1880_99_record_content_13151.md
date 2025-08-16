@@ -22,6 +22,7 @@ topics:
 - hospital
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr McGovern fell from a cart at Port Pirie and injured his spine. He was brought to Burra Hospital.  He is unlikely to recover.

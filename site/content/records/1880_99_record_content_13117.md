@@ -21,6 +21,7 @@ topics:
 - personal attack
 - social class
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘B.F.L.’ responds to Hardy’s letter, but with a personal attack rather than answering Hardy’s points.  He says among other things:

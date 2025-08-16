@@ -21,6 +21,7 @@ topics:
 - public health
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unsafe Housing.  One of SAMA’s houses in Stock Street, Kooringa, collapsed on Wednesday afternoon.  The roof fell completely in.  It was occupied by Mr Rogers, a blind man, but fortunately no one was at home when it occurred.  There are several other ‘rookeries’ which the authorities should have a look at before someone is buried alive.

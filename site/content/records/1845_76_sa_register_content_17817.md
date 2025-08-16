@@ -19,6 +19,7 @@ topics:
 - economy
 - wool
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wool is beginning to come down fast and several loads have already passed through Kooringa.

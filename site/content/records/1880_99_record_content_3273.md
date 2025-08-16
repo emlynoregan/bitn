@@ -19,6 +19,7 @@ topics:
 - bridge
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The footbridge near the Courthouse is to be repaired and strengthened.

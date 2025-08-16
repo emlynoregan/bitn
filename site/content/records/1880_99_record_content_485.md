@@ -23,6 +23,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  24 February, Charles, 2nd son of Richard Taylor of Sandy Creek & Martha Louisa, 2nd daughter of Mr George Dixon of Kooringa.

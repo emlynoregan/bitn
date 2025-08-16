@@ -21,6 +21,7 @@ topics:
 - sports
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Wednesday afternoon sports on the Burra Oval saw J. Smith win the Sheffield Handicap (£1).  P. Scott won the hop, step & jump.  W. Richardson was 1st at kicking the football.

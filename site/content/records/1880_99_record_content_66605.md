@@ -18,6 +18,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain recently has done good around Burra, but more is urgently needed to the east.

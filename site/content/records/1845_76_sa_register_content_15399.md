@@ -24,6 +24,7 @@ topics:
 - death
 - heart_disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa News, 11 March

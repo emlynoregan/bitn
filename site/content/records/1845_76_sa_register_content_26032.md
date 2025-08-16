@@ -23,6 +23,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 St Mary’s, Burra.  The Bishop of Adelaide held a service at St Mary’s on Sunday morning when 20 were confirmed.  Many more candidates had been prepared, but were prevented from attending due to being ill with measles, which is very prevalent at present.  Few families have escaped and adults as well as children are being attacked.  He preached at Kooringa in the morning, at the Redruth Schoolroom in the afternoon and again at Kooringa in the evening.

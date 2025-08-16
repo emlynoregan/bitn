@@ -26,6 +26,7 @@ topics:
 - assessment
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Davies asked questions about the awarding of work to higher priced tenderers and the giving of work to certain favoured ratepayers.

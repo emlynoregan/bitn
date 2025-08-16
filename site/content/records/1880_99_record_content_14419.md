@@ -19,6 +19,7 @@ topics:
 - land nationalisation
 - speech
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr P. McM. Glynn’s speech on Land Nationalisation is reported in just under 3 columns.

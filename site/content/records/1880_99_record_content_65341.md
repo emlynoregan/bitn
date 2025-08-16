@@ -23,6 +23,7 @@ topics:
 - bore
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mine.  Report of the Government Geologist.

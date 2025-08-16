@@ -18,6 +18,7 @@ topics:
 - weather
 - records
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rainfall figures for the years from 1888 are printed.

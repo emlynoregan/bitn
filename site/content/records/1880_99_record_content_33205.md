@@ -19,6 +19,7 @@ topics:
 - animal
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Allen was fined 1/- + 10/- costs for an unregistered dog.

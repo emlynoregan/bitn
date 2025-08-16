@@ -18,6 +18,7 @@ topics:
 - fundraising
 - fair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Fancy Fair raised £350 over three days, with 700 paying admission on Thursday evening.

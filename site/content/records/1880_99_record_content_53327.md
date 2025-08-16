@@ -20,6 +20,7 @@ topics:
 - fundraising
 - Sunday School
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Douglas Primitive Methodist Sunday School Anniversary on 18 & 21 March was well attended and proceeds exceeded £11.

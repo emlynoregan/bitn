@@ -18,6 +18,7 @@ topics:
 - government
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Payment of Members Bill has passed its second reading in the Legislative Council.

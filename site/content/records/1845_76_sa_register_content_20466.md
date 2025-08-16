@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The mine only went to 60 fathoms and it would certainly go deeper, although perhaps not by the present company.  Another cause of the stoppage was the lack of a railway.  Had that been made sixteen years ago the Burra would not now be in its present plight.

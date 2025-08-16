@@ -25,6 +25,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lutheran Church.  Annual picnic for children at Baldina on Monday last was a success.  The spot was beautiful.  Pastor Leideich and Mr Frichauf of Point Pass examined the pupils in German and English and they acquitted themselves well, especially as the recently appointed teacher, Miss Grier has only had them since May.  They then adjourned to Arnold’s Scrub where a cricket match was played between Baldina and Allcomers in which the Allcomers were woefully beaten.

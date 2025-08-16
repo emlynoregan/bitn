@@ -22,6 +22,7 @@ topics:
 - appointments
 - bank
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.A. Jaffrey, Manager of the Bank of Australasia in Kooringa has been transferred to Adelaide and will be succeeded by James Hogg.

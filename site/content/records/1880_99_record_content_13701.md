@@ -31,6 +31,7 @@ topics:
 - water
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder moved that to show the advantages of the Burra route it be surveyed so that a fair comparison is possible.  He was willing to concede to another route if it would serve the colony better, but believed a fair and informed comparison would support the direct route from Burra.  The hills around Burra could be easily negotiated and after five or six miles the route would be flatter than any other.  Local trade along the route would be in their favour.  Wool would come from the south side of even this route and every mile north towards the Petersburg line was injurious to this trade.  The land in NSW would also be more usefully served by the more southerly line.  Pt Adelaide was the best port to serve the Silverton trade.  To place a break of gauge between the northeast and the chief port was not to be tolerated.  The line must be on the broad gauge.  They could save 41 miles by this more direct line.  The water to the east was good also at Government Dam (70 miles), Gorge Well (103 miles), Davenborough Well (130 miles, Duffield’s Well (150 miles), and Upper Mingary (160 miles).  They must press their claim.  Seconded by J. Duff and carried unanimously.

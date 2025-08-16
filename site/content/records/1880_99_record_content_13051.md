@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - environment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Persons willing to plant and care for street trees will be given tree guards.

@@ -17,6 +17,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On Saturday Allcomers 2 defeated Colours 1, probably, but scores are not given clearly and the behinds are not recorded.

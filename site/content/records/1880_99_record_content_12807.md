@@ -21,6 +21,7 @@ topics:
 - property
 - rental
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt. R. Austin has to let a shop and dwelling house of five rooms in the best business site in Aberdeen.  Presently occupied by Gartrell & Co.  [Presumably the shop adjoining Austin’s butcher shop.]

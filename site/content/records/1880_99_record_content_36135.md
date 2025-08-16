@@ -17,6 +17,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two tenders were received for the new footbridge.  Decision to stand over till next meeting.

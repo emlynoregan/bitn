@@ -18,6 +18,7 @@ topics:
 - news
 - local
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Short local news items follow with a column headed ‘Items’ which carried very brief reports which were sometimes quite cryptic, though less so to the locals of the day, of course.

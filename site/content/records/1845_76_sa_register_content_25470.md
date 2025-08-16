@@ -21,6 +21,7 @@ topics:
 - shearing
 - diggings
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo.  Crops have been looking promising, but rain is now needed.

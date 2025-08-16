@@ -21,6 +21,7 @@ topics:
 - arrivals
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arrivals.  Rev. M. Ashton, the new Bible Christian minister, came last week and Revs H.T. Burgess and J.H. Hadley, the Wesleyan ministers, this week.

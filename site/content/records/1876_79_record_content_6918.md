@@ -19,6 +19,7 @@ topics:
 - community
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Institute. There is a 2 column report of the laying of the foundation stone etc.

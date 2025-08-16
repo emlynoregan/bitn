@@ -20,6 +20,7 @@ topics:
 - community
 - organisation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Alfred Hallett is trying to organise a company of Free Rifles in Burra.

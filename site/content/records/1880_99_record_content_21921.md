@@ -22,6 +22,7 @@ topics:
 - opinion
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ‘Erratic’ Correspondent of the paper writes of the SA Governor [Sir William C.F. Robinson] that a man who can say the things he has said to the unemployed while ‘at the same time pocketing £5,000 per year for doing nothing, ought to be tarred and feathered and set fire to.’

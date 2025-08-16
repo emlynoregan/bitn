@@ -19,6 +19,7 @@ topics:
 - entertainment
 - horse training
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Horse Training.  Professor St Leger has been giving very successful exhibitions of horse-taming at Pearce’s Yards.

@@ -21,6 +21,7 @@ topics:
 - legal
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Council has decided not to recognise the claim for £2-2-0 from Mr P. Pendlebury (lawyer) as costs for handling the assessment appeal cases, in excess of the £1-1-0 already paid.

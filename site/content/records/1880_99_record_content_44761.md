@@ -23,6 +23,7 @@ topics:
 - competition
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shooting Match, last Wednesday Burra Co. v. Jamestown Co. on their respective ranges.  Burra 321 defeated Jamestown 276.

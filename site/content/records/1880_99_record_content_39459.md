@@ -23,6 +23,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On Christmas Day the children had their annual treat and the public tea was well patronised.  The public meeting was presided over by J. Jones, one of the Sunday school superintendents and addresses were given by Rev. R.M. Hunter and Mr T. Pedler.

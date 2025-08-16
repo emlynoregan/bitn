@@ -21,6 +21,7 @@ topics:
 - advertisement
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  George Mayger’s Burra Market for fresh fish, fruit, vegetables, saveloys, black & white puddings, polonies, brawn, and pork sausages.

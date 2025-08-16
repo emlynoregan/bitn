@@ -23,6 +23,7 @@ topics:
 - politics
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 New Government.  On 13 June the Downer Government was defeated on the floor of the House.  The new Government will be a Kingston-Holder administration containing three former Premiers: Playford, Cockburn & Holder.

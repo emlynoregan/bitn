@@ -18,6 +18,7 @@ topics:
 - mining
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Mr W.J. Peterswald’s report is printed also.  This essentially confirms the above, with a little more detail, but seems to make no recommendations about the likelihood of there being a payable field there.]

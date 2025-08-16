@@ -19,6 +19,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Annual Sports Meeting was held on 10 February.  About 500 attended a very successful event.  In addition to the usual flat races and hurdles there was tilting, a three-legged race, an egg-and-spoon race, pole leaping (7’3”), a sack race, and other events for boys and girls.

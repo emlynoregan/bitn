@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A young man called Monro, at Mt Bryan Station, cut his femoral artery while cutting up a sheep and bled to death before help could be obtained.

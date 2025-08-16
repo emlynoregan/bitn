@@ -22,6 +22,7 @@ topics:
 - reopening
 - preachers
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The Spring Bank Primitive Methodist Chapel will be re-opened next Sunday, 18 June.  Preachers, T. Hutchins 2.30 p.m. and C. Rawling 6 p.m.

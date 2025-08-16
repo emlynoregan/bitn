@@ -18,6 +18,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Worrell & Gardiner’s Troupe has arrived and promises excellent entertainment on Thursday, Friday and Saturday evenings.

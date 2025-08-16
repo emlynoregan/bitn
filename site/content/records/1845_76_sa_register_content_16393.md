@@ -23,6 +23,7 @@ topics:
 - advertisement
 - timetable
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  W.H. Opie will commence running his new conveyance on Tuesday 10 March.  He will start from Kapunda on the arrival of the first train from Adelaide every Tuesday, Thursday and Saturday and will leave Burra every Monday, Wednesday and Friday.

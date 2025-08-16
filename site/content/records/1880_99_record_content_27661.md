@@ -20,6 +20,7 @@ topics:
 - tender
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tenders are invited on behalf of William Killicoat for taking down all the buildings on the Bon Accord mining property in accordance with specifications.

@@ -26,6 +26,7 @@ topics:
 - provisions
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Teamster’ writes from along the road to Burra Burra 7 October.

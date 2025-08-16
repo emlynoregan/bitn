@@ -21,6 +21,7 @@ topics:
 - advertisement
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Program for the entertainment at the Institute for the Queen’s Birthday Concert, 24 May.  [It features the usual songs and Mr W.G. Lester, the Premier Ventriloquist and the comedy, ‘Make Your Wills.’

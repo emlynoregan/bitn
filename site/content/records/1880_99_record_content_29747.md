@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill water supplies are so low that SA may soon have to send water in by rail.

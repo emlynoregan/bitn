@@ -20,6 +20,7 @@ topics:
 - postal service
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 English Postage from 1 January will be 4d for letters and 2d for postcards if mailed via Plymouth.

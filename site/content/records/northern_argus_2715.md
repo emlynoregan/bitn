@@ -21,6 +21,7 @@ topics:
 - tourism
 - food
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Polly’s Tea Room, run by Anna & Hank Bernhard, is a popular place and their recently introduced miner’s lunch comprising pea soup, a Cornish pasty and apple crumble with cream has been a hit.  The chance to see the old Burra Record printing office is another attraction.

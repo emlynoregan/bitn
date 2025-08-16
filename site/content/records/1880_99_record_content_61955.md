@@ -23,6 +23,7 @@ topics:
 - agriculture
 - land policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Mitchell, a candidate for the Legislative Council drew only a small attendance for an address at the Institute last Saturday.  He said he aimed to represent the farmers’ interests.  He was for federation, and for the present tax system.  He opposed a single tax and thought it unfair to put all tax on land.  The Legislative council term should be cut from 9 to 6 years.  Qualifications for a vote in the Legislative Council should drop to £15 or £20 [annual value] or £150 of improvements.  He was for payment of members, a State Bank, fixity of tenure and a peppercorn rent for pastoral lands now unoccupied.  Good land now in sheep runs should be given over to agriculture.  He was against a wealth tax.

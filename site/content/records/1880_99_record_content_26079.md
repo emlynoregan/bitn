@@ -19,6 +19,7 @@ topics:
 - animals
 - danger
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poison has been laid in the streets to kill dogs by a person or persons unknown.  This is against by-laws and is dangerous to children.

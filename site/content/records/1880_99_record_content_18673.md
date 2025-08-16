@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Conference President, Rev. C.T. Newman, will meet the young people of Burra and Hanson circuits at tea in the Kooringa Wesleyan Lecture Hall, next Wednesday afternoon.

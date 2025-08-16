@@ -19,6 +19,7 @@ topics:
 - editorial
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Parliament’s talk, talk, talk about rabbits.  The Rabbit Bill.

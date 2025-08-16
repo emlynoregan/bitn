@@ -20,6 +20,7 @@ topics:
 - community
 - dance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Burra Quadrille Assembly - next Thursday 14 August. John Duff, Hon. Sec.

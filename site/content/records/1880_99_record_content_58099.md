@@ -20,6 +20,7 @@ topics:
 - agriculture
 - event_preparation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. McLaren was permitted to run a flock of sheep on the oval for a few days before the show as long as they were supervised and not left overnight.

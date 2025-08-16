@@ -19,6 +19,7 @@ topics:
 - entertainment
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. The performance by the Infant Mozart at the Institute was miserably attended. The performance was very impressive and deserved better audiences.

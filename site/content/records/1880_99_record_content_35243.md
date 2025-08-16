@@ -20,6 +20,7 @@ topics:
 - poisoning
 - public appeal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dog Poisoner.  We again protest at the barefaced rascality carried on by some evil disposed person in the wholesale poisoning of dogs about the town.  For the past year or more it has been a constant thing to hear of valuable dogs being poisoned actually on their own chains.  We will assure anyone of a substantial reward who will leave the name of the guilty person(s) at this office.

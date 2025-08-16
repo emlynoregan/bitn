@@ -22,6 +22,7 @@ topics:
 - politics
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy is spreading lies about the assessment.  He has rushed into print and says John Lewis is assessed at £20 and Dr Brummitt at £42.  In fact the former is assessed at £50 and the latter at £42.  ‘Another proof of our previous assertion, viz, figures are beyond the noted “Billy”.’

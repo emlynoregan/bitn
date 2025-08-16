@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident/Obituary.  On Friday 13 December a young lad, Frederick Scott, the son of a clerk at the Burra Mine store, was riding in a wood carter’s empty dray when he fell through the insecure bottom as it passed the Aberdeen Hotel.  The driver, a son of Mr Hanford a neighbouring farmer, stopped the bullocks.  The victim would have escaped unhurt, but in getting up he kicked on of the bullocks and they moved forward.  The wheel of the dray crushed the lad’s skull. He was taken up unconscious and died soon afterwards.

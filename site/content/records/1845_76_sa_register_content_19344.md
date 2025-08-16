@@ -27,6 +27,7 @@ topics:
 - indigenous
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 J.C. of Clare on 2 May writes on the state of the Country.

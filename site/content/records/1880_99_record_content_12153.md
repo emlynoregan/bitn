@@ -21,6 +21,7 @@ topics:
 - costs
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arthur Akhurst (solicitor etc.) writes to put the Davison v. O’Brien case into a different light with respects to costs.

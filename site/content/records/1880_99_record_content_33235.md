@@ -20,6 +20,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Baton’ writes again on the Bandsmen.  In a tediously longwinded piece he eventually makes the point that he has since been informed that what he called Band No. 2 is the Burra Band - comprising 9 bandsmen on Saturday night in the hall.  Its performance is fairly favourably reviewed.

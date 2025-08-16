@@ -47,6 +47,7 @@ topics:
 - obituary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs W. West died at Burra Burra Mines at quarter to ten Thursday evening, 26 October.  She was the eldest daughter of the late Edmund Joiner, Inspector of County Police, Petworth, Sussex, where she was born 12 April 1838.  In January 1858 she sailed with her sister from London in the Stately and arrived in May 1858.  In November 1858 she came to Burra as companion to the late Mrs Mauran and in April 1859 was married by Rev. R.C. Flockhart, Wesleyan minister at Kooringa, to William West, present manager of the SAMA estate at Burra.  For some years she and her husband engaged in teaching at Redruth.  In 1873 Mr West gave up teaching and became an official on the staff of SAMA.  In 1891-92 she was Mayoress of Burra and loyally and efficiently assisted her husband in his duties.  On November 30 1892 she christened the new bridge in Aberdeen ‘The Bon Accord Bridge’. 

@@ -19,6 +19,7 @@ topics:
 - celebration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Marie & Peter Hall also attended the Vice-Regal wind-up celebrations for Jubilee 150.

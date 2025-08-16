@@ -19,6 +19,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This presumably suggests that Mr H. Cowan left town without paying his advertising bill with the newspaper.]

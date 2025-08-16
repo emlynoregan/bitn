@@ -20,6 +20,7 @@ topics:
 - entertainment
 - billiards
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  T. Oliver, champion handball billiard player will give an exhibition on Wednesday evening at the Burra Hotel.  He will concede 500 in 1,000 to the best local player.  Admission 2/-.

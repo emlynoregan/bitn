@@ -19,6 +19,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football, Saturday, Burra 1.9 defeated Allcomers 0.4

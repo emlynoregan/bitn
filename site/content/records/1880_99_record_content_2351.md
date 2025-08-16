@@ -18,6 +18,7 @@ topics:
 - mayor
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An allowance for the Mayor should be considered.  He has so far had no consideration for expenses.

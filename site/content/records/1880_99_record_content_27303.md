@@ -20,6 +20,7 @@ topics:
 - industry
 - supply
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Broken Hill Mines require 200,000 feet of sawn timber per month from Wirrabara.

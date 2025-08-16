@@ -19,6 +19,7 @@ topics:
 - public_safety
 - animal_cruelty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Dog Poisoner is again active.  [And judging from a line in the ‘Sparks’ column got one of Cr Rabbich’s dogs]

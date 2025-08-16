@@ -21,6 +21,7 @@ topics:
 - politics
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Caldwell wishes the House of Assembly to open with prayers.  Now there are prayerful men in the House, but for many it would be casting pearls before swine.  Fancy a prayer to a Kingston, a Rees, or a Rounsevell?  Why it is absurd.

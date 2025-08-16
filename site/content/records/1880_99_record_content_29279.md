@@ -18,6 +18,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Agricultural Bureau meeting is reported in 1 column of detail.

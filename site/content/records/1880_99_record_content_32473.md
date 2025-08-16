@@ -23,6 +23,7 @@ topics:
 - typhoid
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Truth writes that an article in the Barrier Miner from that journal’s Burra correspondent says that the town is in a panic over typhoid with people leaving and 50 cases under treatment.  In fact the outbreak was quickly controlled and spread to few people.  The 50 cases involve many brought into the hospital from outside the town: including from the Barrier Ranges area.  In Burra 5 out of 507 families have reported cases.  In March 3 people died: all of then non-residents and in April 3 residents and 1 outsider died.  So far in May there have been no deaths and no typhoid scare in the town.

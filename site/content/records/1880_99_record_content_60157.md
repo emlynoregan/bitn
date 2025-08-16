@@ -20,6 +20,7 @@ topics:
 - show
 - official visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc.  Has received a letter indicating the intention of the Governor to attend the show on 23 September.

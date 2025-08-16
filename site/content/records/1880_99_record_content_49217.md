@@ -20,6 +20,7 @@ topics:
 - procedure
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks said that last time it was deemed informal.  It is formal this time – still the Mayor would not entertain it.

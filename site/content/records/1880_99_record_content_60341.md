@@ -21,6 +21,7 @@ topics:
 - fundraising
 - foreign missions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Rev. C. Bice will give a lecture on Melanesia illustrated with Lantern Views on Tuesday 4 August in St Mary’s Schoolroom.  Collection in aid of Foreign Missions.

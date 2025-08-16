@@ -26,6 +26,7 @@ topics:
 - employment
 - contracts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Observer’ writes on the Monster Mine and Smelting Works.

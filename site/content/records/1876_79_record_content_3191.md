@@ -24,6 +24,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. W. Woollacott waited on the Council to complain that his nomination to stand for Mayor had been returned to him opened. The mayor denied that it had ever been received.

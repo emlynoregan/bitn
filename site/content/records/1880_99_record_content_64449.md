@@ -19,6 +19,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Good soaking rain has continued this week with 58 points at the local post office for the week.

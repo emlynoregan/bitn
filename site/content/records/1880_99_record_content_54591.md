@@ -20,6 +20,7 @@ topics:
 - employment
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  District Council of Burra advertises for a Ranger.  His duties include Inspector under the Vermin, Sparrow, Noxious Weeds and Health Act.  He will need to keep not less than two horses.  £100 p.a.

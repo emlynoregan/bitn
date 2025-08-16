@@ -23,6 +23,7 @@ topics:
 - animal welfare
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Black Springs News, 20 July

@@ -20,6 +20,7 @@ topics:
 - criticism
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [It is worth noting that among the objections there is no mention of the racial stereotypes and racial slurs that to a modern critic would presumably be at the forefront of objections.]

@@ -21,6 +21,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In aid of the Catastrophe at Broken Hill, to help widows and children of the men killed at the South Mine last Thursday 18 July.

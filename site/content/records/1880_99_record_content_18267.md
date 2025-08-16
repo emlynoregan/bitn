@@ -20,6 +20,7 @@ topics:
 - farewell
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Public Tea to farewell the Rev. Howitt, in the Institute Wednesday 8 July.

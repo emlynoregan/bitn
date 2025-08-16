@@ -17,6 +17,7 @@ topics:
 - events
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain again on Wednesday caused Arbor Day to be postponed till further notice.

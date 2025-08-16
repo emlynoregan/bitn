@@ -19,6 +19,7 @@ topics:
 - bonus
 - subsidy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr West thought they might pay it as a bonus and no subsidy asked.

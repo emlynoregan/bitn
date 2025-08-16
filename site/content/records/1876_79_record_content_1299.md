@@ -21,6 +21,7 @@ topics:
 - agriculture
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits: More debate on the rabbit problem - a good case could be made the paper says for preserving the meat and using the fur. The canned meat could be sold at 8d/lb in UK and 1/- lb in India. Much more detail given.

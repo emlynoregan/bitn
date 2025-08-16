@@ -23,6 +23,7 @@ topics:
 - legal
 - municipal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. The Council agreed to the location of a weighbridge for J.W. White. The misappropriation of a cheque for £12 by Mr Fogg was discussed and finally the matter placed in the hands of the solicitor with power to act.

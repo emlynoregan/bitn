@@ -21,6 +21,7 @@ topics:
 - tennis
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tennis will be played Clare v. Burra next Monday on the court opposite the hospital.

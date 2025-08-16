@@ -24,6 +24,7 @@ topics:
 - volunteers
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co, MI.  A gentleman at Terowie has proposed that Lieut. J.A. Watt make arrangements to work Terowie as a contingent to Burra as there are about 20 good men there willing to join the volunteers.  No doubt the General will see his way clear to granting the request.

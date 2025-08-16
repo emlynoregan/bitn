@@ -19,6 +19,7 @@ topics:
 - accident_prevention
 - invention
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gun Safety.  On Monday we saw an automatic appliance designed by Mr D.J. O’Leary to prevent the accidental discharge of loaded guns.  It would avoid many accidents if it can be practically carried out.

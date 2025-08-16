@@ -20,6 +20,7 @@ topics:
 - polo
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo will be played tomorrow on the grounds near Messrs Drew & Co.’s store at Aberdeen.

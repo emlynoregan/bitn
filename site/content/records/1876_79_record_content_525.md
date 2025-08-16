@@ -24,6 +24,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Notice.  Rev. D. O’Donnell of Clare will give a lecture at the Burra Institute on Saturday night 5 August, on ‘Temperance.’  On 6 August he will preach at the Kooringa Wesleyan Church at 10.30 a.m. and 6 p.m.

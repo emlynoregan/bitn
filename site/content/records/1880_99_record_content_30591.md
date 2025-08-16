@@ -19,6 +19,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Brass Band will give an open-air concert on Thursday evening at 8 p.m. on the flat by the German Chapel.

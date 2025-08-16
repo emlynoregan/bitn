@@ -22,6 +22,7 @@ topics:
 - claims
 - boundary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Booborowie Mine.  Captain Collins has passed through Burra en route to re-open the Booborowie Mine.  The proprietors are fortunate in obtaining their claim, as the North Burra Co. made a mistake as to their boundary and has sunk several shafts and raised some good ore on the Booborowie section under the impression it belonged to them.

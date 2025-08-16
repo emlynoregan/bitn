@@ -20,6 +20,7 @@ topics:
 - event
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church was the site for the service of song Jessica’s First Prayer last Wednesday evening.  It was well attended and was illustrated by Mr Thomas through his powerful oxy-ether lantern.

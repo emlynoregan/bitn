@@ -24,6 +24,7 @@ topics:
 - goldfields
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfields.  The Government Geologist reports on the field and is given over a column of detail.  In 1870 or 1871 gold was discovered on section 650 (The White Lead) then on Noltenius Creek section 673 and down Coglin’s Creek.  At present 80-100 men are working.  All gold so far has been alluvial and some good finds have been recorded.  Much of the most likely country is unavailable, being on private land.  The field has been continuously worked for the last 15 years, sometimes with a mere handful of men.

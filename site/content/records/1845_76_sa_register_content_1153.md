@@ -19,6 +19,7 @@ topics:
 - advertisement
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advt.  SA Mining Association.  Wanted: a General Superintendent to reside at the Burra Burra Mines.

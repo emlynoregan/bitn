@@ -21,6 +21,7 @@ topics:
 - advertising
 - criticism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘W.H. Morton’ writes condemning ‘Economist’ for his recent letter, accusing him of holding religion up to be scoffed at and pointing out that the entertainment in question was in fact also the subject of paid advertisement.

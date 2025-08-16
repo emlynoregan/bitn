@@ -18,6 +18,7 @@ topics:
 - community
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A movement has been made towards getting a piano for the Institute.

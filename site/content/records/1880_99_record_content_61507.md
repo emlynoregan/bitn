@@ -18,6 +18,7 @@ topics:
 - community
 - humour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Largely local news and reports from correspondents from surrounding districts.  Occasional pieces from further afield and a few items of humour.  The ‘Sparks’ column continues to be somewhat enigmatic at times.

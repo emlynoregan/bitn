@@ -20,6 +20,7 @@ topics:
 - community
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Maureen & Barry Wright are back from their River Murray trip and now must set about revising the River Murray Charts.

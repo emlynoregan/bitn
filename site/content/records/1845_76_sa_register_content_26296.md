@@ -22,6 +22,7 @@ topics:
 - rabbits
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 9 April 1875, page 7

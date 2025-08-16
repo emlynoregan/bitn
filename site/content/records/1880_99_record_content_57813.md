@@ -24,6 +24,7 @@ topics:
 - crime
 - robbery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Robbery.  A man named Dempter pitched his tent near the Elder, Smith & Co. saleyards at Aberdeen on 26 July and spent the evening with friends.  During his absence a mate from another tent took all his possessions and left by the express for Adelaide before the victim discovered his loss.  The accused is expected to be captured before long.  On the same day Mr Westwood lost his overcoat from a peg in a passage at the Bon Accord Hotel.

@@ -20,6 +20,7 @@ topics:
 - property tax
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editor says that the Register has taken up his article in favour of a property tax (without acknowledgement) and now agrees with his views.

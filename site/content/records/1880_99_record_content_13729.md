@@ -22,6 +22,7 @@ topics:
 - Salvation Army
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 28 ratepayers presented a memorial desiring that the Salvation Army be prevented from parading the streets on the Sabbath with a brass band ‘in desecration thereof’, ‘utterly subveraive [sic] of the decorum which should characterise a day set apart for rest and devotion.’

@@ -20,6 +20,7 @@ topics:
 - fraud
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fraud.  Beware of John McDonald who is pretending to be blind and is soliciting alms in the area.

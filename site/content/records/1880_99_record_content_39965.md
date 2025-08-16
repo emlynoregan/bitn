@@ -21,6 +21,7 @@ topics:
 - court
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a report running for almost a column on the case of Charles Roberts who was accused of stealing in excess of £70 from Andrew Fairbairn and who was ultimately committed for trial in Adelaide.

@@ -18,6 +18,7 @@ topics:
 - community
 - publishing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Smaller advertisements , classified type entries and in particular advertisements relating to sales of stock, land, farming equipment and contents of homes.  Public notices relating to Councils, churches, Government agencies and entertainment are common.  Editorials are followed by general and local news.

@@ -19,6 +19,7 @@ topics:
 - agriculture
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Tenders are called for 58 miles of vermin-proof fencing in the Murkaby Vermin District.

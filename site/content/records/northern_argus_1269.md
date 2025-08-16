@@ -18,6 +18,7 @@ topics:
 - community
 - conference
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 CWA.  The 42nd Warnes Group Conference was held at Yacka 14 April.

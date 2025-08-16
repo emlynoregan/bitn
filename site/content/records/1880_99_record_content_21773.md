@@ -19,6 +19,7 @@ topics:
 - benefit
 - Morton fund
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Morton fund received £1-1-0 from the foresters’ Demonstration, and the benefit concert was very popular, raising £15 for the fund.

@@ -21,6 +21,7 @@ topics:
 - appointment
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W.O. North is expected to arrive shortly to replace Rev. T.M. Flood.  He was a splendid footballer in the past.

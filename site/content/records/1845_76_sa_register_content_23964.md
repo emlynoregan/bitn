@@ -25,6 +25,7 @@ topics:
 - experiments
 - production
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Mine.  26th Annual Report.

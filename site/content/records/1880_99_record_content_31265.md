@@ -23,6 +23,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Discussion was held on ways to use the copious water to be found in Diprose Creek.  Perhaps it could serve some 20-acre homestead blocks.  Further north, at Jilbert’s Well, water also goes to waste.  ‘For many years this was the principle one from which most of Kooringa was supplied with water.’

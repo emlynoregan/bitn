@@ -17,6 +17,7 @@ topics:
 - mining
 - satire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [This notice is a satirical comment on speculative mining ventures.]

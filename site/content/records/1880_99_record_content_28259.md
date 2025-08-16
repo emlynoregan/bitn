@@ -21,6 +21,7 @@ topics:
 - sport
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Young Australians went to Clare on Good Friday, but only nine made the trip and two substitutes had to be arranged on arrival.  The team departed at 5.45 a.m. and got to Clare about 9 a.m.  They left for home c. 5.30 and arrived back at 9 p.m.

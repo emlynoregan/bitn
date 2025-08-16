@@ -21,6 +21,7 @@ topics:
 - methodist
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Circuit quarterly meeting showed the affairs to be in good order.  Rev. R.J. Daddow received a hearty and unanimous invitation to remain another year and a vote was passed in favour of Methodist Union.

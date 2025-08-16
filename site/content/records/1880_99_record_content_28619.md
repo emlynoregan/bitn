@@ -21,6 +21,7 @@ topics:
 - entertainment
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute has granted rehearsal space once a week to the Burra Musical Union in return for two concerts during the coming winter, to benefit Institute funds.

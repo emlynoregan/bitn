@@ -20,6 +20,7 @@ topics:
 - advertisement
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Liston, Shakes & Co. offer 3,000 sheep on 6 June Coles & Goodchild offer 2,100 sheep on 2 June

@@ -19,6 +19,7 @@ topics:
 - accident
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Dani Fidock is presently in Adelaide in hospital, recovering from a car accident.

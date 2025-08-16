@@ -19,6 +19,7 @@ topics:
 - sports
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Graham Kessell was named outstanding male athlete at the SA Country Athletic Championships at Berri over Easter.

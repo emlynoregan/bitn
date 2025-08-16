@@ -21,6 +21,7 @@ topics:
 - medical
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 New Doctor. Dr Sangster from Strathalbyn may be coming to Burra. We would have thought that two doctors were enough. A third seems due more to party feeling than any necessity.

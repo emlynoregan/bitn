@@ -22,6 +22,7 @@ topics:
 - injury
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  As Rev. Stanton was leaving St Mary’s Church today the wheel of his carriage caught the corner of the bridge fence on the road.  Mr Stanton was thrown out with great violence and the shafts and traces were broken.  Mr Stanton lay unconscious for more than fifteen minutes and serious fears were held for his safety.

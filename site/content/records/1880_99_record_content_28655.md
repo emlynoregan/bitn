@@ -17,6 +17,7 @@ topics:
 - weather
 - storm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  There was a severe hailstorm last Wednesday with hail up to the size of marbles.  There was much thunder and lightning and a total of 72 points of rain.

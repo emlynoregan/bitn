@@ -19,6 +19,7 @@ topics:
 - politics
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the political role of churches.  He agrees that the churches have and ought to have political influence, but not by using pulpits as a vehicle for carrying on political strife or the issuing of ‘tickets’ by various churches with churches converted to political camps.  He has the same aim as Rev. J. Haslam, retiring Wesleyan Conference President, but would get there by very different means.

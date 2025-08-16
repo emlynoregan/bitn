@@ -23,6 +23,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Cricket on Good Friday.  Medindie (Adelaide) will play Burra at Burra Oval, with the Adelaide Military Band.

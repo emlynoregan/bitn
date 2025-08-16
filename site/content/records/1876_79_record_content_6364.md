@@ -18,6 +18,7 @@ topics:
 - church
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. St Joseph's Church anniversary Sunday 11 May.

@@ -21,6 +21,7 @@ topics:
 - advertisement
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 E.M. Bennett	Music Teacher of Riverton: in Burra Mondays

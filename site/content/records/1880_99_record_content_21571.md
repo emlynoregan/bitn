@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  50 miles of earthwork have now been completed from Petersburg and this week plate laying will begin at the expected rate of 4 miles a week.

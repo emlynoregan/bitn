@@ -19,6 +19,7 @@ topics:
 - council
 - procurement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The remaining tenders were of the same value [2/3 per yard from the editorial] and were disposed of by ballot.

@@ -20,6 +20,7 @@ topics:
 - real estate
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  House to let of five rooms opposite Dr Sangster in Commercial St.  Apply to Miss Coglin.

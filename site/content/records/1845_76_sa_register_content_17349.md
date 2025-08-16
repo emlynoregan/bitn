@@ -23,6 +23,7 @@ topics:
 - business
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thomas Baker writes from Ediowie [Edeowie] in the Far North 24 March:

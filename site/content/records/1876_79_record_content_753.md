@@ -30,6 +30,7 @@ topics:
 - leasehold
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Notice.  W. Wadham & Co. will sell on instructions from Henry Charles Swann all the valuable freehold property and Saddler’s, Blacksmith’s and Wheelwright’s stock-in-trade in the estate of Michael Terry, a lunatic.  Aberdeen 8 August.

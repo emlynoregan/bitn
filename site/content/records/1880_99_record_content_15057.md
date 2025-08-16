@@ -19,6 +19,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 During the year the trustees have reduced the debt on the church and paid £40 for an allotment of land.

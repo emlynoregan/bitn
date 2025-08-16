@@ -20,6 +20,7 @@ topics:
 - waterworks
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A meeting of guarantors of the Burra Waterworks is called for 28 July.

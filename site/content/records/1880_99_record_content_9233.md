@@ -20,6 +20,7 @@ topics:
 - business
 - butcher
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  M. Symons has taken over the butchering business in Market Square previously run by W. Symon[s].

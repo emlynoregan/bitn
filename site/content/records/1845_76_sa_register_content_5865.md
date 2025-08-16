@@ -21,6 +21,7 @@ topics:
 - money_orders
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 10 April 1851, page 1

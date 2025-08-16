@@ -22,6 +22,7 @@ topics:
 - auction
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis on Monday 31 august 1891 will auction the whole household effects of F.W. Holder at Kangaroo St.  Also a trolly load of literature in suitable bundles to be sold by the Institute Committee.

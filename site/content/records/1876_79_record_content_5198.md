@@ -20,6 +20,7 @@ topics:
 - association
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett. A meeting has been called for 18 Nov. for the formation of a Young Men’s Mutual Improvement Association in Hallett.

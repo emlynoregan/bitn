@@ -21,6 +21,7 @@ topics:
 - community
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Concert, Good Friday Night in the Institute by Members of the 3rd Regiment Military Band.

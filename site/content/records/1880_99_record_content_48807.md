@@ -22,6 +22,7 @@ topics:
 - land use
 - lecture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Daddow writes on Mr Hogarth’s lecture pointing out that the productive use of the land in terms of generating income is not necessarily a moral use of land.  See the land clearance in Scotland and Ireland.  Rev. Daddow would also suggest the growing of the grape as an example.

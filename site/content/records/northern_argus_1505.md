@@ -19,6 +19,7 @@ topics:
 - golf
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Golf Club open day on Sunday was held in very changeable weather.  About 111 hit off.

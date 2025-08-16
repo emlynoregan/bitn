@@ -20,6 +20,7 @@ topics:
 - pests
 - rural
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are in plague proportions in the Hundreds of Baldina and King.  If nothing is done planting a crop this year will not be worthwhile.

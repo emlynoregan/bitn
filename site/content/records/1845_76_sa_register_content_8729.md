@@ -20,6 +20,7 @@ topics:
 - health
 - vaccination
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Dr W.P. Hill has been appointed Town and District Vaccinator under the Compulsory Vaccination Act.

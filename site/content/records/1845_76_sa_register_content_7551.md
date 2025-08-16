@@ -24,6 +24,7 @@ topics:
 - law
 - order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Following the removal of Mr Lang from Kooringa the administration of justice had not been more promptly or intelligibly administered.

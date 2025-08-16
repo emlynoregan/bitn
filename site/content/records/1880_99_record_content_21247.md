@@ -30,6 +30,7 @@ topics:
 - government
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The SA Government last month opened a Labour Bureau to find work for the unemployed and to provide sustenance.  From 11 December to 11 January 722 names were placed on the roll and 623 accepted offers of work.  388 were sent to Hergott [i.e. Marree, where work on the Central Australian Railway was under way.]  1 went to Beetaloo [where a reservoir was under construction.] 5 to Orroroo, 37 to Thebarton, 14 to Glen Osmond, 52 to Dry Creek, 20 to Maylands, 64 to North Adelaide, 42 to Port Adelaide.  Almost all jobs were labouring and most were stone breaking.

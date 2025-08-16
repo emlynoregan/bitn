@@ -21,6 +21,7 @@ topics:
 - donation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  The shearers and station employees of Oulnina send £13 and those of Outalpa send £10 to the Burra Hospital.

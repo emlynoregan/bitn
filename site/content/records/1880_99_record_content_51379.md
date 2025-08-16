@@ -20,6 +20,7 @@ topics:
 - theatre
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Collet-Dobson Dramatic Co. performed at the Burra Institute on Monday evening in the drama Shaugrahaun.  The performance was greatly appreciated and all parts were well sustained.  It was ‘the most amusing drama played in Burra for some time.

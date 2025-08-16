@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘H.S.B.’ writes urging the railway to the Barrier Ranges go from Terowie, as it would then pass through many more Hundreds capable of agricultural development than would one from Burra.

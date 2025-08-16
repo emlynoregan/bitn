@@ -18,6 +18,7 @@ topics:
 - letter
 - public correspondence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘An Inhabitant’ writes again, to affirm that Dr Nesbitt did not write his earlier letter and had no knowledge of its subject matter, or of its intended publication.

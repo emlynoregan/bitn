@@ -19,6 +19,7 @@ topics:
 - picnic
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ketchowla Sunday School Picnic was held four miles east of Ketchowla last Wednesday, 7 November.

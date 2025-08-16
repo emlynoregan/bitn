@@ -24,6 +24,7 @@ topics:
 - migration
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.G. Gibson, an old Burra resident was for a long while a schoolteacher here and at Copperhouse and Leighton and finally on his own account at Broken Hill.  He has got along comfortably and is now leaving the colonies for England.

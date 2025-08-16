@@ -21,6 +21,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hospital Sunday.  Special services were held at St Mary’s last Sunday when Rev. T. Worthington of Pt Wakefield preached.  Representatives of the Lodges, Town & District Councils and the Hospital Board attended.

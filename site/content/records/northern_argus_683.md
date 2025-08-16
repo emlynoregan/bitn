@@ -21,6 +21,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Birth.  To Josie & Adrian Hill on 7 January, a son, Cameron Robert.

@@ -19,6 +19,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth. On 1 August at `Pencarrow' to the wife of E.N. Finch, a daughter.

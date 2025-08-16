@@ -21,6 +21,7 @@ topics:
 - church
 - testimonials
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  W. Coglin thanks all non-Catholic friends for their liberal subscriptions for a testimonial to Rev. Father Kreissl SJ who is removing to another mission.

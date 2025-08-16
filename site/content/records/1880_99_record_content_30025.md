@@ -19,6 +19,7 @@ topics:
 - waterworks
 - rates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 £900 p.a. was an excessive amount to raise.  The stated £8,500 capital cost claimed by the Government was enormous and the works were never worth it.  £8,500 at 4% is £220.  Allow £150 for wages, £60 for fuel and £20 for the collector and you get £450.  To meet that the Government seek £1,000 in rates.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  On the eastern side of the ranges there has been splendid rain, which will greatly benefit the sown crops.  The weather, which had been very boisterous, is now fine and there are prospects of a good season for the pioneers of agricultural settlement in that direction.

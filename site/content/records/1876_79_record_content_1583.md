@@ -22,6 +22,7 @@ topics:
 - railway
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett railway: District Council also worried about the bridges on this - the Firewood Creek Bridge for example was only planned to be half the width of the creek.

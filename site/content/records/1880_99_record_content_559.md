@@ -21,6 +21,7 @@ topics:
 - obituary
 - infant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 8 March, Helen, daughter of James & Harriet Warnes, aged 11 months.  [Born 9 April 1879.]

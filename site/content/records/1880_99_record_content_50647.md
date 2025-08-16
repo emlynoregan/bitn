@@ -17,6 +17,7 @@ people_mentioned: []
 places_mentioned: []
 topics: []
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Cinderellas held a fancy dress ball in the Institute on Tuesday 25 July.  It was a great success.  W.H. Linkson was the secretary of the committee and the music was entrusted to Mrs Moody and the ladies provided a fine supper.  J.A. Watt acted as MC and dancing continued to the small hours.

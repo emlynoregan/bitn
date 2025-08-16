@@ -19,6 +19,7 @@ topics:
 - goldfield
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  The news is not cheering.  Departures are now numerous and none of the new rushes has proved payable and all the gold being got comes from the old places.

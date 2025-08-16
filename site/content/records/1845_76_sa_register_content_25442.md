@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton produced an entertainment at the Burra Hotel on Tuesday evening, comprising readings, songs, duets, trios and piano pieces.  Mrs Alfred Cave, the wife of Dr Cave, who has lately arrived, contributed sweet songs, which were widely appreciated.  [Other performers are listed.]  £7 was collected for St Mary’s Day School.

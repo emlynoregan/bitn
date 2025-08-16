@@ -23,6 +23,7 @@ topics:
 - obituary
 - typhoid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  A return thanks notice reveals the death recently of a daughter of Mr & Mrs Andrews, presumably of Burra since Dr Sangster is thanked.

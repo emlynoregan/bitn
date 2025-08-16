@@ -29,6 +29,7 @@ topics:
 - community
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton gave another of his popular entertainments assisted by Mrs Smith of Redruth, Misses Young, K. Stanton, Drew and Dawson.  The object was to raise funds for the aid of the librarian Mr Cross who has been seriously ill and has not yet recovered.

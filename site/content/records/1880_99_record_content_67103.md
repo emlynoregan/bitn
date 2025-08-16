@@ -21,6 +21,7 @@ topics:
 - death
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Nero Crewes was found hanging from the bridge across the creek between Chapel St and Queen St by his collar and chain.  The somewhat humorous account of this apparent suicide regrets that police were not informed and an inquest not deemed necessary.  It becomes clear that Nero was E.W. Crewes’s dog.

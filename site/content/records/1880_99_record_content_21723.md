@@ -21,6 +21,7 @@ topics:
 - fundraising
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Concert and Operetta tonight in the Institute in aid of Mrs Morton.  The Military Band will play in front of the hall before the show.

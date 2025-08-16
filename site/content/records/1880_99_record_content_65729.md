@@ -20,6 +20,7 @@ topics:
 - meeting
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Australian National League meeting in the Institute this afternoon to discuss matters re the general elections.

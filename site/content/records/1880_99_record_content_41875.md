@@ -19,6 +19,7 @@ topics:
 - finance
 - membership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court Unity (Foresters) had 157 financial members at its half-yearly financial meeting and a profit of £77 on the half year.

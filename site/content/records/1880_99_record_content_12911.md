@@ -22,6 +22,7 @@ topics:
 - sports
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Sports run by the Oddfellows and Foresters on Friday were a great success, drawing people from many towns including Burra and accommodation was taxed to the utmost.  Results are printed.

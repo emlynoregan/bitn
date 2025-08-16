@@ -21,6 +21,7 @@ topics:
 - migration
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr Both, who has done so much in arranging milling machinery for Mr J. Roach, is leaving the town for Gawler.

@@ -20,6 +20,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church Anniversary last Sunday and Monday.  Rev. T. Piper of Riverton preached.  The year saw the debt reduced by £40.  Proceeds of the anniversary were £58.

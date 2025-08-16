@@ -20,6 +20,7 @@ topics:
 - savings bank
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Post Office is a busy place.  In 1889 4,948 telegrams were despatched and 4,500 were received for an income of £328-17-4.  (1888 had been £364).

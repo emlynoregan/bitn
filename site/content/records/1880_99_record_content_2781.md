@@ -20,6 +20,7 @@ topics:
 - serial
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 19 Aug 81	Major Molineux Ch VI	Echoes of the Past (Part V)	A Brief History of New Zealand Part V	X		X	X	X	X	X

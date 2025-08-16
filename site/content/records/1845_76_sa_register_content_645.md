@@ -28,6 +28,7 @@ topics:
 - incident
 - mines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Captain Finniss [Deputy Surveyor-General and Commissioner of Police] reached home after visiting Moorunde and the Kapunda, Burra Burra and Princess Royal Mines.  He visited the various police stations as far as Mount Remarkable, having ridden some 420 miles.

@@ -20,6 +20,7 @@ topics:
 - seminar
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Mid North Tourist Association Seminar The Role of Local Government in Tourism, was held in burra on 24 September.  [It is reported in a little more than two columns.]

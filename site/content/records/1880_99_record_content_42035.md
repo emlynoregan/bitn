@@ -21,6 +21,7 @@ topics:
 - bridge
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bon Accord Bridge.  The Treasurer has informed the Town Council that the Government will construct the bridge without interfering with the annual road maintenance grant.

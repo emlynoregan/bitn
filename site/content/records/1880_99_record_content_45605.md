@@ -22,6 +22,7 @@ topics:
 - health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  A hawker called J. Gillon was badly burnt when he fell into a fire in a fit at Wadnaminga and he has been brought to the Burra Hospital.  He is not expected to recover.  [Wadnaminga was a run and gold field south of Manna Hill.]

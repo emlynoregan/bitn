@@ -22,6 +22,7 @@ topics:
 - finance
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra D.C. £250 from Crown Lands has passed to Council’s credit for the Nankivell’s Gully Rd and £200 placed in the estimates to be paid on the road’s completion. Mr Sanders, pound-keeper, [Copperhouse] applied for an increase in sustenance rates. Not entertained at present.

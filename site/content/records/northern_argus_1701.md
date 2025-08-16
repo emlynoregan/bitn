@@ -21,6 +21,7 @@ topics:
 - accommodation
 - grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Actually the Corporation rejected the offer, fearing that the income generated would not cover maintenance and they would be left with a bill.  Eventually a Trust was established to manage the cottages.]

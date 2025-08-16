@@ -20,6 +20,7 @@ topics:
 - banquet
 - social_event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A Christmas Banquet was given to 60-70 friends and customers of Mr T. Richardson on last Wednesday. Mr E. Lipsett in the chair.

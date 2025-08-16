@@ -20,6 +20,7 @@ topics:
 - accident
 - drowning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drowning.  A young man named B.W. Cook was drowned in the Terowie lagoon on Saturday.

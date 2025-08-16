@@ -21,6 +21,7 @@ topics:
 - employment
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Ratepayer’ writes urging the Waterworks Committee to find a way of retaining the services of Mr Lapidge, who has done such excellent work over the last five years.

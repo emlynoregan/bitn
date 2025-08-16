@@ -20,6 +20,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter to seek better terms re the rent of meters was to be sent as the Mayor said it was a much higher rent than was charged in Adelaide.

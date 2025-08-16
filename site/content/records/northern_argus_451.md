@@ -29,6 +29,7 @@ topics:
 - prizes
 - tourism
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Broken Hill-Burra Barrow Push 1986

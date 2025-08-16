@@ -18,6 +18,7 @@ topics:
 - football
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The season opens tomorrow when the 1st Twenty play the 2nd Twenty-six.  W. Linkson is field umpire.

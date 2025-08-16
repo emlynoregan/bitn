@@ -23,6 +23,7 @@ topics:
 - insurance
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  At 4 a.m. on 24 January Mr W. Harris, general dealer of Chapel St awoke to find his store on fire and as the ceiling was zinc the smoke was moving into his attached house.  He got his wife and children out, but the building is a total loss.  The building and stock were insured for £200 and £500 respectively.

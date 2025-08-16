@@ -18,6 +18,7 @@ topics:
 - recreation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 There is also the need for a recreation ground. The few earlier stirrings having come to nothing.

@@ -19,6 +19,7 @@ topics:
 - festival
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Sunday School Festival, 27 September with special school service 3 p.m.  Picnic at Princess Royal on Wednesday 30 September, after a special 9.30 a.m. service.

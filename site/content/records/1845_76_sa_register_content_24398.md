@@ -22,6 +22,7 @@ topics:
 - mining
 - wages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  W.F. Coglin the Crown Lands Ranger reports about 200 people on the field.  Trooper Smith, who has just returned from Ulooloo, was informed by several persons that their average earnings for some time had been £4 a week.  A few Victorian diggers have recently arrived there.

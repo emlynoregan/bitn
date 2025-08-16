@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA is to be asked to carry out their undertaking to fix spouting where eaves overhang footways.

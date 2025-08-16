@@ -19,6 +19,7 @@ topics:
 - council
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 DC of Burra met on 9 July and elected J.C. Sandland as chairman for the year.

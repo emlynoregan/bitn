@@ -19,6 +19,7 @@ topics:
 - employment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  The editor supports Cr Sampson’s wish to dispense with the position of inspector for six months.  The position was ‘Ranger, Inspector of Weighs etc., Collector of Rates, Overseer of Works under the Town Council and Inspector under the Board of Health.’  The salary was £110 p.a.

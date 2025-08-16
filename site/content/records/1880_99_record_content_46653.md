@@ -21,6 +21,7 @@ topics:
 - railways
 - reckless driving
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A letter was received from the Commissioner of Railways re the recent accident at the Bon Accord crossing stating it was due to reckless driving.

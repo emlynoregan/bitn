@@ -18,6 +18,7 @@ topics:
 - community
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Assignations.  A good deal of moonlight spooning is done up that Mine Road.

@@ -20,6 +20,7 @@ topics:
 - health
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Maurice Ledwith writes saying he thinks his sons were taken ill from drinking too much water on a hot day and not from poisoning at the Thistlebeds Well as reported.

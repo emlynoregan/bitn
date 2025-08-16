@@ -19,6 +19,7 @@ topics:
 - politics
 - monarchy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Queen Victoria’s 70th birthday and in praise of the constitutional monarchy over which she reigned.

@@ -20,6 +20,7 @@ topics:
 - prizes
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Board of Advice offered prizes for the best essays on the recent trip to the Industrial Exhibition in Adelaide.  91 entries were received and the prize list is printed.

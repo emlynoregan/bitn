@@ -25,6 +25,7 @@ topics:
 - club
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The football club finally managed to get a meeting in the Commercial Hotel on 2 June, though still with only ‘but a fair number present’.

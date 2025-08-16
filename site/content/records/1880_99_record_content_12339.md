@@ -22,6 +22,7 @@ topics:
 - footway
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The footway in Market Square is to be flagged where it has not been, opposite Messrs Lane’s and Geake’s.

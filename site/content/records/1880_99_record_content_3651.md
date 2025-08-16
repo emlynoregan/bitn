@@ -28,6 +28,7 @@ topics:
 - bridge
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He then moved to rescind the motion of 28 Feb. in which certain moneys were appropriated to the bridge in Kangaroo Street.  2nd Cr Lewis, who said he did not wish to be seen to have taken advantage of Cr Sampson’s absence on the 28th, though he claimed that he did have Cr Sampson’s approval for the original motion.  Sampson’s motion carried.

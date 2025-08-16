@@ -19,6 +19,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra School Reporter.  We have a copy of this publication from Mr Wittber, the head teacher at the school.  Published quarterly, it lists all pupils examined and shows 302 on the roll, but an average attendance of 244.  190 were examined.

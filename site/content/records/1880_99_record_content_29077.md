@@ -19,6 +19,7 @@ topics:
 - mining
 - investment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Eaglehawk Mine.  Burra investors hold a large proportion of the shares, which promise to be valuable.

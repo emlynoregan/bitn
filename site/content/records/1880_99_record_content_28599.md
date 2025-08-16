@@ -19,6 +19,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Prospectus of the Wheal Motley Copper Mining Syndicate is published.  The mine is 20 miles east of Paratoo railway station.  The aim is to raise £900 in 180 shares of £5 each.

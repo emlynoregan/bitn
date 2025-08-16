@@ -21,6 +21,7 @@ topics:
 - real estate
 - farm sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  I. Chivell’s farm is for sale at a bargain price of £450.  Situated one mile south of Kooringa on the Burra Creek.  [Details follow.]

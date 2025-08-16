@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth: to the wife of Henry Roach at Aberdeen on 30 May, a daughter.  [Dorothy Roach]

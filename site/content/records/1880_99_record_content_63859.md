@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  D. Rogers won the tender to construct a culvert near Mr M.W. Hunt’s

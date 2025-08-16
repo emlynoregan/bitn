@@ -20,6 +20,7 @@ topics:
 - court
 - conflict of interest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the undesirability of the magistrate and a lawyer in the court being related as is presently the case in Pt Pirie.

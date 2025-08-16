@@ -26,6 +26,7 @@ topics:
 - mining
 - Burra Burra proprietors
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  Samuel Stocks Jnr died at his residence in Hindley Street West last Sunday morning at 6.30 a.m.  He arrived in the colony about seven years ago and commenced his career as a merchant, with a fair promise of success and was regarded by numerous friends as a valued member of the community.  His disposition and manners were frank and his mercantile qualifications of a superior order.  He was one of the original Burra Burra proprietors and the securing of the Special Survey was in no small way due to his activity and influence.  He amassed considerable wealth through that venture and, withdrawing from his commercial pursuits in Adelaide, he undertook the superintendence of the Mine for a considerable period.  In that role his admirable management, in which liberality, good nature and business tact were blended, caused him to be greatly esteemed.  The large and sudden accumulation of property, however, proved a snare, and the deceased unhappily fell into habits of intemperance, which clouded the latter portion of his life, and undermined a fine natural constitution.  ‘In his last moments he was able to express contrition, and his sorrowing friends have hope in his death.’

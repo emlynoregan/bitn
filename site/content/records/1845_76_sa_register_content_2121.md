@@ -20,6 +20,7 @@ topics:
 - business
 - licensing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Abraham Wren, Burra Burra Hotel, Kooringa.  Granted.

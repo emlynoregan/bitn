@@ -18,6 +18,7 @@ topics:
 - sport
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [There is no explanation for Manoora’s remarkable loss of a point in the final quarter!]

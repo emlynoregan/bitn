@@ -19,6 +19,7 @@ topics:
 - transport
 - fire risk
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The coal strike has caused wood to be used in SA locomotives, but the many sparks are causing fires, including some in chaff being carried on the trains.  Wood will not be able to be used once the grass dries off.

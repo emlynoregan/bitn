@@ -18,6 +18,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Legislative Council election results for the Central District, which surprised many by returning two labour men.

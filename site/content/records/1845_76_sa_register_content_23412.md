@@ -20,6 +20,7 @@ topics:
 - weather
 - crop
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  The copious rain recently has given wheat a good start all along the extension railway from Tarlee to the terminus at Aberdeen.

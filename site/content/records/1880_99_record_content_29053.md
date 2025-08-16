@@ -18,6 +18,7 @@ topics:
 - club
 - chess
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Chess Club has been playing a handicap tournament for some weeks.

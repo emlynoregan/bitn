@@ -21,6 +21,7 @@ topics:
 - condolence
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital Board recorded its appreciation of the work of the recently deceased Thomas Walsh and sent a letter of condolence to Mrs Walsh.

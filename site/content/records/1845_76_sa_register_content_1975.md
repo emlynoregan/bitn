@@ -18,6 +18,7 @@ topics:
 - transport
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Carters are requested to observe the arrangements made for loading the drays during the holidays, and from the large quantity of ore now ready for carting they may rely on getting loaded without detention.

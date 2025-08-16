@@ -21,6 +21,7 @@ topics:
 - business
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  Last Thursday morning about 4.30 a.m. fire destroyed all the stock of J.A. Watt’s store in Commercial St.  Only the walls remain.  The cause of the fire remains a complete mystery.

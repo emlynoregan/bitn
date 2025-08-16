@@ -21,6 +21,7 @@ topics:
 - volunteering
 - heritage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Pam Marlow is seeking volunteers to help with applying plaster to her model of the Burra Mine next Saturday 14 July.

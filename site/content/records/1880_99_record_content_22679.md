@@ -17,6 +17,7 @@ topics:
 - employment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From item 4 onwards it was expected to employ only some 30 men for 4 months.

@@ -22,6 +22,7 @@ topics:
 - sports
 - holidays
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Many Burraites visited Adelaide for the holidays, leaving on Wednesday afternoon and returning Friday night and while in Adelaide visited the cycling sports at the oval or the races at Morphettville.

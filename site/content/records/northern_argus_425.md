@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 St Mary’s was full on Sunday night for the performance of Handel’s Messiah by the SA Country Choral Association Choir.

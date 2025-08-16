@@ -26,6 +26,7 @@ topics:
 - publican
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  William Templar of ‘North Star Inn’ advises that, having had his licence suspended for three months for an alleged complaint of incivility to two gentlemen, he informs the public that he will continue to afford them the same accommodation as he has hitherto, while strictly observing the order of the Bench in the suspension of the sale of wine and spirits.

@@ -31,6 +31,7 @@ topics:
 - railway
 - dinner
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hon. G.S. Kingston said Captain Roach had been there more than twenty years, arriving about June 1846 and had never failed to fulfil his duties to both employers and employed.  He had superintended the raising of 200,000 tons of perhaps the richest ore in the world, worth £2,000,000 to the colony.  The mine had employed large numbers, contributed to the development of Kooringa and the district and been the source of profit to many now in flourishing circumstances.

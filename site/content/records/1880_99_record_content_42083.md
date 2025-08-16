@@ -19,6 +19,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match between Jamestown MI & Burra MI last Wednesday.  This was the first match for Burra since the formation of the company and several of the men had not yet even tried their rifles.  Jamestown 568 defeated Burra 410.

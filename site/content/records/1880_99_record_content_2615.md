@@ -19,6 +19,7 @@ topics:
 - supplement
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There were small special supplements at times when material spilled over, and major supplements for the Burra Show, the Melbourne Exhibition, and the Christmas Holidays.

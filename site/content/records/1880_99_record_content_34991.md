@@ -20,6 +20,7 @@ topics:
 - machinists
 - coachbuilders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miller & Statton	Machinists, Blacksmiths, Wheelwrights & Coachbuilders, Thames St

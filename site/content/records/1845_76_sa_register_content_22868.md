@@ -22,6 +22,7 @@ topics:
 - readings
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. L.W. Stanton gave an entertainment in the Burra Hotel Assembly Room on Monday.  The room was well filled.  [The musical items are listed.]  Mr Stanton gave clever readings of the following pieces:

@@ -22,6 +22,7 @@ topics:
 - exhibition
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tonight at the Institute.  The last appearance of the Grand Sciopticon Panorama Co. and the Grand Gift Presentation Festival.  It features the Zulu and Egyptian Wars.  3/-, 2/- & 1/-. 

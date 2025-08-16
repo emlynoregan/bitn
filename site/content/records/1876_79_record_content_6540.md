@@ -20,6 +20,7 @@ topics:
 - labour
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Terowie Railway. The men on the Hallett-Terowie railway are earning 5/- to 6/- a day. Only new immigrants are employed and they complain that they get no money or means to get food till they have worked three days when an order is given them for food at the Hallett store.

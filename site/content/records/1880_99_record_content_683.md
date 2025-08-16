@@ -20,6 +20,7 @@ topics:
 - event
 - festivities
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Primitive Methodist Sunday-school festivities.  Children’s treat at 3 p.m.  Public Tea at 4.30 p.m. in the schoolroom and the service of song ‘Jessica’s First Prayer’ at 7.30 p.m. in the Institute.

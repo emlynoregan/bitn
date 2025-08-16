@@ -21,6 +21,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 P. Lane.  A meeting is called for 5 p.m. tomorrow to decide upon an appropriate way to thank Mr P. Lane for his two years as Mayor of Burra.

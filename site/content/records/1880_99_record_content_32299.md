@@ -22,6 +22,7 @@ topics:
 - event
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Sunday School Anniversary on Sunday and Monday last.  On Monday Wheatley’s Band led the children to the Recreation Ground for sports after which there was tea at the Sunday School followed by a public tea and a meeting presided over by Mr Holder.

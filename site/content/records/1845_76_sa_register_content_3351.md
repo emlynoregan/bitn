@@ -20,6 +20,7 @@ topics:
 - transport
 - vessel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Hooghly departed Plymouth on 14 August (99 days from the Lizard.)

@@ -21,6 +21,7 @@ topics:
 - meeting
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Travelling Stock Roads.  A meeting on the Government’s policy of cutting up stock roads is called for the District Council Chamber in Davieston on Tuesday next at 3.30 p.m. by those supporting the Government’s actions.

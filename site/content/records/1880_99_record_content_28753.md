@@ -21,6 +21,7 @@ topics:
 - local government
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Local board of Health.  Mr R. Austin & Mr W.A. Rabbich have both refused to construct proper covers to boiling down furnises. [sic]  The matter has been referred to the Central Board of Health.

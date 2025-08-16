@@ -19,6 +19,7 @@ topics:
 - vandalism
 - repair
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Market Square pump was broken on Sunday morning and was ordered repaired.  Steps are being taken to find the culprits.

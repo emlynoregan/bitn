@@ -18,6 +18,7 @@ topics:
 - community
 - celebration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Bachelors’ Ball was held in the Grammar School on Tuesday evening with dancing till the morning.

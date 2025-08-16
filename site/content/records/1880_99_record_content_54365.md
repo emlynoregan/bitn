@@ -21,6 +21,7 @@ topics:
 - vermin
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.G. Downer’s lecture on the pastoral industry is reported.

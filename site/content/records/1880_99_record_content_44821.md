@@ -22,6 +22,7 @@ topics:
 - anniversary
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mt Bryan Bible Christian Church Anniversary was celebrated on 20 March.  The preacher was Mr Joseph Thomas of Shebbear College, England.

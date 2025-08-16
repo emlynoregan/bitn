@@ -19,6 +19,7 @@ topics:
 - animals
 - public notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council has resolved to notify the public that in future all goats straying within the municipal boundaries will be destroyed.

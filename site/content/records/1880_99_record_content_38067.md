@@ -23,6 +23,7 @@ topics:
 - obituary
 - tuberculosis
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Colin Clyde Hunter, the son of the Rev. R. Morris & Mrs Isobel Hunter, died 19 August* at the Kooringa Wesleyan parsonage aged 18 months 7 days. (Of tuberculosis.)  * The date was corrected in XI, 994, 26 Sep. 1890, to 19 September.  [Born 12 March 1889.]

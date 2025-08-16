@@ -21,6 +21,7 @@ topics:
 - exploration
 - telegraph
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The John Forrest exploration expedition from the west coast of Australia has made it through to the telegraph line.

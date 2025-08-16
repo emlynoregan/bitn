@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Walter Terry, youngest son of Mary & the late William Terry died 23 June at Copperhouse aged 14 years 6 months.  [Born 11 December 1878.]

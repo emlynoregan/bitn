@@ -20,6 +20,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. North heads south to the anniversary services at Riverton and Rev. Finch of Riverton will preach at the Bible Christian Church here on Sunday evening.

@@ -18,6 +18,7 @@ topics:
 - mining
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  A 2½ oz. nugget of gold has been found on the goldfield.

@@ -21,6 +21,7 @@ topics:
 - church
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The St Joseph’s Bazaar on Friday and Saturday was briskly carried on and over £60 was raised in the effort.  Many thanks are due to all who helped and to the work of Rev. Fr Haendl.

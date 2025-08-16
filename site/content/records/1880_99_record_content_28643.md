@@ -20,6 +20,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Kooringa Bible Christian Sunday School Anniversary next Sunday 20 May with the tea meeting Monday.  Rev. J. Collings will deliver an address.

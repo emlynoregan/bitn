@@ -20,6 +20,7 @@ topics:
 - local government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Rayner laid on the table a plan for a mortuary Chapel at the cemetery.

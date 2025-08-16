@@ -19,6 +19,7 @@ topics:
 - dividend
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The SA Mining Association gives notice that a dividend of 100% will be payable on Wednesday 6 August; being the 49th dividend.

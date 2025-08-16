@@ -22,6 +22,7 @@ topics:
 - offence
 - liquor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 James Mayger was fined £5 for obtaining liquor during prohibited hours by claiming to be a bona fide traveller. [From John Calloway of The Pig and Whistle.]

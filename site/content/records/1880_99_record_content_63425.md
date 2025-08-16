@@ -21,6 +21,7 @@ topics:
 - health
 - dentistry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Eskell & Tattersall	Dentistry at the Commercial Hotel every month

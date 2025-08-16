@@ -19,6 +19,7 @@ topics:
 - pricing
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water Charges in Adelaide have been dropped to 1/3 per 1,000 gallons: vastly cheaper than here.

@@ -18,6 +18,7 @@ topics:
 - mining
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rising copper prices might have offered some hope, but it is now widely believed that the old mine will never work again unless under new owners.

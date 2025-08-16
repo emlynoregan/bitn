@@ -22,6 +22,7 @@ topics:
 - spirits
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offences.  W. Young, Charles Barrett and Mary Mowatt were each fined £1-1-0 + £2-4-4 costs for exhibiting for sale spirits 25% under proof.

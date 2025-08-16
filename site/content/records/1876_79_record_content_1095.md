@@ -20,6 +20,7 @@ topics:
 - business
 - hospitality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Commercial Hotel; a new hotel recently erected by W.L.H. Bruse Bar, bedrooms, sample room, billiards, stone stables with ostler always in attendance.

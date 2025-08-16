@@ -24,6 +24,7 @@ topics:
 - rabbits
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Wheat Harvest for 1895 has in many parts of SA failed due to a combination of unfavourable weather and rabbits.  Around Burra returns were light and to the east farmers have turned their stock onto crops that would not repay reaping.  They will petition the Government for seed wheat.  A meeting was held on Thursday at Mr Rhodes’ at Baldina to discuss the very depressing state of affairs.

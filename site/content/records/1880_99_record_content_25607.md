@@ -21,6 +21,7 @@ topics:
 - road
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board has agreed to define the western edge of the road between the Mine Bridge and Kooringa.

@@ -18,6 +18,7 @@ topics:
 - numbering
 - volume
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Numbering of issues of the paper in 1884

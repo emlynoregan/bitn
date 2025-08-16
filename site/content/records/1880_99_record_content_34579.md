@@ -18,6 +18,7 @@ topics:
 - fire
 - local news
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  ‘Sparks’ column says there was nearly a big fire in Paxton Square the other night.

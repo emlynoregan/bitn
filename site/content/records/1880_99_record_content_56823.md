@@ -27,6 +27,7 @@ topics:
 - pastoral
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Averted’ writes re the formation of the Anabama Vermin District, which was a good thing for the pastoral leases concerned and for the toilers earning their hire building it and carting materials etc., but not so for those on the outside.  One line of fence will run north from NW corner of County Burra to Winnininnie and one east from there to the boundary of SA.  This will prevent dingoes going to Anabama, Mutooroo etc.  The dingoes will now strike the fence, turn west and there will be much traffic along it at the corner and they will partake of the hospitality of all.  We will have to shepherd the flocks even within the Hundreds and camp our sheep in dog-proof yards.  At present dingoes are more numerous east of Ketchowla than they have been for some years.  We cannot form a Vermin District and run the fence to Morgan, because then we would have to pay for half the cost of the NW line of the Anabama fence as well as all of that to Morgan.  He goes on the hope that the problem will be ‘Averted’.

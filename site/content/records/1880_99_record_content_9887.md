@@ -21,6 +21,7 @@ topics:
 - accident
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the recently released and very unsatisfactory report on SA railway accidents.  [Which the editor clearly saw as a whitewash job.  One of the three ministers who produced the report was the head of the Railway Department so the result could not be expected to be any different.]

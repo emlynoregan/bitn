@@ -31,6 +31,7 @@ topics:
 - train
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In cross examination he got rather tangled up about just when he looked for the train first and when he looked later.

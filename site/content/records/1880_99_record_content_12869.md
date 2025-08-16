@@ -22,6 +22,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the SA Election, which was then half way through. [Not all constituencies voted on the same day.]  The Ministry is back except for the Treasurer, but there will be many new faces in Parliament.  (Six new members are provided for by the Constitution Act.)  The Exhibition is doomed and so is Local Option, at least in the extreme sense some sought.  Payment for members is likely to pass.

@@ -25,6 +25,7 @@ topics:
 - property
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tristram Bath, superintendent of the Princess Royal Mines alleged that William Barrett had illegally removed wood from the company’s land.  Barrett did not appear and a warrant was issued for his apprehension.

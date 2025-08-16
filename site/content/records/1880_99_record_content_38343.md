@@ -20,6 +20,7 @@ topics:
 - politics
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The ‘Erratic Correspondent’ writes on the Great Strike.  He is for socialism, but not of the type advocated by mobs destroying property etc.  He supports Mr W.W. Champion.

@@ -24,6 +24,7 @@ topics:
 - mining
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The SA Copper Company has shipped, per the South Sea, a large quantity of castings for smelting furnaces and other machinery.  An experienced smelter has also been engaged and proceeds to Adelaide via Port Phillip, in the Oliver Lang, from Liverpool.

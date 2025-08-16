@@ -20,6 +20,7 @@ topics:
 - demographics
 - census
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Census Return to the 31 March 1855.

@@ -23,6 +23,7 @@ topics:
 - banking
 - speculation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Monster Mining, Banking and ‘The Boiler Not Yet Burst’. 

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Concert in Mr Lewis’s schoolroom on 19 April to raise money for Dr Barnardo’s Homes was well attended and raised over £2.

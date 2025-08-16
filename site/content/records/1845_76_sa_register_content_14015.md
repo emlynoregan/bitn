@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Bible Christian Bazaar was opened in the schoolroom yesterday and produced a constant flow of visitors in the afternoon, with crowds at night.  Drapery, millinery, hosiery and many items of female finery were well represented.  Other items included fly-cages, baskets, table mats, doyleys and pin cushions.   All manner of gewgaws were to be had and I believe about £80 was taken.  The bazaar continues today.

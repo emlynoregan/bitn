@@ -22,6 +22,7 @@ topics:
 - sports
 - government assistance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Rifle Club, which has been in existence foe c. 12 months, has at last obtained a promise from the Hon. Treasurer for a supply of rifles to be available after the coming matches.  Thanks to the assistance of Hons F.W. Holder & J. Lewis who urged the club’s claims.

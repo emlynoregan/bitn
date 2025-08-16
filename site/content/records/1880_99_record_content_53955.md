@@ -20,6 +20,7 @@ topics:
 - weather
 - postponement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Bad weather has forced the indefinite postponement of the match Burra v. Clare which had been scheduled at Clare on Saturday.

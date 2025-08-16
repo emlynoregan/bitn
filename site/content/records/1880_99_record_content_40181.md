@@ -20,6 +20,7 @@ topics:
 - attendance
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Public School had an average attendance of 240 in room for 1,000.  All was very satisfactory.  The drinking water from the underground tank was excellent.

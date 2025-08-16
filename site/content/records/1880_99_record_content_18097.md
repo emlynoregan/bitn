@@ -19,6 +19,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mrs McLagan will open a school in Kooringa on Monday 6 July if she can procure a suitable room.  Mrs McLagan teaches the Kinder Garten system. 1 guinea per quarter for 1 child.

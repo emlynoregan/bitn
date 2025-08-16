@@ -17,6 +17,7 @@ topics:
 - election
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Nothing has been done in relation to the election since a meeting attended by not more than a dozen persons.  There will not be much expense attached to the election as it was resolved not to advertise, but just to send the bellman around calling the meeting.

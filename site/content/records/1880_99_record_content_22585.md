@@ -19,6 +19,7 @@ topics:
 - legislation
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on deficiencies in the Bill to allow gold and silver mining on private property.

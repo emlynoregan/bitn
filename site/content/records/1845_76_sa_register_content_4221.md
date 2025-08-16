@@ -28,6 +28,7 @@ topics:
 - property damage
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 19 January 1850, page 3

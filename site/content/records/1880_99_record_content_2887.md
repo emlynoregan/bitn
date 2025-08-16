@@ -24,6 +24,7 @@ topics:
 - dentistry
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Henry Gordon	Surgeon Dentist, at Mr Snell’s or at home, last week in the month.

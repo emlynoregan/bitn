@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Bore was completely blocked by tree roots last Monday and a mass over eleven feet long had to be removed before water would again flow.

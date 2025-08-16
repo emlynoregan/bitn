@@ -18,6 +18,7 @@ topics:
 - waterworks
 - resignation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The final meeting of the old Council.  A letter was received tendering the resignation of the Waterworks engineer after five years’ service.  Accepted with regret.

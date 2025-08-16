@@ -19,6 +19,7 @@ topics:
 - business
 - industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Catchlove & Co. are enlarging the brewery cellars to provide more accommodation for their bottling department.  When finished all bottling and racking will be under one roof.

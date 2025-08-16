@@ -22,6 +22,7 @@ topics:
 - award
 - scholarship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr J.I. Sangster Jun., the eldest son of Dr Sangster, has passed his final examinations at Adelaide University.  His name appears first on the list for the past three years and by taking first honours at this exam he wins the Everard Scholarship valued at £50.

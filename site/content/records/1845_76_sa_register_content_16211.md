@@ -19,6 +19,7 @@ topics:
 - business
 - closure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Operations at the Bon Accord Mine have definitely stopped.  They have not been suspended, but as a Cousin Jack would say are ‘nacked’.

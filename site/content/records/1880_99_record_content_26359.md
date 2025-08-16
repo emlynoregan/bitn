@@ -19,6 +19,7 @@ topics:
 - church
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s Sunday School annual picnic will be held at Princess Royal on 28 Sep.

@@ -20,6 +20,7 @@ topics:
 - temperance
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A long and detailed explanation of the objects of the Alliance and why they were needed was followed by another musical selection and a collection to defray expenses.

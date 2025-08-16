@@ -18,6 +18,7 @@ topics:
 - animals
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stray animals, both cows and horses, roaming about on Sundays, remain a problem.

@@ -19,6 +19,7 @@ topics:
 - court
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alfred Schutz was fined 10/- or three days for insulting behaviour on 29 October.

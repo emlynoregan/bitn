@@ -19,6 +19,7 @@ topics:
 - labour
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wool. About 150 shearers will arrive in Burra today by special train and proceed north in 7 special coaches of the Northern Stage Co. [see page 254]

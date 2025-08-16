@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 6 Jan 82	Bella’s Hero Ch V-VI	An Old Hand’s Yarn		X	X	X	X	X	X	X	X

@@ -30,6 +30,7 @@ topics:
 - charity
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Children’s Bazaar was held at Dr Brummitt’s house last Wednesday in aid of Dr Stephenson’s Children’s Homes.  £4 was raised.  The stalls were presided over by Miss Ida Brummitt, Miss Kathleen Roach and Elliott Brummitt.  The charge of the distribution of flowers, the refreshment table, and the bran tub was in the hands of Misses Vera Wilkinson, Dorothy Roach and Masters Tarlton Phillips, Charlie Osborn and Robert Brummitt (all of Prince Alfred’s College).

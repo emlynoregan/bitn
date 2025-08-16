@@ -30,6 +30,7 @@ topics:
 - irrigation
 - civil_service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He had introduced a parcel post to England and would like soon to have one within SA.  He intended to stop subsidies to Institutes, which had ceased to be educational places and become mere circulating libraries.  He would support subsidised free reading rooms £ for £.  During the last 20 years one of the members for Burra had always been in the Govt.

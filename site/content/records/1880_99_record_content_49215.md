@@ -20,6 +20,7 @@ topics:
 - procedure
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks’s motion for a call of the whole Council was then brought forward and again the Mayor ruled it out.

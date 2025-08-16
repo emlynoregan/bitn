@@ -18,6 +18,7 @@ topics:
 - building
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The new Kooringa Wesleyan parsonage is nearing completion.  (c. £1,100)

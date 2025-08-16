@@ -20,6 +20,7 @@ topics:
 - event
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Show Soc.  After a prize list of £175 and costs of the cattle yards and half the cost of the shed at the oval, the society has nearly £100 in hand.

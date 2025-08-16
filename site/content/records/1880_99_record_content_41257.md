@@ -19,6 +19,7 @@ topics:
 - farewell
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 He was also given a farewell by a number of gentlemen on 24 April at the Royal Exchange Hotel where Mr W. West, Mayor, chaired a meeting at which a number of men spoke and address was presented.

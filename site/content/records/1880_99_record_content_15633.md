@@ -20,6 +20,7 @@ topics:
 - editorial
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Cruelty to Animals.  The writer argues against killing purely for sport and is also against cruel practices in shearing and livestock transport by rail and ship.  He cites also Robert Morley writing in the London Daily News who wrote against rabbit coursing in which rabbits were torn to pieces in a square of spectators by terriers.  He is also against live hare coursing.

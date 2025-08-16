@@ -24,6 +24,7 @@ topics:
 - mining
 - public health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra DC.  The Institute Committee favoured the use of the Institute by the Council, subject to the Governors of the Institute approving.  SAMA had offered the Council an inappropriate piece of land for a Council Chamber and the offer had been declined with thanks.  Council will consider the question of assessing the mine property.  The proposal for consideration at the next meeting was that buildings would be assessed, but not the mine itself.  A man is to be employed to remove burrs and thistles.  Chairman and Cr Drew will confer with Mr Furniss re slaughterhouses.  Application to be made to SAMA and Yorke’s Peninsula Mining Co. for land to bury dead animals.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  7 September, at Burra [But see inquest in previous issue] George Wilson Roberts, husband of Jane Roberts, aged 34.

@@ -20,6 +20,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Matthew Burnett, the great temperance lecturer will address meetings in the Kooringa Wesleyan Church on Saturday and Sunday evening and at noon and 7.30 p.m. on Monday, Tuesday and Wednesday.

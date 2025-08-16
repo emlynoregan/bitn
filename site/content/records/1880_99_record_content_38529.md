@@ -19,6 +19,7 @@ topics:
 - shearing
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Shearers met in the Institute last Saturday to review how the shearing rules worked this season.  Some points on prices and employment of cooks will be considered before the next shearing.

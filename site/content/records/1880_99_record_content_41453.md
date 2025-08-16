@@ -19,6 +19,7 @@ topics:
 - performance
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Kennedy’s Twa Hours at Hame on Thursday at the Institute was well patronised.  He sang delightfully with great clarity of diction.

@@ -19,6 +19,7 @@ topics:
 - locusts
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Hay harvesting is virtually finished.  Locusts are flying about in great numbers, but as yet have not damaged crops very much.  Reaping should begin in 10-14 days if the good weather continues.

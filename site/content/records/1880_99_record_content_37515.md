@@ -21,6 +21,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Ratepayer’ on the wanton destruction of tree guards in the locality of Harris & Sons’ shop on the corner of Thames St and Market Square, by larrikins.

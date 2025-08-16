@@ -17,6 +17,7 @@ topics:
 - employment
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 All this for £2-2-0 per week without overtime.  He will receive £2-8-0 per week if he also collects the rates and revenue and takes charge of the accounts.

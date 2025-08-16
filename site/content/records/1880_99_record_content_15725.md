@@ -23,6 +23,7 @@ topics:
 - community
 - donations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  Thomas Kitchen invites applications for Christmas Cheer from the poor of Burra.  The following have made donations:

@@ -21,6 +21,7 @@ topics:
 - politics
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Adelaide. The Ayers/Colton ministry resigned on Tuesday and Boucaut has been asked to form a government.

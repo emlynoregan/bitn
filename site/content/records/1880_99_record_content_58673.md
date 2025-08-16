@@ -20,6 +20,7 @@ topics:
 - crime
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Francis Patten was charged with being idle and disorderly on Saturday morning and sentenced to one month in gaol.

@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21645→Obituary. Thomas Parks, father of Thomas Parks of Kooringa, died at Maidstone Kent on 31 January, aged 86.

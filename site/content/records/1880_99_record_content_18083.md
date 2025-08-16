@@ -20,6 +20,7 @@ topics:
 - events
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School concert in the Institute on 10 June was held before a fair audience.  Proceeds were satisfactory.

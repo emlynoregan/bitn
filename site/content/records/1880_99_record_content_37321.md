@@ -18,6 +18,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kangarooing is about to take place and good sport is expected in view of the large number about.

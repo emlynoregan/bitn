@@ -19,6 +19,7 @@ topics:
 - editorial
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Editor advises W.H. Hardy that his letter does not deal with the question and is a personal and grossly insulting attack on us ‘consequently your letter has found its way to the waste paper basket’.

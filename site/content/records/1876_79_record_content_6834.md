@@ -20,6 +20,7 @@ topics:
 - sport
 - youth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Youth's Athletic Club Sports in Mr Austin's paddock on Wednesday 6 August.

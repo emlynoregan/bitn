@@ -19,6 +19,7 @@ topics:
 - religion
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian anniversary last Sunday & Monday was conducted by Rev. W.T. Shapley and was much appreciated.  The debt on the building is currently £350 and the anniversary raised £32.

@@ -19,6 +19,7 @@ topics:
 - community
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 A writer wondered why police allowed the Commercial Hotel to trade beyond 11 pm — indeed 2 am is mentioned with singing, swearing and sounds like quarrelling.

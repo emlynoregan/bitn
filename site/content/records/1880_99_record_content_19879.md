@@ -22,6 +22,7 @@ topics:
 - development
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silverton Railway.  The earthworks are complete for 50-60 miles from Petersburg.  There is a delay in the arrival of rails.  It is expected that rails will reach to this side of Paratoo by Christmas, leaving about 100 miles to Silverton to be covered by wagons.  The line that far will be opened once the rails are laid.

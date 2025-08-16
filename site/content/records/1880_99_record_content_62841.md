@@ -26,6 +26,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Rose Pickering died at the Burra Hospital on 1 October.  She was the youngest sister of J. & F. Pickering and of Mrs G. Dolman of Broken Hill.  Aged 34, she was born in Burra and spent most of her life here, but for a time at Broken Hill, where she worked in a drapery establishment.  She leaves two brothers, Messrs James and Frank Pickering and one sister.  [The only Pickering born in Burra in 1863 was registered Lilley Pickering, born 29 August as the daughter of Joseph Pickering.  Joseph Pickering was also the father of Mrs G. Dolman.]

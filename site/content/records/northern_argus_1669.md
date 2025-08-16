@@ -19,6 +19,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital Foyer has been modernised and the Ladies’ auxiliary has recently spent $3,500 on new curtains for some sections.

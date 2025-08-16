@@ -20,6 +20,7 @@ topics:
 - editorial
 - eight hour bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Mr Mattinson MP’s introduction of an Eight Hour Bill, aiming to limit work to eight hours a day.  The Bill is however a farce.  Most men mentioned in the Bill are recognised as having an eight-hour working day and it seems ridiculous to try to limit farm labourers to an eight-hour day.  We think the restrictions as to the limit are best left to the workers themselves.  In unity is strength.  The men have the power in their own hands.

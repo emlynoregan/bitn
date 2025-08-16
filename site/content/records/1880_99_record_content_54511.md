@@ -21,6 +21,7 @@ topics:
 - club
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club’s eighth race was from Terowie to Burra on 15 August and was won by J.A. Pearce’s r. c. hens Wildfire & Wildflower which did the 36 miles 1,300 yards in 81 minutes.

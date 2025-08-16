@@ -20,6 +20,7 @@ topics:
 - prospecting
 - syndicate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Gold.  Men are fossicking for fair results.  W. David, a prospector, has made some good finds and there is a move to form a syndicate to work the vicinity.

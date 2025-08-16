@@ -21,6 +21,7 @@ topics:
 - society
 - annual meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society, Burra Branch, annual services last Sunday.  At the annual meeting on Monday Dr Sangster was elected President for the next year with Rev. R.M. Hunter Vice-President.

@@ -20,6 +20,7 @@ topics:
 - water
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Water Supply.  Mr Hargrave has recommended a new bore, an engine house and a steam engine (not a wind pump) and a 150,000-gallon reservoir with an iron roof.  The cost is estimated at £1,900.

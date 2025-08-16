@@ -19,6 +19,7 @@ topics:
 - science
 - pastoral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the need for scientific advances in agricultural and pastoral matters to become more widely known and implemented.

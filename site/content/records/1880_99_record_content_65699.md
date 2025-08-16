@@ -34,6 +34,7 @@ topics:
 - obituary
 - biography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Peak Sen. died aged 65.  He was born at St Just, Cornwall in 1853 and migrated to Melbourne briefly before coming to SA to see friends.  He butchered here for three months before returning to Melbourne and the gold fields where he was fairly successful.  He met Miss Jane Cocks and married her on 6 October 1856 at Fryer’s Creek, Victoria.  They came to SA in 1860 and settled at Cross Roads near Burra where he has resided ever since.  He carried on the Cross Roads Hotel for 25 years, before closing it and then took to farming until about seven years ago when failing health forced him to retire.  His health has been failing ever since and he died at 8 o’clock Friday morning. [6 January]  He leaves a wife, four sons, John, Thomas, James and William, and three daughters, Elizabeth, Jane and Mary and one grandchild.  John, the eldest is married and lives at Hanson.

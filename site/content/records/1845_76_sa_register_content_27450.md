@@ -19,6 +19,7 @@ topics:
 - service
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bible Christian Anniversary Services were conducted last Sunday by Rev. O. Lake, with the tea meeting on Monday.

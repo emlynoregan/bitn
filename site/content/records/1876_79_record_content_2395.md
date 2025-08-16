@@ -27,6 +27,7 @@ topics:
 - housing
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway: the embankment near Hillside being remade after March's floods. The piles are in place at the Burra Creek and the embankment from there to the station is under construction.  Cr Roberts said of the temporary iron buildings erected by the Govt. for the immigrant workers on the railway that they were "positively indecent, as only a partial partition separated two families, and at the ridge there was four inches left open which rendered the buildings very cold." Cr Sanders responded [apparently without intended irony] that "they were no worse than Paxton Square."

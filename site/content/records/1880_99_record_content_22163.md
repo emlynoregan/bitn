@@ -19,6 +19,7 @@ topics:
 - rifle match
 - military
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rifle Match.  The return match between Burra Co. RVF and B Troop Mounted Rifles was held in Adelaide.  Burra won over 200 yards and 400 yards, but lost at the 500 yards.  Overall B Troop 727 defeated Burra 696.

@@ -19,6 +19,7 @@ topics:
 - fine
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Richard Austin	20/- + 10/-	Not cutting star thistles

@@ -19,6 +19,7 @@ topics:
 - society
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. had a small attendance on Friday to an evening of impromptu speeches in very boisterous weather.

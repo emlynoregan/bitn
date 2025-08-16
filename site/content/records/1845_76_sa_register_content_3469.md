@@ -22,6 +22,7 @@ topics:
 - retail
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Burra Burra.  C.H. Baddeley’s (Late Captain Brown’s) Store.

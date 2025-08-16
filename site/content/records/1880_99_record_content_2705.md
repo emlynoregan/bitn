@@ -18,6 +18,7 @@ topics:
 - literature
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 11 Feb 81	Serpent Ch XIX-XXI	A Lasting Memory	Victorian International Exhibition:	X	X		X	X		X

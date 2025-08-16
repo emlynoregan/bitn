@@ -21,6 +21,7 @@ topics:
 - finance
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There are no local Directors.  Notes and money orders issued at the works in Kooringa are repaid on presentation at the office between 10 and 3.  Manager; Gregory Seale Walters.  Superintendent at the works; Thomas H. Williams.

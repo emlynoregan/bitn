@@ -18,6 +18,7 @@ topics:
 - community
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial.  Burra has not been assertive enough in the past.  Other towns have more and get more.

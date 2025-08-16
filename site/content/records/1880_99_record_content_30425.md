@@ -19,6 +19,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway Accident.  A special train has run down a railway tricycle at Yarcowie and cut two men to pieces.  One was single, but the other left a wife and nine children.

@@ -19,6 +19,7 @@ topics:
 - defence
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War Preparations.  A fort is to be built at Glenelg.

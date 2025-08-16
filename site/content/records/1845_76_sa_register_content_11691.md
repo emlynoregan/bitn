@@ -19,6 +19,7 @@ topics:
 - advertisement
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Notice is given of the half-yearly meeting of the shareholders of the Royal Mining Co. for Wednesday 12 May 1858.  Nathaniel Summers, Secretary.  27 April 1858.

@@ -21,6 +21,7 @@ topics:
 - recognition
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Foresters’ Picnic & Sports Committee presented a beautifully engrossed parchment to Mr Rooney in thanks for his organisation of their recent concert.  Mr Kennedy made the presentation speech.

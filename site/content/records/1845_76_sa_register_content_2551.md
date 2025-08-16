@@ -23,6 +23,7 @@ topics:
 - arrest
 - industrial dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Repeated attempts were made in vain to parley with the Directors.

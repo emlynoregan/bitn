@@ -19,6 +19,7 @@ topics:
 - decoration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Christmas Eve Mr Moody’s china shop stood out.  Its decorations consisted of a miniature overshot waterwheel composed of white and gold china eggcups, turned by the water from a tiny fountain.   The wheel worked a revolving apparatus containing lighted lamps and surrounded by tasteful decorations.  It was very pretty and attracted a crowd of visitors all evening.

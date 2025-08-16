@@ -21,6 +21,7 @@ topics:
 - trotting
 - race
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Trotting Match was run on Wednesday when J. Sampson jun.’s pony took on C. Schutz’s chestnut horse for £5 a side over three miles on the Mt Bryan Road.  The chestnut got away to a good start, but broke four times and was ruled out as the pony did not break at all.  The chestnut was by far the quicker if he had not broken.

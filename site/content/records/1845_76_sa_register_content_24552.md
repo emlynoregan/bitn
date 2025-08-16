@@ -20,6 +20,7 @@ topics:
 - ploughing
 - sowing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  Some farmers are still ploughing, while others are sowing.  This part of the range is chiefly new ground fallowed last winter and not breaking up as it would had the long expected rain come.  Slight showers have fallen, but just enough to lay the dust.

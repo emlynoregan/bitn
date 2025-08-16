@@ -20,6 +20,7 @@ topics:
 - fraud
 - police
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  A man calling himself Charles Hope and posing as a solicitor has been convicted several times for false pretences and has been seen in the Burra area.  He is facing at least two further charges.  He has passed himself off as a solicitor in the Burra area.

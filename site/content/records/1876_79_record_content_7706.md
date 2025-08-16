@@ -22,6 +22,7 @@ topics:
 - death
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. On 3 December at Yongala, Albert Heinrich Thomas Topperwein, eldest son of Mr & Mrs A. Topperwein of Kooringa. Of croup, aged 3 years 9 months.  [Born 29 March 1876 Kooringa.]

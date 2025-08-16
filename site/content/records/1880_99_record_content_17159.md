@@ -24,6 +24,7 @@ topics:
 - rowing
 - championship
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rowing Championship - we received a telegram from W. Pearce Jun. of Kingston, who is in Sydney on a trip, that Beach had retained the Championship for Australia from Hanlon.

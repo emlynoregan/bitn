@@ -20,6 +20,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Primitive Methodist anniversary, Sunday 5 September with tea meeting on Wednesday.

@@ -19,6 +19,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Birth. A stillborn daughter to the wife of Josiah Thomas of Three Trees on 19 September.

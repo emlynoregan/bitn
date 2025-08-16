@@ -17,6 +17,7 @@ topics:
 - railways
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  There are more complaints about trains not running to time.

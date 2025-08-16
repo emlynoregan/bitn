@@ -20,6 +20,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  To Mrs Henry Warner of Cemetery Flat a daughter on 21 June.  [Caroline Hannah]

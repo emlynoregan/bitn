@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Capsize. Mr Butchers capsized his trap near Burra, destroying the vehicle, but escaping with bruises and a shaking.

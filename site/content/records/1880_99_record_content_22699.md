@@ -22,6 +22,7 @@ topics:
 - licences
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  The continuing drought has forced the Surveyor-General, Mr G.W. Goyder, to suspend licences for commonage and to return fees paid for the 1886-87 year and to allow farmers and stockowners to travel with stock anywhere on unleased Crown land or reserves until further notice.

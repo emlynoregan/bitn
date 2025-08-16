@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - publication metadata
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [2nd use of No. 327 previously used Feb. 1895]

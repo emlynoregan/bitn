@@ -18,6 +18,7 @@ topics:
 - business
 - public notices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Smaller advertisements.  Local businesses along with sales and public notices.

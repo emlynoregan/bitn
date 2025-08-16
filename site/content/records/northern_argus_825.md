@@ -20,6 +20,7 @@ topics:
 - training
 - MFS
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 MFS.  The annual assessment competition for members of the Burra MFS was held last Sunday morning in Market Square.  A simulated dangerous chemical spill was dealt with.  [2 photos.]

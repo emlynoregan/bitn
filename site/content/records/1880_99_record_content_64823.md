@@ -19,6 +19,7 @@ topics:
 - school
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra High School: 4th Term begins 4 October.  Annie B. Millar, Principal.

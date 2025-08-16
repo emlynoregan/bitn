@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Mining Association: 11th Annual Report, delivered 16 April 1856.

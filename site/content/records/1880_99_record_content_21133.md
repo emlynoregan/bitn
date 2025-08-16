@@ -22,6 +22,7 @@ topics:
 - local government
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wages.  Cr W.F. Coglin wrote, replying to criticism that the Burra Town Council had employed at reduced wages.  He said men had been employed at 6/6 a day, but so many had been looking for work at 5/- a day that the Council had reduced the pay to the Government relief scale in order to give more men jobs.

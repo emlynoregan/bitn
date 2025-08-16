@@ -23,6 +23,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Captain Creed, Lieut. Hunt & Cadet Carr of the Cavalry Fort are on a visit to Burra.  They visit outlying districts and give help where needed.  They travel the colony in a nicely constructed van.

@@ -22,6 +22,7 @@ topics:
 - engineer
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Editor published one of five letters expressing disgust at the Council proceedings – it reveals one of the charges brought by Cr Harris – that the engineer neglected his duties in several ways – ‘among others that he was informed that the engineer was in a certain blacksmith’s shop for four hours.’  The writer felt an investigation was called for to discover the truth.

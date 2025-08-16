@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 A UF & S Rural Expo is planned for 29 August in Burra Town Hall, with proceeds to aid the Farmers’ Fighting Fund.

@@ -24,6 +24,7 @@ topics:
 - umpire
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 S. Mortimer, field umpire for the Clare-Mintaro football game that had sparked controversy wrote adding his comments.  He says the rough play was quite even on both sides and Mintaro won on its own merits.  He did not threaten to leave the match on account of Mintaro’s rough play as the Clare correspondent had said.  He did say to Mintaro that if their bad language was not moderated he would not act in future games.  This however, he intended as a hint to both sides as the language of the Clare team was equally bad.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - illness
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 25 February at Kooringa, Mary Ann, wife of William Geake, after a long and painful illness, aged 56.  [nee Farrell]

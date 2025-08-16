@@ -17,6 +17,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The Crippled Children’s Association held a trading table on Friday that was well supported.

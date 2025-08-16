@@ -20,6 +20,7 @@ topics:
 - death
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  T. Rogers died of inflammation of the lungs and pleurisy on 14 May at his residence in Stock St, Kooringa aged 66, a colonist of 38 years.

@@ -22,6 +22,7 @@ topics:
 - government
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 H.E. Sir Thomas Fowell Buxton, Governor of SA, arrived yesterday by the midday train and was met by A. McCulloch Esq..  He was taken to Princess Royal Estate and there entertained.

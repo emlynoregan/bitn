@@ -24,6 +24,7 @@ topics:
 - public safety
 - urban
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘An Old Colonist’ writes from Adelaide 13 July 1863.  He complains about the furious pace at which riders and vehicles travel in the city; especially around corners.  He singles out butchers’ boys for particular mention and says pedestrians are at great risk.  The intersection of King William Street with Rundle and Hindley Streets is by far the most dangerous location.

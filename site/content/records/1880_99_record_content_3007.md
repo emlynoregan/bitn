@@ -20,6 +20,7 @@ topics:
 - sport
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On 28 Dec. at Kooringa Burra 82 defeated Mintaro 67.  Burra was 29 for 4 in the second innings when play ended.

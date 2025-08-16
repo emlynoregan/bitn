@@ -23,6 +23,7 @@ topics:
 - road
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Midland Road Board reports it has no funds to do the work requested by the Town Council: to widen the Mine Bridge and repair the ford at the Bon Accord Hotel.

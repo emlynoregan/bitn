@@ -22,6 +22,7 @@ topics:
 - award
 - militia
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR.  Medals for best attendance in 1892 will be presented today to Sgt W. West and Pte Dawes and Pte Byles.  (The medals were given by W.H. Linkson and Pte Dawes.)

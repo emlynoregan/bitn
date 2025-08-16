@@ -18,6 +18,7 @@ topics:
 - literature
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 25 Feb 81	Serpent Ch XXIII	A Love Race Ch I-III	Fontainbleau Forest	X	X	X	X		X	X	X

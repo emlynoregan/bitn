@@ -19,6 +19,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trams.  There is some talk of a tramway between Kooringa and Redruth.

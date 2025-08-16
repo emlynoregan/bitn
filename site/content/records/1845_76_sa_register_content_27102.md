@@ -35,6 +35,7 @@ topics:
 - inquest
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thomas Clark, teamster of Kooringa, said he had been cutting chaff on Wednesday afternoon and had left at 5.30 p.m. and had not seen the place until he was told it was alight.  The roof was alight when he got there and fell in about half an hour later.  Neither he nor his man smoked there.  The place contained five tons of hay, 20 or 30 empty bags, various tools and a new chaffcutter.  The hay was perfectly dry.  His stepson fed the horses about 10 o’clock.  He suspected arson, but did not suspect anyone.  The place was uninsured.  The end of the building near the yards was made of upright dry mallee sticks and the walls were of stone.

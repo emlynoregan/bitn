@@ -20,6 +20,7 @@ topics:
 - hospital
 - tender
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan have put in the lowest tender for the Jamestown Cottage Hospital.

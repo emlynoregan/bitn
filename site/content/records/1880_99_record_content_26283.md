@@ -24,6 +24,7 @@ topics:
 - club
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Bicycle Club was formed at Aberdeen on 8 Sep. 1887.  President, H. Roach; Captain, H.J. Beames; Bugler, D.J. Harfield; Secretary, C.J. Tiver.  There are 8 members.

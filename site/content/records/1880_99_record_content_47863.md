@@ -20,6 +20,7 @@ topics:
 - agriculture
 - fines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  Three people in the hundred of King were fined for not destroying rabbits as required.

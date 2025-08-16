@@ -19,6 +19,7 @@ topics:
 - weeds
 - pest control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burr and Scotch thistle are a threat, but Ranger Coglin has been indefatigable against them.

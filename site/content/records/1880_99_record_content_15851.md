@@ -25,6 +25,7 @@ topics:
 - finances
 - presentation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School Anniversary 21 & 25 December.  Preachers were Rev. W.F. James, Rev. G.E. Rowe and Rev. J.G. Wright.  Christmas Day saw the usual children’s treat in the schoolyard adjoining the church and then a public tea in the schoolroom.

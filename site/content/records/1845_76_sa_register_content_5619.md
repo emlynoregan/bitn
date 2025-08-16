@@ -23,6 +23,7 @@ places_mentioned:
 topics:
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 30 December.  I was up at 4 a.m. for a start for Adelaide and we left a little before 6 a.m. with rain.  It was a miserable day with pouring rain from 6 a.m. to 9 p.m., wretched horses and worse roads.  Sod Hut, which is a stone building; Apoinga Mine, Tothill Scrub and Sheoak Log, which is a stone house, scarcely excited a look and so at length to the warmth of Mr Young’s Hotel at Gawler.

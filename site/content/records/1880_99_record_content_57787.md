@@ -19,6 +19,7 @@ topics:
 - community
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Oval Improvement Fund Concert on Friday drew only a fair audience due to bad weather.

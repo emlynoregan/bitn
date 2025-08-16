@@ -24,6 +24,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Obituary.  Mrs Belle Hannaford of Hallett has died aged 93.

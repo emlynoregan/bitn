@@ -30,6 +30,7 @@ topics:
 - infrastructure
 - maintenance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Public Works Committee allow the Town Clerk to define and set out a road towards Baldina from the Smelting Works Stables.

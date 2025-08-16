@@ -20,6 +20,7 @@ topics:
 - agriculture
 - lambing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The weather continues fine and the lack of rain has meant no visible grass on local stations and lambing has commenced.  Losses are expected to be very high from lack of feed and rain.  Only odd showers have fallen since the January flood.

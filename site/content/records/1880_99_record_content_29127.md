@@ -18,6 +18,7 @@ topics:
 - alcohol
 - Bands of Hope
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the editor continues a discussion of the role of the Bands of Hope.

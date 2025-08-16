@@ -21,6 +21,7 @@ topics:
 - crime
 - sentence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  The man Ryan, taken to Adelaide last week by L-C Thomas charged with an unnatural offence was sentenced to two years.

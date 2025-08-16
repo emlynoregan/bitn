@@ -20,6 +20,7 @@ topics:
 - classes
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr W. Bentley will offer a drawing class at the Institute beginning on Wednesday 3 July.

@@ -19,6 +19,7 @@ topics:
 - archive
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The bound volume of the paper from the Record office has another copy of the paper of the 3 October 1894 numbered 312.  Presumably this is a correction made for a 2nd edition or rather a 2nd print run.

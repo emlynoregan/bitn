@@ -19,6 +19,7 @@ topics:
 - nuisance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Wanderer’ asks why the boiling down works is not a nuisance at law.

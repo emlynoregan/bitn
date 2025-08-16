@@ -18,6 +18,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment Tuesday next at the Kooringa Wesleyan Schoolroom in aid of the building fund. 1/-. MOONLIGHT.

@@ -19,6 +19,7 @@ topics:
 - weather
 - ice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The City Correspondent reports very cold times with ice in the city and a report of a river frozen over in the country.  [In all some ¾ column of mixed news from the city is printed.]

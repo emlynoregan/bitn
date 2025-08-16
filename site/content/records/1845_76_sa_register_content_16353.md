@@ -21,6 +21,7 @@ topics:
 - mining
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  The SA Mining Association announces its 51st Dividend.

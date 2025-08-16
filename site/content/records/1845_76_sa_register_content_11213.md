@@ -28,6 +28,7 @@ topics:
 - infrastructure
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘Solon’ writes re the Northern Railway.

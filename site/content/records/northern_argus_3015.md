@@ -24,6 +24,7 @@ topics:
 - award
 - football
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BBH Footballers and the Mail Medal Count:

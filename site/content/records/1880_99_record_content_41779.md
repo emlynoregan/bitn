@@ -17,6 +17,7 @@ topics:
 - literary society
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. met on Friday and discussed the contributions to the Literary Star, a manuscript paper of the Society which is read at the last evening of each quarter.

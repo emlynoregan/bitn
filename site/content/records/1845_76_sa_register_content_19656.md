@@ -19,6 +19,7 @@ topics:
 - mining
 - company formation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Narkara proprietors are also trying to form a company to work their claim.

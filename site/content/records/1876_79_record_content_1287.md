@@ -23,6 +23,7 @@ topics:
 - pastoral
 - chapels
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The minister had a circuit of 700 square miles, travelled 3000 miles a year, made 1500 pastoral visits and conducted 500 services. 3 new chapels were planned - Terowie, Yarcowie and Seven Mile Scrub.

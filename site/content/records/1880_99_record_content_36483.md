@@ -20,6 +20,7 @@ topics:
 - review
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Maritana.  The review of Simonsen’s Opera Co.’s production says ‘It cannot be said the production was a success either financially or otherwise’.  There was a very small audience which can be put down to high prices (4/- & 2/-).  This accounts for the first half of the statement, but strangely the review of the singers is quite good.  The failure comes in the lack of scenery for which the inadequate Burra stage was to blame.  It is suggested that cuts were made, but the writing makes it impossible to tell what so the force of the comment is lost.  The supporting singers are less favourably commented on: singing in ‘an ordinary style’.

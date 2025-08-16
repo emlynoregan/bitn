@@ -19,6 +19,7 @@ topics:
 - bridge
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Commercial St Bridge. The new bridge will be erected by daywork because that will be cheaper than contract.

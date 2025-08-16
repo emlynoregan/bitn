@@ -20,6 +20,7 @@ topics:
 - event
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Athlete’ writes to urge a meeting to organise a suitable opening of the Recreation Ground on 24 May.

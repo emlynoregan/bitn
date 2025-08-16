@@ -20,6 +20,7 @@ topics:
 - gold
 - reef
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo.  Mr Price claims to have found the reef.  [Previous gold found there had been alluvial.]

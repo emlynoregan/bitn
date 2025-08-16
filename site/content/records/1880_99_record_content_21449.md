@@ -20,6 +20,7 @@ topics:
 - mail
 - contract
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mail Run.  J.N. Way now has the contract for the Quondong mail at £240 p.a.  (The first contract was in 1885)  The contract included Thistlebeds.

@@ -19,6 +19,7 @@ topics:
 - education
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mrs J. H. Roe’s school re-opened in Chapel St on 4 October.  There are vacancies for a few boarders.

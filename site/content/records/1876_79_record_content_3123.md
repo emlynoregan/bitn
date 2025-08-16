@@ -25,6 +25,7 @@ topics:
 - mines
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Water.  Editorial on the meeting at Orchard’s (Aberdeen) Hotel on Wednesday to discuss the water crisis in Aberdeen and Redruth.  The main need is for water for cattle and horses which were well supplied while the mine pumps kept the creek full.  The failure of the water supply is due to the Burra Burra and Bon Accord Mines which lowered the water table and caused local wells to go dry.  People then relied on water pumped from the mines.  Secondly the question of leasehold properties (Kooringa) prevented the construction of tanks.

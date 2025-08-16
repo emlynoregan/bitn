@@ -21,6 +21,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Lee.  Doctor, or Ah Lee, a Chinese, appears to have left the town with debts unpaid.  [At least this appears to be the import of a very tediously wordy and supposedly humorous paragraph.]

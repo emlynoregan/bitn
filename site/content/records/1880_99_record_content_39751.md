@@ -25,6 +25,7 @@ topics:
 - charity
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hospital Entertainment.  The Ladies of St Mary’s provided a treat for patients at the hospital assisted by Matron Lyford and the assistants.  It was held in the new ward.  Rev. J. Stuart Wayland presided and gave an address.  Four Christmas carols were sung by the choir and other items were followed by refreshments.

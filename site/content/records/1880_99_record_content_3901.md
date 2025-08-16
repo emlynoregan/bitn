@@ -25,6 +25,7 @@ topics:
 - football
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The opening meeting of the Burra Football Club at Doe’s rooms on 1 April.  W.B. Rounsevell MP was elected Patron; P. Lane JP, President; J. Warnes, Captain; S. Burns, Vice Captain; E.F. Brady, Secretary.

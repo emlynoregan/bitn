@@ -19,6 +19,7 @@ topics:
 - exhibition
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mr Billing has been exhibiting his collection of wild beasts here since 6 December and a great many have availed themselves of the opportunity afforded.  The youngsters have been greatly delighted by the sight of lions and tigers.

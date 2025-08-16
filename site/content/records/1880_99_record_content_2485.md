@@ -21,6 +21,7 @@ topics:
 - transport
 - schedule
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railways.  The new railway timetable perpetuates the blunder of the lack of appropriate connections at Hamley Bridge, but adds the inconvenience that the early morning goods train from the north no longer gets passengers to Burra in time to connect with the morning passenger train to the city.  It misses by a mere 40 minutes.

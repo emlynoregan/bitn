@@ -19,6 +19,7 @@ topics:
 - commerce
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gawler News, 17 November

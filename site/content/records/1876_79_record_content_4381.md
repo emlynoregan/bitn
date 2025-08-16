@@ -27,6 +27,7 @@ topics:
 - schedule
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Train departs Jamestown 6.10 pm; arrives Pt Pine 9.35 pm.

@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Despite the date of the letter being later than the date of the publication, that is what was printed.]

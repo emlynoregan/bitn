@@ -19,6 +19,7 @@ topics:
 - safety
 - animal control
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows.  There are complaints that boys with pea rifles, supposedly shooting at sparrows, are discharging them carelessly within the town.

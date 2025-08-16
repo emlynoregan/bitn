@@ -21,6 +21,7 @@ topics:
 - business
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Apoinga Mine.  Captain North has engaged three miners well known in Burra in addition to three already there.

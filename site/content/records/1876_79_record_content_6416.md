@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the need for a well in Market Square. Francis Clark & Sons have offered to sink one at 5/- a foot for the 1st 50', 10/- a foot for the 2nd 50', 15/- a foot for the 3rd 50' and 20/- a foot for the 4th 50'. (I.e. £125 for 200') A group of men offer half the sum to be repaid by council if sufficient water is found: the sum to be forfeited if it is not found.

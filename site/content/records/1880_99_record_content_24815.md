@@ -18,6 +18,7 @@ topics:
 - politics
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 F.W. Holder is urged by a deputation to stand for the House of Assembly.  He will reply tonight.

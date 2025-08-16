@@ -24,6 +24,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Marriage.  Clare Uniting Church 4 July

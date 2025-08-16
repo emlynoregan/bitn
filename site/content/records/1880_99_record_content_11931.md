@@ -19,6 +19,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  Hugh Kennedy, at W. Henderson’s had a piece of iron fly into his eye from an adjoining forge on Monday.  It is possible the sight might be saved.

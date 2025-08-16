@@ -22,6 +22,7 @@ topics:
 - meeting
 - rally
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christian Endeavour Union Half-Yearly Rally was held at the Mt Bryan Bible Christian Church.  In the absence of the President (Rev. W.H. Rofe), Rev. W.O. North, who is Vice-President, presided.  [All three branches of Methodism were represented and testimonies and experiences recounted, reports made, and hymns sung etc.]

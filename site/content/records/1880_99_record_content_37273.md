@@ -21,6 +21,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Tonight at the Burra Institute.  Arbor Day Entertainment by the School Children and Lady & Gentleman Amateurs.  1/- & 6d.

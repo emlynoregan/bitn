@@ -19,6 +19,7 @@ topics:
 - mining
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mines.  Preparations are being made to fork [pump dry] the well near the old pound.  Boring has not yet commenced.

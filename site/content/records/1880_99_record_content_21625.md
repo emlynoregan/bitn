@@ -20,6 +20,7 @@ topics:
 - silver
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21625→Silver.  The Black Hills Mines of Dunstan & Co. claim has yielded at the rate of 661 oz

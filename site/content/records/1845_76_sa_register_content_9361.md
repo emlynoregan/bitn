@@ -22,6 +22,7 @@ topics:
 - electoral roll
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Election: H. Mildred has announced he will be a candidate at the coming election.

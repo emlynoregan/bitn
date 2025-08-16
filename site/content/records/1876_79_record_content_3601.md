@@ -21,6 +21,7 @@ topics:
 - safety
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The railway has created a sharp turn in the road at Hallett's Woolsheds where there is danger from flapping iron on the railway construction huts which may cause horses to bolt, particularly at night when the road is already dangerous enough.

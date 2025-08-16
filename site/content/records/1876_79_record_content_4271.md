@@ -22,6 +22,7 @@ topics:
 - meeting
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Terowie Railway. A railway meeting at Terowie saw 120 people meet at the Terowie Hotel last Tuesday. Moved: the meeting view with great approbation the proposal to extend the railway from Hallett via Yarcowie and Terowie to Yongala. 

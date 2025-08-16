@@ -18,6 +18,7 @@ topics:
 - licensing
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Licensed Victualler’s Bill.  Most of the article outlines the provisions intended for local option to change the number of licences in an area.

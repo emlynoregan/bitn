@@ -18,6 +18,7 @@ topics:
 - weather
 - rain
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rain for the week was 1.1” and the side creeks ran for the first time in nine months.

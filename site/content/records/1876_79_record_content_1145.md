@@ -19,6 +19,7 @@ topics:
 - religion
 - literature
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cornish dialect: A long humorous ‘letter' from Bill Davey - the back page always carried humorous stories and often a chapter of a novel. This one was a Methodist view of the Catholic practice of confession and absolution.

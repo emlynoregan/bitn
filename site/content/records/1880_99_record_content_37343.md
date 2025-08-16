@@ -22,6 +22,7 @@ topics:
 - event
 - concert
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arbor Day.  A very large audience attended the Arbor Day Concert organised by Mr Wittber for last Friday.  It is reviewed item by item.

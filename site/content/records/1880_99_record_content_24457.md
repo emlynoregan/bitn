@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Water Supply.  The railways get their water at Burra for 1/6 per 1,000 gallons.

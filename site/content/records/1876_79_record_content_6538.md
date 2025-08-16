@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Bank of Australasia in Kooringa is now occupied. The manager's residence lies behind the banking chamber and is convenient, but neither large nor of many rooms. The contractors were Sara & Dunstan. The architect was Mr. McLagan and the cost £1,620.

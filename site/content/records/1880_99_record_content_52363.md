@@ -29,6 +29,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hanson school prizes were distributed on 20 December preceded by items by the students.  Mr W. West distributed prizes and certificates.  Certificates went to:

@@ -18,6 +18,7 @@ topics:
 - editorial
 - commentary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This despite the rather clear reasons spelled out by Holder - but perhaps he was hoping for a response that might have been actionable.]

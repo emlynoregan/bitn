@@ -24,6 +24,7 @@ topics:
 - boat racing
 - ventriloquist
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Mr. E. Orchard of Aberdeen has built a small boat and has been racing in it between the Mill and the White Hart Hotel.

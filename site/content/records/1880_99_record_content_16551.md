@@ -20,6 +20,7 @@ topics:
 - temperance
 - phrenology
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Professor Gilbert, the American temperance lecturer, phrenologist and physiognomist will give two of his celebrated lectures in Burra on 2 & 3 March.

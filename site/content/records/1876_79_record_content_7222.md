@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - construction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Terowie Railway. Earthworks are rapidly being pushed on. A beginning has been made right in Terowie and the gaps remaining between Hallett and Yarcowie are now short.

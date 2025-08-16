@@ -21,6 +21,7 @@ topics:
 - recreation
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The 1st meeting of the committee formed at the General Temperance Meeting on Thursday is called for next Wednesday.  The aim is to provide suitable recreation for inhabitants of Burra.  Institute, 8 p.m.

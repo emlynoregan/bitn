@@ -23,6 +23,7 @@ topics:
 - community
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Shooting Stars Co. appeared for the first time at the Institute on Friday last.  The evening of good songs and music closed with the comic operetta The Blind Beggars.  A new program was presented on Saturday, but the terribly rough weather caused a small attendance.

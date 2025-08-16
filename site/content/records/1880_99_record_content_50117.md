@@ -25,6 +25,7 @@ topics:
 - shooting
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ Reports the Port Pirie Rifle Club annual meet saw the visit of a team from Burra comprising: Lieut. J.A. Watt, Sgt-Maj. Blott, Sgt-Farrier Miller and Pte Gemmell.  Only Lieut. Watt shot well, scoring 18/25 at 300 yds and 34/35 at 400 yds.

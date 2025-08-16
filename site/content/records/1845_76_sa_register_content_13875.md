@@ -29,6 +29,7 @@ topics:
 - obituary
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A public temperance meeting was held on Wednesday in the Primitive Methodist Chapel.  For various reasons the attendance was small.  Mr J. Skews Sen. took the chair and addresses were given by Revs Davidson and Whittaker.  Several people signed the pledge after the meeting.

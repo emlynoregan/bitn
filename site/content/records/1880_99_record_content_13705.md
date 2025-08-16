@@ -23,6 +23,7 @@ topics:
 - obituary
 - birth
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Albert Nourse, son of J. & C. Nourse, died on 4 July at the Burra Mines, aged 7 months.  [Born Albert Bertie Nourse 6 December 1883.]

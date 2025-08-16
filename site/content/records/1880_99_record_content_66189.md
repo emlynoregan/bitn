@@ -25,6 +25,7 @@ topics:
 - suffrage
 - taxation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Legislative Council Franchise is discussed in a long article by Fred. W. Young LLB, running to 1⅓ columns of small print.

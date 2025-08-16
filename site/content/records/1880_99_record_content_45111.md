@@ -20,6 +20,7 @@ topics:
 - cricket
 - results
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At Manoora on Good Friday Aberdeen 174 defeated Manoora 124.

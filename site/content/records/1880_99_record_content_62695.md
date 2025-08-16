@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The season has turned out to be very promising as after the drought broke rain has fallen at useful intervals in suitable quantities: 0.47” since out last issue.

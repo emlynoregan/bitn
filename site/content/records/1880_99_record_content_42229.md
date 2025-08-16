@@ -23,6 +23,7 @@ topics:
 - horses
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dempsey, Wilkinson & Sandland will sell 100 horses at Opie’s Yards Terowie on 15 September on account of the Hoad Bros. of Mannum.

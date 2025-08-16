@@ -24,6 +24,7 @@ topics:
 - obituary
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Harry, the wife of James Harry, died in North Adelaide on Wednesday last. Mr Harry traded in Burra for 10 years as Harry and Burns.  [Caroline Harry died 17 November aged 49.]

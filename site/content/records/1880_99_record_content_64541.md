@@ -20,6 +20,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the Annual Social Meeting of the Salvation Army last Wednesday in the Institute, praising the way the Army goes beyond the usual charity cases to areas of ‘depravity and vice’.

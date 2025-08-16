@@ -26,6 +26,7 @@ topics:
 - transport
 - service improvement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Royal Mail: Tuesday’s Waukaringa mail will now include bags for intermediate stations so improving their service - viz. Mt Bryan Flat, Hallett, Yarcowie, Terowie, Parnaroo & Paratoo.

@@ -27,6 +27,7 @@ topics:
 - arrest
 - horse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Arrest of Baker the Horse Stealer

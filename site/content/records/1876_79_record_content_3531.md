@@ -18,6 +18,7 @@ topics:
 - licenses
 - mine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Timber licenses. The mine closure saw only 20 licenses granted in Nov. & Dec. 1877, compared with 88 in the same period the previous year.

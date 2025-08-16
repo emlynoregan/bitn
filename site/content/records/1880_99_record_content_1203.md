@@ -24,6 +24,7 @@ topics:
 - meeting
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Society.  A small group met at the Institute Monday night to form a Literary Society.  Elections: - 	President	Mr Loutit

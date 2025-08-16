@@ -18,6 +18,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS.  The Junior & Senior Primary Swimming Carnivals were held on Thursday and Friday respectively in fine sunny weather.

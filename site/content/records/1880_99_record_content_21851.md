@@ -21,6 +21,7 @@ topics:
 - editorial
 - gauge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the railway gauge problem - suggesting that all the lines north from Adelaide be made narrow gauge and all the southern lines be made broad gauge to connect with Victoria.

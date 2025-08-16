@@ -24,6 +24,7 @@ topics:
 - obituary
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  On 16 August, at Aberdeen, Samuel Goss, aged 75.

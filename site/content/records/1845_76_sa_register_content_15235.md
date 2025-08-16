@@ -33,6 +33,7 @@ topics:
 - transport
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 23 December 1861, page 3

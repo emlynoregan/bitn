@@ -20,6 +20,7 @@ topics:
 - fundraising
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Anniversary.  There were good congregations.  In the past three years a new schoolroom with classrooms has been erected for £1,000, but the total debt on the church property is only £780.  Last year £130 was paid off and it was hoped the present anniversary would raise £120.  The just completed classrooms cost £200, of which £110 had been raised.  Total proceeds were just over £110.

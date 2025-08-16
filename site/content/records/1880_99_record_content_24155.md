@@ -23,6 +23,7 @@ topics:
 - court
 - sentence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  James Lavan was charged with being unlawfully in the garden of Dougald McNeil of Baldina to steal fruit.  Sentenced to one month in Redruth Gaol.

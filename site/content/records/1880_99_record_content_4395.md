@@ -20,6 +20,7 @@ topics:
 - mining
 - party
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gold.  A party from Burra is going to Ulooloo next week to try their luck.

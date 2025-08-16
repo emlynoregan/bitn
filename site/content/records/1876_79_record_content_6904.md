@@ -23,6 +23,7 @@ topics:
 - council
 - misappropriation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Discussion re a cheque for £12 misappropriated by the late Town Clerk (Mr J. Fogg) - some steps had been taken and Council would have to decide on what to do next - deferred to next meeting.

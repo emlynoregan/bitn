@@ -20,6 +20,7 @@ topics:
 - shares
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Adelaide Share Market, 6 November.

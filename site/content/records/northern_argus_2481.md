@@ -21,6 +21,7 @@ topics:
 - hospital
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Geoff Camp, former Director of Nursing at Burra Hospital, was given a rousing farewell at the hands of the nurses last week.  Tied into a wheelchair, he was liberally plastered with eggs and flour and paraded through the streets in the back of a ute.  He took it all in good fun.  [Photo.]

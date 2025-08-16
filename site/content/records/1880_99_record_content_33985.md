@@ -27,6 +27,7 @@ topics:
 - pastoral estates
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich urging the breaking up of the large pastoral estates in areas suited to agriculture.  Three freehold estates adjoining Burra: Hallett, Apoinga and Kingston contain 100,000 acres to say nothing of Gum Creek, Hill river, Bungaree, Martindale and others.  At least 500 families could be accommodated where now about 50 people are employed throughout the year.

@@ -21,6 +21,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fancy Fair, Burra Institute, 23, 24 & 25 September, in aid of St Mary’s Building Fund.

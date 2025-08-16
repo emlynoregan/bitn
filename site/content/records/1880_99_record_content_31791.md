@@ -20,6 +20,7 @@ topics:
 - correction
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The Editor adds a comment that the reporter of the meeting stands by his report notwithstanding the letter from F. Treloar in the last issue.]

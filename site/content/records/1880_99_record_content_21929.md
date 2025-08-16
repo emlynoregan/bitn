@@ -20,6 +20,7 @@ topics:
 - unemployment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A MASS MEETING of unemployed will be held in MARKET SQUARE TONIGHT, FRIDAY, at 7.30 p.m.  A large attendance of unemployed and sympathisers is requested.

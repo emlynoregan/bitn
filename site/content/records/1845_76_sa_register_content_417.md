@@ -20,6 +20,7 @@ topics:
 - auction
 - reporting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Recent Land Sale referred to by ‘Spectator’ is reported.  After detailing the spirited bidding that took place the article reports the results [along with other sales elsewhere in the colony].

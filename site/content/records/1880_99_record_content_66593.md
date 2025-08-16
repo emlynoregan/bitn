@@ -19,6 +19,7 @@ topics:
 - bicycle polo
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bicycle Polo match this afternoon with proceeds to the Burra Jubilee Benevolent Society.

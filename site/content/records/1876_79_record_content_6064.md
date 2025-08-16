@@ -21,6 +21,7 @@ topics:
 - cemetery
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. It has been decided to build a wall around the new cemetery ground for an estimated £93 and tenders have accordingly been called.

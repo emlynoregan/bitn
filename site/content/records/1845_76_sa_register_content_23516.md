@@ -26,6 +26,7 @@ topics:
 - death
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  The inquest on the death of Edward Gascoigne was resumed on 20 August.  Dr Dashwood was re-sworn.  He said he saw the body three hours after death and made a post mortem examination.  The body was very livid; the countenance very pinched; pupils dilated, indicative of intense suffering.  [The evidence then goes on to describe the state of various organs.]

@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - demographics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Population is increasing more slowly than any other Australasian colony.

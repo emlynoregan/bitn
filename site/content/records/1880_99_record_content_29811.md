@@ -23,6 +23,7 @@ topics:
 - transport
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 White Burra Marble has been judged suitable for Broken Hill if it can be carried for 12/- per ton from Burra to Cockburn.  The Commissioner of Public Works is favourable to this and will consult the Railways Board.  If it can be done we understand SAMA will do the work themselves.

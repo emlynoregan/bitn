@@ -19,6 +19,7 @@ topics:
 - homing
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From Salisbury – 76 miles won by J.A. Pearce’s birds at 1014 yds per minute.

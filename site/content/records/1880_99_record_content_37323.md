@@ -23,6 +23,7 @@ topics:
 - religion
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s.  The Bishop of Adelaide, Dr Kennion, confirmed twelve persons at St Mary’s on 20 July.

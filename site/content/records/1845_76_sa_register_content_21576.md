@@ -23,6 +23,7 @@ topics:
 - destitute children
 - funding
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Public Education in 1867.  Editorial.

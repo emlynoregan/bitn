@@ -19,6 +19,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tramps.  Some wily and objectionable fellows have appeared in town.  Begging and petty thefts have occurred and publicans have been cheated of drinks.

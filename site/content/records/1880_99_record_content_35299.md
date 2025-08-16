@@ -19,6 +19,7 @@ topics:
 - transport
 - railways
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Trains are also not running to time elsewhere in SA and the Crystal Brook correspondent of the Register cites delays of two hours as being common.

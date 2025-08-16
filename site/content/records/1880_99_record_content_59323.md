@@ -20,6 +20,7 @@ topics:
 - auction
 - household effects
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  J. Sampson will sell the household furniture and effects of J.A Watt on 12 February.

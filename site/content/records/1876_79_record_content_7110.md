@@ -19,6 +19,7 @@ topics:
 - law
 - Crown Lands Act
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Parliamentary Report. A report of the select committee of the House of Assembly on the Crown Lands Act is printed.

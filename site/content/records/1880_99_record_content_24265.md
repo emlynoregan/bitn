@@ -22,6 +22,7 @@ topics:
 - local news
 - items column
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Some small advertisements and many for sales of stock, property and of furnishings and equipment.  Public notices relating to Council and Government matters, churches and entertainment.  Market reports.  Editorials and/or leading articles.  Short items of local news with a few more extended ones.  A column headed ‘Items’ sometimes contains very brief items, which can be quite cryptic.  This is sometimes on page 3.

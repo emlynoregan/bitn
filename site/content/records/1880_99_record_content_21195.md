@@ -23,6 +23,7 @@ topics:
 - construction
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Catholic Presbytery.  [In 1885] the Catholics let a tender to Mr Cotter of Gladstone for the masonry and plastering of a new presbytery.  I.W. Goss won the carpentry work.  The cost overall exceeded £800 and the building stood the wet Christmas very well.

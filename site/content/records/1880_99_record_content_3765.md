@@ -21,6 +21,7 @@ topics:
 - income tax
 - property tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Ward’s Meeting, at the Burra Hotel, 6 April.

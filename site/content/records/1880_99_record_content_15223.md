@@ -20,6 +20,7 @@ topics:
 - event
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Sports on Monday 10 November are reported as well attended by 400 -500 people and the results are printed.

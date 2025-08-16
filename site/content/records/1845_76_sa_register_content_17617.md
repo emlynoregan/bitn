@@ -22,6 +22,7 @@ topics:
 - migration
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 24 June 1864, page 2

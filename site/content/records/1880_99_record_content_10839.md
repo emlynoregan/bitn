@@ -23,6 +23,7 @@ topics:
 - church
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The death is announced of Dr Short, the former Anglican Bishop of Adelaide.  He will be mourned ‘as a bishop, a churchman, a colonist and a friend.’

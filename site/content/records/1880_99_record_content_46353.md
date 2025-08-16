@@ -21,6 +21,7 @@ topics:
 - lecture
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. on Friday heard an address by R.M. Harvey on the use of Kanaka labour in tropical Australia.

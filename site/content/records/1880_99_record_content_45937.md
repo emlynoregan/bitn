@@ -20,6 +20,7 @@ topics:
 - labour
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Broken Hill Strike continues and is concerning investors.  Subscription lists for miners have been opened in Burra.

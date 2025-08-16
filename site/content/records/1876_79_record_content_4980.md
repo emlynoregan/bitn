@@ -21,6 +21,7 @@ topics:
 - award
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Lodge. (MUIOOF) At the meeting on Wednesday evening W. Davey was presented with a splendid hunting watch and gold Albert by W. Pearce. [A hunting watch had a hinged cover to protect the glass and an Albert was a watch chain.] This was an acknowledgement of his long service and hopes were expressed he will fare well in the place to which he is removing.

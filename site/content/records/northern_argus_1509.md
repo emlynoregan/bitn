@@ -18,6 +18,7 @@ topics:
 - flood
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The recent wet weather has seen the creeks full of flood waters, but except for cutting a couple of roads no damage has been done.

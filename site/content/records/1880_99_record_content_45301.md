@@ -19,6 +19,7 @@ topics:
 - fraud
 - crime
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fraud.  Further details of the behaviour of the recent ‘dressmaker of London’ are given.

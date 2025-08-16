@@ -18,6 +18,7 @@ topics:
 - industry
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Mine.  Several men are still working at the old mine and at the smelting works.  The floor of the old works is being washed and jigged.  All the men say they are making a living.

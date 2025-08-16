@@ -20,6 +20,7 @@ topics:
 - fundraising
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Entertainment. A bazaar in the Redruth Wesleyan Schoolroom on Wed. & Thurs. with proceeds to aid the building debt.

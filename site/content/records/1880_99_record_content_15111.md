@@ -19,6 +19,7 @@ topics:
 - community
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Young Men’s Friendly Assoc.  Sciopticon Entertainment.  Views of English Cathedrals and other places of interest on 13 November at the Society’s rooms in Thames St.

@@ -22,6 +22,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Sergeant Bentley who was a policeman for some 26 years and who for a long time was stationed at Redruth, died at the Eagle Tavern in Hindley St on Sunday.  [The following issue added that he was aged 50 and left a wife and six children.]  [Edward: died 18 January.]

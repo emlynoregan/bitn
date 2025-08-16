@@ -19,6 +19,7 @@ topics:
 - event
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Special Services for Kooringa Bible Christian Church next Sunday with Tea & Entertainment on Wednesday.

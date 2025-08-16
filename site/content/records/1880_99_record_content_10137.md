@@ -20,6 +20,7 @@ topics:
 - temperance
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Cynic’ writes that a temperance society is needed in Burra and notes no effort to form an Anti-Shouting Society, such as has been established in Adelaide.

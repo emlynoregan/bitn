@@ -20,6 +20,7 @@ topics:
 - service
 - New Year's Eve
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa & Redruth Wesleyan Churches Watchnight Services, 31 December, 11 p.m.

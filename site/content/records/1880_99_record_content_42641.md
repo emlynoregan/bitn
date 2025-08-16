@@ -18,6 +18,7 @@ topics:
 - race
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Races last week were a great success with about 350 in attendance.  The account extends c. 2 columns.

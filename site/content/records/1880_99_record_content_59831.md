@@ -20,6 +20,7 @@ topics:
 - accident
 - health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On Monday the horse in the Mail Cart fell when opposite the National Bank.  The driver, A. Rabbich, was thrown out, but was not much hurt.  A young lad in the cart, E. Bartholomæus, sustained concussion and is getting along as well as can be expected.

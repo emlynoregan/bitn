@@ -17,6 +17,7 @@ topics:
 - animals
 - local incident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Stray Goat was seen ringbarking a street tree on Monday.

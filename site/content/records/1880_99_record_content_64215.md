@@ -18,6 +18,7 @@ topics:
 - federal finance
 - federation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir Richard Chaffey Baker writes 1¼ columns on Federal Finance.  He contends that the cost of running the Federal Government will be met from savings made in the efficiency of merging with the other colonies and with the abolition of intercolonial duties.

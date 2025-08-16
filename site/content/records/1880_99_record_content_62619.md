@@ -25,6 +25,7 @@ topics:
 - advertisement
 - cinema
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Institute tonight.  First appearance of the American Cinematographe Co. with all new pictures.  This is the only machine of its kind in SA.  Special engagement of the celebrated actor vocalist Charles Waite and Musical Director Mr Will Parsons.

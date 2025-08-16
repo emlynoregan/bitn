@@ -21,6 +21,7 @@ topics:
 - sparrow
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  DC of Burra.  The Council Ranger has been instructed to take proceedings against residents who do not comply with sparrow destruction notices about to be issued.

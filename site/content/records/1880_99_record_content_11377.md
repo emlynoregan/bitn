@@ -19,6 +19,7 @@ topics:
 - accident
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  On Sunday just before going to bed J. Lewis noticed smoke in his house and on investigating found all was safe except the door to the servant’s room was closed and upon opening it he found the room thick with smoke.  The bed was smouldering.  The girl was got out of bed and the fire extinguished.

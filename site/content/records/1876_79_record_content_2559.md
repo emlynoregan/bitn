@@ -20,6 +20,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment. Advt. for Bachelder's Colossean Pantascope [Pantoscopic lens give very wide angle views -`panto' is the correct spelling) which had scenes from NSW and the world. Also Voltaire `Premier Ventriloquist of the World' and Twin Automaton Trapeze Performers. Gifts will be distributed to lucky patrons.

@@ -27,6 +27,7 @@ topics:
 - service
 - recommendation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  An advertisement similar to that of 15 August about a cart to the Burra Burra Mines.  It will depart Thursday at 3 o’clock and reach Burra on Saturday.

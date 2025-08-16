@@ -19,6 +19,7 @@ topics:
 - accident
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Railway Accident north of Hergott Springs killed five men when a ballast train ran into cattle and several trucks, including the one carrying workers, went down a steep embankment.

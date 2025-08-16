@@ -25,6 +25,7 @@ topics:
 - exploration
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gold is rumoured to have been discovered in the Barrier Ranges, but a telegram from Kooringa denies this and a mercantile firm has a letter from their Outalpa Station dated 26 February, which fails to mention it.  The area involved is large and so the discovery might be unknown to these sources.  Reports from the Darling Stations say some men have been heading to the area of the reports.

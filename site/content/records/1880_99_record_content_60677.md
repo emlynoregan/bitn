@@ -21,6 +21,7 @@ topics:
 - racing
 - homing pigeons
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club.  6th race of the season, 2 September, 153 miles from Coonalpyn.  First were R.D. Pascoe’s birds at 928 yds per minute.

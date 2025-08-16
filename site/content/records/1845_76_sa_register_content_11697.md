@@ -22,6 +22,7 @@ topics:
 - inquest
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary/Inquest.  An inquest was held last week on the body of a lad named Roach, who was found drowned in a waterhole at Baldina.  He was out bullock-hunting with his father, another man and a boy.  The boys and men had separated and on going round the edge of a waterhole, the boy stood on an overhanging section of bank and fell in.  The other lad tried to help, but when he was unable to save the boy it was almost two hours before assistance could be obtained.  The jury returned a verdict of accidental death.

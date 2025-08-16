@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - post office
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Aberdeen/Redruth Post Office.  No sum has been placed on the estimates for a PO at the northern end of the town.

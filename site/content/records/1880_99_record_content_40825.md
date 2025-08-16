@@ -22,6 +22,7 @@ topics:
 - sports
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Boxing at the Burra Hotel Yards on Wednesday night provided a real upset when the local men scattered the so-called professionals George Stanley and Charles Naylor ‘all over the yard’.

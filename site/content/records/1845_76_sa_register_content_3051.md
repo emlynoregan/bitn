@@ -49,6 +49,7 @@ topics:
 - building
 - housing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Superintendent’s duties were to oversee and give direction to all underground excavations and surface work, including cleaning and dressing of the ore.

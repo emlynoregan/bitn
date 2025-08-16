@@ -21,6 +21,7 @@ topics:
 - meeting
 - organization
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF is to be represented at the review in Adelaide on Friday 20 June.  A special meeting is being held on the matter tonight.

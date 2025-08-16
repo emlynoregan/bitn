@@ -22,6 +22,7 @@ topics:
 - ploughing match
 - competition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Show Society. The second annual ploughing match was held on Thursday in dusty and windy weather, but there seemed to be little interest and few entries. The double plough (£7 prize) was won by John Bailey. [Corrected in the issue of 30 August to Thomas Bailey]  The single plough (£5 prize) was won by T. Wilson.  Boys’ competition 1st and 2nd prizes were not awarded. 2nd prize of £1 to F. Fairchild. [Sic?]

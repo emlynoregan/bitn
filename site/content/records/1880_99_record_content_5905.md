@@ -20,6 +20,7 @@ topics:
 - advertisement
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Pearce	Galvanised Iron and Tinplate Worker, Commercial St

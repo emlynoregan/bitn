@@ -19,6 +19,7 @@ topics:
 - community
 - admission
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute 13 August, 7.30 p.m.: 1/- and 6d.

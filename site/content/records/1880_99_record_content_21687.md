@@ -20,6 +20,7 @@ topics:
 - legal
 - scandal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Kingston appears as a co-respondent in a divorce case in Adelaide and scandalises a large section of the population.

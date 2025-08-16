@@ -20,6 +20,7 @@ topics:
 - injury
 - gun
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Gun Accident.  George Bailey, a young man living at Gum Creek with his parents, had a loaded gun in a buggy last week when the hoses became restless.  He placed the gun in the bottom of the buggy and tried to calm them, when it discharged, shattering his right arm between the elbow and shoulder.  It is not yet certain whether the arm can be saved.

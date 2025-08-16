@@ -30,6 +30,7 @@ topics:
 - dinner
 - ceremony
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Sir Henry Ayers leaves Adelaide by special train 9.30 a.m. and opens hospital at l p.m.

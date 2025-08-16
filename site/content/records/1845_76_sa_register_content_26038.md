@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Wool is now arriving at the railway station as the roads dry out.  Nearly 500 bales arrived on Saturday.  It is expected the road from Aberdeen to the railway station will be macadamised about this time next year if the Central Road Board proceeds at its usual rate.

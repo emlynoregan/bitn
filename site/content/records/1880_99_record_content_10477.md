@@ -19,6 +19,7 @@ topics:
 - public finance
 - policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Taxation Policy.  The Treasurer proposes a land tax of 1d in the £ on the value of land and also a tax of 1d in the £ on all other property.  There is then a list of 10 categories of exemptions.  Property of less than £500 value would be exempt.

@@ -20,6 +20,7 @@ topics:
 - football
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  The Vice-Captain of the Burra Club has not once been out to play, or attended a meeting and he has now been replaced by S. Burns for the rest of the season.

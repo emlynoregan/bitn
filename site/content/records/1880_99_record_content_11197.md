@@ -20,6 +20,7 @@ topics:
 - church
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School annual fete was held last Friday.  An enjoyable series of sports was held under a threatening sky, which followed a night of thunder and lightning, but it was dry till an evening shower.  Proceeds were highly satisfactory.

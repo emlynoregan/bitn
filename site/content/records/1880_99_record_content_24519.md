@@ -18,6 +18,7 @@ topics:
 - mining
 - population
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  The news is now discouraging unless reef mining is taken up.  The population is falling fast.

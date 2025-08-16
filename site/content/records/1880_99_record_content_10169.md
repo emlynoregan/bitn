@@ -23,6 +23,7 @@ topics:
 - temperance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Blue Ribbon Army and Gospel Temperance Union will meet at the Primitive Methodist Church, Redruth, 10 July, and at the Institute 11 July.

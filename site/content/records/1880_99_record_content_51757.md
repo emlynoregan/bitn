@@ -19,6 +19,7 @@ topics:
 - education
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Measles have now considerably abated and attendance at Burra School is now rising again.  On 8 November only 30 of 357 were at school.  The school examination has had to be postponed till 4 December.

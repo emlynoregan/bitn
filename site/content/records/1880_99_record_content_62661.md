@@ -24,6 +24,7 @@ topics:
 - meeting
 - political
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Australasian National League, Burra Branch, held a meeting in Mr Lewis’s schoolroom on 23 August [sic: perhaps 13] with Mr Lewis in the chair.  W.G. Hawkes was elected Chairman for the coming year and J.D. Cave, Secretary.

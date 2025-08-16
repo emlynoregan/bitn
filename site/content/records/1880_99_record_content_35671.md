@@ -22,6 +22,7 @@ topics:
 - art
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Pinch of Poverty’.  The Barrier Miner comments on C. Drew’s gift of this painting to the Art Gallery of SA.  It was painted by T.B. Kennington and shown at the Royal Academy Exhibition last year.  The scene is in a city and a woman with wan and wistful eyes is facing the observer and sitting on stonework which supports a high iron railing.  She is pale and drawn and is palpably nearly worn out.  Evidently the mother of three children also shown.  It is a bleak drizzling autumn day.  [Rather more detail follows.]

@@ -24,6 +24,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Thomas Harvey, son of the late Mr O. Harvey of Burra, died in Broken Hill where he was the proprietor of a hotel.  [Appears to be Thomas Patrick Harvey, son of Owen Harvey, born in Kooringa 3 December 1857.]

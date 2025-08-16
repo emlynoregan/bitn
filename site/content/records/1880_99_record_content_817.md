@@ -19,6 +19,7 @@ topics:
 - tender
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tender.  The plans for the Hallett P.O. and Telegraph Office are for a stone building, so why does the tender advertisement call for a wooden one?

@@ -37,6 +37,7 @@ topics:
 - projects
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Chairman Maureen Wright reported on the past year.  The major project had been the Bon Accord Mine Site & Museum.  A grant of $11,283 came from the History Trust of SA and $30,000 from Burra’s Jubilee 150 grant, combined with much voluntary labour to produce a fine museum display.  Colin Fidock was responsible for the preparation of the graphics and pictures – a job requiring much research and most of his spare time.  Pam Marlow’s Monster Mine Model is one of the highlights of the museum.  The Branch has recently applied to the History Trust of SA for an archaeological study leading to a better understanding of the Bon Accord history.

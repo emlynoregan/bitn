@@ -21,6 +21,7 @@ topics:
 - smelting
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Slag Extraction Co. at the Smelting Works.  The machinery for the treatment of the slagheap should arrive in the next few days.  A lease of eight years has been taken out on the heap which should employ a dozen or so.

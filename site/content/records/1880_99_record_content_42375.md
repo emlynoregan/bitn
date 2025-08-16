@@ -19,6 +19,7 @@ topics:
 - community
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Holder in reply thanked them for their kindness and said that whatever he had done for Burra the town had given him the opportunity that had allowed him to reach the position he held today.  He had come to Burra fifteen years ago as a lonely bachelor and there found a wife and many friends.

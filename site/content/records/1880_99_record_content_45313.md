@@ -19,6 +19,7 @@ topics:
 - sports
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 By far the best batsman this season was J. Drew who in 5 innings scored 316 at av. 63.1

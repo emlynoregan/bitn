@@ -30,6 +30,7 @@ topics:
 - transport
 - fares
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Greatly Reduced fares from Redruth to:

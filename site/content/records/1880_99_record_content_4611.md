@@ -20,6 +20,7 @@ topics:
 - opening
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Great Northern Railway.  The second section of the Great Northern Railway was opened to Beltana on 2 July when a free train ran from Pt Augusta to a ball at Beltana.

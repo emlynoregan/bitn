@@ -21,6 +21,7 @@ topics:
 - entertainment
 - public holiday
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  E. Ward MP will give his popular lecture on Shakespeare at Hallett Institute as part of the entertainment on the public holiday on 20 June.

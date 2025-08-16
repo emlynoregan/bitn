@@ -20,6 +20,7 @@ topics:
 - church
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Wesleyan Sunday School Anniversary tea and public meeting was held on Wednesday and though it was a fine day few partook of the tea.  The afternoon saw an abundance of good things for the children to eat and sports and other amusements.  The report showed 23 teachers and 168 scholars.

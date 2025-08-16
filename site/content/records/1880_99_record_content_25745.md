@@ -21,6 +21,7 @@ topics:
 - court
 - punishment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Offence.  Both v. Gully at Redruth Court.  Claim for storekeeper’s goods supplied to value of £1-6-11 + costs £1.  The defendant is a labourer on the permanent way who said he would not appear unless his expenses were paid and a buggy sent to fetch him.  Ordered 14 days imprisonment.

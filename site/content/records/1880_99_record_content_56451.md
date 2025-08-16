@@ -21,6 +21,7 @@ topics:
 - food
 - market
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Arrangements have been made for a consignment of Fresh Murray Cod to be delivered to my store in Market Square on Thursday 11 April.  Absolutely necessary for orders to be in before April 6.

@@ -23,6 +23,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Aberdeen Lime Kiln.  At Chinamens’ [sic] Garden near Polo Grounds.  W.I. Short.

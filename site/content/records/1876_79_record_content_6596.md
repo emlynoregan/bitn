@@ -20,6 +20,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 The Miners' Arms has not been bought by the Unicorn Brewery, but is offered for sale by tender.

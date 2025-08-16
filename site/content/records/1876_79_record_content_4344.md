@@ -19,6 +19,7 @@ topics:
 - inquest
 - safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Miners’ Arms. A fire on Tuesday morning was put out before much damage was done & an inquest brought in an open verdict.

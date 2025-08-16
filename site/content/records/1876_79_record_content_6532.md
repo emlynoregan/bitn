@@ -20,6 +20,7 @@ topics:
 - birth
 - death
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [Joseph Dawkins Lloyd born 23 May 1862 Kooringa: died 31 May 1879 Adelaide aged 17.]

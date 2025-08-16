@@ -33,6 +33,7 @@ topics:
 - community
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Travelling Dairy will visit Burra in a few weeks.  Lectures will be given as well as practical instruction in dairy work.  At least 100 gallons of milk a day will be made into butter and cheese.  For butter a separator will be used to extract the cream.

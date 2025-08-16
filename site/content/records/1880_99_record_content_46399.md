@@ -22,6 +22,7 @@ topics:
 - tennis
 - coursing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Whip’ talks of out-of-town football, athletics, sailing, tennis and of the local coursing club’s puppy stakes.

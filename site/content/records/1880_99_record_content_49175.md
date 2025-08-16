@@ -20,6 +20,7 @@ topics:
 - music
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Moore’s Steam Fanque is in the Commercial Hotel Yards till Easter Monday and will play the most popular tunes nightly.  [I have not been able to trace the word ‘fanque’.]

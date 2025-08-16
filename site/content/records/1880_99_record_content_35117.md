@@ -19,6 +19,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Square Pump.  The pump was placed there by public subscription (as was the sinking of the well) and if ever its benefit was felt it was while it was useless.  Something should be done to suppress larrikinism which two out of three times is the cause of breakage.  The crowd of hobblehoys should not be allowed to play with other people’s property in the way the pump is.

@@ -22,6 +22,7 @@ topics:
 - property
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 R. Austin's Paddock is cited as Section 4, Aberdeen and Section 7, Hundred of Kooringa.

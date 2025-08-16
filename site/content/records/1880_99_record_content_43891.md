@@ -22,6 +22,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copperhouse Primitive Methodist Church Anniversary was celebrated on 27 December when services were taken by Mr George Hoult of Goodwood.  The tea meeting was held on New Year’s Day with addresses by Mr Hoult, Mr J. Williams & Rev. R.J. Daddow.

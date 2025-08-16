@@ -20,6 +20,7 @@ topics:
 - leases
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘HASTA’ writes to the editor expressing his view that if SA does not possess gold deposits, it nevertheless could have great wealth in other metalliferous minerals.  There are many reports of copper discoveries and the sooner the lease arrangements are settled the better.  He says that half a dozen people have applied for leases and these could prove of vital importance to the colony.  He hopes for more Burras.

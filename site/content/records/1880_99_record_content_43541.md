@@ -20,6 +20,7 @@ topics:
 - vote
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy thought the salary might be rearranged, but a dayman was needed, but in the end the motion was carried.

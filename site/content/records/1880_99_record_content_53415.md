@@ -19,6 +19,7 @@ topics:
 - farewell
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Farewells at Redruth Wesleyan Schoolroom were held for a number of people who were leaving the town.

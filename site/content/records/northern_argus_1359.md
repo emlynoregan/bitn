@@ -20,6 +20,7 @@ topics:
 - motor racing
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Ric Williams won ‘most consistent of all classes’ at the Waikerie Speedway over the seson.

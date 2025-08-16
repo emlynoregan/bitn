@@ -18,6 +18,7 @@ topics:
 - accident
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  The harness broke on the mail cart on the Aberdeen Bridge on Monday night.  The occupants and load were tipped out.  The horse bolted and damaged the cart on a stone wall.   It then got away by plunging and was only recaptured the next day.  No one was hurt.

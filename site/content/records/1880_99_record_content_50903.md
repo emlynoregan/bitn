@@ -20,6 +20,7 @@ topics:
 - political opinion
 - labor
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘One of the People’ writes discussing his view that the idea that abolishing the capitalist would improve the lot of the labourer is based on ignorance: each is helpless without the other.

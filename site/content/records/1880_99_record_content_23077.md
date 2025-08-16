@@ -20,6 +20,7 @@ topics:
 - unemployment
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The plans to work on a reservoir in the hundred of Rees have been abandoned and in Burra there are still some 30 men out of work and the Government has nothing to offer.  (A letter to the editor on page 3 of this issue suggests that there are more like 60 out of work in Burra.)

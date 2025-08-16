@@ -18,6 +18,7 @@ topics:
 - regional
 - article
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Article on the S-E of South Australia.

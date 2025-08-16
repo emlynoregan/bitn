@@ -50,6 +50,7 @@ topics:
 - fundraising
 - building
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Deceased was born 19 June 1831 at Zwittan in Moravia.  He was educated at a Jesuit Gymnasium at Mariaschein in Bohemia and in 1856 entered the Noviciate of the Society of Jesus at Baumgartenburg in Austria.  He studied philosophy at Pressburg in Hungary and later at Innsbruck in Tyrol where he was ordained a priest on 29 March 1863.  On 3 December 1869 he, with Rev. Father Rogalski SJ and Br Waldmann SJ, went to England, embarking at Liverpool on 20 December for Melbourne.  They arrived on 23 March 1870 and reached Seven Hills on 5 April 1870.

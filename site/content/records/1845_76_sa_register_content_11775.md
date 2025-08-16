@@ -27,6 +27,7 @@ topics:
 - fine
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Redruth Court, 13 July before J.W. Macdonald SM

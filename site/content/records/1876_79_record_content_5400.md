@@ -18,6 +18,7 @@ topics:
 - royalty
 - empire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Editorial on the Queen’s new title of ‘Empress of India’.

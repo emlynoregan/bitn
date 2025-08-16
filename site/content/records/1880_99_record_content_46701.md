@@ -26,6 +26,7 @@ topics:
 - humour
 - drinking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Alcoholism.  There is a short humorous account of the attempt by Nels and Annie [Senerson], already well lubricated, to get a drink, first at the Burra Hotel, then at the Commercial and finally being successful at the Kooringa.

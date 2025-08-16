@@ -19,6 +19,7 @@ topics:
 - history
 - capture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Kelly Gang.  Over three columns is devoted to the reappearance of the gang and then the final shoot-out and capture.

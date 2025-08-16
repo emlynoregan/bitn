@@ -20,6 +20,7 @@ topics:
 - cricket
 - match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  Burra went to Clare on Monday with a team of the best players.  Clare scored 375 in the 1st innings and Burra replied with 93.

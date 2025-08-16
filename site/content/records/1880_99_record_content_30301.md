@@ -21,6 +21,7 @@ topics:
 - stench
 - complaint
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from a ‘Ratepayer’ complaining that the Board of Health fails to take action to prevent the stench which each summer brings to the people of Burra.

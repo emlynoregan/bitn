@@ -20,6 +20,7 @@ topics:
 - rabbits
 - poison
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits.  There is an article on ‘Ruff on Rabbits’ – a poison made by W.J. King of Balhannah.

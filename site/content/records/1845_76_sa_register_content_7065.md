@@ -19,6 +19,7 @@ topics:
 - transport
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  The machinery and ponderous engines for the Burra Burra Mine have been safely landed from the ship Joseph Weir.

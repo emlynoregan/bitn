@@ -23,6 +23,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment.  On Easter Monday there was a fair attendance for the Entertainment at the Institute in aid of St Joseph’s Mission House Fund.  The Burra Brass Band played outside and c. £11 was raised.

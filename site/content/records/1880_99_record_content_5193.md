@@ -20,6 +20,7 @@ topics:
 - community
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope intends to hold a sports day on 1 January 1882, followed by tea and a soiree.  Due to the insulting behaviour of some strangers at meetings the police have been asked to look in.

@@ -17,6 +17,7 @@ topics:
 - pest control
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 2nd Leader on rabbit control and a 3rd on The Brands Act.

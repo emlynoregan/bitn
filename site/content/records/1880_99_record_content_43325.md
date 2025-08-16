@@ -22,6 +22,7 @@ topics:
 - assault
 - public_order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Halls & Josiah Rosewall £1 each or 14 days for fighting in Market Square.  (Fines paid.)

@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Good Friday the Wesleyans held a tea at Mt Bryan Flat to raise funds to build a chapel there.

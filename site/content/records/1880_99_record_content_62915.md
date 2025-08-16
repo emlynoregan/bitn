@@ -20,6 +20,7 @@ topics:
 - advertisement
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Redruth Wesleyan Sunday School Anniversary will be held on 31 October with the tea meeting on 3 November.

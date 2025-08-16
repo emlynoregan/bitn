@@ -19,6 +19,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Dr Mayne has recovered sufficiently to bear removal to Clare, where he is to sojourn for a while.

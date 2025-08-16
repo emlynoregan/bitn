@@ -25,6 +25,7 @@ topics:
 - transport
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 William Woollacott objected to the haste with which the legislation had been put through.  He said it was one thing for the areas around Adelaide with metalled roads, but it was only very recently that any roads in this district had been metalled and the Act should not be enforced [on unmade roads].  Teamsters could not make a living with reduced loads and increasing the width of tires meant more friction and more bullocks to move a load, which also meant they couldn’t make a living.  Bush roads should be excluded from the Act.  Wide wheels cost £4 to £5 more to make.  He said the Patent Copper Co. loaded its mule wagons heavily and had them follow one another in a continuous line.  Each mule was shod and each team was about twelve mules.  This was what destroyed roads far more than a team of unshod or half shod bullocks.  He called for all owners of vehicles to be taxed as an alternative – why should owners of buggies get off scot-free.  The Act interfered with free trade.  He then proposed a motion calling for a petition for the repeal of the Width of Tires Act.

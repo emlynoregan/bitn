@@ -20,6 +20,7 @@ topics:
 - mining
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes citing a slightly incorrect report in the Sydney Bulletin on the Burra Slag Extraction Co. in which he heartily agrees with their statement that ‘If anybody wants an illustration of the danger of allowing companies to secure the freehold of mines he can get it at the Burra seven days in any week’.

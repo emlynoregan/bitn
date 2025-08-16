@@ -18,6 +18,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 R.J. Needham	12 Sept. 1883	A. Harris	24 Dec. 1895

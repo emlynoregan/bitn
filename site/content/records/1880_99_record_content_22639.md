@@ -17,6 +17,7 @@ topics:
 - note
 - issues
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 *Note these figures are from the next issue: 557 of 2 July 1886, page 3.

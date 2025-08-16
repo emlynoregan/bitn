@@ -21,6 +21,7 @@ topics:
 - livestock
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Elder, Smith & Co. will offer on 25 July 15,580 sheep at the Bon Accord Yards.

@@ -17,6 +17,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The sporting reports seem to be somewhat inconsistent and clearly relied upon interested club members writing in on their organisation’s activities.

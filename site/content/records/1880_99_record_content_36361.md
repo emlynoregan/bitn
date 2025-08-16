@@ -21,6 +21,7 @@ topics:
 - disaster
 - relief
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Darling Floods at Bourke.  Floodwaters extend in a sea for 40 miles and Bourke is under 4’-6’ of water.  A relief fund was set up by the Mayor, T.W. Wilkinson last Saturday and in a few hours £34 was wired to the Mayor of Bourke as a first instalment.

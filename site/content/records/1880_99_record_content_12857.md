@@ -20,6 +20,7 @@ topics:
 - social_mores
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Observer’ writes condemning certain unnamed gentlemen for training their horses for races on a Sunday.

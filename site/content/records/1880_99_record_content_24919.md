@@ -23,6 +23,7 @@ topics:
 - tax
 - payment_of_members
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting.  At the Burra Institute on Wednesday c. 500 attended a meeting with John Dunstan Jun. in the chair.

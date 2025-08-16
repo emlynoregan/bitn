@@ -21,6 +21,7 @@ topics:
 - finance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Thomas Kitchen has still not been found.  The Lodge has now admitted that it found losses of £1,500 about four months ago and had given him time to make up the amount.  He failed to do so and was then suspended, having made arrangements to meet the officials on the day of his disappearance.  The Tarrawingee Flux Co. of which he was also secretary has called a special meeting to consider its position.

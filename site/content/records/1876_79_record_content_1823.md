@@ -23,6 +23,7 @@ topics:
 - emergency
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Fire: Lack of fire brigade highlighted by:

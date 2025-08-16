@@ -21,6 +21,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Obituary.  A small daughter of James Fitzgerald aged 3, last week fell backwards into a boiler of hot water.  She was immediately extricated, but her injuries were so severe she died on the 27th.

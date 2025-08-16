@@ -27,6 +27,7 @@ topics:
 - mining
 - visit
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Mine Strike is over.  Those men who could afford to hold out and who were proscribed by the Directors, having withdrawn their opposition.  A considerable number of pitches were let last week at the Captain’s prices.  The number of applicants was large.  About 300 are presently employed, with more to come.

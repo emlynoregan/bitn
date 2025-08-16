@@ -24,6 +24,7 @@ topics:
 - competition
 - prizes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [Cycle] Contest in Adelaide - 6 days go-as-you-please.

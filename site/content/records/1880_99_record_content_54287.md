@@ -20,6 +20,7 @@ topics:
 - lecture
 - pastoral industry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  A.G. Downer will give a free address on ‘Our Pastoral Industry’ in the Institute on 26 July.

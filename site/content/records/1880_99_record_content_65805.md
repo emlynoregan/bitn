@@ -21,6 +21,7 @@ topics:
 - hospital
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire broke out at the Burra Hospital on Saturday in one of the infectious diseases wards and the room was destroyed.  The cause was the disinfection process which caught bedding alight and the fire spread to the matchboard lining to the iron structure.  In the absence of water nothing could be done and the damage to the insured building was c. £100.

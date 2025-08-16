@@ -18,6 +18,7 @@ topics:
 - literature
 - short stories
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tender and Tried and True by R.P. Whitworth

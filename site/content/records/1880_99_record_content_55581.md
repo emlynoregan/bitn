@@ -23,6 +23,7 @@ topics:
 - burial
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs F.J. Packard died suddenly at her home at Redruth, last Sunday.  She will be buried in the Blakiston Cemetery.  [Near Mt Barker.] [Born Jane Davison: died 23 December aged 49.]

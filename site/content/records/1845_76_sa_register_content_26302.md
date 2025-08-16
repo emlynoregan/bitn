@@ -18,6 +18,7 @@ topics:
 - community
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Mt Bryan DC seems to be dormant, as we hear nothing of their doings, although so near.

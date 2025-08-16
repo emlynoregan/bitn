@@ -22,6 +22,7 @@ topics:
 - birth
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Birth.  On 13 March, at Rosedale, Mt Bryan, to the wife of James Jowett of Terowie, a son.  [Horace Statton]

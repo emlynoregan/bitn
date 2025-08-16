@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T. Lally was injured at the Aberdeen quarry when a stone fell on him from the side, cutting his head and keeping him home for several days.

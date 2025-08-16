@@ -21,6 +21,7 @@ topics:
 - weather
 - crop_damage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Crops from Hallett to Terowie and out to Wonna have been mown down by frost and farmers there will have to depend on new growth.  [Details next issue.]

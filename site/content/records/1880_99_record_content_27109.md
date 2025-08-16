@@ -28,6 +28,7 @@ topics:
 - finance
 - local_government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Town Council.  The Council has to consider what to do about the Waterworks.  There was a great waste of money in laying mains - sometimes at 3½” when a gas pipe would have sufficed.  The Mayor, P.L. Killicoat, thought the interest on capital was too large and if the Commissioner was truly informed a reduction might be made.  There was also a need to reduce expenditure and possibly to return the price of water to 6/- from 5/-.  He also thought the Government might need water this summer for the Broken Hill area.

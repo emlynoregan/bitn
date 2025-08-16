@@ -20,6 +20,7 @@ topics:
 - event
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Fitzgerald’s Mammoth Palace Circus, London Equescurriculum and Bronco Horses: 25 January at Burra.

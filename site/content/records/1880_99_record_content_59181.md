@@ -19,6 +19,7 @@ topics:
 - theatre
 - review
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Seymour-Forde Opera Co.’s presentation of Maritana to only a moderate audience is favourably reviewed.

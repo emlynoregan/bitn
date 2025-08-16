@@ -23,6 +23,7 @@ topics:
 - anniversary
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church held its Anniversary last Sunday.  Rev. D.S. Wylie preached in the morning, Rev. J.Y. Simpson addressed the children in the afternoon and Rev. T. Theobald preached in the evening.  J. Davey conducted the special singing.  The children’s tea on Monday was followed by the usual adult tea meeting with a variety of speakers.

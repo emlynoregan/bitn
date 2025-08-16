@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - date heading
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 1. 1. 5July 1878

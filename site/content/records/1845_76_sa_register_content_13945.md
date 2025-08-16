@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Public works Expenditure

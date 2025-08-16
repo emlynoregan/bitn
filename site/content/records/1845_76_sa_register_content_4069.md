@@ -23,6 +23,7 @@ topics:
 - business
 - beverages
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Abraham Wren of the Burra Burra Hotel in forms the inhabitants of Kooringa, settlers and publicans of the North that he can provide them with  wines and spirits at the following prices.

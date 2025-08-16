@@ -19,6 +19,7 @@ topics:
 - community
 - culture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held their 28th meeting for the year on Friday and it continues to flourish.  It was a musical evening.

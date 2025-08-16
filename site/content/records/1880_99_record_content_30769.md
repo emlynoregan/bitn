@@ -18,6 +18,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  A new season will open tomorrow afternoon at 3 p.m. and a good match is anticipated.

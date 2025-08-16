@@ -20,6 +20,7 @@ topics:
 - community
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lady Cyclist.  ‘On Friday last the first lady rider in Burra made a run through Redruth and Kooringa very nicely, and seemed to be “monarch of all she surveyed”.  On Monday a travelling Salvation Army lassie was to be seen about the town.’

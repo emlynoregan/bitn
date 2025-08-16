@@ -21,6 +21,7 @@ topics:
 - industry
 - manufacturing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams has just completed and loaded for Silverton 10 galvanised iron tanks in two nests of five each.  The demand for tanks has increased steadily and Mr Williams has had to add extensively to his manufacturing plant.

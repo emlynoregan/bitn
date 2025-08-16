@@ -19,6 +19,7 @@ topics:
 - water
 - equipment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sara & Dunstan are asked to return the water cart at once, in good condition.

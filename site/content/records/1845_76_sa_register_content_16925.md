@@ -19,6 +19,7 @@ topics:
 - geography
 - annotation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 [Warcowie is a Hundred in the Flinders Ranges.]

@@ -23,6 +23,7 @@ topics:
 - medicine
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Miss Adela Knight, daughter of Rev. Samuel Knight, formerly of Kooringa and now of Victoria, has completed her Bachelor of Medicine at London and has been appointed residential medical officer of the new hospital for women in London.

@@ -19,6 +19,7 @@ topics:
 - event
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Floricultural Society has cancelled this year’s flower show on account of the weather.

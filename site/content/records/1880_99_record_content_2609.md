@@ -19,6 +19,7 @@ topics:
 - editorial
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Overall the paper was informative, a good record of local activity, and the editorials gave considerable attention to colony-wide issues and the activities of the Government in Adelaide.  There was little padding out with jokes or odd stories from abroad etc.

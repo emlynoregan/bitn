@@ -21,6 +21,7 @@ topics:
 - council
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr O’Leary gave instructions to keep the reservoir full and the engineer on hand at the works.  This was absurd as he was not needed at all times, even to meet Government officials, who could only arrive at certain times by train.  The pipes did eventually arrive and in time to have been connected, so why was it not done?

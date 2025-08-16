@@ -20,6 +20,7 @@ topics:
 - meeting
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church Quarterly Meeting at Mt Bryan on 4 January.  Rev. W.O. North presided.  The income so far was within £4 of expenditure and new members have more than balanced removals.

@@ -24,6 +24,7 @@ topics:
 - opinion
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘A Mine Grantee’ writes from Adelaide 29 October 1849, in response to ‘Tre-Pol-Pen’.

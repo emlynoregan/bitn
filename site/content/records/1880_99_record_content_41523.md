@@ -20,6 +20,7 @@ topics:
 - theatre
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute 3 June, return visit of Taylor-Carrington Co. with their production of Hugh Conway’s weird and psychological romance Called Back, to conclude with the Irish Minstrel Sketch, An Irishman’s Luck.

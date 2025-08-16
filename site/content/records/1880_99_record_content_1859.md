@@ -22,6 +22,7 @@ topics:
 - legal
 - movement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 D.S. Packard, solicitor, has moved from the south side of Market Square to offices between Drew & Co.’s store and the Record office.

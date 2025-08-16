@@ -20,6 +20,7 @@ topics:
 - injury
 - child
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  A 9-year-old son of W. Bentley was running behind a trolley and on the driver whipping him off he ran aside and was run down by a horse and dray, breaking an arm and badly bruising a leg.  The practice is common and dangerous.  [James Bentley born 1879.]

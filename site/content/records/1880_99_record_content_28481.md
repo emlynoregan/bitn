@@ -33,6 +33,7 @@ topics:
 - parliament
 - franchise
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Election Meeting at the Burra Institute.  The candidates: Sir Henry Ayers, Dr J.R. Stephens, J. Harvey, W. Lewis, J. Warren, & J. White, were each given 20 minutes.  Since the last election the SA Constitution has been altered to create four Legislative Council Districts.

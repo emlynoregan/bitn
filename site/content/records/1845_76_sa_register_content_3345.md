@@ -23,6 +23,7 @@ topics:
 - assayer
 - economic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Letter from a Burra correspondent says most miners have now finished dressing their ores and are doing nothing.  Some, having obtained from their assayer in Adelaide (Mr John Rowe) returns of produce for 34, on the 75 standard, have just learnt that Mr Elphick’s returns for the same pile are only 24 and a fraction.  They are of course nonplussed by this.  Many families have already left and many more are preparing to follow.

@@ -19,6 +19,7 @@ topics:
 - concert
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on the possibility that Mr Ellis Newton’s concert in aid of a widow was a sham: at least so far the widow has not been made known.

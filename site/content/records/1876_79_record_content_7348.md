@@ -39,6 +39,7 @@ topics:
 - infrastructure
 - well
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 British and Foreign Bible Society. The annual meeting was last Sunday and the deputation was Rev. R. S. Casely who preached to a small congregation at the Primitive Methodist Chapel in Redruth in the morning, to c.500 children from the combined Methodist Sunday schools in the afternoon and at the Bible Christian Church in the evening. Collections on Sunday raised £5 and the Monday public meeting £1-16-6.

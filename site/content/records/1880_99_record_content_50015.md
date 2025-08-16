@@ -20,6 +20,7 @@ topics:
 - hotel
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 M.F. Moylan has taken over the Kooringa Hotel.

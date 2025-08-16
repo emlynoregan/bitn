@@ -34,6 +34,7 @@ topics:
 - unemployment
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Survey of Lands East of Burra.  SA Parliament.

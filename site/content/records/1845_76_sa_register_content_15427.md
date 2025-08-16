@@ -20,6 +20,7 @@ topics:
 - wood_supply
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Tenders are called by the Burra Copper Works until 10 April for the immediate delivery at the works of dry wood 4 ft 3 inches long and 3 to 12 inches through.

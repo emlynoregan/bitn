@@ -34,6 +34,7 @@ topics:
 - tenders
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Tenders for Conveyance of Her Majesty’s Mails

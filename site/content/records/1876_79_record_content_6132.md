@@ -20,6 +20,7 @@ topics:
 - business
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. F. Bromley, having bought Ohlmeyer's Butchering Business has now removed to those premises.

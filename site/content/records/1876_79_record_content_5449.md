@@ -19,6 +19,7 @@ topics:
 - community
 - controversy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Dinner to the Ex-Mayor. A complimentary dinner was given for the Ex-Mayor on Monday night. Though a success, it was undoubtedly a party gathering.  Though there was an ‘earnest display of goodwill to the guest’ the meeting was ‘deeply scarred with virulent and excessive personal references of a character calculated to degrade the status of the persons taking part in them.’

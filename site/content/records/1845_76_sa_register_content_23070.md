@@ -19,6 +19,7 @@ topics:
 - crops
 - hay
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Agriculture.  Crops around Kooringa have turned out badly.  In a few exceptional cases a fair quantity of hay was cut.

@@ -17,6 +17,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Wesleyan Sunday-school anniversary. A meeting on Monday showed the taking of the recent anniversary to have been c. £54.

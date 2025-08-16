@@ -21,6 +21,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr J. Rumball was relieved of his duties as stationmaster on Monday 3 July.

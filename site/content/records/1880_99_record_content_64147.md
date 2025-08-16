@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - weather
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  The past week was good for rain with 1.02” at time of going to press.

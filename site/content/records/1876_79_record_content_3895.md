@@ -20,6 +20,7 @@ topics:
 - sanitation
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Scavenger. Advt. by the Board of Health for a scavenger for Burra. "Rubbish to be removed from every house within the Corporation fortnightly. Commencing 1 May" Tenders to F.W. Holder, Sec., Board of Health.

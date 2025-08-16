@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - grant
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Market Street. A special grant of £400 to make the road from St Joseph’s to Market Square has been placed on the Government’s estimates.

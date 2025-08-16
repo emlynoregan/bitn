@@ -44,6 +44,7 @@ topics:
 - animals
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Thursday 19 December was the hottest day for the season with a searing northerly wind and clouds of dust.  Numerous bushfires surrounded the town, filling the air with smoke.  For some hours burnt grass fell from the sky and accumulated in sheltered corners.

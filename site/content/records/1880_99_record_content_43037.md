@@ -20,6 +20,7 @@ topics:
 - agriculture
 - crops
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 World’s End crops are very poor, but at Baldina Mr Rhodé is reaping a fine crop of steinweidel variety and expects to get 15 bushels per acre.

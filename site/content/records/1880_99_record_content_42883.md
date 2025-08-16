@@ -21,6 +21,7 @@ topics:
 - health
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr A.C. Noyes’ Concert on Wednesday evening was much disrupted by the influenza outbreak which had affected several performers, forced Dr Sangster from the chair to attend to a patient, and reduced attendance very greatly, so it cannot be said to have been a financial success.

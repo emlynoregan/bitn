@@ -21,6 +21,7 @@ topics:
 - pedestrianism
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Pedestrianism.  Watson easily won the pedestrian events at Kapunda on 2 October for £30.  Some 200-300 spectators attended.  Watson won the 150 yards by about 5 yards and clinched the day by winning the 440 yards by about 10 yards.  In each case Mugg got away better, but was overtaken after 100 yards in the first event and after 300 yards in the 440.

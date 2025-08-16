@@ -19,6 +19,7 @@ topics:
 - government
 - election
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Institute fears that the Govt is about to withdraw the subsidies, which allow for free reading rooms at Institutes.  The Burra Committee urges the Committee of Country Institutes to make this an election issue and to extract promises from all candidates for election.

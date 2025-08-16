@@ -21,6 +21,7 @@ topics:
 - community
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Wesleyan Church held re-opening services last Sunday.  Rev. D. O’Donnell preached morning and evening while Rev. G.E. Rowe held an afternoon flower service.  The church has been thoroughly renovated inside.  The heavier parts of the woodwork have been relieved with gilt lining.

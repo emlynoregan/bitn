@@ -20,6 +20,7 @@ topics:
 - performance
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Oxidentals will put on a show next week at Hallett.  An evening of nigger songs and jokes etc and the laughable farce ‘Wax-in-ation Gratis’

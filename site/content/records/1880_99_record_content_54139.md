@@ -23,6 +23,7 @@ topics:
 - obituary
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sir John Bray, who has been SA Agent-General in London, but resigned on account of ill health, has died in Colombo on his way home to SA.  [Born SA 31 May 1842.]

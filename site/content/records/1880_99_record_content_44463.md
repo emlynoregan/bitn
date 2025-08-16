@@ -22,6 +22,7 @@ topics:
 - obituary
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss Mary Newman of the 4th Class at Burra School died in Burra Hospital on 6 February of diphtheria.  [Born 25 May 1881.]

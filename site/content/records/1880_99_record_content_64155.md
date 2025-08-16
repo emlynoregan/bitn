@@ -27,6 +27,7 @@ topics:
 - cycling
 - record
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cycling.  ‘Whip’ reports that Paetch, a Broken Hill rider endeavoured to break the Broken Hill to Adelaide record a few days before Bagg, but had to give up at Burra in an exhausted state.

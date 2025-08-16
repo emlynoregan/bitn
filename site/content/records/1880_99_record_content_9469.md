@@ -20,6 +20,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daviestown Wesleyan congregation held its anniversary on Wednesday and it was very well attended, surprisingly so since there are only two or three houses within site of the Council Chamber where the services are held.  Proceeds came to £14.

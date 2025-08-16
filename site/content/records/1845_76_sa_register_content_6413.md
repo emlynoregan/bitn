@@ -25,6 +25,7 @@ topics:
 - mining
 - immigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Kooringa Election.  [Advertisement inserted by the Committee to elect H. Mildred.]

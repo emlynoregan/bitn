@@ -20,6 +20,7 @@ topics:
 - conservation
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on Arbor Day.  The article tells the sad story of forest depletion in Australasia and in general discusses the importance and use of trees.

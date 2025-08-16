@@ -20,6 +20,7 @@ topics:
 - railway
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Speed’ writes complaining of the crowding and slowness of trains over the holiday period.

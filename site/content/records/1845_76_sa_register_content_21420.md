@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - fire
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bushfires are presently reported from Anama, Bungaree and Woorkoongoree Runs.

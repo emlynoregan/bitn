@@ -24,6 +24,7 @@ topics:
 - mining
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Unemployment.  The Town Clerk received a telegram to say that Warden Hack will proceed to Kooringa Monday to employ 20 men gold prospecting [at Ulooloo].  The Conservator of Water arrives at Kooringa on Tuesday to confer with the Mayor.  The Baldina water having been found unfavourable for irrigation.

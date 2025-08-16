@@ -21,6 +21,7 @@ topics:
 - council
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor applauds the election of new councillors, which will break up the clique that had made the old council so notorious.  He goes on the say that the ‘impartiality which predominated and characterised the whole business last year will be entirely abandoned, and the needs of ratepayers, whether they are friends or foes of councillors, will not be overlooked, but will receive that consideration which they are justly entitled to.’

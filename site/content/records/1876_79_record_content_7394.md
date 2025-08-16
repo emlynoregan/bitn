@@ -26,6 +26,7 @@ topics:
 - military service
 - medicine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary. On 1 November, at Gawler, Dr William Henry Wilkinson, father of T.W. Wilkinson and an old and respected former Burra resident. 23 years a colonist. Born County Wexford, Ireland, 14 March 1815, entered the army at 17 and served 21 years: 2 years as a private, 4 as a corporal and 15 as a Hospital Sergeant. Arrived in SA in 1858 and became a chemist and druggist at Gawler and later a medical practitioner. He was made a JP in 1860.

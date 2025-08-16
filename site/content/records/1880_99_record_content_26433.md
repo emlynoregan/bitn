@@ -20,6 +20,7 @@ topics:
 - rabbits
 - sparrows
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rabbits are doing immense damage to crops in the Hundred of Nackara and are spreading rapidly.  Sparrows are also a problem.

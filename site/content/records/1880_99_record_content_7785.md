@@ -19,6 +19,7 @@ topics:
 - entertainment
 - schoolroom
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Entertainment last night to aid the Redruth Wesleyan Bazaar which in turn aids a new schoolroom there.

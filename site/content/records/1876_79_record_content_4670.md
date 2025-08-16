@@ -18,6 +18,7 @@ topics:
 - press
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [Note: this letter was not accepted by the editor and appeared in the form of a paid advertisement.]

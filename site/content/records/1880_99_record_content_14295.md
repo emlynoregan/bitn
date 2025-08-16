@@ -20,6 +20,7 @@ topics:
 - agriculture
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the New Industries worthy of attention in SA, urging the importance of a diversification in the sources of national income.  Manufacturers are needed and in the mean time at least bacon, pork, eggs, butter, and cheese as well as mutton and beef could be added or increased.

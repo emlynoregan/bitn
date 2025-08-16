@@ -20,6 +20,7 @@ topics:
 - community
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Man in the Moon’ commenting on the erection at Hallett of ‘A fine structure forsooth’: a new blacksmith’s shop, which ‘looks well from the window of a railway carriage, that is if the train is travelling very fast’.

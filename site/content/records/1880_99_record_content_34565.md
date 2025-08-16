@@ -26,6 +26,7 @@ topics:
 - memorial
 - biography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Daniel Harrison of Adelaide has erected a handsome headstone in white marble to the memory of W. H. Batchelor.  Mr Harrison was an apprentice painter and paperhanger to Mr Batchelor 21 years ago in the town.

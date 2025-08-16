@@ -18,6 +18,7 @@ topics:
 - land tax
 - income tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Taxation.  This discusses the likely income from the new land and income tax proposals.

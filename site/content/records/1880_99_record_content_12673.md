@@ -22,6 +22,7 @@ topics:
 - real estate
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  For Sale or To Let: The House, Orchard and Paddock in Roach Town, known as Dare’s.  Apply, T. Hastie.

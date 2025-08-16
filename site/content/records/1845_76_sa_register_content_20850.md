@@ -46,6 +46,7 @@ topics:
 - agriculture
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A run up to the dry country

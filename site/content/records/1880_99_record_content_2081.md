@@ -21,6 +21,7 @@ topics:
 - retail
 - goods
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  James E. Doe, Market Square, supplies crackers, Guy Fawkes’ faces, rockets etc. - Best Quality and Lowest Prices.

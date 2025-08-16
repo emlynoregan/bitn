@@ -21,6 +21,7 @@ topics:
 - council
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from Cr James Tiver in reply to ‘Phoenix’ who had accused the Councillor of being the principal cause of the delay in the waterworks.  Tiver says it takes more than one vote to shelve a proposal for a fortnight.  Perhaps Phoenix should get on the Council and rush things through without due consideration.  A lake in Burra would be a fine thing, but we would need more knowledge than Phoenix has to decide on its wisdom.

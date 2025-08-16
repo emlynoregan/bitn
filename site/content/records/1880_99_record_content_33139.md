@@ -19,6 +19,7 @@ topics:
 - business
 - auction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Joker Silver mining Syndicate met at the Commercial Hotel on Friday.  It was resolved to wind up affairs and to offer the plant and equipment by auction.  It is anticipated all will be repurchased with a view to recommencing on a larger scale.

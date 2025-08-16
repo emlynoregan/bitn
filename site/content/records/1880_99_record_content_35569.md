@@ -22,6 +22,7 @@ topics:
 - advertisement
 - local history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Lancelot.  Messrs Anderson, Dick & Co., wool-buyers, scourers and fellmongers, have opened a branch at Lancelot.  [Of interest because this town near Peterborough has now completely disappeared.]

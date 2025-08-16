@@ -20,6 +20,7 @@ topics:
 - advertisement
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. & E. Hosking	Closing Down Sale [From early October 1887]

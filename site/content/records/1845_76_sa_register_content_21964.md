@@ -17,6 +17,7 @@ places_mentioned: []
 topics:
 - accident
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Accident.  A son of Thomas Parks was severely gored by a bullock and trodden on, but is supposed to be out of danger.

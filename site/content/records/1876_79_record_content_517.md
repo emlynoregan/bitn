@@ -27,6 +27,7 @@ topics:
 - administration
 - sanitary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 ‘A Lover of Fair Play’ writes wondering why the Government Medical Officer, if so concerned about conditions, did not complain first to the District Council and secondly did not take up the matter with SAMA before going to the Central Board of Health.  He also queries whether Dr Goss could go from the station to the Mine, thoroughly examine a patient there and then thoroughly examine the disputed unsanitary parts of Kooringa, between his arrival on the 12.50 p.m. train and his departure on the 4.50 p.m. train.

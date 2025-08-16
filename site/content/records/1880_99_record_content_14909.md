@@ -21,6 +21,7 @@ topics:
 - editorial
 - homestead bill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [This article takes up again the rabid racism of the Chinese Question editorial and has passages of even more purple prose.]

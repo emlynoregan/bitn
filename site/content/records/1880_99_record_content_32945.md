@@ -19,6 +19,7 @@ topics:
 - strike
 - industrial disputes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the need for setting up some mechanism for the resolution of disputes leading to strike action.

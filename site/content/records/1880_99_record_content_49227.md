@@ -19,6 +19,7 @@ topics:
 - society
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Daddow’s address A Screw Loose!  Where? is summarised.  There were many screws loose in society, but this address considered those in the body politic.

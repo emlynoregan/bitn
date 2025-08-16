@@ -19,6 +19,7 @@ topics:
 - land
 - prices
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cockburn was sold on Thursday with 80 blocks fetching £537-15-0.

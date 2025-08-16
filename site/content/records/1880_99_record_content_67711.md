@@ -18,6 +18,7 @@ topics:
 - publication
 - history
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Numbers from 348 to 354 repeat a series used in 1896 and for this series the number in round brackets indicates the number of times it was used in Volume XV to the 20 December 1899 and the number in square brackets indicates the times used in an earlier sequence and the year in which this occurred.

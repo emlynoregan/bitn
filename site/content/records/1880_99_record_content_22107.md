@@ -19,6 +19,7 @@ topics:
 - organization
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Methodist Ministers’ Association for Burra has been formed by the ministers of the three Methodist connexions in the district.

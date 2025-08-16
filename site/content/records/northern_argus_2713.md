@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Golf Club has spent c. $12,000 on further development of the course.  Pipes have been laid to all tee blocks and all areas around the blacks, so that they can be grassed.  This began when the club combined with the Leighton Cricket Club to lay a pipeline from the Bon Accord Mine shaft to the Aberdeen Oval and the golf course.  The Golf Club committee installed a large tank from which water can be reticulated.

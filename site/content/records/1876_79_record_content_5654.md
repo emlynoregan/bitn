@@ -23,6 +23,7 @@ topics:
 - finance
 - institute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Institute. The annual meeting of subscribers was held with F.W. Holder, President, in the chair. The library now comprises 2007 volumes.

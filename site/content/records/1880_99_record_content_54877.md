@@ -19,6 +19,7 @@ topics:
 - show
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Terowie Show, 24 October.  A special carriage will be added to the 5.52 goods train from Terowie for the benefit of those attending the show.

@@ -27,6 +27,7 @@ topics:
 - mining
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Middle Ward: (Burra Burra Mine, Smelting Works, Swansea Vale, Kooringa north of Commercial and Kingston Streets) – 117

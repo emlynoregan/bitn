@@ -20,6 +20,7 @@ topics:
 - jubilee
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Jubilee Service.  The Wesleyan Jubilee Service is fully reported, including Rev. Burgess’s sermon (pages 2-3).  This was deemed so important that a special edition on better quality paper was printed and made available for 2d.

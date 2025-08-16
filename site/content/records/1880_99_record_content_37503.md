@@ -18,6 +18,7 @@ topics:
 - politics
 - electoral reform
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Lake is to move on 13 August for single member electorates.

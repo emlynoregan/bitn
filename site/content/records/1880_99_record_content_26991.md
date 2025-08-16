@@ -19,6 +19,7 @@ topics:
 - invention
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  John Ridley, inventor of the reaping machine, has died.  [1806-87]

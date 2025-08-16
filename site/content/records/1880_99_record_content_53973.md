@@ -26,6 +26,7 @@ topics:
 - railway
 - development
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 There is a proposal for a railway from Herrgott Springs to Kopperamanna [On the Birdsville Track.] and another from Tailem Bend to Wow Wow Plains [NE of Coonalpyn.]

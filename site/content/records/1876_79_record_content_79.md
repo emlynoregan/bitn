@@ -20,6 +20,7 @@ topics:
 - advertisement
 - saleyards
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 Wilson’s 	Saleyards, Aberdeen

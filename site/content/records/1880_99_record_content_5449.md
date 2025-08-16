@@ -20,6 +20,7 @@ topics:
 - charity
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Excellent views of the overland route from England to America will be shown by means of a very fine Sciopticon at the Old Church of England, next Thursday.  The camera throws a picture 10’ in diameter.

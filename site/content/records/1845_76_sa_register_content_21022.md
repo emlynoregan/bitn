@@ -28,6 +28,7 @@ topics:
 - meeting
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Meeting of the Unemployed was held in Victoria Square in Adelaide on 19 August to receive the report of the deputation that had waited upon the Government on Monday.  Some 800 to 1,000 were present.

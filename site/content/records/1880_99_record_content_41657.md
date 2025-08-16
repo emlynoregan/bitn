@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Grace Ann Honan, wife of Robert Honan and eldest daughter of H. Tralaggan of Mt Bryan, died on 10 June, aged 26.  [Born Grace Ann Trellaggan 7 June 1865.]

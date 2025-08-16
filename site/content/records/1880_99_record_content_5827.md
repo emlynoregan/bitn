@@ -18,6 +18,7 @@ topics:
 - agriculture
 - settlement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Government will lose their money and the selector will be able, without another year’s delay to begin in some more fortunate locality to regain lost ground.’

@@ -21,6 +21,7 @@ topics:
 - award
 - achievement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Percy Robin B.A. has gained 1st prize for the Colonial Institute’s Essay on the Australian Colonies.  He was once a teacher at Burra Model School and has been studying at Cambridge.

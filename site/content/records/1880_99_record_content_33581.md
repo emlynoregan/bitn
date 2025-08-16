@@ -25,6 +25,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Mary’s Church Fair was opened by Hon. F.W. Holder MP last Wednesday afternoon.  Rev. Wayland in introducing Holder explained the object of the fair thus:

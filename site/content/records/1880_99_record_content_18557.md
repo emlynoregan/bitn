@@ -20,6 +20,7 @@ topics:
 - waterworks
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Commissioner of Crown Lands forwarded a copy of the report sent to him by the Hydraulic Engineer.

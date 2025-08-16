@@ -18,6 +18,7 @@ topics:
 - commodity prices
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Copper has been as low as £35 a ton.

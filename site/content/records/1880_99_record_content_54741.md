@@ -30,6 +30,7 @@ topics:
 - police
 - theft
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Forgery.  Several forged cheques were presented to the Bank of Australasia in Kooringa, supposedly from E.C. Lockyer & Co. of Burra.  Apparently two months ago a G.P. West worked for the Unicorn Brewery and was paid by cheque and from that sought to forge Mr Lockyer’s signature.  He passed a number of cheques so forged: £1-1-0 to the Salvation Army as a donation to a dinner, £3-8-0 for a gold locket from C.H. Lowe, £4-16-0 to Mr McClusky of the Burra Hotel, £2-7-0 to Mr Schutz for horse hire, £3-18-0 to Drew & Crewes.  On Monday he cleared out for Adelaide.  He is described as aged 22-23, 5’6” tall, of dark complexion, dark hair, personable and unassuming.  The police are seeking him.

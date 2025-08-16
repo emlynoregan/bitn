@@ -29,6 +29,7 @@ topics:
 - law
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial expressing dissatisfaction with an article in the Adelaide Lantern.  The article said that about 9 years ago a poll in the South Ward of the Kooringa Corporation resulted in a vote in favour of closing hotels in the Ward on Sunday.  But no action was taken to enforce this by either the police or the Corporation.  Since then boundaries have been changed so a portion of South Ward is now in East Ward.  The present Mayor is trying to enforce Sunday closing by sending notices to publicans.  He has not consulted his Councillors.

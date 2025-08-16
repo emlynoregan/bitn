@@ -20,6 +20,7 @@ topics:
 - anniversary
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Special Services were held this week to celebrate the death of John Wesley 100 years ago, but they drew only small congregations.

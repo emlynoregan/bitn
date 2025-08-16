@@ -18,6 +18,7 @@ topics:
 - education
 - announcement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  St Mary’s School. The Church History lecture will not be given on Thursday.

@@ -21,6 +21,7 @@ topics:
 - show
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Friday Mr Burton & his Equestrian Troupe entered the township from Clare, and though it was 6 p.m. when the drays arrived with the tent, all was ready for a show at 8 p.m. before a crowded audience.  A repetition on Saturday took place before the largest audience seen in Burra and was highly applauded.

@@ -18,6 +18,7 @@ topics:
 - opinion
 - economic inequality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 As usual he complains of the concentration of wealth in the hands of the few and feels that ultimately the poor will rebel against that.

@@ -18,6 +18,7 @@ topics:
 - news
 - non-fiction
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Small advertisements.  The news here was usually general and not local and was mixed with non-fiction articles of general interest.

@@ -19,6 +19,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Mt Bryan East.  The weather has been dry and frosty with ice nearly a quarter of an inch thick and snow on the Mount.  A good rain last week improved conditions.  Early planted crops are looking well, but later plantings are backward because of the cold weather.

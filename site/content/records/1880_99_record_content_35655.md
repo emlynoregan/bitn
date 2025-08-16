@@ -18,6 +18,7 @@ topics:
 - wildlife
 - pests
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows are in town in enormous numbers.  In evenings any place with greenery will see thousands of them.

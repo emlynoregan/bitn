@@ -33,6 +33,7 @@ topics:
 - migration
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The rush in now to Bendigo Creek for which diggers have left Mount Alexander in their hundreds.

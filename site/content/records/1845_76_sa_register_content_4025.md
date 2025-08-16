@@ -20,6 +20,7 @@ topics:
 - presentation
 - departure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Rev. J.C. Bagshaw was presented with an appreciative address and a purse of 15 guineas on Tuesday 16 October, as he is about to leave Kooringa.

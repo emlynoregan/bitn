@@ -21,6 +21,7 @@ topics:
 - trotting
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Races.  At the Copperhouse course Mr Vivian’s brown mare beat Mr Finch’s chestnut over two miles at a trotting match on Saturday.

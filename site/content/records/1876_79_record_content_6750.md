@@ -19,6 +19,7 @@ topics:
 - pest control
 - tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from Mt Bryan Flat considers that the dog tax is improper as dogs in rural areas ought to be encouraged to deter and/or kill rabbits.

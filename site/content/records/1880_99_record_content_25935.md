@@ -19,6 +19,7 @@ topics:
 - employment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wanted: A good general servant, must be able to cook and wash well.  Mrs Hall, Bank of Australasia.

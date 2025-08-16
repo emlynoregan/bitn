@@ -21,6 +21,7 @@ topics:
 - club
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Homing Club race from Mt Bryan on Wednesday afternoon for birds under 6 months was won by J. Pearce’s b. c. h. Regal at 1,542 yds/min.

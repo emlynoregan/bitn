@@ -21,6 +21,7 @@ topics:
 - social commentary
 - labour conditions
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Live and Let Live’ writes at even greater length on B.L.F.’s attack and in some ¾ column says that as we see wealth growing we also see poverty growing and this problem needs to be addressed.  Poverty slays its millions and the clergy and others who express indignation that the workingman does not attend church on his only day off should try his 10-12 hours of work six days a week and see if they are not ‘embittered by a life of constant drudgery and care’.

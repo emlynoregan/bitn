@@ -21,6 +21,7 @@ topics:
 - accident
 - flood
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 To the north there was hail at Peterborough and the railway line beyond Orroroo was washed away.

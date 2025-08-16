@@ -19,6 +19,7 @@ topics:
 - debate
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Young Men's United Assoc. debate on `Free Trade v. Protection.' Majority was for Free Trade.

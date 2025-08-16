@@ -21,6 +21,7 @@ topics:
 - finance
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An account for £91 from Pearce, Launder & Co. for the erection of the shed at the oval was passed for payment.  (Half the cost to be found by the Show Society.)

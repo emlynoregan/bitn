@@ -28,6 +28,7 @@ topics:
 - gauge
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. The Govt. announces that it is looking at extending the Hallett line to Jamestown. The Ed. considered that a better idea would be to extend it to Gottllieb's, Parneroo, Paratoo, Chewings and thence to the Barrier, as was recommended by the Railway Commission of 1875. Gottlieb's was about as far as Jamestown from Hallett - about 22 miles.

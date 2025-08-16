@@ -23,6 +23,7 @@ topics:
 - fine
 - standing orders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Council then discussed the explanation of Cr Rabbich and we learned afterwards:

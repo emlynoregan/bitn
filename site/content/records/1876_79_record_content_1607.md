@@ -23,6 +23,7 @@ topics:
 - visit
 - emigration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway: Visit reported of the Emigration Commissioner Mr Henry Taylor. Inspected new railway and returned to Bon Accord Hotel & then visited the `new chum' encampment with an hour spent at this temporary town.

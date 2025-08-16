@@ -18,6 +18,7 @@ places_mentioned:
 topics:
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Valedictory tea meeting in Kooringa Wednesday 19 April.  Tea 5 p.m. & meeting 7.30.

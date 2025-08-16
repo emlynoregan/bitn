@@ -20,6 +20,7 @@ topics:
 - assay
 - natural resources
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mount Bryan Ranges Mining Assoc., operating about 6 miles NE of Hallett has found silver in an assay at the rate of 96 oz 10 dwt 14 gr to the ton.  The local correspondent fears it may yet prove to be in a thin vein or in material from which extraction would be too difficult.

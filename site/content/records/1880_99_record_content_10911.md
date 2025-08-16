@@ -20,6 +20,7 @@ topics:
 - language
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial, calling for the discontinuance of the use of the definite article with the town’s name: i.e. The Burra.

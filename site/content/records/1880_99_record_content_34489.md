@@ -19,6 +19,7 @@ topics:
 - economy
 - editorial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on Our Mining Industry: expressing the need for further exploration and arguing against speculation then rife in silver.  The success of the tributers at Burra suggest there is work here for at least 100 with but little input from SAMA, but ‘It appears to us payable copper has been neglected for the sake of hunting for unpayable silver.  Payment for prospecting is laudable as in the Joker property locally’.

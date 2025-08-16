@@ -18,6 +18,7 @@ topics:
 - election
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections for South Ward and Auditor to be held 1 December 1882.

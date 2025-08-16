@@ -19,6 +19,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On Monday a cricket match was got up among the members of the Burra Club.  It was a close contest; one team scoring 105 and the other 95 after each had two innings.

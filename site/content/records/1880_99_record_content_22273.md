@@ -21,6 +21,7 @@ topics:
 - racing
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Races.  The Burra races were held on 24 May in R. Austin’s Paddock.  Only about 200 attended.  There are no good horses around now and the racing was only mediocre.  Only local horses were represented.  Results are given in detail.  The richest races were the District Plate over 1½ miles and The Hurdles over 1¼ miles, both for £4-7-6.

@@ -25,6 +25,7 @@ topics:
 - municipal
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Municipal Elections.  So far Mr Lane is being asked to stand for the Mayoralty.

@@ -20,6 +20,7 @@ topics:
 - strike
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21641→Wages & Unemployment.  40 men who are dam sinking at Minburra [East of Carrieton] have struck because the Government has reduced wages to 4/6 a day.

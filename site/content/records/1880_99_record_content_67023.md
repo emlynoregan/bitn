@@ -22,6 +22,7 @@ topics:
 - cricket
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  In a scratch game to start the season A. Lott’s side 45 was defeated by W.H. Hardy’s side 76.  A concert in the Institute tonight aims to raise money to repair the Victoria Park pitch.

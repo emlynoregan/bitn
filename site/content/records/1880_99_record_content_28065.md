@@ -19,6 +19,7 @@ topics:
 - politics
 - land tax
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Wanderer’ again takes up the issues of land tax and the redistribution of wealth and related matters.

@@ -19,6 +19,7 @@ topics:
 - animal welfare
 - public safety
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Poisonings.  Last Friday and Saturday some 50 dogs were killed in the town by poison baits laid in the street and thrown into private yards.  Also killed were many fowls, geese, cats etc.  A £20 reward is offered for detection of the offender.

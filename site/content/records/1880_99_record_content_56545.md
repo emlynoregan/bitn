@@ -19,6 +19,7 @@ topics:
 - public health
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3rd Leader on Cr Rabbich and that smell.  Cr Rabbich stated at Council that he ‘never attempted to drag other butchers into the smelling question’.  He says he did not defy the Council and the reference to the house, which seemed untenable [sic], was false.  The writer of the article asserts that Rabbich is wrong on all three.

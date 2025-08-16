@@ -20,6 +20,7 @@ topics:
 - agriculture
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sparrows.  As the Council has taken no action with respect to sparrows the Agricultural Bureau has written to the Central Bureau saying Burra is infested with sparrows and should be proclaimed a sparrow district.

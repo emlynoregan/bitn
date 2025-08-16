@@ -20,6 +20,7 @@ topics:
 - travel
 - notes
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A. Crossley, late of Farrell’s Flat contributes notes on a voyage to England.

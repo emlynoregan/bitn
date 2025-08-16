@@ -19,6 +19,7 @@ topics:
 - domestic
 - windmill
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Lewis JP is erecting a windmill at his house to fill elevated tanks, which will supply the house, stables etc.

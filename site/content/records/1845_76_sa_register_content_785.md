@@ -20,6 +20,7 @@ topics:
 - business
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Smelting.  The promoters of the Smelting Company held their third meeting on 12 August. [Subscribers and the sums subscribed are listed to a total of £660.]

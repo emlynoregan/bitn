@@ -24,6 +24,7 @@ topics:
 - charity
 - royalty
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy inveighs against Queen Victoria’s refusal to lay a foundation stone for a hospital in Aberdeen (Scotland) because she wanted the funds to go to the Imperial Institute.

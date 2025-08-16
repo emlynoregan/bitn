@@ -23,6 +23,7 @@ topics:
 - event
 - clarification
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J.I. Sangster wrote clarifying the matter of tickets for the band at St Mary’s Bazaar.  He says that the tickets referred to were for the first day only and for that day tickets refundable in goods were not issued.  The vote of thanks to all who assisted was certainly intended to include the band and the committee regretted any feeling they may have had of not being acknowledged.

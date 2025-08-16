@@ -19,6 +19,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Hospital Day Care Centre has a luncheon and fashion parade at the Burra Sports Complex on 24 April.

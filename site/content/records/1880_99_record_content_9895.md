@@ -20,6 +20,7 @@ topics:
 - business
 - opening
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Urwin begins business as a clothier and draper in Mr Watt’s old shop.  [See advt. page 3.]

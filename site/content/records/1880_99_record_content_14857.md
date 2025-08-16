@@ -21,6 +21,7 @@ topics:
 - waterworks
 - tenders
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes objecting to the appointment of Mr Bartle at Waterworks Engineer when others tendered for nearly £30 p.a. less and he claims it was all arranged well before the tenders were opened.  He also suggests that Bartle couldn’t light a fire under the boiler without first receiving instruction.

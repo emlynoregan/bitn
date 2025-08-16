@@ -19,6 +19,7 @@ topics:
 - livestock
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  McLaren, White & Co. will offer 12,450 sheep on 21 August.

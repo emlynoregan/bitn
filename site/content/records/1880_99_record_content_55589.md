@@ -20,6 +20,7 @@ topics:
 - event
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Sunday School Anniversary was held last Sunday bur was not well attended due to wet weather.  The public tea is in the schoolroom on Christmas Day at 3.30 p.m.

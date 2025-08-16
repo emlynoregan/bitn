@@ -21,6 +21,7 @@ topics:
 - arts
 - photo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Photo of art with Bronwyn Steele & Peter Bartlett of the Burra Branch of the bank.]

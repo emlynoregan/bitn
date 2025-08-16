@@ -23,6 +23,7 @@ topics:
 - Salvation Army
 - Bible Christian
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  E.A. Ward, Secretary of the Burra Corps, replies denying that there was any intent to injure the Bible Christian special effort.  The Salvationists’ tea was called at short notice because of the schedule of the visiting officers who were to take part.

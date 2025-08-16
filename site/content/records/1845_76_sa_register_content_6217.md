@@ -20,6 +20,7 @@ topics:
 - business
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Fifteenth Dividend.  Notice is hereby given that the Directors of the SA Mining Association have this day declared a dividend of 100% to be paid to shareholders on 4 June.

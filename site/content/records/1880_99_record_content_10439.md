@@ -23,6 +23,7 @@ topics:
 - fire
 - public works
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Waterworks.  The waterworks scheme for Burra is not looking very hopeful.  It will cost at least £400 p.a. and be cheap at that in both convenience and in the event of fire.  In Aberdeen and Redruth nearly £200 worth of water has been guaranteed, but Kooringa has only with difficulty been persuaded to buy £70 worth and of that £40 came from just three persons.  We believe once the water is laid on consumption will increase.  ‘Once the luxury of a bath is enjoyed it will be frequently repeated.’ And let the garden be drenched in hot weather and that process will also be repeated.

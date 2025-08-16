@@ -19,6 +19,7 @@ topics:
 - education
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Nothing has yet been done to lay water on to the Public School.

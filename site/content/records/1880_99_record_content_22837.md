@@ -20,6 +20,7 @@ topics:
 - sport
 - rifle match
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. RVF.  The return rifle match between Riverton and Burra RVF Companies resulted in a win for Burra 457 to 313.

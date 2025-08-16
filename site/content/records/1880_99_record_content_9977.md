@@ -19,6 +19,7 @@ topics:
 - lighting
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.C. Williams, following in the wake of those mentioned last week has installed an Alpha Gas Machine and the light is excellent.  [I have been unable to find the reference to gas lights in the previous issue.]

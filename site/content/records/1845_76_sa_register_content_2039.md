@@ -21,6 +21,7 @@ topics:
 - shipping
 - leases
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fourth Quarter 1847 Customs Returns from the Government Gazette

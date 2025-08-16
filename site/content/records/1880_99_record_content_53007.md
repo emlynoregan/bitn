@@ -19,6 +19,7 @@ topics:
 - complaint
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Resident’ who says she is ‘a poor woman’ of Market Square, writes to complain that girls are throwing stones on her roof night after night.

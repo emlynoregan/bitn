@@ -21,6 +21,7 @@ topics:
 - heritage
 - National Trust
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra National Trust has been given a grant of $19,995 to assist with upgrading buildings and grounds of the historic Bon Accord Mine Site.  This was announced by Neil Andrew, Federal Member for Wakefield.  The Branch will contribute $5,025.

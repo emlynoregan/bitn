@@ -21,6 +21,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Margaret Helen (Pearl), the only child of G. & M. Anderson, died on 22 April at Kooringa, aged 12 months.  [Born 4 May 1883]

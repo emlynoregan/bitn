@@ -21,6 +21,7 @@ topics:
 - community
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Copperhouse School. A memorial is being prepared for the Burra School Board of Advice urging them to reconsider their late decision re the Westbury School. [This is presumably the same as the Copperhouse School.]

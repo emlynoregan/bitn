@@ -19,6 +19,7 @@ topics:
 - finance
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 ‘W.W.’ writes concerning the lands of the Royal Mining Co.  He urges people not to be misled by reports purposely got up to mislead them and not to sell their shares in this company, for which he asserts ‘no mine in the world can be looking better than the one in question, and the public can rest assured that the unfavourable report has been got up to mislead the credulous, and with a decided view to reap a great harvest themselves.’

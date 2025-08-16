@@ -21,6 +21,7 @@ topics:
 - hotel
 - ownership
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 White Hart Hotel changes hand from W.A. Stewart to Mr William Mowitt.

@@ -20,6 +20,7 @@ topics:
 - education
 - school
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School: good progress by Sara & Dunstan. A third of the building is ready for the roof and the rest will be in a month.

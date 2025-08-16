@@ -23,6 +23,7 @@ topics:
 - inquest
 - mines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest at the Burra Burra Mines on the sudden death of Lucy Barnett, who lived near Mr West and died suddenly of heart disease.  [Died 7 August, aged 44, wife of Charles, born Lucy Susan Humphries on 22 March 1842.]

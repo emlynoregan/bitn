@@ -19,6 +19,7 @@ topics:
 - mining
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 An accident occurred at the Mine recently.  A slip of earth buried one of the men, but he was quickly rescued and, though severely bruised, is now doing well.

@@ -19,6 +19,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  On Thursday Billy Gebhardt was delivering bread on Mt Pleasant Rd when the horse took fright and dashed up a deep incline with Billy sitting right on top of the cart.  Encountering a corner, the cart, Billy, and the bread, were spilt on the ground.  He injured his instep and will be laid up for a few days.

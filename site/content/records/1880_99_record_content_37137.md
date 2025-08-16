@@ -18,6 +18,7 @@ topics:
 - accident
 - injury
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Accident.  A rather lively horse that Thomas Halls, cab owner, was riding yesterday fell and rolled on him, injuring his head and face.  The accident was potentially serious, but he is progressing favourably.

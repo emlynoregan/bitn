@@ -22,6 +22,7 @@ topics:
 - lecture
 - entertainment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Charles Clarke will be remembered by residents who can recall 10-12 years back.  He will return to give a lecture in the Institute on Monday evening - a completely new Dickens Entertainment.  He has been in England, but has returned to large audiences in Melbourne and Adelaide, preaching and lecturing.

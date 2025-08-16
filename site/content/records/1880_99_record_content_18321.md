@@ -18,6 +18,7 @@ topics:
 - community
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church quarterly meeting.  Due to removals etc. membership has decreased 1 to 119, despite 7 new members being received.  Signs of increasing religious fervour were noted and the sum collected for the new manse is now almost £200.  Tenders will soon be called.

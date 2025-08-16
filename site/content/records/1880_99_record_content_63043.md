@@ -22,6 +22,7 @@ topics:
 - health
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Richards, an old Burraite has suffered a fall from his horse at Ulooloo and is recovering in the Burra Hospital.

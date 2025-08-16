@@ -22,6 +22,7 @@ topics:
 - press
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Justice’ claiming that reports on the larrikinism and damage to tree guards is exaggerated out of all proportion.  The guards are constructed with so few nails to hold the wires in place that young children playing or a person leaning against one and placing a foot on the wire can do the damage.  ‘Justice’ also thinks the reporting of Council business favours the south end of town.

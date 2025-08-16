@@ -19,6 +19,7 @@ topics:
 - business
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Burra Mine.  Boring at the mine continues vigorously and is now down to 800’.  Rich sulphide and sulphate ores were found for the last 20’, becoming softer with depth.  A new and larger boiler has been procured and it is expected this will eliminate the frequent stoppages previously experienced.

@@ -19,6 +19,7 @@ topics:
 - education
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. When are the new Public School Regulations coming out? Something new is wanted for the Model School is but 1/3 full while private schools are increasing and new ones appearing in various parts of the town.

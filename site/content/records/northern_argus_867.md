@@ -19,6 +19,7 @@ topics:
 - event
 - work experience
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Years 8 & 9 students will be at Barmera and Years 10, 11 & 12 students are doing work experience.

@@ -18,6 +18,7 @@ topics:
 - meeting
 - public
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  A Public Meeting is called for next Monday to discuss the question of The Barrier Trade.

@@ -24,6 +24,7 @@ topics:
 - celebration
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Holidays.  The weather was very good.  The special constables had a quiet New Year’s Eve and there were few larks practised, except for the overturning of one or two small footways.  The Salvation Army took up its usual stand and guns and whistles greeted the New Year.  Watchnight Services were held at the Kooringa & Redruth Wesleyan Churches and on New Year’s Day the Kooringa Wesleyan children had their annual picnic at Sod Hut in Mr Fradd’s paddock.

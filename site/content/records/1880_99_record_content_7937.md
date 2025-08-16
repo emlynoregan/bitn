@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the unreasonableness of the Midland Road Board re junctions between main roads and district roads.  Height differences often made access to the main road difficult or even impossible.

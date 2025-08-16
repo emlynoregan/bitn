@@ -20,6 +20,7 @@ topics:
 - finance
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  SA Mining Association £5 shares were changing hands at 34/-.

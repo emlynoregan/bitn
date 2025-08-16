@@ -19,6 +19,7 @@ topics:
 - water
 - well
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Market Square Well is now at 90' with water from 18'.

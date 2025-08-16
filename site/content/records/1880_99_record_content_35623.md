@@ -23,6 +23,7 @@ topics:
 - boxing
 - pigeon shooting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  Other out-of-town reports included cricket in NZ and Sydney, rowing in NZ, mounted swords, boxing and pigeon shooting in Melbourne where a match for £100 a side ended in a tie when both contestants scored 95/100.

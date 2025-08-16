@@ -21,6 +21,7 @@ topics:
 - circus
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madam Ridge’s American Circus performed on Friday & Saturday to poor houses.  It was well worth seeing with excellent tumbling and horse riding and an excellent performance from Salvanse (the boneless wonder) and from Madam Leontine on the trapeze.

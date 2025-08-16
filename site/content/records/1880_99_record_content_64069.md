@@ -18,6 +18,7 @@ topics:
 - community
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The flowers brought will be distributed to the sick and the poor.

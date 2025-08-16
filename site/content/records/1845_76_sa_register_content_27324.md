@@ -20,6 +20,7 @@ topics:
 - community
 - alcohol
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A Brawl at Hanson [i.e. Farrell’s Flat]

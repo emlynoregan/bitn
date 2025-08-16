@@ -21,6 +21,7 @@ topics:
 - controversy
 - opinion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In a remarkable flowering of purple prose he proceeds to attack the coming lecturer, Miss Ada Campbell as an agent of His Satanic Majesty.

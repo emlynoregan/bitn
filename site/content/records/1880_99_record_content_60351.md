@@ -25,6 +25,7 @@ topics:
 - accident
 - inquest
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mr Sampson Vivian was killed in an accident at South Mine, Broken Hill, on 21 July.  He was a brother to Mr H. Vivian of the Commercial Hotel and was well known in Burra.  He arrived here over 40 years ago and has since reared a family.  The inquest failed to explain just how he met his death.

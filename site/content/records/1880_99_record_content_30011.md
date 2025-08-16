@@ -24,6 +24,7 @@ topics:
 - preaching
 - tea meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Primitive Methodist Church anniversary was celebrated successfully with Rev. George Warner preaching to large congregations.  Mr Holder was unable to preside at the tea meeting and was replaced by Mr Cheynoweth.

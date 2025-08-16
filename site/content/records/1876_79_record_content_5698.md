@@ -21,6 +21,7 @@ topics:
 - cricket
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Cricket. A meeting at the Commercial Hotel on Saturday night resolved that the next match will be versus Clare at the Aberdeen ground tomorrow at 10.30 a.m.

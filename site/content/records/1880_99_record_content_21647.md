@@ -20,6 +20,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21647→Obituary.  Sarah Packard, widow of the late Rev. Daniel Packard, died 9 March at Kooringa, aged 72.

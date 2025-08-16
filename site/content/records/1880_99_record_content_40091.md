@@ -20,6 +20,7 @@ topics:
 - cricket
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The match v. Saddleworth did not come off, but the Burra Club is going to Mintaro today.

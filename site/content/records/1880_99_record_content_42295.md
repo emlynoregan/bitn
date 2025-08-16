@@ -25,6 +25,7 @@ topics:
 - sports
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Sparks’ Column.  [The following extracts give a taste of the cryptic nature that often makes this column frustrating reading more than a century later.]

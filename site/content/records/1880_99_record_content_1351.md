@@ -20,6 +20,7 @@ topics:
 - debate
 - tobacco
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Society.  The second meeting on Friday heard a paper from Dr Brummitt on ‘Tobacco Smoking’.  The next meeting on 23 July will feature a debate.

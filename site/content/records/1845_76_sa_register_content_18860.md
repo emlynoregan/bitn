@@ -23,6 +23,7 @@ topics:
 - infrastructure
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Notice.  Tenders are called by William Milne, Commissioner of Railways, for the purchase of lines of railway in SA from Adelaide to the Port and from Adelaide to Kapunda.

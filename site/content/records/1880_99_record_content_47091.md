@@ -18,6 +18,7 @@ topics:
 - sales
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sales in Burra the third Friday in the month.

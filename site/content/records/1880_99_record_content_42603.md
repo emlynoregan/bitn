@@ -20,6 +20,7 @@ topics:
 - transport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hallett Races last Wednesday saw a very crowded train leave Burra for the north for the day.  A great number of the visitors walked round all the night as all beds in Hallett were taken.

@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Ministering Children’s League Bazaar was held last Wednesday, opened by Dr Sangster.  Not too many adults were present, but children turned out in force.  £11 was raised.

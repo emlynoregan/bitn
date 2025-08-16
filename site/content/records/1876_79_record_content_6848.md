@@ -19,6 +19,7 @@ topics:
 - school
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra School. Apparatus for teaching gymnastics has been supplied to the Burra and other public schools.

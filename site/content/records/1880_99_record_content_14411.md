@@ -19,6 +19,7 @@ topics:
 - legal
 - animals
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Shortridge fined 14/- for driving loose cattle in Market Square.

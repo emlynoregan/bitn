@@ -18,6 +18,7 @@ topics:
 - retail
 - clothing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 German-silver and Britannia-metal ware

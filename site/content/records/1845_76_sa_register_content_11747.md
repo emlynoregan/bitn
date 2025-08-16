@@ -20,6 +20,7 @@ topics:
 - commerce
 - railway
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa storekeepers are grumbling at the cost of cartage, which at present is £5-£6 per ton.  Some of the goods are two months on the road and get spoiled.  Small parcel costs are outrageous.  One small parcel not over six inches long cost 5/- and one man refused to take delivery of a small parcel because of the cost.  A railway is sorely needed.

@@ -25,6 +25,7 @@ topics:
 - entertainment
 - farewell
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Parish Uniting Church held its annual dinner last Friday.  World-famous singer Thomas Edmonds accompanied by Dr Peter Tillett provided the entertainment.  During the evening Rev. Malcolm Thomas and his wife Mavis were farewelled.  Malcolm’s new appointment is on the Sturt Patrol.

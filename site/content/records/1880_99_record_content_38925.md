@@ -20,6 +20,7 @@ topics:
 - art
 - floral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Floral, Art and Industrial Exhibition at the Institute 27 & 28 November.

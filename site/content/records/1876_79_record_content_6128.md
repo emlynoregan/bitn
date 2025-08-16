@@ -20,6 +20,7 @@ topics:
 - praise
 - letter
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Letter from T.W. praising the services of the Burra Hospital.

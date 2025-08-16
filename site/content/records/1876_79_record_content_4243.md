@@ -22,6 +22,7 @@ topics:
 - council
 - roads
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council is to have the Kingston St Bridge abutments modified [apparently for easier access from either side, but the copy is torn at this point.]

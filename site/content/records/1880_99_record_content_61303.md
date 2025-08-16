@@ -21,6 +21,7 @@ topics:
 - juvenile
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Two girls, Emma Boswel and Louie Weismeyer, aged 16 & 17 respectively, cleared from the Reformatory on Thursday evening.

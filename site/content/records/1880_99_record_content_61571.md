@@ -18,6 +18,7 @@ topics:
 - numbering
 - dates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 XV, 257 (2), 6 Jan. 1897 [2nd use of a number first used in this volume in August 1893.]

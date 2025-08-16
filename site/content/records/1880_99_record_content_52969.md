@@ -21,6 +21,7 @@ topics:
 - prices
 - economy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘A Quarryman’ writes re the extortionate price for bread at 3d for a 2 lb loaf.  A bag of flour is 15/- and makes 135-140 loaves giving a profit of £1 per bag or £14-10-0 a ton, which costs them only £7-10-0.

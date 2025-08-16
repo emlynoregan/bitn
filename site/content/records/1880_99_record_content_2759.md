@@ -17,6 +17,7 @@ topics:
 - literature
 - serial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 8 Jul 81	Ferryman’s SecretXVII-XVIII	Echoes of the Past	Some Curious Races	X	X		X				X	X

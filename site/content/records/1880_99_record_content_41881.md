@@ -21,6 +21,7 @@ topics:
 - music
 - performance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bairnsfather Family of Scotch vocalists gave a ‘Nicht in auld Scotia’ at the Institute on Monday, but wet weather produced a very poor audience for a commendable performance.

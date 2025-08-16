@@ -21,6 +21,7 @@ topics:
 - masonic lodge
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kooringa Masonic Lodge. Br Frederick R. White has been installed as Master of Lodge No. 588 E.C.

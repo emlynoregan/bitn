@@ -20,6 +20,7 @@ topics:
 - community
 - banking
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Loutit, manager of the National Bank will move to Mt Gambier.  He has been active on the Hospital Board, in the Institute and the Floricultural Society.

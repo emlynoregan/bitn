@@ -18,6 +18,7 @@ topics:
 - press
 - media
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the last six months Friday editions have been increasing in circulation and we believe the change will boost our circulation.

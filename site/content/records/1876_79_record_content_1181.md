@@ -19,6 +19,7 @@ topics:
 - agriculture
 - local government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Rabbits: Some district councils were paying a royalty on rabbit scalps and one had received 40,000 in one month.

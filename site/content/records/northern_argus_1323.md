@@ -20,6 +20,7 @@ topics:
 - event
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Notice.  The Arts Council’s Floating Palais will be presented at Burra Town Hall 27 June.

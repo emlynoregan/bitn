@@ -20,6 +20,7 @@ topics:
 - trees
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Burra Burra DC has received a $10,000 debit order from the Highways Department for tree planting along the Barrier Highway south of Burra.

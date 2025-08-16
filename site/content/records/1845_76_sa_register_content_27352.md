@@ -18,6 +18,7 @@ topics:
 - race
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 1 Mile Race for Allcomers		W. Bland

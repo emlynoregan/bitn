@@ -19,6 +19,7 @@ topics:
 - social
 - travel
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr & Mrs McCulloch’s valedictory social on the occasion of their departure for a tour of England and Europe is reported in ¾ of a column.

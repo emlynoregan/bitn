@@ -22,6 +22,7 @@ topics:
 - temperance
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Band of Hope’s 1st meeting for its 2nd year.  Rev. J. Bickford in the chair last Friday.  The address was by John Durgess.  For the last year the pledge was signed by: -

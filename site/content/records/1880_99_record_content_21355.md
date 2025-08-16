@@ -20,6 +20,7 @@ topics:
 - mining
 - prospects
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver.  The ‘Silverton Junior’ at World’s End-Robertstown shows promise with some shafts down 20’-30’.

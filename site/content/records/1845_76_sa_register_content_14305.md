@@ -19,6 +19,7 @@ topics:
 - company
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 This week I was shown some very promising specimens of copper from the Coroona Mine, about 25 miles north of here.  I understand a prospectus is being published for the purposes of forming a larger company by the issue of shares on very liberal terms.

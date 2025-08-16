@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway: Construction begun, but planned terminus 2 miles from the town has annoyed locals.

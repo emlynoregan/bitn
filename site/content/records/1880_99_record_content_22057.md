@@ -20,6 +20,7 @@ topics:
 - church
 - cricket
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Friday: Church services and Aberdeen v. Northern Areas cricket match.

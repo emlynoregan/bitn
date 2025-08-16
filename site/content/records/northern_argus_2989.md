@@ -19,6 +19,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 [Check again, but it seems that neither this nor the report in the Review Times Record says that this was a closing down sale.  Nevertheless in CXVII, 8130, 4 November 1987 page 19 a report says that the State Bank of SA has bought the store with the intention of relocating to it.]

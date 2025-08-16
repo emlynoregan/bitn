@@ -21,6 +21,7 @@ topics:
 - community
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Post Office.  The Aberdeen and Redruth people can’t be thankful they are to get a post office, but must now have a dispute over the site.

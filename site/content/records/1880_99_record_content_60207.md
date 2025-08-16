@@ -19,6 +19,7 @@ topics:
 - homing
 - racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 From Roseworthy – 59 miles, won by C. Wilkinson’s birds at 975 yds per minute.

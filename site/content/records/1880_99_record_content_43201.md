@@ -37,6 +37,7 @@ topics:
 - election
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ratepayers’ Meeting, Burra Institute, 20 November.

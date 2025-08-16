@@ -32,6 +32,7 @@ topics:
 - coroner
 - water
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The nearest neighbour was Mr Bewley c. ¾ mile away.  I knew he was absent as was my husband.  Mr Tolman’s boy was the first to give help.

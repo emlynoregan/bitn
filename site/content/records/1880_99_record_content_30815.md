@@ -19,6 +19,7 @@ topics:
 - council
 - assessment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from W.T. Rabbich dissenting from the editor’s view on the legal possibilities of the Mayor’s penalty, but agreeing with him on the extraordinary action of the (old) Council in relation to the appeals for reductions in assessments.

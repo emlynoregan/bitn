@@ -24,6 +24,7 @@ topics:
 - recital
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Entertainment: Advt. for Mrs Scott-Siddons to give a grand recital at the Institute. 7 scenes from plays by Shakespeare, Sheridan, Bungay etc. (3/- & 2/-)

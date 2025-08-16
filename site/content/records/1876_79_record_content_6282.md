@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - bridge
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Kingston Street Bridge. We believe the new bridge is to be opened next week.

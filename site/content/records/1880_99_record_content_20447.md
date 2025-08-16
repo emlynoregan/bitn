@@ -36,6 +36,7 @@ topics:
 - gangrene
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary & Inquest on the body of John Reardon who died in Burra hospital on 26 November.

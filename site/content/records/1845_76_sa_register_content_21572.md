@@ -21,6 +21,7 @@ topics:
 - labour
 - copper
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Cornish Miners have been leaving Moonta for other colonies, saying they cannot be worse off for leaving SA behind.  Every departure has a bad effect on the tradesmen and many of the departed miners leave behind debt.  Copper prices are low and so is the grade of ore being raised here compared with a few years ago.  The mine is deeper and haulage and other costs are higher and as the shareholders expect the same dividends it is at the expense of wages and the departure of many of the best workers.

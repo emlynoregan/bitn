@@ -18,6 +18,7 @@ topics:
 - religion
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Wesleyan Mutual Improvement Association held its monthly meeting.

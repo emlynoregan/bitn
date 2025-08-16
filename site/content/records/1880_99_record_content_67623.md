@@ -19,6 +19,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Masonic Lodge on 12 December held its first annual meeting since the lodge was resuscitated.

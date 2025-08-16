@@ -24,6 +24,7 @@ topics:
 - library
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 At the opening of the Local History Room a cheque for $500 was presented to the Library Board from Ian & Eve Auhl and they have also gifted all royalties from Ian’s books in the future to this same end.  A local history research award will be offered known as the Ian & Eve Auhl Research Award to further the research into the history of Burra and District and the furtherance of the local history collection.

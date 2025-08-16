@@ -16,6 +16,7 @@ places_mentioned: []
 topics:
 - missing_issue
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 THE COPY OF THE PAPER FOR 26 APRIL 1878 IS MISSING

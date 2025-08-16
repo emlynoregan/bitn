@@ -22,6 +22,7 @@ topics:
 - advice
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Gold in Australia [Editorial]

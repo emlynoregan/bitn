@@ -19,6 +19,7 @@ topics:
 - copper
 - dividend
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The profit and loss statement for the six months ending 30 September 1853 shows a nett profit of £11,981-4-8.  The quantity of ore raised in that time was 1,781 tons, which sold for £20,519-13-5 or an average £11-10-5 per ton.  The cost of production was £8,538-8-9 or £4-5-11 per ton; leaving a surplus of £6-14-6 per ton.

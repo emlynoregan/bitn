@@ -22,6 +22,7 @@ topics:
 - death
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  The Rev. James Way, the senior Bible Christian minister in SA and father of the Chief Justice has died [on 14 August, aged 80].  He served in the Kooringa Circuit many years ago.  He has been ailing for some time and his death was not unexpected.  He last visited Burra about two years ago when he preached the anniversary sermons.

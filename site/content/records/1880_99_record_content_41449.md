@@ -26,6 +26,7 @@ topics:
 - education
 - medicine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Miss A. Knight, aged 25, daughter of Rev. S. Knight, who was for some time in charge of the Kooringa Wesleyan Church, has died.  Adela McCulloch Knight MB had begun a very promising career in the medical profession.  She was born in Ballarat and studied medicine at Adelaide University with great credit, obtaining a MB and then went to the London School of Medicine for Women where she won the Prideaux Scholarship to study gynaecology in Vienna.

@@ -18,6 +18,7 @@ topics:
 - hospital
 - healthcare
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  The fitting up of the padded room has been done.

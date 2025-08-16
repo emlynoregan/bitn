@@ -24,6 +24,7 @@ topics:
 - meeting
 - society
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 British & Foreign Bible Society annual meeting, last Monday in the Institute.  Attendance was miserable small.  The Mayor took the chair and Rev. T.B. Tress from Sydney gave the address.  Elections: P. Lane, President & Treasurer; Dr Stephens, Vice-President; T. Edwards, Secretary.

@@ -24,6 +24,7 @@ topics:
 - church
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Messrs Watt & Rabbich addressed a meeting at the German Chapel at Redruth on Tuesday 22 November, with Mr C. Fuss in the chair.

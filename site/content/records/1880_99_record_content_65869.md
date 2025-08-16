@@ -29,6 +29,7 @@ topics:
 - wedding
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  Last Thursday at World’s End Annie Amelia Duldig, eldest daughter of F. Duldig married Charles Rudolph Pfitzner of Friedrichswalde [Freidrich Walde in the paper] [Since 1918 Tarnma] at the Bright Lutheran Church.  Rev. Hansen officiated.  ‘There were ten buxom bridesmaids’ led by Miss M. Rooke.  Over 70 sat down to luncheon in a large tent against the kitchen and there were games in the afternoon.  The World’s End Tin and Bell Band sprang mysteriously into existence about 9 o’clock.  After tea games, recitations and songs and a good program of music.  Dinner was taken at 11.45 of every kind of roast poultry after which the wedding attire was removed, followed by toasts and games which continued till Saturday morning.  A list of some of the presents follows.

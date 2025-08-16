@@ -19,6 +19,7 @@ topics:
 - hunt
 - defence
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Snow’ writes re the Kangaroo hunt report, to defend himself against some of the jokes made at his expense therein.

@@ -19,6 +19,7 @@ topics:
 - fine
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sammie Duck, fruit hawker, was fined 10/- + 10/- costs for not having his weighs tested and stamped.

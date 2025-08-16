@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Hallett Railway. Almost nothing happening. The earthwork is done and materials for plate-laying are to hand, so why the delay? A daily paper says that it is to start in earnest in the New Year with completion about May. A bit of effort could see the line open to Mt Bryan for this season's grain.

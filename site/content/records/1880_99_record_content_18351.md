@@ -38,6 +38,7 @@ topics:
 - rates
 - deputation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 11.	He hoped the meeting would appoint a deputation to ask the council to rescind the motion.  He had given the necessary notice and it would come on at 8 p.m. next Monday.

@@ -26,6 +26,7 @@ topics:
 - events
 - church
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 On New Year’s Day wagons lent by Messrs McBride, Sandland and Rogers [The paper of 11 Jan. adds C. Schut’s, which should presumably read C. Schutz.] took the Kooringa Wesleyan Sunday school to Fradd’s paddock at Sod Hut.  The site was excellent with large trees and lunch was partaken of in a large tent, but the storm clouds gathered and about 2 p.m. rain began to fall and the day had to be abandoned with everyone getting a drenching.

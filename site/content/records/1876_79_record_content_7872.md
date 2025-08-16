@@ -24,6 +24,7 @@ topics:
 - accident
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Obituary.  Mr Brown of Mananarie [Mannanarie] was thrown from his cart on his way home from Yongala on Saturday and killed.

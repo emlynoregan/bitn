@@ -23,6 +23,7 @@ topics:
 - hospital
 - charity
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. J.C. Hansen has sent a £3 cheque to the Burra Hospital from his congregation in the Hundred of Schomburgk, in thanks for the treatment given to Johann Gottlich Hanm (deceased) while in the Burra Hospital.  [Almost certainly Johann Gottlieb Thaumm died 20 November 1889 aged 50.]

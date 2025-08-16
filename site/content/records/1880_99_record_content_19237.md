@@ -18,6 +18,7 @@ topics:
 - council
 - partiality
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter from ‘Duty without partiality’ again condemning the lack of action of the Council re the partiality of Inspector Dow.

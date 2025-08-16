@@ -21,6 +21,7 @@ topics:
 - mining
 - claims
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This describes the Soakage Group, Nolan’s Big Slug and Mt Gipps, where the Burra & Mt Gipps Mineral Syndicate has ten claims.

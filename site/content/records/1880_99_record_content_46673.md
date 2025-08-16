@@ -18,6 +18,7 @@ topics:
 - workplace safety
 - quarry
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Something should be done to render the Aberdeen Quarry safe to work in.

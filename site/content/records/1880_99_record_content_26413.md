@@ -19,6 +19,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  W. Anderson.  Shoe Shop of Commercial St.  Clearing out sale as he is leaving the district.

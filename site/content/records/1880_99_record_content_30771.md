@@ -23,6 +23,7 @@ topics:
 - council
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Mayoralty.  W.R. Ridgway is unwilling to stand under the circumstances.  F.W. Holder has been approached.  He has asked time to consider, but will consent if no other person with experience of municipal work can be prevailed upon to stand.

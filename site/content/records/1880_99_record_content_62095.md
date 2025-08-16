@@ -22,6 +22,7 @@ topics:
 - crime
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Kelly has had one of the embezzlement charges against him withdrawn, but others are still pending.  Kelly’s parents lived in Burra some years ago and Kelly is well known here.

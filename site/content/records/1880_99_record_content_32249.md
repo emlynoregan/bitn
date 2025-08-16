@@ -20,6 +20,7 @@ topics:
 - event
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  United Oddfellows’ Pic-Nic at the opening of the Burra Recreation Ground.

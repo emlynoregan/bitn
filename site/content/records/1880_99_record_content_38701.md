@@ -17,6 +17,7 @@ topics:
 - other
 - quotation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Had your love for the cup which cheers in days gone by been a little less strong, you no doubt, would today be as it were a model Hercules.’

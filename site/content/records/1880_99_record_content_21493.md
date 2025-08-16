@@ -19,6 +19,7 @@ topics:
 - economy
 - silver
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Silver fever seems to be abating somewhat, though many were still at work at the Ulooloo goldfield and some were even said to be making wages.

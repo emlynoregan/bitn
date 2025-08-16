@@ -17,6 +17,7 @@ topics:
 - photograph
 - personal item
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 [*This was a small photograph for use as a visiting card.]

@@ -18,6 +18,7 @@ topics:
 - council
 - governance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy didn’t consider any correspondence should be mentioned outside of Council till it had been dealt with there.

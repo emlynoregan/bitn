@@ -17,6 +17,7 @@ topics:
 - entertainment
 - attendance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1,000 children visited the swings and merry-go-round on Wednesday afternoon.

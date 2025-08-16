@@ -20,6 +20,7 @@ topics:
 - fundraising
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Mary Rayner, an entrant in the Mrs SA Contest, benefited from a barbecue at Basin Farm.

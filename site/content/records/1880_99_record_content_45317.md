@@ -19,6 +19,7 @@ topics:
 - finance
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SAMA 47th Annual Report, 20 April 1892.

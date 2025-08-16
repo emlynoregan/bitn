@@ -21,6 +21,7 @@ topics:
 - infrastructure
 - procurement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The tender of I.W. Goss for building the Mortuary Chapel in the cemetery was accepted for £79.  All the tenders for a footbridge across the creek near the Institute were deemed to be too high.

@@ -18,6 +18,7 @@ topics:
 - business
 - sale
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Edward Lipsett announces a major sale preparatory to extensions and additions to the proprietary.

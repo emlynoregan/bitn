@@ -18,6 +18,7 @@ topics:
 - infrastructure
 - town council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council has received permission from the Road Board to make and repair footpaths along main roads within the town.

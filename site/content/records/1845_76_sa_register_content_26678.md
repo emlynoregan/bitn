@@ -40,6 +40,7 @@ topics:
 - meetings
 - renovation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 2 October 1875, page 6

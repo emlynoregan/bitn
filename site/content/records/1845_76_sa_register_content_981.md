@@ -38,6 +38,7 @@ topics:
 - shipping
 - miners
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Herjeebhoy Rustomjee Patel arrived from Bremen on 28 October.

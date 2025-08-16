@@ -22,6 +22,7 @@ topics:
 - sport
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Wednesday 26 January, Martindale Jockey Club Races, on grounds lent by J. Hicky Esq. Near the Manoora Railway Station.  Totalizator 5/-.

@@ -19,6 +19,7 @@ topics:
 - advertisement
 - publication
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  The Burra Record will shortly be published twice a week on Tuesdays and Fridays.

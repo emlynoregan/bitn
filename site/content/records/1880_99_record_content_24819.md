@@ -21,6 +21,7 @@ topics:
 - military
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Firing Match.  The 7th competition for Cr Sampson’s Cup was fired and won by Sgt Watt.

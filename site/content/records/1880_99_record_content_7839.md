@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - repairs
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Hospital.  Arrangements have been made to have the scavenger remove night soil from earth closets every Saturday for 3/- a week.  The water closets will be altered to earth closets.  Repairs continue in a dilatory fashion.

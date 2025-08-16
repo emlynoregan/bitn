@@ -19,6 +19,7 @@ topics:
 - building
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Burra Hotel Footbridge is being restored at private expense.

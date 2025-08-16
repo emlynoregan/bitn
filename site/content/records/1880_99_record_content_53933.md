@@ -19,6 +19,7 @@ topics:
 - religion
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. Thomas Cook ended his crusade with 150 converts – 11 more than his target.

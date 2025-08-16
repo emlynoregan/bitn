@@ -22,6 +22,7 @@ topics:
 - railway
 - courthouse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A meeting was then held and the two matters needing urgent attention were the Railway Station and the Courthouse cesspit.

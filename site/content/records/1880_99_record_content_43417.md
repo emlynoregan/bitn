@@ -21,6 +21,7 @@ topics:
 - music
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Famous No. 2 Guards’ Band paid a visit to Burra on Thursday and was the best music heard here since the visit of the No. 1 Band 12 months ago.

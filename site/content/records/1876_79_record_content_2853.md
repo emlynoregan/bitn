@@ -22,6 +22,7 @@ topics:
 - organisation
 - land
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 First Burra Show. Ed. comment was that it had a few problems, but generally went very well, especially considering that the organisation was only about 6-7 weeks old. The purchase of some land for the future shows is seen as a priority. Three sites are suggested. Cemetery Flat, between the school and Paxton Square, and between Redruth and Hampton

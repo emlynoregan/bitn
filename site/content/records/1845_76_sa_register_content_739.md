@@ -23,6 +23,7 @@ topics:
 - mining
 - labour
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 24 June has from time immemorial been a miners’ holiday.

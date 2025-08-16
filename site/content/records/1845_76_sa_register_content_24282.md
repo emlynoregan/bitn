@@ -18,6 +18,7 @@ topics:
 - mining
 - gold
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Ulooloo Diggings.  A 12 oz nugget was found on Friday, a two ounce one on Saturday and a three-quarter once specimen recently.

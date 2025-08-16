@@ -22,6 +22,7 @@ topics:
 - rescue
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A small collection was made and given to Mr Sleeman who first ventured down the shaft, as it was a courageous feat; the sides being composed of overhanging rocks, some of half a ton weight and loosened by rain.

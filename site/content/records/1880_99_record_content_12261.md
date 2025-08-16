@@ -20,6 +20,7 @@ topics:
 - finance
 - anniversary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Kooringa Bible Christian Church Anniversary.  John Snell, secretary, said the church debt was £420.  Receipts had been £73-12-7 and there was £16-12-7 in hand, though there was an account yet to be received for more than that.  Speakers looked forward to Methodist Union.

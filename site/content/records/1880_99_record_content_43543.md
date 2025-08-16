@@ -23,6 +23,7 @@ topics:
 - vote
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Watt, Linkson & Parks were for and Hardy, Kitchen & Rabbich opposed. [Rabbich in chair]

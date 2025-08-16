@@ -19,6 +19,7 @@ places_mentioned:
 topics:
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Sculling Match in Sydney for £100 a side has been won by the ex-champion Edward Trickett.

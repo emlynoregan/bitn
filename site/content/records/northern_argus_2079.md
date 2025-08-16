@@ -23,6 +23,7 @@ topics:
 - youth
 - award
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Tim Letcher of Burra became the 7th Queen’s Scout in Burra when he received his award at the Christmas break-up.  This is the greatest number of Queen’s Scouts for any single group in Australia.  [Photo of David Jennings (Leader), Tim Letcher and parents Jan & Rob Letcher.]

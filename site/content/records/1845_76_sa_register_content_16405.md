@@ -21,6 +21,7 @@ topics:
 - maintenance
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 SA Railway.  Complaints have been made in the House of Assembly about delays on the Port Adelaide line.

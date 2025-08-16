@@ -19,6 +19,7 @@ places_mentioned: []
 topics:
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘Watti, surnamed Jock - son of Counterjumper, of the tribe of Raggites.’

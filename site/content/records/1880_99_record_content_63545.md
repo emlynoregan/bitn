@@ -22,6 +22,7 @@ topics:
 - council
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Tiver’s tender of £7-14-0 was accepted for the tending of the lamps [sic] at the north end of the town.  [Presumably an error for ‘lamp’.]

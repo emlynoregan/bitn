@@ -20,6 +20,7 @@ topics:
 - organization
 - land tenure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the SA Farmers’ Mutual Association.  The editor argues that its narrow interest in improving the terms under which farmers hold land under the Crown leaves room for an organisation to improve agriculture in the colony.

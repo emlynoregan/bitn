@@ -21,6 +21,7 @@ topics:
 - water
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Warrick sued the Commissioner of Railways to do certain work to restore a water supply to his land on either side of the railway line, such supply having been disrupted by its construction. Such work was ordered to be done and the defendant to pay £15-15-0 costs.

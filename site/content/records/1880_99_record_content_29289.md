@@ -22,6 +22,7 @@ topics:
 - event
 - religion
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Special Services and Annual Dinner of the Kooringa Methodist Church will be held next Sunday and Wednesday.  Mrs Tassell of Adelaide will preach and the meeting will be addressed by Mrs Tassell and the Ministers of the Town.  Dinner 1/-.

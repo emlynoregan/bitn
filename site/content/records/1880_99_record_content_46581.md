@@ -21,6 +21,7 @@ topics:
 - health
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Madame Stanley guarantees a cure in every case undertaken - she is the only experienced and competent lady doctor in SA.

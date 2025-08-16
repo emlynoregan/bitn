@@ -27,6 +27,7 @@ topics:
 - ward boundaries
 - town planning
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The division is described.  From North Ward’s south-eastern boundary the boundary between the two new wards runs down the middle of the main road to a point opposite the centre of Mt Pleasant St and then southwest along the centre of Mt Pleasant St to a point opposite the centre of the right of way on allotment 78 [Drew Lane] and then along the centre of the right of way, across Commercial St and along the centre of Chapel St and its production to the centre of the Burra Creek, and then the centre of Burra Creek to the southern boundary of the Corporation.

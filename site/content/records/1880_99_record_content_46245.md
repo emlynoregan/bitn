@@ -20,6 +20,7 @@ topics:
 - transport
 - consumer protection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Hardy then drew attention to overcharging by cab drivers.  The inspector will take the matter in hand.

@@ -20,6 +20,7 @@ topics:
 - traffic
 - fines
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Two mule drivers were each fined 5/- for riding their mule drays near Sod Hut Inn without reins.  The magistrate also warned teamsters it was an offence not to move from the centre of the road to allow lighter vehicles to pass.

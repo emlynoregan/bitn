@@ -18,6 +18,7 @@ topics:
 - death
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mrs Paul Killicoat’s funeral was held last Tuesday afternoon.

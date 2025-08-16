@@ -20,6 +20,7 @@ topics:
 - legal
 - contracts
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Editorial on the South-Eastern Land Board and the nature of contracts between the state and private persons: asking the question is the state expected to make concessions that in other contracts would not be tolerated.

@@ -22,6 +22,7 @@ topics:
 - land
 - geography
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 And in County Stanley on and near Gum Creek 2 to 5 miles north and northwest of Davies and 4 to 7½ miles west of Kooringa.

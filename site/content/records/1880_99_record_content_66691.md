@@ -21,6 +21,7 @@ topics:
 - obituary
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Stanley Pearce, aged 15 years 6 months, youngest son of William Pearce jun. and Mary Pearce died.  [Page 3 gives funeral details and adds it was after a long and painful illness.]

@@ -23,6 +23,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Mary Hamblet, mother of W.H. Hardy of Burra and John Hardy of Sheffield England, died at Sheffield on 22 September 1888, aged 69.

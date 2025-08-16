@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - operations
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Mine.  We are informed that fires were lit under the boilers of the pumping engines on Monday 28 November.  There is a large accumulation of water to be got under, and if the pumping apparatus is in order there will be no further delay to reducing it and getting regularly to work.  The large embankment has not yet been completed, but operations at the dressing-house will shortly be commenced.

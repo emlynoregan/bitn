@@ -25,6 +25,7 @@ topics:
 - business
 - cartage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith & Co. have let the tender for timber work at their new saleyards to T.R. Stubbins and the gates etc. to F.K. Sorrell and the cartage and construction has gone to C. McKennion.

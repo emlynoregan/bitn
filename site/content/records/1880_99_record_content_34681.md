@@ -33,6 +33,7 @@ topics:
 - vandalism
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 At the Primitive Methodist chapel Rev. John Gibbon Wright was very popular and had a voice that on still summer evenings could be heard half a mile away.

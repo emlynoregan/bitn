@@ -20,6 +20,7 @@ topics:
 - events
 - regatta
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 An Easter Regatta is being organised for the lake at Terowie.  The Hon. F.W. Holder will be asked to be a judge.

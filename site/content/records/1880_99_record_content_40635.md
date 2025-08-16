@@ -23,6 +23,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Marriage.  On 28 Jan. at the Catholic Church, Bourke, NSW, James Percy Gaffey married Priscilla, fourth daughter of John Mackay of Norwich, Auckland NZ.

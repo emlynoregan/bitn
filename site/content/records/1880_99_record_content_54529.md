@@ -18,6 +18,7 @@ topics:
 - entertainment
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Variety Entertainment on Show Day Night, 19 September.  Organised by Mr J. Roach.

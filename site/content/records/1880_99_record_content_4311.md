@@ -20,6 +20,7 @@ topics:
 - public works
 - hospital
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting.  A good deal of this has been done in Burra this year, including many shrubs at the hospital.

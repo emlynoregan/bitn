@@ -19,6 +19,7 @@ topics:
 - lecture
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Institute 23 august, Archibald Forbes will deliver his celebrated lecture: The Inner Life of a War Correspondent.  4/-, 2/-.

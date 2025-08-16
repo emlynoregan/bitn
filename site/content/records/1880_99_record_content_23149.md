@@ -22,6 +22,7 @@ topics:
 - costs
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Defence.  General Owen says that if there is further need for cost cutting he would rather do without the RVF than the VMF, as an unpaid force would not be sufficiently reliable in case of need.  A VMF name change to the Militia was desirable.  Defence costs for 1885-6 were £49,031.

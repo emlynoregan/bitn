@@ -18,6 +18,7 @@ topics:
 - sport
 - polo
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Polo.  There was a good game at Aberdeen last Saturday.

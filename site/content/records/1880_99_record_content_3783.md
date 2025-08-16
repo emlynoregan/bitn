@@ -22,6 +22,7 @@ topics:
 - community
 - education
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bazaar.  Children of the Burra Model School held a bazaar in the Institute last Tuesday, in aid of the Children’s Hospital, and raised £19.

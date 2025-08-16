@@ -26,6 +26,7 @@ topics:
 - accident
 - insurance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Inquest at the Pig and Whistle Hotel before J.D. Cave JP into the destruction by fire of the shop of Mr Joseph Dunstan on Saturday evening. Mr Dunstan was in the shop serving on Saturday evening at 7.30 p.m. and all was well. Two kerosene lamps were over each counter. Went to bed down the horses about 50 yds away. Was away about five minutes when my wife called out that the shop was on fire. Was unable to enter the shop and ran next door to my house adjoining the shop. Got one child from bed and a box from the room. Mrs Dunstan took the other child. Tried to get to the desk and till. [Apparently failed.] The dwelling and contents were saved. The wind was from the house to the store.  There was a 16 year unexpired lease on a freehold to SAMA. The stock and house were insured: the stock for £400 and the furniture for £100. Don't know how the fire started. Heard no explosion. The lamps were trimmed and filled that afternoon. Stand to lose £200 over and above the insurance.

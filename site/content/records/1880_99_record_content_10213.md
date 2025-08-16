@@ -24,6 +24,7 @@ topics:
 - public health
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Temperance.  Last Tuesday Mr Howie of the blue Ribbon Army and Gospel Temperance Union addressed a large meeting at the Primitive Methodist Church, Redruth, and on Wednesday another at the Institute.  He said there was a public house for every 403 people in SA and spoke ‘condemning moderate drinking as the nursing mother of excess.’

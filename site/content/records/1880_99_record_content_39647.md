@@ -19,6 +19,7 @@ topics:
 - non-fiction
 - table_of_contents
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A Prophecy of Woe by J.R. Buchanan, 7 November.

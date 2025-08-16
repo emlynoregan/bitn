@@ -21,6 +21,7 @@ topics:
 - business
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire.  W.L.H. Bruse thanks all those who helped put out the fire on Tuesday in his furnishing premises in Queen St, saving considerable loss.  (Damage was estimated at £15.)

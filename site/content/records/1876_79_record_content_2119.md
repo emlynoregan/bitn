@@ -25,6 +25,7 @@ topics:
 - timetable
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Railways: SAR Timetable effective 2 April 1877 (extract)

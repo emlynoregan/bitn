@@ -27,6 +27,7 @@ topics:
 - school
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 BCS production of Oklahoma played to good houses in Burra last week.  Principals were: Karin Preiss (Laurey), Mat Boaden (Curley), Bernie Fahey (Aunt Eller), Andrew Blaikie (Will Parker), Jenny Elliott (Ado Annie Carnes) and Terry Schiller who did a great job as Jud Fry.  The director was John Keal and producer was Colin Fidock.

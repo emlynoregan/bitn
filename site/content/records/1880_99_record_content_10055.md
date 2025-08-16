@@ -18,6 +18,7 @@ topics:
 - environment
 - season
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The season looks good so far and the Burra Creek has been running for a fortnight, as it has not done for two years at least.

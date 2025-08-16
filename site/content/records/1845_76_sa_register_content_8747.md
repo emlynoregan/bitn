@@ -23,6 +23,7 @@ topics:
 - cartage
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The English & Australian Copper Company will pay 40/- per ton for the cartage of copper ore and coal on the Burra and Port Wakefield Road from and after 1 July 1854.

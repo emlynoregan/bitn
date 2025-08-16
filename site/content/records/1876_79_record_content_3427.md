@@ -22,6 +22,7 @@ topics:
 - advertisement
 - furniture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. I.W. Goss Carpenter, Builder and Undertaker of Aberdeen has opened a Furniture Shop opposite the Aberdeen Hotel. All descriptions of furniture.

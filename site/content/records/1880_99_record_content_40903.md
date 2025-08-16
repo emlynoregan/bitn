@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - transport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Riverton was expected Monday, but only replied when a telegram was sent to them.

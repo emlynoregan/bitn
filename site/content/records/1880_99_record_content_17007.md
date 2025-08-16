@@ -18,6 +18,7 @@ topics:
 - horticulture
 - public expenditure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Some attention is needed to replanting and staking, but overall we have no reason to regret the expenditure.

@@ -30,6 +30,7 @@ topics:
 - economy
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Teetulpa Goldfield.  A trip to the goldfield is described.  The ride from Petersburg to Manna Hill was in an open truck (80 miles).  The line is still in the hands of the contractors and the trip took 4½ hours.  Then one of James Terry’s coaches drawn by two horses took them the two miles to the hotel.  (The coachmen were really coining money.)

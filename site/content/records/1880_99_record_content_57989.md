@@ -18,6 +18,7 @@ topics:
 - finance
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 West Ward had £82-15-7 and retains £7-7-0 plus £12-11-10 carried over from last year.

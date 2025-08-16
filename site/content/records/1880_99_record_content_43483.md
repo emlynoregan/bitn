@@ -21,6 +21,7 @@ topics:
 - event
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.H. Hardy writes to propose a picnic for the town’s children for Christmas, on the Recreation Ground.  It could be organised for a few pounds.

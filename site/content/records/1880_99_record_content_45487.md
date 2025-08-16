@@ -21,6 +21,7 @@ topics:
 - employment
 - commerce
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 T.T. Shortridge, formerly with W. Henderson for 11½ years, has begun business as a commission agent on his own.

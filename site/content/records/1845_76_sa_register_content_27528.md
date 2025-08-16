@@ -31,6 +31,7 @@ topics:
 - infrastructure
 - petition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa Roads.  A meeting was held at the Institute on 10 April to consider the position of the Government road east from Kooringa.  About 150 people attended.  Messrs T. Warnes, P. Lane and R. Ward in a long discussion contended that the Midland Road Board had ignored the rights of the people and had not represented Kooringa in deciding to start the road from Tiver’s Corner in Aberdeen.  It was contended that the line of road from Aberdeen was longer and would cost more.

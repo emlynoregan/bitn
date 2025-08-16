@@ -21,6 +21,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 16 October, Mr Burnett will address the young in the Wesleyan Schoolroom ‘The Pale Horse and Its Rider’.

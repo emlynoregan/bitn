@@ -44,6 +44,7 @@ topics:
 - awards
 - speeches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. VF held its dinner and social at the Commercial Hotel last Wednesday.  Lieut. Butterworth presided in the absence of Captain Holder.  Over 30 members and friends attended.  P. Lane proposed ‘The Parliament and Our Members’, 2nd by Mr J. Cooksley and supported by W.H. Hardy.  Col-Sgt Watt was presented with a gold medal from the company for services since its inauguration.  The chairman’s remarks were supported by Sgt Anderson, Private Linkson and Private Cooksley.  D.S. Packard proposed Capt. Holder and local volunteers.  W.T. Rabbich proposed the Town & Trade of Burra.

@@ -21,6 +21,7 @@ topics:
 - poetry
 - misc
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 29 Apr 81	Serpent Ch XXXIII-End		Amongst Sharpers	X	X		X	X	X	X	X

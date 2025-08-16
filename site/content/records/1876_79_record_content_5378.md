@@ -20,6 +20,7 @@ topics:
 - local government
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Town Council. The newly elected Council met for the first time on 3 December with Dr W.P. Nesbitt in the chair.

@@ -24,6 +24,7 @@ topics:
 - poetry
 - misc
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 3 Jun 81	Ferryman’s Secret Ch VIII-X	A Pyramid of Cabbages	Human Trees of India	X	X		X	X	X	X

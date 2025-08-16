@@ -22,6 +22,7 @@ topics:
 - deputation
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Proposal.  A deputation consisting of three members of Council and three ratepayers will wait on the Commissioner of Public Works (Hon. A. Catt) and urge that the Burra Waterworks be leased to the Council at a rental of £300 p.a.  Should the requisition be refused, the members for the district are to be requested to bring the matter before the House of Assembly.  Moved by J. Watt and 2nd by W. Geake.

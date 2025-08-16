@@ -20,6 +20,7 @@ topics:
 - community
 - law
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Police attention to be drawn to larrikin behaviour in the town.

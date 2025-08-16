@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Pearce won the tender for a new footbridge to replace that near the Bible Christian Church.

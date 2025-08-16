@@ -18,6 +18,7 @@ topics:
 - religion
 - press
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Southern Cross has replaced the Catholic Monthly and the first issue is to hand comprising 12 pages in 48 columns.

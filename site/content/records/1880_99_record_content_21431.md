@@ -19,6 +19,7 @@ topics:
 - Salvation Army
 - public order
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Stones, potatoes and eggs have been thrown at the Army.  An anonymous letter and one from W.H. Hardy protest against these attacks and the lack of police action against the larrikins.

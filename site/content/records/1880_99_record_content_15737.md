@@ -21,6 +21,7 @@ topics:
 - prizes
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 St Joseph’s School.  Prizes for the year were distributed on 19 December.  Rev. Father W. O’Dowling SJ presided.  A program was rendered and Cr West distributed the prizes.  Prize list printed.

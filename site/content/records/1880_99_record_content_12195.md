@@ -20,6 +20,7 @@ topics:
 - fire
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fire Insurance.  The Northern Fire Insurance Co. offered T. Edwards £500 and subsequently £550 in settlement of his claim recently.  Mr Edwards however, had the stock valued and in the final result was awarded £469.

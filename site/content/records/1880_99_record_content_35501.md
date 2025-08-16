@@ -21,6 +21,7 @@ topics:
 - election
 - candidates
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elections.  So far two candidates have come forward for the district: Mr Richardson of Saddleworth and Mr Lake of Jamestown.

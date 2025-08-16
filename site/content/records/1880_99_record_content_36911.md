@@ -23,6 +23,7 @@ topics:
 - baseball
 - sports
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sport.  In out-of-town reports sculling, horse racing, walking, and boxing were mentioned.  Baseball is a growing game in the colony.

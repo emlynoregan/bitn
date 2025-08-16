@@ -22,6 +22,7 @@ topics:
 - football
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  On the local oval on Wednesday Kooringa Junior Jokers 3 defeated Redruth Junior Rovers 1

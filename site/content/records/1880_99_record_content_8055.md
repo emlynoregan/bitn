@@ -20,6 +20,7 @@ topics:
 - infrastructure
 - legislation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Railway.  A Bill to construct the railway from Nairne to the Victorian Border seems likely to pass.

@@ -29,6 +29,7 @@ topics:
 - fire
 - emergency
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A coroner’s inquest was held in the afternoon at the Court House before J.H. Howell JP.

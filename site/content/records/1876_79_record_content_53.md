@@ -20,6 +20,7 @@ topics:
 - advertisement
 - trade
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 W.H. Pearce	Tinsmith & Ironmonger, Commercial St

@@ -19,6 +19,7 @@ topics:
 - factory
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Tweed Factory. Clare now reported to be trying to start a tweed factory.

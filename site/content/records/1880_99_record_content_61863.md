@@ -27,6 +27,7 @@ topics:
 - dispute
 - legal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Stock Road.  J.M. McBride and others are asking for a stock road to be opened through country NE of Burra along a track which has been used for years.  It is opposed by Messrs David Radford, Herbert S. Dun and W.H. Halford who protested to the Acting Premier, Mr O’Loughlin.  He suggested they exchange other surveyed roads through their runs for the opening of the old track and said they had been making matters difficult by getting feed on surveyed roads on their runs eaten off.  They could not agree to this proposal and were sent off to settle it among themselves – if not it must come to court.

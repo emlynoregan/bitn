@@ -32,6 +32,7 @@ topics:
 - death
 - shipping
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 27 July 1853, page 2

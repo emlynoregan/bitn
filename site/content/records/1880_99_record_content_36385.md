@@ -18,6 +18,7 @@ topics:
 - parliament
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 SA Parliament.  A roll call of the old and new Parliaments is printed.

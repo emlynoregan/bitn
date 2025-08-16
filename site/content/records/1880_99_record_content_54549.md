@@ -21,6 +21,7 @@ topics:
 - military
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MR will drill in Kooringa on 5 September at 2.30 and on 17 September at 3 p.m. at Mt Bryan which will be their last practice before the inspection on 26 September.

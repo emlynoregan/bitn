@@ -21,6 +21,7 @@ topics:
 - sheep
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Fire in the North

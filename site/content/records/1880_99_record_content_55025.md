@@ -20,6 +20,7 @@ topics:
 - pest
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 210 Rabbits were killed by sportsmen last Saturday east of Burra.  They are again becoming numerous out east and generally.

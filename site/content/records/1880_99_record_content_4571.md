@@ -18,6 +18,7 @@ topics:
 - publication
 - revision
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Revised New Testament gets about 1 column of detail about the changes made.

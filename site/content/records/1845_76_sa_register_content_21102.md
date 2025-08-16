@@ -21,6 +21,7 @@ topics:
 - survey
 - rail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A survey party taking levels for a contemplated branch line to the River Murray passed through Redruth on Monday 26 August.

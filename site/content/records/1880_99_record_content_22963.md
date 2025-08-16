@@ -20,6 +20,7 @@ topics:
 - legislation
 - gambling
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Totalizator Bill has passed the House of Assembly, but faces an uncertain fate in the Legislative Council.

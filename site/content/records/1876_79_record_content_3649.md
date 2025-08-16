@@ -26,6 +26,7 @@ topics:
 - public works
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Corp. There is a detailed summary of the deputation to the Commissioner of Public Works which resulted in the water trough in Aberdeen being moved from opposite Ridgway's shop to the Railway Station gate.

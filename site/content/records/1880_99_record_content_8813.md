@@ -18,6 +18,7 @@ topics:
 - literature
 - mystery
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 24 Mar.	XVIII (Concluded)	His Little Game		X		X		X	X	X		Secret of Second Sight

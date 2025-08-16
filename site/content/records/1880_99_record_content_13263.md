@@ -20,6 +20,7 @@ topics:
 - community
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Unemployed in Adelaide are called to a meeting at the Adelaide Town Hall.  406 men have been placed on lists as unemployed in the city - most of them are labourers.

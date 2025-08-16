@@ -19,6 +19,7 @@ topics:
 - entertainment
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Grand Magic Lantern Entertainment.  Edwin Thomas will give an entertainment with the French Magic Lantern in the Bible Christian Schoolroom on 22 April featuring The Pilgrim’s Progress and Robinson Crusoe.  6d, children 3d.

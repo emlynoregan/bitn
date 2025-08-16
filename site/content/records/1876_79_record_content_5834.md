@@ -19,6 +19,7 @@ topics:
 - fines
 - court
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Alexander Harris fined 5/- for using unstamped weights. And for weighing butcher's meat with a spring balance, fined 20/-.

@@ -23,6 +23,7 @@ topics:
 - real estate
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  The port Henry Arms on the Gulf Road, lately occupied by J. Hoiles is to let.  The premises comprise a substantial stone house, commodious stable and land attached.  The traffic on this line of road is daily increasing and it is well known that the Patent Copper Company has made arrangement by which this road will become one of the most active and bustling in the colony.

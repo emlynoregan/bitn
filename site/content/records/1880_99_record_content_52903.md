@@ -22,6 +22,7 @@ topics:
 - union
 - employment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Drovers’ Union.  Local drovers met in Burra on 25 January at the Burra Hotel to form a union to protect themselves from outside competition.  W.A. Baker took the chair and T.T. Shortridge attended by invitation and acted as Hon. Sec.  They objected to outside drovers engaging with purchasers at reduced rates outside the jurisdiction of the salesmen.  The salesmen are to be asked to assist local drovers in securing employment and to ask all future engagements of drovers should be made through them.

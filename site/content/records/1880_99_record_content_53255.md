@@ -18,6 +18,7 @@ topics:
 - school
 - exhibition
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 School Exhibition:	Child’s pinafore	Rosalie Forder

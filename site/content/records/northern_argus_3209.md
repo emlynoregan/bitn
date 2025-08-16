@@ -21,6 +21,7 @@ topics:
 - sport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The SA Rogaining Association held an event last weekend in the Mt Bryan East area.  The event encompassed 55 checkpoints.  Burra Apexians catered.

@@ -23,6 +23,7 @@ topics:
 - dog racing
 - rugby
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Sports.  Reports from out-of-town covered boxing, football, cycling, horse racing, dog racing and NSW rugby.

@@ -19,6 +19,7 @@ topics:
 - death
 - obituary
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Elisabeth Lawn has died at Moonta, aged 72.  [Registered date of death: 24 May 1881]

@@ -18,6 +18,7 @@ topics:
 - church
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Bible Christian Church has been fitted with new lamps, which have greatly increased the light and improved the appearance of the building.

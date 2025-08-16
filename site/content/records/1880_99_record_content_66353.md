@@ -20,6 +20,7 @@ topics:
 - lecture
 - university
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Adelaide University Extension Lectures by Mr Fuller were delivered to moderate audiences.

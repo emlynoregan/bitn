@@ -19,6 +19,7 @@ topics:
 - meeting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Defence Rifle Club.  A meeting will be held at the Institute 8 p.m. on Tuesday next to consider forming a Defence Rifle Club.  A large attendance is urgently required.

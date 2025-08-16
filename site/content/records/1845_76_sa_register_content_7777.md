@@ -22,6 +22,7 @@ topics:
 - water
 - mail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Overland Route to Mount Alexander

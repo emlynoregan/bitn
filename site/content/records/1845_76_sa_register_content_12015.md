@@ -22,6 +22,7 @@ topics:
 - opening
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Primitive Methodist Chapel at Redruth was opened on Monday 25 October with a tea meeting.  Addresses were delivered by Rev. Wright and others.

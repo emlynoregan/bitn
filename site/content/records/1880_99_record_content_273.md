@@ -19,6 +19,7 @@ topics:
 - agriculture
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheat stacks are growing quickly at the mills and at the railway station.

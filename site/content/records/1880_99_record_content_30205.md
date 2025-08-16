@@ -21,6 +21,7 @@ topics:
 - health
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Rev. W. Jenkin the brother of Mr John Jenkin of Burra is dangerously ill of consumption at Glenelg and is not expected to recover.

@@ -19,6 +19,7 @@ topics:
 - infrastructure
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Waterworks. A party of men from the Waterworks Dept. are laying a siphon from the well at Gilbert’s Quarry to ascertain whether the volume of water could supply the town.

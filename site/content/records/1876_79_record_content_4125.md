@@ -22,6 +22,7 @@ topics:
 - prizes
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Burra Amateur Athletics Club met at the Commercial Hotel on 7 June to reveal a credit balance of £19-5-11. In addition to Mr Wendt's silver cup the President, Mr E. Lipsett had promised to give as prizes for the next meeting, a gold albeit chain [i.e. a fob watch chain], -a set of gold studs and -a pair of gold cuff links.

@@ -21,6 +21,7 @@ topics:
 - prospecting
 - public policy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Ulooloo Goldfield.  Letter from W.H. Hardy against the waste of money in the present system and advocating instead payment to the men for a systematic prospecting of the colony to find payable deposits of minerals throughout SA.

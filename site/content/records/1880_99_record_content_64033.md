@@ -22,6 +22,7 @@ topics:
 - federation
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Hon. F.W. Holder & J.H. Symon Esq. Will visit Burra on Friday to address electors on Federation.

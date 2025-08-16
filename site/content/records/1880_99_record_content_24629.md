@@ -19,6 +19,7 @@ topics:
 - letter
 - burial
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Letter to the editor complaining that bodies are being kept too long before being buried ‘until it becomes a matter of life and death to follow them to the cemetery.’

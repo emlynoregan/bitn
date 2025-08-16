@@ -21,6 +21,7 @@ topics:
 - community
 - appointment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The teachers and scholars of the Kooringa Wesleyan Sunday School presented a handsome testimonial to Mr J. Skews on Sunday afternoon upon his resigning as secretary due to his promotion to the ministry.

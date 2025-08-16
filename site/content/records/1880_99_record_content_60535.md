@@ -20,6 +20,7 @@ topics:
 - fine
 - livestock
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra District Council Ranger v. J. Farley for entering the Hundred of Baldina with 800 sheep without notice.  Fined £4-17-0.

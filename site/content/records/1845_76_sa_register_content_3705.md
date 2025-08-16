@@ -17,6 +17,7 @@ topics:
 - textile
 - other
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Moleskin	a soft fine-piled cotton fustian, the surface of which is shaved before dyeing.]

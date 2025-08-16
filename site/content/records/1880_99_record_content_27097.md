@@ -20,6 +20,7 @@ topics:
 - cricket
 - club
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cricket.  The planned match between Young Australians and Burra on Saturday last had to be cancelled when Burra was unable to field a side.  The Burra Cricket club seems to be almost defunct.

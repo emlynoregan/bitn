@@ -20,6 +20,7 @@ topics:
 - organization
 - speeches
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Court Unity AOF celebrated its 30th anniversary at Vivian’s Commercial Hotel last Wednesday.  The toasts and speeches are reported in 1 column.

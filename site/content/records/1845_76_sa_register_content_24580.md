@@ -21,6 +21,7 @@ topics:
 - company
 - tenants
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Kooringa.  The township of Kooringa is rapidly filling up and old cottages are being put in order.  The Directors visited last week and have made several concessions to the tenants, which have put the latter in good heart.

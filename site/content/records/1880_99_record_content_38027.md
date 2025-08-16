@@ -20,6 +20,7 @@ topics:
 - business
 - office
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Elder, Smith’s Office.  The work of constructing the new office has begun with the clearing of the site which has been known for some years as the fruit garden.  The trees there were, for their size, the best of their kind in the colony.

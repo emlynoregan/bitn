@@ -19,6 +19,7 @@ topics:
 - procession
 - music
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wheatley’s Band is to lead the procession of Rechabites [At their Annual Demonstration on 20 June.]

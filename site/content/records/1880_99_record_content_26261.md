@@ -22,6 +22,7 @@ topics:
 - community
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Bible Christian Church held special services on Sunday taken by Rev. Hancock and Rev. H.T. Burgess.  Wednesday dinner and concert in the Institute were very poorly attended, no doubt due to poor weather.  Proceeds £30.

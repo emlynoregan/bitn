@@ -17,6 +17,7 @@ places_mentioned:
 topics:
 - statistics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Further Statistics of SA for 1850 are printed.

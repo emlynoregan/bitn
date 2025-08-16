@@ -21,6 +21,7 @@ topics:
 - community
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Advt. Redruth Wesleyan Anniversary 10 Nov. Afternoon service of song ‘Israel in the Wilderness’. 

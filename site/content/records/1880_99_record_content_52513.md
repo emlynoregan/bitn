@@ -21,6 +21,7 @@ topics:
 - advertisement
 - cash store
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A.J. Parkin	(Stock late of T. Kitchen) Kooringa Cash Store

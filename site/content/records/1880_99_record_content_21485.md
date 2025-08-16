@@ -21,6 +21,7 @@ topics:
 - water
 - government
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Baldina.  Last Friday the Mayor and several councillors went out to Baldina and travelled some two miles down the creek from the ford to inspect the water and the gorge for a site for a dam to supply water for irrigation.  The flow was estimated at 40,000 gallons an hour.  They will now ask the Government to survey the site to ascertain the feasibility of an irrigation scheme.

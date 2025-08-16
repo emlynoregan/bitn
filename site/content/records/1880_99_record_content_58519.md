@@ -24,6 +24,7 @@ topics:
 - appointment
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Winnall has agreed to a requisition asking him to stand as councillor for the West Ward.

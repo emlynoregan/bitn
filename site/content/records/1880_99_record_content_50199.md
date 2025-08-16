@@ -20,6 +20,7 @@ topics:
 - industry
 - infrastructure
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Butterworth’s Steam Roller Mills on Friday began using their new Cornelius internal roller mill.  This gives Burra two roller mills.

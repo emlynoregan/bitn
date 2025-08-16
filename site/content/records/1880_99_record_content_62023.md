@@ -23,6 +23,7 @@ topics:
 - auction
 - farm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Genuine clearing sale, today, on the farm about three miles north of Burra.  Sheep, cattle, horses, traps, harness, farm implements, seed wheat, furniture and effects.

@@ -26,6 +26,7 @@ topics:
 - transport
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Football.  Last Saturday Burra sent 23 players to Mintaro (by train).  After some disagreement with the mail driver, who consented to take only eight, that and other conveyances took them the final four miles to the ground in the rain.  After lunch at the Devonshire Hotel the game started late at about 3.15 p.m. due to the delayed arrival of seven players from Seven Hills.  The game ended in a draw with both sides 0.2.

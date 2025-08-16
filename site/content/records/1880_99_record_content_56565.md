@@ -19,6 +19,7 @@ topics:
 - anniversary
 - fundraising
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Iron Mine Church Anniversary last Sunday was largely attended with the tea meeting the following day.  Nett proceeds are over £10.

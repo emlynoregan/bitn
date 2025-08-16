@@ -21,6 +21,7 @@ topics:
 - land sale
 - advertisement
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Bagot, Shakes & Lewis will sell by auction on 6 June, 107 allotments in Millerton, each of about 2½ roods, or c. 67 acres in all - in lots to suit purchasers.

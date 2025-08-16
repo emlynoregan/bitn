@@ -19,6 +19,7 @@ topics:
 - transport
 - mail
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The Burra Burra Mail.  Last Saturday’s mail reached Burra on horseback at 3 p.m. Sunday; the mail cart having become stuck near Sheoak Log.  The seven passengers had to wait there for another opportunity to reach Burra.

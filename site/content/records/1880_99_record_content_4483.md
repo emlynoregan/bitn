@@ -21,6 +21,7 @@ topics:
 - education
 - vacancy
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Mr George Dawson’s next quarter commences 10 July.  There are vacancies for 2 or 3 pupils.  Market Square, Kooringa.

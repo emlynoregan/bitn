@@ -20,6 +20,7 @@ topics:
 - election
 - meeting
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 A public meeting of electors is to be held in the Institute next Monday by the Burra Electoral Committee.

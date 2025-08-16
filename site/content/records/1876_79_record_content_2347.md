@@ -19,6 +19,7 @@ topics:
 - club
 - horse racing
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Jockey Club: 2 June meeting at Commercial Hotel to form a local jockey club.

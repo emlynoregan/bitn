@@ -28,6 +28,7 @@ topics:
 - meeting
 - social
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Literary Soc. held its last meeting for the year on Friday.  The discussion was: Should the Government Grant a Site for the Erection of a Trades and Labour Hall?

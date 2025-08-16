@@ -22,6 +22,7 @@ topics:
 - museum
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 The National Trust sites were open and large crowds visited the newly opened Morphett’s Enginehouse and business was brisk at the Bon Accord Mine Museum, where the mine model and the illuminated shaft attracted favourable comment.

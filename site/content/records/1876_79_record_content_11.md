@@ -17,6 +17,7 @@ topics:
 - publication
 - history
 source_document: 1876-79 Record .doc
+publication_slug: record-1876-79
 ---
 
 A note on the paper’s names

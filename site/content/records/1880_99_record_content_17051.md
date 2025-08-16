@@ -36,6 +36,7 @@ topics:
 - sanitation
 - letters
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 This was convened to consider Cr West’s proposal for a loan of £500.  He said he hoped he would have support since every £ of the general rate used to reduce outstanding debts was the loss of another pound which could have attracted subsidy.  The proposal is very simple.  The probable curtailment or abolition of the Government Grant-in-Aid is Government policy and we would be foolish to lose any portion of it while it remains available.

@@ -18,6 +18,7 @@ topics:
 - politics
 - elections
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Parliamentary Elections.  Despite announcing his retirement Mr Rounsevell is said to be standing for another district after all.

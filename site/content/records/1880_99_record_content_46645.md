@@ -21,6 +21,7 @@ topics:
 - social
 - procession
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Salvation Army.  Major Hoskin and Captain Bennett visited Burra on Friday and their meetings were well attended.  A social was held in the afternoon with a first class spread.  There was a torchlight procession at 7.30 and the band played.

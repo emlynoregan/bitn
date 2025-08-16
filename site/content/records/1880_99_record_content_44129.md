@@ -21,6 +21,7 @@ topics:
 - footpath
 - council
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Aberdeen-Kooringa Footpath is in need of repair, but at the moment the funds are low.  We think it a higher priority than the roads.  Of the many pedestrians coming to Kooringa on Saturday afternoon we saw no one using the footpath.  (Council has since decided to repair it.)

@@ -20,6 +20,7 @@ topics:
 - agriculture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Frost on Wednesday evening was unexpected and damaged gardens, especially vines and tomatoes.  It was the most severe for some years.

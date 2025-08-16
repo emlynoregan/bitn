@@ -19,6 +19,7 @@ topics:
 - election
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 In the Kooringa polling station there were 522 male & 441 female voters.

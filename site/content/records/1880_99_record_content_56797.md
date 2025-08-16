@@ -22,6 +22,7 @@ topics:
 - death
 - funeral
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Myrtle Hilda Queale, 2nd daughter of T. & M.E. Queale, died 23 April at Burra, aged 7 years 6 months.  The headmaster of Burra School lined the children up on either side of the road near the Kooringa Post Office to pay their final respects on Thursday afternoon, as the largely attended funeral passed by.  [Born 20 October 1887.]

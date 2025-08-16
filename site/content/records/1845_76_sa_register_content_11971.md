@@ -20,6 +20,7 @@ topics:
 - bazaar
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 There was a Wesleyan Bazaar in the schoolroom on Tuesday, Wednesday and Thursday to aid trust funds.  There was a great variety of fancy work, engravings, clothing and every type of farm produce.  The first day raised almost £200 and the three days £382, since when several lots have been sold to bring the total to over £400.

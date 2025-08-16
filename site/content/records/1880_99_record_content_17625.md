@@ -23,6 +23,7 @@ topics:
 - obituary
 - Salvation Army
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  Captain Stratham of the Salvation Army, formerly of Burra, but lately at Strathalbyn, was buried in Adelaide on Wednesday.  [Registered as Thomas Statham, died Adelaide 27 April, aged 27.]

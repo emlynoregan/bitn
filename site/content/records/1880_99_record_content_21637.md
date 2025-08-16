@@ -19,6 +19,7 @@ topics:
 - holiday
 - business
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 21637→St Patrick’s Day.  Burra businesses are to close at 11 a.m.

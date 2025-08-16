@@ -19,6 +19,7 @@ topics:
 - administration
 - Local Board of Health
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Dr Sangster has refused in writing to act as Health Officer under the Local Board of Health.

@@ -26,6 +26,7 @@ topics:
 - drought
 - waterworks
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Hydraulic Engineer has consistently and persistently opposed concession of any kind and when they have been granted it has been by the Commissioner in spite of the Hydraulic Engineer’s attitude.

@@ -20,6 +20,7 @@ topics:
 - animal
 - fine
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 William Short incurred a fine of 1/- + £1 costs for tethering goats in a street.

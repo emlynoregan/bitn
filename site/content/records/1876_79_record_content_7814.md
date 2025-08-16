@@ -18,6 +18,7 @@ topics:
 - agriculture
 - crop_protection
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Locusts are coming but the grain is now dry and so almost certainly safe.

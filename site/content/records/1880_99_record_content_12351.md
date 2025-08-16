@@ -22,6 +22,7 @@ places_mentioned:
 topics:
 - marriage
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 John Meeres Lucas of Riverton married Amy Ellen Williams, 2nd daughter of Mr A.J. Williams of Hallett.

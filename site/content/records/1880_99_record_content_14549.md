@@ -21,6 +21,7 @@ topics:
 - response
 - debate
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 [The editor finds Hardy’s letter ‘amusing in its grotesque misconceptions and displays such an ignorance upon the question under dispute that we are obliged to refer to it in order to convey some information to other persons who may labour under similar errors.]

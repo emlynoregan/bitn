@@ -17,6 +17,7 @@ topics:
 - weather
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  Last Saturday saw very unusual weather for July.  There were dense clouds of dust with a strong northerly and showers in the evening.  Crops are healthy, but backward with only 6.115” so far compared with 11.555” last year.  Frosts have been severe.

@@ -19,6 +19,7 @@ topics:
 - community
 - aid
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Christmas Cheer has been distributed to over 100 persons in total comprising £45 in cash, 25 sheep and 4 lambs.

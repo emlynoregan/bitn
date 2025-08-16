@@ -20,6 +20,7 @@ topics:
 - fundraising
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Wesleyan Home Mission Fund annual sermon was preached at Baldry a few weeks since by Rev. James Bickford and the public meeting was held on 6 September.

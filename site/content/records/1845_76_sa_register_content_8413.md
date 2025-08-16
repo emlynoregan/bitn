@@ -21,6 +21,7 @@ topics:
 - smelting
 - disposal
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Advertisement.  Yatala Smelting Works.  Having been forced to suspend operations during the present mining stagnation, the proprietors are willing to treat for the disposal of the same.  There is a good steam engine with a spare boiler and ample room for adapting the same to a flour mill without detriment to the smelting furnaces.  Apply to John Baker Esq. or Messrs Hart & Hughes.  [Still being repeated 5 July 1853.]

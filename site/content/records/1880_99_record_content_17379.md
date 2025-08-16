@@ -18,6 +18,7 @@ topics:
 - cricket
 - club collapse
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 What a shame the Burra Cricket Club collapsed this year.

@@ -22,6 +22,7 @@ topics:
 - meeting
 - politics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 W.O. Archibald & L. Cohen addressed electors last Thursday in the Institute on the Federation Bill, and urged the ‘No’ case.  Mr J. Sampson (Mayor) chaired the meeting for which there was a fair attendance.

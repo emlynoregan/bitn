@@ -21,6 +21,7 @@ topics:
 - religion
 - service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Redruth Primitive Methodist special services last Sunday by Rev. J.H. Williams. Tea- meeting on Monday when Rev. Williams lectured on ‘Best Things’.

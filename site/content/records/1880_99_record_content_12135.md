@@ -19,6 +19,7 @@ topics:
 - local government
 - services
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 J. Snell will light the lamp in Middle Ward for one year for £10-7-6.

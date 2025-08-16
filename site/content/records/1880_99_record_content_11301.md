@@ -18,6 +18,7 @@ topics:
 - recreation
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The Recreation Ground has been planted and sown, but the grass seed has not come up.  The trees are doing well.  The place will become popular in time but as yet there is no revenue to offset the large outlay.   The present debt exclusive of the £500 in bonds is in all £163-17-10.

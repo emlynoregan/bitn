@@ -20,6 +20,7 @@ topics:
 - club
 - sport
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Advt.  Burra Coursing Club.  The annual meet will be held at the Gum Creek Estate on 17 May and following days if needed.  24 dogs: 1st £15, 2nd £7-10-0, 2 dogs each 30/-, and 2 dogs each 20/-.

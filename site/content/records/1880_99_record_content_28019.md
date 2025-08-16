@@ -20,6 +20,7 @@ topics:
 - mining
 - report
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 1⅓ columns on the Eulcaby Silver Mines, which were some 60 miles N-E of Orroroo and 50 miles N-W of Yunta.

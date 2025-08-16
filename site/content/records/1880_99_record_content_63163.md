@@ -21,6 +21,7 @@ topics:
 - lecture
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Mr Evans delivered an interesting lecture at the Kooringa Primitive Methodist Church on Monday night.

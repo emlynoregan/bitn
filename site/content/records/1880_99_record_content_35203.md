@@ -19,6 +19,7 @@ topics:
 - public health
 - epidemic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘On former occasions Australia has run no danger, but the question may now be asked whether, in these days of rapid and constant communication, there is any likelihood of the epidemic reaching the colonies?’

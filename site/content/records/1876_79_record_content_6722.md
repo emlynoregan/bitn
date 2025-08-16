@@ -19,6 +19,7 @@ topics:
 - animal
 - disease
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1876-79
 ---
 
 Pleuro-pneumonia was found in an animal slaughtered here. Its carcase has been condemned and sale of the meat prohibited.

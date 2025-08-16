@@ -22,6 +22,7 @@ topics:
 - infrastructure
 - reformatory
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Redruth Reformatory.  We understand a telephone line will be installed between the gaol and the police station when the former re-opens as a Girls’ Reformatory.  About 30 girls will be accommodated.

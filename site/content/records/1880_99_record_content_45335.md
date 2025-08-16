@@ -21,6 +21,7 @@ topics:
 - rifle match
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Burra Co. MI will fire a rifle match on the Port Adelaide Range on 24 May against teams from Moonta Co. MI and C. Company of 3rd Regiment.

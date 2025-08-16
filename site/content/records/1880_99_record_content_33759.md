@@ -20,6 +20,7 @@ topics:
 - church
 - finance
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The recent Fancy Fair had raised over £305 and expenses were less than £20.  W. Killicoat had donated £25 and W.P. Barker £50.  This sum will pay off the church debt and overdraft and general working debt and leave a credit balance.  £25 was voted to the incumbent whose salary had to be cut last Easter.

@@ -21,6 +21,7 @@ topics:
 - obituary
 - family
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Obituary.  At Mt Bryan, 20 August, Thomas Brady, aged 46, husband of Elizabeth Ann Brady.  Leaving a wife and nine children.

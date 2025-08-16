@@ -18,6 +18,7 @@ topics:
 - publication
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 The editor complains of the length of the letter which though ¾ column was condensed for publication.

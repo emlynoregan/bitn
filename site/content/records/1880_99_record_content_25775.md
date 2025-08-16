@@ -19,6 +19,7 @@ topics:
 - tree planting
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Tree Planting.  33 People have applied for 2,693 trees and an order has been sent to the Forest Department and we expect the same within c 10 days.  A trifle for cartage and 1d for any in pots will be the only charge.

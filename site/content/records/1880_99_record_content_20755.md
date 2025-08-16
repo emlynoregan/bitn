@@ -21,6 +21,7 @@ topics:
 - flood
 - agriculture
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Weather.  There were extensive thunderstorms last week and floods to the east of Burra have filled the dams.  Around Mt Bryan the dry feed was washed from the hillsides and some crops much damaged.  Low ground was flooded.

@@ -19,6 +19,7 @@ topics:
 - theatre
 - event
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On 28 February Time Tries All was repeated, followed by The Irish Tutor presented by Clare amateurs.

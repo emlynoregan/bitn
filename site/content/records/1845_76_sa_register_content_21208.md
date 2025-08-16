@@ -23,6 +23,7 @@ topics:
 - agriculture
 - land use
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 On faith in the railway line being constructed some large portions of land between Kooringa and Mt Bryan and between Burra and Gum Creek are being ploughed.

@@ -18,6 +18,7 @@ topics:
 - races
 - events
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Burra Burra Annual Races took place on Copperhouse Flat on Thursday, Friday and Saturday.  On each day attendance was good and the races were well managed.  [Results are printed.]

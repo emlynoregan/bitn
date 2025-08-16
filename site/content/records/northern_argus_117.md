@@ -22,6 +22,7 @@ topics:
 - training
 - athletics
 source_document: 1985-87_Northern__Argus.md
+publication_slug: northern-argus
 ---
 
 Rosie Lloyd has spent a week training at the Australian Institute of Sport in Canberra on her chosen area of the 400 m hurdles.

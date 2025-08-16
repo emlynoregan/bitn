@@ -20,6 +20,7 @@ topics:
 - dismissal
 - public service
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 The editor was glad to see that Mr Boucaut had acted so promptly and agreed that this was the only possibly outcome.  He felt, however, that the results of the accident must be a terrible and enduring punishment to any sensitive man.  He went on to suggest that a suitable job might be found for him with less responsibility without demoralizing the public service or weakening the rule of regulations.  Justice is apt to be severe in instances where a scapegoat can be found upon whom public indignation can be poured.

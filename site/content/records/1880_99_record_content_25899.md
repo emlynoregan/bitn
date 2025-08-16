@@ -22,6 +22,7 @@ topics:
 - court
 - imprisonment
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Fraud.  The appeal of John Newcomb a.k.a. Charles Hope, who falsely presented himself as a solicitor of Kooringa has been rejected by the Supreme Court and he has been jailed till about the end of next year.

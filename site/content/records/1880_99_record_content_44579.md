@@ -21,6 +21,7 @@ topics:
 - administration
 - dispute
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 C.A. Uhrlaub writes again, still expressing his shock and disgust at being asked to produce a balance sheet by an anonymous writer to a paper when no question of his integrity as treasurer had ever been raised.  Anyone wanting to see a balance sheet may do so on application to him at Mt Bryan School after school hours.

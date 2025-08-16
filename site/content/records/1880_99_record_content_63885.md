@@ -21,6 +21,7 @@ topics:
 - advertisement
 - community
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 ‘The Burra Record is the proper and safe medium for tradespeople and others to make their wants known.’

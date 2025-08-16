@@ -23,6 +23,7 @@ topics:
 - defense
 - alarm
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 War Scare.  Captain Holder has arranged an alarm signal by means of which the VF can be called together at any hour in the event of a telegram from Adelaide with orders.  The signal will be six cannon fired at intervals of one minute.  The VF will then assemble opposite the Institute in full uniform with haversack etc.  They will move to the railway station 15 minutes from the first cannon and will be dismissed after 30 minutes if there are no further orders.

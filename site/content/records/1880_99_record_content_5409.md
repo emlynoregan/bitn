@@ -21,6 +21,7 @@ topics:
 - debt
 - notice
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Notice.  I will not be answerable for any debts my wife, Johannah Kemp, may contract from this date.  Frederick Kemp, Hampton Nov. 10.

@@ -18,6 +18,7 @@ topics:
 - agriculture
 - mining
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 2nd Leader on the Long Depression, which he says, has been brought about principally by drought combined with the fall in commodity prices.  Both wheat and copper have fallen sharply in value.

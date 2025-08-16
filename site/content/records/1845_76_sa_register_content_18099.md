@@ -19,6 +19,7 @@ topics:
 - event
 - picnic
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 A large picnic is planned for Christmas to come off a few miles from the Burra.

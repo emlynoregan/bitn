@@ -31,6 +31,7 @@ topics:
 - labour
 - administration
 source_document: 1985-87_Northern__Argus.md
+publication_slug: record-1880-99
 ---
 
 Cr Parks moved that the town assessment for 1893 be adopted as the waterworks assessment for 1893 with such additions or alterations as may be required and that the water rate be the same as that of last year.  (i.e. 3/- per 1,000 gallons up to the amount paid in rates and consumption in excess of the rating power be at 2/6 per 1,000 gallons.)

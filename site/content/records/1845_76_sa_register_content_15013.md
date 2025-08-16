@@ -20,6 +20,7 @@ topics:
 - church
 - confirmation
 source_document: 1985-87_Northern__Argus.md
+publication_slug: sa-register
 ---
 
 Bishop Short preached at St Mary’s last evening and confirmed about a dozen young persons.
