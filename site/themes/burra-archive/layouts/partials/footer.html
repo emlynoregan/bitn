@@ -7,9 +7,8 @@
                 <p class="text-gray-300 text-sm leading-relaxed mb-4">
                     {{ .Site.Params.description }}
                 </p>
-                <p class="text-gray-400 text-xs">
-                    Digitally preserved from the research of {{ .Site.Params.compiler }}
-                </p>
+                <p class="text-gray-400 text-xs mb-2">Digitally preserved from the research of {{ .Site.Params.compiler }}</p>
+                <p class="text-gray-400 text-xs">Published by the <a class="text-amber-400 hover:text-amber-300 underline" href="https://burrasa.net/" target="_blank" rel="noopener">Burra History Group</a></p>
             </div>
             
             <!-- Quick Links -->
@@ -32,7 +31,7 @@
                 <ul class="text-sm text-gray-300 space-y-1 mb-4">
                     <li>{{ .Site.Params.totalDocuments }} Historical Documents</li>
                     <li>Coverage: {{ .Site.Params.dateRange }}</li>
-                    <li>Multiple Publications</li>
+                    <li>Multiple Source Documents</li>
                     <li>Fully Searchable</li>
                 </ul>
                 {{ if .Site.Params.contact.email }}
@@ -50,7 +49,7 @@
         <div class="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
             <div>
                 <p>&copy; {{ now.Format "2006" }} Burra in the News Archive. 
-                   Original research by {{ .Site.Params.compiler }}.</p>
+                   Original research by {{ .Site.Params.compiler }}. Published by the <a class="text-amber-400 hover:text-amber-300 underline" href="https://burrasa.net/" target="_blank" rel="noopener">Burra History Group</a>.</p>
             </div>
             <div class="mt-4 md:mt-0 flex space-x-4">
                 {{ if .Site.Params.githubRepo }}

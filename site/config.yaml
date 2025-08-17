@@ -62,7 +62,7 @@ params:
   # googleAnalytics: 'G-XXXXXXXXXX'
   
   # GitHub repository
-  githubRepo: 'https://github.com/yourusername/bitn'
+  githubRepo: 'https://github.com/emlynoregan/bitn'
 
 # Taxonomies
 taxonomies:
