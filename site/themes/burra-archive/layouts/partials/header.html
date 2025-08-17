@@ -1,5 +1,5 @@
 <header class="bg-white shadow-md border-b-4 border-amber-600">
-    <div class="container mx-auto px-4 py-6">
+    <div class="container mx-auto px-4 py-6 relative">
         <!-- Site title and description -->
         <div class="text-center mb-6">
             <h1 class="text-4xl font-serif font-bold text-gray-800 mb-2">
@@ -15,9 +15,21 @@
             </p>
         </div>
         
+        <!-- Mobile menu toggle -->
+        <div class="md:hidden">
+            <button id="mobile-menu-toggle" aria-controls="mobile-menu-panel" aria-expanded="false" class="inline-flex items-center px-3 py-2 border border-gray-300 rounded text-gray-700 hover:text-amber-700 hover:border-amber-700 absolute left-2 top-2" type="button">
+                <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                </svg>
+                <span class="sr-only">Toggle navigation</span>
+            </button>
+        </div>
+
         <!-- Navigation menu -->
-        <nav class="border-t border-gray-200 pt-4" role="navigation" aria-label="main navigation">
-            <ul class="flex flex-wrap justify-center space-x-8 text-sm font-medium">
+        <nav id="primary-nav" class="border-t border-gray-200 pt-4 hidden md:block" role="navigation" aria-label="main navigation">
+            <ul class="md:flex md:flex-row md:flex-wrap md:items-center md:justify-center md:space-x-8 md:space-y-0 text-sm font-medium">
                 {{ range .Site.Menus.main }}
                 <li>
                     <a href="{{ .URL }}" 
@@ -29,6 +41,30 @@
                 {{ end }}
             </ul>
         </nav>
+
+        <!-- Mobile overlay menu panel -->
+        <div id="mobile-menu-panel" class="fixed inset-0 bg-white z-50 hidden md:hidden">
+            <div class="p-4 border-b border-gray-200 flex justify-between items-center">
+                <span class="font-semibold text-gray-800">Menu</span>
+                <button id="mobile-menu-close" class="p-2 text-gray-700 hover:text-amber-700" aria-label="Close menu" type="button">
+                    <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <nav class="p-6" role="navigation" aria-label="mobile navigation">
+                <ul class="space-y-4 text-base">
+                    {{ range .Site.Menus.main }}
+                    <li>
+                        <a href="{{ .URL }}" class="block text-gray-800 hover:text-amber-700" data-mobile-link>
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
         
         <!-- Search bar (if enabled) -->
         {{ if .Site.Params.enableSearch }}
@@ -54,5 +90,37 @@
             </div>
         </div>
         {{ end }}
+        <script>
+        (function(){
+            try {
+                var btn = document.getElementById('mobile-menu-toggle');
+                var panel = document.getElementById('mobile-menu-panel');
+                var closeBtn = document.getElementById('mobile-menu-close');
+                function openPanel(){
+                    if (!panel) return;
+                    panel.classList.remove('hidden');
+                    btn && btn.setAttribute('aria-expanded', 'true');
+                    document.body.style.overflow = 'hidden';
+                }
+                function closePanel(){
+                    if (!panel) return;
+                    panel.classList.add('hidden');
+                    btn && btn.setAttribute('aria-expanded', 'false');
+                    document.body.style.overflow = '';
+                }
+                if (btn) btn.addEventListener('click', openPanel);
+                if (closeBtn) closeBtn.addEventListener('click', closePanel);
+                panel && panel.addEventListener('click', function(e){
+                    if (e.target === panel) closePanel();
+                });
+                // Close on link click
+                panel && panel.querySelectorAll('[data-mobile-link]').forEach(function(a){
+                    a.addEventListener('click', function(){ closePanel(); });
+                });
+                // Close on Escape
+                window.addEventListener('keydown', function(e){ if (e.key === 'Escape') closePanel(); });
+            } catch (e) {}
+        })();
+        </script>
     </div>
 </header>
