@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .bg{fill:#d97706;}
+      .txt{fill:#ffffff;font-family:'Crimson Text', Georgia, 'Times New Roman', serif;font-weight:700;}
+    </style>
+  </defs>
+  <circle class="bg" cx="256" cy="256" r="256"/>
+  <text class="txt" x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="320">B</text>
+  <!-- Simple, high-contrast lettermark: white "B" on amber circle (#d97706) -->
+</svg>
+

@@ -20,8 +20,12 @@
     <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
     <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
     
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
+    <!-- Favicons -->
+    <link rel="icon" href="{{ "favicon.ico" | absURL }}" sizes="any">
+    <link rel="icon" href="{{ "favicon.svg" | absURL }}" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="{{ "favicon-192.png" | absURL }}">
+    <link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
+    <meta name="theme-color" content="#d97706">
     
     <!-- CSS -->
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
