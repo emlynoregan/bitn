@@ -7,13 +7,13 @@
         <ol class="flex items-center space-x-2">
             <li><a href="/" class="hover:text-amber-600">Home</a></li>
             <li><span class="mx-2">/</span></li>
-            <li><a href="/publications/" class="hover:text-amber-600">Publications</a></li>
+            <li><a href="/publications/" class="hover:text-amber-600">Documents</a></li>
             <li><span class="mx-2">/</span></li>
             <li class="text-gray-800 font-medium">{{ .Title }}</li>
         </ol>
     </nav>
 
-    <!-- Publication header -->
+    <!-- Document header -->
     <header class="bg-gradient-to-r from-amber-50 to-amber-100 rounded-lg p-8 mb-8">
         <div class="flex flex-col md:flex-row md:items-center md:justify-between">
             <div>
@@ -50,7 +50,7 @@
         </div>
     </header>
 
-    <!-- Publication description -->
+    <!-- Document description -->
     {{ if .Content }}
     <div class="prose prose-lg max-w-none mb-8">
         {{ .Content }}
@@ -59,22 +59,21 @@
 
     <!-- Download link -->
     {{ if .Params.download_file }}
-    <div class="mb-12">
-        <a href="/downloads/markdown/{{ .Params.download_file }}" class="inline-flex items-center bg-amber-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-amber-700 transition-colors">
-            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4"/></svg>
+    <div class="mb-12 text-center">
+        <a href="/downloads/markdown/{{ .Params.download_file }}" class="inline-flex items-center text-gray-800 hover:text-gray-900 font-medium">
+            <svg class="w-5 h-5 mr-2 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4"/></svg>
             Download source (Markdown)
         </a>
     </div>
     {{ end }}
 
-    <!-- Back to publications -->
+    <!-- Back to documents -->
     <div class="mt-12 text-center">
-        <a href="/publications/" 
-           class="inline-flex items-center bg-amber-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-amber-700 transition-colors">
-            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <a href="/publications/" class="inline-flex items-center text-gray-800 hover:text-gray-900 font-medium">
+            <svg class="w-4 h-4 mr-2 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
             </svg>
-            Back to All Publications
+            Back to All Documents
         </a>
     </div>
 </div>

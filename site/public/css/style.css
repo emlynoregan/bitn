@@ -129,6 +129,37 @@ input[type="search"]::-ms-reveal { display: none; width: 0; height: 0; }
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 
+/* Buttons (Tailwind fallback to ensure consistent rendering) */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem; /* py-3 px-6 */
+  border-radius: 0.5rem; /* rounded-lg */
+  font-weight: 600; /* font-medium */
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+.btn-primary {
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+.btn-primary:hover {
+  background-color: var(--color-primary-dark);
+}
+
+/* Ensure anchor buttons render correctly regardless of resets */
+a.btn,
+a.btn-primary {
+  display: inline-flex;
+  align-items: center;
+}
+a.btn-primary {
+  background-color: var(--color-primary) !important;
+  color: #ffffff !important;
+}
+a.btn-primary:hover {
+  background-color: var(--color-primary-dark) !important;
+}
+
 /* (removed) Publication timeline styles */
 
 /* Responsive design adjustments */

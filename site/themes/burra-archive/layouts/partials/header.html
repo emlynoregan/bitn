@@ -58,7 +58,7 @@
                     {{ range .Site.Menus.main }}
                     <li>
                         <a href="{{ .URL }}" class="block text-gray-800 hover:text-amber-700" data-mobile-link>
-                            {{ .Name }}
+                            {{ if eq .Name "Publications" }}Documents{{ else }}{{ .Name }}{{ end }}
                         </a>
                     </li>
                     {{ end }}
