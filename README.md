@@ -34,11 +34,14 @@ This isn't just a newspaper collection - it's a **scholarly treasure trove** wit
   - SA Register (1845–76): Pass 1–4 complete; integrated into site
   - Record (1876–79): Pass 1–4 complete; integrated into site
   - Record (1880–99): Pass 1–4 complete; integrated into site
-  - Record (1900–1919): Pass 1 complete; Pass 2–4 pending; not yet integrated
-  - Record (1920–39): Pass 1 complete; Pass 2–4 pending; not yet integrated
-  - Record (1940–59): Pass 1 complete; Pass 2–4 pending; not yet integrated
-  - Record (1960 – Part 77): Pass 1 complete; Pass 2–4 pending; not yet integrated
-  - Review Times Record, BCS & CN, Burra Broadcaster, Mid North Broadcaster: Pass 1–4 pending; not yet integrated
+  - Record (1900–1919): Pass 1–4 complete (final backfill pending); not yet integrated
+  - Record (1920–39): Pass 1–4 complete (final backfill pending); not yet integrated
+  - Record (1940–59): Pass 1–4 complete (final backfill pending); not yet integrated
+  - Record (1960 – Part 77): Pass 1–4 complete (final backfill pending); not yet integrated
+  - Review Times Record (1977–87): Pass 1–4 complete (final backfill pending); not yet integrated
+  - BCS & CN (1978–93): Pass 1–4 complete (final backfill pending); not yet integrated
+  - Burra Broadcaster (1991–2016): Pass 1–4 complete (final backfill pending); not yet integrated
+  - Mid North Broadcaster (2006–13): Pass 1–4 complete (final backfill pending); not yet integrated
 - **Outputs**: Incremental and final JSONs under `processed/`; site content under `site/content/records/`; downloads under `site/static/downloads/markdown/`.
 - **Next actions**:
   - Rotate any committed API key (see Security)
@@ -104,19 +107,25 @@ bitn/
 | SA Register (1845–76) | `sa_register` | ✅ `processed/sa_register_pass_01/` | ✅ `..._pass_02/` | ✅ `..._pass_03/merged.json` | ✅ `..._pass_04/merged.backfilled.json` | ✅ many files in `site/content/records/1845_76_sa_register_content_*.md` |
 | Record (1876–79) | `1876_79_record` | ✅ | ✅ | ✅ | ✅ | ✅ `site/content/records/1876_79_record_content_*.md` |
 | Record (1880–99) | `1880_99_record` | ✅ | ✅ | ✅ | ✅ | ✅ `site/content/records/1880_99_record_content_*.md` |
-| Record (1900–1919) | `1900_1919_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
-| Record (1920–39) | `1920_39_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
-| Record (1940–59) | `1940_59_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
-| Record (1960 – Part 77) | `1960_part_77_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
+| Record (1900–1919) | `1900_1919_record` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
+| Record (1920–39) | `1920_39_record` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
+| Record (1940–59) | `1940_59_record` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
+| Record (1960 – Part 77) | `1960_part_77_record` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
+| Review Times Record (1977–87) | `review_times_record` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
+| BCS & CN (1978–93) | `1978_1993_bcs_cn` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
+| Burra Broadcaster (1991–2016) | `1991_2016_burra_broadcaster` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
 | Northern Argus (1985–87) | `northern_argus` | ✅ | ✅ | ✅ | ✅ | ✅ `site/content/records/northern_argus_*.md` |
-| Review Times Record | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
-| BCS & CN (1978–93) | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
-| Burra Broadcaster (1991–2016) | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
-| Mid North Broadcaster (2006–13) | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
+| Mid North Broadcaster (2006–13) | `2006_13_midnorthbroadcaster` | ✅ | ✅ | ✅ | ✅ `..._pass_04/merged.json` (backfill pending) | ⛔ |
 
 Notes
 - Site downloads: all 14 source markdowns are available in `site/static/downloads/markdown/`.
 - Search index: `site/static/js/search-data.json` is populated; regenerate after any bulk content updates to ensure full coverage.
+ - Running passes reliably on Windows:
+   - Use `python -X utf8` to avoid console encoding errors during script output.
+   - Pass 4 supports checkpoint/resume and progress with ETA:
+     - Checkpoints: `processed/<slug>_pass_04/checkpoint.json` and `checkpoint_state.json`
+     - Live progress: `processed/<slug>_pass_04/progress.txt` (includes elapsed, predicted total, and ETA)
+     - Safe to interrupt and rerun; it skips work already completed.
 
 ## 🧱 Two-track plan
 
