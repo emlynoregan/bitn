@@ -1,0 +1,30 @@
+---
+title: Miss S. James has temporarily been transferred to Booborowie
+type: records
+slug: 1940_59_record_content_73026
+url: /records/1940_59_record_content_73026/
+record_id: 1940_59_record_content_73026
+date: '1956-06-05'
+date_display: null
+volume: '87'
+issue_number: '22'
+page: page 1
+article_type: community_notice
+issue_reference: 87, 22, 5 June 1956, page 1
+people_mentioned:
+- Miss S. James
+- Mrs R. Jeffery
+- Mrs M. Williams
+places_mentioned:
+- Booborowie
+topics:
+- education
+- staffing
+- transfer
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Miss S. James has temporarily been transferred to Booborowie and Mrs R. Jeffery & Mrs M. Williams have been asked to fill in.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

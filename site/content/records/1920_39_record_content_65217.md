@@ -1,0 +1,43 @@
+---
+title: Booborowie School & District Christmas Tree
+type: records
+slug: 1920_39_record_content_65217
+url: /records/1920_39_record_content_65217/
+record_id: 1920_39_record_content_65217
+date: '1936-12-22'
+date_display: null
+volume: '57'
+issue_number: '51'
+page: '3'
+article_type: news
+issue_reference: 57, 51, 22 Dec. 1936, page 3
+people_mentioned:
+- Father Christmas
+- Murray Brandon
+- Maurice Collins
+- Maurice McEvoy
+- Ashley Woodgate
+- Nelly Callary
+places_mentioned:
+- Booborowie
+- Memorial Hall
+topics:
+- school
+- community
+- Christmas
+- awards
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+ Booborowie School & District Christmas Tree was held on Thursday in the Memorial Hall.  A large gathering of parents and friends indicated the popularity of the event.  Carols and items were followed by the arrival of Father Christmas and then the distribution of school prizes and awards.
+
+ Qualifying Certificates went to:
+
+ Murray Brandon		Maurice Collins
+
+ Maurice McEvoy		Ashley Woodgate
+
+ Nelly Callary
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

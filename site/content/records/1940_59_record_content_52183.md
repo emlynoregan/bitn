@@ -1,0 +1,33 @@
+---
+title: Accident.
+type: records
+slug: 1940_59_record_content_52183
+url: /records/1940_59_record_content_52183/
+record_id: 1940_59_record_content_52183
+date: '1951-10-09'
+date_display: null
+volume: '77'
+issue_number: '39'
+page: '1'
+article_type: news
+issue_reference: 77, 39, 9 Oct. 1951, page 1
+people_mentioned:
+- Mr & Mrs Stanley D. Logan
+- Mr Logan
+places_mentioned:
+- Myrtlebank
+- Black Springs Road
+- Burra
+- Burra Hospital
+topics:
+- accident
+- injury
+- hospital
+- motor vehicle
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Accident.  A car driven by Mr & Mrs Stanley D. Logan of Myrtlebank skidded and turned over on the Black Springs Road 15 miles from Burra on Saturday.  Mr Logan was thrown out and passing motorists helped Mrs Logan and child from the car.  Mr Logan suffered severe facial injuries and was admitted to Burra Hospital.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

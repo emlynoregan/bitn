@@ -1,0 +1,35 @@
+---
+title: Advt.  The Unley Salvation Army Band will be in Burra for Easter
+type: records
+slug: 1920_39_record_content_13075
+url: /records/1920_39_record_content_13075/
+record_id: 1920_39_record_content_13075
+date: '1924-04-09'
+date_display: null
+volume: XXXXVI
+issue_number: '14'
+page: Page 3
+article_type: advertisement
+issue_reference: XXXXVI, 14, 9 April 1924, Page 3
+people_mentioned: []
+places_mentioned:
+- Burra
+- Kooringa
+- Market Square
+- Aberdeen
+topics:
+- music
+- religious band
+- advertisement
+- entertainment
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+Advt.  The Unley Salvation Army Band will be in Burra for Easter and will play Kooringa, Good Friday 2.30 p.m.,
+
+Sunday Kooringa, 11 a.m. & 7 p.m., 8.15 p.m., Market Square;
+
+Sunday Aberdeen 3 p.m. (Best Place)
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

@@ -1,0 +1,28 @@
+---
+title: Pen of three rams
+type: records
+slug: 1991_2016_burra_broadcaster_content_17255
+url: /records/1991_2016_burra_broadcaster_content_17255/
+record_id: 1991_2016_burra_broadcaster_content_17255
+date: '1998-10-14'
+date_display: null
+volume: null
+issue_number: '381'
+page: 1, 4 & 5
+article_type: news
+issue_reference: 381, 1998-10-14, page 1, 4 & 5
+people_mentioned:
+- R.H. & H.M. Stockman
+places_mentioned: []
+topics:
+- sheep
+- rams
+- competition
+- show
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1991-2016-burra-broadcaster
+---
+
+Pen of three rams R.H. & H.M. Stockman.
+
+Source publication: [1991 2016 Burra Broadcaster](/publications/1991-2016-burra-broadcaster/)

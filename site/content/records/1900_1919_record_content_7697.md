@@ -1,0 +1,29 @@
+---
+title: Sir Frederick William Holder was invested with the KCMG in Sydney on Saturday
+  by the Governor-General, Lord Tennyson.
+type: records
+slug: 1900_1919_record_content_7697
+url: /records/1900_1919_record_content_7697/
+record_id: 1900_1919_record_content_7697
+date: '1903-04-22'
+date_display: null
+volume: XV
+issue_number: '571'
+page: '2'
+article_type: news
+issue_reference: XV, 571, 22 Apr. 1903, page 2
+people_mentioned:
+- Sir Frederick William Holder
+- Lord Tennyson
+places_mentioned:
+- Sydney
+topics:
+- award
+- honour
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1900-1919-record
+---
+
+Sir Frederick William Holder was invested with the KCMG in Sydney on Saturday by the Governor-General, Lord Tennyson.
+
+Source publication: [1900 1919 Record](/publications/1900-1919-record/)

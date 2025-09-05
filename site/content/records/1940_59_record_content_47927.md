@@ -1,0 +1,30 @@
+---
+title: Advt.  St Mary’s Church, Thursday 30 November.  Organ recital by C. Davey
+type: records
+slug: 1940_59_record_content_47927
+url: /records/1940_59_record_content_47927/
+record_id: 1940_59_record_content_47927
+date: '1950-11-07'
+date_display: null
+volume: '76'
+issue_number: '44'
+page: '2'
+article_type: advertisement
+issue_reference: 76, 44, 7 Nov. 1950, page 2
+people_mentioned:
+- C. Davey
+- Lindsay Thomas
+- Betty Ashby
+places_mentioned:
+- St Mary’s Church
+topics:
+- music
+- church
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Advt.  St Mary’s Church, Thursday 30 November.  Organ recital by C. Davey assisted by Lindsay Thomas (baritone) and Betty Ashby (soprano.) [A contralto in a later advertisement.]
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

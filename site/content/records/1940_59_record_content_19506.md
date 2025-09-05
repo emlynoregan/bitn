@@ -1,0 +1,28 @@
+---
+title: Redruth Methodist Sunday School anniversary
+type: records
+slug: 1940_59_record_content_19506
+url: /records/1940_59_record_content_19506/
+record_id: 1940_59_record_content_19506
+date: '1944-11-21'
+date_display: null
+volume: '64'
+issue_number: '47'
+page: '1'
+article_type: community_notice
+issue_reference: 64, 47, 21 Nov. 1944, page 1
+people_mentioned:
+- Rev. Arthur Jackson
+places_mentioned:
+- Redruth
+topics:
+- church
+- anniversary
+- fundraising
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Redruth Methodist Sunday School held its anniversary 5 & 6 November.  Rev. Arthur Jackson preached the services.  A children’s tea on Monday was followed by a public tea and a meeting.  Takings amounted to a satisfactory £27-2-0.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

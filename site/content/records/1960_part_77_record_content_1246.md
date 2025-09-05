@@ -1,0 +1,28 @@
+---
+title: Aberdeen Tennis Club Variety Concert to raise funds
+type: records
+slug: 1960_part_77_record_content_1246
+url: /records/1960_part_77_record_content_1246/
+record_id: 1960_part_77_record_content_1246
+date: '1960-03-08'
+date_display: null
+volume: '90'
+issue_number: '9'
+page: '6'
+article_type: community_notice
+issue_reference: 90, 9, 8 March 1960, page 6
+people_mentioned:
+- Aberdeen Tennis Club
+places_mentioned:
+- Burra Town Hall
+topics:
+- fundraising
+- club
+- sport
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Aberdeen Tennis Club is sponsoring a Variety Concert at Burra Town Hall on 25 March.  The concert is to raise funds to resurface a court.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

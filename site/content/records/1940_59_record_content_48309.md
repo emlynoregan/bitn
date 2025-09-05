@@ -1,0 +1,27 @@
+---
+title: Mt Bryan 14-109 defeated Ironmine II 6-67
+type: records
+slug: 1940_59_record_content_48309
+url: /records/1940_59_record_content_48309/
+record_id: 1940_59_record_content_48309
+date: '1950-12-12'
+date_display: null
+volume: '76'
+issue_number: '49'
+page: '1'
+article_type: news
+issue_reference: 76, 49, 12 Dec. 1950, page 1
+people_mentioned: []
+places_mentioned:
+- Mt Bryan
+- Ironmine
+topics:
+- sport
+- football
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Mt Bryan 14-109 defeated Ironmine II 6-67
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

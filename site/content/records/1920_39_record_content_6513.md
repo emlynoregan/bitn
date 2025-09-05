@@ -1,0 +1,28 @@
+---
+title: C.G. Attrill
+type: records
+slug: 1920_39_record_content_6513
+url: /records/1920_39_record_content_6513/
+record_id: 1920_39_record_content_6513
+date: '1922-01-04'
+date_display: null
+volume: XXXXIII
+issue_number: 51 (2)
+page: '1'
+article_type: advertisement
+issue_reference: XXXXIII, 51 (2), 1922-01-04, page 1
+people_mentioned:
+- C.G. Attrill
+places_mentioned:
+- Kooringa Hotel
+topics:
+- business
+- advertisement
+- transport
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+C.G. Attrill	Cab Proprietor, c/o Kooringa Hotel
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

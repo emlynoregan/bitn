@@ -1,0 +1,28 @@
+---
+title: Susan Hayward & James Mason in The Marriage-Go-Round
+type: records
+slug: 1960_part_77_record_content_17411
+url: /records/1960_part_77_record_content_17411/
+record_id: 1960_part_77_record_content_17411
+date: '1963-09-10'
+date_display: null
+volume: '80'
+issue_number: '35'
+page: '2'
+article_type: advertisement
+issue_reference: 80, 35, 10 Sep. 1963, page 2
+people_mentioned:
+- Susan Hayward
+- James Mason
+places_mentioned: []
+topics:
+- film
+- advertisement
+- entertainment
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Susan Hayward & James Mason in The Marriage-Go-Round
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

@@ -1,0 +1,26 @@
+---
+title: Mrs Webster’s Fire Appeal has reached £97-3-0.
+type: records
+slug: 1940_59_record_content_35839
+url: /records/1940_59_record_content_35839/
+record_id: 1940_59_record_content_35839
+date: '1948-03-16'
+date_display: null
+volume: '71'
+issue_number: '10'
+page: '1'
+article_type: news
+issue_reference: 71, 10, 16 March 1948, page 1
+people_mentioned:
+- Mrs Webster
+places_mentioned: []
+topics:
+- fundraising
+- fire
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Mrs Webster’s Fire Appeal has reached £97-3-0.  In addition there have been many gifts of seed wheat, hay and fencing posts.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

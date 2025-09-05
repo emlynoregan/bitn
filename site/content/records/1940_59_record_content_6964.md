@@ -1,0 +1,34 @@
+---
+title: Mr & Mrs William Seymour celebrated their Golden Wedding
+type: records
+slug: 1940_59_record_content_6964
+url: /records/1940_59_record_content_6964/
+record_id: 1940_59_record_content_6964
+date: '1941-08-19'
+date_display: null
+volume: '62'
+issue_number: 32(2)
+page: '1'
+article_type: community_notice
+issue_reference: 62, 32(2), 19 August 1941, page 1
+people_mentioned:
+- Mr & Mrs William Seymour
+- Miss Alice Parks
+- Miss Emily Parks
+- Mr Alfred Bennetts
+places_mentioned:
+- Pt Pirie
+- Burra
+- Burra Bible Christian Church
+topics:
+- celebration
+- anniversary
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Mr & Mrs William Seymour (nee Miss Alice Parks) now of Pt Pirie and late of Burra, celebrated their Golden Wedding.  They were married 12 August 1891 in the Burra Bible Christian Church, in a double wedding with Miss Emily Parks and Mr Alfred Bennetts.  Mr Bennetts died 19 years ago.
+
+[Further details in ¼ column report.]
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

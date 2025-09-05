@@ -1,0 +1,28 @@
+---
+title: Burra Progress Assoc. working bee to clean cemetery
+type: records
+slug: 1940_59_record_content_59109
+url: /records/1940_59_record_content_59109/
+record_id: 1940_59_record_content_59109
+date: '1953-05-19'
+date_display: null
+volume: '81'
+issue_number: '19'
+page: '1'
+article_type: community_notice
+issue_reference: 81, 19, 19 May 1953, page 1
+people_mentioned:
+- Burra Progress Assoc.
+places_mentioned:
+- Burra
+- cemetery
+topics:
+- community
+- event
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Burra Progress Assoc. will hold a working bee on 24 may to clean up the cemetery.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

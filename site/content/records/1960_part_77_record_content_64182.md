@@ -1,0 +1,52 @@
+---
+title: Remarks on tourism and local government at Burra council centenary
+type: records
+slug: 1960_part_77_record_content_64182
+url: /records/1960_part_77_record_content_64182/
+record_id: 1960_part_77_record_content_64182
+date: '1972-12-05'
+date_display: null
+volume: '94'
+issue_number: '47'
+page: pages 1, 4, 5 & 4-5 gutter
+article_type: news
+issue_reference: 94, 47, 1972-12-05, page pages 1, 4, 5 & 4-5 gutter
+people_mentioned:
+- Mr Virgo
+- Mr Brian Riggs
+- Mr Ian Auhl
+- Ian Auhl
+- Tom Perry
+places_mentioned:
+- Burra
+- Australia
+- South Australia
+- Morgan
+- National Trust Museum
+- SA
+topics:
+- tourism
+- council
+- local government
+- road
+- heritage
+- community
+- museum
+- awards
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Burra has a very important role to play in tourism.  In a quick look around to see the old miners’ cottages I was very pleased to see the standard of preservation.  I think these cottages mean something as far as Burra is concerned and as far as tourism is concerned.  You may think it worth while pooling your tourist resources with adjoining areas so that the region can provide more than just a one or two day trip.  Today the tourist is looking for more than coming to Burra to see mine workings and cottages and the National Trust Museum.  They are looking for a package of things to do perhaps over four or five days or a week.  A portion of the growing tourist expenditure in Australia can come to Burra provided Burra people are prepared to display the necessary initiative and encourage people in the area to advertise the fact they have tourist potential.  With respect to ‘that road’ which must receive serious consideration.  While it is acknowledged that it is essential as far as this region is concerned, it is also acknowledged that the Highways Department funds are allocated on the needs of the whole state and so the Department may not give it the same priority as it sifts through the pleas and requests of 157 local governing bodies in SA.
+
+Concerning local government boundaries.  If local government by a majority want to have a commission to look into boundaries, I am prepared to have one.  If not, then one will not be established.
+
+Mr Brian Riggs responded.  As well as thanking Mr Virgo he introduced Mr Ian Auhl’s booklet on the Council’s Centenary and thanked the Floral Art Club for the floral arrangements, the ladies [listed] for the catering and the Clerk, Tom Perry, for making the co-ordinating arrangements for the dinner.
+
+Mr Virgo then presented the long service awards as stated above.
+
+[Photo of the unveiling of the plaque.]
+
+Ian Auhl spoke of the booklet on the Council’s Centenary and pointed out the difficulties Burra had in getting local government – it took twenty years for a District Council and another four for the town to get a Corporation.  You, [Mr Virgo] made the remark that Burra once upon a time saved South Australia.  I say that it is high time that South Australia saved Burra.  My final comment is that if you want to save Burra build that bloody road from Morgan to here!
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

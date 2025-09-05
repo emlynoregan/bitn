@@ -1,0 +1,45 @@
+---
+title: Burra CWA; Carols by the Pool
+type: records
+slug: 1960_part_77_record_content_37708
+url: /records/1960_part_77_record_content_37708/
+record_id: 1960_part_77_record_content_37708
+date: '1967-12-19'
+date_display: null
+volume: '89'
+issue_number: '50'
+page: '2'
+article_type: community_notice
+issue_reference: 89, 50, 19 Dec. 1967, page 2
+people_mentioned:
+- Mrs A.I.M. (Matty) Phillips
+- Mrs W. Klem
+- Mrs R. Jeffery
+- Miss Minnie Rogers
+- Mr Ern Lawrie
+- Mr G.M. Baulderstone
+- Mrs Jack Oates
+- Burra Choral Society
+- Revs G. Sibly
+- M. Lind
+- Rosemary Reed
+- Mr E.T. Baulderstone
+- Prime Minister Mr Holt
+places_mentioned:
+- Burra Swimming Pool
+- St Joseph’s Convent School
+topics:
+- community
+- award
+- ceremony
+- carols
+- music
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Burra CWA.  The Burra Branch awarded only its second Life Membership on Friday last when Mrs A.I.M. (Matty) Phillips was honoured for her tireless devotion to the Association.  Mrs W. Klem, the Warnes Group Divisional President, pinned the badge onto Mrs Phillips’ dress and Mrs R. Jeffery, Secretary of the Burra Branch, read the citation [which is printed].  The late Miss Minnie Rogers was the first Life Member.
+
+Carols by the Pool were held at the Burra Swimming Pool on Sunday night.  The weather was mild.  Guest compere was Mr Ern Lawrie from Manoora.  Mr G.M. Baulderstone supplied lighting effects and amplification and Mrs Jack Oates was the indispensable pianist.  The Burra Choral Society led the singing.  Bible readings were given by Revs G. Sibly and M. Lind.  Rosemary Reed sang two solos and children from St Joseph’s Convent School put on an impressive tableau.  The Mayor Mr E.T. Baulderstone delivered his Christmas message.  He reviewed the town’s progress for the year and made reference to the apparent tragic loss of the Prime Minister, Mr Holt.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

@@ -1,0 +1,28 @@
+---
+title: 'Tennis — ‘B’ Grade: Copperhouse defeated Mt Bryan'
+type: records
+slug: 1920_39_record_content_29783
+url: /records/1920_39_record_content_29783/
+record_id: 1920_39_record_content_29783
+date: '1929-02-13'
+date_display: null
+volume: XXXXIXIII
+issue_number: '6'
+page: '4'
+article_type: news
+issue_reference: XXXXIXIII, 6, 13 Feb. 1929, page 4
+people_mentioned: []
+places_mentioned:
+- Copperhouse
+- Mt Bryan
+topics:
+- sport
+- tennis
+- match
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+‘B’ Grade	Copperhouse 9-88 defeated Mt Bryan 6-80
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

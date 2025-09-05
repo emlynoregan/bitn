@@ -1,0 +1,30 @@
+---
+title: Farrell Flat School has 40 pupils.  Miss Marie A. Green has come from Teachers’
+  College.
+type: records
+slug: 1960_part_77_record_content_23437
+url: /records/1960_part_77_record_content_23437/
+record_id: 1960_part_77_record_content_23437
+date: '1965-02-16'
+date_display: null
+volume: '88'
+issue_number: 6 (4)
+page: page 1
+article_type: community_notice
+issue_reference: 88, 6 (4), 16 Feb. 1965, page 1 [Number previously used in 1955,
+  1957 & 1958.]
+people_mentioned:
+- Miss Marie A. Green
+places_mentioned:
+- Farrell Flat School
+topics:
+- education
+- school
+- enrolment
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Farrell Flat School has 40 pupils.  Miss Marie A. Green has come from Teachers’ College.  [Three new students are listed.]
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

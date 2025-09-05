@@ -1,0 +1,92 @@
+---
+title: Burra Town Council (continued)
+type: records
+slug: 1960_part_77_record_content_2151
+url: /records/1960_part_77_record_content_2151/
+record_id: 1960_part_77_record_content_2151
+date: '1960-05-10'
+date_display: null
+volume: '89'
+issue_number: '17'
+page: '3'
+article_type: news
+issue_reference: 89, 17, 10 May 1960, page 3
+people_mentioned:
+- Football Club
+- Education Department
+- ETSA
+- Fire Brigade Board
+- ratepayers
+places_mentioned:
+- Burra
+- Jubilee Avenue
+- Burra North Road
+- Mine area
+- War Memorial Oval
+- Town Hall
+- cemetery
+topics:
+- council
+- trees
+- bridge
+- cemetery
+- pool
+- finance
+- ambulance
+- scavenging
+- town hall
+- fire station
+- mining
+- street lights
+- naming streets
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+They had received quite a lot of criticism regarding the main [foot] bridge, which is now almost completed.  They had made mistakes there, but they had been rectified.
+
+The Council has been criticised for removing street trees in some places, but they had planted many in the past five or six years.  Many old trees were unsuitable or were planted in the watertables.  I am confident that for every tree removed twenty or thirty have been planted.
+
+Jubilee Avenue.  The row of trees planted along the creek side of the Burra North Road provides a golden opportunity for beautifying the town and providing a good caravan park area.
+
+The War Memorial Oval is mainly controlled by its committee and they have achieved quite a lot with little public support.  A turf oval would be something to be proud of and I think should be more the responsibility of the Football Club.
+
+The first public meeting in 1956 called for a swimming pool and by 1959 the Education Department was using the pool for its ‘Learn to Swim Campaign’.  I congratulate those few who went ahead with action and not just words.
+
+When the Council decided to raise a loan to buy the Mine area we didn’t receive any objections.  It will cost the ratepayers little, with grazing rights offsetting much of the cost.  The area can also be controlled for rubbish dumping and road metal is available there where previously the Council had to pay a royalty for it.  In addition old mining relics can be preserved and the area developed as a tourist attraction.
+
+With ETSA having taken over the electricity supply, there are more and brighter street lights.
+
+Naming the streets is another idea and with gradual placement of the signs it would cost little.
+
+The cemetery is proving a problem.  It covers a large area and finance is very limited.
+
+Burra is getting a fair share of new buildings and the main street compares most favourably.
+
+The Fire Station has been leased to the Fire Brigade Board for £10 p.a. for ten years with the right of renewal and the Board is now responsible for repairs and improvements, such as those being carried out at present.
+
+The Town Hall had been allowed to get into a bad state of repair.  Until about ten years ago the hall was costing the taxpayers money.  It was then decided to operate the pictures for the benefit of the hall.  Money was borrowed to set this up and now the income has allowed the hall to prosper.  £6,000 has been borrowed for the new supper room, but it is all being paid for by the pictures.
+
+Most of the health budget goes on scavenging.  In recent years this seems to have slipped somewhat.  I would like to see a regular fortnightly collection.  This would mean each ratepayer paying £1 p.a. for the service.
+
+Septic tank systems will have to be mandatory within a few years.
+
+There is now an urgent need to do something about getting a town ambulance.
+
+Last year at the end of June the overdraft of £2,567 was too large.  This year we anticipate ending the financial year with a reduction of at least £1,000 in this.
+
+Answers to questions revealed:
+
+The Town Hall pictures account was in credit
+
+The pictures had paid off the Town Hall mortgage
+
+There is currently no special rate for garbage collection
+
+There is only a partial list of old relics in the town
+
+The question of amalgamation of councils has not come from the District Council
+
+[A question re the cost of the new bridge is garbeled in the paper.]
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

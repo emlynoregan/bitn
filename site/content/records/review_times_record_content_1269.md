@@ -1,0 +1,25 @@
+---
+title: 'Citation: 36, 10, 6 Oct. 1977, page 3'
+type: records
+slug: review_times_record_content_1269
+url: /records/review_times_record_content_1269/
+record_id: review_times_record_content_1269
+date: '1977-10-06'
+date_display: null
+volume: '36'
+issue_number: '10'
+page: '3'
+article_type: other
+issue_reference: 36, 10, 1977-10-06, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- citation
+- reference
+source_document: 1985-87_Northern__Argus.md
+publication_slug: review-times-record
+---
+
+36, 10, 6 Oct. 1977, page 3
+
+Source publication: [Review Times Record](/publications/review-times-record/)

@@ -1,0 +1,28 @@
+---
+title: Burra Bowling Associates opened their 1964-65 season on Wednesday 21 October.
+type: records
+slug: 1960_part_77_record_content_22073
+url: /records/1960_part_77_record_content_22073/
+record_id: 1960_part_77_record_content_22073
+date: '1964-10-27'
+date_display: null
+volume: '87'
+issue_number: 43 (3)
+page: '1'
+article_type: news
+issue_reference: 87, 43 (3), 27 Oct. 1964, page 1 [Number previously used in 1956
+  & 1957.]
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- bowling
+- sport
+- club
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Burra Bowling Associates opened their 1964-65 season on Wednesday 21 October.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

@@ -1,0 +1,27 @@
+---
+title: 4th Stage
+type: records
+slug: 1940_59_record_content_44683
+url: /records/1940_59_record_content_44683/
+record_id: 1940_59_record_content_44683
+date: '1950-03-07'
+date_display: null
+volume: '76'
+issue_number: '9'
+page: '1'
+article_type: other
+issue_reference: 76, 9, 1950-03-07, page 1
+people_mentioned:
+- F. Kakoschke
+places_mentioned: []
+topics:
+- event
+- race
+- stage
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+4th Stage	F. Kakoschke
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

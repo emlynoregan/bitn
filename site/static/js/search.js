@@ -73,6 +73,22 @@ class ArchiveSearch {
                 if (searchUiEl) searchUiEl.style.display = '';
                 this.isInitialized = true;
                 console.log('[search] showReady: UI ready, workerReady=', !!window.BITN_SEARCH_READY);
+                try {
+                    // Update placeholder with dynamic doc count if available
+                    const total = (typeof window.BITN_TOTAL_DOCS === 'number' && window.BITN_TOTAL_DOCS > 0)
+                        ? window.BITN_TOTAL_DOCS : null;
+                    if (total && this.searchInput && !this.searchInput.dataset.dynamicPlaceholderSet) {
+                        this.searchInput.placeholder = `Search ${total.toLocaleString()} entries...`;
+                        this.searchInput.dataset.dynamicPlaceholderSet = '1';
+                    }
+                    // Update header entry count if present
+                    const hBadge = document.getElementById('header-entry-count');
+                    const hNum = document.getElementById('header-entry-count-num');
+                    if (hBadge && hNum && total) {
+                        hNum.textContent = total.toLocaleString();
+                        hBadge.classList.remove('hidden');
+                    }
+                } catch(_) {}
             };
             const showLoading = () => {
                 if (loadingEl) loadingEl.style.display = '';

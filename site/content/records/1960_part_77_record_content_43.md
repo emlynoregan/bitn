@@ -1,0 +1,27 @@
+---
+title: Matthew’s Emporium
+type: records
+slug: 1960_part_77_record_content_43
+url: /records/1960_part_77_record_content_43/
+record_id: 1960_part_77_record_content_43
+date: '1960-01-12'
+date_display: null
+volume: '90'
+issue_number: '1'
+page: '3'
+article_type: advertisement
+issue_reference: 90, 1, 12 January 1960, page 3
+people_mentioned:
+- Matthew’s Emporium
+places_mentioned: []
+topics:
+- business
+- advertisement
+- retail
+source_document: 1960-Part 77 Record.doc
+publication_slug: 1960-part-77-record
+---
+
+Matthew’s Emporium	Drapers & Furnishers
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

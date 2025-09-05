@@ -1,0 +1,30 @@
+---
+title: Birth.
+type: records
+slug: 1960_part_77_record_content_36102
+url: /records/1960_part_77_record_content_36102/
+record_id: 1960_part_77_record_content_36102
+date: '1967-08-22'
+date_display: null
+volume: '90'
+issue_number: 33 (2)
+page: '8'
+article_type: birth
+issue_reference: 90, 33 (2), 22 Aug. 1967, page 8 [Number used before in 1961.]
+people_mentioned:
+- Eileen Quinn
+- John Quinn
+- Christine Jane
+places_mentioned:
+- Calvary Hospital
+topics:
+- birth
+- hospital
+- family
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Birth.  To Eileen & John Quinn at Calvary Hospital, a daughter, Christine Jane.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

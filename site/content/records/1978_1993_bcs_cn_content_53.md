@@ -1,0 +1,27 @@
+---
+title: Burra Scouts are looking for a second-hand wool press
+type: records
+slug: 1978_1993_bcs_cn_content_53
+url: /records/1978_1993_bcs_cn_content_53/
+record_id: 1978_1993_bcs_cn_content_53
+date: '1987-02-12'
+date_display: null
+volume: null
+issue_number: null
+page: Supplement
+article_type: community_notice
+issue_reference: null
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- community
+- club
+- fundraising
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1978-1993-bcs-cn
+---
+
+Burra Scouts are looking for a second-hand wool press to use on their paper collection activities.
+
+Source publication: [1978 1993 Bcs Cn](/publications/1978-1993-bcs-cn/)

@@ -1,0 +1,27 @@
+---
+title: Booborowie School’s Annual Pet Show is reported.
+type: records
+slug: 1940_59_record_content_65472
+url: /records/1940_59_record_content_65472/
+record_id: 1940_59_record_content_65472
+date: '1954-10-26'
+date_display: null
+volume: '86'
+issue_number: '42'
+page: '1'
+article_type: community_notice
+issue_reference: 86, 42, 26 Oct. 1954, page 1
+people_mentioned: []
+places_mentioned:
+- Booborowie
+topics:
+- school
+- event
+- fundraising
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Booborowie School’s Annual Pet Show is reported.  Takings of £8-12-0 go towards the Projector Fund.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

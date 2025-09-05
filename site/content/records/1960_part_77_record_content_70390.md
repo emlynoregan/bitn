@@ -1,0 +1,27 @@
+---
+title: Burra Red Cross
+type: records
+slug: 1960_part_77_record_content_70390
+url: /records/1960_part_77_record_content_70390/
+record_id: 1960_part_77_record_content_70390
+date: '1974-03-19'
+date_display: null
+volume: '96'
+issue_number: '10'
+page: '7'
+article_type: community_notice
+issue_reference: 96, 10, 1974-03-19, page 7
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- organization
+- health
+- meeting
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Burra Red Cross
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

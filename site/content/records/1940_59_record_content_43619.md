@@ -1,0 +1,26 @@
+---
+title: Burra Hospital Coke Stove Appeal has reached £164-18-0.
+type: records
+slug: 1940_59_record_content_43619
+url: /records/1940_59_record_content_43619/
+record_id: 1940_59_record_content_43619
+date: '1949-12-06'
+date_display: null
+volume: '75'
+issue_number: '48'
+page: '1'
+article_type: community_notice
+issue_reference: 75, 48, 6 Dec. 1949, page 1
+people_mentioned: []
+places_mentioned:
+- Burra Hospital
+topics:
+- hospital
+- fundraising
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Burra Hospital Coke Stove Appeal has reached £164-18-0.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

@@ -1,0 +1,27 @@
+---
+title: Quote for supply and installation of curtains from John Martin & Co. Adelaide
+type: records
+slug: 1940_59_record_content_80404
+url: /records/1940_59_record_content_80404/
+record_id: 1940_59_record_content_80404
+date: '1958-02-12'
+date_display: null
+volume: '88'
+issue_number: 5 (3)
+page: '1'
+article_type: news
+issue_reference: 88, 5 (3), 1958-02-12, page 1
+people_mentioned:
+- John Martin & Co. Adelaide
+places_mentioned:
+- Adelaide
+topics:
+- council
+- business
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+The quote for supply and installation of curtains and balance and all fittings from John Martin & Co. Adelaide was £161 less 2½% for payment within 30 days.  Quote deemed reasonable and accepted.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

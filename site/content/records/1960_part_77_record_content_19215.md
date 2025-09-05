@@ -1,0 +1,27 @@
+---
+title: Koonaburra 55 v. Spalding 1 for 82
+type: records
+slug: 1960_part_77_record_content_19215
+url: /records/1960_part_77_record_content_19215/
+record_id: 1960_part_77_record_content_19215
+date: '1964-03-10'
+date_display: null
+volume: '86'
+issue_number: 10 (2)
+page: '4'
+article_type: news
+issue_reference: 86, 10 (2), 10 Mar. 1964, page 4 [Number used before in 1963.]
+people_mentioned: []
+places_mentioned:
+- Koonaburra
+- Spalding
+topics:
+- sports
+- cricket
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Koonaburra 55 v. Spalding 1 for 82
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

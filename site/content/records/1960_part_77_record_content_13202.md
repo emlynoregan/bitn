@@ -1,0 +1,23 @@
+---
+title: Gap content (lines 13202-13204)
+type: records
+slug: 1960_part_77_record_content_13202
+url: /records/1960_part_77_record_content_13202/
+record_id: 1960_part_77_record_content_13202
+date: '1962-09-25'
+date_display: null
+volume: '85'
+issue_number: 38 (2)
+page: '3'
+article_type: uncategorized
+issue_reference: 85, 38 (2), 1962-09-25, page 3
+people_mentioned: []
+places_mentioned: []
+topics: []
+source_document: 1960-Part_77_Record.md
+publication_slug: 1960-part-77-record
+---
+
+3 October
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

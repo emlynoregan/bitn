@@ -12,6 +12,10 @@
         const msg = e.data || {};
         if (msg.type === 'ready') {
           window.BITN_SEARCH_READY = true;
+          try {
+            window.BITN_TOTAL_DOCS = (typeof msg.count === 'number') ? msg.count : 0;
+            console.log('[search] ready:', window.BITN_TOTAL_DOCS, 'docs indexed');
+          } catch (_) { /* no-op */ }
           window.dispatchEvent(new Event('bitn-search-ready'));
         } else if (msg.type === 'error') {
           console.warn('Search worker error:', msg.error);

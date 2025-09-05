@@ -1,0 +1,28 @@
+---
+title: Floods
+type: records
+slug: 1960_part_77_record_content_69778
+url: /records/1960_part_77_record_content_69778/
+record_id: 1960_part_77_record_content_69778
+date: '1974-02-05'
+date_display: null
+volume: '96'
+issue_number: '4'
+page: '3'
+article_type: news
+issue_reference: 96, 4, 5 Feb. 1974, page 3
+people_mentioned: []
+places_mentioned:
+- Robertstown
+topics:
+- flood
+- weather
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Floods
+
+At Robertstown the area received 6-7.5 inches of rain and the lagoon south of the town is filled with water, in places close to the road.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

@@ -1,0 +1,35 @@
+---
+title: Advt.  Burra Pictures, 14 April
+type: records
+slug: 1940_59_record_content_49793
+url: /records/1940_59_record_content_49793/
+record_id: 1940_59_record_content_49793
+date: '1951-04-10'
+date_display: null
+volume: '77'
+issue_number: '14'
+page: '2'
+article_type: advertisement
+issue_reference: 77, 14, 10 Apr. 1951, page 2
+people_mentioned:
+- Richard Widmark
+- Lionel Barrymore
+- Jimmy Lyndon
+- Penny Edwards
+places_mentioned:
+- Burra
+topics:
+- advertisement
+- entertainment
+- film
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Advt.  Burra Pictures, 14 April
+
+Richard Widmark & Lionel Barrymore in Down to the Sea in Ships
+
+Jimmy Lyndon & Penny Edwards in Tucson
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

@@ -1,0 +1,29 @@
+---
+title: Pooraka Wool Pty Ltd will open a wool depot in Burra.
+type: records
+slug: 1960_part_77_record_content_19193
+url: /records/1960_part_77_record_content_19193/
+record_id: 1960_part_77_record_content_19193
+date: '1964-03-10'
+date_display: null
+volume: '86'
+issue_number: 10 (2)
+page: '1'
+article_type: news
+issue_reference: 86, 10 (2), 10 Mar. 1964, page 1 [Number used before in 1963.]
+people_mentioned:
+- Mr Dudley Cockington
+places_mentioned:
+- Pooraka
+- Burra
+topics:
+- business
+- employment
+- industry
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Pooraka Wool Pty Ltd will open a wool depot in Burra.  Mr Dudley Cockington will be appointed to purchase wool, skins, hides (including kangaroo), tallow, beeswax, etc.  If receivals warrant a wool cleaning and crushing plant could be installed, which would provide local employment.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

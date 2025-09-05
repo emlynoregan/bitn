@@ -1,0 +1,33 @@
+---
+title: Swimming
+type: records
+slug: 1960_part_77_record_content_49578
+url: /records/1960_part_77_record_content_49578/
+record_id: 1960_part_77_record_content_49578
+date: '1970-02-03'
+date_display: null
+volume: '92'
+issue_number: 4 (3)
+page: '1'
+article_type: news
+issue_reference: 92, 4 (3), 3 Feb. 1970, page 1 [This number used before in 1961 &
+  1969]
+people_mentioned: []
+places_mentioned:
+- Burra
+- Clare
+- Spalding
+- Burra Pool
+topics:
+- sports
+- swimming
+- event
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Swimming.  The triangular swimming contest between Burra, Clare and Spalding was finalised at the Burra Pool on Friday.  Clare was leading from the previous stages and clinched the shield by winning again on Friday.
+
+[Results are printed.]
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

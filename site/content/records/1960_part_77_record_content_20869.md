@@ -1,0 +1,30 @@
+---
+title: Clare South 5.8 defeated Spalding 3.16
+type: records
+slug: 1960_part_77_record_content_20869
+url: /records/1960_part_77_record_content_20869/
+record_id: 1960_part_77_record_content_20869
+date: '1964-07-14'
+date_display: null
+volume: '87'
+issue_number: 27 (2)
+page: '4'
+article_type: news
+issue_reference: 87, 27 (2), 14 July 1964, page 4 [Number previously used in 1956.]
+people_mentioned:
+- Clare South
+- Spalding
+places_mentioned:
+- Clare South
+- Spalding
+topics:
+- football
+- sports
+- results
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Clare South 5.8 defeated Spalding 3.16
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

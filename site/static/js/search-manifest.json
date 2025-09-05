@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "generatedAt": "2025-08-16T23:07:38Z",
+  "generatedAt": "2025-09-04T22:10:37Z",
   "datasets": [
+    {
+      "slug": "1900-1919-record",
+      "title": "1900 1919 Record",
+      "path": "js/search-1900-1919-record.json",
+      "docCount": 18899,
+      "checksum": "sha256-cNKV1n8Eb/dE4zVhZnw/27KkwhE/0GwhYUsrHCEU5dI="
+    },
+    {
+      "slug": "1920-39-record",
+      "title": "1920 39 Record",
+      "path": "js/search-1920-39-record.json",
+      "docCount": 19729,
+      "checksum": "sha256-735l0uLICnID65IvMYHeVYmSbL7GOZ4F7HNmN76vnuw="
+    },
+    {
+      "slug": "1940-59-record",
+      "title": "1940 59 Record",
+      "path": "js/search-1940-59-record.json",
+      "docCount": 20158,
+      "checksum": "sha256-2bS8IC/sZBn2kOOGFbolg+0uJ10lce0N+ulj/v23PLM="
+    },
+    {
+      "slug": "1960-part-77-record",
+      "title": "1960 Part 77 Record",
+      "path": "js/search-1960-part-77-record.json",
+      "docCount": 18511,
+      "checksum": "sha256-uv0OqF7RbQVN26gSlGd7gnSQQOo/lr4cDG4euI7SWuw="
+    },
+    {
+      "slug": "1978-1993-bcs-cn",
+      "title": "1978 1993 Bcs Cn",
+      "path": "js/search-1978-1993-bcs-cn.json",
+      "docCount": 7852,
+      "checksum": "sha256-RK2DciLmh5GFI1ywlyPLdI+pGePY5NMh236pmAXEZDo="
+    },
+    {
+      "slug": "1991-2016-burra-broadcaster",
+      "title": "1991 2016 Burra Broadcaster",
+      "path": "js/search-1991-2016-burra-broadcaster.json",
+      "docCount": 10358,
+      "checksum": "sha256-Q9Cxffy2PrSJfbW/p14FX5seobPRbvSZlBmOPZyeXUY="
+    },
+    {
+      "slug": "2006-13-midnorthbroadcaster",
+      "title": "2006 13 Midnorthbroadcaster",
+      "path": "js/search-2006-13-midnorthbroadcaster.json",
+      "docCount": 4080,
+      "checksum": "sha256-2od5Eqle+QktcvAZnX4QNlrvsQ4mfbuJHtQCwg5bkh4="
+    },
     {
       "slug": "record-1876-79",
       "title": "Burra in the News Record 1876–79",
@@ -15,6 +64,13 @@
       "path": "js/search-record-1880-99.json",
       "docCount": 20082,
       "checksum": "sha256-dvMpyyebjM6mmFg+NyuOodZN5pWir9txLXAKzcEOuQc="
+    },
+    {
+      "slug": "review-times-record",
+      "title": "Review Times Record",
+      "path": "js/search-review-times-record.json",
+      "docCount": 933,
+      "checksum": "sha256-M9CzY47ZBz3vz2E7XoSU2mYm7+89ZP56bS1ezBy5Bik="
     },
     {
       "slug": "northern-argus",

@@ -1,0 +1,26 @@
+---
+title: A letter of sympathy was sent to Cr Lee following his accident.
+type: records
+slug: 1940_59_record_content_33005
+url: /records/1940_59_record_content_33005/
+record_id: 1940_59_record_content_33005
+date: '1947-08-26'
+date_display: null
+volume: '70'
+issue_number: '34'
+page: '7'
+article_type: news
+issue_reference: 70, 34, 26 Aug. 1947, page 7
+people_mentioned:
+- Cr Lee
+places_mentioned: []
+topics:
+- accident
+- community
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+A letter of sympathy was sent to Cr Lee following his accident.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

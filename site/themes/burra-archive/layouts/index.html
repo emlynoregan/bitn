@@ -7,37 +7,22 @@
         <h2 class="text-3xl font-serif font-bold text-gray-800 mb-4">
             Welcome to the {{ .Site.Params.archiveTitle }} Archive
         </h2>
-        <p class="text-lg text-gray-700 mb-6 max-w-3xl mx-auto leading-relaxed">
+        <p class="text-lg text-gray-700 mb-3 max-w-3xl mx-auto leading-relaxed">
             Explore {{ .Site.Params.totalDocuments }} historical documents spanning {{ .Site.Params.dateRange }}, 
             meticulously compiled by {{ .Site.Params.compiler }}. This digital archive preserves 
             over a century of Burra's newspaper coverage, making it searchable and accessible 
             for researchers, genealogists, and history enthusiasts.
         </p>
+        
         <p class="text-gray-700 mb-6 max-w-3xl mx-auto leading-relaxed">
             This project is proudly created and published by the <strong>Burra History Group</strong>. 
             Visit the Group’s website for more resources and local history projects: 
             <a class="text-amber-700 hover:text-amber-800 underline" href="https://burrasa.net/" target="_blank" rel="noopener">burrasa.net</a>.
         </p>
-        <!-- Work-in-progress banner -->
-        <div class="max-w-3xl mx-auto text-left bg-amber-50 border border-amber-200 rounded-md p-4 mb-4">
-            <h4 class="text-amber-700 font-semibold mb-2">Work in Progress</h4>
-            <p class="text-gray-700 mb-2">This site is an early public preview. We are gradually importing Eric Fuss’s full archive into a searchable format. At present, the database includes four source documents:</p>
-            <ul class="list-disc list-inside text-gray-700 space-y-1">
-                <li><strong>SA Register (1845–1876)</strong> — early Adelaide coverage before a local paper.</li>
-                <li><strong>The Record Series (1876–1879)</strong> — the first years of the local newspaper.</li>
-                <li><strong>The Record Series (1880–1899)</strong> — late 19th-century local reporting.</li>
-                <li><strong>Northern Argus (1985–1987)</strong> — regional coverage overlapping with local items.</li>
-            </ul>
-            <p class="text-gray-700 mt-2">More documents and years are being processed and will appear here soon.</p>
-        </div>
-        <div class="flex flex-wrap justify-center gap-4">
-            <a href="/publications/" 
-               class="bg-amber-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-amber-700 transition-colors">
-                Browse Documents
-            </a>
-            
+        
+        <div class="text-center">
             <a href="/search/" 
-               class="bg-gray-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-gray-700 transition-colors block mx-auto">
+               class="inline-block bg-gray-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-gray-700 transition-colors">
                 Search Archive
             </a>
         </div>

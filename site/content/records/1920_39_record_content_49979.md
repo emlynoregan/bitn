@@ -1,0 +1,28 @@
+---
+title: Weather.  The heatwave finally broke last Wednesday and on Thursday the temperature
+  was 65°F.
+type: records
+slug: 1920_39_record_content_49979
+url: /records/1920_39_record_content_49979/
+record_id: 1920_39_record_content_49979
+date: '1934-03-21'
+date_display: null
+volume: '55'
+issue_number: '12'
+page: '2'
+article_type: news
+issue_reference: 55, 12, 21 Mar. 1934, page 2
+people_mentioned: []
+places_mentioned:
+- Baldina
+- Mongolata
+topics:
+- weather
+- rain
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+Weather.  The heatwave finally broke last Wednesday and on Thursday the temperature was 65°F.  35 points of rain fell replenishing tanks a little.  Baldina topped the falls with 90 points and Mongolata got 70.
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

@@ -1,0 +1,27 @@
+---
+title: Booborowie School Aleppo Pines for sale
+type: records
+slug: 1940_59_record_content_31947
+url: /records/1940_59_record_content_31947/
+record_id: 1940_59_record_content_31947
+date: '1947-06-17'
+date_display: null
+volume: '70'
+issue_number: 24 (2)
+page: '7'
+article_type: advertisement
+issue_reference: 70, 24 (2), 17 June 1947, page 7
+people_mentioned: []
+places_mentioned:
+- Booborowie
+topics:
+- sale
+- trees
+- school
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Booborowie School has c. 100 well grown Aleppo Pines for sale at 6 pence each.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

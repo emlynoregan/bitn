@@ -1,0 +1,26 @@
+---
+title: Goyder House Committee
+type: records
+slug: 1991_2016_burra_broadcaster_content_15153
+url: /records/1991_2016_burra_broadcaster_content_15153/
+record_id: 1991_2016_burra_broadcaster_content_15153
+date: '1998-01-28'
+date_display: null
+volume: null
+issue_number: '344'
+page: 1 & 2
+article_type: community_notice
+issue_reference: 344, 1998-01-28, page 1 & 2
+people_mentioned: []
+places_mentioned:
+- Goyder House
+topics:
+- community
+- organization
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1991-2016-burra-broadcaster
+---
+
+Goyder House Committee
+
+Source publication: [1991 2016 Burra Broadcaster](/publications/1991-2016-burra-broadcaster/)

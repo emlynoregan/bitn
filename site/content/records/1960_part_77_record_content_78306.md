@@ -1,0 +1,30 @@
+---
+title: Birth.  To Jack & Janet Dempsey (nee Harris)
+type: records
+slug: 1960_part_77_record_content_78306
+url: /records/1960_part_77_record_content_78306/
+record_id: 1960_part_77_record_content_78306
+date: '1976-03-16'
+date_display: null
+volume: '98'
+issue_number: '8'
+page: '7'
+article_type: birth
+issue_reference: 98, 8, 1976-03-16, page 7
+people_mentioned:
+- Jack Dempsey
+- Janet Dempsey
+- Janet Harris
+- Rebecca
+places_mentioned:
+- Burra District
+- QVMH
+topics:
+- birth
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Birth.  To Jack & Janet Dempsey (nee Harris) formerly of the Burra District, at QVMH, a daughter, Rebecca.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

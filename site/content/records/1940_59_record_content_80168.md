@@ -1,0 +1,31 @@
+---
+title: Advt.  Full page advertisement for Bence’s Ltd Sale of 24 January.
+type: records
+slug: 1940_59_record_content_80168
+url: /records/1940_59_record_content_80168/
+record_id: 1940_59_record_content_80168
+date: '1958-01-21'
+date_display: null
+volume: '88'
+issue_number: 2 (3)
+page: '7'
+article_type: advertisement
+issue_reference: 88, 2 (3), 21 Jan. 1958, page 7 [Third use of No. 2 in this volume.]
+people_mentioned: []
+places_mentioned:
+- Burra North
+- Royal Exchange Hotel
+- Market Square
+topics:
+- advertisement
+- transport
+- community
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Advt.  Full page advertisement for Bence’s Ltd Sale of 24 January.
+
+A free bus service leaves Royal Exchange Hotel corner Burra North at 8.45 a.m. and 1.45 p.m. and returns from Market Square at 10.45 a.m. and 4 p.m.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

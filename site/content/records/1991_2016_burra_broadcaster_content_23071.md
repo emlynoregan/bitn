@@ -1,0 +1,29 @@
+---
+title: Booborowie 39th annual reunion
+type: records
+slug: 1991_2016_burra_broadcaster_content_23071
+url: /records/1991_2016_burra_broadcaster_content_23071/
+record_id: 1991_2016_burra_broadcaster_content_23071
+date: '2000-08-16'
+date_display: null
+volume: null
+issue_number: '470'
+page: '2'
+article_type: community_notice
+issue_reference: Issue 470, 16 Aug. 2000, page 2
+people_mentioned: []
+places_mentioned:
+- Booborowie
+- Renaissance Tower Restaurant
+- Adelaide
+topics:
+- community
+- event
+- reunion
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1991-2016-burra-broadcaster
+---
+
+Booborowie will be holding its 39th annual reunion on Wednesday 30 August at 11.30 p.m. at the Renaissance Tower Restaurant in Adelaide.
+
+Source publication: [1991 2016 Burra Broadcaster](/publications/1991-2016-burra-broadcaster/)

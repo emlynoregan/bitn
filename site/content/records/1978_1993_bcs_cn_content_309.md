@@ -1,0 +1,28 @@
+---
+title: Burra Brownies and Guides first meeting
+type: records
+slug: 1978_1993_bcs_cn_content_309
+url: /records/1978_1993_bcs_cn_content_309/
+record_id: 1978_1993_bcs_cn_content_309
+date: '1987-02-12'
+date_display: null
+volume: null
+issue_number: null
+page: Supplement
+article_type: community_notice
+issue_reference: 1987-02-12, page Supplement
+people_mentioned:
+- Burra Brownies and Guides
+places_mentioned:
+- Roche Bros Hall
+topics:
+- community
+- youth
+- meeting
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1978-1993-bcs-cn
+---
+
+Burra Brownies and Guides will hold their first meeting on 17 November at Roche Bros Hall.
+
+Source publication: [1978 1993 Bcs Cn](/publications/1978-1993-bcs-cn/)

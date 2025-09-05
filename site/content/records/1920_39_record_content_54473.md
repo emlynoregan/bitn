@@ -1,0 +1,29 @@
+---
+title: The Institute Choral & Orchestral Classes contributed the major part of the
+  Christmas Concert
+type: records
+slug: 1920_39_record_content_54473
+url: /records/1920_39_record_content_54473/
+record_id: 1920_39_record_content_54473
+date: '1935-01-30'
+date_display: null
+volume: '56'
+issue_number: '5'
+page: '1'
+article_type: news
+issue_reference: 56, 5, 1935-01-30, page 1
+people_mentioned:
+- Mr G.E. Dane
+places_mentioned:
+- the Hospital
+topics:
+- event
+- music
+- hospital
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+The Institute Choral & Orchestral Classes under Mr G.E. Dane again contributed the major part of the Christmas Concert at the Hospital.
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

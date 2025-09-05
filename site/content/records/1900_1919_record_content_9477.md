@@ -1,0 +1,28 @@
+---
+title: Fitzgerald’s Circus is due soon in Burra.
+type: records
+slug: 1900_1919_record_content_9477
+url: /records/1900_1919_record_content_9477/
+record_id: 1900_1919_record_content_9477
+date: '1904-01-13'
+date_display: null
+volume: XV
+issue_number: '608'
+page: '3'
+article_type: news
+issue_reference: XV, 608, 13 Jan. 1904, page 3
+people_mentioned:
+- Fitzgerald’s Circus
+places_mentioned:
+- Burra
+topics:
+- event
+- entertainment
+- community
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1900-1919-record
+---
+
+Fitzgerald’s Circus is due soon in Burra.
+
+Source publication: [1900 1919 Record](/publications/1900-1919-record/)

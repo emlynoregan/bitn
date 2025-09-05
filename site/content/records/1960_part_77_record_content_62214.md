@@ -1,0 +1,30 @@
+---
+title: Birth.
+type: records
+slug: 1960_part_77_record_content_62214
+url: /records/1960_part_77_record_content_62214/
+record_id: 1960_part_77_record_content_62214
+date: '1972-07-18'
+date_display: null
+volume: '94'
+issue_number: '27'
+page: '2'
+article_type: birth
+issue_reference: 94, 27, 18 July 1972, page 2
+people_mentioned:
+- Ros Lucas
+- John Lucas
+- Matthew Scott
+places_mentioned:
+- Hallett
+- Burra Hospital
+topics:
+- birth
+- family
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Birth.  To Ros & John Lucas of Hallett at Burra Hospital 14 July, a son, Matthew Scott.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

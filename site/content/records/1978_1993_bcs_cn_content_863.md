@@ -1,0 +1,31 @@
+---
+title: Marriage. Robertstown Holy Cross Lutheran Church, next Saturday
+type: records
+slug: 1978_1993_bcs_cn_content_863
+url: /records/1978_1993_bcs_cn_content_863/
+record_id: 1978_1993_bcs_cn_content_863
+date: '1987-02-12'
+date_display: null
+volume: null
+issue_number: null
+page: Supplement
+article_type: marriage
+issue_reference: 1987-02-12, page Supplement
+people_mentioned:
+- Wendy Ross
+- Lindsay Schmidt
+places_mentioned:
+- Robertstown Holy Cross Lutheran Church
+- BCS
+topics:
+- marriage
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1978-1993-bcs-cn
+---
+
+Marriage.  Robertstown Holy Cross Lutheran Church, next Saturday
+
+Wendy Ross, BCS bursar, will marry Lindsay Schmidt.
+
+
+Source publication: [1978 1993 Bcs Cn](/publications/1978-1993-bcs-cn/)

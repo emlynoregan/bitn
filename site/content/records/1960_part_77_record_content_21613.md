@@ -1,0 +1,32 @@
+---
+title: Football.  Semi-Final
+type: records
+slug: 1960_part_77_record_content_21613
+url: /records/1960_part_77_record_content_21613/
+record_id: 1960_part_77_record_content_21613
+date: '1964-09-15'
+date_display: null
+volume: '87'
+issue_number: 37 (2)
+page: '6'
+article_type: news
+issue_reference: 87, 37 (2), 15 Sep. 1964, page 6 [Number previously used in 1956.]
+people_mentioned: []
+places_mentioned:
+- Riverton
+- Robertstown
+- United
+topics:
+- football
+- match result
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Football.  Semi-Final
+
+‘A’ Grade	Riverton 25.12 defeated Robertstown 8.6
+
+Colts	United 8.5 drew with Riverton 8.5
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

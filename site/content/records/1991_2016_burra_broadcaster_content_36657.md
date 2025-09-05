@@ -1,0 +1,26 @@
+---
+title: Numbers attending are down and barely covering hall hire.
+type: records
+slug: 1991_2016_burra_broadcaster_content_36657
+url: /records/1991_2016_burra_broadcaster_content_36657/
+record_id: 1991_2016_burra_broadcaster_content_36657
+date: '2005-05-25'
+date_display: null
+volume: null
+issue_number: '695'
+page: '1'
+article_type: community_notice
+issue_reference: 695, 2005-05-25, page 1
+people_mentioned: []
+places_mentioned: []
+topics:
+- community
+- event
+- film
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1991-2016-burra-broadcaster
+---
+
+Numbers attending are down and barely covering hall hire.  Community support is needed if screenings are to continue.
+
+Source publication: [1991 2016 Burra Broadcaster](/publications/1991-2016-burra-broadcaster/)

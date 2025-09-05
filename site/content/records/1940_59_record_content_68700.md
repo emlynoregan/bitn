@@ -1,0 +1,27 @@
+---
+title: Advt.  A Supershell advertisement reveals the recent introduction of super
+  grade petrol.
+type: records
+slug: 1940_59_record_content_68700
+url: /records/1940_59_record_content_68700/
+record_id: 1940_59_record_content_68700
+date: '1955-07-12'
+date_display: null
+volume: '85'
+issue_number: '27'
+page: 6 [Numbered 4]
+article_type: advertisement
+issue_reference: 85, 27, 12 July 1955, page 6 [Numbered 4]
+people_mentioned:
+- Supershell
+places_mentioned: []
+topics:
+- business
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Advt.  A Supershell advertisement reveals the recent introduction of super grade petrol.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

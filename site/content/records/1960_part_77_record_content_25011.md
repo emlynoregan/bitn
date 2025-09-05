@@ -1,0 +1,29 @@
+---
+title: Best players for Burra were K. Jones & Wasley.
+type: records
+slug: 1960_part_77_record_content_25011
+url: /records/1960_part_77_record_content_25011/
+record_id: 1960_part_77_record_content_25011
+date: '1965-06-22'
+date_display: null
+volume: '88'
+issue_number: 24 (2)
+page: '1'
+article_type: news
+issue_reference: 88, 24 (2), 22 June 1965, page 1 [Number previously used in 1958.]
+people_mentioned:
+- K. Jones
+- Wasley
+places_mentioned:
+- Burra
+topics:
+- sport
+- football
+- award
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Best players for Burra were K. Jones & Wasley.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

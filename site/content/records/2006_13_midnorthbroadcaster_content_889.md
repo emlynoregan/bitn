@@ -1,0 +1,23 @@
+---
+title: Edition 747 15 June 2006, page 2
+type: records
+slug: 2006_13_midnorthbroadcaster_content_889
+url: /records/2006_13_midnorthbroadcaster_content_889/
+record_id: 2006_13_midnorthbroadcaster_content_889
+date: '2006-06-15'
+date_display: null
+volume: Edition 745 (2)
+issue_number: '747'
+page: '2'
+article_type: other
+issue_reference: Edition 745 (2), 747, 2006-06-15, page 2
+people_mentioned: []
+places_mentioned: []
+topics: []
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 2006-13-midnorthbroadcaster
+---
+
+Edition 747 15 June 2006, page 2
+
+Source publication: [2006 13 Midnorthbroadcaster](/publications/2006-13-midnorthbroadcaster/)

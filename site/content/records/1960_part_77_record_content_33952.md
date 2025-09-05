@@ -1,0 +1,27 @@
+---
+title: Champion of Champions
+type: records
+slug: 1960_part_77_record_content_33952
+url: /records/1960_part_77_record_content_33952/
+record_id: 1960_part_77_record_content_33952
+date: '1967-04-11'
+date_display: null
+volume: '90'
+issue_number: 14 (2)
+page: '8'
+article_type: news
+issue_reference: 90, 14 (2), 11 Apr. 1967, page 8 [Number used before in 1961.]
+people_mentioned:
+- Edna Bails
+places_mentioned:
+- Peterborough
+topics:
+- sport
+- bowls
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Champion of Champions		Edna Bails of Peterborough
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

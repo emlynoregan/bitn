@@ -1,0 +1,27 @@
+---
+title: Photographs were very rare
+type: records
+slug: 1920_39_record_content_14633
+url: /records/1920_39_record_content_14633/
+record_id: 1920_39_record_content_14633
+date: '1924-12-24'
+date_display: null
+volume: XXXXVI
+issue_number: '51'
+page: Supplement (A3 single side)
+article_type: other
+issue_reference: XXXXVI, 51, 1924-12-24, page Supplement (A3 single side)
+people_mentioned: []
+places_mentioned:
+- new showgrounds
+topics:
+- photograph
+- event
+- show
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+Photographs are very rare and were virtually confined to the opening of the new showgrounds.
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)

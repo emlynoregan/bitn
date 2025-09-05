@@ -1,0 +1,28 @@
+---
+title: Councillors are invited to the opening of the new tennis courts in Burra on
+  Sunday.
+type: records
+slug: 1960_part_77_record_content_76900
+url: /records/1960_part_77_record_content_76900/
+record_id: 1960_part_77_record_content_76900
+date: '1975-10-21'
+date_display: null
+volume: '97'
+issue_number: '38'
+page: '1'
+article_type: community_notice
+issue_reference: 97, 38, 21 Oct. 1975, page 1
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- community
+- events
+- recreation
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Councillors are invited to the opening of the new tennis courts in Burra on Sunday.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

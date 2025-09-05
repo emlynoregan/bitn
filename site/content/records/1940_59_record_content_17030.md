@@ -1,0 +1,31 @@
+---
+title: Shearing cut out at Sturt Vale on Thursday
+type: records
+slug: 1940_59_record_content_17030
+url: /records/1940_59_record_content_17030/
+record_id: 1940_59_record_content_17030
+date: '1944-04-04'
+date_display: null
+volume: '64'
+issue_number: '14'
+page: '1'
+article_type: news
+issue_reference: 64, 14, 4 Apr. 1944, page 1
+people_mentioned:
+- I.J. Warnes & Sons
+- Gallagher & Sons
+places_mentioned:
+- Sturt Vale
+- Koomooloo
+- Oakbank
+- Quondong
+topics:
+- agriculture
+- shearing
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Shearing cut out at Sturt Vale on Thursday and the team of ten shearers moved on to Koomooloo (also the property of I.J. Warnes & Sons).  Shearing has also finished at Oakbank and the team moved on to Gallagher & Sons’ Property of Quondong.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

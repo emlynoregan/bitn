@@ -1,0 +1,33 @@
+---
+title: Page 2 Advertisements
+type: records
+slug: 1940_59_record_content_53173
+url: /records/1940_59_record_content_53173/
+record_id: 1940_59_record_content_53173
+date: '1952-01-08'
+date_display: null
+volume: '78'
+issue_number: '1'
+page: '2'
+article_type: advertisement
+issue_reference: 78, 1, 8 Jan. 1952
+people_mentioned: []
+places_mentioned:
+- Air Force assoc. Rooms
+topics:
+- business
+- advertisement
+- auctions
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Page 2 Advertisements
+
+Elder, Smith & Co. Ltd	Auctioneers, etc.
+
+Goldsbrough, Mort & Co. Ltd	Auctioneers, etc.
+
+Potter & Pank	Certified Opticians, Air Force assoc. Rooms
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

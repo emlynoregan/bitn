@@ -1,0 +1,32 @@
+---
+title: Leighton Red Cross Circle AGM
+type: records
+slug: 1940_59_record_content_6603
+url: /records/1940_59_record_content_6603/
+record_id: 1940_59_record_content_6603
+date: '1941-07-22'
+date_display: null
+volume: '62'
+issue_number: '29'
+page: '1'
+article_type: community_notice
+issue_reference: 62, 29, 22 July 1941, page 1
+people_mentioned:
+- Mrs R.W. Humphrys
+- M. Hogan
+- Alan Drew
+- Arthur Gask
+- Miss Gwen Humphrys
+places_mentioned:
+- Leighton
+topics:
+- Red Cross
+- meeting
+- organization
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Leighton Red Cross Circle held its AGM on 16 July.    Elected: President, Mrs R.W. Humphrys; Vice-Presidents, Mesdames M. Hogan, Alan Drew & Arthur Gask; Secretary & Treasurer, Miss Gwen Humphrys.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

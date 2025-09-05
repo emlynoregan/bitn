@@ -1,0 +1,32 @@
+---
+title: Birth.  To Dr Anthony & Mrs Peggy Barker of Baldina at Burra Hospital 31 March,
+  a son, David John Edgar.
+type: records
+slug: 1960_part_77_record_content_78536
+url: /records/1960_part_77_record_content_78536/
+record_id: 1960_part_77_record_content_78536
+date: '1976-04-06'
+date_display: null
+volume: '98'
+issue_number: '11'
+page: '7'
+article_type: birth
+issue_reference: 98, 11, 6 Apr. 1976, page 7
+people_mentioned:
+- Dr Anthony Barker
+- Mrs Peggy Barker
+- David John Edgar
+places_mentioned:
+- Baldina
+- Burra Hospital
+- Burra
+topics:
+- birth
+- hospital
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Birth.  To Dr Anthony & Mrs Peggy Barker of Baldina at Burra Hospital 31 March, a son, David John Edgar.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

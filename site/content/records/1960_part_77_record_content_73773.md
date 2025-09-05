@@ -1,0 +1,27 @@
+---
+title: Matthews Emporium Ltd
+type: records
+slug: 1960_part_77_record_content_73773
+url: /records/1960_part_77_record_content_73773/
+record_id: 1960_part_77_record_content_73773
+date: '1975-01-21'
+date_display: null
+volume: '97'
+issue_number: '1'
+page: '3'
+article_type: advertisement
+issue_reference: 97, 1, 21 Jan. 1975, page 3
+people_mentioned:
+- Matthews Emporium Ltd
+places_mentioned: []
+topics:
+- business
+- retail
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Matthews Emporium Ltd	Drapers and Clothiers
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

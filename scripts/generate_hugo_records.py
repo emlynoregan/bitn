@@ -20,6 +20,7 @@ import sys
 from pathlib import Path
 from typing import Any, Dict, List
 import re
+from datetime import datetime
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -54,10 +55,20 @@ def slugify_from_source_document(source_document: str) -> str:
     return s.lower() or "record"
 
 
-def is_iso_date(value: Any) -> bool:
+def is_parsable_iso_date(value: Any) -> bool:
+    """Return True only if value is a valid calendar date in YYYY-MM-DD.
+    Filters out strings that match the pattern but are not real dates (e.g., 1949-02-29).
+    """
     if not isinstance(value, str):
         return False
-    return re.match(r"^\d{4}-\d{2}-\d{2}$", value) is not None
+    if not re.match(r"^\d{4}-\d{2}-\d{2}$", value):
+        return False
+    try:
+        # Will raise ValueError for invalid dates like 1949-02-29
+        datetime.strptime(value, "%Y-%m-%d")
+        return True
+    except Exception:
+        return False
 
 
 def hyphenize(value: str) -> str:
@@ -167,10 +178,11 @@ This section contains individual records (articles, notices, letters, etc.) extr
         headline = meta.get("headline") or excerpt(r.get("original_text") or "")
 
         # Write content file
-        # Normalize date: Hugo requires parsable date in front matter; move non-ISO to separate field
+        # Normalize date: Hugo requires parsable date in front matter; move non-parsable to separate field
         date_val = meta.get("date")
-        hugo_date = date_val if is_iso_date(date_val) else None
-        date_display = date_val if not is_iso_date(date_val) else None
+        is_valid_date = is_parsable_iso_date(date_val)
+        hugo_date = date_val if is_valid_date else None
+        date_display = date_val if not is_valid_date else None
 
         fm = {
             "title": headline,
@@ -205,11 +217,13 @@ This section contains individual records (articles, notices, letters, etc.) extr
 
         # Add to per-publication search index
         prefix = slugify_from_source_document(r.get("source_document") or "")
+        # Use an excerpt to keep the client-side search payload small
+        text_excerpt = excerpt(r.get("original_text") or "", length=400)
         search_items.append({
             "title": headline,
             "url": permalink,
             "content": " ".join([
-                r.get("original_text") or "",
+                text_excerpt,
                 " ".join(meta.get("people_mentioned", [])),
                 " ".join(meta.get("places_mentioned", [])),
                 " ".join(meta.get("topics", [])),

@@ -1,0 +1,27 @@
+---
+title: Pet Show at Hanson raised funds for Red Cross
+type: records
+slug: 1940_59_record_content_15628
+url: /records/1940_59_record_content_15628/
+record_id: 1940_59_record_content_15628
+date: '1943-12-07'
+date_display: null
+volume: '63'
+issue_number: 49 (2)
+page: '1'
+article_type: news
+issue_reference: 63, 49 (2), 7 Dec. 1943, page 1
+people_mentioned: []
+places_mentioned:
+- Hanson
+topics:
+- fundraising
+- community
+- Red Cross
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+A Pet Show at Hanson on 20 November raised £10-7-0 for Red Cross.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

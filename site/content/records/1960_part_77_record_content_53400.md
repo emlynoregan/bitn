@@ -1,0 +1,30 @@
+---
+title: Birth.  To Mr & Mrs Bland of the Bank of Adelaide, Booborowie, a son, David
+  Anthony.
+type: records
+slug: 1960_part_77_record_content_53400
+url: /records/1960_part_77_record_content_53400/
+record_id: 1960_part_77_record_content_53400
+date: '1970-10-06'
+date_display: null
+volume: '92'
+issue_number: '39'
+page: '6'
+article_type: birth
+issue_reference: 92, 39, 6 Oct. 1970, page 6
+people_mentioned:
+- Mr & Mrs Bland
+- David Anthony
+places_mentioned:
+- Bank of Adelaide
+- Booborowie
+topics:
+- birth
+- family
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Birth.  To Mr & Mrs Bland of the Bank of Adelaide, Booborowie, a son, David Anthony.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

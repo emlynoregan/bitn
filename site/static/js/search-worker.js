@@ -2,6 +2,7 @@
 
 let docs = [];
 let index = null;
+let docByRef = null; // url -> doc for O(1) lookup
 
 function buildIndex() {
   index = lunr(function () {
@@ -36,6 +37,11 @@ async function init(baseUrl) {
     });
     const parts = await Promise.all(datasetPromises);
     docs = parts.flat();
+    // Build a dictionary for fast ref->doc lookups
+    docByRef = Object.create(null);
+    for (const d of docs) {
+      if (d && typeof d.url === 'string') docByRef[d.url] = d;
+    }
     if (typeof lunr !== 'undefined') {
       buildIndex();
     } else {
@@ -50,10 +56,25 @@ async function init(baseUrl) {
 function handleSearch(q) {
   if (!index) return postMessage({ type: 'search-result', q, results: [] });
   try {
+    if (!docByRef) throw new Error('docByRef not initialized');
+
+    const t0 = (typeof performance !== 'undefined' && performance.now) ? performance.now() : Date.now();
     const hits = index.search(q);
-    const out = hits.map(h => docs.find(d => d.url === h.ref)).filter(Boolean).slice(0, 50);
+    const t1 = (typeof performance !== 'undefined' && performance.now) ? performance.now() : Date.now();
+
+    const out = [];
+    for (let i = 0; i < hits.length && out.length < 50; i++) {
+      const ref = hits[i].ref;
+      const d = docByRef[ref];
+      if (!d) throw new Error('No document found for ref: ' + ref);
+      out.push(d);
+    }
+    const t2 = (typeof performance !== 'undefined' && performance.now) ? performance.now() : Date.now();
+
+    try { console.log('[worker] search timing', { q, hits: hits.length, indexMs: (t1 - t0).toFixed(1), mapMs: (t2 - t1).toFixed(1), totalMs: (t2 - t0).toFixed(1) }); } catch(_) {}
     postMessage({ type: 'search-result', q, results: out });
   } catch (e) {
+    try { console.error('[worker] search error', e); } catch(_) {}
     postMessage({ type: 'search-result', q, results: [] });
   }
 }

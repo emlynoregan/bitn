@@ -1,0 +1,28 @@
+---
+title: Aberdeen 11-87 defeated Willalo 7-71
+type: records
+slug: 1940_59_record_content_979
+url: /records/1940_59_record_content_979/
+record_id: 1940_59_record_content_979
+date: '1940-03-26'
+date_display: null
+volume: '61'
+issue_number: '14'
+page: '2'
+article_type: news
+issue_reference: '61, 14, 26 Mar. 1940, Page 2 [Note: there is no number 13.]'
+people_mentioned: []
+places_mentioned:
+- Aberdeen
+- Willalo
+topics:
+- sports
+- tennis
+- results
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Aberdeen 11-87 defeated Willalo 7-71
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

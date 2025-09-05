@@ -1,0 +1,26 @@
+---
+title: Weather.  The rain that was continuing when we last printed delivered good
+  falls to the east, with reported totals ranging from 50 points to 150 points.
+type: records
+slug: 1940_59_record_content_7974
+url: /records/1940_59_record_content_7974/
+record_id: 1940_59_record_content_7974
+date: '1941-11-11'
+date_display: null
+volume: '62'
+issue_number: '44'
+page: '2'
+article_type: news
+issue_reference: 62, 44, 11 November 1941, page 2
+people_mentioned: []
+places_mentioned:
+- east
+topics:
+- weather
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1940-59-record
+---
+
+Weather.  The rain that was continuing when we last printed delivered good falls to the east, with reported totals ranging from 50 points to 150 points.  Most stations report all dams full.
+
+Source publication: [1940 59 Record](/publications/1940-59-record/)

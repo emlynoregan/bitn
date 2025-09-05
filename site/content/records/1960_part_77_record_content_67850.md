@@ -1,0 +1,39 @@
+---
+title: Court
+type: records
+slug: 1960_part_77_record_content_67850
+url: /records/1960_part_77_record_content_67850/
+record_id: 1960_part_77_record_content_67850
+date: '1973-08-28'
+date_display: null
+volume: '95'
+issue_number: '33'
+page: '5'
+article_type: news
+issue_reference: 95, 33, 1973-08-28, page 5
+people_mentioned:
+- a 31-year-old Burra woman
+- her children
+- a 16-year-old youth
+- a 15-year-old
+- a 14-year-old youth
+- an 11-year-old female
+places_mentioned:
+- Burra
+- McNally Training Centre
+topics:
+- legal
+- court
+- house-breaking
+- larceny
+- juvenile
+- theft
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1960-part-77-record
+---
+
+Court
+
+Following house-breaking and larceny reports on 17 July a 31-year-old Burra woman was sentenced to three months for receiving money knowing it to have been stolen.  (She received it from her children.)  A 16-year-old youth and a 15-year-old were charged with breaking into premises.  The 16-year-old was sent to McNally Training Centre till 18 and the 15-year-old’s case is being reviewed.  A 14-year-old youth is also on remand.  A charge against an 11-year-old female for receiving stolen money was found proved, but dismissed under the Juvenile Courts Act.  $220 was recovered and will be returned.
+
+Source publication: [1960 Part 77 Record](/publications/1960-part-77-record/)

@@ -1,0 +1,29 @@
+---
+title: Advt.  Theatregraph Pictures presents Superstar Mary Regan 8 July.
+type: records
+slug: 1920_39_record_content_1663
+url: /records/1920_39_record_content_1663/
+record_id: 1920_39_record_content_1663
+date: '1920-07-07'
+date_display: null
+volume: XXXXII
+issue_number: '27'
+page: '2'
+article_type: advertisement
+issue_reference: XXXXII, 27, 7 July 1920, page 2
+people_mentioned:
+- Mary Regan
+places_mentioned:
+- Theatregraph Pictures
+topics:
+- advertisement
+- theatre
+- entertainment
+source_document: 1985-87_Northern__Argus.md
+publication_slug: 1920-39-record
+---
+
+Advt.  Theatregraph Pictures presents Superstar Mary Regan 8 July.
+
+
+Source publication: [1920 39 Record](/publications/1920-39-record/)
