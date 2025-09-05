@@ -3,16 +3,30 @@
 let docs = [];
 let index = null;
 let docByRef = null; // url -> doc for O(1) lookup
+let totalDatasets = 0;
+let loadedDatasets = 0;
+let loadedDocs = 0;
 
 function buildIndex() {
+  const total = docs.length;
+  try { postMessage({ type: 'progress', phase: 'index-start', totalDocs: total }); } catch(_) {}
+  let added = 0;
+  const CHUNK = 2000; // coarse progress; avoid spamming
   index = lunr(function () {
     this.ref('url');
     this.field('title', { boost: 10 });
     this.field('type', { boost: 5 });
     this.field('date', { boost: 3 });
     this.field('content');
-    for (const d of docs) this.add(d);
+    for (const d of docs) {
+      this.add(d);
+      added++;
+      if (added % CHUNK === 0) {
+        try { postMessage({ type: 'progress', phase: 'index-progress', addedDocs: added, totalDocs: total }); } catch(_) {}
+      }
+    }
   });
+  try { postMessage({ type: 'progress', phase: 'index-complete', totalDocs: total }); } catch(_) {}
 }
 
 async function init(baseUrl) {
@@ -25,6 +39,10 @@ async function init(baseUrl) {
     if (!mRes.ok) throw new Error('Failed to load search-manifest.json: ' + mRes.status);
     const manifest = await mRes.json();
     const datasets = Array.isArray(manifest && manifest.datasets) ? manifest.datasets : [];
+    totalDatasets = datasets.length;
+    loadedDatasets = 0;
+    loadedDocs = 0;
+    try { postMessage({ type: 'progress', phase: 'manifest', totalDatasets }); } catch(_) {}
     // Fetch all datasets concurrently
     const datasetPromises = datasets.map(async (ds) => {
       const path = (ds && ds.path) || '';
@@ -33,10 +51,15 @@ async function init(baseUrl) {
       if (!res.ok) throw new Error('Failed to load dataset ' + path + ': ' + res.status);
       const payload = await res.json();
       const arr = Array.isArray(payload && payload.docs) ? payload.docs : [];
+      // Update progress after each dataset loads
+      loadedDatasets++;
+      loadedDocs += arr.length;
+      try { postMessage({ type: 'progress', phase: 'dataset', loadedDatasets, totalDatasets, loadedDocs }); } catch(_) {}
       return arr;
     });
     const parts = await Promise.all(datasetPromises);
     docs = parts.flat();
+    try { postMessage({ type: 'progress', phase: 'datasets-complete', totalDatasets, loadedDocs: docs.length }); } catch(_) {}
     // Build a dictionary for fast ref->doc lookups
     docByRef = Object.create(null);
     for (const d of docs) {
